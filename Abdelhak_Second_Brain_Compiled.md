@@ -4180,57 +4180,6 @@ UM6P, Maroc
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md (~211 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-25
-tags: [conference, ESPC6, phosphorus, abstract, email]
-status: sent — 2026-05-25
----
-
-# Email — ESPC6 Abstract Submission
-
-**Conference:** 6th European Sustainable Phosphorus Conference (ESPC6)
-**Date:** November 24–26, 2026
-**Location:** UM6P, Benguerir, Morocco
-**Abstract deadline:** May 31, 2026
-**Contact:** [retrieve from https://www.phosphorusplatform.eu/espc6#registration — email is spam-protected]
-**Abstract file:** `.raw/Abstract-Sustainable phosphorus.docx`
-
----
-
-**Subject:** Abstract Submission — ESPC6 | Hyperspectral Mapping of Phosphate Mine Waste Rocks
-
-Dear ESPC6 Organizing Committee,
-
-Please find attached my abstract for consideration at the 6th European Sustainable Phosphorus Conference (ESPC6, November 24–26, 2026, UM6P, Benguerir).
-
-**Title:** Spatially Constrained Machine Learning for PRISMA-Based Lithological Mapping of Phosphate Mine Waste Rocks
-
-**Authors:** Abdelhak El Mansour, Jamal-Eddine Ouzemou, Abdellatif Elghali, Malak Elmeknassi, Rachid Hakkou, Mostafa Benzaazoua, Ahmed Laamrani
-
-**Affiliation:** GSMI / CRSA, Mohammed VI Polytechnic University, Benguerir, Morocco
-
-The study presents a spaceborne hyperspectral framework for lithological mapping of phosphate waste rock piles at the Benguerir mine, directly relevant to sustainable phosphate waste management and selective recovery — core themes of ESPC6. I would welcome the opportunity to present as either an oral or poster contribution.
-
-Yours sincerely,
-
-Abdelhak El Mansour
-PhD Candidate, GSMI — UM6P
-abdelhak.elmansour@um6p.ma
-
----
-
-## Checklist
-- [x] Retrieve contact email from ESPC6 website
-- [x] Attach `.raw/Abstract-Sustainable phosphorus.docx`
-- [x] Sent 2026-05-25
-
-
-
-
-================================================================================
 FILE: 02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist.md (~280 words)
 ================================================================================
 ---
@@ -4649,6 +4598,57 @@ tags: [job-application, VITO, checklist]
 - Do NOT email HR directly unless the portal fails
 - After submitting, mark the tracker in `Hot Opportunities — May 2026.md`
 - If no confirmation email within 24h, check your spam folder
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md (~211 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-25
+tags: [conference, ESPC6, phosphorus, abstract, email]
+status: sent — 2026-05-25
+---
+
+# Email — ESPC6 Abstract Submission
+
+**Conference:** 6th European Sustainable Phosphorus Conference (ESPC6)
+**Date:** November 24–26, 2026
+**Location:** UM6P, Benguerir, Morocco
+**Abstract deadline:** May 31, 2026
+**Contact:** [retrieve from https://www.phosphorusplatform.eu/espc6#registration — email is spam-protected]
+**Abstract file:** `.raw/Abstract-Sustainable phosphorus.docx`
+
+---
+
+**Subject:** Abstract Submission — ESPC6 | Hyperspectral Mapping of Phosphate Mine Waste Rocks
+
+Dear ESPC6 Organizing Committee,
+
+Please find attached my abstract for consideration at the 6th European Sustainable Phosphorus Conference (ESPC6, November 24–26, 2026, UM6P, Benguerir).
+
+**Title:** Spatially Constrained Machine Learning for PRISMA-Based Lithological Mapping of Phosphate Mine Waste Rocks
+
+**Authors:** Abdelhak El Mansour, Jamal-Eddine Ouzemou, Abdellatif Elghali, Malak Elmeknassi, Rachid Hakkou, Mostafa Benzaazoua, Ahmed Laamrani
+
+**Affiliation:** GSMI / CRSA, Mohammed VI Polytechnic University, Benguerir, Morocco
+
+The study presents a spaceborne hyperspectral framework for lithological mapping of phosphate waste rock piles at the Benguerir mine, directly relevant to sustainable phosphate waste management and selective recovery — core themes of ESPC6. I would welcome the opportunity to present as either an oral or poster contribution.
+
+Yours sincerely,
+
+Abdelhak El Mansour
+PhD Candidate, GSMI — UM6P
+abdelhak.elmansour@um6p.ma
+
+---
+
+## Checklist
+- [x] Retrieve contact email from ESPC6 website
+- [x] Attach `.raw/Abstract-Sustainable phosphorus.docx`
+- [x] Sent 2026-05-25
 
 
 
@@ -5667,56 +5667,6 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR.md (~302 words)
-================================================================================
----
-generated_by: claude
-date: 2026-06-04
-tags: [job-application, DLR, cold-email, postdoc]
-target: Dr. Tobias Storch — DLR IMF, Oberpfaffenhofen, Germany
-contact: tobias.storch@dlr.de | sarah.asam@dlr.de
-send: after June 30, 2026 (post-defense)
-fit: 10/10 — EnMAP mission scientist, exact overlap with thesis
----
-
-# Cold Email — Dr. Tobias Storch, DLR IMF
-
-**To:** tobias.storch@dlr.de
-**CC:** sarah.asam@dlr.de
-**Subject:** Postdoctoral Researcher Inquiry — Hyperspectral EO & EnMAP Applications (PhD defended June 2026)
-
----
-
-Dear Dr. Storch,
-
-I am writing to inquire about postdoctoral opportunities at DLR IMF in hyperspectral remote sensing and EnMAP applications.
-
-I defended my PhD at UM6P (Morocco) on June 30, 2026. My thesis — *Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks* — was built on PRISMA and EnMAP satellite data, and produced a validated operational product: the Reclamation Progress Index (RPI), derived from EnMAP spectral unmixing (VCA-FCLS), with AUC = 1.000 and Spearman ρ = 0.845 against XRF ground truth (p = 1.74 × 10⁻¹²).
-
-My technical stack maps directly onto the work of your group:
-
-- End-to-end EnMAP processing pipelines in Python (1,776-line engine: atmospheric correction, bad-band removal, endmember extraction, unmixing, validation)
-- PRISMA + EnMAP hyperspectral classification (Random Forest, Extra Trees, spatial CV)
-- Spectral library matching (USGS/ECOSTRESS), SAM/SID/NNLS, VCA-FCLS unmixing
-- 4 peer-reviewed publications during PhD; 2 more in pipeline
-
-I followed the EnMAP mission closely throughout my PhD — it is the satellite that made Chapter 3 of my thesis possible. DLR IMF is the group I most want to be part of.
-
-I am available from July 2026 and open to relocation to Oberpfaffenhofen. I would be glad to share my CV, thesis, or any additional material at your request.
-
-Thank you for your time.
-
-Yours sincerely,
-
-**Abdelhak EL MANSOUR**
-insitazoult@gmail.com | +212 117 164 00
-scholar.google.com/citations?user=ysUOZQ0AAAAJ
-UM6P, Benguerir, Morocco
-
-
-
-
-================================================================================
 FILE: 02_Academic & Work/work/applications/UTwente-2026/CV — UTwente.md (~634 words)
 ================================================================================
 ---
@@ -5905,35 +5855,51 @@ scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/meetings/README.md (~133 words)
+FILE: 02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR.md (~302 words)
 ================================================================================
 ---
-tags: [work, inbox, meetings]
+generated_by: claude
+date: 2026-06-04
+tags: [job-application, DLR, cold-email, postdoc]
+target: Dr. Tobias Storch — DLR IMF, Oberpfaffenhofen, Germany
+contact: tobias.storch@dlr.de | sarah.asam@dlr.de
+send: after June 30, 2026 (post-defense)
+fit: 10/10 — EnMAP mission scientist, exact overlap with thesis
 ---
 
-# Meetings Inbox
+# Cold Email — Dr. Tobias Storch, DLR IMF
 
-Drop raw meeting notes here before processing.
+**To:** tobias.storch@dlr.de
+**CC:** sarah.asam@dlr.de
+**Subject:** Postdoctoral Researcher Inquiry — Hyperspectral EO & EnMAP Applications (PhD defended June 2026)
 
-## Usage
+---
 
-1. Export or write your note in this folder
-2. File naming: `YYYY-MM-DD <Topic or Person>.md`
-3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
+Dear Dr. Storch,
 
-## What `/om-intake` does with each file
+I am writing to inquire about postdoctoral opportunities at DLR IMF in hyperspectral remote sensing and EnMAP applications.
 
-| Detected content | Destination |
-|-----------------|-------------|
-| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
-| Project update | Append to `work/active/<Project>.md` |
-| Decision reached | New Decision Record + `work/Index.md` |
-| Action item | `- [ ]` in the relevant note |
-| Win / recognition | `perf/Brag Doc.md` |
-| New person mentioned | Stub in `org/people/<Name>.md` |
-| Blocker identified | `## Blockers` section in active note |
+I defended my PhD at UM6P (Morocco) on June 30, 2026. My thesis — *Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks* — was built on PRISMA and EnMAP satellite data, and produced a validated operational product: the Reclamation Progress Index (RPI), derived from EnMAP spectral unmixing (VCA-FCLS), with AUC = 1.000 and Spearman ρ = 0.845 against XRF ground truth (p = 1.74 × 10⁻¹²).
 
-For freeform unstructured content, use `/om-dump` instead.
+My technical stack maps directly onto the work of your group:
+
+- End-to-end EnMAP processing pipelines in Python (1,776-line engine: atmospheric correction, bad-band removal, endmember extraction, unmixing, validation)
+- PRISMA + EnMAP hyperspectral classification (Random Forest, Extra Trees, spatial CV)
+- Spectral library matching (USGS/ECOSTRESS), SAM/SID/NNLS, VCA-FCLS unmixing
+- 4 peer-reviewed publications during PhD; 2 more in pipeline
+
+I followed the EnMAP mission closely throughout my PhD — it is the satellite that made Chapter 3 of my thesis possible. DLR IMF is the group I most want to be part of.
+
+I am available from July 2026 and open to relocation to Oberpfaffenhofen. I would be glad to share my CV, thesis, or any additional material at your request.
+
+Thank you for your time.
+
+Yours sincerely,
+
+**Abdelhak EL MANSOUR**
+insitazoult@gmail.com | +212 117 164 00
+scholar.google.com/citations?user=ysUOZQ0AAAAJ
+UM6P, Benguerir, Morocco
 
 
 
@@ -6559,6 +6525,40 @@ Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to 
 
 Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
 Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/meetings/README.md (~133 words)
+================================================================================
+---
+tags: [work, inbox, meetings]
+---
+
+# Meetings Inbox
+
+Drop raw meeting notes here before processing.
+
+## Usage
+
+1. Export or write your note in this folder
+2. File naming: `YYYY-MM-DD <Topic or Person>.md`
+3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
+
+## What `/om-intake` does with each file
+
+| Detected content | Destination |
+|-----------------|-------------|
+| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
+| Project update | Append to `work/active/<Project>.md` |
+| Decision reached | New Decision Record + `work/Index.md` |
+| Action item | `- [ ]` in the relevant note |
+| Win / recognition | `perf/Brag Doc.md` |
+| New person mentioned | Stub in `org/people/<Name>.md` |
+| Blocker identified | `## Blockers` section in active note |
+
+For freeform unstructured content, use `/om-dump` instead.
 
 
 
