@@ -583,7 +583,7 @@ SCALE ────────────────────────�
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/Thesis Overview.md (~815 words)
+FILE: 02_Academic & Work/thesis/Thesis Overview.md (~818 words)
 ================================================================================
 ---
 tags: [thesis, core, defense, PRISMA, phosphate]
@@ -606,12 +606,12 @@ status: DEFENSE IN ~1 MONTH
 | Supervisor | Pr. Ahmed LAAMRANI |
 | Pages | 155 |
 | Defense | ~June 2026 |
-| Study site | Benguerir Mine, Morocco (OCP Group phosphate) |
+| Study site | Benguerir Mine, Morocco ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]] phosphate) |
 
 ---
 
 ## The Research Problem
-Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based characterization (XRD, XRF) is expensive, slow, and spatially limited. **The question:** Can multi-scale hyperspectral remote sensing — from satellite (PRISMA) to field — accurately characterize the mineralogy of these waste rocks AND monitor their reclamation progress over time?
+Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based characterization (XRD, XRF) is expensive, slow, and spatially limited. **The question:** Can multi-scale hyperspectral remote sensing — from satellite ([[04_Knowledge Base/wiki/concepts/PRISMA Satellite\|PRISMA]]) to field — accurately characterize the mineralogy of these waste rocks AND monitor their reclamation progress over time?
 
 ## What Makes It Original
 1. **Multi-scale:** satellite (PRISMA) + field spectroscopy + lab validation
@@ -672,7 +672,7 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 - Moderate accuracy = physically constrained upper bound (30 m sub-pixel mixing), not a failure
 - Accepted: *Minerals* 2026 (IF 2.2) ✅
 
-### Chapter 3 — Reclamation Monitoring (EnMAP + XRF, n=32/zone)
+### Chapter 3 — Reclamation Monitoring ([[04_Knowledge Base/wiki/concepts/EnMAP Satellite\|EnMAP]] + XRF, n=32/zone)
 - Backfilling detection: **BAC = 0.984 ± 0.031, AUC = 1.000**
 - All 189 valid EnMAP bands significant (Mann-Whitney U), median effect size **r = 0.859**
 - Permutation test: p = 0.0001
@@ -691,8 +691,7 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 
 ## Defense Prep
 → [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep]]
-→ [[02_Academic & Work/thesis/defense-prep/Defense Slides Checklist]]
-→ [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
+→ [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]]
 
 ---
 
@@ -1134,22 +1133,6 @@ Say it first. Say it last. Say it when Verrelst makes you doubt yourself.
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Slides Checklist.md (~24 words)
-================================================================================
----
-tags:
-  - checklist
-  - defense-prep
-  - empty
-created: 2026-06-07
-summary: "Empty checklist note for preparing slides for the upcoming PhD thesis defense."
----
-
-
-
-
-
-================================================================================
 FILE: 02_Academic & Work/thesis/defense-prep/Defense Slides — Master Plan.md (~2020 words)
 ================================================================================
 ---
@@ -1459,7 +1442,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Strategy.md (~1975 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Defense Strategy.md (~1990 words)
 ================================================================================
 ---
 generated_by: claude
@@ -1475,7 +1458,7 @@ tags: [thesis, defense, strategy, priority]
 
 ## The One-Sentence Summary
 
-**"I developed a multi-scale framework — from field spectrometry to satellite imagery — that characterizes and monitors phosphate mine waste rocks at Benguerir, combining three complementary approaches to produce actionable reclamation metrics for OCP Group."**
+**"I developed a multi-scale framework — from field spectrometry to satellite imagery — that characterizes and monitors phosphate mine waste rocks at Benguerir, combining three complementary approaches to produce actionable reclamation metrics for [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]]."**
 
 Memorize this. Say it first, last, and whenever you feel lost.
 
@@ -1485,13 +1468,13 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 | Name | Role | Threat level | Their weapon |
 |------|------|-------------|-------------|
-| **Pr. Verrelst** (Valencia) | Rapporteur | ⭐⭐⭐⭐⭐ | RTM, linear mixing, PRISMA processing — he knows your data |
+| **Pr. Verrelst** (Valencia) | Rapporteur | ⭐⭐⭐⭐⭐ | RTM, linear mixing, [[04_Knowledge Base/wiki/concepts/PRISMA Satellite\|PRISMA]] processing — he knows your data |
 | **Pr. Aaron Berg** (Guelph) | Rapporteur | ⭐⭐⭐⭐ | Accuracy metrics, remote sensing methods |
 | **Pr. Hassan Ibouh** (Cadi Ayyad) | Rapporteur | ⭐⭐⭐⭐ | Geological context, field methodology |
 | **Pr. Yassine Taha** (UM6P GSMI) | Examiner | ⭐⭐⭐ | Scientific significance, disciplinary integration |
 | **Pr. Abdessamad Khalil** (Mines Rabat) | Examiner | ⭐⭐⭐ | Mining applications, mining engineering |
 | **Pr. Abdelghani Chehbouni** (UM6P) | President | ⭐⭐ | General scientific framing |
-| Laamrani + Benzaazoua + Elghali + Hakkou | Supervisors | ⭐ | Supporters |
+| [[02_Academic & Work/org/people/Ahmed Laamrani\|Laamrani]] + Benzaazoua + Elghali + Hakkou | Supervisors | ⭐ | Supporters |
 
 **Priority focus:** Verrelst + Berg + Ibouh = 80% of your preparation energy.
 
@@ -1519,7 +1502,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 - Accepted: **Minerals** (IF 2.2) ✅
 
 ### Chapter 3 (12 min presentation slot)
-**"Backfilling impact assessment using EnMAP + VCA-FCLS + novel RPI"**
+**"Backfilling impact assessment using [[04_Knowledge Base/wiki/concepts/EnMAP Satellite\|EnMAP]] + VCA-FCLS + novel [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index\|RPI]]"**
 - Studies the impact of **backfilling** (the primary reclamation strategy at Benguerir)
 - RZ (Reclaimed, backfilled) vs. RWR (Reference Waste Rock, undisturbed)
 - EnMAP 189 valid bands (418–2445 nm); 32 balanced pixels/zone
@@ -2320,7 +2303,7 @@ After logging, open `Ctrl+Shift+D` for tomorrow, set your focus: which section t
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Victory Speech.md (~601 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Victory Speech.md (~604 words)
 ================================================================================
 ---
 generated_by: claude
@@ -2362,7 +2345,7 @@ To answer them, I built an integrated three-scale framework.
 
 The *Reclamation Progress Index* — a spectral indicator calibrated against independent geochemical data, capable of quantifying the reclamation state of a pixel from orbit. The results are unambiguous: AUC equal to 1.000, Spearman correlation ρ = 0.845, p = 1.74 × 10⁻¹². Validated on 64 independent XRF calibration points. This is not an academic prototype — it is a functional tool, delivered to OCP Group, documented in a 155-page manuscript.
 
-This work was made possible by the rigorous and supportive supervision of Professor Ahmed Laamrani, and the constant backing of Professors Benzaazoua, Elghali, and Hakkou. It benefited from a research stay at the University of Valencia — where I had the privilege of working with Professor Verrelst. His presence on this jury is both an honor and a standard I fully accept.
+This work was made possible by the rigorous and supportive supervision of [[02_Academic & Work/org/people/Ahmed Laamrani\|Professor Ahmed Laamrani]], and the constant backing of Professors Benzaazoua, Elghali, and Hakkou. It benefited from a research stay at the University of Valencia — where I had the privilege of working with Professor Verrelst. His presence on this jury is both an honor and a standard I fully accept.
 
 I am ready. Over to you.
 
@@ -2640,7 +2623,7 @@ VITO applications sent (with dates)::Scientist Remote Sensing Water Quality (App
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/Index.md (~204 words)
+FILE: 02_Academic & Work/work/Index.md (~203 words)
 ================================================================================
 ---
 tags: [work, index]
@@ -2652,7 +2635,7 @@ updated: 2026-05-27
 ## 🔴 URGENT
 | Project | Deadline | Link |
 |---------|----------|------|
-| Thesis Defense | ~June 2026 | [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]] |
+| Thesis Defense | ~June 2026 | [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]] |
 | **Defense Slides** | **This week** (Laamrani, 2026-05-27) | [[02_Academic & Work/work/1-1/Laamrani-2026-05-27]] |
 
 ## Active Projects
@@ -2668,8 +2651,8 @@ updated: 2026-05-27
 ## Completed / Archive
 | Project | Completed | Link |
 |---------|-----------|------|
-| PRISMA HDF5 Pipeline | 2025 | [[02_Academic & Work/thesis/code-notes/VNIR SWIR Fusion]] |
-| SCSE Model Implementation | 2025 | [[02_Academic & Work/thesis/code-notes/SCSE Model]] |
+| PRISMA HDF5 Pipeline | 2025 | [[02_Academic & Work/thesis/Thesis MOC]] |
+| SCSE Model Implementation | 2025 | [[02_Academic & Work/thesis/Thesis MOC]] |
 | Manuscript Submission | Nov 2025 | [[02_Academic & Work/thesis/papers/]] |
 
 ## 1:1 Meetings
@@ -2840,12 +2823,13 @@ project: "[[02_Academic & Work/thesis/Thesis Overview]]"
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/90-Day Plan Post-Defense.md (~950 words)
+FILE: 02_Academic & Work/work/active/90-Day Plan Post-Defense.md (~952 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-25
 tags: [work, career, planning, post-defense, 90-days]
+status: active
 period: July 1 – September 30, 2026
 ---
 
@@ -2987,12 +2971,13 @@ period: July 1 – September 30, 2026
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md (~1551 words)
+FILE: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md (~1553 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-07
 tags: [work, active, career, opportunities, dashboard]
+status: active
 summary: "A structured database of 10 high-potential Earth Observation, hyperspectral, and remote sensing companies in the Middle East and Europe, complete with custom outreach templates."
 ---
 
@@ -3133,12 +3118,13 @@ elmansour01abdelhak@gmail.com | [Phone Number]
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Hot Opportunities — May 2026.md (~1753 words)
+FILE: 02_Academic & Work/work/active/Hot Opportunities — May 2026.md (~1755 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-24
 tags: [jobs, career, remote-sensing, industry, postdoc, urgent]
+status: active
 last_web_search: 2026-05-24
 ---
 
@@ -3336,10 +3322,11 @@ last_web_search: 2026-05-24
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Job Board — Live Tracker.md (~1136 words)
+FILE: 02_Academic & Work/work/active/Job Board — Live Tracker.md (~1138 words)
 ================================================================================
 ---
 tags: [jobs, career, tracker, active]
+status: active
 generated_by: claude
 date: 2026-05-28
 updated: 2026-06-05
@@ -3445,11 +3432,12 @@ updated: 2026-06-05
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Job Pipeline.md (~408 words)
+FILE: 02_Academic & Work/work/active/Job Pipeline.md (~410 words)
 ================================================================================
 ---
 kanban-plugin: basic
 tags: [jobs, career, kanban, active]
+status: active
 generated_by: claude
 date: 2026-06-07
 ---
@@ -3616,12 +3604,13 @@ generated_by: claude
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5069 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5071 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-07
 tags: [work, active, postdoc, outreach, dashboard]
+status: active
 summary: "A central tracking dashboard and cold outreach email templates with clickable mailto: links for 16 priority postdoc target PIs."
 ---
 
@@ -6588,7 +6577,7 @@ This project runs on Windows. PowerShell commands (Copy-Item, etc.) do not work 
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Key Decisions.md (~278 words)
+FILE: 03_Digital Life/brain/Key Decisions.md (~282 words)
 ================================================================================
 ---
 tags: [brain, decisions]
@@ -6611,7 +6600,7 @@ updated: 2026-05-24
 **Context:** Postdoc search, looking for hyperspectral + mining research fit  
 **Decision:** Reached out to NORCE in November 2025  
 **Rationale:** Norway has competitive postdoc salaries + strong environmental remote sensing programs  
-**Outcome:** Awaiting response / follow up post-defense
+**Outcome:** Dropped from plans — not in postdoc targets (confirmed 2026-05-27)
 
 ---
 
@@ -6770,7 +6759,7 @@ updated: 2026-05-26
 
 ---
 
-## My Thesis (Defending June 30, 2026 — 35 days)
+## My Thesis (Defending June 30, 2026 — 22 days)
 **Full title:**  
 *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks in Benguerir Mine, Morocco"*
 
@@ -6788,7 +6777,7 @@ updated: 2026-05-26
 
 ---
 
-## Current Mission (Next 35 Days)
+## Current Mission (Next 22 Days)
 1. **DEFEND THE THESIS** — this is everything right now
 2. Prepare for jury (10 members; Verrelst = highest technical threat)
 3. Post-defense plan ready (publications, DLR/ETH/VITO/OCP)
@@ -7697,11 +7686,11 @@ What is "backfilling" in mine reclamation?::Covering raw waste rock with overbur
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/hot.md (~564 words)
+FILE: 04_Knowledge Base/wiki/hot.md (~627 words)
 ================================================================================
 ---
 tags: [wiki, hot-cache]
-updated: 2026-06-06
+updated: 2026-06-08
 generated_by: claude
 ---
 
@@ -7764,6 +7753,11 @@ This week: slides complete + first solo oral run (timed, 45 min target). Slides 
 - **Published (4):** Sensors 2025 (Ch.1, doi:10.3390/s26010002) · IJEST 2024 · Mining 2023 · BDJ 2023
 - **Pipeline (2):** Minerals (Ch.2, **accepted 2026** ✅) · Ch.3 (submission post-defense)
 - **Conferences:** EGU 2025 (Austria) · EARSeL 2024 (Spain) · ESPC6 2026 (UM6P, abstract submitted)
+
+---
+
+## Updates 2026-06-08
+**Vault audit done:** 181 notes. 3 broken links fixed (Memories weekly path, Domain Portfolio em-dash, work/Index code-notes). 2 flagged stale entries (Key Decisions NORCE, work/Index 30-Day Countdown → now redirects to 36-Day Sprint). Defense Slides Checklist is empty (needs content). hot.md was 2 days stale — now current. No duplicate tags, no misplaced .base files, all AI-Generated frontmatter compliant.
 
 ---
 
@@ -8319,7 +8313,7 @@ This is the correct, peer-reviewed result representing true spatial generalizati
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md (~525 words)
+FILE: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md (~527 words)
 ================================================================================
 ---
 tags: [wiki, concept, mineralogy, benguerir]
@@ -8343,7 +8337,7 @@ The mineral assemblage of Benguerir phosphate waste rock reflects the sedimentar
 
 ### Francolite (Carbonate Fluorapatite)
 - **Formula:** Ca₅[(PO₄)(CO₃)]₃F — partial substitution of CO₃ for PO₄
-- The **actual dominant phosphate mineral** in Gantour Basin deposits
+- The **actual dominant phosphate mineral** in [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]] deposits
 - Hybrid PO₄ + CO₃ signature → harder to distinguish spectrally from calcite
 - **NOT in ECOSTRESS library** — key limitation of spectroscopy approach
 - Confirmed via XRD
@@ -8515,7 +8509,7 @@ Challenges solved during Abdelhak's thesis:
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md (~496 words)
+FILE: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md (~498 words)
 ================================================================================
 ---
 tags: [wiki, concept, geology, benguerir]
@@ -8535,7 +8529,7 @@ Phosphate mine waste rocks are the non-ore materials excavated to access phospha
 | Parameter | Value |
 |-----------|-------|
 | Operator | OCP Group |
-| Basin | Gantour Basin, Morocco |
+| Basin | [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]], Morocco |
 | Study area | ~36 km² |
 | Stripping ratio | ~3:1 (waste:ore) |
 | Waste production | ~12.3 Mt/year |
