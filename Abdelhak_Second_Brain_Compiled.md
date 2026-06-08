@@ -1133,7 +1133,7 @@ Say it first. Say it last. Say it when Verrelst makes you doubt yourself.
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Slides — Master Plan.md (~2020 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Defense Slides — Master Plan.md (~2037 words)
 ================================================================================
 ---
 tags: [thesis, defense, slides, priority]
@@ -1147,6 +1147,7 @@ updated: 2026-05-28
 Defense date: June 30, 2026 · Jury: 10 members
 
 > This is the blueprint. Build from here. Every number here is from the thesis manuscript — no conference abstract values.
+> See also: [[Defense Strategy]] · [[Numbers Arsenal]] · [[36-Day Sprint]] · [[Thesis Overview]] · [[Thesis MOC]]
 
 ---
 
@@ -2021,7 +2022,7 @@ Operational hyperspectral monitoring is becoming real — EnMAP, PRISMA, and upc
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Numbers Arsenal.md (~687 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Numbers Arsenal.md (~711 words)
 ================================================================================
 ---
 generated_by: claude
@@ -2033,6 +2034,7 @@ tags: [thesis, defense, numbers, metrics, memorization]
 
 > Method: cover the right column. Say the number out loud. If you hesitate, repeat 3 times.
 > These numbers must come in under 2 seconds during the defense.
+> See also: [[Defense Strategy]] · [[Defense Slides — Master Plan]] · [[Thesis Overview]] · [[PRISMA Satellite]] · [[EnMAP Satellite]] · [[Reclamation Progress Index]]
 
 ---
 
@@ -2141,7 +2143,7 @@ tags: [thesis, defense, numbers, metrics, memorization]
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Oral Practice Log.md (~345 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Oral Practice Log.md (~366 words)
 ================================================================================
 ---
 tags: [thesis, defense, practice, log]
@@ -2153,6 +2155,7 @@ date: 2026-06-07
 
 > One row per rehearsal session. Be honest — weak spots are the ones to fix.
 > Target: 45 min full run, confident on all numbers, clean answer to Verrelst questions.
+> See also: [[Defense Strategy]] · [[Jury Questions Prep]] · [[Jury Questions Prep — Advanced]] · [[Numbers Arsenal]] · [[36-Day Sprint]]
 
 ---
 
@@ -2971,7 +2974,7 @@ period: July 1 – September 30, 2026
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md (~1553 words)
+FILE: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md (~1581 words)
 ================================================================================
 ---
 generated_by: claude
@@ -2984,7 +2987,9 @@ summary: "A structured database of 10 high-potential Earth Observation, hyperspe
 # 🚀 High-Potential Career Opportunities & Targets
 
 > [!TIP]
-> **Your Core Pitch**: You don't just analyze satellite data; you build **operational Python pipelines** that transform raw, complex hyperspectral data (EnMAP and PRISMA) into geochemically validated environmental and mineralogical metrics. This is a rare skill set in both commercial space-tech and infrastructure engineering.
+> **Your Core Pitch**: You don't just analyze satellite data; you build **operational Python pipelines** that transform raw, complex hyperspectral data ([[EnMAP Satellite|EnMAP]] and [[PRISMA Satellite|PRISMA]]) into geochemically validated environmental and mineralogical metrics. This is a rare skill set in both commercial space-tech and infrastructure engineering.
+>
+> See also: [[Job Board — Live Tracker]] · [[Postdoc Outreach Dashboard]] · [[Hot Opportunities — May 2026]] · [[Review Brief — Postdoc Applications 2026]]
 
 ---
 
@@ -3118,7 +3123,7 @@ elmansour01abdelhak@gmail.com | [Phone Number]
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Hot Opportunities — May 2026.md (~1755 words)
+FILE: 02_Academic & Work/work/active/Hot Opportunities — May 2026.md (~1785 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3131,8 +3136,10 @@ last_web_search: 2026-05-24
 # Hot Opportunities — May 2026
 
 > Live job pipeline — Abdelhak EL MANSOUR.  
-> Skills: PRISMA · EnMAP · VCA-FCLS · hyperspectral classification · XRF validation · Python · phosphate mineralogy · reclamation monitoring  
+> Skills: [[PRISMA Satellite|PRISMA]] · [[EnMAP Satellite|EnMAP]] · VCA-FCLS · [[Hyperspectral Imaging|hyperspectral classification]] · XRF validation · Python · phosphate mineralogy · [[Reclamation Progress Index|reclamation monitoring]]  
 > Priority: Europe → International → Morocco (real salary only)
+>
+> See also: [[Job Board — Live Tracker]] · [[Postdoc Outreach Dashboard]] · [[Fitted Opportunities & Targets]] · [[Review Brief — Postdoc Applications 2026]]
 
 > **Searched:** VITO, ESA, ETH Zurich, Pixxel, BRGM, UM6P CRSA, Rio Tinto, DLR, Earthworks, EGU jobs, EURAXESS, jobs.ac.uk, academicpositions.com — 2026-05-24
 
@@ -4643,7 +4650,7 @@ abdelhak.elmansour@um6p.ma
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md (~602 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md (~631 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4698,11 +4705,22 @@ UM6P — GSMI, Benguerir, Morocco
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
 *Strategy note: Send this alongside or just after the letter to Prof. Chabrillat. Asadzadeh is the most likely person to review incoming postdoc inquiries in Section 4.4 and could forward to Chabrillat or flag a fit.*
 
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[Thesis Overview]]
+- [[Hyperspectral Imaging]]
+- [[Spectral Analysis]]
+
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md (~688 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md (~717 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4760,11 +4778,22 @@ UM6P — GSMI, Benguerir, Morocco
 
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
 
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[Thesis Overview]]
+- [[EnMAP Satellite]]
+- [[Hyperspectral Imaging]]
+
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md (~584 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md (~614 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4817,6 +4846,17 @@ UM6P — GSMI, Benguerir, Morocco
 ---
 
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
+
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[Thesis Overview]]
+- [[Waste Rock Characterization]]
+- [[Hyperspectral Imaging]]
 
 
 
@@ -4939,7 +4979,7 @@ UM6P — GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md (~540 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md (~570 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4992,6 +5032,17 @@ UM6P — GSMI, Benguerir, Morocco
 ---
 
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
+
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[Thesis Overview]]
+- [[Waste Rock Characterization]]
+- [[Hyperspectral Imaging]]
 
 
 
@@ -5410,7 +5461,7 @@ UM6P — GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md (~614 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md (~644 words)
 ================================================================================
 ---
 generated_by: claude
@@ -5465,11 +5516,22 @@ UM6P — GSMI, Benguerir, Morocco
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
 *Strategy note: Send alongside or just after the letter to Dr. Mondillo. Sorrentino is the closest technical peer in the group and the most likely to engage directly — she could flag the fit to Mondillo or to broader Italian PRISMA network contacts.*
 
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[Thesis Overview]]
+- [[PRISMA Satellite]]
+- [[Waste Rock Characterization]]
+
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~627 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~660 words)
 ================================================================================
 ---
 generated_by: claude
@@ -5524,11 +5586,23 @@ UM6P — GSMI, Benguerir, Morocco
 
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
 
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[EnMAP Satellite]]
+- [[PRISMA Satellite]]
+- [[Reclamation Progress Index]]
+- [[Thesis Overview]]
+
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md (~539 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md (~569 words)
 ================================================================================
 ---
 generated_by: claude
@@ -5580,6 +5654,17 @@ UM6P — GSMI, Benguerir, Morocco
 ---
 
 *Attachments to include: CV, thesis abstract (1 page), representative publication (Sensors 2026)*
+
+---
+
+## Related
+
+- [[Postdoc Outreach Dashboard]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
+- [[Thesis Overview]]
+- [[Waste Rock Characterization]]
+- [[Hyperspectral Imaging]]
 
 
 
@@ -6553,7 +6638,7 @@ For freeform unstructured content, use `/om-dump` instead.
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Gotchas.md (~116 words)
+FILE: 03_Digital Life/brain/Gotchas.md (~126 words)
 ================================================================================
 ---
 description: "Things that have bitten before and will bite again — pitfalls, edge cases, and workflow traps"
@@ -6573,11 +6658,15 @@ Things that have bitten before and will bite again.
 
 This project runs on Windows. PowerShell commands (Copy-Item, etc.) do not work in the Bash tool. Use the PowerShell tool for all Windows file operations.
 
+---
+
+*See also: [[North Star]] · [[Key Decisions]] · [[Patterns]]*
+
 
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Key Decisions.md (~282 words)
+FILE: 03_Digital Life/brain/Key Decisions.md (~302 words)
 ================================================================================
 ---
 tags: [brain, decisions]
@@ -6591,7 +6680,7 @@ updated: 2026-05-24
 ## 2026-05-24 — Build Claude × Obsidian second brain
 **Context:** Years of AI conversations scattered across Claude, Gemini, ChatGPT — no persistence  
 **Decision:** Build a vault that captures everything and gives AI full context on Abdelhak  
-**Rationale:** Defense in 1 month, money pressure, postdoc search — need systems, not chaos  
+**Rationale:** Defense in 1 month, money pressure, postdoc search — need systems, not chaos. See [[North Star]] for priorities.  
 **Outcome:** TBD
 
 ---
@@ -6614,17 +6703,17 @@ updated: 2026-05-24
 
 ## 2025-~~ — Use SCSE Model for Lithology Mapping
 **Context:** Standard CNN had class collapse + accuracy issues  
-**Decision:** Implement SCSE (channel + spatial squeeze-excitation)  
+**Decision:** Implement SCSE (channel + spatial squeeze-excitation) — see [[Machine Learning for Hyperspectral]]  
 **Rationale:** Better at learning which spectral bands and spatial locations matter  
-**Outcome:** Best accuracy of all models tested — made it into thesis
+**Outcome:** Best accuracy of all models tested — made it into [[Thesis Overview|thesis]]
 
 ---
 
 ## 2025-~~ — Thesis Study Site: Benguerir (not another site)
 **Context:** Choice of study site for PhD  
-**Decision:** Benguerir phosphate mine (OCP)  
+**Decision:** [[OCP Group and Benguerir Mine|Benguerir phosphate mine]] (OCP)  
 **Rationale:** UM6P is literally in Benguerir (OCP-founded university), data access, real-world relevance  
-**Outcome:** Thesis completed, defense pending
+**Outcome:** Thesis completed, defense pending — see [[Defense Strategy]]
 
 ---
 
@@ -6864,7 +6953,7 @@ My Grok usage shows I use AI as a personal advisor — not just a coding tool. I
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Patterns.md (~314 words)
+FILE: 03_Digital Life/brain/Patterns.md (~334 words)
 ================================================================================
 ---
 tags: [brain, patterns]
@@ -6877,7 +6966,7 @@ updated: 2026-05-24
 - **Iterative code debugging** — I build something, it breaks, I fix it step by step (Claude/Gemini history is full of this)
 - **Multiple AI tools in parallel** — Claude for complex reasoning, Gemini for technical code, both for writing
 - **Writing in multiple languages** — French for academic, English for international, Darija for personal
-- **Spectral data pipeline obsession** — I care deeply about the processing chain being right before touching the ML
+- **Spectral data pipeline obsession** — I care deeply about the [[Hyperspectral Imaging|processing chain]] being right before touching the [[Machine Learning for Hyperspectral|ML]]
 
 ## What I Use AI For (From History)
 - Python debugging (HDF5, bad bands, NPZ, pyspectra, memory issues)
@@ -6892,10 +6981,10 @@ updated: 2026-05-24
 - Personal things (gift ideas for niece, Rome itinerary, friend in crisis)
 
 ## Strengths I Should Lean Into
-- Deep technical fluency in hyperspectral Python pipeline
-- Real OCP/Benguerir context — unique in the field
-- 70K+ audience that trusts me — leverage post-defense
-- Multilingual — can work internationally and in Morocco
+- Deep technical fluency in [[Hyperspectral Imaging|hyperspectral]] Python pipeline — see [[Thesis Overview]]
+- Real [[OCP Group and Benguerir Mine|OCP/Benguerir]] context — unique in the field
+- 70K+ audience that trusts me — leverage post-defense, see [[Instagram Strategy]]
+- Multilingual — can work internationally and in Morocco — see [[North Star]]
 
 ## Things That Trip Me Up
 - Procrastination (self-aware about it — memes are coping)
@@ -7542,7 +7631,7 @@ Languages: French, Arabic, Darija, English, Tamazight (mother tongue)
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Flashcards — Research Concepts.md (~1525 words)
+FILE: 04_Knowledge Base/wiki/Flashcards — Research Concepts.md (~1561 words)
 ================================================================================
 ---
 tags: [flashcards, research, hyperspectral, remote-sensing, thesis]
@@ -7554,6 +7643,7 @@ date: 2026-06-07
 
 > Deck: all wiki concepts, sensors, methods, and geology from the thesis.
 > Use for defense + job interviews where you'll be asked to explain your methods.
+> See also: [[Hyperspectral Imaging]] · [[PRISMA Satellite]] · [[EnMAP Satellite]] · [[Reclamation Progress Index]] · [[Machine Learning for Hyperspectral]] · [[Spectral Analysis]] · [[Waste Rock Characterization]] · [[OCP Group and Benguerir Mine]] · [[Numbers Arsenal]]
 
 ---
 
