@@ -6675,7 +6675,7 @@ Persistent context and knowledge retained across sessions. Each topic lives in i
 - **2026-05-27** — Fixed stale reference in `Verrelst Prep.md`: NORCE removed, replaced with DLR/ETH/VITO (user confirmed NORCE is not in plans).
 - **2026-05-27** — obsidian-mind installed in vault (18 commands, 9 agents, Node hooks). `/om-standup`, `/om-weekly`, `/om-dump`, `/om-wrap-up` tested and functional.
 - **2026-05-27** — Laamrani meeting: slides to start this week. Note → [[02_Academic & Work/work/1-1/Laamrani-2026-05-27]].
-- **2026-05-27** — Weekly synthesis saved → [[03_Digital Life/thinking/weekly-2026-05-27]]. Drift identified: slides silent goal for one week.
+- **2026-05-27** — Weekly synthesis saved → [[04_Knowledge Base/AI-Generated/logs/weekly-2026-05-27]]. Drift identified: slides silent goal for one week.
 - **2026-05-26** — Vault built (166+ files), NotebookLM (3 notebooks, 31 sources), VITO ×2 applied, ESPC6 abstract submitted.
 
 
