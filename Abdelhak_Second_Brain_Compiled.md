@@ -7686,7 +7686,7 @@ What is "backfilling" in mine reclamation?::Covering raw waste rock with overbur
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/hot.md (~627 words)
+FILE: 04_Knowledge Base/wiki/hot.md (~705 words)
 ================================================================================
 ---
 tags: [wiki, hot-cache]
@@ -7758,6 +7758,7 @@ This week: slides complete + first solo oral run (timed, 45 min target). Slides 
 
 ## Updates 2026-06-08
 **Vault audit done:** 181 notes. 3 broken links fixed (Memories weekly path, Domain Portfolio em-dash, work/Index code-notes). 2 flagged stale entries (Key Decisions NORCE, work/Index 30-Day Countdown → now redirects to 36-Day Sprint). Defense Slides Checklist is empty (needs content). hot.md was 2 days stale — now current. No duplicate tags, no misplaced .base files, all AI-Generated frontmatter compliant.
+**Vault cleanup (session 2):** Deleted 5 files (3 duplicate HTML in UTwente-2026, 1 Power Automate JSON folder, 1 incomplete Telegram capture). Fixed 8 broken wikilinks: Domain Portfolio em-dash, Domaining Notes → Portfolio Analysis, CLAUDE.md ML shortcut, PRISMA Satellite code-notes, Thesis Overview code-notes, OCP entity UM6P/Consulting links, work/Index papers folder → Sensors paper. Expanded 2 empty wiki stubs (Waste Rock Characterization, Spectral Analysis) with full content. 41 total broken links scanned; 10 genuinely fixed, 31 are template/clip/compiled noise (acceptable).
 
 ---
 
@@ -9025,17 +9026,61 @@ This near-perfect result (Ch.3) reflects the much stronger spectral separation b
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md (~26 words)
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md (~267 words)
 ================================================================================
 ---
 tags:
   - wiki
   - spectral-analysis
-  - empty
+  - concept
 created: 2026-06-07
-summary: "Empty wiki note reserved for defining concepts and methods of remote sensing spectral analysis."
+generated_by: claude
+summary: "Spectral analysis methods used in hyperspectral remote sensing — library matching, unmixing, classification."
 ---
 
+# Spectral Analysis
+
+Quantitative analysis of electromagnetic reflectance spectra to identify and characterize materials based on their spectral signatures.
+
+## Core Methods (used in Abdelhak's Thesis)
+
+### Library Matching
+- Compare measured spectra to reference libraries (ECOSTRESS, USGS splib07)
+- Metrics: RMSE, SAM (Spectral Angle Mapper), SID (Spectral Information Divergence), R²
+- Used in Ch.1 (field spectra) and Ch.2 (PRISMA)
+
+### Spectral Unmixing
+- Decompose a mixed pixel into endmember fractional abundances
+- Methods: VCA (Vertex Component Analysis) for endmember extraction, FCLS (Fully Constrained Least Squares) for abundance mapping
+- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]]
+
+### Continuum Removal
+- Normalizes spectra to highlight absorption features
+- Convex hull algorithm isolates relative band depths
+- Standard pre-processing step before library matching
+
+## Key Spectral Features for Phosphate Mineralogy
+
+| Wavelength | Feature | Mineral |
+|-----------|---------|---------|
+| ~2150 nm | PO₄ stretch (weak) | Fluorapatite |
+| ~2200–2208 nm | Al-OH (sharp) | Illite/Muscovite |
+| ~2165 + 2200 nm doublet | Al-OH | Kaolinite |
+| ~2320–2350 nm | CO₃ | Dolomite/Calcite |
+| ~500–900 nm | Fe³⁺ | Goethite, Hematite |
+
+## Sensors Used
+
+- **Field:** ASD FieldSpec 4 (350–2500 nm, 1 nm sampling)
+- **Satellite Ch.2:** [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] (~250 bands, 30m)
+- **Satellite Ch.3:** [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] (189 valid bands, 30m)
+
+## Related
+
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
 
 
 
@@ -9385,17 +9430,51 @@ Cross-validation with XRD (mineralogy)
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md (~26 words)
+FILE: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md (~215 words)
 ================================================================================
 ---
 tags:
   - wiki
   - waste-rock
-  - empty
+  - concept
 created: 2026-06-07
-summary: "Empty wiki note reserved for defining concepts and research on mine waste rock characterization."
+generated_by: claude
+summary: "Mine waste rock characterization — mineralogy, spectral properties, and monitoring at Benguerir."
 ---
 
+# Waste Rock Characterization
+
+The process of identifying and quantifying the mineralogical, geochemical, and physical properties of excavated non-ore material from mining operations.
+
+## Context (Benguerir, Morocco)
+
+At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]), waste rock piles (WRP) require characterization to:
+- Assess environmental risk (leaching, dust, ARD potential)
+- Identify valorization potential (residual phosphate, carbonates)
+- Design reclamation and revegetation strategies
+
+## Key Mineral Classes (from Thesis Ch.1)
+
+| Class | Dominant Minerals | Spectral Signature |
+|-------|------------------|-------------------|
+| Carbonates | Dolomite, Calcite | ~2320–2350 nm |
+| Clays | Illite, Kaolinite, Smectite | Al-OH ~2200 nm |
+| Phosphates | Fluorapatite, Francolite | PO₄ ~2150 nm (weak) |
+| Silicates | Quartz | Featureless SWIR |
+
+## Methods Used in Abdelhak's Thesis
+
+- **Field spectroscopy** (ASD FieldSpec 4, 350–2500 nm) + ECOSTRESS library matching → Ch.1
+- **Handheld XRF** (Niton XL5) for elemental geochemistry → Ch.1
+- **PRISMA satellite** (30m) classification → Ch.2
+- **EnMAP satellite** spectral unmixing → Ch.3
+
+## Related
+
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
 
 
 
