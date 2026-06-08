@@ -396,7 +396,7 @@ Identity (Amazigh, Moroccan), travel (Rome 2024), life outside research.
 - "PRISMA" → [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
 - "hyperspectral" → [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
 - "waste rock" / "phosphate" → [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- "SCSE" / "CNN" → [[04_Knowledge Base/wiki/concepts/Machine Learning in Geoscience]]
+- "SCSE" / "CNN" → [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
 - "spectral library" / "USGS" → [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
 - "Benguerir" / "OCP" → [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
 - "LAAMRANI" → [[02_Academic & Work/org/people/Ahmed Laamrani]]
@@ -583,7 +583,7 @@ SCALE ────────────────────────�
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/Thesis Overview.md (~818 words)
+FILE: 02_Academic & Work/thesis/Thesis Overview.md (~822 words)
 ================================================================================
 ---
 tags: [thesis, core, defense, PRISMA, phosphate]
@@ -626,8 +626,8 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 ### Data
 - **PRISMA satellite** (ASI) — 250 spectral bands, VNIR (400-1000nm) + SWIR (1000-2500nm)
 - HDF5 format — required custom loading and indexing scripts
-- VNIR + SWIR cubes combined → [[02_Academic & Work/thesis/code-notes/VNIR SWIR Fusion]]
-- Bad bands removed → [[02_Academic & Work/thesis/code-notes/Bad Band Removal]]
+- VNIR + SWIR cubes combined → `code-notes/VNIR SWIR Fusion` (not yet in vault)
+- Bad bands removed → `code-notes/Bad Band Removal` (not yet in vault)
 
 ### Processing Pipeline
 1. Radiometric → reflectance correction
@@ -2623,7 +2623,7 @@ VITO applications sent (with dates)::Scientist Remote Sensing Water Quality (App
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/Index.md (~203 words)
+FILE: 02_Academic & Work/work/Index.md (~209 words)
 ================================================================================
 ---
 tags: [work, index]
@@ -2653,7 +2653,7 @@ updated: 2026-05-27
 |---------|-----------|------|
 | PRISMA HDF5 Pipeline | 2025 | [[02_Academic & Work/thesis/Thesis MOC]] |
 | SCSE Model Implementation | 2025 | [[02_Academic & Work/thesis/Thesis MOC]] |
-| Manuscript Submission | Nov 2025 | [[02_Academic & Work/thesis/papers/]] |
+| Manuscript Submission | Nov 2025 | [[04_Knowledge Base/AI-Generated/papers/Sensors 2025 — Ch1 Published Paper\|Sensors 2025 Ch.1]] |
 
 ## 1:1 Meetings
 *(Meeting notes with supervisor, collaborators)*
@@ -8437,7 +8437,7 @@ Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative 
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md (~384 words)
+FILE: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md (~392 words)
 ================================================================================
 ---
 tags: [concept, remote-sensing, PRISMA, satellite, core]
@@ -8475,8 +8475,8 @@ Challenges solved during Abdelhak's thesis:
 - Bad band removal (water vapor absorption at ~1400nm, ~1900nm)
 - Noisy band identification and removal
 
-→ See [[02_Academic & Work/thesis/code-notes/VNIR SWIR Fusion]]  
-→ See [[02_Academic & Work/thesis/code-notes/Bad Band Removal]]
+→ See `thesis/code-notes/VNIR SWIR Fusion` (code notes not yet in vault)  
+→ See `thesis/code-notes/Bad Band Removal` (code notes not yet in vault)
 
 ## Key Spectral Bands for Phosphate Mineralogy
 | Wavelength Region | Relevant Minerals |
@@ -9500,7 +9500,7 @@ Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Oule
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~282 words)
+FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~288 words)
 ================================================================================
 ---
 tags: [entity, institution, mining, Morocco, OCP, phosphate]
@@ -9546,11 +9546,11 @@ Abdelhak's thesis monitors this process using PRISMA time series.
 - [[02_Academic & Work/thesis/Thesis Overview]]
 - [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
 - [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Knowledge Base/wiki/entities/UM6P]]
+- UM6P (entity note not yet created)
 
 ## Potential Industry Application
 OCP Group is a natural client for remote sensing consulting post-defense.  
-→ [[03_Digital Life/money/opportunities/OCP Consulting Opportunity]]
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
