@@ -8441,6 +8441,8182 @@ generated_by: claude
 
 
 ================================================================================
+FILE: 04_Knowledge Base/wiki/sources/BoardmanJWKruse.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: BoardmanJWKruse
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Boardman, J
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@BoardmanJWKruse)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/DataProductsQuality.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: DataProductsQuality
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Data Products
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@DataProductsQuality)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/DataSeries2017.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: DataSeries2017
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Data Series
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@DataSeries2017)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/DataSeries2017a.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: DataSeries2017a
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Data Series
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@DataSeries2017a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/DataSeries2017b.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: DataSeries2017b
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Data Series
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@DataSeries2017b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/EditorialSpecialIssue.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: EditorialSpecialIssue
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Editorial for the Special Issue
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@EditorialSpecialIssue)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/EnMAPSpaceborneImaging.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: EnMAPSpaceborneImaging
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 The EnMAP Spaceborne Imaging Spectroscopy Mission
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@EnMAPSpaceborneImaging)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: HandheldXrayFluorescence2019
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Hand-Held X-ray
+
+* **Authors:** Unknown Authors
+* **Published in:** *Analytical Methods* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@HandheldXrayFluorescence2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019a.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: HandheldXrayFluorescence2019a
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Hand-Held X-ray
+
+* **Authors:** Unknown Authors
+* **Published in:** *Analytical Methods* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@HandheldXrayFluorescence2019a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/HyperspectralRemoteSensing.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: HyperspectralRemoteSensing
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Hyperspectral Remote Sensing and Geological Applications
+
+* **Authors:** Unknown Authors
+* **Published in:** *HYPERSPECTRAL REMOTE SENSING* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@HyperspectralRemoteSensing)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ImagingSpectrometryEarth.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ImagingSpectrometryEarth
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Imaging Spectrometry
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ImagingSpectrometryEarth)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/InterlayersGeoenvironmentalAssessment.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: InterlayersGeoenvironmentalAssessment
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Interlayers Geo-Environmental Assessment of Phosphate Waste Rock for Sustainable Management Practices \textbar
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@InterlayersGeoenvironmentalAssessment)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MappingHyperspectralAVIRIS.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MappingHyperspectralAVIRIS
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mapping of Hyperspectral AVIRIS
+
+* **Authors:** Unknown Authors
+* **Published in:** *Canadian Journal of Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MappingHyperspectralAVIRIS)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineWastesCharacterization.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineWastesCharacterization
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mine Wastes
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineWastesCharacterization)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2021.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2021
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2023.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2023
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2023a.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2023a
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2023
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2023a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2025
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2025
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025a.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2025a
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2025
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2025a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025b.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2025b
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2025
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2025b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025c.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2025c
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2025
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2025c)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025d.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2025d
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2025
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2025d)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025e.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MineralCommoditySummaries2025e
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mineral Commodity Summaries 2025
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MineralCommoditySummaries2025e)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/MitigatingSoilContamination2018.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: MitigatingSoilContamination2018
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Mitigating Soil Contamination at Abandoned Moroccan
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@MitigatingSoilContamination2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/OCPSustainabilityIntegrated2021.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: OCPSustainabilityIntegrated2021
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 OCP Sustainability Integrated Report
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@OCPSustainabilityIntegrated2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/OpenFileReport2002.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: OpenFileReport2002
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Open-File Report
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@OpenFileReport2002)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/OpenFileReport2002a.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: OpenFileReport2002a
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Open-File Report
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@OpenFileReport2002a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ProgressGeoenvironmentalModels2002.md (~67 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ProgressGeoenvironmentalModels2002
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Progress on Geoenvironmental Models for Selected Mineral Deposit Types
+
+* **Authors:** Unknown Authors
+* **Published in:** *Open-File Report* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ProgressGeoenvironmentalModels2002)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/SpectralReflectanceCarbonate.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: SpectralReflectanceCarbonate
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Spectral Reflectance of Carbonate Minerals in the Visible and near Infrared (0.35--2.55 Um): Anhydrous
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@SpectralReflectanceCarbonate)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/TacklingMineWastes.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: TacklingMineWastes
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Tackling Mine Wastes \textbar
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@TacklingMineWastes)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/UsingPRISMAHyperspectral.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: UsingPRISMAHyperspectral
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Using PRISMA Hyperspectral Satellite Imagery
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@UsingPRISMAHyperspectral)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/WorldFertilizerTrends.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: WorldFertilizerTrends
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 World Fertilizer Trends and Outlook to 2022
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@WorldFertilizerTrends)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/WorldFertilizerTrends2019.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: WorldFertilizerTrends2019
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 World Fertilizer Trends and Outlook to 2022
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@WorldFertilizerTrends2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/abdolmalekiOreWasteDiscriminationUsing2022.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: abdolmalekiOreWasteDiscriminationUsing2022
+year: Unknown Year
+authors: Abdolmaleki, Mehdi and Consens, Mariano and Esmaeili, Kamran
+generated_by: claude
+---
+
+# 📄 Ore-Waste Discrimination Using Supervised
+
+* **Authors:** Abdolmaleki, Mehdi and Consens, Mariano and Esmaeili, Kamran
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@abdolmalekiOreWasteDiscriminationUsing2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/achemrkTrackingQuarterCenturySpatioTemporal2026.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: achemrkTrackingQuarterCenturySpatioTemporal2026
+year: Unknown Year
+authors: Achemrk, Aiman and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Hajaj, Soufiane and Oussaoui, Sabir and Chehbouni, Abdelghani
+generated_by: claude
+---
+
+# 📄 Tracking Quarter-Century Spatio-Temporal Soil Salinization Dynamics
+
+* **Authors:** Achemrk, Aiman and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Hajaj, Soufiane and Oussaoui, Sabir and Chehbouni, Abdelghani
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@achemrkTrackingQuarterCenturySpatioTemporal2026)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/acitoAtmosphericCompensationPRISMA2021.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: acitoAtmosphericCompensationPRISMA2021
+year: Unknown Year
+authors: Acito, Nicola and Diani, Marco and Procissi, Gregorio and Corsini, Giovanni
+generated_by: claude
+---
+
+# 📄 Atmospheric Compensation
+
+* **Authors:** Acito, Nicola and Diani, Marco and Procissi, Gregorio and Corsini, Giovanni
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@acitoAtmosphericCompensationPRISMA2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/acitoAtmosphericCompensationPRISMA2021a.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: acitoAtmosphericCompensationPRISMA2021a
+year: Unknown Year
+authors: Acito, Nicola and Diani, Marco and Procissi, Gregorio and Corsini, Giovanni
+generated_by: claude
+---
+
+# 📄 Atmospheric Compensation
+
+* **Authors:** Acito, Nicola and Diani, Marco and Procissi, Gregorio and Corsini, Giovanni
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@acitoAtmosphericCompensationPRISMA2021a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/agrawalEvaluatingPerformancePRISMA2023.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: agrawalEvaluatingPerformancePRISMA2023
+year: Unknown Year
+authors: Agrawal, Neelam and Govil, Himanshu and Mishra, Gaurav and Gupta, Manika and Srivastava, Prashant K.
+generated_by: claude
+---
+
+# 📄 Evaluating the Performance
+
+* **Authors:** Agrawal, Neelam and Govil, Himanshu and Mishra, Gaurav and Gupta, Manika and Srivastava, Prashant K.
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@agrawalEvaluatingPerformancePRISMA2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/allowayHeavyMetalsSoils2013.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: allowayHeavyMetalsSoils2013
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Heavy Metals
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@allowayHeavyMetalsSoils2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/alonsoDataProductsQuality2019.md (~109 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: alonsoDataProductsQuality2019
+year: Unknown Year
+authors: Alonso, Kevin and Bachmann, Martin and Burch, Kara and Carmona, Emiliano and Cerra, Daniele and De Los Reyes, Raquel and Dietrich, Daniele and Heiden, Uta and H\
+generated_by: claude
+---
+
+# 📄 Data Products
+
+* **Authors:** Alonso, Kevin and Bachmann, Martin and Burch, Kara and Carmona, Emiliano and Cerra, Daniele and De Los Reyes, Raquel and Dietrich, Daniele and Heiden, Uta and H\
+* **Published in:** *Sensors* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@alonsoDataProductsQuality2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/alvesRevisitingRamanSpectra2023.md (~91 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: alvesRevisitingRamanSpectra2023
+year: Unknown Year
+authors: Alves, Julliana F. and Edwards, Howell G. M. and Korsakov, Andrey and De Oliveira, Luiz Fernando C.
+generated_by: claude
+---
+
+# 📄 Revisiting the Raman Spectra
+
+* **Authors:** Alves, Julliana F. and Edwards, Howell G. M. and Korsakov, Andrey and De Oliveira, Luiz Fernando C.
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@alvesRevisitingRamanSpectra2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/amarMineWasteRock2023.md (~104 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: amarMineWasteRock2023
+year: Unknown Year
+authors: Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdellatif and Taha, Yassine and El Ghorfi, Mustapha and Krause, Anna and Hakkou, Rachid
+generated_by: claude
+---
+
+# 📄 Mine Waste Rock Reprocessing Using Sensor-Based Sorting (SBS
+
+* **Authors:** Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdellatif and Taha, Yassine and El Ghorfi, Mustapha and Krause, Anna and Hakkou, Rachid
+* **Published in:** *Minerals Engineering* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@amarMineWasteRock2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/amarWasteRockReprocessing2022.md (~95 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: amarWasteRockReprocessing2022
+year: Unknown Year
+authors: Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdellatif and Hakkou, Rachid and Taha, Yassine
+generated_by: claude
+---
+
+# 📄 Waste Rock Reprocessing to Enhance the Sustainability of Phosphate Reserves: A
+
+* **Authors:** Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdellatif and Hakkou, Rachid and Taha, Yassine
+* **Published in:** *Journal of Cleaner Production* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@amarWasteRockReprocessing2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/amraniValorizationPhosphateMine2019.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: amraniValorizationPhosphateMine2019
+year: Unknown Year
+authors: Amrani, Mustapha and Taha, Yassine and Kchikach, Azzouz and Benzaazoua, Mostafa and Hakkou, Rachid
+generated_by: claude
+---
+
+# 📄 Valorization of Phosphate Mine Waste Rocks
+
+* **Authors:** Amrani, Mustapha and Taha, Yassine and Kchikach, Azzouz and Benzaazoua, Mostafa and Hakkou, Rachid
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@amraniValorizationPhosphateMine2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/anjjarPhosphateSeriesBenguerir.md (~91 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: anjjarPhosphateSeriesBenguerir
+year: Unknown Year
+authors: Anjjar, A and Driouch, Y and Benjelloun, F and Hmeid, H Ait and Alami, A El
+generated_by: claude
+---
+
+# 📄 The Phosphate Series of Benguerir
+
+* **Authors:** Anjjar, A and Driouch, Y and Benjelloun, F and Hmeid, H Ait and Alami, A El
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@anjjarPhosphateSeriesBenguerir)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/araujoRecyclingReuseMine2022.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: araujoRecyclingReuseMine2022
+year: Unknown Year
+authors: Araujo, Francisco and Taborda-Llano
+generated_by: claude
+---
+
+# 📄 Recycling and Reuse
+
+* **Authors:** Araujo, Francisco and Taborda-Llano
+* **Published in:** *Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@araujoRecyclingReuseMine2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/aubineauHighlyVariableContent2022.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: aubineauHighlyVariableContent2022
+year: Unknown Year
+authors: Aubineau, J\
+generated_by: claude
+---
+
+# 📄 Highly Variable Content of Fluorapatite-Hosted CO32
+
+* **Authors:** Aubineau, J\
+* **Published in:** *Chemical Geology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@aubineauHighlyVariableContent2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/aubineauPhosphateD13CorgChemostratigraphy2024.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: aubineauPhosphateD13CorgChemostratigraphy2024
+year: Unknown Year
+authors: Aubineau, J\
+generated_by: claude
+---
+
+# 📄 Phosphate $\delta$13Corg
+
+* **Authors:** Aubineau, J\
+* **Published in:** *Chemical Geology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@aubineauPhosphateD13CorgChemostratigraphy2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/audebertDeepLearningClassification2019.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: audebertDeepLearningClassification2019
+year: Unknown Year
+authors: Audebert, Nicolas and Le Saux, Bertrand and Lefevre, Sebastien
+generated_by: claude
+---
+
+# 📄 Deep Learning
+
+* **Authors:** Audebert, Nicolas and Le Saux, Bertrand and Lefevre, Sebastien
+* **Published in:** *IEEE Geoscience and Remote Sensing Magazine* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@audebertDeepLearningClassification2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bahhouUsePhosphateMine2021.md (~106 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bahhouUsePhosphateMine2021
+year: Unknown Year
+authors: Bahhou, Abdelmoujib and Taha, Yassine and El Khessaimi, Yassine and Idrissi, Hicham and Hakkou, Rachid and Amalik, Jamal and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Use of Phosphate Mine By-Products as Supplementary Cementitious Materials
+
+* **Authors:** Bahhou, Abdelmoujib and Taha, Yassine and El Khessaimi, Yassine and Idrissi, Hicham and Hakkou, Rachid and Amalik, Jamal and Benzaazoua, Mostafa
+* **Published in:** *Materials Today: Proceedings* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bahhouUsePhosphateMine2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1972.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: barlowStatisticalInferenceOrder1972
+year: Unknown Year
+authors: Barlow, R. E.
+generated_by: claude
+---
+
+# 📄 Statistical Inference Under Order Restrictions
+
+* **Authors:** Barlow, R. E.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@barlowStatisticalInferenceOrder1972)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1980.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: barlowStatisticalInferenceOrder1980
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Statistical Inference under Order Restrictions: The Theory and Application of Isotonic Regression
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@barlowStatisticalInferenceOrder1980)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bayoussefUseClaysByproducts2021.md (~110 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bayoussefUseClaysByproducts2021
+year: Unknown Year
+authors: Bayoussef, A. and Loutou, M. and Taha, Y. and Mansori, M. and Benzaazoua, M. and Manoun, B. and Hakkou, R.
+generated_by: claude
+---
+
+# 📄 Use of Clays By-Products from Phosphate Mines for the Manufacture of Sustainable Lightweight Aggregates
+
+* **Authors:** Bayoussef, A. and Loutou, M. and Taha, Y. and Mansori, M. and Benzaazoua, M. and Manoun, B. and Hakkou, R.
+* **Published in:** *Journal of Cleaner Production* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bayoussefUseClaysByproducts2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bendorReflectanceMeasurementsSoils2015.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bendorReflectanceMeasurementsSoils2015
+year: Unknown Year
+authors: Ben Dor, Eyal and Ong, Cindy and Lau, Ian C.
+generated_by: claude
+---
+
+# 📄 Reflectance Measurements of Soils in the Laboratory: Standards
+
+* **Authors:** Ben Dor, Eyal and Ong, Cindy and Lau, Ian C.
+* **Published in:** *Geoderma* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bendorReflectanceMeasurementsSoils2015)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bendorReflectanceMeasurementsSoils2015a.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bendorReflectanceMeasurementsSoils2015a
+year: Unknown Year
+authors: Ben Dor, Eyal and Ong, Cindy and Lau, Ian C.
+generated_by: claude
+---
+
+# 📄 Reflectance Measurements of Soils in the Laboratory: Standards
+
+* **Authors:** Ben Dor, Eyal and Ong, Cindy and Lau, Ian C.
+* **Published in:** *Geoderma* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bendorReflectanceMeasurementsSoils2015a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/benjaminiControllingFalseDiscovery1995.md (~76 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: benjaminiControllingFalseDiscovery1995
+year: Unknown Year
+authors: Benjamini, Yoav and Hochberg, Yosef
+generated_by: claude
+---
+
+# 📄 Controlling the False Discovery Rate
+
+* **Authors:** Benjamini, Yoav and Hochberg, Yosef
+* **Published in:** *Journal of the Royal Statistical Society: Series B (Methodological)* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@benjaminiControllingFalseDiscovery1995)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/benjaminiControllingFalseDiscovery1995a.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: benjaminiControllingFalseDiscovery1995a
+year: Unknown Year
+authors: Benjamini, Yoav and Hochberg, Yosef
+generated_by: claude
+---
+
+# 📄 Controlling the False Discovery Rate
+
+* **Authors:** Benjamini, Yoav and Hochberg, Yosef
+* **Published in:** *Journal of the Royal Statistical Society Series B: Statistical Methodology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@benjaminiControllingFalseDiscovery1995a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bioucas-diasHyperspectralUnmixingOverview2012.md (~69 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bioucas-diasHyperspectralUnmixingOverview2012
+year: Unknown Year
+authors: Bioucas-Dias
+generated_by: claude
+---
+
+# 📄 Hyperspectral Unmixing Overview
+
+* **Authors:** Bioucas-Dias
+* **Published in:** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bioucas-diasHyperspectralUnmixingOverview2012)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bishopInfraredSpectroscopicAnalyses1994.md (~71 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bishopInfraredSpectroscopicAnalyses1994
+year: Unknown Year
+authors: Bishop, Janice L. and Pieters, Carl\
+generated_by: claude
+---
+
+# 📄 Infrared Spectroscopic Analyses
+
+* **Authors:** Bishop, Janice L. and Pieters, Carl\
+* **Published in:** *Clays and Clay Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bishopInfraredSpectroscopicAnalyses1994)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bishopReflectanceEmissionSpectroscopy2008.md (~99 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bishopReflectanceEmissionSpectroscopy2008
+year: Unknown Year
+authors: Bishop, J. L. and Lane, M. D. and Dyar, M. D. and Brown, A. J.
+generated_by: claude
+---
+
+# 📄 Reflectance and Emission Spectroscopy Study of Four Groups of Phyllosilicates: Smectites, Kaolinite-Serpentines, Chlorites and Micas
+
+* **Authors:** Bishop, J. L. and Lane, M. D. and Dyar, M. D. and Brown, A. J.
+* **Published in:** *Clay Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bishopReflectanceEmissionSpectroscopy2008)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/boardmanMAPPINGTARGETSIGNATURES.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: boardmanMAPPINGTARGETSIGNATURES
+year: Unknown Year
+authors: Boardman, Joseph and Kruse, F.A. and Green, Robert, O.
+generated_by: claude
+---
+
+# 📄 MAPPING TARGET SIGNATURES VIA PARTIAL UNMIXING OF AVIRIS DATA
+
+* **Authors:** Boardman, Joseph and Kruse, F.A. and Green, Robert, O.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@boardmanMAPPINGTARGETSIGNATURES)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/boardmanMappingTargetSignatures1995.md (~84 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: boardmanMappingTargetSignatures1995
+year: Unknown Year
+authors: Boardman, Joseph W. and Kruse, Fred A. and Green, Robert O.
+generated_by: claude
+---
+
+# 📄 Mapping Target Signatures via Partial Unmixing of AVIRIS
+
+* **Authors:** Boardman, Joseph W. and Kruse, Fred A. and Green, Robert O.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@boardmanMappingTargetSignatures1995)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/boardmanjosephw.AUTOMATINGSPECTRALUNMIXING.md (~69 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: boardmanjosephw.AUTOMATINGSPECTRALUNMIXING
+year: Unknown Year
+authors: Boardman, Joseph W.
+generated_by: claude
+---
+
+# 📄 AUTOMATING SPECTRAL UNMIXING OF AVIRIS DATA USING CONVEX GEOMETRY CONCEPTS
+
+* **Authors:** Boardman, Joseph W.
+* **Published in:** *1993* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@boardmanjosephw.AUTOMATINGSPECTRALUNMIXING)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bosseAssessmentPhosphateLimestone2013.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bosseAssessmentPhosphateLimestone2013
+year: Unknown Year
+authors: Boss\
+generated_by: claude
+---
+
+# 📄 Assessment of Phosphate Limestone Wastes
+
+* **Authors:** Boss\
+* **Published in:** *Mine Water and the Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bosseAssessmentPhosphateLimestone2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/boujoContributionLetudeGeologique1976.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: boujoContributionLetudeGeologique1976
+year: Unknown Year
+authors: Boujo, Armand
+generated_by: claude
+---
+
+# 📄 Contribution \`a l
+
+* **Authors:** Boujo, Armand
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@boujoContributionLetudeGeologique1976)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bourazzaRestorationPhosphateMined2025.md (~95 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bourazzaRestorationPhosphateMined2025
+year: Unknown Year
+authors: Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta, Berhanu Amsalu and Hirich, Abdelaziz
+generated_by: claude
+---
+
+# 📄 Restoration of Phosphate Mined Lands: Literature Review with Insights from Morocco
+
+* **Authors:** Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta, Berhanu Amsalu and Hirich, Abdelaziz
+* **Published in:** *Frontiers in Environmental Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bourazzaRestorationPhosphateMined2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bourazzaRestorationPhosphateMined2025a.md (~95 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bourazzaRestorationPhosphateMined2025a
+year: Unknown Year
+authors: Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta, Berhanu Amsalu and Hirich, Abdelaziz
+generated_by: claude
+---
+
+# 📄 Restoration of Phosphate Mined Lands: Literature Review with Insights from Morocco
+
+* **Authors:** Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta, Berhanu Amsalu and Hirich, Abdelaziz
+* **Published in:** *Frontiers in Environmental Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bourazzaRestorationPhosphateMined2025a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bradshawRestorationMinedLands1997.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bradshawRestorationMinedLands1997
+year: Unknown Year
+authors: Bradshaw, Anthony
+generated_by: claude
+---
+
+# 📄 Restoration of Mined Lands---Using Natural Processes
+
+* **Authors:** Bradshaw, Anthony
+* **Published in:** *Ecological Engineering* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bradshawRestorationMinedLands1997)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/breimanRandomForests2001.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: breimanRandomForests2001
+year: Unknown Year
+authors: Breiman, Leo
+generated_by: claude
+---
+
+# 📄 Random Forests
+
+* **Authors:** Breiman, Leo
+* **Published in:** *Machine Learning* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@breimanRandomForests2001)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/bressanEvaluationMachineLearning2020.md (~98 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: bressanEvaluationMachineLearning2020
+year: Unknown Year
+authors: Bressan, Thiago Santi and Kehl De Souza, Marcelo and Girelli, Tiago J. and Junior, Farid Chemale
+generated_by: claude
+---
+
+# 📄 Evaluation of Machine Learning Methods for Lithology Classification Using Geophysical Data
+
+* **Authors:** Bressan, Thiago Santi and Kehl De Souza, Marcelo and Girelli, Tiago J. and Junior, Farid Chemale
+* **Published in:** *Computers \& Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@bressanEvaluationMachineLearning2020)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/buzziMappingChangesRecovering2014.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: buzziMappingChangesRecovering2014
+year: Unknown Year
+authors: Buzzi, Jorge and Riaza, Asunci\
+generated_by: claude
+---
+
+# 📄 Mapping Changes
+
+* **Authors:** Buzzi, Jorge and Riaza, Asunci\
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@buzziMappingChangesRecovering2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/c.heckerSpectralAbsorptionFeature2019.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: c.heckerSpectralAbsorptionFeature2019
+year: Unknown Year
+authors: C. Hecker
+generated_by: claude
+---
+
+# 📄 Spectral Absorption Feature Analysis
+
+* **Authors:** C. Hecker
+* **Published in:** *IEEE Geoscience and Remote Sensing Magazine* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@c.heckerSpectralAbsorptionFeature2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chabrillatEnMAPSpaceborneImaging2024.md (~204 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chabrillatEnMAPSpaceborneImaging2024
+year: Unknown Year
+authors: Chabrillat, Sabine and Foerster, Saskia and Segl, Karl and Beamish, Alison and Brell, Maximilian and Asadzadeh, Saeid and Milewski, Robert and Ward, Kathrin J. and Brosinsky, Arlena and Koch, Katrin and Scheffler, Daniel and Guillaso, Stephane and Kokhanovsky, Alexander and Roessner, Sigrid and Guanter, Luis and Kaufmann, Hermann and Pinnel, Nicole and Carmona, Emiliano and Storch, Tobias and Hank, Tobias and Berger, Katja and Wocher, Mathias and Hostert, Patrick and van der Linden
+generated_by: claude
+---
+
+# 📄 The EnMAP
+
+* **Authors:** Chabrillat, Sabine and Foerster, Saskia and Segl, Karl and Beamish, Alison and Brell, Maximilian and Asadzadeh, Saeid and Milewski, Robert and Ward, Kathrin J. and Brosinsky, Arlena and Koch, Katrin and Scheffler, Daniel and Guillaso, Stephane and Kokhanovsky, Alexander and Roessner, Sigrid and Guanter, Luis and Kaufmann, Hermann and Pinnel, Nicole and Carmona, Emiliano and Storch, Tobias and Hank, Tobias and Berger, Katja and Wocher, Mathias and Hostert, Patrick and van der Linden
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chabrillatEnMAPSpaceborneImaging2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chakrabortySpectralSpatialComparison2024.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chakrabortySpectralSpatialComparison2024
+year: Unknown Year
+authors: Chakraborty, Rupsa and Rachdi, Imane and Thiele, Samuel and Booysen, Ren\
+generated_by: claude
+---
+
+# 📄 A Spectral
+
+* **Authors:** Chakraborty, Rupsa and Rachdi, Imane and Thiele, Samuel and Booysen, Ren\
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chakrabortySpectralSpatialComparison2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/charbaouiNewInsightsGeophysical2023.md (~109 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: charbaouiNewInsightsGeophysical2023
+year: Unknown Year
+authors: Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed and Khadiri, Oussama Yazami and Guernouche, Mourad and Amar, Mounir and Bikarnaf, Ahmed and Jourani, Es-Said and Khelifi, Nabil
+generated_by: claude
+---
+
+# 📄 New Insights
+
+* **Authors:** Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed and Khadiri, Oussama Yazami and Guernouche, Mourad and Amar, Mounir and Bikarnaf, Ahmed and Jourani, Es-Said and Khelifi, Nabil
+* **Published in:** *Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@charbaouiNewInsightsGeophysical2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/charbaouiNewInsightsGeophysical2023a.md (~109 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: charbaouiNewInsightsGeophysical2023a
+year: Unknown Year
+authors: Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed and Khadiri, Oussama Yazami and Guernouche, Mourad and Amar, Mounir and Bikarnaf, Ahmed and Jourani, Es-Said and Khelifi, Nabil
+generated_by: claude
+---
+
+# 📄 New Insights
+
+* **Authors:** Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed and Khadiri, Oussama Yazami and Guernouche, Mourad and Amar, Mounir and Bikarnaf, Ahmed and Jourani, Es-Said and Khelifi, Nabil
+* **Published in:** *Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@charbaouiNewInsightsGeophysical2023a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chein-ichangSpectralInformationDivergence1999.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chein-ichangSpectralInformationDivergence1999
+year: Unknown Year
+authors: Chein-I Chang
+generated_by: claude
+---
+
+# 📄 Spectral Information Divergence for Hyperspectral Image Analysis
+
+* **Authors:** Chein-I Chang
+* **Published in:** *IEEE* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chein-ichangSpectralInformationDivergence1999)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chenIntegratingVisibleNearinfrared2010.md (~93 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chenIntegratingVisibleNearinfrared2010
+year: Unknown Year
+authors: Chen, Xianfeng and Warner, Timothy A. and Campagna, David J.
+generated_by: claude
+---
+
+# 📄 Integrating Visible, near-Infrared and Short-Wave Infrared Hyperspectral and Multispectral Thermal Imagery for Geological Mapping at Cuprite
+
+* **Authors:** Chen, Xianfeng and Warner, Timothy A. and Campagna, David J.
+* **Published in:** *International Journal of Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chenIntegratingVisibleNearinfrared2010)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chenXGBoostScalableTree2016.md (~71 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chenXGBoostScalableTree2016
+year: Unknown Year
+authors: Chen, Tianqi and Guestrin, Carlos
+generated_by: claude
+---
+
+# 📄 XGBoost
+
+* **Authors:** Chen, Tianqi and Guestrin, Carlos
+* **Published in:** *Proceedings of the 22nd ACM SIGKDD International Conference* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chenXGBoostScalableTree2016)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chindongMultiSensorMachineLearning2025.md (~103 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chindongMultiSensorMachineLearning2025
+year: Unknown Year
+authors: Chindong, Joyce Mongai and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Hajaj, Soufiane and Rhinane, Hassan and Chehbouni, Abdelghani
+generated_by: claude
+---
+
+# 📄 A Multi-Sensor Machine Learning Framework
+
+* **Authors:** Chindong, Joyce Mongai and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Hajaj, Soufiane and Rhinane, Hassan and Chehbouni, Abdelghani
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chindongMultiSensorMachineLearning2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/chlahbiGeologicalGeomechanicalCharacterization2023.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: chlahbiGeologicalGeomechanicalCharacterization2023
+year: Unknown Year
+authors: Chlahbi, Safa and Belem, Tikou and Elghali, Abdellatif and Rochdane, Samia and Zerouali, Essaid and Inabi, Omar and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Geological and Geomechanical Characterization
+
+* **Authors:** Chlahbi, Safa and Belem, Tikou and Elghali, Abdellatif and Rochdane, Samia and Zerouali, Essaid and Inabi, Omar and Benzaazoua, Mostafa
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@chlahbiGeologicalGeomechanicalCharacterization2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/choeMappingHeavyMetal2008.md (~86 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: choeMappingHeavyMetal2008
+year: Unknown Year
+authors: Choe, Eunyoung and van der Meer
+generated_by: claude
+---
+
+# 📄 Mapping of Heavy Metal Pollution in Stream Sediments Using Combined Geochemistry, Field Spectroscopy, and Hyperspectral Remote Sensing: A
+
+* **Authors:** Choe, Eunyoung and van der Meer
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@choeMappingHeavyMetal2008)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990.md (~101 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkHighSpectralResolution1990
+year: Unknown Year
+authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+generated_by: claude
+---
+
+# 📄 High Spectral Resolution Reflectance Spectroscopy of Minerals
+
+* **Authors:** Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkHighSpectralResolution1990)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990a.md (~101 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkHighSpectralResolution1990a
+year: Unknown Year
+authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+generated_by: claude
+---
+
+# 📄 High Spectral Resolution Reflectance Spectroscopy of Minerals
+
+* **Authors:** Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkHighSpectralResolution1990a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990b.md (~101 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkHighSpectralResolution1990b
+year: Unknown Year
+authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+generated_by: claude
+---
+
+# 📄 High Spectral Resolution Reflectance Spectroscopy of Minerals
+
+* **Authors:** Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkHighSpectralResolution1990b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990c.md (~101 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkHighSpectralResolution1990c
+year: Unknown Year
+authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+generated_by: claude
+---
+
+# 📄 High Spectral Resolution Reflectance Spectroscopy of Minerals
+
+* **Authors:** Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkHighSpectralResolution1990c)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990d.md (~101 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkHighSpectralResolution1990d
+year: Unknown Year
+authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+generated_by: claude
+---
+
+# 📄 High Spectral Resolution Reflectance Spectroscopy of Minerals
+
+* **Authors:** Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg A. and Vergo, Norma
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkHighSpectralResolution1990d)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984.md (~75 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkReflectanceSpectroscopyQuantitative1984
+year: Unknown Year
+authors: Clark, Roger N. and Roush, Ted L.
+generated_by: claude
+---
+
+# 📄 Reflectance Spectroscopy: Quantitative
+
+* **Authors:** Clark, Roger N. and Roush, Ted L.
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkReflectanceSpectroscopyQuantitative1984)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984a.md (~75 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkReflectanceSpectroscopyQuantitative1984a
+year: Unknown Year
+authors: Clark, Roger N. and Roush, Ted L.
+generated_by: claude
+---
+
+# 📄 Reflectance Spectroscopy: Quantitative
+
+* **Authors:** Clark, Roger N. and Roush, Ted L.
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkReflectanceSpectroscopyQuantitative1984a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984b.md (~75 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkReflectanceSpectroscopyQuantitative1984b
+year: Unknown Year
+authors: Clark, Roger N. and Roush, Ted L.
+generated_by: claude
+---
+
+# 📄 Reflectance Spectroscopy: Quantitative
+
+* **Authors:** Clark, Roger N. and Roush, Ted L.
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkReflectanceSpectroscopyQuantitative1984b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984c.md (~75 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkReflectanceSpectroscopyQuantitative1984c
+year: Unknown Year
+authors: Clark, Roger N. and Roush, Ted L.
+generated_by: claude
+---
+
+# 📄 Reflectance Spectroscopy: Quantitative
+
+* **Authors:** Clark, Roger N. and Roush, Ted L.
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkReflectanceSpectroscopyQuantitative1984c)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/clarkSpectroscopyRocksMinerals1999.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: clarkSpectroscopyRocksMinerals1999
+year: Unknown Year
+authors: Clark, Roger
+generated_by: claude
+---
+
+# 📄 Spectroscopy of Rocks and Minerals and Principles of Spectroscopy
+
+* **Authors:** Clark, Roger
+* **Published in:** *Manual of Remote Sensing, Volume* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@clarkSpectroscopyRocksMinerals1999)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021.md (~120 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cogliatiPRISMAImagingSpectroscopy2021
+year: Unknown Year
+authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+generated_by: claude
+---
+
+# 📄 The PRISMA
+
+* **Authors:** Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cogliatiPRISMAImagingSpectroscopy2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021a.md (~120 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cogliatiPRISMAImagingSpectroscopy2021a
+year: Unknown Year
+authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+generated_by: claude
+---
+
+# 📄 The PRISMA
+
+* **Authors:** Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cogliatiPRISMAImagingSpectroscopy2021a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021b.md (~120 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cogliatiPRISMAImagingSpectroscopy2021b
+year: Unknown Year
+authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+generated_by: claude
+---
+
+# 📄 The PRISMA
+
+* **Authors:** Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cogliatiPRISMAImagingSpectroscopy2021b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021c.md (~120 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cogliatiPRISMAImagingSpectroscopy2021c
+year: Unknown Year
+authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+generated_by: claude
+---
+
+# 📄 The PRISMA
+
+* **Authors:** Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso, R. and Lopinto, E. and Miglietta, F. and Genesio, L. and Guanter, L. and Damm, A. and P\
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cogliatiPRISMAImagingSpectroscopy2021c)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cohenStatisticalPowerAnalysis2013.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cohenStatisticalPowerAnalysis2013
+year: Unknown Year
+authors: Cohen, Jacob
+generated_by: claude
+---
+
+# 📄 Statistical Power Analysis
+
+* **Authors:** Cohen, Jacob
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cohenStatisticalPowerAnalysis2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/coppoLeonardoSpaceborneInfrared2020.md (~118 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: coppoLeonardoSpaceborneInfrared2020
+year: Unknown Year
+authors: Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sarti, Francesco and Dami, Michele and Chiarantini, Leandro and Ponticelli, Beatrice and Giunti, Lorenzo and Fossati, Enrico and Cosi, Massimo
+generated_by: claude
+---
+
+# 📄 Leonardo Spaceborne Infrared Payloads for Earth
+
+* **Authors:** Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sarti, Francesco and Dami, Michele and Chiarantini, Leandro and Ponticelli, Beatrice and Giunti, Lorenzo and Fossati, Enrico and Cosi, Massimo
+* **Published in:** *Appl. Opt.* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@coppoLeonardoSpaceborneInfrared2020)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/coppoLeonardoSpaceborneInfrared2020a.md (~118 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: coppoLeonardoSpaceborneInfrared2020a
+year: Unknown Year
+authors: Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sarti, Francesco and Dami, Michele and Chiarantini, Leandro and Ponticelli, Beatrice and Giunti, Lorenzo and Fossati, Enrico and Cosi, Massimo
+generated_by: claude
+---
+
+# 📄 Leonardo Spaceborne Infrared Payloads for Earth
+
+* **Authors:** Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sarti, Francesco and Dami, Michele and Chiarantini, Leandro and Ponticelli, Beatrice and Giunti, Lorenzo and Fossati, Enrico and Cosi, Massimo
+* **Published in:** *Appl. Opt.* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@coppoLeonardoSpaceborneInfrared2020a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cordellStoryPhosphorusGlobal2009.md (~76 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cordellStoryPhosphorusGlobal2009
+year: Unknown Year
+authors: Cordell, Dana and Drangert, Jan-Olof and White, Stuart
+generated_by: claude
+---
+
+# 📄 The Story of Phosphorus: Global
+
+* **Authors:** Cordell, Dana and Drangert, Jan-Olof and White, Stuart
+* **Published in:** *Global Environmental Change* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cordellStoryPhosphorusGlobal2009)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cordellStoryPhosphorusGlobal2009a.md (~76 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cordellStoryPhosphorusGlobal2009a
+year: Unknown Year
+authors: Cordell, Dana and Drangert, Jan-Olof and White, Stuart
+generated_by: claude
+---
+
+# 📄 The Story of Phosphorus: Global
+
+* **Authors:** Cordell, Dana and Drangert, Jan-Olof and White, Stuart
+* **Published in:** *Global Environmental Change* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cordellStoryPhosphorusGlobal2009a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/cortesSupportvectorNetworks1995.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: cortesSupportvectorNetworks1995
+year: Unknown Year
+authors: Cortes, Corinna and Vapnik, Vladimir
+generated_by: claude
+---
+
+# 📄 Support-Vector Networks
+
+* **Authors:** Cortes, Corinna and Vapnik, Vladimir
+* **Published in:** *Machine Learning* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@cortesSupportvectorNetworks1995)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/coverNearestNeighborPattern1967.md (~71 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: coverNearestNeighborPattern1967
+year: Unknown Year
+authors: Cover, T. and Hart, P.
+generated_by: claude
+---
+
+# 📄 Nearest Neighbor Pattern Classification
+
+* **Authors:** Cover, T. and Hart, P.
+* **Published in:** *IEEE Transactions on Information Theory* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@coverNearestNeighborPattern1967)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/daviesMappingAcidicMine2017.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: daviesMappingAcidicMine2017
+year: Unknown Year
+authors: Davies, Gwendolyn E. and Calvin, Wendy M.
+generated_by: claude
+---
+
+# 📄 Mapping Acidic Mine Waste with Seasonal Airborne Hyperspectral Imagery at Varying Spatial Scales
+
+* **Authors:** Davies, Gwendolyn E. and Calvin, Wendy M.
+* **Published in:** *Environmental Earth Sciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@daviesMappingAcidicMine2017)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/desanctisSpectroscopicCharacterizationMineralogy2012.md (~213 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: desanctisSpectroscopicCharacterizationMineralogy2012
+year: Unknown Year
+authors: De Sanctis, M. C. and Ammannito, E. and Capria, M. T. and Tosi, F. and Capaccioni, F. and Zambon, F. and Carraro, F. and Fonte, S. and Frigeri, A. and Jaumann, R. and Magni, G. and Marchi, S. and McCord, T. B. and McFadden, L. A. and McSween, H. Y. and Mittlefehldt, D. W. and Nathues, A. and Palomba, E. and Pieters, C. M. and Raymond, C. A. and Russell, C. T. and Toplis, M. J. and Turrini, D.
+generated_by: claude
+---
+
+# 📄 Spectroscopic Characterization
+
+* **Authors:** De Sanctis, M. C. and Ammannito, E. and Capria, M. T. and Tosi, F. and Capaccioni, F. and Zambon, F. and Carraro, F. and Fonte, S. and Frigeri, A. and Jaumann, R. and Magni, G. and Marchi, S. and McCord, T. B. and McFadden, L. A. and McSween, H. Y. and Mittlefehldt, D. W. and Nathues, A. and Palomba, E. and Pieters, C. M. and Raymond, C. A. and Russell, C. T. and Toplis, M. J. and Turrini, D.
+* **Published in:** *Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@desanctisSpectroscopicCharacterizationMineralogy2012)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/dobigeonNonlinearUnmixingHyperspectral2014.md (~98 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: dobigeonNonlinearUnmixingHyperspectral2014
+year: Unknown Year
+authors: Dobigeon, Nicolas and Tourneret, Jean-Yves and Richard, Cedric and Bermudez, Jose Carlos M. and McLaughlin, Stephen and Hero, Alfred O.
+generated_by: claude
+---
+
+# 📄 Nonlinear Unmixing
+
+* **Authors:** Dobigeon, Nicolas and Tourneret, Jean-Yves and Richard, Cedric and Bermudez, Jose Carlos M. and McLaughlin, Stephen and Hero, Alfred O.
+* **Published in:** *IEEE Signal Processing Magazine* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@dobigeonNonlinearUnmixingHyperspectral2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/edwardsMineralResourceOre2001.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: edwardsMineralResourceOre2001
+year: Unknown Year
+authors: Edwards, A.C. and of Mining, Australasian Institute and Metallurgy
+generated_by: claude
+---
+
+# 📄 Mineral Resource
+
+* **Authors:** Edwards, A.C. and of Mining, Australasian Institute and Metallurgy
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@edwardsMineralResourceOre2001)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/el-arafySuccessfulSpectralRemote2021.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: el-arafySuccessfulSpectralRemote2021
+year: Unknown Year
+authors: El-Arafy
+generated_by: claude
+---
+
+# 📄 Successful Spectral Remote Sensing Techniques for Mapping Apatite Mineral of Phosphatic Rocks at Eastern Side of Abu Tartur Plateau
+
+* **Authors:** El-Arafy
+* **Published in:** *Arabian Journal of Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@el-arafySuccessfulSpectralRemote2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/el-azhariEvaluatingGroundwaterSalinity2025.md (~71 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: el-azhariEvaluatingGroundwaterSalinity2025
+year: Unknown Year
+authors: El-Azhari
+generated_by: claude
+---
+
+# 📄 Evaluating Groundwater Salinity Patterns and Spatiotemporal Dynamics in Complex Endorheic Aquifer Systems
+
+* **Authors:** El-Azhari
+* **Published in:** *Science of The Total Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@el-azhariEvaluatingGroundwaterSalinity2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elazhariPollutionEcologicalRisk2017.md (~98 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elazhariPollutionEcologicalRisk2017
+year: Unknown Year
+authors: El Azhari, Abdellah and Rhoujjati, Ali and El Hachimi, Moulay La\^a
+generated_by: claude
+---
+
+# 📄 Pollution and Ecological Risk Assessment of Heavy Metals in the Soil-Plant System and the Sediment-Water Column around a Former Pb
+
+* **Authors:** El Azhari, Abdellah and Rhoujjati, Ali and El Hachimi, Moulay La\^a
+* **Published in:** *Ecotoxicology and Environmental Safety* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elazhariPollutionEcologicalRisk2017)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elbamikiPhosphateRocksReview2021.md (~93 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elbamikiPhosphateRocksReview2021
+year: Unknown Year
+authors: El Bamiki, Radouan and Raji, Otmane and Ouabid, Muhammad and Elghali, Abdellatif and Khadiri Yazami, Oussama and Bodinier, Jean-Louis
+generated_by: claude
+---
+
+# 📄 Phosphate Rocks
+
+* **Authors:** El Bamiki, Radouan and Raji, Otmane and Ouabid, Muhammad and Elghali, Abdellatif and Khadiri Yazami, Oussama and Bodinier, Jean-Louis
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elbamikiPhosphateRocksReview2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elberdaiValorizationPhosphateMine2024.md (~115 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elberdaiValorizationPhosphateMine2024
+year: Unknown Year
+authors: El Berdai, Yahya and Taha, Yassine and Trauchessec, Romain and Rhaouti, Yasmine and Safhi, Amine El Mahdi and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Valorization of Phosphate Mine Waste Rock as Alternative Aggregates for High-Performance Concrete
+
+* **Authors:** El Berdai, Yahya and Taha, Yassine and Trauchessec, Romain and Rhaouti, Yasmine and Safhi, Amine El Mahdi and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Case Studies in Construction Materials* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elberdaiValorizationPhosphateMine2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elberdaiValorizationPhosphateMine2024a.md (~115 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elberdaiValorizationPhosphateMine2024a
+year: Unknown Year
+authors: El Berdai, Yahya and Taha, Yassine and Trauchessec, Romain and Rhaouti, Yasmine and Safhi, Amine el Mahdi and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Valorization of Phosphate Mine Waste Rock as Alternative Aggregates for High-Performance Concrete
+
+* **Authors:** El Berdai, Yahya and Taha, Yassine and Trauchessec, Romain and Rhaouti, Yasmine and Safhi, Amine el Mahdi and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Case Studies in Construction Materials* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elberdaiValorizationPhosphateMine2024a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elmachiRecyclingMineWastes2024.md (~105 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elmachiRecyclingMineWastes2024
+year: Unknown Year
+authors: El Machi, Aiman and El Berdai, Yahya and Mabroum, Safaa and Safhi, Amine El Mahdi and Taha, Yassine and Benzaazoua, Mostafa and Hakkou, Rachid
+generated_by: claude
+---
+
+# 📄 Recycling of Mine Wastes
+
+* **Authors:** El Machi, Aiman and El Berdai, Yahya and Mabroum, Safaa and Safhi, Amine El Mahdi and Taha, Yassine and Benzaazoua, Mostafa and Hakkou, Rachid
+* **Published in:** *Buildings* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elmachiRecyclingMineWastes2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elmansourCuttingEdgeFrameworkSustainable2025.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elmansourCuttingEdgeFrameworkSustainable2025
+year: Unknown Year
+authors: El Mansour, Abdelhak and Laamrani, Ahmed and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 A Cutting-Edge Framework
+
+* **Authors:** El Mansour, Abdelhak and Laamrani, Ahmed and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elmansourCuttingEdgeFrameworkSustainable2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elmeknassiCircularEconomyStrategies2024.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elmeknassiCircularEconomyStrategies2024
+year: Unknown Year
+authors: Elmeknassi, Malak and Elghali, Abdellatif and Laamrani, Ahmed and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Circular Economy Strategies in Sedimentary Phosphate Mine Reclamation: Development
+
+* **Authors:** Elmeknassi, Malak and Elghali, Abdellatif and Laamrani, Ahmed and Benzaazoua, Mostafa
+* **Published in:** *Journal of Environmental Management* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elmeknassiCircularEconomyStrategies2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/elserBrokenBiogeochemicalCycle2011.md (~67 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: elserBrokenBiogeochemicalCycle2011
+year: Unknown Year
+authors: Elser, James and Bennett, Elena
+generated_by: claude
+---
+
+# 📄 A Broken Biogeochemical Cycle
+
+* **Authors:** Elser, James and Bennett, Elena
+* **Published in:** *Nature* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@elserBrokenBiogeochemicalCycle2011)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/essingtonSoilWaterChemistry2004.md (~67 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: essingtonSoilWaterChemistry2004
+year: Unknown Year
+authors: Essington, Michael E.
+generated_by: claude
+---
+
+# 📄 Soil and Water Chemistry: An Integrative Approach
+
+* **Authors:** Essington, Michael E.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@essingtonSoilWaterChemistry2004)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/fauvelAdvancesSpectralSpatialClassification2013.md (~92 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: fauvelAdvancesSpectralSpatialClassification2013
+year: Unknown Year
+authors: Fauvel, M. and Tarabalka, Y. and Benediktsson, J. A. and Chanussot, J. and Tilton, J. C.
+generated_by: claude
+---
+
+# 📄 Advances in Spectral-Spatial Classification
+
+* **Authors:** Fauvel, M. and Tarabalka, Y. and Benediktsson, J. A. and Chanussot, J. and Tilton, J. C.
+* **Published in:** *Proceedings of the IEEE* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@fauvelAdvancesSpectralSpatialClassification2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/fieldingStatisticalInferenceOrder1974.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: fieldingStatisticalInferenceOrder1974
+year: Unknown Year
+authors: Fielding, A. and Barlow, R. E. and Bartholomew, D. J. and Bremner, J. M. and Brunk, H. D.
+generated_by: claude
+---
+
+# 📄 Statistical Inference Under Order Restrictions
+
+* **Authors:** Fielding, A. and Barlow, R. E. and Bartholomew, D. J. and Bremner, J. M. and Brunk, H. D.
+* **Published in:** *Journal of the Royal Statistical Society. Series A (General)* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@fieldingStatisticalInferenceOrder1974)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/flogeacCharacterizationSoilParticles2005.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: flogeacCharacterizationSoilParticles2005
+year: Unknown Year
+authors: Flogeac, Karine and Guillon, Emmanuel and Aplincourt, Michel and Marceau, Eric and Stievano, Lorenzo and Beaunier, Patricia and Frapart, Yves-Michel
+generated_by: claude
+---
+
+# 📄 Characterization of Soil Particles by X-ray
+
+* **Authors:** Flogeac, Karine and Guillon, Emmanuel and Aplincourt, Michel and Marceau, Eric and Stievano, Lorenzo and Beaunier, Patricia and Frapart, Yves-Michel
+* **Published in:** *Agronomy for Sustainable Development* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@flogeacCharacterizationSoilParticles2005)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/francosEstimationRelativeAbundance2021.md (~73 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: francosEstimationRelativeAbundance2021
+year: Unknown Year
+authors: Francos, Nicolas and Notesco, Gila and Ben-Dor
+generated_by: claude
+---
+
+# 📄 Estimation of the Relative Abundance
+
+* **Authors:** Francos, Nicolas and Notesco, Gila and Ben-Dor
+* **Published in:** *Applied Spectroscopy* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@francosEstimationRelativeAbundance2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gaffeySpectralReflectanceCarbonate1986.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gaffeySpectralReflectanceCarbonate1986
+year: Unknown Year
+authors: Gaffey, Susan J.
+generated_by: claude
+---
+
+# 📄 Spectral Reflectance of Carbonate Minerals in the Visible and near Infrared (0.35-2.55 Microns); Calcite, Aragonite, and Dolomite
+
+* **Authors:** Gaffey, Susan J.
+* **Published in:** *American Mineralogist* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gaffeySpectralReflectanceCarbonate1986)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gaffeysSpectralReflectanceCarbonate1986.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gaffeysSpectralReflectanceCarbonate1986
+year: Unknown Year
+authors: Gaffey, S, J
+generated_by: claude
+---
+
+# 📄 Spectral Reflectance of Carbonate Minerals in the Visible and near Infrared (0.35--2.55 \textmu m): Calcite, Aragonite, and Dolomite
+
+* **Authors:** Gaffey, S, J
+* **Published in:** *American mineralogist* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gaffeysSpectralReflectanceCarbonate1986)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gaoGeneralizedUnsupervisedClustering2021.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gaoGeneralizedUnsupervisedClustering2021
+year: Unknown Year
+authors: Gao, Angela F. and Rasmussen, Brandon and Kulits, Peter and Scheller, Eva L. and Greenberger, Rebecca and Ehlmann, Bethany L.
+generated_by: claude
+---
+
+# 📄 Generalized Unsupervised Clustering
+
+* **Authors:** Gao, Angela F. and Rasmussen, Brandon and Kulits, Peter and Scheller, Eva L. and Greenberger, Rebecca and Ehlmann, Bethany L.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gaoGeneralizedUnsupervisedClustering2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gasmiUsingPRISMAHyperspectral2022.md (~69 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gasmiUsingPRISMAHyperspectral2022
+year: Unknown Year
+authors: Gasmi, Anis and Gomez, C\
+generated_by: claude
+---
+
+# 📄 Using PRISMA Hyperspectral Satellite Imagery
+
+* **Authors:** Gasmi, Anis and Gomez, C\
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gasmiUsingPRISMAHyperspectral2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gazleyReviewReliabilityValidity2014.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gazleyReviewReliabilityValidity2014
+year: Unknown Year
+authors: Gazley, M. F. and Fisher, L. A.
+generated_by: claude
+---
+
+# 📄 A Review of the Reliability and Validity of Portable X-ray
+
+* **Authors:** Gazley, M. F. and Fisher, L. A.
+* **Published in:** *Mineral resource and ore reserve estimation--The AusIMM guide to good practice* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gazleyReviewReliabilityValidity2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gazleyReviewReliabilityValidity2014a.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gazleyReviewReliabilityValidity2014a
+year: Unknown Year
+authors: Gazley, Michael and Fisher, Louise
+generated_by: claude
+---
+
+# 📄 A Review of the Reliability and Validity of Portable X-ray
+
+* **Authors:** Gazley, Michael and Fisher, Louise
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gazleyReviewReliabilityValidity2014a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/geladiPartialLeastsquaresRegression1986.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: geladiPartialLeastsquaresRegression1986
+year: Unknown Year
+authors: Geladi, Paul and Kowalski, Bruce R.
+generated_by: claude
+---
+
+# 📄 Partial Least-Squares Regression: A Tutorial
+
+* **Authors:** Geladi, Paul and Kowalski, Bruce R.
+* **Published in:** *Analytica Chimica Acta* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@geladiPartialLeastsquaresRegression1986)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/geladiPartialLeastsquaresRegression1986a.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: geladiPartialLeastsquaresRegression1986a
+year: Unknown Year
+authors: Geladi, Paul and Kowalski, Bruce R.
+generated_by: claude
+---
+
+# 📄 Partial Least-Squares Regression: A Tutorial
+
+* **Authors:** Geladi, Paul and Kowalski, Bruce R.
+* **Published in:** *Analytica Chimica Acta* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@geladiPartialLeastsquaresRegression1986a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/genesioUpdatesPRISMAScientific2022.md (~168 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: genesioUpdatesPRISMAScientific2022
+year: Unknown Year
+authors: Genesio, Lorenzo and Braga, Federica and Bresciani, Mariano and Boschetti, Mirco and Carotenuto, Federico and Cogliati, Sergio and Colella, Simone and Colombo, Roberto and Giardino, Claudia and Gioli, Beniamino and Lopinto, Ettore and Meloni, Daniela and Pepe, Monica and Pascucci, Simone and Pignatti, Stefano and Pompilio, Loredana and Sacco, Patrizia and Satalino, Giuseppe and Miglietta, Franco
+generated_by: claude
+---
+
+# 📄 Updates On PRISMA
+
+* **Authors:** Genesio, Lorenzo and Braga, Federica and Bresciani, Mariano and Boschetti, Mirco and Carotenuto, Federico and Cogliati, Sergio and Colella, Simone and Colombo, Roberto and Giardino, Claudia and Gioli, Beniamino and Lopinto, Ettore and Meloni, Daniela and Pepe, Monica and Pascucci, Simone and Pignatti, Stefano and Pompilio, Loredana and Sacco, Patrizia and Satalino, Giuseppe and Miglietta, Franco
+* **Published in:** *IGARSS* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@genesioUpdatesPRISMAScientific2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/geurtsExtremelyRandomizedTrees2006.md (~73 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: geurtsExtremelyRandomizedTrees2006
+year: Unknown Year
+authors: Geurts, Pierre and Ernst, Damien and Wehenkel, Louis
+generated_by: claude
+---
+
+# 📄 Extremely Randomized Trees
+
+* **Authors:** Geurts, Pierre and Ernst, Damien and Wehenkel, Louis
+* **Published in:** *Machine Learning* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@geurtsExtremelyRandomizedTrees2006)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/gewaliMachineLearningBased2019.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: gewaliMachineLearningBased2019
+year: Unknown Year
+authors: Gewali, Utsav B. and Monteiro, Sildomar T. and Saber, Eli
+generated_by: claude
+---
+
+# 📄 Machine Learning Based Hyperspectral Image Analysis: A
+
+* **Authors:** Gewali, Utsav B. and Monteiro, Sildomar T. and Saber, Eli
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@gewaliMachineLearningBased2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021.md (~125 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: giardinoHyperspectralPrismaProducts2021
+year: Unknown Year
+authors: Giardino, Claudia and Bresciani, Mariano and Fabbretto, Alice and Ghirardi, Nicola and Mangano, Salvatore and Pellegrino, Andrea and Vaiciute, Diana and Braga, Federica and Brando, Vittorio E. and Laanen, Marnix and Tzimas, Apostolos
+generated_by: claude
+---
+
+# 📄 Hyperspectral Prisma Products
+
+* **Authors:** Giardino, Claudia and Bresciani, Mariano and Fabbretto, Alice and Ghirardi, Nicola and Mangano, Salvatore and Pellegrino, Andrea and Vaiciute, Diana and Braga, Federica and Brando, Vittorio E. and Laanen, Marnix and Tzimas, Apostolos
+* **Published in:** *2021 IEEE International Geoscience* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@giardinoHyperspectralPrismaProducts2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021a.md (~125 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: giardinoHyperspectralPrismaProducts2021a
+year: Unknown Year
+authors: Giardino, Claudia and Bresciani, Mariano and Fabbretto, Alice and Ghirardi, Nicola and Mangano, Salvatore and Pellegrino, Andrea and Vaiciute, Diana and Braga, Federica and Brando, Vittorio E. and Laanen, Marnix and Tzimas, Apostolos
+generated_by: claude
+---
+
+# 📄 Hyperspectral Prisma Products
+
+* **Authors:** Giardino, Claudia and Bresciani, Mariano and Fabbretto, Alice and Ghirardi, Nicola and Mangano, Salvatore and Pellegrino, Andrea and Vaiciute, Diana and Braga, Federica and Brando, Vittorio E. and Laanen, Marnix and Tzimas, Apostolos
+* **Published in:** *2021 IEEE International Geoscience* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@giardinoHyperspectralPrismaProducts2021a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/giglioActiveFireDetection2008.md (~85 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: giglioActiveFireDetection2008
+year: Unknown Year
+authors: Giglio, Louis and Csiszar, Ivan and Rest\
+generated_by: claude
+---
+
+# 📄 Active Fire Detection and Characterization with the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER
+
+* **Authors:** Giglio, Louis and Csiszar, Ivan and Rest\
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@giglioActiveFireDetection2008)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985.md (~85 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: goetzImagingSpectrometryEarth1985
+year: Unknown Year
+authors: Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry E. and Rock, Barrett N.
+generated_by: claude
+---
+
+# 📄 Imaging Spectrometry
+
+* **Authors:** Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry E. and Rock, Barrett N.
+* **Published in:** *Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@goetzImagingSpectrometryEarth1985)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985a.md (~85 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: goetzImagingSpectrometryEarth1985a
+year: Unknown Year
+authors: Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry E. and Rock, Barrett N.
+generated_by: claude
+---
+
+# 📄 Imaging Spectrometry
+
+* **Authors:** Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry E. and Rock, Barrett N.
+* **Published in:** *Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@goetzImagingSpectrometryEarth1985a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/grewalMachineLearningDeep2023.md (~73 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: grewalMachineLearningDeep2023
+year: Unknown Year
+authors: Grewal, Reaya and Singh Kasana, Singara and Kasana, Geeta
+generated_by: claude
+---
+
+# 📄 Machine Learning
+
+* **Authors:** Grewal, Reaya and Singh Kasana, Singara and Kasana, Geeta
+* **Published in:** *Electronics* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@grewalMachineLearningDeep2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/guanterSpectralCalibrationHyperspectral2006.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: guanterSpectralCalibrationHyperspectral2006
+year: Unknown Year
+authors: Guanter, Luis and Richter, Rudolf and Moreno, Jos\
+generated_by: claude
+---
+
+# 📄 Spectral Calibration of Hyperspectral Imagery Using Atmospheric Absorption Features
+
+* **Authors:** Guanter, Luis and Richter, Rudolf and Moreno, Jos\
+* **Published in:** *Applied Optics* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@guanterSpectralCalibrationHyperspectral2006)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/guhaReflectanceSpectroscopyASTER2019.md (~127 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: guhaReflectanceSpectroscopyASTER2019
+year: Unknown Year
+authors: Guha, Arindam and Vinod Kumar, K. and Porwal, Alok and Rani, Komal and Sahoo, K.C. and Aneesh Kumar, S.R. and Singaraju, V. and Singh, R.P. and Khandelwal, M.K. and Raju, P.V. and Diwakar, P.G.
+generated_by: claude
+---
+
+# 📄 Reflectance Spectroscopy and ASTER
+
+* **Authors:** Guha, Arindam and Vinod Kumar, K. and Porwal, Alok and Rani, Komal and Sahoo, K.C. and Aneesh Kumar, S.R. and Singaraju, V. and Singh, R.P. and Khandelwal, M.K. and Raju, P.V. and Diwakar, P.G.
+* **Published in:** *Ore Geology Reviews* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@guhaReflectanceSpectroscopyASTER2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hakkouValorizationPhosphateWaste2016.md (~73 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hakkouValorizationPhosphateWaste2016
+year: Unknown Year
+authors: Hakkou, Rachid and Benzaazoua, Mostafa and Bussi\`e
+generated_by: claude
+---
+
+# 📄 Valorization of Phosphate Waste Rocks
+
+* **Authors:** Hakkou, Rachid and Benzaazoua, Mostafa and Bussi\`e
+* **Published in:** *Procedia Engineering* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hakkouValorizationPhosphateWaste2016)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hallEvaluationPortableXray2014.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hallEvaluationPortableXray2014
+year: Unknown Year
+authors: Hall, Gwendy E.M. and Bonham-Carter
+generated_by: claude
+---
+
+# 📄 Evaluation of Portable X-ray
+
+* **Authors:** Hall, Gwendy E.M. and Bonham-Carter
+* **Published in:** *Geochemistry: Exploration, Environment, Analysis* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hallEvaluationPortableXray2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hapkeBidirectionalReflectanceSpectroscopy1981.md (~67 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hapkeBidirectionalReflectanceSpectroscopy1981
+year: Unknown Year
+authors: Hapke, Bruce
+generated_by: claude
+---
+
+# 📄 Bidirectional Reflectance Spectroscopy: 1. Theory
+
+* **Authors:** Hapke, Bruce
+* **Published in:** *Journal of Geophysical Research: Solid Earth* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hapkeBidirectionalReflectanceSpectroscopy1981)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hapkeTheoryReflectanceEmittance2012.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hapkeTheoryReflectanceEmittance2012
+year: Unknown Year
+authors: Hapke, Bruce
+generated_by: claude
+---
+
+# 📄 Theory of Reflectance
+
+* **Authors:** Hapke, Bruce
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hapkeTheoryReflectanceEmittance2012)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/heRecentAdvancesSpectral2018.md (~83 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: heRecentAdvancesSpectral2018
+year: Unknown Year
+authors: He, Lin and Li, Jun and Liu, Chenying and Li, Shutao
+generated_by: claude
+---
+
+# 📄 Recent Advances
+
+* **Authors:** He, Lin and Li, Jun and Liu, Chenying and Li, Shutao
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@heRecentAdvancesSpectral2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/heckerAssessingInfluenceReference2008.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: heckerAssessingInfluenceReference2008
+year: Unknown Year
+authors: Hecker, Christoph and van der Meijde
+generated_by: claude
+---
+
+# 📄 Assessing the Influence
+
+* **Authors:** Hecker, Christoph and van der Meijde
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@heckerAssessingInfluenceReference2008)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/heckerAssessingInfluenceReference2008a.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: heckerAssessingInfluenceReference2008a
+year: Unknown Year
+authors: Hecker, Christoph and van der Meijde
+generated_by: claude
+---
+
+# 📄 Assessing the Influence
+
+* **Authors:** Hecker, Christoph and van der Meijde
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@heckerAssessingInfluenceReference2008a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: heinzFullyConstrainedLeast2001
+year: Unknown Year
+authors: Heinz, D.C. and Chein-I-Chang
+generated_by: claude
+---
+
+# 📄 Fully Constrained Least Squares Linear Spectral Mixture Analysis Method for Material Quantification in Hyperspectral Imagery
+
+* **Authors:** Heinz, D.C. and Chein-I-Chang
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@heinzFullyConstrainedLeast2001)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001a.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: heinzFullyConstrainedLeast2001a
+year: Unknown Year
+authors: Heinz, D.C. and Chein-I-Chang
+generated_by: claude
+---
+
+# 📄 Fully Constrained Least Squares Linear Spectral Mixture Analysis Method for Material Quantification in Hyperspectral Imagery
+
+* **Authors:** Heinz, D.C. and Chein-I-Chang
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@heinzFullyConstrainedLeast2001a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001b.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: heinzFullyConstrainedLeast2001b
+year: Unknown Year
+authors: Heinz, D.C. and Chein-I-Chang
+generated_by: claude
+---
+
+# 📄 Fully Constrained Least Squares Linear Spectral Mixture Analysis Method for Material Quantification in Hyperspectral Imagery
+
+* **Authors:** Heinz, D.C. and Chein-I-Chang
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@heinzFullyConstrainedLeast2001b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hellerpearlshtienPRISMASensorEvaluation2021
+year: Unknown Year
+authors: Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
+generated_by: claude
+---
+
+# 📄 PRISMA
+
+* **Authors:** Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
+* **Published in:** *International Journal of Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hellerpearlshtienPRISMASensorEvaluation2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021a.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hellerpearlshtienPRISMASensorEvaluation2021a
+year: Unknown Year
+authors: Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
+generated_by: claude
+---
+
+# 📄 PRISMA
+
+* **Authors:** Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
+* **Published in:** *International Journal of Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hellerpearlshtienPRISMASensorEvaluation2021a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021b.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hellerpearlshtienPRISMASensorEvaluation2021b
+year: Unknown Year
+authors: Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
+generated_by: claude
+---
+
+# 📄 PRISMA
+
+* **Authors:** Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
+* **Published in:** *International Journal of Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hellerpearlshtienPRISMASensorEvaluation2021b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/hudson-edwardsTacklingMineWastes2016.md (~58 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: hudson-edwardsTacklingMineWastes2016
+year: Unknown Year
+authors: Hudson-Edwards
+generated_by: claude
+---
+
+# 📄 Tackling Mine Wastes
+
+* **Authors:** Hudson-Edwards
+* **Published in:** *Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@hudson-edwardsTacklingMineWastes2016)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/huntSPECTRALSIGNATURESPARTICULATE1977.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: huntSPECTRALSIGNATURESPARTICULATE1977
+year: Unknown Year
+authors: Hunt, Graham R.
+generated_by: claude
+---
+
+# 📄 SPECTRAL SIGNATURES OF PARTICULATE MINERALS IN THE VISIBLE AND NEAR INFRARED
+
+* **Authors:** Hunt, Graham R.
+* **Published in:** *GEOPHYSICS* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@huntSPECTRALSIGNATURESPARTICULATE1977)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/huntVisibleNearinfraredSpectra1970.md (~69 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: huntVisibleNearinfraredSpectra1970
+year: Unknown Year
+authors: Hunt, Graham R.
+generated_by: claude
+---
+
+# 📄 Visible and Near-Infrared Spectra of Minerals and Rocks: I
+
+* **Authors:** Hunt, Graham R.
+* **Published in:** *Modern geology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@huntVisibleNearinfraredSpectra1970)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/huntVisibleNearinfraredSpectra1971.md (~69 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: huntVisibleNearinfraredSpectra1971
+year: Unknown Year
+authors: Hunt, Graham R.
+generated_by: claude
+---
+
+# 📄 Visible and Near-Infrared Spectra of Minerals and Rocks: II
+
+* **Authors:** Hunt, Graham R.
+* **Published in:** *Modern Geology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@huntVisibleNearinfraredSpectra1971)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ibrahimAssessmentMachineLearning2014.md (~69 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ibrahimAssessmentMachineLearning2014
+year: Unknown Year
+authors: Ibrahim, Adamu M. and Bennett, Brandon
+generated_by: claude
+---
+
+# 📄 The Assessment
+
+* **Authors:** Ibrahim, Adamu M. and Bennett, Brandon
+* **Published in:** *Procedia Computer Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ibrahimAssessmentMachineLearning2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/idrissiSustainableUsePhosphate2021.md (~111 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: idrissiSustainableUsePhosphate2021
+year: Unknown Year
+authors: Idrissi, Hicham and Taha, Yassine and Elghali, Abdellatif and El Khessaimi, Yassine and Aboulayt, Abdelilah and Amalik, Jamal and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Sustainable Use of Phosphate Waste Rocks: From
+
+* **Authors:** Idrissi, Hicham and Taha, Yassine and Elghali, Abdellatif and El Khessaimi, Yassine and Aboulayt, Abdelilah and Amalik, Jamal and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Materials Chemistry and Physics* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@idrissiSustainableUsePhosphate2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ihbachGeophysicalProspectingGroundwater2020.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ihbachGeophysicalProspectingGroundwater2020
+year: Unknown Year
+authors: Ihbach, Fatim-Zahra and Kchikach, Azzouz and Jaffal, Mohammed and El Azzab, Driss and Khadiri Yazami, Oussama and Jourani, Es-Said and Pe\~n
+generated_by: claude
+---
+
+# 📄 Geophysical Prospecting
+
+* **Authors:** Ihbach, Fatim-Zahra and Kchikach, Azzouz and Jaffal, Mohammed and El Azzab, Driss and Khadiri Yazami, Oussama and Jourani, Es-Said and Pe\~n
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ihbachGeophysicalProspectingGroundwater2020)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/inabiInvestigationInnovativeCombined2024.md (~93 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: inabiInvestigationInnovativeCombined2024
+year: Unknown Year
+authors: Inabi, Omar and Khalil, Abdessamad and Zouine, Abir and Hakkou, Rachid and Benzaazoua, Mostafa and Taha, Yassine
+generated_by: claude
+---
+
+# 📄 Investigation of the Innovative Combined Reuse
+
+* **Authors:** Inabi, Omar and Khalil, Abdessamad and Zouine, Abir and Hakkou, Rachid and Benzaazoua, Mostafa and Taha, Yassine
+* **Published in:** *Buildings* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@inabiInvestigationInnovativeCombined2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/inabiSustainableMiningRepurposing2025.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: inabiSustainableMiningRepurposing2025
+year: Unknown Year
+authors: Inabi, Omar and Khalil, Abdessamad and Benzaazoua, Mostafa and Taha, Yassine
+generated_by: claude
+---
+
+# 📄 Toward Sustainable Mining
+
+* **Authors:** Inabi, Omar and Khalil, Abdessamad and Benzaazoua, Mostafa and Taha, Yassine
+* **Published in:** *E3S Web of Conferences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@inabiSustainableMiningRepurposing2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/jahodaMachineLearningRecognizing2021.md (~98 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: jahodaMachineLearningRecognizing2021
+year: Unknown Year
+authors: Jahoda, Pavel and Drozdovskiy, Igor and Payler, Samuel J. and Turchi, Leonardo and Bessone, Loredana and Sauro, Francesco
+generated_by: claude
+---
+
+# 📄 Machine Learning for Recognizing Minerals from Multispectral Data
+
+* **Authors:** Jahoda, Pavel and Drozdovskiy, Igor and Payler, Samuel J. and Turchi, Leonardo and Bessone, Loredana and Sauro, Francesco
+* **Published in:** *The Analyst* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@jahodaMachineLearningRecognizing2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/jamiesonGeochemistryMineralogySolid2011.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: jamiesonGeochemistryMineralogySolid2011
+year: Unknown Year
+authors: Jamieson, H. E.
+generated_by: claude
+---
+
+# 📄 Geochemistry and Mineralogy
+
+* **Authors:** Jamieson, H. E.
+* **Published in:** *Elements* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@jamiesonGeochemistryMineralogySolid2011)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/jiangEvaluationPotentialRelease2015.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: jiangEvaluationPotentialRelease2015
+year: Unknown Year
+authors: Jiang, Liguo and Xue, Qiang and Liu, Lei
+generated_by: claude
+---
+
+# 📄 Evaluation of the Potential Release of Phosphorus from Phosphate Waste Rock Piles in Different Environmental Scenarios
+
+* **Authors:** Jiang, Liguo and Xue, Qiang and Liu, Lei
+* **Published in:** *Environmental Earth Sciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@jiangEvaluationPotentialRelease2015)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kalnickyFieldPortableXRF2001.md (~71 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kalnickyFieldPortableXRF2001
+year: Unknown Year
+authors: Kalnicky, Dennis J and Singhvi, Raj
+generated_by: claude
+---
+
+# 📄 Field Portable XRF
+
+* **Authors:** Kalnicky, Dennis J and Singhvi, Raj
+* **Published in:** *Journal of Hazardous Materials* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kalnickyFieldPortableXRF2001)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/karasiakSpatialDependenceTraining2022.md (~92 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: karasiakSpatialDependenceTraining2022
+year: Unknown Year
+authors: Karasiak, N. and Dejoux, J.-F. and Monteil, C. and Sheeren, D.
+generated_by: claude
+---
+
+# 📄 Spatial Dependence between Training and Test Sets: Another Pitfall of Classification Accuracy Assessment in Remote Sensing
+
+* **Authors:** Karasiak, N. and Dejoux, J.-F. and Monteil, C. and Sheeren, D.
+* **Published in:** *Machine Learning* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@karasiakSpatialDependenceTraining2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kattenbornSpatiallyAutocorrelatedTraining2022.md (~111 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kattenbornSpatiallyAutocorrelatedTraining2022
+year: Unknown Year
+authors: Kattenborn, Teja and Schiefer, Felix and Frey, Julian and Feilhauer, Hannes and Mahecha, Miguel D. and Dormann, Carsten F.
+generated_by: claude
+---
+
+# 📄 Spatially Autocorrelated Training and Validation Samples Inflate Performance Assessment of Convolutional Neural Networks
+
+* **Authors:** Kattenborn, Teja and Schiefer, Felix and Frey, Julian and Feilhauer, Hannes and Mahecha, Miguel D. and Dormann, Carsten F.
+* **Published in:** *ISPRS Open Journal of Photogrammetry and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kattenbornSpatiallyAutocorrelatedTraining2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kattenbornSpatiallyAutocorrelatedTraining2022a.md (~111 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kattenbornSpatiallyAutocorrelatedTraining2022a
+year: Unknown Year
+authors: Kattenborn, Teja and Schiefer, Felix and Frey, Julian and Feilhauer, Hannes and Mahecha, Miguel D. and Dormann, Carsten F.
+generated_by: claude
+---
+
+# 📄 Spatially Autocorrelated Training and Validation Samples Inflate Performance Assessment of Convolutional Neural Networks
+
+* **Authors:** Kattenborn, Teja and Schiefer, Felix and Frey, Julian and Feilhauer, Hannes and Mahecha, Miguel D. and Dormann, Carsten F.
+* **Published in:** *ISPRS Open Journal of Photogrammetry and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kattenbornSpatiallyAutocorrelatedTraining2022a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/keshavaSpectralUnmixing2002.md (~68 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: keshavaSpectralUnmixing2002
+year: Unknown Year
+authors: Keshava, N. and Mustard, J.F.
+generated_by: claude
+---
+
+# 📄 Spectral Unmixing
+
+* **Authors:** Keshava, N. and Mustard, J.F.
+* **Published in:** *IEEE Signal Processing Magazine* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@keshavaSpectralUnmixing2002)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/keshavaSpectralUnmixing2002a.md (~68 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: keshavaSpectralUnmixing2002a
+year: Unknown Year
+authors: Keshava, N. and Mustard, J.F.
+generated_by: claude
+---
+
+# 📄 Spectral Unmixing
+
+* **Authors:** Keshava, N. and Mustard, J.F.
+* **Published in:** *IEEE Signal Processing Magazine* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@keshavaSpectralUnmixing2002a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/khalilAssessmentSoilContamination2013.md (~107 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: khalilAssessmentSoilContamination2013
+year: Unknown Year
+authors: Khalil, A. and Hanich, L. and Bannari, A. and Zouhri, L. and Pourret, O. and Hakkou, R.
+generated_by: claude
+---
+
+# 📄 Assessment of Soil Contamination around an Abandoned Mine in a Semi-Arid Environment Using Geochemistry and Geostatistics: Pre-work
+
+* **Authors:** Khalil, A. and Hanich, L. and Bannari, A. and Zouhri, L. and Pourret, O. and Hakkou, R.
+* **Published in:** *Journal of Geochemical Exploration* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@khalilAssessmentSoilContamination2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kleinmannPredictionWaterQuality2000.md (~76 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kleinmannPredictionWaterQuality2000
+year: Unknown Year
+authors: Kleinmann, R.L.P. and Acid Drainage Technology Initiative. Prediction Workgroup
+generated_by: claude
+---
+
+# 📄 Prediction of Water Quality
+
+* **Authors:** Kleinmann, R.L.P. and Acid Drainage Technology Initiative. Prediction Workgroup
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kleinmannPredictionWaterQuality2000)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/koiralaRobustSupervisedMethod2021.md (~84 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: koiralaRobustSupervisedMethod2021
+year: Unknown Year
+authors: Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo and Scheunders, Paul
+generated_by: claude
+---
+
+# 📄 Robust Supervised Method
+
+* **Authors:** Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo and Scheunders, Paul
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@koiralaRobustSupervisedMethod2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/koiralaRobustSupervisedMethod2021a.md (~84 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: koiralaRobustSupervisedMethod2021a
+year: Unknown Year
+authors: Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo and Scheunders, Paul
+generated_by: claude
+---
+
+# 📄 Robust Supervised Method
+
+* **Authors:** Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo and Scheunders, Paul
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@koiralaRobustSupervisedMethod2021a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kokalyUSGSSpectralLibrary2017.md (~128 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kokalyUSGSSpectralLibrary2017
+year: Unknown Year
+authors: Kokaly, Raymond F. and Clark, Roger and Swayze, Gregg and Livo, K. Eric and Hoefen, Todd and Pearson, Neil and Wise, Richard and Benzel, William and Lowers, Heather A. and Driscoll, Rhonda and Klein, Anna
+generated_by: claude
+---
+
+# 📄 USGS Spectral Library Version
+
+* **Authors:** Kokaly, Raymond F. and Clark, Roger and Swayze, Gregg and Livo, K. Eric and Hoefen, Todd and Pearson, Neil and Wise, Richard and Benzel, William and Lowers, Heather A. and Driscoll, Rhonda and Klein, Anna
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kokalyUSGSSpectralLibrary2017)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kruseSpectralImageProcessing1993.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kruseSpectralImageProcessing1993
+year: Unknown Year
+authors: Kruse, F.A. and Lefkoff, A.B. and Boardman, J.W. and Heidebrecht, K.B. and Shapiro, A.T. and Barloon, P.J. and Goetz, A.F.H.
+generated_by: claude
+---
+
+# 📄 The Spectral Image Processing System (SIPS
+
+* **Authors:** Kruse, F.A. and Lefkoff, A.B. and Boardman, J.W. and Heidebrecht, K.B. and Shapiro, A.T. and Barloon, P.J. and Goetz, A.F.H.
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kruseSpectralImageProcessing1993)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/kruseSpectralImageProcessing1993a.md (~118 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: kruseSpectralImageProcessing1993a
+year: Unknown Year
+authors: Kruse, F. A. and Lefkoff, A. B. and Boardman, J. W. and Heidebrecht, K. B. and Shapiro, A. T. and Barloon, P. J. and Goetz, A. F. H.
+generated_by: claude
+---
+
+# 📄 The Spectral Image Processing System (SIPS
+
+* **Authors:** Kruse, F. A. and Lefkoff, A. B. and Boardman, J. W. and Heidebrecht, K. B. and Shapiro, A. T. and Barloon, P. J. and Goetz, A. F. H.
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@kruseSpectralImageProcessing1993a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/laaksoAssessingAbilityCombine2018.md (~88 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: laaksoAssessingAbilityCombine2018
+year: Unknown Year
+authors: Laakso, K. and Middleton, M. and Heinig, T. and B\
+generated_by: claude
+---
+
+# 📄 Assessing the Ability to Combine Hyperspectral Imaging (HSI
+
+* **Authors:** Laakso, K. and Middleton, M. and Heinig, T. and B\
+* **Published in:** *International Journal of Applied Earth Observation and Geoinformation* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@laaksoAssessingAbilityCombine2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/lawsonSolvingLeastSquares1995.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: lawsonSolvingLeastSquares1995
+year: Unknown Year
+authors: Lawson, Charles L. and Hanson, Richard J.
+generated_by: claude
+---
+
+# 📄 Solving Least Squares Problems
+
+* **Authors:** Lawson, Charles L. and Hanson, Richard J.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@lawsonSolvingLeastSquares1995)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/lawsonSolvingLeastSquares1995a.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: lawsonSolvingLeastSquares1995a
+year: Unknown Year
+authors: Lawson, Charles L. and Hanson, Richard J.
+generated_by: claude
+---
+
+# 📄 Solving Least Squares Problems
+
+* **Authors:** Lawson, Charles L. and Hanson, Richard J.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@lawsonSolvingLeastSquares1995a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/liDeepLearningHyperspectral2019.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: liDeepLearningHyperspectral2019
+year: Unknown Year
+authors: Li, Shutao and Song, Weiwei and Fang, Leyuan and Chen, Yushi and Ghamisi, Pedram and Benediktsson, Jon Atli
+generated_by: claude
+---
+
+# 📄 Deep Learning
+
+* **Authors:** Li, Shutao and Song, Weiwei and Fang, Leyuan and Chen, Yushi and Ghamisi, Pedram and Benediktsson, Jon Atli
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@liDeepLearningHyperspectral2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/liMineralProspectivityMapping2025.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: liMineralProspectivityMapping2025
+year: Unknown Year
+authors: Li, Quanke and Chen, Guoxiong and Wang, Detao
+generated_by: claude
+---
+
+# 📄 Mineral Prospectivity Mapping Using Semi-supervised Machine Learning
+
+* **Authors:** Li, Quanke and Chen, Guoxiong and Wang, Detao
+* **Published in:** *Mathematical Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@liMineralProspectivityMapping2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaItalianHyperspectral2018.md (~98 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: loizzoPrismaItalianHyperspectral2018
+year: Unknown Year
+authors: Loizzo, R. and Guarini, R. and Longo, F. and Scopa, T. and Formaro, R. and Facchinetti, C. and Varacalli, G.
+generated_by: claude
+---
+
+# 📄 Prisma: The Italian Hyperspectral Mission
+
+* **Authors:** Loizzo, R. and Guarini, R. and Longo, F. and Scopa, T. and Formaro, R. and Facchinetti, C. and Varacalli, G.
+* **Published in:** *IGARSS* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@loizzoPrismaItalianHyperspectral2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaMissionStatus2019.md (~96 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: loizzoPrismaMissionStatus2019
+year: Unknown Year
+authors: Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. and Lorusso, R. and Dini, L. and Lopinto, E.
+generated_by: claude
+---
+
+# 📄 Prisma Mission Status
+
+* **Authors:** Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. and Lorusso, R. and Dini, L. and Lopinto, E.
+* **Published in:** *IGARSS* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@loizzoPrismaMissionStatus2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaMissionStatus2019a.md (~96 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: loizzoPrismaMissionStatus2019a
+year: Unknown Year
+authors: Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. and Lorusso, R. and Dini, L. and Lopinto, E.
+generated_by: claude
+---
+
+# 📄 Prisma Mission Status
+
+* **Authors:** Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. and Lorusso, R. and Dini, L. and Lopinto, E.
+* **Published in:** *IGARSS* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@loizzoPrismaMissionStatus2019a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/lottermoserMineWastes2010.md (~60 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: lottermoserMineWastes2010
+year: Unknown Year
+authors: Lottermoser, Bernd
+generated_by: claude
+---
+
+# 📄 Mine Wastes
+
+* **Authors:** Lottermoser, Bernd
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@lottermoserMineWastes2010)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/loukiliMonitoringLandChanges2025.md (~99 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: loukiliMonitoringLandChanges2025
+year: Unknown Year
+authors: Loukili, Ikram and Laamrani, Ahmed and El Ghorfi, Mustapha and El Moutak, Saida and Ghafiri, Abdessamad
+generated_by: claude
+---
+
+# 📄 Monitoring Land Changes at an Open Mine Site Using Remote Sensing and Multi-Spectral Indices
+
+* **Authors:** Loukili, Ikram and Laamrani, Ahmed and El Ghorfi, Mustapha and El Moutak, Saida and Ghafiri, Abdessamad
+* **Published in:** *Heliyon* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@loukiliMonitoringLandChanges2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/maSituLeadImmobilization1993.md (~92 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: maSituLeadImmobilization1993
+year: Unknown Year
+authors: Ma, Qi Ying and Traina, Samuel J. and Logan, Terry J. and Ryan, James A.
+generated_by: claude
+---
+
+# 📄 In Situ Lead Immobilization by Apatite
+
+* **Authors:** Ma, Qi Ying and Traina, Samuel J. and Logan, Terry J. and Ryan, James A.
+* **Published in:** *Environmental Science \& Technology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@maSituLeadImmobilization1993)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/malusisRestrictedSaltDiffusion2015.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: malusisRestrictedSaltDiffusion2015
+year: Unknown Year
+authors: Malusis, Michael A. and Kang, Jong-Beom and Shackelford, Charles D.
+generated_by: claude
+---
+
+# 📄 Restricted Salt Diffusion in a Geosynthetic Clay Liner
+
+* **Authors:** Malusis, Michael A. and Kang, Jong-Beom and Shackelford, Charles D.
+* **Published in:** *Environmental Geotechnics* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@malusisRestrictedSaltDiffusion2015)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mandendeHyperspectralCoreScanner2023.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mandendeHyperspectralCoreScanner2023
+year: Unknown Year
+authors: Mandende, H. and Ndou, C. and Mothupi, T.
+generated_by: claude
+---
+
+# 📄 Hyperspectral Core Scanner: An
+
+* **Authors:** Mandende, H. and Ndou, C. and Mothupi, T.
+* **Published in:** *Journal of the Southern African Institute of Mining and Metallurgy* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mandendeHyperspectralCoreScanner2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mansourIntegratingVNIRSWIR2025.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mansourIntegratingVNIRSWIR2025
+year: Unknown Year
+authors: Mansour, Abdelhak El and Najih, Ahmed and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Integrating VNIR
+
+* **Authors:** Mansour, Abdelhak El and Najih, Ahmed and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Sensors* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mansourIntegratingVNIRSWIR2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/marshallFieldlevelCropYield2022.md (~99 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: marshallFieldlevelCropYield2022
+year: Unknown Year
+authors: Marshall, Michael and Belgiu, Mariana and Boschetti, Mirco and Pepe, Monica and Stein, Alfred and Nelson, Andy
+generated_by: claude
+---
+
+# 📄 Field-Level Crop Yield Estimation with PRISMA
+
+* **Authors:** Marshall, Michael and Belgiu, Mariana and Boschetti, Mirco and Pepe, Monica and Stein, Alfred and Nelson, Andy
+* **Published in:** *ISPRS Journal of Photogrammetry and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@marshallFieldlevelCropYield2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mcclellanMineralogyCarbonateFluorapatites1980.md (~67 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mcclellanMineralogyCarbonateFluorapatites1980
+year: Unknown Year
+authors: McClellan, Guerry H.
+generated_by: claude
+---
+
+# 📄 Mineralogy of Carbonate Fluorapatites
+
+* **Authors:** McClellan, Guerry H.
+* **Published in:** *Journal of the Geological Society* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mcclellanMineralogyCarbonateFluorapatites1980)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/meerdinkECOSTRESSSpectralLibrary2019.md (~88 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: meerdinkECOSTRESSSpectralLibrary2019
+year: Unknown Year
+authors: Meerdink, Susan K. and Hook, Simon J. and Roberts, Dar A. and Abbott, Elsa A.
+generated_by: claude
+---
+
+# 📄 The ECOSTRESS
+
+* **Authors:** Meerdink, Susan K. and Hook, Simon J. and Roberts, Dar A. and Abbott, Elsa A.
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@meerdinkECOSTRESSSpectralLibrary2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/melganiClassificationHyperspectralRemote2004.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: melganiClassificationHyperspectralRemote2004
+year: Unknown Year
+authors: Melgani, F. and Bruzzone, L.
+generated_by: claude
+---
+
+# 📄 Classification of Hyperspectral Remote Sensing Images with Support Vector Machines
+
+* **Authors:** Melgani, F. and Bruzzone, L.
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@melganiClassificationHyperspectralRemote2004)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/melganiSupportVectorMachines2002.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: melganiSupportVectorMachines2002
+year: Unknown Year
+authors: Melgani, F. and Bruzzone, L.
+generated_by: claude
+---
+
+# 📄 Support Vector Machines for Classification of Hyperspectral Remote-Sensing Images
+
+* **Authors:** Melgani, F. and Bruzzone, L.
+* **Published in:** *IEEE International Geoscience* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@melganiSupportVectorMachines2002)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/meyerImportanceSpatialPredictor2019.md (~80 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: meyerImportanceSpatialPredictor2019
+year: Unknown Year
+authors: Meyer, Hanna and Reudenbach, Christoph and W\
+generated_by: claude
+---
+
+# 📄 Importance of Spatial Predictor Variable Selection in Machine Learning Applications -- Moving
+
+* **Authors:** Meyer, Hanna and Reudenbach, Christoph and W\
+* **Published in:** *Ecological Modelling* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@meyerImportanceSpatialPredictor2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/meznedPerspectiveChapterOptical2023.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: meznedPerspectiveChapterOptical2023
+year: Unknown Year
+authors: Mezned, Nouha
+generated_by: claude
+---
+
+# 📄 Perspective Chapter
+
+* **Authors:** Mezned, Nouha
+* **Published in:** *Functional Phosphate Materials* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@meznedPerspectiveChapterOptical2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mghazliDescriptionMicrobialCommunities2021.md (~95 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mghazliDescriptionMicrobialCommunities2021
+year: Unknown Year
+authors: Mghazli, Najoua and Sbabou, Laila and Hakkou, Rachid and Ouhammou, Ahmed and El Adnani, Mariam and Bruneel, Odile
+generated_by: claude
+---
+
+# 📄 Description of Microbial Communities
+
+* **Authors:** Mghazli, Najoua and Sbabou, Laila and Hakkou, Rachid and Ouhammou, Ahmed and El Adnani, Mariam and Bruneel, Odile
+* **Published in:** *Frontiers in Microbiology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mghazliDescriptionMicrobialCommunities2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mielkeEnGeoMAP20AutomatedHyperspectral2016.md (~83 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mielkeEnGeoMAP20AutomatedHyperspectral2016
+year: Unknown Year
+authors: Mielke, Christian and Rogass, Christian and Boesche, Nina and Segl, Karl and Altenberger, Uwe
+generated_by: claude
+---
+
+# 📄 EnGeoMAP
+
+* **Authors:** Mielke, Christian and Rogass, Christian and Boesche, Nina and Segl, Karl and Altenberger, Uwe
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mielkeEnGeoMAP20AutomatedHyperspectral2016)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mitchellFundamentalsSoilBehavior2005.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mitchellFundamentalsSoilBehavior2005
+year: Unknown Year
+authors: Mitchell, James Kenneth and Soga, Ken
+generated_by: claude
+---
+
+# 📄 Fundamentals of Soil Behavior
+
+* **Authors:** Mitchell, James Kenneth and Soga, Ken
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mitchellFundamentalsSoilBehavior2005)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mostafaReleasePotentiallyToxic2025.md (~86 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mostafaReleasePotentiallyToxic2025
+year: Unknown Year
+authors: Mostafa, Mouataz T. and Farhat, Hassan I. and Abd El-Bakey
+generated_by: claude
+---
+
+# 📄 Release of Potentially Toxic Elements from an Operational Phosphate Mine (Sebaiya
+
+* **Authors:** Mostafa, Mouataz T. and Farhat, Hassan I. and Abd El-Bakey
+* **Published in:** *Environmental Earth Sciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mostafaReleasePotentiallyToxic2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/mulderQuantifyingMineralAbundances2013.md (~73 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: mulderQuantifyingMineralAbundances2013
+year: Unknown Year
+authors: Mulder, V.L. and Pl\
+generated_by: claude
+---
+
+# 📄 Quantifying Mineral Abundances of Complex Mixtures by Coupling Spectral Deconvolution of SWIR
+
+* **Authors:** Mulder, V.L. and Pl\
+* **Published in:** *Geoderma* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@mulderQuantifyingMineralAbundances2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/nascimentoVertexComponentAnalysis2005.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: nascimentoVertexComponentAnalysis2005
+year: Unknown Year
+authors: Nascimento, J.M.P. and Dias, J.M.B.
+generated_by: claude
+---
+
+# 📄 Vertex Component Analysis: A Fast Algorithm to Unmix Hyperspectral Data
+
+* **Authors:** Nascimento, J.M.P. and Dias, J.M.B.
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@nascimentoVertexComponentAnalysis2005)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/nascimentoVertexComponentAnalysis2005a.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: nascimentoVertexComponentAnalysis2005a
+year: Unknown Year
+authors: Nascimento, J.M.P. and Dias, J.M.B.
+generated_by: claude
+---
+
+# 📄 Vertex Component Analysis: A Fast Algorithm to Unmix Hyperspectral Data
+
+* **Authors:** Nascimento, J.M.P. and Dias, J.M.B.
+* **Published in:** *IEEE Transactions on Geoscience and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@nascimentoVertexComponentAnalysis2005a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/nationalmineralsinformationcenterUSGeologicalSurvey2024.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: nationalmineralsinformationcenterUSGeologicalSurvey2024
+year: Unknown Year
+authors: National Minerals Information Center
+generated_by: claude
+---
+
+# 📄 U.S
+
+* **Authors:** National Minerals Information Center
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@nationalmineralsinformationcenterUSGeologicalSurvey2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/nordstromMineWatersAcidic2011.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: nordstromMineWatersAcidic2011
+year: Unknown Year
+authors: Nordstrom, D. K.
+generated_by: claude
+---
+
+# 📄 Mine Waters
+
+* **Authors:** Nordstrom, D. K.
+* **Published in:** *Elements* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@nordstromMineWatersAcidic2011)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/norouziInformationDepthNIR2021.md (~96 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: norouziInformationDepthNIR2021
+year: Unknown Year
+authors: Norouzi, Sarem and Sadeghi, Morteza and Liaghat, Abdolmajid and Tuller, Markus and Jones, Scott B. and Ebrahimian, Hamed
+generated_by: claude
+---
+
+# 📄 Information Depth of NIR
+
+* **Authors:** Norouzi, Sarem and Sadeghi, Morteza and Liaghat, Abdolmajid and Tuller, Markus and Jones, Scott B. and Ebrahimian, Hamed
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@norouziInformationDepthNIR2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/notescoApplicationHyperspectralRemote2020.md (~73 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: notescoApplicationHyperspectralRemote2020
+year: Unknown Year
+authors: Notesco, Gila and Weksler, Shahar and Ben-Dor
+generated_by: claude
+---
+
+# 📄 Application of Hyperspectral Remote Sensing
+
+* **Authors:** Notesco, Gila and Weksler, Shahar and Ben-Dor
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@notescoApplicationHyperspectralRemote2020)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ongPredictingAcidDrainage2003.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ongPredictingAcidDrainage2003
+year: Unknown Year
+authors: Ong, Cindy and Cudahy, Thomas and Swayze, Gregg
+generated_by: claude
+---
+
+# 📄 Predicting Acid Drainage Related Physicochemical Measurements Using Hyperspectral Data
+
+* **Authors:** Ong, Cindy and Cudahy, Thomas and Swayze, Gregg
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ongPredictingAcidDrainage2003)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ouzemouIntegratingPostrainfallMultispectral2026.md (~104 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ouzemouIntegratingPostrainfallMultispectral2026
+year: Unknown Year
+authors: Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Whalen, Joann K. and Chehbouni, Abdelghani
+generated_by: claude
+---
+
+# 📄 Integrating Post-Rainfall Multispectral Satellite-Derived Features and Multi-Source Datasets to Enhance Soil Salinity Mapping Accuracy
+
+* **Authors:** Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Whalen, Joann K. and Chehbouni, Abdelghani
+* **Published in:** *Remote Sensing Applications: Society and Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ouzemouIntegratingPostrainfallMultispectral2026)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ouzemouPredictingSoilSalinity2025.md (~84 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ouzemouPredictingSoilSalinity2025
+year: Unknown Year
+authors: Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Whalen, Joann K.
+generated_by: claude
+---
+
+# 📄 Predicting Soil Salinity Based
+
+* **Authors:** Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Whalen, Joann K.
+* **Published in:** *Soil Systems* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ouzemouPredictingSoilSalinity2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/percivalCustomizedSpectralLibraries2018.md (~119 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: percivalCustomizedSpectralLibraries2018
+year: Unknown Year
+authors: Percival, Jeanne B. and Bosman, Sean A. and Potter, Eric G. and Peter, Jan M. and Laudadio, Alexandra B. and Abraham, Ashley C. and Shiley, Daniel A. and Sherry, Chris
+generated_by: claude
+---
+
+# 📄 Customized Spectral Libraries
+
+* **Authors:** Percival, Jeanne B. and Bosman, Sean A. and Potter, Eric G. and Peter, Jan M. and Laudadio, Alexandra B. and Abraham, Ashley C. and Shiley, Daniel A. and Sherry, Chris
+* **Published in:** *Clays and Clay Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@percivalCustomizedSpectralLibraries2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/pereiraMultiTemporalMineralMapping2025.md (~61 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: pereiraMultiTemporalMineralMapping2025
+year: Unknown Year
+authors: Pereira, In\
+generated_by: claude
+---
+
+# 📄 Multi-Temporal Mineral Mapping
+
+* **Authors:** Pereira, In\
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@pereiraMultiTemporalMineralMapping2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/pignattiEvaluationPRISMAHyperspectral2021.md (~115 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: pignattiEvaluationPRISMAHyperspectral2021
+year: Unknown Year
+authors: Pignatti, S. and Amodeo, A. and Mona, L. and Palombo, A. and Pascucci, S. and Rosoldi, M. and Santini, F. and Casa, R. and Laneve, G.
+generated_by: claude
+---
+
+# 📄 Evaluation of the PRISMA Hyperspectral Radiance Data
+
+* **Authors:** Pignatti, S. and Amodeo, A. and Mona, L. and Palombo, A. and Pascucci, S. and Rosoldi, M. and Santini, F. and Casa, R. and Laneve, G.
+* **Published in:** *2021 IEEE International Geoscience* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@pignattiEvaluationPRISMAHyperspectral2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/plantePredictingGeochemicalBehaviour2011.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: plantePredictingGeochemicalBehaviour2011
+year: Unknown Year
+authors: Plante, B. and Benzaazoua, M. and Bussi\`e
+generated_by: claude
+---
+
+# 📄 Predicting Geochemical Behaviour
+
+* **Authors:** Plante, B. and Benzaazoua, M. and Bussi\`e
+* **Published in:** *Mine Water and the Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@plantePredictingGeochemicalBehaviour2011)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/plazaForewordSpecialIssue2012.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: plazaForewordSpecialIssue2012
+year: Unknown Year
+authors: Plaza, Antonio and Bioucas-Dias
+generated_by: claude
+---
+
+# 📄 Foreword to the Special Issue
+
+* **Authors:** Plaza, Antonio and Bioucas-Dias
+* **Published in:** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@plazaForewordSpecialIssue2012)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/plazaForewordSpecialIssue2012a.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: plazaForewordSpecialIssue2012a
+year: Unknown Year
+authors: Plaza, Antonio and Bioucas-Dias
+generated_by: claude
+---
+
+# 📄 Foreword to the Special Issue
+
+* **Authors:** Plaza, Antonio and Bioucas-Dias
+* **Published in:** *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@plazaForewordSpecialIssue2012a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/plazaRecentDevelopmentsEndmember2011.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: plazaRecentDevelopmentsEndmember2011
+year: Unknown Year
+authors: Plaza, Antonio and Mart\
+generated_by: claude
+---
+
+# 📄 Recent Developments
+
+* **Authors:** Plaza, Antonio and Mart\
+* **Published in:** *Optical Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@plazaRecentDevelopmentsEndmember2011)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/plotonSpatialValidationReveals2020.md (~75 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: plotonSpatialValidationReveals2020
+year: Unknown Year
+authors: Ploton, Pierre and Mortier, Fr\
+generated_by: claude
+---
+
+# 📄 Spatial Validation Reveals Poor Predictive Performance of Large-Scale Ecological Mapping Models
+
+* **Authors:** Ploton, Pierre and Mortier, Fr\
+* **Published in:** *Nature Communications* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@plotonSpatialValidationReveals2020)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/pottsHandbookSilicateRock1987.md (~62 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: pottsHandbookSilicateRock1987
+year: Unknown Year
+authors: Potts, P. J.
+generated_by: claude
+---
+
+# 📄 A Handbook
+
+* **Authors:** Potts, P. J.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@pottsHandbookSilicateRock1987)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/pourEditorialSpecialIssue2021.md (~83 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: pourEditorialSpecialIssue2021
+year: Unknown Year
+authors: Pour, Amin Beiranvand and Zoheir, Basem and Pradhan, Biswajeet and Hashim, Mazlan
+generated_by: claude
+---
+
+# 📄 Editorial for the Special Issue
+
+* **Authors:** Pour, Amin Beiranvand and Zoheir, Basem and Pradhan, Biswajeet and Hashim, Mazlan
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@pourEditorialSpecialIssue2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/prevotCorrespondanceEntreContenu1979.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: prevotCorrespondanceEntreContenu1979
+year: Unknown Year
+authors: Pr\
+generated_by: claude
+---
+
+# 📄 Une correspondance entre le contenu palynologique et la composition min\
+
+* **Authors:** Pr\
+* **Published in:** *Sciences G\* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@prevotCorrespondanceEntreContenu1979)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/qianGEOTECHNICALASPECTSLANDFILL.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: qianGEOTECHNICALASPECTSLANDFILL
+year: Unknown Year
+authors: Qian, Xuede
+generated_by: claude
+---
+
+# 📄 GEOTECHNICAL ASPECTS OF LANDFILL DESIGN AND CONSTRUCTION
+
+* **Authors:** Qian, Xuede
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@qianGEOTECHNICALASPECTSLANDFILL)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/r.desikanExploringRockPhosphates2018.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: r.desikanExploringRockPhosphates2018
+year: Unknown Year
+authors: R. Desikan
+generated_by: claude
+---
+
+# 📄 Exploring Rock Phosphates Using Hyperspectral Remote Sensing
+
+* **Authors:** R. Desikan
+* **Published in:** *2018 9th Workshop* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@r.desikanExploringRockPhosphates2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ramakrishnanHyperspectralRemoteSensing2015.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ramakrishnanHyperspectralRemoteSensing2015
+year: Unknown Year
+authors: Ramakrishnan, D. and Bharti, Rishikesh
+generated_by: claude
+---
+
+# 📄 Hyperspectral Remote Sensing and Geological Applications
+
+* **Authors:** Ramakrishnan, D. and Bharti, Rishikesh
+* **Published in:** *Current Science* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ramakrishnanHyperspectralRemoteSensing2015)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ramseyCanSituGeochemical2012.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ramseyCanSituGeochemical2012
+year: Unknown Year
+authors: Ramsey, Michael H. and Boon, Katy A.
+generated_by: claude
+---
+
+# 📄 Can in Situ Geochemical Measurements Be More Fit-for-Purpose than Those Made Ex Situ?
+
+* **Authors:** Ramsey, Michael H. and Boon, Katy A.
+* **Published in:** *Applied Geochemistry* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ramseyCanSituGeochemical2012)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/rastiNoiseReductionHyperspectral2018.md (~84 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: rastiNoiseReductionHyperspectral2018
+year: Unknown Year
+authors: Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram and Licciardi, Giorgio and Chanussot, Jocelyn
+generated_by: claude
+---
+
+# 📄 Noise Reduction
+
+* **Authors:** Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram and Licciardi, Giorgio and Chanussot, Jocelyn
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@rastiNoiseReductionHyperspectral2018)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/rastiNoiseReductionHyperspectral2018a.md (~84 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: rastiNoiseReductionHyperspectral2018a
+year: Unknown Year
+authors: Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram and Licciardi, Giorgio and Chanussot, Jocelyn
+generated_by: claude
+---
+
+# 📄 Noise Reduction
+
+* **Authors:** Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram and Licciardi, Giorgio and Chanussot, Jocelyn
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@rastiNoiseReductionHyperspectral2018a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/robertsCrossvalidationStrategiesData2017.md (~114 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: robertsCrossvalidationStrategiesData2017
+year: Unknown Year
+authors: Roberts, David R. and Bahn, Volker and Ciuti, Simone and Boyce, Mark S. and Elith, Jane and Guillera-Arroita, Gurutzeta and Hauenstein, Severin and Lahoz-Monfort, Jos\
+generated_by: claude
+---
+
+# 📄 Cross-validation Strategies for Data with Temporal, Spatial, Hierarchical, or Phylogenetic Structure
+
+* **Authors:** Roberts, David R. and Bahn, Volker and Ciuti, Simone and Boyce, Mark S. and Elith, Jane and Guillera-Arroita, Gurutzeta and Hauenstein, Severin and Lahoz-Monfort, Jos\
+* **Published in:** *Ecography* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@robertsCrossvalidationStrategiesData2017)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/roggeIntegrationSpatialSpectral2007.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: roggeIntegrationSpatialSpectral2007
+year: Unknown Year
+authors: Rogge, D. M. and Rivard, B. and Zhang, J. and Sanchez, A. and Harris, J. and Feng, J.
+generated_by: claude
+---
+
+# 📄 Integration of Spatial--Spectral Information for the Improved Extraction of Endmembers
+
+* **Authors:** Rogge, D. M. and Rivard, B. and Zhang, J. and Sanchez, A. and Harris, J. and Feng, J.
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@roggeIntegrationSpatialSpectral2007)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/romanoAppropriateStatisticsOrdinal2006.md (~89 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: romanoAppropriateStatisticsOrdinal2006
+year: Unknown Year
+authors: Romano, Jeanine and Kromrey, Jeffrey D. and Coraggio, Jesse and Skowronek, Jeff
+generated_by: claude
+---
+
+# 📄 Appropriate Statistics for Ordinal Level Data: Should
+
+* **Authors:** Romano, Jeanine and Kromrey, Jeffrey D. and Coraggio, Jesse and Skowronek, Jeff
+* **Published in:** *Annual Meeting of the Florida Association* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@romanoAppropriateStatisticsOrdinal2006)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/rousseauCorrectionsMatrixEffects2006.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: rousseauCorrectionsMatrixEffects2006
+year: Unknown Year
+authors: Rousseau, Richard M.
+generated_by: claude
+---
+
+# 📄 Corrections for Matrix Effects in X-ray
+
+* **Authors:** Rousseau, Richard M.
+* **Published in:** *Spectrochimica Acta Part B: Atomic Spectroscopy* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@rousseauCorrectionsMatrixEffects2006)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ruffinCombinedDerivativeSpectroscopy2008.md (~80 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ruffinCombinedDerivativeSpectroscopy2008
+year: Unknown Year
+authors: Ruffin, Chris and King, Roger L. and Younan, Nicolas H.
+generated_by: claude
+---
+
+# 📄 A Combined Derivative Spectroscopy
+
+* **Authors:** Ruffin, Chris and King, Roger L. and Younan, Nicolas H.
+* **Published in:** *GIScience \& Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ruffinCombinedDerivativeSpectroscopy2008)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/ryskinVibrationsProtonsMinerals1974.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: ryskinVibrationsProtonsMinerals1974
+year: Unknown Year
+authors: Ryskin, \relax Ya
+generated_by: claude
+---
+
+# 📄 The Vibrations
+
+* **Authors:** Ryskin, \relax Ya
+* **Published in:** *The Infrared Spectra* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@ryskinVibrationsProtonsMinerals1974)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/safhiCharacterizationsPotentialRecovery2022.md (~112 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: safhiCharacterizationsPotentialRecovery2022
+year: Unknown Year
+authors: Safhi, Amine El Mahdi and Amar, Hicham and El Berdai, Yahya and El Ghorfi, Mustapha and Taha, Yassine and Hakkou, Rachid and Al-Dahhan
+generated_by: claude
+---
+
+# 📄 Characterizations and Potential Recovery Pathways of Phosphate Mines Waste Rocks
+
+* **Authors:** Safhi, Amine El Mahdi and Amar, Hicham and El Berdai, Yahya and El Ghorfi, Mustapha and Taha, Yassine and Hakkou, Rachid and Al-Dahhan
+* **Published in:** *Journal of Cleaner Production* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@safhiCharacterizationsPotentialRecovery2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/safhiCharacterizationsPotentialRecovery2022a.md (~112 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: safhiCharacterizationsPotentialRecovery2022a
+year: Unknown Year
+authors: Safhi, Amine el Mahdi and Amar, Hicham and El Berdai, Yahya and El Ghorfi, Mustapha and Taha, Yassine and Hakkou, Rachid and Al-Dahhan
+generated_by: claude
+---
+
+# 📄 Characterizations and Potential Recovery Pathways of Phosphate Mines Waste Rocks
+
+* **Authors:** Safhi, Amine el Mahdi and Amar, Hicham and El Berdai, Yahya and El Ghorfi, Mustapha and Taha, Yassine and Hakkou, Rachid and Al-Dahhan
+* **Published in:** *Journal of Cleaner Production* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@safhiCharacterizationsPotentialRecovery2022a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/sahooModellingSpectralUnmixing2023.md (~89 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: sahooModellingSpectralUnmixing2023
+year: Unknown Year
+authors: Sahoo, Maitreya Mohan and Kalimuthu, R. and Pv, Arun and Porwal, Alok and Mathew, Shibu K.
+generated_by: claude
+---
+
+# 📄 Modelling Spectral Unmixing
+
+* **Authors:** Sahoo, Maitreya Mohan and Kalimuthu, R. and Pv, Arun and Porwal, Alok and Mathew, Shibu K.
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@sahooModellingSpectralUnmixing2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: savitzkySmoothingDifferentiationData1964
+year: Unknown Year
+authors: Savitzky, \relax Abraham
+generated_by: claude
+---
+
+# 📄 Smoothing and Differentiation
+
+* **Authors:** Savitzky, \relax Abraham
+* **Published in:** *Analytical Chemistry* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@savitzkySmoothingDifferentiationData1964)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964a.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: savitzkySmoothingDifferentiationData1964a
+year: Unknown Year
+authors: Savitzky, \relax Abraham
+generated_by: claude
+---
+
+# 📄 Smoothing and Differentiation
+
+* **Authors:** Savitzky, \relax Abraham
+* **Published in:** *Analytical Chemistry* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@savitzkySmoothingDifferentiationData1964a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964b.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: savitzkySmoothingDifferentiationData1964b
+year: Unknown Year
+authors: Savitzky, \relax Abraham
+generated_by: claude
+---
+
+# 📄 Smoothing and Differentiation
+
+* **Authors:** Savitzky, \relax Abraham
+* **Published in:** *Analytical Chemistry* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@savitzkySmoothingDifferentiationData1964b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964c.md (~63 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: savitzkySmoothingDifferentiationData1964c
+year: Unknown Year
+authors: Savitzky, \relax Abraham
+generated_by: claude
+---
+
+# 📄 Smoothing and Differentiation
+
+* **Authors:** Savitzky, \relax Abraham
+* **Published in:** *Analytical Chemistry* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@savitzkySmoothingDifferentiationData1964c)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/schaepmanEarthSystemScience2009.md (~104 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: schaepmanEarthSystemScience2009
+year: Unknown Year
+authors: Schaepman, Michael E. and Ustin, Susan L. and Plaza, Antonio J. and Painter, Thomas H. and Verrelst, Jochem and Liang, Shunlin
+generated_by: claude
+---
+
+# 📄 Earth System Science Related Imaging Spectroscopy---An
+
+* **Authors:** Schaepman, Michael E. and Ustin, Susan L. and Plaza, Antonio J. and Painter, Thomas H. and Verrelst, Jochem and Liang, Shunlin
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@schaepmanEarthSystemScience2009)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/scholzSustainableUsePhosphorus2013.md (~80 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: scholzSustainableUsePhosphorus2013
+year: Unknown Year
+authors: Scholz, Roland W. and Ulrich, Andrea E. and Eilitt\
+generated_by: claude
+---
+
+# 📄 Sustainable Use of Phosphorus: A
+
+* **Authors:** Scholz, Roland W. and Ulrich, Andrea E. and Eilitt\
+* **Published in:** *Science of The Total Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@scholzSustainableUsePhosphorus2013)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/sealProgressGeoenvironmentalModels2002.md (~67 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: sealProgressGeoenvironmentalModels2002
+year: Unknown Year
+authors: Unknown Authors
+generated_by: claude
+---
+
+# 📄 Progress on Geoenvironmental Models for Selected Mineral Deposit Types
+
+* **Authors:** Unknown Authors
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@sealProgressGeoenvironmentalModels2002)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/shadmanroodposhtiUncertaintyAssessmentHyperspectral2019.md (~81 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: shadmanroodposhtiUncertaintyAssessmentHyperspectral2019
+year: Unknown Year
+authors: Shadman Roodposhti, Majid and Aryal, Jagannath and Lucieer, Arko and Bryan, Brett A.
+generated_by: claude
+---
+
+# 📄 Uncertainty Assessment
+
+* **Authors:** Shadman Roodposhti, Majid and Aryal, Jagannath and Lucieer, Arko and Bryan, Brett A.
+* **Published in:** *Entropy* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@shadmanroodposhtiUncertaintyAssessmentHyperspectral2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/sheblPRISMAHyperspectralData2023.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: sheblPRISMAHyperspectralData2023
+year: Unknown Year
+authors: Shebl, Ali and Abriha, D\
+generated_by: claude
+---
+
+# 📄 PRISMA
+
+* **Authors:** Shebl, Ali and Abriha, D\
+* **Published in:** *Ore Geology Reviews* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@sheblPRISMAHyperspectralData2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/shirmardComparativeStudyConvolutional2022.md (~91 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: shirmardComparativeStudyConvolutional2022
+year: Unknown Year
+authors: Shirmard, Hojat and Farahbakhsh, Ehsan and Heidari, Elnaz and Beiranvand Pour, Amin and Pradhan, Biswajeet and M\
+generated_by: claude
+---
+
+# 📄 A Comparative Study
+
+* **Authors:** Shirmard, Hojat and Farahbakhsh, Ehsan and Heidari, Elnaz and Beiranvand Pour, Amin and Pradhan, Biswajeet and M\
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@shirmardComparativeStudyConvolutional2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/shirmardReviewMachineLearning2022.md (~93 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: shirmardReviewMachineLearning2022
+year: Unknown Year
+authors: Shirmard, Hojat and Farahbakhsh, Ehsan and Muller, R. Dietmar and Chandra, Rohitash
+generated_by: claude
+---
+
+# 📄 A Review of Machine Learning in Processing Remote Sensing Data for Mineral Exploration
+
+* **Authors:** Shirmard, Hojat and Farahbakhsh, Ehsan and Muller, R. Dietmar and Chandra, Rohitash
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@shirmardReviewMachineLearning2022)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/simapeyghambariHyperspectralRemoteSensing2021.md (~75 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: simapeyghambariHyperspectralRemoteSensing2021
+year: Unknown Year
+authors: Sima Peyghambari
+generated_by: claude
+---
+
+# 📄 Hyperspectral Remote Sensing in Lithological Mapping, Mineral Exploration, and Environmental Geology: An Updated Review
+
+* **Authors:** Sima Peyghambari
+* **Published in:** *Journal of Applied Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@simapeyghambariHyperspectralRemoteSensing2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/slanskyGeologySedimentaryPhosphates1986.md (~68 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: slanskyGeologySedimentaryPhosphates1986
+year: Unknown Year
+authors: Slansky, Maurice and Slansky, Maurice
+generated_by: claude
+---
+
+# 📄 Geology of Sedimentary Phosphates
+
+* **Authors:** Slansky, Maurice and Slansky, Maurice
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@slanskyGeologySedimentaryPhosphates1986)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/smilPhosphorusEnvironmentNatural2000.md (~68 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: smilPhosphorusEnvironmentNatural2000
+year: Unknown Year
+authors: Smil, Vaclav
+generated_by: claude
+---
+
+# 📄 Phosphorus in the Environment: Natural
+
+* **Authors:** Smil, Vaclav
+* **Published in:** *Annual Review of Energy and the Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@smilPhosphorusEnvironmentNatural2000)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/stonerCharacteristicVariationsReflectance1981.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: stonerCharacteristicVariationsReflectance1981
+year: Unknown Year
+authors: Stoner, E. R. and Baumgardner, M. F.
+generated_by: claude
+---
+
+# 📄 Characteristic Variations
+
+* **Authors:** Stoner, E. R. and Baumgardner, M. F.
+* **Published in:** *Soil Science Society of America Journal* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@stonerCharacteristicVariationsReflectance1981)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/storchEnMAPImagingSpectroscopy2023.md (~120 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: storchEnMAPImagingSpectroscopy2023
+year: Unknown Year
+authors: Storch, Tobias and Honold, Hans-Peter and Chabrillat, Sabine and Habermeyer, Martin and Tucker, Paul and Brell, Maximilian and Ohndorf, Andreas and Wirth, Katrin and Betz, Matthias and Kuchler, Michael and M\
+generated_by: claude
+---
+
+# 📄 The EnMAP
+
+* **Authors:** Storch, Tobias and Honold, Hans-Peter and Chabrillat, Sabine and Habermeyer, Martin and Tucker, Paul and Brell, Maximilian and Ohndorf, Andreas and Wirth, Katrin and Betz, Matthias and Kuchler, Michael and M\
+* **Published in:** *Remote Sensing of Environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@storchEnMAPImagingSpectroscopy2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/sudharsanMachineLearningdrivenMineral2025.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: sudharsanMachineLearningdrivenMineral2025
+year: Unknown Year
+authors: Sudharsan, S. and Hemalatha, R. and V., Tejas N. and Sivakumar, Krisha Aarunee
+generated_by: claude
+---
+
+# 📄 Machine Learning-Driven Mineral Identification Using PRISMA
+
+* **Authors:** Sudharsan, S. and Hemalatha, R. and V., Tejas N. and Sivakumar, Krisha Aarunee
+* **Published in:** *Earth Science Informatics* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@sudharsanMachineLearningdrivenMineral2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/swayzeUsingImagingSpectroscopy2000.md (~148 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: swayzeUsingImagingSpectroscopy2000
+year: Unknown Year
+authors: Swayze, G. A. and Smith, K. S. and Clark, R. N. and Sutley, S. J. and Pearson, R. M. and Vance, J. S. and Hageman, P. L. and Briggs, Paul H. and Meier, A. L. and Singleton, M. J. and Roth, S.
+generated_by: claude
+---
+
+# 📄 Using Imaging Spectroscopy to Map Acidic Mine Waste
+
+* **Authors:** Swayze, G. A. and Smith, K. S. and Clark, R. N. and Sutley, S. J. and Pearson, R. M. and Vance, J. S. and Hageman, P. L. and Briggs, Paul H. and Meier, A. L. and Singleton, M. J. and Roth, S.
+* **Published in:** *Environmental Science \& Technology* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@swayzeUsingImagingSpectroscopy2000)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: tahaZeroSolidWaste2021
+year: Unknown Year
+authors: Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Towards Zero Solid Waste
+
+* **Authors:** Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@tahaZeroSolidWaste2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021a.md (~79 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: tahaZeroSolidWaste2021a
+year: Unknown Year
+authors: Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Towards Zero Solid Waste
+
+* **Authors:** Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@tahaZeroSolidWaste2021a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021b.md (~85 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: tahaZeroSolidWaste2021b
+year: Unknown Year
+authors: Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Towards Zero Solid Waste in the Sedimentary Phosphate Industry: Challenges
+
+* **Authors:** Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua, Mostafa
+* **Published in:** *Minerals* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@tahaZeroSolidWaste2021b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/testaBACKFILLINGOPENPITMETALLIC2007.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: testaBACKFILLINGOPENPITMETALLIC2007
+year: Unknown Year
+authors: Testa, Stephen M. and Pompy, James S.
+generated_by: claude
+---
+
+# 📄 BACKFILLING OF OPEN-PIT METALLIC MINES
+
+* **Authors:** Testa, Stephen M. and Pompy, James S.
+* **Published in:** *Journal American Society of Mining and Reclamation* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@testaBACKFILLINGOPENPITMETALLIC2007)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/testaBACKFILLINGOPENPITMETALLIC2007a.md (~78 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: testaBACKFILLINGOPENPITMETALLIC2007a
+year: Unknown Year
+authors: Testa, Stephen M. and Pompy, James S.
+generated_by: claude
+---
+
+# 📄 BACKFILLING OF OPEN-PIT METALLIC MINES
+
+* **Authors:** Testa, Stephen M. and Pompy, James S.
+* **Published in:** *Journal American Society of Mining and Reclamation* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@testaBACKFILLINGOPENPITMETALLIC2007a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/tsaiDerivativeAnalysisHyperspectral.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: tsaiDerivativeAnalysisHyperspectral
+year: Unknown Year
+authors: Tsai, Fuan and Philpot, William
+generated_by: claude
+---
+
+# 📄 Derivative Analysis
+
+* **Authors:** Tsai, Fuan and Philpot, William
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@tsaiDerivativeAnalysisHyperspectral)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/tsaiDerivativeAnalysisHyperspectrala.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: tsaiDerivativeAnalysisHyperspectrala
+year: Unknown Year
+authors: Tsai, Fuan and Philpot, William
+generated_by: claude
+---
+
+# 📄 Derivative Analysis
+
+* **Authors:** Tsai, Fuan and Philpot, William
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@tsaiDerivativeAnalysisHyperspectrala)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/turnerVisibleShortwaveInfrared2016.md (~82 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: turnerVisibleShortwaveInfrared2016
+year: Unknown Year
+authors: Turner, David J. and Rivard, Benoit and Groat, Lee A.
+generated_by: claude
+---
+
+# 📄 Visible and Short-Wave Infrared Reflectance Spectroscopy of REE
+
+* **Authors:** Turner, David J. and Rivard, Benoit and Groat, Lee A.
+* **Published in:** *American Mineralogist* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@turnerVisibleShortwaveInfrared2016)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/tusaDrillCoreMineralAbundance2020.md (~64 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: tusaDrillCoreMineralAbundance2020
+year: Unknown Year
+authors: Tu\c s
+generated_by: claude
+---
+
+# 📄 Drill-Core Mineral Abundance Estimation Using Hyperspectral
+
+* **Authors:** Tu\c s
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@tusaDrillCoreMineralAbundance2020)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/valaviBlockCVPackageGenerating2019.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: valaviBlockCVPackageGenerating2019
+year: Unknown Year
+authors: Valavi, Roozbeh and Elith, Jane and Lahoz-Monfort
+generated_by: claude
+---
+
+# 📄 blockCV
+
+* **Authors:** Valavi, Roozbeh and Elith, Jane and Lahoz-Monfort
+* **Published in:** *Methods in Ecology and Evolution* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@valaviBlockCVPackageGenerating2019)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vandermeerAnalysisSpectralAbsorption2004.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vandermeerAnalysisSpectralAbsorption2004
+year: Unknown Year
+authors: van der Meer
+generated_by: claude
+---
+
+# 📄 Analysis of Spectral Absorption Features in Hyperspectral Imagery
+
+* **Authors:** van der Meer
+* **Published in:** *International Journal of Applied Earth Observation and Geoinformation* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vandermeerAnalysisSpectralAbsorption2004)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vandermeerMultiHyperspectralGeologic2012.md (~159 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vandermeerMultiHyperspectralGeologic2012
+year: Unknown Year
+authors: Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and Van Ruitenbeek, Frank J.A. and Hecker, Chris A. and Bakker, Wim H. and Noomen, Marleen F. and Van Der Meijde, Mark and Carranza, E. John M. and Smeth, J. Boudewijn De and Woldai, Tsehaie
+generated_by: claude
+---
+
+# 📄 Multi- and Hyperspectral Geologic Remote Sensing: A
+
+* **Authors:** Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and Van Ruitenbeek, Frank J.A. and Hecker, Chris A. and Bakker, Wim H. and Noomen, Marleen F. and Van Der Meijde, Mark and Carranza, E. John M. and Smeth, J. Boudewijn De and Woldai, Tsehaie
+* **Published in:** *International Journal of Applied Earth Observation and Geoinformation* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vandermeerMultiHyperspectralGeologic2012)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vandermeerMultiHyperspectralGeologic2012a.md (~159 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vandermeerMultiHyperspectralGeologic2012a
+year: Unknown Year
+authors: Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and Van Ruitenbeek, Frank J.A. and Hecker, Chris A. and Bakker, Wim H. and Noomen, Marleen F. and Van Der Meijde, Mark and Carranza, E. John M. and Smeth, J. Boudewijn De and Woldai, Tsehaie
+generated_by: claude
+---
+
+# 📄 Multi- and Hyperspectral Geologic Remote Sensing: A
+
+* **Authors:** Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and Van Ruitenbeek, Frank J.A. and Hecker, Chris A. and Bakker, Wim H. and Noomen, Marleen F. and Van Der Meijde, Mark and Carranza, E. John M. and Smeth, J. Boudewijn De and Woldai, Tsehaie
+* **Published in:** *International Journal of Applied Earth Observation and Geoinformation* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vandermeerMultiHyperspectralGeologic2012a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vandijkPhosphorusFlowsBalances2016.md (~72 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vandijkPhosphorusFlowsBalances2016
+year: Unknown Year
+authors: van Dijk
+generated_by: claude
+---
+
+# 📄 Phosphorus Flows and Balances of the European Union Member States
+
+* **Authors:** van Dijk
+* **Published in:** *The Science of the total environment* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vandijkPhosphorusFlowsBalances2016)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vangenuchtenClosedformEquationPredicting1980.md (~70 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vangenuchtenClosedformEquationPredicting1980
+year: Unknown Year
+authors: Van Genuchten, M. \relax Th
+generated_by: claude
+---
+
+# 📄 A Closed
+
+* **Authors:** Van Genuchten, M. \relax Th
+* **Published in:** *Soil Science Society of America Journal* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vangenuchtenClosedformEquationPredicting1980)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vangiNewHyperspectralSatellite2021.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vangiNewHyperspectralSatellite2021
+year: Unknown Year
+authors: Vangi, Elia and D
+generated_by: claude
+---
+
+# 📄 The New Hyperspectral Satellite PRISMA
+
+* **Authors:** Vangi, Elia and D
+* **Published in:** *Sensors* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vangiNewHyperspectralSatellite2021)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/vankauwenberghWorldPhosphateRock2010.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: vankauwenberghWorldPhosphateRock2010
+year: Unknown Year
+authors: Van Kauwenbergh, S. J.
+generated_by: claude
+---
+
+# 📄 World Phosphate Rock Reserves
+
+* **Authors:** Van Kauwenbergh, S. J.
+* **Published in:** *Unknown Source* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@vankauwenberghWorldPhosphateRock2010)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/wangSpectralSpatialMultifeaturebased2017.md (~94 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: wangSpectralSpatialMultifeaturebased2017
+year: Unknown Year
+authors: Wang, Lizhe and Zhang, Jiabin and Liu, Peng and Choo, Kim-Kwang Raymond and Huang, Fang
+generated_by: claude
+---
+
+# 📄 Spectral--Spatial Multi-Feature-Based Deep Learning for Hyperspectral Remote Sensing Image Classification
+
+* **Authors:** Wang, Lizhe and Zhang, Jiabin and Liu, Peng and Choo, Kim-Kwang Raymond and Huang, Fang
+* **Published in:** *Soft Computing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@wangSpectralSpatialMultifeaturebased2017)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/wangUncertaintyQuantificationDeep2025.md (~74 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: wangUncertaintyQuantificationDeep2025
+year: Unknown Year
+authors: Wang, Ziye and Zuo, Renguang and Kreuzer, Oliver P.
+generated_by: claude
+---
+
+# 📄 Uncertainty Quantification
+
+* **Authors:** Wang, Ziye and Zuo, Renguang and Kreuzer, Oliver P.
+* **Published in:** *Mathematical Geosciences* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@wangUncertaintyQuantificationDeep2025)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/waskeMappingHyperspectralAVIRIS2009.md (~65 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: waskeMappingHyperspectralAVIRIS2009
+year: Unknown Year
+authors: Waske, Bj\
+generated_by: claude
+---
+
+# 📄 Mapping of Hyperspectral AVIRIS
+
+* **Authors:** Waske, Bj\
+* **Published in:** *Canadian Journal of Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@waskeMappingHyperspectralAVIRIS2009)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/withersStewardshipTackleGlobal2015.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: withersStewardshipTackleGlobal2015
+year: Unknown Year
+authors: Withers, Paul J. A. and Van Dijk, Kimo C. and Neset, Tina-Simone S. and Nesme, Thomas and Oenema, Oene and Rub\ae
+generated_by: claude
+---
+
+# 📄 Stewardship to Tackle Global Phosphorus Inefficiency: The
+
+* **Authors:** Withers, Paul J. A. and Van Dijk, Kimo C. and Neset, Tina-Simone S. and Nesme, Thomas and Oenema, Oene and Rub\ae
+* **Published in:** *AMBIO* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@withersStewardshipTackleGlobal2015)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/woldPLSregressionBasicTool2001.md (~66 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: woldPLSregressionBasicTool2001
+year: Unknown Year
+authors: Wold, Svante and Sj\
+generated_by: claude
+---
+
+# 📄 PLS-regression
+
+* **Authors:** Wold, Svante and Sj\
+* **Published in:** *Chemometrics and Intelligent Laboratory Systems* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@woldPLSregressionBasicTool2001)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/yangEnvironmentalImpactsCaused2014.md (~102 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: yangEnvironmentalImpactsCaused2014
+year: Unknown Year
+authors: Yang, Yu-You and Wu, Huai-Na and Shen, Shui-Long and Horpibulsuk, Suksun and Xu, Ye-Shuang and Zhou, Qing-Hong
+generated_by: claude
+---
+
+# 📄 Environmental Impacts Caused by Phosphate Mining and Ecological Restoration: A Case History in Kunming
+
+* **Authors:** Yang, Yu-You and Wu, Huai-Na and Shen, Shui-Long and Horpibulsuk, Suksun and Xu, Ye-Shuang and Zhou, Qing-Hong
+* **Published in:** *Natural Hazards* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@yangEnvironmentalImpactsCaused2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/yekutieliResamplingbasedFalseDiscovery1999.md (~80 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: yekutieliResamplingbasedFalseDiscovery1999
+year: Unknown Year
+authors: Yekutieli, Daniel and Benjamini, Yoav
+generated_by: claude
+---
+
+# 📄 Resampling-Based False Discovery Rate Controlling Multiple Test Procedures for Correlated Test Statistics
+
+* **Authors:** Yekutieli, Daniel and Benjamini, Yoav
+* **Published in:** *Journal of Statistical Planning and Inference* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@yekutieliResamplingbasedFalseDiscovery1999)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/yueSpectralSpatialClassification2015.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: yueSpectralSpatialClassification2015
+year: Unknown Year
+authors: Yue, Jun and Zhao, Wenzhi and Mao, Shanjun and Liu, Hui
+generated_by: claude
+---
+
+# 📄 Spectral--Spatial Classification of Hyperspectral Images Using Deep Convolutional Neural Networks
+
+* **Authors:** Yue, Jun and Zhao, Wenzhi and Mao, Shanjun and Liu, Hui
+* **Published in:** *Remote Sensing Letters* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@yueSpectralSpatialClassification2015)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zainiDeterminationCarbonateRock2014.md (~87 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zainiDeterminationCarbonateRock2014
+year: Unknown Year
+authors: Zaini, Nasrullah and Van Der Meer, Freek and Van Der Werff, Harald
+generated_by: claude
+---
+
+# 📄 Determination of Carbonate Rock Chemistry Using Laboratory-Based Hyperspectral Imagery
+
+* **Authors:** Zaini, Nasrullah and Van Der Meer, Freek and Van Der Werff, Harald
+* **Published in:** *Remote Sensing* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zainiDeterminationCarbonateRock2014)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001.md (~83 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001
+year: Unknown Year
+authors: Zhang, Guangyu and Wasyliuk, Ken and Pan, Yuanming
+generated_by: claude
+---
+
+# 📄 THE CHARACTERIZATION AND QUANTITATIVE ANALYSIS OF CLAY MINERALS IN THE ATHABASCA BASIN
+
+* **Authors:** Zhang, Guangyu and Wasyliuk, Ken and Pan, Yuanming
+* **Published in:** *The Canadian Mineralogist* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zhangPredictionRecyclePhosphate2024.md (~100 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zhangPredictionRecyclePhosphate2024
+year: Unknown Year
+authors: Zhang, Ling and Hou, Haochun and Yang, Lu and Zhang, Zeliang and Zhao, Yan
+generated_by: claude
+---
+
+# 📄 Prediction for the Recycle of Phosphate Tailings in Enhanced Gravity Field Based on Machine Learning and Interpretable Analysis
+
+* **Authors:** Zhang, Ling and Hou, Haochun and Yang, Lu and Zhang, Zeliang and Zhao, Yan
+* **Published in:** *Waste Management* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zhangPredictionRecyclePhosphate2024)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023.md (~89 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zineAdvancementsMineClosure2023
+year: Unknown Year
+authors: Zine, Hamza and El Mansour, Abdelhak and Hakkou, Rachid and Papazoglou, Eleni G. and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Advancements in Mine Closure
+
+* **Authors:** Zine, Hamza and El Mansour, Abdelhak and Hakkou, Rachid and Papazoglou, Eleni G. and Benzaazoua, Mostafa
+* **Published in:** *Mining* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zineAdvancementsMineClosure2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zineNativePlantDiversity2023
+year: Unknown Year
+authors: Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak and Elgadi, Sara and Ouhammou, Ahmed and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Native Plant Diversity for Ecological Reclamation in Moroccan
+
+* **Authors:** Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak and Elgadi, Sara and Ouhammou, Ahmed and Benzaazoua, Mostafa
+* **Published in:** *Biodiversity Data Journal* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zineNativePlantDiversity2023)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md (~99 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zineNativePlantDiversity2023a
+year: Unknown Year
+authors: Zine, Hamza and Hakkou, Rachid and El Mansour, Abdelhak and Elgadi, Sara and Ouhammou, Ahmed and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Native Plant Diversity for Ecological Reclamation in Moroccan
+
+* **Authors:** Zine, Hamza and Hakkou, Rachid and El Mansour, Abdelhak and Elgadi, Sara and Ouhammou, Ahmed and Benzaazoua, Mostafa
+* **Published in:** *Biodiversity Data Journal* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zineNativePlantDiversity2023a)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md (~97 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zineNativePlantDiversity2023b
+year: Unknown Year
+authors: Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak and Elgadi, Sara and Ouhammou, Ahmed and Benzaazoua, Mostafa
+generated_by: claude
+---
+
+# 📄 Native Plant Diversity for Ecological Reclamation in Moroccan
+
+* **Authors:** Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak and Elgadi, Sara and Ouhammou, Ahmed and Benzaazoua, Mostafa
+* **Published in:** *Biodiversity Data Journal* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zineNativePlantDiversity2023b)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md (~77 words)
+================================================================================
+---
+tags: [source, literature-note]
+citekey: zouhriCretaceousTertiaryPlateaus2008
+year: Unknown Year
+authors: Zouhri, S. and Kchikach, A. and Saddiqi, O. and Ha\
+generated_by: claude
+---
+
+# 📄 The Cretaceous-Tertiary Plateaus
+
+* **Authors:** Zouhri, S. and Kchikach, A. and Saddiqi, O. and Ha\
+* **Published in:** *Continental Evolution* (Unknown Year)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@zouhriCretaceousTertiaryPlateaus2008)
+
+---
+
+## 💡 Key Takeaways
+* *Summary of findings...*
+
+## 🛠️ Methodology & Relevance
+* *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+================================================================================
 FILE: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md (~545 words)
 ================================================================================
 ---
