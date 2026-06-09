@@ -715,6 +715,122 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 
 
 ================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~214 words)
+================================================================================
+---
+citekey: elmansour2025sensors
+title: "Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks at Benguerir"
+authors: EL MANSOUR A., LAAMRANI A., et al.
+year: 2025
+journal: Sensors
+doi: 10.3390/s26010002
+tags: [literature-note, chapter-1, own-paper]
+generated_by: claude
+date: 2026-06-07
+---
+
+# Your Paper — Chapter 1 (Sensors 2025)
+
+**This is your own published work. Know it cold.**
+
+## What it does
+Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
+
+## Key Results
+- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
+- 84% of spectra have R² > 0.70
+- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
+- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
+- Apatite spectral rank: 3–7 in field spectra
+
+## Novelty
+First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
+
+## Jury Defense Angle
+*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
+
+## Links
+- [[02_Academic & Work/thesis/Thesis MOC]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~201 words)
+================================================================================
+---
+citekey: roberts2019unmixing
+title: "Spectral Mixture Analysis for Remote Sensing of Geological Surfaces"
+authors: Roberts D.A., et al.
+year: 2019
+journal: Remote Sensing
+tags: [literature-note, unmixing, VCA, FCLS, chapter-3]
+generated_by: claude
+date: 2026-06-07
+---
+
+# Unmixing Foundation Paper — Chapter 3 Justification
+
+**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
+
+## Core Argument
+Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
+
+## How it Supports Your Thesis
+- Justifies linear model at 30m EnMAP resolution
+- VCA as standard for geological endmember extraction without prior knowledge
+- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
+
+## Defense Quote Ready
+*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[02_Academic & Work/thesis/Thesis MOC]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~245 words)
+================================================================================
+---
+citekey: verrelst2021review
+title: "Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data: A Review on Retrieval Methods"
+authors: Verrelst J., et al.
+year: 2021
+journal: Surveys in Geophysics
+tags: [literature-note, verrelst, jury-prep, RTM, unmixing]
+generated_by: claude
+date: 2026-06-07
+---
+
+# Verrelst 2021 — RTM & Retrieval Methods Review
+
+**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
+
+## Core Argument
+Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
+
+## Your Defense Angle Against This
+*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
+
+## If Verrelst Pushes Back
+- Acknowledge RTM validity for vegetation/soil systems
+- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
+- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
+
+## Links
+- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
+
+
+
+
+================================================================================
 FILE: 02_Academic & Work/thesis/defense-prep/30-Day Countdown.md (~554 words)
 ================================================================================
 ---
@@ -2375,122 +2491,6 @@ I am ready. Over to you.
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~214 words)
-================================================================================
----
-citekey: elmansour2025sensors
-title: "Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks at Benguerir"
-authors: EL MANSOUR A., LAAMRANI A., et al.
-year: 2025
-journal: Sensors
-doi: 10.3390/s26010002
-tags: [literature-note, chapter-1, own-paper]
-generated_by: claude
-date: 2026-06-07
----
-
-# Your Paper — Chapter 1 (Sensors 2025)
-
-**This is your own published work. Know it cold.**
-
-## What it does
-Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
-
-## Key Results
-- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
-- 84% of spectra have R² > 0.70
-- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
-- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
-- Apatite spectral rank: 3–7 in field spectra
-
-## Novelty
-First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
-
-## Jury Defense Angle
-*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
-
-## Links
-- [[02_Academic & Work/thesis/Thesis MOC]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~201 words)
-================================================================================
----
-citekey: roberts2019unmixing
-title: "Spectral Mixture Analysis for Remote Sensing of Geological Surfaces"
-authors: Roberts D.A., et al.
-year: 2019
-journal: Remote Sensing
-tags: [literature-note, unmixing, VCA, FCLS, chapter-3]
-generated_by: claude
-date: 2026-06-07
----
-
-# Unmixing Foundation Paper — Chapter 3 Justification
-
-**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
-
-## Core Argument
-Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
-
-## How it Supports Your Thesis
-- Justifies linear model at 30m EnMAP resolution
-- VCA as standard for geological endmember extraction without prior knowledge
-- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
-
-## Defense Quote Ready
-*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
-
-## Links
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[02_Academic & Work/thesis/Thesis MOC]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~245 words)
-================================================================================
----
-citekey: verrelst2021review
-title: "Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data: A Review on Retrieval Methods"
-authors: Verrelst J., et al.
-year: 2021
-journal: Surveys in Geophysics
-tags: [literature-note, verrelst, jury-prep, RTM, unmixing]
-generated_by: claude
-date: 2026-06-07
----
-
-# Verrelst 2021 — RTM & Retrieval Methods Review
-
-**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
-
-## Core Argument
-Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
-
-## Your Defense Angle Against This
-*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
-
-## If Verrelst Pushes Back
-- Acknowledge RTM validity for vegetation/soil systems
-- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
-- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
-
-## Links
-- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
-
-
-
-
-================================================================================
 FILE: 02_Academic & Work/work/Flashcards — Career.md (~762 words)
 ================================================================================
 ---
@@ -2802,6 +2802,681 @@ Ask Claude: "search the web for VITO Belgium remote sensing jobs" ← tests brav
 Ask Claude: "list my GitHub repos"    ← tests github (needs PAT)
 Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 ```
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/meetings/README.md (~147 words)
+================================================================================
+---
+tags: [work, inbox, meetings]
+---
+
+# Meetings Inbox
+
+Drop raw meeting notes here before processing.
+
+## Usage
+
+1. Export or write your note in this folder
+2. File naming: `YYYY-MM-DD <Topic or Person>.md`
+3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
+
+## What `/om-intake` does with each file
+
+| Detected content | Destination |
+|-----------------|-------------|
+| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
+| Project update | Append to `work/active/<Project>.md` |
+| Decision reached | New Decision Record + `work/Index.md` |
+| Action item | `- [ ]` in the relevant note |
+| Win / recognition | `perf/Brag Doc.md` |
+| New person mentioned | Stub in `org/people/<Name>.md` |
+| Blocker identified | `## Blockers` section in active note |
+
+For freeform unstructured content, use `/om-dump` instead.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~983 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-28
+tags: [setup, claude-code, mcp, automation, power-user]
+---
+
+# Elite Vault Setup — Power User Stack 2026
+
+> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
+> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
+
+---
+
+## What's Installed and Live
+
+### MCP Servers (9 total, all ✓ Connected)
+
+| Server | Purpose | Status |
+|--------|---------|--------|
+| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
+| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
+| `brave-search` | Web search (token needs renewal) | ✓ Connected |
+| `github` | PR reviews, issue tracking | ✓ Live |
+| `notion` | Notion DB access | ✓ Live |
+| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
+| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
+| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
+| `google-drive` | Drive file access | ! Needs OAuth |
+
+**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
+
+**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
+
+---
+
+### Custom Claude Skills (5 skills in `~/.claude/skills/`)
+
+| Skill | Trigger | What it does |
+|-------|---------|--------------|
+| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
+| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
+| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
+| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
+| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
+
+---
+
+### Vault Scripts (`scripts/`)
+
+| Script | Schedule | What it does |
+|--------|----------|--------------|
+| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
+| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
+
+**Automate via Task Scheduler (Windows):**
+```powershell
+# Run both scripts every Monday at 8:00 AM
+$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
+Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
+Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
+```
+
+---
+
+## Researched Repos — Honest Assessment
+
+### Top-tier (real, maintained, worth using)
+
+**`ProfSynapse/claudesidian-mcp` (Nexus)**  
+- Local semantic search over vault using embeddings
+- Graph-traversal: find notes by concept, not just keyword
+- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
+- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
+
+**`rohitg00/awesome-claude-code-toolkit`**  
+- 135 agents, 35 skills, 42 slash commands on GitHub
+- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
+- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
+
+**`obra/knowledge-graph` Claude Code plugin**  
+- Vault as knowledge graph with BFS/DFS query tools
+- Community detection, god-node identification
+- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
+
+**`eugeniughelbur/obsidian-second-brain`**  
+- 34 slash commands for second-brain workflows
+- `@obsidian`, `@notes`, `@daily` context tools
+- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
+
+**`jacksteamdev/obsidian-mcp-tools`**  
+- Semantic search + Templater integration
+- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
+
+### Not worth installing (why)
+
+| Repo | Reason to skip |
+|------|---------------|
+| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
+| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
+| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
+| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
+
+---
+
+## Workflow Stack — How It All Connects
+
+```
+Morning Standup
+└── /om-standup
+    ├── reads wiki/hot.md
+    ├── reads work/Index.md
+    └── surfaces job deadlines + domain alerts
+
+Weekly Review
+└── /vault-review
+    ├── scans work/active/ for stale notes
+    ├── flags job deadlines
+    └── flags domain renewals
+
+Job Search
+└── scripts/job_monitor.py (weekly, auto)
+    └── appends → work/active/Job Board -- Live Tracker.md
+
+Domain Monitoring
+└── scripts/domain_report.py (weekly, auto)
+    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
+
+Defense Prep
+└── /thesis-check
+    ├── counts days to June 30
+    └── outputs daily action plan
+```
+
+---
+
+## What Requires Manual Action
+
+1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
+2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
+3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
+4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
+5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
+
+---
+
+## Your Edge — What Nobody Else Has
+
+The combination of:
+- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
+- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
+- **gmail MCP** (read + draft application emails without leaving Claude)
+- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
+- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
+- **thesis-check skill** (defense countdown with daily actions)
+
+This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
+
+---
+
+## Next Upgrades (when time permits)
+
+| Priority | Action | Time |
+|----------|--------|------|
+| High | Task Scheduler for weekly scripts | 10 min |
+| High | Brave Search token renewal | 5 min |
+| Medium | `claudesidian-mcp` when npm-stable | — |
+| Medium | Google Drive OAuth | 15 min |
+| Low | ManyChat Instagram automation | 15 min |
+| Low | GoDaddy API key in settings | 5 min |
+
+
+---
+
+*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~765 words)
+================================================================================
+---
+tags: [setup, import, obsidian, data]
+generated_by: claude
+date: 2026-06-07
+---
+
+# External Data Import Guide
+
+How to get emails, Outlook data, files, images, and PDFs into the vault.
+
+---
+
+## 1. Emails from Outlook (Windows)
+
+### Option A — Obsidian Importer Plugin (Recommended)
+Install the **Obsidian Importer** community plugin. It natively imports:
+- `.eml` files (email files)
+- `.mbox` files (Gmail / Thunderbird exports)
+
+**Workflow:**
+1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
+   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
+2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
+3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
+4. Set destination folder: `AI-Generated/emails/`
+5. Add frontmatter `generated_by: claude` on import if needed
+
+### Option B — Markdown Export Script
+Export important emails manually. For each email you want to preserve as a note:
+1. Copy/paste email body into Obsidian note
+2. Use template:
+```markdown
+---
+from: sender@example.com
+to: abdelhak.elmansour@um6p.ma
+date: YYYY-MM-DD
+subject: "Email subject"
+tags: [email, imported]
+---
+
+# Subject
+
+**From:** Sender Name <email>
+**Date:** YYYY-MM-DD
+
+---
+
+Body content here...
+```
+Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
+
+### Option C — Obsidian Web Clipper (for Gmail)
+If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
+
+---
+
+## 2. Files (PDFs, DOCX, Excel, PPT)
+
+### PDFs
+- Drag-and-drop into vault folder → Obsidian treats them as attachments
+- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
+- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
+- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
+
+### DOCX (Word) — Convert to Markdown
+Use **Pandoc** (free CLI tool):
+```powershell
+pandoc input.docx -o output.md
+```
+Then move output.md into vault. Works for thesis drafts, cover letters, etc.
+
+### Excel / CSV — Import as Dataview
+Save CSV files in vault → query with DataviewJS:
+```dataviewjs
+const data = await dv.io.csv("path/to/file.csv");
+dv.table(data.headers, data.rows);
+```
+
+---
+
+## 3. Images
+
+### Direct drag-and-drop
+Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
+Set attachment folder: Settings → Files and links → Default location = `assets/`
+
+### Embed in notes
+```markdown
+![[image.png]]
+![[image.png|300]]        ← width in pixels
+![[image.png|caption]]
+```
+
+### Screenshot workflow
+For screenshots of important emails, docs, or web content:
+1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
+2. Or: Screenshot → drag into vault folder → embed
+
+### Images already in vault
+Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
+
+---
+
+## 4. Outlook Calendar → Obsidian
+
+### Option A — iCal Export
+Outlook → File → Save Calendar → `.ics` file
+Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
+Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
+
+### Option B — Forward to Vault
+For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
+
+---
+
+## 5. Web Pages (Articles, Papers, News)
+
+### Obsidian Web Clipper (Best Option)
+Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
+- Clips any web page to vault with one click
+- Auto-applies templates for articles, papers, etc.
+- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
+
+### defuddle (via Claude Code)
+Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
+Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
+
+### Manual
+Copy URL → paste into note → add `tags: [clipping]` frontmatter.
+
+---
+
+## 6. Zotero Papers → Literature Notes
+
+Already configured via **Citations plugin** (installed 2026-06-07):
+- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
+- `Ctrl+P → Citations: Insert Markdown citation` → search your library
+- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
+
+For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
+
+---
+
+## 7. Flashcards from Any External Content
+
+Once you have any content in the vault as a note, add flashcard syntax:
+```
+Question::Answer
+```
+Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
+
+Active flashcard decks:
+- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
+- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
+- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
+- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
+- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~348 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+---
+
+# NotebookLM Integration
+
+Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
+Auth: `~/.notebooklm/profiles/default/storage_state.json`
+CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
+
+Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
+
+---
+
+## Notebooks
+
+| Name | ID | Sources |
+|------|----|---------|
+| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
+| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
+| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
+
+---
+
+## CLI Quick Reference
+
+```bash
+# Set active notebook
+notebooklm use bb2823a9        # defense
+notebooklm use f5b6cff5        # methods
+notebooklm use da39982c        # jobs
+
+# Ask a question
+notebooklm ask "What are the three most likely Verrelst attack vectors?"
+notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
+
+# Generate artifacts
+notebooklm generate audio      # podcast overview
+notebooklm generate quiz       # study quiz
+notebooklm generate flashcards # flashcards
+notebooklm generate mind-map   # mind map
+
+# Download artifacts
+notebooklm download audio      # saves audio file
+
+# List sources
+notebooklm source list
+
+# Add new source (.md files MUST use --mime-type text/plain)
+notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
+
+# Refresh after vault updates
+notebooklm source refresh <source-id>
+```
+
+---
+
+## Workflow: Defense Prep
+
+1. `notebooklm use bb2823a9`
+2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
+3. `notebooklm generate quiz` → download and study
+4. `notebooklm generate audio` → listen as podcast
+
+## Workflow: Update After Vault Changes
+
+When you update a defense prep file, refresh it:
+```bash
+notebooklm use bb2823a9
+notebooklm source list   # find the source ID
+notebooklm source refresh <id>
+```
+
+---
+
+## Notes
+
+- Unofficial reverse-engineered API — Google can break it without warning
+- Re-authenticate if it stops working: `notebooklm login`
+- Sessions expire: re-run `notebooklm login` every few weeks
+
+
+---
+
+*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~662 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+updated: 2026-06-07
+tags: [setup, plugins, obsidian]
+---
+
+# Obsidian Plugin Guide
+
+14 community plugins installed and enabled. **6 added 2026-06-07.**
+
+---
+
+## obsidian-git (Vinzent03)
+
+**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
+
+**Config set:**
+- Auto-commit every **20 minutes** (when Obsidian is open)
+- Pull on startup (gets latest from GitHub before you start)
+- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
+- Pull before push: enabled
+- Status bar: shows git status
+
+**Manual commands (Cmd/Ctrl+P → "Git"):**
+- `Git: Create backup` — commit + push right now
+- `Git: Pull` — pull latest from remote
+- `Git: Open source control view` — see changed files
+- `Git: Open history` — browse commit history
+
+**Remote:** https://github.com/Appiie/abdelhak-vault.git
+
+---
+
+## Dataview (blacksmithgu)
+
+**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
+
+**Config set:**
+- DataviewJS enabled (JavaScript queries)
+- Inline queries enabled
+- Task completion tracking on
+- HTML rendering allowed
+
+**Where it's used:**
+- `Dashboard.md` — defense countdown + live tables of all active files
+- `Home.md` — mission control
+
+**Basic syntax:**
+```dataview
+TABLE file.mtime AS "Updated"
+FROM "02_Academic & Work/thesis/defense-prep"
+SORT file.mtime DESC
+```
+
+```dataviewjs
+const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
+dv.paragraph(`${days} days to defense`);
+```
+
+**Add metadata to any note for Dataview to pick up:**
+```yaml
+---
+status: in-progress
+priority: high
+deadline: 2026-06-30
+---
+```
+
+---
+
+## Templater (SilentVoid13)
+
+Auto-fill templates with dynamic content (dates, prompts, etc.).
+
+---
+
+## Tasks (obsidian-tasks-plugin)
+
+Track tasks across the vault with due dates, priorities, recurrence.
+
+**Syntax:**
+```
+- [ ] Write slide 5 📅 2026-06-01 ⏫
+```
+
+**Query all urgent tasks:**
+```tasks
+not done
+priority is high
+```
+
+---
+
+## Excalidraw
+
+Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
+
+---
+
+## Charts
+
+Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
+
+---
+
+## Style Settings
+
+Adjust theme appearance. `Cmd+P → Style Settings`.
+
+---
+
+## Spaced Repetition (st3v3nmw) — NEW
+
+Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
+
+**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
+
+**Syntax:**
+```
+Question::Answer          ← single-line card
+Question:::Answer         ← reversed (shows answer first too)
+```
+Multi-line:
+```
+Question
+?
+Answer
+```
+Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
+
+**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
+
+---
+
+## Citations (hans) — NEW
+
+Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
+
+**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
+**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
+**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
+
+---
+
+## QuickAdd (chhoumann) — NEW
+
+4 capture macros bound to commands:
+
+| Macro | What it does |
+|-------|-------------|
+| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
+| 🌐 New Domain Lead | Creates domain lead file from template |
+| 💼 New Job Application | Creates job application file from template |
+| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
+
+Access: `Ctrl+P → QuickAdd: ...`
+
+---
+
+## Kanban (mgmeyers) — NEW
+
+Two active boards:
+- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
+- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
+
+Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
+
+---
+
+## Linter (platers) — NEW
+
+Runs automatically on save. Enforces:
+- Consistent heading spacing
+- No trailing whitespace
+- Proper ellipsis formatting
+- YAML `updated:` timestamp on save
+
+Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
+
+---
+
+## Natural Language Dates (argenos) — NEW
+
+Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
+
+Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
+Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
 
 
 ---
@@ -3345,7 +4020,7 @@ last_web_search: 2026-05-24
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Job Board — Live Tracker.md (~1138 words)
+FILE: 02_Academic & Work/work/active/Job Board — Live Tracker.md (~1203 words)
 ================================================================================
 ---
 tags: [jobs, career, tracker, active]
@@ -3375,6 +4050,9 @@ updated: 2026-06-05
 
 | Offer | Org | Location | Fit | Deadline | Status |
 |-------|-----|----------|-----|----------|--------|
+| [Post-Doctoral Position in Remote Sensing for Soil Monitoring (PREPSOIL)](https://jobs.inrae.fr/en/ot-17203) | INRAE | France | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
+| [Remote Sensing (RS) Scientist](https://www.wur.nl/en/vacancy/remote-sensing-rs-scientist) | WUR | Netherlands | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
+| [Postdoc in Forest Remote Sensing, Modelling and Deep Learning (DC-26100)](https://www.nature.com/naturecareers/job/12857021/dc-26100-postdoc-in-forest-remote-sensing-modelling-and-deep-learning/) | LIST | Luxembourg | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
 | [Scientific Expert — Earth Observation Services](https://jobs.vito.be) | VITO | Belgium (Hybrid) | 8.5/10 | None shown | ✅ Applied 2026-05-25 |
 | [Postdoc — Hyperspectral RS for Forest Management](https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH) | ETH Zurich | Switzerland | 7/10 | TBD | ❌ Not applied |
 | [Postdoc — Hyperspectral Remote Sensing](https://euraxess.ec.europa.eu/jobs/180699) | GFZ / Potsdam | Germany | 8/10 🆕 | Dec 2026 | ❌ Not applied |
@@ -3455,7 +4133,7 @@ updated: 2026-06-05
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Job Pipeline.md (~410 words)
+FILE: 02_Academic & Work/work/active/Job Pipeline.md (~460 words)
 ================================================================================
 ---
 kanban-plugin: basic
@@ -3493,7 +4171,9 @@ date: 2026-06-07
 
 ## 📤 Sent (Post-Defense)
 
-- [ ] Item placeholder — move cards here after sending
+- [x] **INRAE PREPSOIL** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc]] ✅ Applied 2026-06-09
+- [x] **WUR RS Scientist** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist]] ✅ Applied 2026-06-09
+- [x] **LIST Luxembourg — Forest RS** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc]] ✅ Applied 2026-06-09
 
 ## 📞 Interview
 
@@ -3627,7 +4307,7 @@ generated_by: claude
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5198 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5189 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3650,9 +4330,9 @@ summary: "A central tracking dashboard and cold outreach email templates with cl
 | PI Target Name | Institution | Country | Cover Letter Link | Outreach Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **ITC Twente — Biodiversity EO** | University of Twente ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc\|ITC Biodiversity Letter]] | ✅ Applied 2026-06-09 |
-| **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | - [ ] Not Applied (rolling) |
-| **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | - [ ] Not Applied (rolling) |
-| **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | - [ ] Not Applied (rolling) |
+| **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | ✅ Applied 2026-06-09 |
+| **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | ✅ Applied 2026-06-09 |
+| **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | ✅ Applied 2026-06-09 |
 | **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md|Dr. Saeid Asadzadeh Letter]] | - [ ] Not Contacted |
 | **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md|Dr. Sarah Asam Letter]] | - [ ] Not Contacted |
 | **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
@@ -5296,7 +5976,7 @@ elmansour01abdelhak@gmail.com
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~671 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~688 words)
 ================================================================================
 ---
 generated_by: claude
@@ -5333,7 +6013,7 @@ Ma thèse repose sur trois contributions complémentaires. Le premier chapitre (
 
 Le transfert vers le monitoring des sols européens est direct à deux niveaux. Méthodologiquement, les assemblages minéralogiques qui contrôlent la réflectance spectrale d'une roche stérile phosphatée — carbonates, argiles, oxydes de fer — sont les mêmes que ceux qui structurent la signature spectrale des sols agricoles dégradés ou en cours de restauration. Les caractéristiques diagnostiques que j'ai quantifiées (absorption Al-OH à ~2200 nm, CO₃ à ~2320 nm, Fe³⁺ à ~500–900 nm) sont directement exploitables pour les indicateurs de santé des sols du projet PREPSOIL. Opérationnellement, mon pipeline Python complet (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → correction atmosphérique → suppression des bandes défectueuses → démixage spectral → classification → validation) est immédiatement adaptable à l'intégration de données Sentinel-2, Sentinel-3 et futures missions hyperspectrale (CHIME) pour une surveillance multi-temporelle des sols.
 
-Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain en France. Je suis l'auteur de 4 publications en revues à comité de lecture avant soutenance, avec deux manuscrits supplémentaires en cours de soumission.
+Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain en France. Je suis l'auteur de 5 publications dans des revues à comité de lecture (dont l'article du chapitre 1 publié dans *Sensors* 2026 et l'article du chapitre 2 accepté dans *Minerals* 2026), avec un manuscrit supplémentaire en cours de soumission.
 
 Je serais heureux de vous présenter plus en détail mes travaux lors d'un entretien. Je tiens à votre disposition mon CV complet, le résumé de ma thèse et mes publications principales.
 
@@ -6394,681 +7074,6 @@ UM6P, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~983 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-28
-tags: [setup, claude-code, mcp, automation, power-user]
----
-
-# Elite Vault Setup — Power User Stack 2026
-
-> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
-> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
-
----
-
-## What's Installed and Live
-
-### MCP Servers (9 total, all ✓ Connected)
-
-| Server | Purpose | Status |
-|--------|---------|--------|
-| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
-| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
-| `brave-search` | Web search (token needs renewal) | ✓ Connected |
-| `github` | PR reviews, issue tracking | ✓ Live |
-| `notion` | Notion DB access | ✓ Live |
-| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
-| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
-| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
-| `google-drive` | Drive file access | ! Needs OAuth |
-
-**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
-
-**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
-
----
-
-### Custom Claude Skills (5 skills in `~/.claude/skills/`)
-
-| Skill | Trigger | What it does |
-|-------|---------|--------------|
-| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
-| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
-| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
-| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
-| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
-
----
-
-### Vault Scripts (`scripts/`)
-
-| Script | Schedule | What it does |
-|--------|----------|--------------|
-| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
-| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
-
-**Automate via Task Scheduler (Windows):**
-```powershell
-# Run both scripts every Monday at 8:00 AM
-$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
-Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
-Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
-```
-
----
-
-## Researched Repos — Honest Assessment
-
-### Top-tier (real, maintained, worth using)
-
-**`ProfSynapse/claudesidian-mcp` (Nexus)**  
-- Local semantic search over vault using embeddings
-- Graph-traversal: find notes by concept, not just keyword
-- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
-- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
-
-**`rohitg00/awesome-claude-code-toolkit`**  
-- 135 agents, 35 skills, 42 slash commands on GitHub
-- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
-- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
-
-**`obra/knowledge-graph` Claude Code plugin**  
-- Vault as knowledge graph with BFS/DFS query tools
-- Community detection, god-node identification
-- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
-
-**`eugeniughelbur/obsidian-second-brain`**  
-- 34 slash commands for second-brain workflows
-- `@obsidian`, `@notes`, `@daily` context tools
-- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
-
-**`jacksteamdev/obsidian-mcp-tools`**  
-- Semantic search + Templater integration
-- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
-
-### Not worth installing (why)
-
-| Repo | Reason to skip |
-|------|---------------|
-| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
-| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
-| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
-| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
-
----
-
-## Workflow Stack — How It All Connects
-
-```
-Morning Standup
-└── /om-standup
-    ├── reads wiki/hot.md
-    ├── reads work/Index.md
-    └── surfaces job deadlines + domain alerts
-
-Weekly Review
-└── /vault-review
-    ├── scans work/active/ for stale notes
-    ├── flags job deadlines
-    └── flags domain renewals
-
-Job Search
-└── scripts/job_monitor.py (weekly, auto)
-    └── appends → work/active/Job Board -- Live Tracker.md
-
-Domain Monitoring
-└── scripts/domain_report.py (weekly, auto)
-    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
-
-Defense Prep
-└── /thesis-check
-    ├── counts days to June 30
-    └── outputs daily action plan
-```
-
----
-
-## What Requires Manual Action
-
-1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
-2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
-3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
-4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
-5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
-
----
-
-## Your Edge — What Nobody Else Has
-
-The combination of:
-- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
-- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
-- **gmail MCP** (read + draft application emails without leaving Claude)
-- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
-- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
-- **thesis-check skill** (defense countdown with daily actions)
-
-This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
-
----
-
-## Next Upgrades (when time permits)
-
-| Priority | Action | Time |
-|----------|--------|------|
-| High | Task Scheduler for weekly scripts | 10 min |
-| High | Brave Search token renewal | 5 min |
-| Medium | `claudesidian-mcp` when npm-stable | — |
-| Medium | Google Drive OAuth | 15 min |
-| Low | ManyChat Instagram automation | 15 min |
-| Low | GoDaddy API key in settings | 5 min |
-
-
----
-
-*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~765 words)
-================================================================================
----
-tags: [setup, import, obsidian, data]
-generated_by: claude
-date: 2026-06-07
----
-
-# External Data Import Guide
-
-How to get emails, Outlook data, files, images, and PDFs into the vault.
-
----
-
-## 1. Emails from Outlook (Windows)
-
-### Option A — Obsidian Importer Plugin (Recommended)
-Install the **Obsidian Importer** community plugin. It natively imports:
-- `.eml` files (email files)
-- `.mbox` files (Gmail / Thunderbird exports)
-
-**Workflow:**
-1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
-   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
-2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
-3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
-4. Set destination folder: `AI-Generated/emails/`
-5. Add frontmatter `generated_by: claude` on import if needed
-
-### Option B — Markdown Export Script
-Export important emails manually. For each email you want to preserve as a note:
-1. Copy/paste email body into Obsidian note
-2. Use template:
-```markdown
----
-from: sender@example.com
-to: abdelhak.elmansour@um6p.ma
-date: YYYY-MM-DD
-subject: "Email subject"
-tags: [email, imported]
----
-
-# Subject
-
-**From:** Sender Name <email>
-**Date:** YYYY-MM-DD
-
----
-
-Body content here...
-```
-Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
-
-### Option C — Obsidian Web Clipper (for Gmail)
-If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
-
----
-
-## 2. Files (PDFs, DOCX, Excel, PPT)
-
-### PDFs
-- Drag-and-drop into vault folder → Obsidian treats them as attachments
-- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
-- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
-- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
-
-### DOCX (Word) — Convert to Markdown
-Use **Pandoc** (free CLI tool):
-```powershell
-pandoc input.docx -o output.md
-```
-Then move output.md into vault. Works for thesis drafts, cover letters, etc.
-
-### Excel / CSV — Import as Dataview
-Save CSV files in vault → query with DataviewJS:
-```dataviewjs
-const data = await dv.io.csv("path/to/file.csv");
-dv.table(data.headers, data.rows);
-```
-
----
-
-## 3. Images
-
-### Direct drag-and-drop
-Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
-Set attachment folder: Settings → Files and links → Default location = `assets/`
-
-### Embed in notes
-```markdown
-![[image.png]]
-![[image.png|300]]        ← width in pixels
-![[image.png|caption]]
-```
-
-### Screenshot workflow
-For screenshots of important emails, docs, or web content:
-1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
-2. Or: Screenshot → drag into vault folder → embed
-
-### Images already in vault
-Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
-
----
-
-## 4. Outlook Calendar → Obsidian
-
-### Option A — iCal Export
-Outlook → File → Save Calendar → `.ics` file
-Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
-Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
-
-### Option B — Forward to Vault
-For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
-
----
-
-## 5. Web Pages (Articles, Papers, News)
-
-### Obsidian Web Clipper (Best Option)
-Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
-- Clips any web page to vault with one click
-- Auto-applies templates for articles, papers, etc.
-- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
-
-### defuddle (via Claude Code)
-Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
-Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
-
-### Manual
-Copy URL → paste into note → add `tags: [clipping]` frontmatter.
-
----
-
-## 6. Zotero Papers → Literature Notes
-
-Already configured via **Citations plugin** (installed 2026-06-07):
-- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
-- `Ctrl+P → Citations: Insert Markdown citation` → search your library
-- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
-
-For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
-
----
-
-## 7. Flashcards from Any External Content
-
-Once you have any content in the vault as a note, add flashcard syntax:
-```
-Question::Answer
-```
-Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
-
-Active flashcard decks:
-- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
-- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
-- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
-- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
-- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~348 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
----
-
-# NotebookLM Integration
-
-Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
-Auth: `~/.notebooklm/profiles/default/storage_state.json`
-CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
-
-Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
-
----
-
-## Notebooks
-
-| Name | ID | Sources |
-|------|----|---------|
-| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
-| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
-| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
-
----
-
-## CLI Quick Reference
-
-```bash
-# Set active notebook
-notebooklm use bb2823a9        # defense
-notebooklm use f5b6cff5        # methods
-notebooklm use da39982c        # jobs
-
-# Ask a question
-notebooklm ask "What are the three most likely Verrelst attack vectors?"
-notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
-
-# Generate artifacts
-notebooklm generate audio      # podcast overview
-notebooklm generate quiz       # study quiz
-notebooklm generate flashcards # flashcards
-notebooklm generate mind-map   # mind map
-
-# Download artifacts
-notebooklm download audio      # saves audio file
-
-# List sources
-notebooklm source list
-
-# Add new source (.md files MUST use --mime-type text/plain)
-notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
-
-# Refresh after vault updates
-notebooklm source refresh <source-id>
-```
-
----
-
-## Workflow: Defense Prep
-
-1. `notebooklm use bb2823a9`
-2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
-3. `notebooklm generate quiz` → download and study
-4. `notebooklm generate audio` → listen as podcast
-
-## Workflow: Update After Vault Changes
-
-When you update a defense prep file, refresh it:
-```bash
-notebooklm use bb2823a9
-notebooklm source list   # find the source ID
-notebooklm source refresh <id>
-```
-
----
-
-## Notes
-
-- Unofficial reverse-engineered API — Google can break it without warning
-- Re-authenticate if it stops working: `notebooklm login`
-- Sessions expire: re-run `notebooklm login` every few weeks
-
-
----
-
-*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~662 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-updated: 2026-06-07
-tags: [setup, plugins, obsidian]
----
-
-# Obsidian Plugin Guide
-
-14 community plugins installed and enabled. **6 added 2026-06-07.**
-
----
-
-## obsidian-git (Vinzent03)
-
-**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
-
-**Config set:**
-- Auto-commit every **20 minutes** (when Obsidian is open)
-- Pull on startup (gets latest from GitHub before you start)
-- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
-- Pull before push: enabled
-- Status bar: shows git status
-
-**Manual commands (Cmd/Ctrl+P → "Git"):**
-- `Git: Create backup` — commit + push right now
-- `Git: Pull` — pull latest from remote
-- `Git: Open source control view` — see changed files
-- `Git: Open history` — browse commit history
-
-**Remote:** https://github.com/Appiie/abdelhak-vault.git
-
----
-
-## Dataview (blacksmithgu)
-
-**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
-
-**Config set:**
-- DataviewJS enabled (JavaScript queries)
-- Inline queries enabled
-- Task completion tracking on
-- HTML rendering allowed
-
-**Where it's used:**
-- `Dashboard.md` — defense countdown + live tables of all active files
-- `Home.md` — mission control
-
-**Basic syntax:**
-```dataview
-TABLE file.mtime AS "Updated"
-FROM "02_Academic & Work/thesis/defense-prep"
-SORT file.mtime DESC
-```
-
-```dataviewjs
-const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
-dv.paragraph(`${days} days to defense`);
-```
-
-**Add metadata to any note for Dataview to pick up:**
-```yaml
----
-status: in-progress
-priority: high
-deadline: 2026-06-30
----
-```
-
----
-
-## Templater (SilentVoid13)
-
-Auto-fill templates with dynamic content (dates, prompts, etc.).
-
----
-
-## Tasks (obsidian-tasks-plugin)
-
-Track tasks across the vault with due dates, priorities, recurrence.
-
-**Syntax:**
-```
-- [ ] Write slide 5 📅 2026-06-01 ⏫
-```
-
-**Query all urgent tasks:**
-```tasks
-not done
-priority is high
-```
-
----
-
-## Excalidraw
-
-Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
-
----
-
-## Charts
-
-Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
-
----
-
-## Style Settings
-
-Adjust theme appearance. `Cmd+P → Style Settings`.
-
----
-
-## Spaced Repetition (st3v3nmw) — NEW
-
-Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
-
-**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
-
-**Syntax:**
-```
-Question::Answer          ← single-line card
-Question:::Answer         ← reversed (shows answer first too)
-```
-Multi-line:
-```
-Question
-?
-Answer
-```
-Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
-
-**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
-
----
-
-## Citations (hans) — NEW
-
-Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
-
-**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
-**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
-**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
-
----
-
-## QuickAdd (chhoumann) — NEW
-
-4 capture macros bound to commands:
-
-| Macro | What it does |
-|-------|-------------|
-| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
-| 🌐 New Domain Lead | Creates domain lead file from template |
-| 💼 New Job Application | Creates job application file from template |
-| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
-
-Access: `Ctrl+P → QuickAdd: ...`
-
----
-
-## Kanban (mgmeyers) — NEW
-
-Two active boards:
-- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
-- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
-
-Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
-
----
-
-## Linter (platers) — NEW
-
-Runs automatically on save. Enforces:
-- Consistent heading spacing
-- No trailing whitespace
-- Proper ellipsis formatting
-- YAML `updated:` timestamp on save
-
-Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
-
----
-
-## Natural Language Dates (argenos) — NEW
-
-Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
-
-Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
-Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/meetings/README.md (~147 words)
-================================================================================
----
-tags: [work, inbox, meetings]
----
-
-# Meetings Inbox
-
-Drop raw meeting notes here before processing.
-
-## Usage
-
-1. Export or write your note in this folder
-2. File naming: `YYYY-MM-DD <Topic or Person>.md`
-3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
-
-## What `/om-intake` does with each file
-
-| Detected content | Destination |
-|-----------------|-------------|
-| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
-| Project update | Append to `work/active/<Project>.md` |
-| Decision reached | New Decision Record + `work/Index.md` |
-| Action item | `- [ ]` in the relevant note |
-| Win / recognition | `perf/Brag Doc.md` |
-| New person mentioned | Stub in `org/people/<Name>.md` |
-| Blocker identified | `## Blockers` section in active note |
-
-For freeform unstructured content, use `/om-dump` instead.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
 
 
 
@@ -8436,6 +8441,161 @@ generated_by: claude
 
 ## Meta
 - [[04_Knowledge Base/wiki/hot]] — session context (Claude reads first)
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~454 words)
+================================================================================
+---
+tags: [wiki, entity, geology, morocco]
+updated: 2026-05-24
+generated_by: claude
+---
+
+# Gantour Basin
+
+## Overview
+The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
+
+---
+
+## Geography
+
+| Parameter | Value |
+|-----------|-------|
+| Location | Central Morocco, Marrakech-Safi region |
+| Approximate coordinates | ~32°N, ~7.5–8°W |
+| Area | ~1,600 km² (basin extent) |
+| Key city | Benguerir (study site) |
+| Distance from Marrakech | ~70 km north |
+
+---
+
+## Geological Setting
+
+**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
+
+**Stratigraphy (simplified):**
+```
+Top: Quaternary alluvium + lacustrine deposits
+     └─ Eocene marls and limestones
+     └─ Paleocene phosphate layers (economic horizon)
+          ├─ Phosphate series: francolite in marl/limestone matrix
+          ├─ Interbedded clays (illite, smectite)
+          └─ Carbonate-rich beds (calcite, dolomite)
+Bottom: Cretaceous basement
+```
+
+**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
+
+---
+
+## Mineralogy of the Deposit
+
+The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
+
+| Component | Role |
+|-----------|------|
+| Francolite | Economic phosphate mineral (ore) |
+| Calcite/dolomite | Carbonate gangue |
+| Illite/smectite | Clay gangue |
+| Quartz | Silica gangue |
+| Iron oxides | Accessory weathering products |
+
+---
+
+## Mining at Benguerir
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group (Office Chérifien des Phosphates) |
+| Mining method | Open-pit, strip mining |
+| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
+| Annual ore production | ~4 Mt/year (approx.) |
+| Annual waste generation | ~12.3 Mt/year |
+| Mine area (thesis study zone) | ~36 km² |
+
+**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
+
+---
+
+## Environmental Significance
+
+1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
+2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
+3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
+4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
+
+---
+
+## Morocco's Strategic Role
+Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
+
+---
+
+## Related Concepts
+- [[OCP Group and Benguerir Mine]]
+- [[Phosphate Mine Waste]]
+- [[Mineral Assemblages]]
+- [[Reclamation Monitoring]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~288 words)
+================================================================================
+---
+tags: [entity, institution, mining, Morocco, OCP, phosphate]
+updated: 2026-05-24
+generated_by: claude
+type: institution
+---
+
+# OCP Group & Benguerir Mine
+
+## OCP Group
+- **Full name:** Office Chérifien des Phosphates (OCP Group)
+- **Headquarters:** Casablanca, Morocco
+- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
+- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
+
+## Benguerir Mine
+- **Location:** Benguerir, Marrakech-Safi region, Morocco
+- **Type:** Open-pit phosphate mine
+- **Context:** Active phosphate extraction generating large waste rock dumps
+- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
+
+## Why This Site?
+1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
+2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
+3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
+4. Environmental importance — waste rock management is an OCP priority
+5. Data access — UM6P-OCP relationship facilitates ground truth collection
+
+## Phosphate Mineralogy at Benguerir
+Key minerals to characterize:
+- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
+- **Carbonates:** calcite, dolomite (buffering capacity)
+- **Clay minerals:** kaolinite, smectite, illite
+- **Iron minerals:** goethite, hematite (AMD indicator)
+- **Accessory:** quartz, feldspar
+
+## Reclamation Context
+OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
+Abdelhak's thesis monitors this process using PRISMA time series.
+
+## Related Pages
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- UM6P (entity note not yet created)
+
+## Potential Industry Application
+OCP Group is a natural client for remote sensing consulting post-defense.  
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
@@ -18200,161 +18360,6 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 - [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
 - [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
 - [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~454 words)
-================================================================================
----
-tags: [wiki, entity, geology, morocco]
-updated: 2026-05-24
-generated_by: claude
----
-
-# Gantour Basin
-
-## Overview
-The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
-
----
-
-## Geography
-
-| Parameter | Value |
-|-----------|-------|
-| Location | Central Morocco, Marrakech-Safi region |
-| Approximate coordinates | ~32°N, ~7.5–8°W |
-| Area | ~1,600 km² (basin extent) |
-| Key city | Benguerir (study site) |
-| Distance from Marrakech | ~70 km north |
-
----
-
-## Geological Setting
-
-**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
-
-**Stratigraphy (simplified):**
-```
-Top: Quaternary alluvium + lacustrine deposits
-     └─ Eocene marls and limestones
-     └─ Paleocene phosphate layers (economic horizon)
-          ├─ Phosphate series: francolite in marl/limestone matrix
-          ├─ Interbedded clays (illite, smectite)
-          └─ Carbonate-rich beds (calcite, dolomite)
-Bottom: Cretaceous basement
-```
-
-**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
-
----
-
-## Mineralogy of the Deposit
-
-The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
-
-| Component | Role |
-|-----------|------|
-| Francolite | Economic phosphate mineral (ore) |
-| Calcite/dolomite | Carbonate gangue |
-| Illite/smectite | Clay gangue |
-| Quartz | Silica gangue |
-| Iron oxides | Accessory weathering products |
-
----
-
-## Mining at Benguerir
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group (Office Chérifien des Phosphates) |
-| Mining method | Open-pit, strip mining |
-| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
-| Annual ore production | ~4 Mt/year (approx.) |
-| Annual waste generation | ~12.3 Mt/year |
-| Mine area (thesis study zone) | ~36 km² |
-
-**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
-
----
-
-## Environmental Significance
-
-1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
-2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
-3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
-4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
-
----
-
-## Morocco's Strategic Role
-Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
-
----
-
-## Related Concepts
-- [[OCP Group and Benguerir Mine]]
-- [[Phosphate Mine Waste]]
-- [[Mineral Assemblages]]
-- [[Reclamation Monitoring]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~288 words)
-================================================================================
----
-tags: [entity, institution, mining, Morocco, OCP, phosphate]
-updated: 2026-05-24
-generated_by: claude
-type: institution
----
-
-# OCP Group & Benguerir Mine
-
-## OCP Group
-- **Full name:** Office Chérifien des Phosphates (OCP Group)
-- **Headquarters:** Casablanca, Morocco
-- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
-- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
-
-## Benguerir Mine
-- **Location:** Benguerir, Marrakech-Safi region, Morocco
-- **Type:** Open-pit phosphate mine
-- **Context:** Active phosphate extraction generating large waste rock dumps
-- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
-
-## Why This Site?
-1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
-2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
-3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
-4. Environmental importance — waste rock management is an OCP priority
-5. Data access — UM6P-OCP relationship facilitates ground truth collection
-
-## Phosphate Mineralogy at Benguerir
-Key minerals to characterize:
-- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
-- **Carbonates:** calcite, dolomite (buffering capacity)
-- **Clay minerals:** kaolinite, smectite, illite
-- **Iron minerals:** goethite, hematite (AMD indicator)
-- **Accessory:** quartz, feldspar
-
-## Reclamation Context
-OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
-Abdelhak's thesis monitors this process using PRISMA time series.
-
-## Related Pages
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- UM6P (entity note not yet created)
-
-## Potential Industry Application
-OCP Group is a natural client for remote sensing consulting post-defense.  
-→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
