@@ -5234,6 +5234,68 @@ UM6P — GSMI, Benguerir, Morocco
 
 
 ================================================================================
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md (~623 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-09
+tags: [jobs, applications, postdoc, france, INRAE, soil, MELICERTES]
+target: INRAE — Post-doc Télédétection des Sols (MELICERTES / PEPR Agroécologie et Numérique)
+institution: EcoSys, AgroParisTech Palaiseau, Île-de-France, France
+status: draft
+deadline: rolling
+apply_url: https://jobs.inrae.fr/ot-19108
+---
+
+# Lettre de Motivation — Post-doctorat Télédétection des Sols, INRAE — MELICERTES (ot-19108)
+
+---
+
+**Abdelhak EL MANSOUR**
+Docteur, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Maroc
+elmansour01abdelhak@gmail.com
+
+---
+
+Direction de recrutement — Post-doctorat Télédétection des Sols
+Unité EcoSys — Campus AgroParisTech Palaiseau
+INRAE, Île-de-France, France
+
+---
+
+Madame, Monsieur,
+
+Je vous adresse ma candidature au post-doctorat en télédétection des sols dans le cadre du projet MELICERTES (PEPR Agroécologie et Numérique, France 2030 / ANR). Je soutiens ma thèse de doctorat à l'UM6P le 30 juin 2026 et suis disponible dès juillet 2026. Mes travaux doctoraux sur la télédétection hyperspectrale multi-échelle pour la caractérisation minéralogique et le monitoring de surfaces de mine me confèrent les compétences en traitement de données EO, en modélisation spectrale et en programmation Python directement requises par ce poste.
+
+La contribution centrale attendue du post-doctorat — construire des mosaïques temporelles d'images satellitaires et développer des modèles d'estimation de la teneur en carbone organique du sol à partir de ces séries temporelles — s'inscrit dans la continuité directe de ma thèse. Le premier chapitre (publié dans *Sensors* 2026, doi:10.3390/s26010002) a établi une bibliothèque spectrale de terrain sur 104 échantillons de roches stériles phosphatées, avec mesures spectroradiométriques VNIR-SWIR (ASD FieldSpec 4, 350–2500 nm) et validation géochimique par HHXRF. Les assemblages minéralogiques que j'ai quantifiés — carbonates, argiles (illite, kaolinite), oxydes de fer — sont les mêmes qui contrôlent la réflectance spectrale des horizons de surface des sols agricoles. Les caractéristiques d'absorption diagnostiques que j'ai exploitées (Al-OH ~2200 nm, CO₃ ~2320–2350 nm, Fe³⁺ ~500–900 nm) sont celles utilisées pour les estimations de carbone organique et de propriétés pédologiques par télédétection. Le troisième chapitre a produit un indice surfacique continu (Reclamation Progress Index) à partir de données EnMAP (189 bandes valides, 418–2445 nm), calibré par régression isotonique contre les mesures XRF indépendantes sur 64 points spatialement indépendants (ρ de Spearman = 0,845, p = 1,74 × 10⁻¹²). Ce résultat illustre ma capacité à construire un produit EO quantitatif et géochimiquement ancré à partir de données multi-temporelles satellitaires — l'objectif central de MELICERTES.
+
+Mon pipeline Python de traitement (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → mosaïque → correction radiométrique → suppression des bandes défectueuses → classification → validation spatiale) est directement adaptable à l'intégration de séries temporelles Sentinel-2 et futures missions hyperspectrale (CHIME, EnMAP). Je maîtrise les environnements scikit-learn, GDAL, rasterio, spectral et numpy. Je suis également familier des services Copernicus Land Monitoring Service (CLMS) dans leur composante de couverture des sols et de biophysique de surface.
+
+Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain sur des sites agricoles français. Je suis l'auteur de 4 publications en revues à comité de lecture avant soutenance, avec deux manuscrits supplémentaires en cours de soumission.
+
+Je serais heureux de vous présenter mes travaux lors d'un entretien et tiens à votre disposition mon CV complet, le résumé de ma thèse et mes publications principales.
+
+Dans l'attente de votre réponse, je vous adresse mes sincères salutations.
+
+**Abdelhak EL MANSOUR**
+Docteur (soutenance 30 juin 2026), Télédétection et Géosciences Environnementales
+UM6P — GSMI, Benguerir, Maroc
+elmansour01abdelhak@gmail.com
+
+---
+
+*Pièces jointes : CV, résumé de thèse (1 page), article Sensors 2026 (Ch.1), article Minerals 2026 (accepté, Ch.2)*
+*Candidature : https://jobs.inrae.fr/ot-19108*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]]*
+
+
+
+
+================================================================================
 FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~671 words)
 ================================================================================
 ---
@@ -5421,7 +5483,7 @@ UM6P — GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~641 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~639 words)
 ================================================================================
 ---
 generated_by: claude
@@ -5441,7 +5503,7 @@ apply_url: https://www.nature.com/naturecareers/job/12857021/dc-26100-postdoc-in
 **Abdelhak EL MANSOUR**
 PhD, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
-insitazoult@gmail.com | abdelhak.elmansour@um6p.ma
+elmansour01abdelhak@gmail.com
 
 ---
 
