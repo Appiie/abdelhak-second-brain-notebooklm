@@ -3627,7 +3627,7 @@ generated_by: claude
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5071 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5204 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3649,6 +3649,10 @@ summary: "A central tracking dashboard and cold outreach email templates with cl
 
 | PI Target Name | Institution | Country | Cover Letter Link | Outreach Status |
 | :--- | :--- | :--- | :--- | :--- |
+| **ITC Twente — Biodiversity EO** | University of Twente ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc\|ITC Biodiversity Letter]] | - [ ] **APPLY NOW — deadline June 10** |
+| **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | - [ ] Not Applied (rolling) |
+| **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | - [ ] Not Applied (rolling) |
+| **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | - [ ] Not Applied (rolling) |
 | **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md|Dr. Saeid Asadzadeh Letter]] | - [ ] Not Contacted |
 | **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md|Dr. Sarah Asam Letter]] | - [ ] Not Contacted |
 | **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
@@ -5230,6 +5234,128 @@ UM6P — GSMI, Benguerir, Morocco
 
 
 ================================================================================
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~671 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-09
+tags: [jobs, applications, postdoc, france, INRAE, soil]
+target: INRAE — Post-Doctoral Position in Remote Sensing for Soil Monitoring (PREPSOIL)
+institution: INRAE, Provence-Alpes-Côte d'Azur, France
+status: draft
+deadline: rolling
+apply_url: https://jobs.inrae.fr/en/ot-17203
+---
+
+# Cover Letter — Post-Doctoral Application, INRAE — Remote Sensing for Soil Monitoring (PREPSOIL/EU)
+
+---
+
+**Abdelhak EL MANSOUR**
+Docteur, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Maroc
+insitazoult@gmail.com | abdelhak.elmansour@um6p.ma
+
+---
+
+Direction de recrutement — Post-Doctorat en Télédétection pour le Monitoring des Sols
+INRAE — Unité de Recherche, Provence-Alpes-Côte d'Azur, France
+
+---
+
+Madame, Monsieur,
+
+Je vous adresse ma candidature pour le post-doctorat en télédétection pour la surveillance des sols dans le cadre du projet européen PREPSOIL. Je soutiens ma thèse de doctorat à l'UM6P le 30 juin 2026 et suis disponible dès juillet 2026. Mon travail doctoral sur la télédétection hyperspectrale multi-échelle pour la caractérisation minéralogique et le monitoring de la reclamation de sites miniers constitue un socle technique directement transférable à la surveillance des propriétés du sol par données satellitaires.
+
+Ma thèse repose sur trois contributions complémentaires. Le premier chapitre (publié dans *Sensors* 2026, doi:10.3390/s26010002) a développé une bibliothèque spectrale de terrain à partir de 104 échantillons de roches stériles phosphatées, analysés par spectroscopie de réflectance VNIR-SWIR (ASD FieldSpec 4, 350–2500 nm) et par fluorescence X portable (HHXRF Niton XL5). La comparaison à la bibliothèque ECOSTRESS a permis de résoudre les assemblages carbonatés (dolomite, calcite), argileux (illite, kaolinite, montmorillonite) et phosphatés (fluorapatite) avec un R² moyen de 0,748 sur l'ensemble des 104 spectres. Cette approche — spectroscopie de terrain couplée à la géochimie élémentaire — est exactement celle du projet PREPSOIL pour calibrer et valider les produits de monitoring des sols à partir de données EO. Le deuxième chapitre a étendu ce cadre à l'échelle satellitaire via PRISMA (239 bandes, 30 m) avec une validation par validation croisée à contrainte spatiale (127 échantillons de terrain, 4 classes lithologiques). Le troisième chapitre a produit un Indice de Progression de la Reclamation (RPI) à partir de données EnMAP (189 bandes valides), calibré par régression isotonique contre les mesures XRF indépendantes (ρ de Spearman = 0,845, p = 1,74 × 10⁻¹²) — un indicateur surfacique continu et physiquement ancré, produit sans campagne de terrain complémentaire.
+
+Le transfert vers le monitoring des sols européens est direct à deux niveaux. Méthodologiquement, les assemblages minéralogiques qui contrôlent la réflectance spectrale d'une roche stérile phosphatée — carbonates, argiles, oxydes de fer — sont les mêmes que ceux qui structurent la signature spectrale des sols agricoles dégradés ou en cours de restauration. Les caractéristiques diagnostiques que j'ai quantifiées (absorption Al-OH à ~2200 nm, CO₃ à ~2320 nm, Fe³⁺ à ~500–900 nm) sont directement exploitables pour les indicateurs de santé des sols du projet PREPSOIL. Opérationnellement, mon pipeline Python complet (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → correction atmosphérique → suppression des bandes défectueuses → démixage spectral → classification → validation) est immédiatement adaptable à l'intégration de données Sentinel-2, Sentinel-3 et futures missions hyperspectrale (CHIME) pour une surveillance multi-temporelle des sols.
+
+Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain en France. Je suis l'auteur de 4 publications en revues à comité de lecture avant soutenance, avec deux manuscrits supplémentaires en cours de soumission.
+
+Je serais heureux de vous présenter plus en détail mes travaux lors d'un entretien. Je tiens à votre disposition mon CV complet, le résumé de ma thèse et mes publications principales.
+
+Dans l'attente de votre réponse, je vous adresse mes sincères salutations.
+
+**Abdelhak EL MANSOUR**
+Docteur (soutenance 30 juin 2026), Télédétection et Géosciences Environnementales
+UM6P — GSMI, Benguerir, Maroc
+
+---
+
+*Pièces jointes : CV, résumé de thèse (1 page), article Sensors 2026 (Ch.1), article Minerals 2026 (accepté, Ch.2)*
+*Candidature : https://jobs.inrae.fr/en/ot-17203*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]*
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~604 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-09
+tags: [jobs, applications, postdoc, netherlands, ITC, twente]
+target: Hiring Committee — Postdoctoral Researcher, Biodiversity-Positive Renewable Energy
+institution: Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede
+status: draft
+deadline: 2026-06-10
+---
+
+# Cover Letter — Postdoc Application, ITC Twente — Biodiversity-Positive Renewable Energy (Hyperspectral EO)
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+insitazoult@gmail.com | abdelhak.elmansour@um6p.ma
+
+---
+
+Hiring Committee — Postdoctoral Researcher in Biodiversity-Positive Renewable Energy
+Faculty ITC — Earth Observation Science Department
+University of Twente, Enschede, Netherlands
+
+---
+
+Dear Members of the Hiring Committee,
+
+I am writing to apply for the Postdoctoral Researcher position in the Biodiversity-Positive Renewable Energy project. I will defend my PhD thesis at UM6P on June 30, 2026, and am available from July 2026. My doctoral work on multi-scale hyperspectral remote sensing for surface monitoring at phosphate mine waste sites provides a directly transferable technical foundation for the multi-source EO and biodiversity monitoring framework described in this position.
+
+My thesis developed three operational systems using hyperspectral satellite data. Chapter 2 produced a spatially-constrained lithological classification pipeline using PRISMA imagery (239 bands, 30 m) with blocked spatial cross-validation (127 field samples, 4 classes, BAC = 0.60–0.67). Chapter 3 built an EnMAP-based (189 valid bands, 418–2445 nm) spectral unmixing pipeline using VCA endmember extraction and FCLS abundance mapping, culminating in a novel Reclamation Progress Index (RPI) that tracks surface transformation through time — validated against independent XRF geochemical measurements at 64 spatially independent points (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The RPI is structurally a change-detection and monitoring instrument: it detects the spectral transition from bare geochemically active waste rock to progressively stabilized, biologically recovering surfaces. This is the same monitoring challenge at the core of biodiversity assessment in disturbed or transformed landscapes.
+
+The bridge to the biodiversity-positive energy context is methodological. Monitoring land surfaces undergoing transformation — whether mine reclamation or renewable energy infrastructure — requires detecting subtle spectral shifts that precede or accompany biological change. My experience resolving vegetation emergence, soil crust formation, and carbonate weathering as endmember-level spectral signals in a 30 m pixel is directly applicable to detecting biodiversity-relevant surface and vegetation changes in energy infrastructure footprints. I have also worked with the ASD FieldSpec 4 (350–2500 nm) for field validation, establishing spectral ground truth for satellite-derived products — a workflow central to any EO-based biodiversity indicator validation.
+
+Technically, I bring a complete Python pipeline for PRISMA and EnMAP data processing (1,776-line production engine: HDF5 ingestion → atmospheric correction → bad-band removal → spectral analysis → classification → accuracy assessment), four peer-reviewed publications, and experience presenting results at international conferences (EGU 2025, EARSeL 2024). I am also familiar with the work of ITC's Earth Observation Science department and am aware of the hyperspectral and thermal RS capacity at ITC that would support this research context.
+
+I would welcome the opportunity to discuss how my EnMAP/PRISMA processing expertise and surface monitoring experience can contribute to the project's EO component. I am available for a video call at short notice and can provide my full CV, thesis abstract, and key publications immediately.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD (defending June 30, 2026), Remote Sensing and Environmental Geosciences
+UM6P — GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, thesis abstract (1 page), Sensors 2026 paper (Ch.1), Minerals 2026 (accepted, Ch.2)*
+*Apply via: https://academicpositions.com/ad/university-of-twente (search current listings) or https://researchersjob.com/postdoctoral-researcher-biodiversity-positive/*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]]*
+
+
+
+
+================================================================================
 FILE: 02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md (~707 words)
 ================================================================================
 ---
@@ -5290,6 +5416,69 @@ UM6P — GSMI, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~641 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-09
+tags: [jobs, applications, postdoc, luxembourg, LIST]
+target: Hiring Committee — Postdoc in Forest Remote Sensing, Modelling and Deep Learning (DC-26100)
+institution: Luxembourg Institute of Science and Technology (LIST), Luxembourg
+status: draft
+deadline: rolling
+apply_url: https://www.nature.com/naturecareers/job/12857021/dc-26100-postdoc-in-forest-remote-sensing-modelling-and-deep-learning/
+---
+
+# Cover Letter — Postdoc Application, LIST Luxembourg — Forest Remote Sensing & Deep Learning (DC-26100)
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+insitazoult@gmail.com | abdelhak.elmansour@um6p.ma
+
+---
+
+Hiring Committee — DC-26100 Postdoctoral Position
+Remote Sensing and Natural Resources Modelling Group
+Luxembourg Institute of Science and Technology (LIST), Luxembourg
+
+---
+
+Dear Members of the Hiring Committee,
+
+I am writing to apply for the DC-26100 postdoctoral position in Forest Remote Sensing, Modelling and Deep Learning. I will defend my PhD thesis on June 30, 2026, and am available from July 2026. My doctoral research — a multi-scale hyperspectral EO framework using PRISMA and EnMAP satellite data — provides the satellite data processing expertise and ML pipeline skills directly required by this position, and the collaborative context with GFZ Potsdam and BOKU Wien described in the posting aligns with my existing network in European hyperspectral research.
+
+My thesis developed operational processing pipelines for both PRISMA (~239 bands, 30 m, ASI) and EnMAP (189 valid bands, 418–2445 nm, DLR/GFZ). These are precisely the sensors referenced in this position alongside Sentinel-2. Chapter 2 produced a spatially constrained lithological classification pipeline for PRISMA imagery: Random Forest and Extra Trees classifiers trained on 127 field samples across four spectral classes, with blocked spatial cross-validation (10 replicates, 30 m buffer; BAC = 0.60–0.67, AUC > 0.95 for carbonates). Chapter 3 developed an EnMAP spectral unmixing pipeline — VCA endmember extraction (k = 4) → FCLS abundance mapping → isotonic calibration against XRF ground truth — producing a spatially continuous surface state index validated at 64 field points (BAC = 0.984 ± 0.031, AUC = 1.000, Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). I also have experience with hybrid RTM-ML approaches from my research stay at the ARTMO lab (University of Valencia, March–August 2024), where I worked within Prof. Jochem Verrelst's group on hyperspectral vegetation applications — one of the groups most directly relevant to the RTM inversion methods described in this project.
+
+The methodological transfer from mine waste monitoring to forest biophysical variable retrieval is straightforward. The core challenge in both contexts is the same: resolving spectrally overlapping signal components within a mixed pixel — mineral assemblages in mine waste, or chlorophyll, structure, and water content in canopy — and mapping their spatial distribution with validated accuracy. The VCA-FCLS unmixing approach I applied for endmember detection in geoscience applications is structurally equivalent to hybrid RTM inversion as used for LAI, FAPAR, and chlorophyll estimation in forest applications. I am prepared to extend my experience into the forest biophysics domain.
+
+I hold four peer-reviewed publications (Sensors 2026, IJEST 2024, two earlier), with a fifth accepted in *Minerals* 2026 and a sixth in preparation. I have presented at EGU 2025 and EARSeL 2024. I maintain a production-grade Python pipeline for PRISMA and EnMAP processing that can be adapted to the multi-sensor fusion context of this project.
+
+I would welcome the opportunity to discuss how my hyperspectral EO expertise fits the DC-26100 project. I am available for a video call at your convenience and can provide my full CV, thesis abstract, and publications immediately.
+
+Thank you for your time.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD (defending June 30, 2026), Remote Sensing and Environmental Geosciences
+UM6P — GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, thesis abstract (1 page), Sensors 2026 (Ch.1), Minerals 2026 accepted (Ch.2)*
+*Apply via: https://app.skeeled.com/offer/c/69c15a4e5fe20b76506a2302 or Nature Careers listing*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+
 
 
 
@@ -5749,6 +5938,69 @@ UM6P — GSMI, Benguerir, Morocco
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md (~626 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-09
+tags: [jobs, applications, scientist, netherlands, wageningen, WUR]
+target: Hiring Committee — Remote Sensing (RS) Scientist
+institution: Wageningen University & Research (WUR), Wageningen, Netherlands
+status: draft
+deadline: rolling
+apply_url: https://www.wur.nl/en/vacancy/remote-sensing-rs-scientist
+---
+
+# Cover Letter — RS Scientist Application, Wageningen University & Research
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+insitazoult@gmail.com | abdelhak.elmansour@um6p.ma
+
+---
+
+Hiring Committee — Remote Sensing (RS) Scientist
+Laboratory of Geo-Information Science and Remote Sensing
+Wageningen University & Research, Wageningen, Netherlands
+
+---
+
+Dear Members of the Hiring Committee,
+
+I am writing to apply for the Remote Sensing Scientist position at WUR's Laboratory of Geo-Information Science and Remote Sensing. I will defend my PhD thesis on June 30, 2026, and am available from July 2026. My doctoral research has produced an operational multi-scale hyperspectral remote sensing framework combining field spectroscopy, PRISMA satellite data, and EnMAP satellite data for geoscience applications — a toolkit directly aligned with the requirements described in this role.
+
+My thesis addresses a complex monitoring problem at the Benguerir phosphate mine (OCP Group, Morocco): tracking the surface transformation of waste rock piles from geochemically active, unvegetated states toward progressively reclaimed, biologically stabilizing surfaces. The work required developing and validating EO-derived indicators at multiple spatial and spectral scales. Chapter 1 built the spectral-geochemical foundation: 104 field samples measured with an ASD FieldSpec 4 spectroradiometer (350–2500 nm) and validated with handheld XRF geochemistry, resolving carbonate, clay, and phosphate mineral assemblages (mean R² = 0.748, 84% of spectra R² > 0.70). Chapter 2 scaled this to PRISMA satellite imagery (239 bands, 30 m), developing a spatially constrained classification pipeline for four lithological classes using Random Forest and Extra Trees with blocked spatial cross-validation (10 replicates, 30 m buffer, 127 field samples; BAC = 0.60–0.67, AUC > 0.95 for carbonates). Chapter 3 built an EnMAP-based (189 valid bands, 418–2445 nm) spectral unmixing pipeline — VCA endmember extraction (k = 4) → FCLS abundance mapping → isotonic regression calibration against XRF ground truth — producing a Reclamation Progress Index (RPI) validated at 64 spatially independent field locations (BAC = 0.984 ± 0.031, AUC = 1.000, Spearman ρ = 0.845, p = 1.74 × 10⁻¹²).
+
+WUR's remote sensing group operates at the intersection of multi-source EO data, biophysical variable retrieval, and applied geoscience — the same axis along which my research sits. I am experienced with the full processing chain from raw satellite data (HDF5 format for PRISMA and EnMAP) to validated geoscience products: atmospheric correction, bad-band removal, spectral calibration, classification, and spatial accuracy assessment. My Python production pipeline (1,776 lines) handles this end-to-end and is documented for reproducibility. I am also comfortable with drone and field spectroscopy data, having built a ground-truth database that directly informed satellite model training and validation across both chapters.
+
+My publication record includes four peer-reviewed papers before defense (Sensors 2026, IJEST 2024, two earlier contributions) with a fifth accepted in *Minerals* 2026 and a sixth targeting ISPRS or Remote Sensing of Environment post-defense. I have presented at EGU 2025 (Vienna) and EARSeL 2024 (Tartu).
+
+I am eager to bring hyperspectral expertise and operational pipeline development to WUR's research environment. I would welcome the opportunity to discuss how my background fits the team's current projects and can provide my full CV, thesis abstract, and publications on request.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD (defending June 30, 2026), Remote Sensing and Environmental Geosciences
+UM6P — GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, thesis abstract (1 page), Sensors 2026 paper (Ch.1), Minerals 2026 (accepted, Ch.2)*
+*Apply via: https://www.wur.nl/en/vacancy/remote-sensing-rs-scientist*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
 
 
 
