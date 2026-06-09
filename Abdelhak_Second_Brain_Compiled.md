@@ -3627,7 +3627,7 @@ generated_by: claude
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5204 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5198 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3649,7 +3649,7 @@ summary: "A central tracking dashboard and cold outreach email templates with cl
 
 | PI Target Name | Institution | Country | Cover Letter Link | Outreach Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **ITC Twente — Biodiversity EO** | University of Twente ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc\|ITC Biodiversity Letter]] | - [ ] **APPLY NOW — deadline June 10** |
+| **ITC Twente — Biodiversity EO** | University of Twente ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc\|ITC Biodiversity Letter]] | ✅ Applied 2026-06-09 |
 | **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | - [ ] Not Applied (rolling) |
 | **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | - [ ] Not Applied (rolling) |
 | **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | - [ ] Not Applied (rolling) |
@@ -5294,7 +5294,7 @@ UM6P — GSMI, Benguerir, Maroc
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~604 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~606 words)
 ================================================================================
 ---
 generated_by: claude
@@ -5302,7 +5302,8 @@ date: 2026-06-09
 tags: [jobs, applications, postdoc, netherlands, ITC, twente]
 target: Hiring Committee — Postdoctoral Researcher, Biodiversity-Positive Renewable Energy
 institution: Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede
-status: draft
+status: applied
+applied: 2026-06-09
 deadline: 2026-06-10
 ---
 
