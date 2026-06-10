@@ -1272,7 +1272,7 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md (~1298 words)
+FILE: 03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md (~1312 words)
 ================================================================================
 ---
 generated_by: claude
@@ -1460,6 +1460,10 @@ If 1 sells at BIN + 1 at min offer:
 - lifetimeharbor.com BIN + crystalpredict min: $129,979 + $8,000 = **$137,979**
 - This is life-changing income for a new PhD in Morocco
 
+---
+
+*Related: [[04_Knowledge Base/AI-Generated/data/Domain Export — Raw CSV Summary|Domain Export — Raw CSV Summary]]*
+
 
 
 
@@ -1622,7 +1626,7 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 03_Digital Life/money/domaining/Flashcards — Domains.md (~578 words)
+FILE: 03_Digital Life/money/domaining/Flashcards — Domains.md (~591 words)
 ================================================================================
 ---
 tags:
@@ -1728,7 +1732,7 @@ What is LTO and is it enabled?::Lease-to-own financing. NOT currently configured
 
 ---
 
-*Related: [[03_Digital Life/money/domaining/Domain Portfolio|Domain Portfolio]] · [[03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market|Top 5 to Market]] · [[03_Digital Life/money/Money Overview|Money Overview]]*
+*Related: [[03_Digital Life/money/domaining/Domain Portfolio|Domain Portfolio]] · [[03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market|Top 5 to Market]] · [[03_Digital Life/money/Money Overview|Money Overview]] · [[04_Knowledge Base/AI-Generated/data/Domain Export — Raw CSV Summary|Domain Export — Raw CSV Summary]]*
 
 
 
