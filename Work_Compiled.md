@@ -374,7 +374,7 @@ VITO applications sent (with dates)::Scientist Remote Sensing Water Quality (App
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/Index.md (~242 words)
+FILE: 02_Academic & Work/work/Index.md (~271 words)
 ================================================================================
 ---
 tags:
@@ -413,6 +413,7 @@ created: '2026-06-08'
 
 ## 1:1 Meetings
 *(Meeting notes with supervisor, collaborators)*
+- **Inbox**: [[02_Academic & Work/work/meetings/README|Meetings Inbox / Intake Guide]]
 
 ## Incidents / Blockers
 *(Technical issues, administrative blockers)*
@@ -421,10 +422,15 @@ created: '2026-06-08'
 - **University Admin**: [[04_Knowledge Base/AI-Generated/admin/CeDoc Hours Log|CeDoc Hours Log]] · [[04_Knowledge Base/AI-Generated/admin/Mission Order — International Travel|Mission Order — International Travel]]
 
 
+## Telegram Captures & Logs
+- **Status Snapshots**: [[04_Knowledge Base/AI-Generated/telegram/2026-05-28-10-30-thematic-dashboards|Thematic Dashboards (2026-05-28)]]
+- **Motivational Reminder**: [[04_Knowledge Base/AI-Generated/telegram/2026-05-28-14-30-special-note|Special Note for Abdelhak]]
+
+
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/Tools Setup.md (~762 words)
+FILE: 02_Academic & Work/work/Tools Setup.md (~770 words)
 ================================================================================
 ---
 generated_by: claude
@@ -562,6 +568,7 @@ Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 - [[02_Academic & Work/work/setup/External Data Import Guide|External Data Import Guide]]
 - [[02_Academic & Work/work/setup/NotebookLM Setup|NotebookLM Setup]]
 - [[02_Academic & Work/work/setup/Plugin Guide|Plugin Guide]]
+- [[04_Knowledge Base/AI-Generated/setup/Power Setups 2026|Power User Setups 2026]]
 
 ---
 
@@ -1451,7 +1458,7 @@ created: '2026-06-06'
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5227 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5231 words)
 ================================================================================
 ---
 generated_by: claude
@@ -1519,7 +1526,7 @@ Dear Dr. Asadzadeh,
 
 I hope this email finds you well.
 
-I am writing to inquire about potential postdoctoral research opportunities in your group at GFZ Potsdam. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geological remote sensing and hyperspectral unmixing.
+I am writing to inquire about potential postdoctoral research opportunities in your group at GFZ Potsdam. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geological remote sensing and [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|hyperspectral unmixing]].
 
 My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
 
@@ -1552,7 +1559,7 @@ Dear Dr. Asam,
 
 I hope this email finds you well.
 
-I am writing to inquire about potential postdoctoral research opportunities in your group at DLR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on land surface monitoring and multi-temporal remote sensing.
+I am writing to inquire about potential postdoctoral research opportunities in your group at DLR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|land surface monitoring and reclamation monitoring]].
 
 My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
 
@@ -3948,7 +3955,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~661 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~677 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3992,11 +3999,11 @@ Oberpfaffenhofen, Germany
 
 Dear Dr. Storch,
 
-I am writing to inquire about postdoctoral opportunities in the Imaging Spectroscopy Department following the defense of my PhD thesis in June 2026. My doctoral work at UM6P is, to my knowledge, one of the first studies to apply actual EnMAP satellite data, not simulated, to mine waste rock characterisation and reclamation monitoring with independent geochemical ground truth validation. I believe this constitutes a relevant applied science contribution to IMF's imaging spectroscopy programme, and I would like to discuss whether there is a fit with your department's current directions.
+I am writing to inquire about postdoctoral opportunities in the Imaging Spectroscopy Department following the defense of my PhD thesis in June 2026. My doctoral work at UM6P is, to my knowledge, one of the first studies to apply actual [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] satellite data, not simulated, to mine waste rock characterisation and [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|reclamation monitoring]] with independent geochemical ground truth validation. I believe this constitutes a relevant applied science contribution to IMF's imaging spectroscopy programme, and I would like to discuss whether there is a fit with your department's current directions.
 
-My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, a 36 km² open-pit operation that provided a geometrically complex, mineralogically rich, semi-arid test site for EnMAP performance evaluation. Chapter 3 used 189 valid EnMAP bands (418–2445 nm) for two purposes: first, to discriminate reclaimed (backfilled) waste rock zones from undisturbed reference areas using spatially blocked classification; second, to develop a novel Reclamation Progress Index (RPI), an EnMAP-derived surface transformation metric calibrated against 64 independent XRF geochemical measurements from both zones (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The XRF calibration provides a quantitative geoscience benchmark that goes beyond binary classification, it ties each EnMAP pixel's spectral state to a measurable geochemical quantity, mapping reclamation progress from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones. This type of geochemically-anchored EnMAP validation, carried out at an operational mine site in North Africa, extends the sensor's demonstrated application envelope in directions relevant to the critical minerals and environmental monitoring priorities that currently drive imaging spectroscopy science.
+My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, a 36 km² open-pit operation that provided a geometrically complex, mineralogically rich, semi-arid test site for EnMAP performance evaluation. Chapter 3 used 189 valid EnMAP bands (418–2445 nm) for two purposes: first, to discriminate reclaimed (backfilled) waste rock zones from undisturbed reference areas using [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|spatially blocked classification]]; second, to develop a novel [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]], an EnMAP-derived surface transformation metric calibrated against 64 independent [[04_Knowledge Base/wiki/concepts/Handheld XRF|XRF]] geochemical measurements from both zones (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The XRF calibration provides a quantitative geoscience benchmark that goes beyond binary classification, it ties each EnMAP pixel's spectral state to a measurable geochemical quantity, mapping reclamation progress from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones. This type of geochemically-anchored EnMAP validation, carried out at an operational mine site in North Africa, extends the sensor's demonstrated application envelope in directions relevant to the critical minerals and environmental monitoring priorities that currently drive imaging spectroscopy science.
 
-Chapter 2 used PRISMA (239 bands, 30 m) for lithological mapping of four waste rock classes under spatially constrained machine learning, providing a sensor comparison reference point: EnMAP's higher SNR and improved band configuration produced cleaner SWIR discriminations than PRISMA for the same site conditions, consistent with the sensor specifications your ground segment team designed for. Chapter 1 built the full spectral-geochemical baseline at sample scale using ASD FieldSpec 4 spectroscopy and HHXRF/XRD validation, providing the per-mineral ground truth that anchors interpretation at the satellite scale.
+Chapter 2 used [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] (239 bands, 30 m) for lithological mapping of four waste rock classes under spatially constrained machine learning, providing a sensor comparison reference point: EnMAP's higher SNR and improved band configuration produced cleaner SWIR discriminations than PRISMA for the same site conditions, consistent with the sensor specifications your ground segment team designed for. Chapter 1 built the full spectral-geochemical baseline at sample scale using ASD FieldSpec 4 [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|spectroscopy]] and HHXRF/XRD validation, providing the per-mineral ground truth that anchors interpretation at the satellite scale.
 
 I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026), a complete Python processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and first-hand experience with the practical constraints of EnMAP data in a real applied setting, bad band behaviour, atmospheric correction residuals in semi-arid conditions, and SWIR SNR limits for carbonate and phosphate mineral discrimination. I am familiar with the DLR EOC's imaging spectroscopy science agenda and would be glad to contribute to it.
 
