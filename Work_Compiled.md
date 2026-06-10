@@ -577,6 +577,716 @@ Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 
 
 ================================================================================
+FILE: 02_Academic & Work/work/meetings/README.md (~156 words)
+================================================================================
+---
+tags:
+  - inbox
+  - meetings
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-27'
+---
+
+# Meetings Inbox
+
+Drop raw meeting notes here before processing.
+
+## Usage
+
+1. Export or write your note in this folder
+2. File naming: `YYYY-MM-DD <Topic or Person>.md`
+3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
+
+## What `/om-intake` does with each file
+
+| Detected content | Destination |
+|-----------------|-------------|
+| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
+| Project update | Append to `work/active/<Project>.md` |
+| Decision reached | New Decision Record + `work/Index.md` |
+| Action item | `- [ ]` in the relevant note |
+| Win / recognition | `perf/Brag Doc.md` |
+| New person mentioned | Stub in `org/people/<Name>.md` |
+| Blocker identified | `## Blockers` section in active note |
+
+For freeform unstructured content, use `/om-dump` instead.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~1002 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-28
+tags:
+  - automation
+  - claude-code
+  - mcp
+  - power-user
+  - setup
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-28'
+---
+
+# Elite Vault Setup — Power User Stack 2026
+
+> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
+> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
+
+---
+
+## What's Installed and Live
+
+### MCP Servers (9 total, all ✓ Connected)
+
+| Server | Purpose | Status |
+|--------|---------|--------|
+| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
+| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
+| `brave-search` | Web search (token needs renewal) | ✓ Connected |
+| `github` | PR reviews, issue tracking | ✓ Live |
+| `notion` | Notion DB access | ✓ Live |
+| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
+| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
+| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
+| `google-drive` | Drive file access | ! Needs OAuth |
+
+**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
+
+**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
+
+---
+
+### Custom Claude Skills (5 skills in `~/.claude/skills/`)
+
+| Skill | Trigger | What it does |
+|-------|---------|--------------|
+| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
+| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
+| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
+| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
+| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
+
+---
+
+### Vault Scripts (`scripts/`)
+
+| Script | Schedule | What it does |
+|--------|----------|--------------|
+| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
+| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
+
+**Automate via Task Scheduler (Windows):**
+```powershell
+# Run both scripts every Monday at 8:00 AM
+$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
+Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
+Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
+```
+
+---
+
+## Researched Repos — Honest Assessment
+
+### Top-tier (real, maintained, worth using)
+
+**`ProfSynapse/claudesidian-mcp` (Nexus)**  
+- Local semantic search over vault using embeddings
+- Graph-traversal: find notes by concept, not just keyword
+- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
+- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
+
+**`rohitg00/awesome-claude-code-toolkit`**  
+- 135 agents, 35 skills, 42 slash commands on GitHub
+- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
+- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
+
+**`obra/knowledge-graph` Claude Code plugin**  
+- Vault as knowledge graph with BFS/DFS query tools
+- Community detection, god-node identification
+- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
+
+**`eugeniughelbur/obsidian-second-brain`**  
+- 34 slash commands for second-brain workflows
+- `@obsidian`, `@notes`, `@daily` context tools
+- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
+
+**`jacksteamdev/obsidian-mcp-tools`**  
+- Semantic search + Templater integration
+- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
+
+### Not worth installing (why)
+
+| Repo | Reason to skip |
+|------|---------------|
+| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
+| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
+| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
+| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
+
+---
+
+## Workflow Stack — How It All Connects
+
+```
+Morning Standup
+└── /om-standup
+    ├── reads wiki/hot.md
+    ├── reads work/Index.md
+    └── surfaces job deadlines + domain alerts
+
+Weekly Review
+└── /vault-review
+    ├── scans work/active/ for stale notes
+    ├── flags job deadlines
+    └── flags domain renewals
+
+Job Search
+└── scripts/job_monitor.py (weekly, auto)
+    └── appends → work/active/Job Board -- Live Tracker.md
+
+Domain Monitoring
+└── scripts/domain_report.py (weekly, auto)
+    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
+
+Defense Prep
+└── /thesis-check
+    ├── counts days to June 30
+    └── outputs daily action plan
+```
+
+---
+
+## What Requires Manual Action
+
+1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
+2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
+3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
+4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
+5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
+
+---
+
+## Your Edge — What Nobody Else Has
+
+The combination of:
+- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
+- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
+- **gmail MCP** (read + draft application emails without leaving Claude)
+- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
+- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
+- **thesis-check skill** (defense countdown with daily actions)
+
+This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
+
+---
+
+## Next Upgrades (when time permits)
+
+| Priority | Action | Time |
+|----------|--------|------|
+| High | Task Scheduler for weekly scripts | 10 min |
+| High | Brave Search token renewal | 5 min |
+| Medium | `claudesidian-mcp` when npm-stable | — |
+| Medium | Google Drive OAuth | 15 min |
+| Low | ManyChat Instagram automation | 15 min |
+| Low | GoDaddy API key in settings | 5 min |
+
+
+---
+
+*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/work/Tools Setup|Tools Setup]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~777 words)
+================================================================================
+---
+tags:
+  - data
+  - import
+  - obsidian
+  - setup
+  - topic/work
+generated_by: claude
+date: 2026-06-07
+type: work-note
+status: active
+created: '2026-06-07'
+---
+
+# External Data Import Guide
+
+How to get emails, Outlook data, files, images, and PDFs into the vault.
+
+---
+
+## 1. Emails from Outlook (Windows)
+
+### Option A — Obsidian Importer Plugin (Recommended)
+Install the **Obsidian Importer** community plugin. It natively imports:
+- `.eml` files (email files)
+- `.mbox` files (Gmail / Thunderbird exports)
+
+**Workflow:**
+1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
+   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
+2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
+3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
+4. Set destination folder: `AI-Generated/emails/`
+5. Add frontmatter `generated_by: claude` on import if needed
+
+### Option B — Markdown Export Script
+Export important emails manually. For each email you want to preserve as a note:
+1. Copy/paste email body into Obsidian note
+2. Use template:
+```markdown
+---
+from: sender@example.com
+to: abdelhak.elmansour@um6p.ma
+date: YYYY-MM-DD
+subject: "Email subject"
+tags: [email, imported]
+---
+
+# Subject
+
+**From:** Sender Name <email>
+**Date:** YYYY-MM-DD
+
+---
+
+Body content here...
+```
+Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
+
+### Option C — Obsidian Web Clipper (for Gmail)
+If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
+
+---
+
+## 2. Files (PDFs, DOCX, Excel, PPT)
+
+### PDFs
+- Drag-and-drop into vault folder → Obsidian treats them as attachments
+- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
+- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
+- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
+
+### DOCX (Word) — Convert to Markdown
+Use **Pandoc** (free CLI tool):
+```powershell
+pandoc input.docx -o output.md
+```
+Then move output.md into vault. Works for thesis drafts, cover letters, etc.
+
+### Excel / CSV — Import as Dataview
+Save CSV files in vault → query with DataviewJS:
+```dataviewjs
+const data = await dv.io.csv("path/to/file.csv");
+dv.table(data.headers, data.rows);
+```
+
+---
+
+## 3. Images
+
+### Direct drag-and-drop
+Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
+Set attachment folder: Settings → Files and links → Default location = `assets/`
+
+### Embed in notes
+```markdown
+![[image.png]]
+![[image.png|300]]        ← width in pixels
+![[image.png|caption]]
+```
+
+### Screenshot workflow
+For screenshots of important emails, docs, or web content:
+1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
+2. Or: Screenshot → drag into vault folder → embed
+
+### Images already in vault
+Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
+
+---
+
+## 4. Outlook Calendar → Obsidian
+
+### Option A — iCal Export
+Outlook → File → Save Calendar → `.ics` file
+Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
+Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
+
+### Option B — Forward to Vault
+For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
+
+---
+
+## 5. Web Pages (Articles, Papers, News)
+
+### Obsidian Web Clipper (Best Option)
+Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
+- Clips any web page to vault with one click
+- Auto-applies templates for articles, papers, etc.
+- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
+
+### defuddle (via Claude Code)
+Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
+Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
+
+### Manual
+Copy URL → paste into note → add `tags: [clipping]` frontmatter.
+
+---
+
+## 6. Zotero Papers → Literature Notes
+
+Already configured via **Citations plugin** (installed 2026-06-07):
+- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
+- `Ctrl+P → Citations: Insert Markdown citation` → search your library
+- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
+
+For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
+
+---
+
+## 7. Flashcards from Any External Content
+
+Once you have any content in the vault as a note, add flashcard syntax:
+```
+Question::Answer
+```
+Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
+
+Active flashcard decks:
+- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
+- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
+- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
+- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
+- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~357 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+tags:
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-26'
+---
+
+# NotebookLM Integration
+
+Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
+Auth: `~/.notebooklm/profiles/default/storage_state.json`
+CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
+
+Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
+
+---
+
+## Notebooks
+
+| Name | ID | Sources |
+|------|----|---------|
+| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
+| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
+| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
+
+---
+
+## CLI Quick Reference
+
+```bash
+# Set active notebook
+notebooklm use bb2823a9        # defense
+notebooklm use f5b6cff5        # methods
+notebooklm use da39982c        # jobs
+
+# Ask a question
+notebooklm ask "What are the three most likely Verrelst attack vectors?"
+notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
+
+# Generate artifacts
+notebooklm generate audio      # podcast overview
+notebooklm generate quiz       # study quiz
+notebooklm generate flashcards # flashcards
+notebooklm generate mind-map   # mind map
+
+# Download artifacts
+notebooklm download audio      # saves audio file
+
+# List sources
+notebooklm source list
+
+# Add new source (.md files MUST use --mime-type text/plain)
+notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
+
+# Refresh after vault updates
+notebooklm source refresh <source-id>
+```
+
+---
+
+## Workflow: Defense Prep
+
+1. `notebooklm use bb2823a9`
+2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
+3. `notebooklm generate quiz` → download and study
+4. `notebooklm generate audio` → listen as podcast
+
+## Workflow: Update After Vault Changes
+
+When you update a defense prep file, refresh it:
+```bash
+notebooklm use bb2823a9
+notebooklm source list   # find the source ID
+notebooklm source refresh <id>
+```
+
+---
+
+## Notes
+
+- Unofficial reverse-engineered API — Google can break it without warning
+- Re-authenticate if it stops working: `notebooklm login`
+- Sessions expire: re-run `notebooklm login` every few weeks
+
+
+---
+
+*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~673 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+updated: 2026-06-07
+tags:
+  - obsidian
+  - plugins
+  - setup
+  - topic/work
+type: work-note
+status: active
+created: '2026-06-07'
+---
+
+# Obsidian Plugin Guide
+
+14 community plugins installed and enabled. **6 added 2026-06-07.**
+
+---
+
+## obsidian-git (Vinzent03)
+
+**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
+
+**Config set:**
+- Auto-commit every **20 minutes** (when Obsidian is open)
+- Pull on startup (gets latest from GitHub before you start)
+- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
+- Pull before push: enabled
+- Status bar: shows git status
+
+**Manual commands (Cmd/Ctrl+P → "Git"):**
+- `Git: Create backup` — commit + push right now
+- `Git: Pull` — pull latest from remote
+- `Git: Open source control view` — see changed files
+- `Git: Open history` — browse commit history
+
+**Remote:** https://github.com/Appiie/abdelhak-vault.git
+
+---
+
+## Dataview (blacksmithgu)
+
+**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
+
+**Config set:**
+- DataviewJS enabled (JavaScript queries)
+- Inline queries enabled
+- Task completion tracking on
+- HTML rendering allowed
+
+**Where it's used:**
+- `Dashboard.md` — defense countdown + live tables of all active files
+- `Home.md` — mission control
+
+**Basic syntax:**
+```dataview
+TABLE file.mtime AS "Updated"
+FROM "02_Academic & Work/thesis/defense-prep"
+SORT file.mtime DESC
+```
+
+```dataviewjs
+const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
+dv.paragraph(`${days} days to defense`);
+```
+
+**Add metadata to any note for Dataview to pick up:**
+```yaml
+---
+status: in-progress
+priority: high
+deadline: 2026-06-30
+---
+```
+
+---
+
+## Templater (SilentVoid13)
+
+Auto-fill templates with dynamic content (dates, prompts, etc.).
+
+---
+
+## Tasks (obsidian-tasks-plugin)
+
+Track tasks across the vault with due dates, priorities, recurrence.
+
+**Syntax:**
+```
+- [ ] Write slide 5 📅 2026-06-01 ⏫
+```
+
+**Query all urgent tasks:**
+```tasks
+not done
+priority is high
+```
+
+---
+
+## Excalidraw
+
+Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
+
+---
+
+## Charts
+
+Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
+
+---
+
+## Style Settings
+
+Adjust theme appearance. `Cmd+P → Style Settings`.
+
+---
+
+## Spaced Repetition (st3v3nmw) — NEW
+
+Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
+
+**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
+
+**Syntax:**
+```
+Question::Answer          ← single-line card
+Question:::Answer         ← reversed (shows answer first too)
+```
+Multi-line:
+```
+Question
+?
+Answer
+```
+Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
+
+**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
+
+---
+
+## Citations (hans) — NEW
+
+Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
+
+**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
+**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
+**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
+
+---
+
+## QuickAdd (chhoumann) — NEW
+
+4 capture macros bound to commands:
+
+| Macro | What it does |
+|-------|-------------|
+| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
+| 🌐 New Domain Lead | Creates domain lead file from template |
+| 💼 New Job Application | Creates job application file from template |
+| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
+
+Access: `Ctrl+P → QuickAdd: ...`
+
+---
+
+## Kanban (mgmeyers) — NEW
+
+Two active boards:
+- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
+- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
+
+Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
+
+---
+
+## Linter (platers) — NEW
+
+Runs automatically on save. Enforces:
+- Consistent heading spacing
+- No trailing whitespace
+- Proper ellipsis formatting
+- YAML `updated:` timestamp on save
+
+Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
+
+---
+
+## Natural Language Dates (argenos) — NEW
+
+Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
+
+Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
+Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
 FILE: 02_Academic & Work/work/1-1/Laamrani-2026-05-27.md (~92 words)
 ================================================================================
 ---
@@ -1389,7 +2099,7 @@ created: '2026-06-06'
 - **Portal:** → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
 
 ### 🇧🇪 VITO — Scientific Expert EO Services
-- **Status:** ✅ Applied 2026-05-25 — awaiting response · **Checklist**: [[02_Academic & Work/work/active/VITO Application/Submission Checklist.md]]
+- **Status:** ✅ Applied 2026-05-25 — awaiting response · **Checklist**: [[02_Academic & Work/work/active/VITO Application/Submission Checklist]]
 - **Fit:** 8.5/10
 - **Typical response time:** 2–6 weeks
 
@@ -1492,22 +2202,22 @@ created: '2026-06-09'
 | **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | ✅ Applied 2026-06-09 |
 | **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | ✅ Applied 2026-06-09 |
 | **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | ✅ Applied 2026-06-09 |
-| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md|Dr. Saeid Asadzadeh Letter]] | - [ ] Not Contacted |
-| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md|Dr. Sarah Asam Letter]] | - [ ] Not Contacted |
-| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
-| **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc.md|Prof. Dr. Sabine Chabrillat Letter]] | - [ ] Not Contacted |
-| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md|Prof. Kamran Esmaeili Letter]] | - [ ] Not Contacted |
-| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md|Pr. Nicole Fenton Letter]] | - [ ] Not Contacted |
-| **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md|Dr. Richard Gloaguen Letter]] | - [ ] Not Contacted |
-| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md|Dr. Chris Hecker Letter]] | - [ ] Not Contacted |
-| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md|Dr. Mahdi Khodadadzadeh Letter]] | - [ ] Not Contacted |
-| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md|Dr. Sandra Lorenz Letter]] | - [ ] Not Contacted |
-| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md|Prof. Maxence Martin Letter]] | - [ ] Not Contacted |
-| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md|Dr. Nicola Mondillo Letter]] | - [ ] Not Contacted |
-| **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md|Dr. Martin Schodlok Letter]] | - [ ] Not Contacted |
-| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md|Dr. Anna Sorrentino Letter]] | - [ ] Not Contacted |
-| **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md|Dr. Tobias Storch Letter]] | - [ ] Not Contacted |
-| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md|Pr. Osvaldo Valeria Letter]] | - [ ] Not Contacted |
+| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Dr. Saeid Asadzadeh Letter]] | - [ ] Not Contacted |
+| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc|Dr. Sarah Asam Letter]] | - [ ] Not Contacted |
+| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
+| **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Prof. Dr. Sabine Chabrillat Letter]] | - [ ] Not Contacted |
+| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Prof. Kamran Esmaeili Letter]] | - [ ] Not Contacted |
+| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc|Pr. Nicole Fenton Letter]] | - [ ] Not Contacted |
+| **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc|Dr. Richard Gloaguen Letter]] | - [ ] Not Contacted |
+| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc|Dr. Chris Hecker Letter]] | - [ ] Not Contacted |
+| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc|Dr. Mahdi Khodadadzadeh Letter]] | - [ ] Not Contacted |
+| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Dr. Sandra Lorenz Letter]] | - [ ] Not Contacted |
+| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc|Prof. Maxence Martin Letter]] | - [ ] Not Contacted |
+| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc|Dr. Nicola Mondillo Letter]] | - [ ] Not Contacted |
+| **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc|Dr. Martin Schodlok Letter]] | - [ ] Not Contacted |
+| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Dr. Anna Sorrentino Letter]] | - [ ] Not Contacted |
+| **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc|Dr. Tobias Storch Letter]] | - [ ] Not Contacted |
+| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Pr. Osvaldo Valeria Letter]] | - [ ] Not Contacted |
 
 ---
 
@@ -1515,7 +2225,7 @@ created: '2026-06-09'
 
 ### 👤 Dr. Saeid Asadzadeh (GFZ Potsdam — 🇩🇪 Germany)
 **Email Address**: `saeid.asadzadeh@gfz-potsdam.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:saeid.asadzadeh@gfz-potsdam.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Asadzadeh%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20GFZ%20Potsdam.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geological%20remote%20sensing%20and%20hyperspectral%20unmixing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineral%20mapping%20and%20PRISMA%20data%20processing%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1548,7 +2258,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Sarah Asam (DLR — 🇩🇪 Germany)
 **Email Address**: `sarah.asam@dlr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:sarah.asam@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Asam%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20land%20surface%20monitoring%20and%20multi-temporal%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20machine%20learning%20classification%20and%20surface%20analysis%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1581,7 +2291,7 @@ UM6P, Morocco
 
 ### 👤 Pr. Bruno Bussière (UQAT — 🇨🇦 Canada)
 **Email Address**: `bruno.bussiere@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:bruno.bussiere@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Bussi%C3%A8re%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20restauration%20et%20la%20gestion%20environnementale%20des%20sites%20miniers.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Bussi%C3%A8re%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
 
@@ -1612,7 +2322,7 @@ UM6P, Maroc
 
 ### 👤 Prof. Dr. Sabine Chabrillat (GFZ Helmholtz Centre for Geosciences, Potsdam — 🇩🇪 Germany)
 **Email Address**: `chabri@gfz-potsdam.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:chabri@gfz-potsdam.de?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%20la%20Professeure%20Chabrillat%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20GFZ%20Helmholtz%20Centre%20for%20Geosciences%2C%20Potsdam.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20hyperspectral%20applications%20for%20bare%20soil%20and%20mineral%20mapping.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%20la%20Professeure%20Chabrillat%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
 
@@ -1643,7 +2353,7 @@ UM6P, Maroc
 
 ### 👤 Prof. Kamran Esmaeili (University of Toronto — 🇨🇦 Canada)
 **Email Address**: `kamran.esmaeili@utoronto.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:kamran.esmaeili@utoronto.ca?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Professor%20Esmaeili%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Toronto.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20mine%20waste%20management%20and%20civil/mineral%20engineering%20remote%20sensing%20applications.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20phosphate%20waste%20rock%20characterization%20and%20multi-scale%20monitoring%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1676,7 +2386,7 @@ UM6P, Morocco
 
 ### 👤 Pr. Nicole Fenton (UQAT — 🇨🇦 Canada)
 **Email Address**: `nicole.fenton@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:nicole.fenton@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%20la%20Professeure%20Fenton%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20biodiversit%C3%A9%20et%20la%20restauration%20%C3%A9cologique%20en%20contexte%20minier%20nordique.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%20la%20Professeure%20Fenton%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
 
@@ -1707,7 +2417,7 @@ UM6P, Maroc
 
 ### 👤 Dr. Richard Gloaguen (HZDR — 🇩🇪 Germany)
 **Email Address**: `r.gloaguen@hzdr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:r.gloaguen@hzdr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Gloaguen%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20HZDR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20exploration%20technology%20and%20automated%20mineral%20mapping%20using%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20field%20spectroscopy%2C%20PRISMA/EnMAP%20unmixing%2C%20and%20machine%20learning%20classification%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1740,7 +2450,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Chris Hecker (ITC — 🇳🇱 Netherlands)
 **Email Address**: `c.a.hecker@utwente.nl`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:c.a.hecker@utwente.nl?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Hecker%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20ITC.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20thermal%20and%20reflective%20infrared%20spectroscopy%20for%20mineral%20identification.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineralogical%20characterization%20and%20laboratory/field%20ASD%20spectroscopy%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1773,7 +2483,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Mahdi Khodadadzadeh (ITC — 🇳🇱 Netherlands)
 **Email Address**: `m.khodadadzadeh@utwente.nl`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:m.khodadadzadeh@utwente.nl?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Khodadadzadeh%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20ITC.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geo-information%20processing%20and%20advanced%20machine%20learning%20for%20hyperspectral%20classification.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20spatial-spectral%20CNN%20architectures%20and%20advanced%20classifier%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1806,7 +2516,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Sandra Lorenz (HZDR — 🇩🇪 Germany)
 **Email Address**: `s.lorenz@hzdr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:s.lorenz@hzdr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Lorenz%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20HZDR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20hyperspectral%20sensor%20integration%20and%20mineral%20resource%20exploration%20technology.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20spectral%20unmixing%20and%20multi-source%20geological%20data%20fusion%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1839,7 +2549,7 @@ UM6P, Morocco
 
 ### 👤 Prof. Maxence Martin (UQAT — 🇨🇦 Canada)
 **Email Address**: `maxence.martin@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:maxence.martin@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Martin%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20dynamique%20des%20%C3%A9cosyst%C3%A8mes%20forestiers%20et%20l%27%C3%A9cologie%20foresti%C3%A8re%20quantitative.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Martin%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
 
@@ -1870,7 +2580,7 @@ UM6P, Maroc
 
 ### 👤 Dr. Nicola Mondillo (University of Naples Federico II — 🇮🇹 Italy)
 **Email Address**: `nicola.mondillo@unina.it`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:nicola.mondillo@unina.it?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Mondillo%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Naples%20Federico%20II.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20supergene%20ore%20deposits%2C%20mineralogy%2C%20and%20geological%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineral%20characterization%20and%20hyperspectral%20field%20spectrometry%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1903,7 +2613,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Martin Schodlok (BGR — 🇩🇪 Germany)
 **Email Address**: `martin.schodlok@bgr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:martin.schodlok@bgr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Schodlok%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20BGR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20mineral%20resources%20remote%20sensing%20and%20spectral%20libraries%20database%20application.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20USGS/ECOSTRESS%20database%20matching%20and%20EnMAP%20processing%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1936,7 +2646,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Anna Sorrentino (University of Naples Federico II — 🇮🇹 Italy)
 **Email Address**: `anna.sorrentino@unina.it`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:anna.sorrentino@unina.it?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Sorrentino%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Naples%20Federico%20II.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geological%20hazards%20and%20environmental%20remote%20sensing%20analysis.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20multi-temporal%20satellite%20data%20analysis%20and%20lithological%20mapping%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -1969,7 +2679,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Tobias Storch (DLR — 🇩🇪 Germany)
 **Email Address**: `tobias.storch@dlr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md]] · **Draft Email**: [[02_Academic & Work/work/applications/DLR-2026/Email – Tobias Storch DLR.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]] · **Draft Email**: [[02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:tobias.storch@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Storch%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20imaging%20spectroscopy%20and%20operational%20processing%20chains.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20EnMAP%20pipeline%20development%20and%20algorithm%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
@@ -2002,7 +2712,7 @@ UM6P, Morocco
 
 ### 👤 Pr. Osvaldo Valeria (UQAT — 🇨🇦 Canada)
 **Email Address**: `osvaldo.valeria@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:osvaldo.valeria@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Valeria%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20l%27am%C3%A9nagement%20forestier%20durable%20et%20la%20g%C3%A9omatique%20appliqu%C3%A9e%20%C3%A0%20la%20foresterie.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Valeria%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
 
@@ -4556,715 +5266,5 @@ UM6P, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~1002 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-28
-tags:
-  - automation
-  - claude-code
-  - mcp
-  - power-user
-  - setup
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-28'
----
-
-# Elite Vault Setup — Power User Stack 2026
-
-> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
-> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
-
----
-
-## What's Installed and Live
-
-### MCP Servers (9 total, all ✓ Connected)
-
-| Server | Purpose | Status |
-|--------|---------|--------|
-| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
-| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
-| `brave-search` | Web search (token needs renewal) | ✓ Connected |
-| `github` | PR reviews, issue tracking | ✓ Live |
-| `notion` | Notion DB access | ✓ Live |
-| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
-| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
-| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
-| `google-drive` | Drive file access | ! Needs OAuth |
-
-**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
-
-**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
-
----
-
-### Custom Claude Skills (5 skills in `~/.claude/skills/`)
-
-| Skill | Trigger | What it does |
-|-------|---------|--------------|
-| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
-| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
-| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
-| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
-| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
-
----
-
-### Vault Scripts (`scripts/`)
-
-| Script | Schedule | What it does |
-|--------|----------|--------------|
-| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
-| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
-
-**Automate via Task Scheduler (Windows):**
-```powershell
-# Run both scripts every Monday at 8:00 AM
-$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
-Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
-Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
-```
-
----
-
-## Researched Repos — Honest Assessment
-
-### Top-tier (real, maintained, worth using)
-
-**`ProfSynapse/claudesidian-mcp` (Nexus)**  
-- Local semantic search over vault using embeddings
-- Graph-traversal: find notes by concept, not just keyword
-- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
-- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
-
-**`rohitg00/awesome-claude-code-toolkit`**  
-- 135 agents, 35 skills, 42 slash commands on GitHub
-- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
-- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
-
-**`obra/knowledge-graph` Claude Code plugin**  
-- Vault as knowledge graph with BFS/DFS query tools
-- Community detection, god-node identification
-- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
-
-**`eugeniughelbur/obsidian-second-brain`**  
-- 34 slash commands for second-brain workflows
-- `@obsidian`, `@notes`, `@daily` context tools
-- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
-
-**`jacksteamdev/obsidian-mcp-tools`**  
-- Semantic search + Templater integration
-- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
-
-### Not worth installing (why)
-
-| Repo | Reason to skip |
-|------|---------------|
-| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
-| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
-| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
-| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
-
----
-
-## Workflow Stack — How It All Connects
-
-```
-Morning Standup
-└── /om-standup
-    ├── reads wiki/hot.md
-    ├── reads work/Index.md
-    └── surfaces job deadlines + domain alerts
-
-Weekly Review
-└── /vault-review
-    ├── scans work/active/ for stale notes
-    ├── flags job deadlines
-    └── flags domain renewals
-
-Job Search
-└── scripts/job_monitor.py (weekly, auto)
-    └── appends → work/active/Job Board -- Live Tracker.md
-
-Domain Monitoring
-└── scripts/domain_report.py (weekly, auto)
-    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
-
-Defense Prep
-└── /thesis-check
-    ├── counts days to June 30
-    └── outputs daily action plan
-```
-
----
-
-## What Requires Manual Action
-
-1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
-2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
-3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
-4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
-5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
-
----
-
-## Your Edge — What Nobody Else Has
-
-The combination of:
-- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
-- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
-- **gmail MCP** (read + draft application emails without leaving Claude)
-- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
-- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
-- **thesis-check skill** (defense countdown with daily actions)
-
-This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
-
----
-
-## Next Upgrades (when time permits)
-
-| Priority | Action | Time |
-|----------|--------|------|
-| High | Task Scheduler for weekly scripts | 10 min |
-| High | Brave Search token renewal | 5 min |
-| Medium | `claudesidian-mcp` when npm-stable | — |
-| Medium | Google Drive OAuth | 15 min |
-| Low | ManyChat Instagram automation | 15 min |
-| Low | GoDaddy API key in settings | 5 min |
-
-
----
-
-*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/work/Tools Setup|Tools Setup]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~777 words)
-================================================================================
----
-tags:
-  - data
-  - import
-  - obsidian
-  - setup
-  - topic/work
-generated_by: claude
-date: 2026-06-07
-type: work-note
-status: active
-created: '2026-06-07'
----
-
-# External Data Import Guide
-
-How to get emails, Outlook data, files, images, and PDFs into the vault.
-
----
-
-## 1. Emails from Outlook (Windows)
-
-### Option A — Obsidian Importer Plugin (Recommended)
-Install the **Obsidian Importer** community plugin. It natively imports:
-- `.eml` files (email files)
-- `.mbox` files (Gmail / Thunderbird exports)
-
-**Workflow:**
-1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
-   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
-2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
-3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
-4. Set destination folder: `AI-Generated/emails/`
-5. Add frontmatter `generated_by: claude` on import if needed
-
-### Option B — Markdown Export Script
-Export important emails manually. For each email you want to preserve as a note:
-1. Copy/paste email body into Obsidian note
-2. Use template:
-```markdown
----
-from: sender@example.com
-to: abdelhak.elmansour@um6p.ma
-date: YYYY-MM-DD
-subject: "Email subject"
-tags: [email, imported]
----
-
-# Subject
-
-**From:** Sender Name <email>
-**Date:** YYYY-MM-DD
-
----
-
-Body content here...
-```
-Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
-
-### Option C — Obsidian Web Clipper (for Gmail)
-If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
-
----
-
-## 2. Files (PDFs, DOCX, Excel, PPT)
-
-### PDFs
-- Drag-and-drop into vault folder → Obsidian treats them as attachments
-- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
-- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
-- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
-
-### DOCX (Word) — Convert to Markdown
-Use **Pandoc** (free CLI tool):
-```powershell
-pandoc input.docx -o output.md
-```
-Then move output.md into vault. Works for thesis drafts, cover letters, etc.
-
-### Excel / CSV — Import as Dataview
-Save CSV files in vault → query with DataviewJS:
-```dataviewjs
-const data = await dv.io.csv("path/to/file.csv");
-dv.table(data.headers, data.rows);
-```
-
----
-
-## 3. Images
-
-### Direct drag-and-drop
-Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
-Set attachment folder: Settings → Files and links → Default location = `assets/`
-
-### Embed in notes
-```markdown
-![[image.png]]
-![[image.png|300]]        ← width in pixels
-![[image.png|caption]]
-```
-
-### Screenshot workflow
-For screenshots of important emails, docs, or web content:
-1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
-2. Or: Screenshot → drag into vault folder → embed
-
-### Images already in vault
-Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
-
----
-
-## 4. Outlook Calendar → Obsidian
-
-### Option A — iCal Export
-Outlook → File → Save Calendar → `.ics` file
-Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
-Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
-
-### Option B — Forward to Vault
-For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
-
----
-
-## 5. Web Pages (Articles, Papers, News)
-
-### Obsidian Web Clipper (Best Option)
-Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
-- Clips any web page to vault with one click
-- Auto-applies templates for articles, papers, etc.
-- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
-
-### defuddle (via Claude Code)
-Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
-Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
-
-### Manual
-Copy URL → paste into note → add `tags: [clipping]` frontmatter.
-
----
-
-## 6. Zotero Papers → Literature Notes
-
-Already configured via **Citations plugin** (installed 2026-06-07):
-- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
-- `Ctrl+P → Citations: Insert Markdown citation` → search your library
-- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
-
-For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
-
----
-
-## 7. Flashcards from Any External Content
-
-Once you have any content in the vault as a note, add flashcard syntax:
-```
-Question::Answer
-```
-Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
-
-Active flashcard decks:
-- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
-- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
-- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
-- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
-- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~357 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-tags:
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-26'
----
-
-# NotebookLM Integration
-
-Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
-Auth: `~/.notebooklm/profiles/default/storage_state.json`
-CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
-
-Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
-
----
-
-## Notebooks
-
-| Name | ID | Sources |
-|------|----|---------|
-| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
-| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
-| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
-
----
-
-## CLI Quick Reference
-
-```bash
-# Set active notebook
-notebooklm use bb2823a9        # defense
-notebooklm use f5b6cff5        # methods
-notebooklm use da39982c        # jobs
-
-# Ask a question
-notebooklm ask "What are the three most likely Verrelst attack vectors?"
-notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
-
-# Generate artifacts
-notebooklm generate audio      # podcast overview
-notebooklm generate quiz       # study quiz
-notebooklm generate flashcards # flashcards
-notebooklm generate mind-map   # mind map
-
-# Download artifacts
-notebooklm download audio      # saves audio file
-
-# List sources
-notebooklm source list
-
-# Add new source (.md files MUST use --mime-type text/plain)
-notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
-
-# Refresh after vault updates
-notebooklm source refresh <source-id>
-```
-
----
-
-## Workflow: Defense Prep
-
-1. `notebooklm use bb2823a9`
-2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
-3. `notebooklm generate quiz` → download and study
-4. `notebooklm generate audio` → listen as podcast
-
-## Workflow: Update After Vault Changes
-
-When you update a defense prep file, refresh it:
-```bash
-notebooklm use bb2823a9
-notebooklm source list   # find the source ID
-notebooklm source refresh <id>
-```
-
----
-
-## Notes
-
-- Unofficial reverse-engineered API — Google can break it without warning
-- Re-authenticate if it stops working: `notebooklm login`
-- Sessions expire: re-run `notebooklm login` every few weeks
-
-
----
-
-*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~673 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-updated: 2026-06-07
-tags:
-  - obsidian
-  - plugins
-  - setup
-  - topic/work
-type: work-note
-status: active
-created: '2026-06-07'
----
-
-# Obsidian Plugin Guide
-
-14 community plugins installed and enabled. **6 added 2026-06-07.**
-
----
-
-## obsidian-git (Vinzent03)
-
-**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
-
-**Config set:**
-- Auto-commit every **20 minutes** (when Obsidian is open)
-- Pull on startup (gets latest from GitHub before you start)
-- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
-- Pull before push: enabled
-- Status bar: shows git status
-
-**Manual commands (Cmd/Ctrl+P → "Git"):**
-- `Git: Create backup` — commit + push right now
-- `Git: Pull` — pull latest from remote
-- `Git: Open source control view` — see changed files
-- `Git: Open history` — browse commit history
-
-**Remote:** https://github.com/Appiie/abdelhak-vault.git
-
----
-
-## Dataview (blacksmithgu)
-
-**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
-
-**Config set:**
-- DataviewJS enabled (JavaScript queries)
-- Inline queries enabled
-- Task completion tracking on
-- HTML rendering allowed
-
-**Where it's used:**
-- `Dashboard.md` — defense countdown + live tables of all active files
-- `Home.md` — mission control
-
-**Basic syntax:**
-```dataview
-TABLE file.mtime AS "Updated"
-FROM "02_Academic & Work/thesis/defense-prep"
-SORT file.mtime DESC
-```
-
-```dataviewjs
-const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
-dv.paragraph(`${days} days to defense`);
-```
-
-**Add metadata to any note for Dataview to pick up:**
-```yaml
----
-status: in-progress
-priority: high
-deadline: 2026-06-30
----
-```
-
----
-
-## Templater (SilentVoid13)
-
-Auto-fill templates with dynamic content (dates, prompts, etc.).
-
----
-
-## Tasks (obsidian-tasks-plugin)
-
-Track tasks across the vault with due dates, priorities, recurrence.
-
-**Syntax:**
-```
-- [ ] Write slide 5 📅 2026-06-01 ⏫
-```
-
-**Query all urgent tasks:**
-```tasks
-not done
-priority is high
-```
-
----
-
-## Excalidraw
-
-Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
-
----
-
-## Charts
-
-Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
-
----
-
-## Style Settings
-
-Adjust theme appearance. `Cmd+P → Style Settings`.
-
----
-
-## Spaced Repetition (st3v3nmw) — NEW
-
-Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
-
-**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
-
-**Syntax:**
-```
-Question::Answer          ← single-line card
-Question:::Answer         ← reversed (shows answer first too)
-```
-Multi-line:
-```
-Question
-?
-Answer
-```
-Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
-
-**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
-
----
-
-## Citations (hans) — NEW
-
-Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
-
-**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
-**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
-**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
-
----
-
-## QuickAdd (chhoumann) — NEW
-
-4 capture macros bound to commands:
-
-| Macro | What it does |
-|-------|-------------|
-| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
-| 🌐 New Domain Lead | Creates domain lead file from template |
-| 💼 New Job Application | Creates job application file from template |
-| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
-
-Access: `Ctrl+P → QuickAdd: ...`
-
----
-
-## Kanban (mgmeyers) — NEW
-
-Two active boards:
-- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
-- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
-
-Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
-
----
-
-## Linter (platers) — NEW
-
-Runs automatically on save. Enforces:
-- Consistent heading spacing
-- No trailing whitespace
-- Proper ellipsis formatting
-- YAML `updated:` timestamp on save
-
-Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
-
----
-
-## Natural Language Dates (argenos) — NEW
-
-Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
-
-Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
-Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/meetings/README.md (~156 words)
-================================================================================
----
-tags:
-  - inbox
-  - meetings
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-27'
----
-
-# Meetings Inbox
-
-Drop raw meeting notes here before processing.
-
-## Usage
-
-1. Export or write your note in this folder
-2. File naming: `YYYY-MM-DD <Topic or Person>.md`
-3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
-
-## What `/om-intake` does with each file
-
-| Detected content | Destination |
-|-----------------|-------------|
-| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
-| Project update | Append to `work/active/<Project>.md` |
-| Decision reached | New Decision Record + `work/Index.md` |
-| Action item | `- [ ]` in the relevant note |
-| Win / recognition | `perf/Brag Doc.md` |
-| New person mentioned | Stub in `org/people/<Name>.md` |
-| Blocker identified | `## Blockers` section in active note |
-
-For freeform unstructured content, use `/om-dump` instead.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
 
 
