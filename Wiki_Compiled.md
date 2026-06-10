@@ -844,6 +844,1916 @@ created: '2026-05-24'
 
 
 ================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md (~560 words)
+================================================================================
+---
+tags:
+- ch3
+- concept
+- remote-sensing
+- satellite
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# EnMAP Satellite
+
+## Overview
+EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission operated by the German Aerospace Center (DLR). Used in **Chapter 3** of Abdelhak's thesis for reclamation monitoring at Benguerir mine.
+
+---
+
+## Specifications
+
+| Parameter | Value |
+|-----------|-------|
+| Agency | DLR (Germany) |
+| Launch | April 2022 |
+| Orbit | SSO, 653 km altitude |
+| Revisit time | ~27 days (off-pointing: 4 days) |
+| Spectral range | 420–2450 nm (total) |
+| Bands | 242 (total sensor) |
+| Spatial resolution | 30 m |
+| Swath width | 30 km |
+| SNR | >400:1 (VNIR), >150:1 (SWIR) |
+| Data distribution | Free for science users |
+| Data level | L2A surface reflectance |
+
+---
+
+## Valid Bands After Preprocessing (from thesis manuscript)
+
+After masking bad bands for the Benguerir scene:
+- **189 valid bands, spanning 418–2445 nm**
+
+| Removed bands | Wavelength | Reason |
+|--------------|-----------|--------|
+| Detector transition | 1342–1391 nm | VNIR/SWIR gap |
+| Water vapor A | 1350–1450 nm | Atmospheric absorption |
+| Water vapor B | 1800–1950 nm | Atmospheric absorption |
+| Structural bad bands | Various | Scene NaN fraction > threshold |
+
+CRS: **EPSG:32629** (WGS84 UTM Zone 29N — Benguerir is ~32°N, 7.8°W)
+
+---
+
+## Comparison to PRISMA (Chapter 2)
+
+| Parameter | PRISMA (Ch.2) | EnMAP (Ch.3) |
+|-----------|--------------|--------------|
+| Agency | ASI (Italy) | DLR (Germany) |
+| Launch | 2019 | 2022 |
+| Total bands | ~239 | 242 |
+| Valid bands (thesis) | Used for ML | **189** |
+| Resolution | 30 m | 30 m |
+| SNR | Lower | Higher |
+| Data format | HDF5 | TIF + XML |
+
+**Why EnMAP for Ch.3?** Higher SNR, different acquisition date enabling backfilling impact assessment, dedicated quality masks.
+
+---
+
+## Pixel Quality Filtering (from manuscript)
+
+5-step preprocessing:
+1. Spectral masking (189 bands retained)
+2. Pixel flagging: nodata, negative reflectance (<0), saturation (>1.2), EnMAP quality layer
+3. Per-column median destriping (detector striping suppression)
+4. Shapefile alignment to EPSG:32629 via geopandas
+5. Zone pixel balancing: 32 pixels/zone (seed=42), from 49 RZ + 47 RWR valid pixels
+
+**Quality gate (6 criteria):** Valid L2A reflectance, correct wavelength masking, proper nodata/quality processing, ROI-scene overlap, minimum pixel count (both zones > 40 pixels), reflectance in 0–1.2 range. **Both ROI zones contained zero bad pixels.**
+
+---
+
+## Role in Thesis (Ch.3) — Summary of Results
+
+**Research question:** Can EnMAP detect and quantify the impact of backfilling on phosphate waste rock surface characteristics?
+
+**Answer from manuscript:**
+- All **189/189** valid bands show statistically significant zone separation (FDR q < 0.05)
+- Median effect size: **r = 0.859** (large)
+- Spatially blocked CV: **BAC = 0.984 ± 0.031; AUC = 1.000**
+- Permutation p = 0.002 (confirms non-random)
+- RPI: RZ=0.896, RWR=0.203, Spearman ρ=0.845
+
+**Conclusion (from thesis):**
+> "EnMAP Level-2A hyperspectral data at 30 m resolution provides sufficient spectral information to reliably discriminate reclaimed from undisturbed phosphate waste rock surfaces."
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[PRISMA Satellite]]
+- [[Reclamation Monitoring]]
+- [[Reclamation Progress Index]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Handheld XRF.md (~530 words)
+================================================================================
+---
+tags:
+- ch1
+- concept
+- geochemistry
+- instrument
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Handheld XRF (HHXRF)
+
+## Definition
+Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quantifies major and trace element concentrations in rocks, soils, and materials by measuring characteristic X-ray fluorescence emission. Combined with VNIR-SWIR spectroscopy in Chapter 1, it provides direct elemental chemistry to complement spectral mineralogy.
+
+---
+
+## Physical Principle
+
+1. X-ray tube emits primary X-rays → excites atoms in the sample
+2. Each element emits characteristic fluorescence X-rays (unique energy per element)
+3. Energy-dispersive detector records spectrum
+4. Software converts intensities to concentrations using calibration standards
+
+**Key advantage:** Measures elements directly (Ca, P, Fe, Al, Si, K, Mg...) → oxide chemistry (CaO, P₂O₅, Fe₂O₃, etc.)
+
+---
+
+## Use in Abdelhak's Thesis
+
+### Chapter 1 (field measurements)
+- Paired with ASD FieldSpec 4 at same sample points
+- 104 samples measured
+- Provides "ground truth" chemistry to validate spectral mineralogy
+- **P₂O₅:** Key indicator of apatite/francolite content
+- **Fe₂O₃:** Iron oxide quantification
+- **Al₂O₃:** Clay mineral content proxy
+- **CaO:** Carbonate content proxy
+
+### Chapter 3 (XRF linkage in EnMAP analysis)
+- XRF data from managed zone (RZ) and unmanaged zone (RWR) samples
+- Linked to EnMAP pixels by GPS coordinates
+- Spearman correlation between VCA endmember abundances and XRF oxides
+- Used to calibrate the RPI (Reclamation Progress Index)
+- Target oxides: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
+
+---
+
+## XRF Data Files in Thesis
+- `Analyse XRF P (abdelhak) VL.xlsx` — field XRF data for all samples
+- `Copie de Managed zone.csv` (OneDrive) — XRF for RZ zone
+- `Copie de Unmanaged zone.csv` (OneDrive) — XRF for RWR zone
+
+---
+
+## Limitations of HHXRF
+
+| Limitation | Impact |
+|------------|--------|
+| Surface measurement only (~2mm depth) | May not represent bulk mineralogy |
+| Matrix effects | Accuracy lower for light elements (Mg, Al, Na) |
+| No structural info | Cannot distinguish polymorphs (calcite vs. aragonite) |
+| Calibration dependent | Field conditions vs. laboratory calibration |
+| Moisture sensitivity | Wet samples give different readings |
+
+**Why combine with spectroscopy?**
+HHXRF gives chemistry; spectroscopy gives mineralogy. Together: P₂O₅ → confirms phosphate content; Al-OH spectral feature → confirms clay mineralogy. Cross-validation strengthens both.
+
+---
+
+## HHXRF vs. Laboratory XRF
+| Feature | HHXRF | Lab XRF |
+|---------|-------|---------|
+| Speed | Seconds per point | Minutes per sample |
+| Portability | Yes | No |
+| Detection limits | Higher (1–10 ppm) | Lower (0.1–1 ppm) |
+| Accuracy | Good for major elements | Excellent |
+| Cost | No sample prep | Fusion bead prep |
+| Use | Field reconnaissance | Laboratory validation |
+
+---
+
+## Key Result
+The HHXRF-spectroscopy integration (Chapter 1) demonstrated that:
+- Spectral matching alone underestimates apatite (clay masking effect)
+- HHXRF P₂O₅ directly reveals phosphate content independently of surface spectral response
+- Combined approach achieves better characterization than either method alone
+- Published: Sensors 2025, doi:10.3390/s26010002
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Mineral Assemblages]]
+- [[Phosphate Mine Waste]]
+- [[Reclamation Progress Index]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md (~523 words)
+================================================================================
+---
+tags:
+- concept
+- remote-sensing
+- spectroscopy
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Hyperspectral Imaging
+
+## Definition
+Hyperspectral imaging (HSI) acquires continuous spectral information across hundreds of narrow, contiguous wavelength bands (typically 5–10 nm bandwidth) across a spatial scene. Unlike multispectral sensors (3–10 wide bands), hyperspectral sensors resolve diagnostic spectral features that identify specific mineral, vegetation, or material compositions.
+
+**Synonym:** Imaging spectroscopy
+
+---
+
+## Key Characteristics
+
+| Feature | Multispectral | Hyperspectral |
+|---------|--------------|---------------|
+| Bands | 3–10 | 100–500+ |
+| Bandwidth | 50–200 nm | 5–15 nm |
+| Spectral range | Selective | Contiguous |
+| Data volume | Small | Large (hypercube) |
+| Mineral ID | Indirect | Direct |
+
+**Hypercube:** The data structure is a 3D array (x pixels × y pixels × λ bands). Each pixel contains a full reflectance spectrum.
+
+---
+
+## Spectral Range in Abdelhak's Thesis
+
+| Range | Acronym | Wavelength | Key diagnostics |
+|-------|---------|-----------|----------------|
+| Visible | VIS | 400–700 nm | Fe3+ electronic transitions |
+| Near-infrared | NIR | 700–1000 nm | Vegetation red edge, Fe2+ |
+| Shortwave infrared | SWIR | 1000–2500 nm | Molecular overtones: OH, CO3, PO4 |
+| Combined | VNIR+SWIR | 400–2500 nm | Full diagnostic window |
+
+---
+
+## Sensors in Abdelhak's Research
+
+| Sensor | Type | Bands | Resolution | Used in |
+|--------|------|-------|-----------|---------|
+| ASD FieldSpec 4 | Field spectrometer | ~2100 bands | 1 nm (resampled) | Ch.1 (104 field samples) |
+| PRISMA | Satellite | 239 bands | 30 m | Ch.2 (mineral mapping) |
+| EnMAP | Satellite | 242 bands | 30 m | Ch.3 (reclamation monitoring) |
+
+---
+
+## Why Hyperspectral for Mining?
+
+- **Mineral fingerprinting:** Every mineral has a unique spectral signature driven by electronic and vibrational processes
+- **Non-destructive:** Remote sensing avoids the cost/time of physical sampling
+- **Spatial coverage:** Satellite HSI covers entire mine sites in one pass (36 km² Benguerir = tens of thousands of pixels)
+- **Reclamation monitoring:** Multi-temporal analysis tracks vegetation recovery and mineralogical change over time
+
+---
+
+## Diagnostic Absorption Features (Benguerir context)
+
+| Feature | Wavelength | Mineral |
+|---------|-----------|---------|
+| CO₃ combination | ~2320 nm | Calcite, dolomite |
+| Al-OH | ~2200 nm | Illite, kaolinite |
+| Mg-OH | ~2330 nm | Dolomite, chlorite |
+| PO₄ | ~2150 nm | Apatite (fluorapatite) |
+| Fe3+ | ~500 nm, ~680 nm | Iron oxides (hematite, goethite) |
+| OH stretch | ~1400, ~1900 nm | Water, hydroxyl minerals |
+
+---
+
+## Limitations
+
+- **Mixed pixels:** At 30 m resolution, each pixel averages contributions from multiple minerals/materials → requires spectral unmixing
+- **Atmospheric effects:** Water vapor absorption at ~1350–1450 nm and ~1800–1950 nm blocks parts of SWIR
+- **Detector overlap:** VNIR-SWIR transition zone (~880–1050 nm) has lower SNR in both PRISMA and EnMAP
+- **Spectral library completeness:** Matching requires reference spectra for every expected mineral; fluorapatite/francolite underrepresented in ECOSTRESS
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Spectral Library Matching]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[PRISMA Satellite]]
+- [[EnMAP Satellite]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md (~689 words)
+================================================================================
+---
+tags:
+- ch2
+- concept
+- machine-learning
+- method
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
+type: concept-note
+status: seed
+created: '2026-06-05'
+---
+
+# Machine Learning for Hyperspectral Classification
+
+## Context in Thesis
+Chapter 2 applies supervised machine learning to PRISMA satellite data for lithological mapping of phosphate waste rocks. The goal: classify pixels into lithological classes using field-validated training samples.
+
+**Paper:** Accepted in *Minerals* 2026 (IF 2.2) ✅
+
+> ⚠️ **Source of truth:** All numbers in this file are from the thesis manuscript. Conference abstract metrics (IGARSS 2025, EGU 2025) are from earlier experimental work and are NOT thesis results.
+
+---
+
+## Samples and Classes (Chapter 2)
+
+| Step | Count | Details |
+|------|-------|---------|
+| Total field samples | 207 | Collected across Benguerir waste rock piles |
+| Removed (shared pixels) | 80 | Same 30m PRISMA pixel footprint — removed to prevent spectral leakage |
+| **Spatially independent samples** | **127** | Used for machine learning |
+| XRD subset | 20 | Representative subset for mineralogical validation |
+| XRF subset | 207 | All samples measured |
+
+**4 Lithological Classes:**
+1. **Phosphate rock** — carbonate fluorapatite-rich facies
+2. **Siliceous facies** — quartz-dominated
+3. **Marl** — clay-rich carbonate
+4. **Limestone** — calcite/dolomite-dominated
+
+---
+
+## Models Tested
+
+| Model | Best performer? | Notes |
+|-------|----------------|-------|
+| **Extra Trees** | ✅ Yes | Most stable; best BAC |
+| **Random Forest** | ✅ Yes | Close second |
+| XGBoost | Competitive | More sensitive to spatially structured data |
+| SVM | Strong AUC | Lower BAC in complex multi-class setting |
+| KNN | Baseline | Instance-based |
+
+All evaluated under identical spatially constrained CV.
+
+---
+
+## Feature Selection — ANOVA within CV Folds
+
+**Critical: nested inside each CV fold — no data leakage.**
+
+```
+For each CV fold:
+  1. Fit ANOVA F-test on training split only
+  2. Select top 60 SWIR bands
+  3. Train classifier on selected features
+  4. Evaluate on test split (unseen, spatially isolated data)
+```
+
+- **Why 60 bands?** Empirically selected via nested CV; captures CO₃, Al-OH, Mg-OH, PO₄ features
+- **Why SWIR?** Molecular absorptions for carbonate/clay/phosphate minerals are in SWIR
+
+---
+
+## Spatially Constrained Cross-Validation
+
+- 30m buffer between train and test (= 1 PRISMA pixel)
+- 10 independent replicates
+- Prevents spatial autocorrelation from inflating accuracy
+
+---
+
+## Key Results (Thesis Ch.2 — from manuscript)
+
+| Metric | Value |
+|--------|-------|
+| Best models | Extra Trees, Random Forest |
+| **BAC (balanced accuracy)** | **0.60–0.67** |
+| **AUC (carbonate classes: Marl, Limestone)** | **> 0.95** |
+| AUC (Phosphate rock, Siliceous facies) | Lower — spectral overlap at 30m |
+| Spatially independent samples | 127 |
+| CV scheme | Spatially constrained, 30m buffer, 10 replicates |
+| Feature selection | Top 60 SWIR bands (ANOVA, nested in CV) |
+
+**Class discrimination pattern:**
+- Marl and Limestone: excellent discrimination (AUC > 0.95) — carbonate contrast is clear
+- Phosphate rock vs. Siliceous facies: lower discrimination — spectral overlap at 30m scale reflects sub-pixel mixing
+
+---
+
+## Shannon Entropy Uncertainty
+- Uncertainty is spatially structured — concentrated at lithological boundaries and in mixed phosphate-siliceous zones
+- This is geologically meaningful: exactly where sub-pixel mixing is expected
+- Operationally: high-entropy zones = where additional field investigation is warranted
+
+---
+
+## The 0.60–0.67 BAC: Context for Defense
+
+This is the correct, peer-reviewed result representing true spatial generalization. The physically constrained upper bound on classification at 30m resolution with spatially clustered training data. The thesis manuscript states:
+
+> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
+
+**Do NOT confuse with:** The OA=0.92 figure in the IGARSS 2025 and EGU 2025 conference abstracts. Those are from earlier experimental work using a different framework (CNN+SHAP) and are not the thesis results submitted for defense.
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[PRISMA Satellite]]
+- [[Spatially Constrained Cross-Validation]]
+- [[Shannon Entropy Uncertainty]]
+- [[Mineral Assemblages]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md (~541 words)
+================================================================================
+---
+tags:
+- benguerir
+- concept
+- mineralogy
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-06-08'
+---
+
+# Mineral Assemblages — Benguerir Phosphate Waste
+
+## Overview
+The mineral assemblage of Benguerir phosphate waste rock reflects the sedimentary phosphate deposit geology: marine carbonate-fluorapatite (francolite) in a carbonate-siliceous gangue, with secondary clay mineral weathering products.
+
+---
+
+## Primary Ore Minerals
+
+### Fluorapatite Ca₅(PO₄)₃F
+- End-member formula; rarely pure in sedimentary phosphates
+- **Spectral signature:** PO₄ combination tone ~2150 nm (weak feature)
+- **Diagnostic use:** Present in library as "Apatite Ca₅(PO₄)₃F"; detected at rank 3–7
+
+### Francolite (Carbonate Fluorapatite)
+- **Formula:** Ca₅[(PO₄)(CO₃)]₃F — partial substitution of CO₃ for PO₄
+- The **actual dominant phosphate mineral** in [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]] deposits
+- Hybrid PO₄ + CO₃ signature → harder to distinguish spectrally from calcite
+- **NOT in ECOSTRESS library** — key limitation of spectroscopy approach
+- Confirmed via XRD
+
+---
+
+## Carbonate Gangue
+
+### Calcite CaCO₃
+- Very common in phosphate sequences (marine origin)
+- Strong CO₃ combination at **2320 nm**
+- Often rank 5–7 in spectral matching (weaker than clay Al-OH)
+- Confirmed via XRD peak at 29.4° 2θ
+
+### Dolomite CaMg(CO₃)₂
+- Characteristic Mg-OH feature at **2330 nm**
+- Often rank 3–4 in spectral matching
+- Present in both managed and unmanaged zones
+
+---
+
+## Clay Gangue (Surface Dominant)
+
+### Illite (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀[(OH)₂,H₂O]
+- Most spectrally dominant clay
+- **Al-OH doublet: 2160 nm + 2205 nm** (diagnostic, strong)
+- **Rank 1–2 in spectral matching** for most samples
+- Formed by weathering of feldspar and volcanic ash layers
+- Confirmed via XRD
+
+### Kaolinite Al₂Si₂O₅(OH)₄
+- Al-OH at **2200 nm** (sharp doublet at 2163 + 2206 nm distinguishes from illite)
+- Lower abundance than illite at Benguerir
+- Confirmed via XRD
+
+### Montmorillonite (Smectite) (Na,Ca)₀.₃₃(Al,Mg)₂Si₄O₁₀(OH)₂·nH₂O
+- Swelling clay; Al-OH at ~2205 nm
+- Strong water absorption at 1900 nm (water molecules in interlayer)
+- Rank 1–2 alongside illite
+- Problematic for remote sensing: expands/contracts with moisture
+
+---
+
+## Silica Gangue
+
+### Quartz SiO₂
+- Essentially featureless in SWIR (no molecular absorptions)
+- Detected via spectral background / contrast
+- Rank 3–4 in some samples
+- Confirmed via XRD sharp peak at 26.6° 2θ
+
+---
+
+## Iron Oxide Accessories
+
+### Hematite α-Fe₂O₃ / Goethite α-FeOOH
+- Not major phases but spectrally visible
+- Fe3+ electronic transitions: shoulder ~500 nm, crystal field ~680 nm
+- Source: lateritic weathering of primary minerals
+- Tracked in `enmap_reclamation_engine_v2.py` feature catalogue
+
+---
+
+## Spectral Dominance Hierarchy
+At surface expression (field + satellite scale):
+```
+Clays (Illite > Montmorillonite) >
+Carbonates (Dolomite > Calcite) >
+Iron Oxides >
+Silica (Quartz) >
+Phosphates (Apatite/Francolite)
+```
+Phosphates are mineralogically important but spectrally suppressed by surface clay coatings → requires HHXRF + XRD for reliable quantification.
+
+---
+
+## XRD Validation
+XRD (X-ray diffraction) provides direct mineralogy:
+- Peak at 29.4° 2θ → calcite
+- Peak at 26.6° 2θ → quartz
+- Peaks at ~7° and ~3.5° → illite/smectite
+- Peaks at ~7.1° → kaolinite
+- Peaks at ~7° broad → fluorapatite (overlaps with clay)
+
+Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative samples.
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Spectral Library Matching]]
+- [[Phosphate Mine Waste]]
+- [[Handheld XRF]]
+- [[Gantour Basin]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md (~407 words)
+================================================================================
+---
+tags:
+- PRISMA
+- concept
+- core
+- remote-sensing
+- satellite
+- topic/wiki-concept
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+domain: Remote Sensing
+type: concept-note
+status: seed
+created: '2026-06-08'
+---
+
+# PRISMA Satellite
+
+## What It Is
+PRISMA (PRecursore IperSpettrale della Missione Applicativa) is the Italian Space Agency (ASI) hyperspectral satellite. Launched March 2019. One of the most capable civil hyperspectral satellites currently operating.
+
+## Technical Specs
+| Parameter | Value |
+|-----------|-------|
+| Spectral range | 400–2500 nm (VNIR + SWIR) |
+| Spectral bands | ~250 contiguous bands |
+| Spectral resolution | ~10 nm |
+| Spatial resolution | 30 m |
+| Swath width | 30 km |
+| Data format | **HDF5** |
+| Revisit time | ~29 days (at equator) |
+
+## Why Abdelhak Uses PRISMA
+- Full VNIR + SWIR coverage → essential for phosphate mineralogy in SWIR
+- Available for Moroccan study sites (Benguerir)
+- Relatively new → Abdelhak's thesis is among the first hyperspectral satellite studies of Moroccan phosphate mining
+
+## Data Format: HDF5
+PRISMA delivers data in HDF5 format — requires custom loading scripts.  
+Challenges solved during Abdelhak's thesis:
+- HDF5 indexing script developed
+- VNIR + SWIR cube fusion → NPZ format
+- Bad band removal (water vapor absorption at ~1400nm, ~1900nm)
+- Noisy band identification and removal
+
+→ See `thesis/code-notes/VNIR SWIR Fusion` (code notes not yet in vault)  
+→ See `thesis/code-notes/Bad Band Removal` (code notes not yet in vault)
+
+## Key Spectral Bands for Phosphate Mineralogy
+| Wavelength Region | Relevant Minerals |
+|------------------|------------------|
+| ~900–1000 nm (NIR) | Iron oxides, goethite, hematite |
+| ~2200 nm (SWIR) | Al-OH clays, kaolinite, alunite |
+| ~2300 nm (SWIR) | Carbonates, Mg-OH, dolomite |
+| ~2100–2200 nm | Phosphate minerals (specific features) |
+| ~1400, 1900 nm | Water/OH (remove — atmosphere) |
+
+## PRISMA vs. Other Sensors
+| Sensor | Bands | Resolution | Notes |
+|--------|-------|------------|-------|
+| PRISMA | ~250 | 30m | ✅ Abdelhak's sensor |
+| Sentinel-2 | 13 | 10-60m | Too few bands for mineralogy |
+| EnMAP | 244 | 30m | Higher SNR, newer (2022) |
+| AVIRIS | 224 | variable | Airborne, not satellite |
+| HyMap | 128 | variable | Airborne |
+
+## Related Pages
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[02_Academic & Work/thesis/Thesis Overview]]
+
+## Sources
+*(Add papers about PRISMA applications as you ingest them)*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md (~512 words)
+================================================================================
+---
+tags:
+- benguerir
+- concept
+- geology
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-06-08'
+---
+
+# Phosphate Mine Waste / Waste Rock
+
+## Definition
+Phosphate mine waste rocks are the non-ore materials excavated to access phosphate ore bodies. At Benguerir (OCP Group), they form large waste rock piles (WRP) requiring environmental management and potential reclamation.
+
+---
+
+## Benguerir Mine Context
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group |
+| Basin | [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]], Morocco |
+| Study area | ~36 km² |
+| Stripping ratio | ~3:1 (waste:ore) |
+| Waste production | ~12.3 Mt/year |
+| Pile heights | Up to several tens of meters |
+| Age of dumps | Decades of accumulation |
+
+---
+
+## Mineralogical Composition (from thesis Ch.1)
+
+### Primary minerals (host rock)
+| Mineral | Formula | Spectral signature |
+|---------|---------|-------------------|
+| Fluorapatite | Ca₅(PO₄)₃F | PO₄ ~2150 nm (weak) |
+| Francolite | Ca₅(PO₄,CO₃)₃F | Carbonate-phosphate |
+| Calcite | CaCO₃ | CO₃ ~2320 nm |
+| Dolomite | CaMg(CO₃)₂ | Mg-OH ~2330 nm |
+
+### Secondary/gangue minerals
+| Mineral | Formula | Spectral signature |
+|---------|---------|-------------------|
+| Illite | (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀(OH)₂ | Al-OH ~2200 nm |
+| Kaolinite | Al₂Si₂O₅(OH)₄ | Al-OH ~2200 nm |
+| Montmorillonite | (Na,Ca)Al₂Si₄O₁₀(OH)₂·nH₂O | Al-OH ~2200 nm |
+| Quartz | SiO₂ | Featureless in SWIR |
+| Iron oxides | Hematite, Goethite | Fe3+ ~500, 680 nm |
+
+### Why clays dominate spectral response
+Clay minerals (illite, montmorillonite) coat waste rock surfaces due to weathering. Their Al-OH absorptions at ~2200 nm are spectrally stronger than the apatite PO₄ feature at ~2150 nm → clays rank 1–2 in spectral matching despite being secondary minerals.
+
+---
+
+## Reclamation Context
+
+**Two zone types in Abdelhak's thesis:**
+- **RWR (Reference Waste Rock):** Unmanaged dump — raw, unvegetated, high phosphate, geochemically unstable
+- **RZ (Reclaimed Zone):** Managed area undergoing vegetation restoration — soil amendment, seeding, water management
+
+**Environmental concerns:**
+- Dust and wind erosion (fine phosphate particles)
+- Leaching of heavy metals and fluorine
+- Landscape rehabilitation compliance (OCP sustainability targets)
+- Acid rock drainage potential (limited for calcareous phosphate gangue)
+
+---
+
+## Geochemistry (XRF targets from thesis)
+Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
+
+**P2O5 as reclamation indicator:**
+- High P2O5 → unweathered phosphate waste
+- Decreasing P2O5 over time → mineral weathering, dilution by added topsoil, vegetation biomass accumulation
+- The **Reclamation Progress Index (RPI)** uses abundance of vegetation/soil endmembers relative to raw waste endmembers, isotonically calibrated against XRF P2O5
+
+---
+
+## Field Sampling (Thesis)
+- 104 field samples collected across managed and unmanaged zones
+- GPS locations recorded (used in QGIS maps, plotted in `Samples ppaer 1 + 2 all.csv`)
+- ASD FieldSpec 4 measurement at each sample point
+- HHXRF measurement (same or adjacent point)
+- XRD on subset → mineral quantification
+
+---
+
+## Related Concepts
+- [[Mineral Assemblages]]
+- [[VNIR-SWIR Spectroscopy]]
+- [[Handheld XRF]]
+- [[Reclamation Monitoring]]
+- [[OCP Group and Benguerir Mine]]
+- [[Gantour Basin]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md (~692 words)
+================================================================================
+---
+tags:
+- ch3
+- concept
+- environmental
+- reclamation
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Reclamation Monitoring (Chapter 3)
+
+## Definition
+Chapter 3 quantifies the impact of **backfilling** — the primary reclamation strategy at Benguerir — on phosphate waste rock surface characteristics, using EnMAP hyperspectral data and spectral unmixing.
+
+**Exact thesis title:** *"Assessing the impact of backfilling on phosphate mine waste rock characteristics in Benguerir, Morocco: An integrated field, laboratory, and hyperspectral remote sensing approach"*
+
+> **Important:** The reclamation strategy is specifically **backfilling** (remblayage), not generic revegetation. Backfilling = re-depositing material over waste rock piles to modify surface composition and prepare for revegetation.
+
+---
+
+## Two Zone Types
+
+| Zone | Code | Description |
+|------|------|-------------|
+| Reclaimed Zone | **RZ** | Has undergone backfilling, leveling, and preparation for revegetation |
+| Reference Waste Rock Zone | **RWR** | Undisturbed deposited waste — "zero reclamation" reference |
+
+---
+
+## Study Design (from manuscript)
+
+| Parameter | Value |
+|-----------|-------|
+| XRF samples per zone | n = 32 (balanced) |
+| EnMAP valid pixels (RZ) | 49 (balanced to 32) |
+| EnMAP valid pixels (RWR) | 47 (balanced to 32) |
+| EnMAP valid bands | **189** (spanning 418–2445 nm) |
+| Balancing seed | 42 (reproducible) |
+| Spectral concordance (full vs. balanced) | Pearson r = 0.990 |
+
+---
+
+## What Backfilling Does Spectrally
+
+**XRF evidence:** Statistically significant geochemical contrasts (BH FDR-corrected q < 0.05) in:
+P₂O₅, CaO, SiO₂, Al₂O₃, MgO, K₂O, and Na₂O between RZ and RWR.
+
+Interpretation: Backfilling redistributes and mixes stratigraphically distinct lithological units, changing the surface geochemistry and thus the spectral response.
+
+---
+
+## Spectral Separation (Per-Band Analysis)
+
+**Mann-Whitney U test on all 189 valid EnMAP bands:**
+- Significant zone separation across **all 189/189 valid bands** (q < 0.05 after BH FDR correction)
+- **Median effect size: r = 0.859** (large by conventional standards)
+- Spectral autocorrelation ρ₁ ≈ 0.992 → effective independent comparisons ≈ 17 → FDR correction applied
+
+**Key diagnostic features:**
+| Feature | Wavelength | Δ (RZ−RWR) | p-value |
+|---------|-----------|-----------|--------|
+| Carbonate combination | ~2330 nm | −0.019 | 0.0001 |
+| Iron oxide shoulder | ~900 nm | +0.006 | 0.0007 |
+
+---
+
+## VCA-FCLS Unmixing Results (4 Endmembers)
+
+| Endmember | Dominant zone | RWR mean | RZ mean | Δ |
+|-----------|--------------|---------|--------|---|
+| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | +0.559 |
+| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | −0.483 |
+
+Bootstrap 95% CI excludes zero for both EM3 and EM4.
+
+---
+
+## Statistical Validation
+
+| Test | Result |
+|------|--------|
+| Bootstrap (5,000 iter.) | 95% CI excludes zero for EM3 and EM4 |
+| Permutation test (10,000 iter.) | p = 0.0001 |
+| Spatial holdout | Same-sign fraction = 1.00 across all holdouts |
+| **Spatially blocked CV** | **BAC = 0.984 ± 0.031; AUC = 1.000** |
+| Permutation p (spatial block) | Empirical p = 0.002 |
+
+> The near-perfect BAC (0.984) reflects the strong spectral separation induced by backfilling — confirmed non-spurious by permutation test and spatial blocking. This is very different from the Ch.2 result (BAC=0.60–0.67) because the RZ vs. RWR contrast is a binary comparison at zone scale, not a fine-grained 4-class lithological mapping.
+
+---
+
+## Reclamation Progress Index (RPI)
+
+| Zone | RPI median | 95% CI |
+|------|-----------|--------|
+| **RZ (reclaimed)** | **0.896** | [0.860–0.927] |
+| **RWR (reference)** | **0.203** | [0.161–0.221] |
+
+XRF concordance: Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
+
+→ Full details: [[Reclamation Progress Index]]
+
+---
+
+## Implications
+
+1. EnMAP Level-2A at 30m can reliably discriminate reclaimed from undisturbed phosphate waste (all 189 bands significant)
+2. Near-perfect spatial CV accuracy (BAC=0.984) establishes EnMAP as operationally viable for large-scale monitoring
+3. No bespoke airborne campaigns needed — 27-day revisit at no additional cost
+4. RPI provides quarterly progress reporting tool for OCP Group
+
+---
+
+## Related Concepts
+- [[EnMAP Satellite]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[Reclamation Progress Index]]
+- [[Phosphate Mine Waste]]
+- [[OCP Group and Benguerir Mine]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md (~575 words)
+================================================================================
+---
+tags:
+- ch3
+- concept
+- novel-contribution
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Reclamation Progress Index (RPI)
+
+## Definition
+The Reclamation Progress Index (RPI) is a **novel spectral index** developed in Chapter 3 of Abdelhak's thesis. It provides a satellite-derived metric (0–1) of reclamation progress, calibrated isotonically against field XRF geochemical support scores.
+
+**This is the most original methodological contribution of the entire thesis.**
+
+---
+
+## Validated Results (from thesis manuscript)
+
+| Zone | RPI median | 95% CI |
+|------|-----------|--------|
+| **RZ (Reclaimed — backfilled)** | **0.896** | [0.860–0.927] |
+| **RWR (Reference Waste Rock)** | **0.203** | [0.161–0.221] |
+
+**XRF concordance:** Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
+
+**Transitional fraction** (RPI 0.35–0.65): characterizes intermediate reclamation states
+
+**RZ-like classification (RPI > threshold):** 90.625% of RZ pixels correctly identified
+
+---
+
+## Construction
+
+### Step 1: EnMAP preprocessing
+- 189 valid bands (418–2445 nm after masking)
+- 32 balanced pixels per zone (from 49 RZ + 47 RWR valid pixels, seed=42)
+- Spectral concordance: Pearson r = 0.990 (full vs. balanced subset)
+
+### Step 2: VCA endmember extraction (k=4)
+Four scene-derived endmembers extracted from combined RZ+RWR spectra:
+- **EM3:** Dominant in RWR (raw waste) — mean RWR=0.612, mean RZ=0.053
+- **EM4:** Dominant in RZ (backfilled) — mean RWR=0.032, mean RZ=0.516
+
+### Step 3: FCLS abundance estimation
+- Fully Constrained Least Squares: non-negativity + sum-to-one
+- Parallel implementation per pixel
+- Output: abundance fraction for each endmember per pixel
+
+### Step 4: Abundance ratio → Raw RPI
+```
+Raw_RPI = EM4_abundance / (EM3_abundance + EM4_abundance)
+```
+Higher value = more "reclaimed" endmember relative to "raw waste" endmember.
+
+### Step 5: Isotonic calibration against XRF
+- At matched pixel-XRF locations: relate Raw_RPI to XRF geochemical support score
+- **Isotonic regression:** monotone non-decreasing function, no linearity assumption
+- Calibrated RPI: 0 (no reclamation) → 1 (full target state)
+
+**Why isotonic?** The relationship is monotone but non-linear; isotonic regression is non-parametric and enforces the correct ordering without assuming any functional form.
+
+---
+
+## Statistical Validation
+
+| Test | Result |
+|------|--------|
+| Spearman ρ (RPI vs. XRF) | 0.845 |
+| p-value | 1.74 × 10⁻¹² |
+| Zone difference significance | Clearly differentiated (non-overlapping 95% CI) |
+| Spatial holdout fraction | 1.00 (same-sign across all holdouts) |
+
+---
+
+## Spatial Application
+- Computed for every valid pixel in EnMAP scene
+- Maps entire 36 km² mine in one pass
+- Repeatable with future EnMAP acquisitions → operational monitoring
+- OCP Group can track reclamation trajectory without additional field campaigns
+
+---
+
+## Potential for Operational Use
+
+> "The RPI can be computed automatically from any future EnMAP acquisition, providing OCP with a quarterly reclamation progress report at zero additional field cost."
+
+Generalizable framework: the calibration approach (unmixing → isotonic calibration → XRF) can be applied to any satellite hyperspectral mission for any mine type with geochemical ground truth.
+
+---
+
+## Defense Talking Point
+If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS + isotonic XRF calibration can be applied to any HSI sensor (PRISMA, DESIS, future missions) and any mine type where geochemical ground truth exists. This is not specific to EnMAP or Benguerir — it's an operational template for satellite-based mine reclamation monitoring."
+
+---
+
+## Related Concepts
+- [[Reclamation Monitoring]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[EnMAP Satellite]]
+- [[Handheld XRF]]
+- [[Phosphate Mine Waste]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md (~450 words)
+================================================================================
+---
+tags:
+- ch2
+- concept
+- method
+- statistics
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Shannon Entropy Uncertainty Mapping
+
+## Definition
+Shannon entropy is an information-theoretic measure of uncertainty applied to probabilistic classifier outputs. In Chapter 2, it maps per-pixel prediction uncertainty across the PRISMA mineral classification map.
+
+---
+
+## Formula
+```
+H(x) = −Σᵢ p(cᵢ|x) × log₂[p(cᵢ|x)]
+```
+Where:
+- H(x) = entropy at pixel x (in bits)
+- p(cᵢ|x) = predicted probability of class i at pixel x
+- Sum over all K mineralogical classes
+
+**Bounds:**
+- H = 0 bits: Certain — one class has probability = 1, all others = 0
+- H = log₂(K) bits: Maximum uncertainty — all K classes equally probable
+
+---
+
+## Physical Interpretation for Mineralogy
+
+| Entropy level | Meaning |
+|---------------|---------|
+| H ≈ 0 | Pixel is spectrally pure, clear mineral signature |
+| H = 0.5–1.5 | Moderate uncertainty — possible mixed pixel or boundary |
+| H > 2.0 | High uncertainty — mixed pixel, unusual spectrum, or outside training distribution |
+
+**Where high entropy appears:**
+- Pixel boundaries between mineralogical units (transition zones)
+- Mixed pixels combining multiple minerals in equal proportions
+- Pixels with atmospheric artifacts or sensor noise
+- Areas outside the spectral range of training data (extrapolation)
+
+---
+
+## Role in Thesis Chapter 2
+
+1. **Diagnostic:** Identify pixels where the model is uncertain
+2. **Priority areas for future fieldwork:** High-entropy zones should be validated first
+3. **Quality control:** Threshold-based masking of uncertain predictions before generating final mineral map
+4. **Honest reporting:** Entropy map alongside classification map shows where the model can and cannot be trusted
+
+---
+
+## Connection to Spatially Constrained CV
+
+Both entropy mapping and spatially constrained CV address model reliability:
+- **Spatial CV:** Honest generalization metric during training (removes autocorrelation)
+- **Entropy map:** Honest per-pixel uncertainty during prediction (identifies low-confidence areas)
+
+Together they form a rigorous uncertainty framework for the classification.
+
+---
+
+## Calculation in Random Forest / Extra Trees
+
+Random Forest and Extra Trees output class probabilities as the mean of per-tree votes:
+```python
+proba = clf.predict_proba(X)  # shape: (n_pixels, n_classes)
+entropy = -np.sum(proba * np.log2(proba + 1e-10), axis=1)
+```
+This probability vector is what feeds the entropy calculation.
+
+---
+
+## Defense Talking Point
+
+"Shannon entropy maps provide the jury with spatial honesty about where our model is confident and where it isn't. Rather than presenting a single classification map as if every pixel were equally reliable, we communicate uncertainty spatially — which is the scientifically rigorous approach."
+
+---
+
+## Related Concepts
+- [[Machine Learning for Hyperspectral]]
+- [[Spatially Constrained Cross-Validation]]
+- [[PRISMA Satellite]]
+- [[Hyperspectral Imaging]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md (~587 words)
+================================================================================
+---
+tags:
+- ch2
+- concept
+- method
+- statistics
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Spatially Constrained Cross-Validation
+
+## The Problem: Spatial Autocorrelation in Remote Sensing ML
+
+In remote sensing, nearby pixels are spatially correlated — they share similar spectra because they share similar materials, illumination, and atmospheric conditions. Standard k-fold CV randomly assigns pixels to train/test splits, meaning:
+- A pixel at location (x, y) may be in the test set
+- Its neighbor at (x+30m, y) is likely in the training set
+- The model "cheats" by learning from the neighbor → inflated performance
+
+**Tobler's First Law of Geography:** "Everything is related to everything else, but near things are more related than distant things."
+
+---
+
+## Abdelhak's Solution: Spatial CV with Buffer (Chapter 2)
+
+```
+For each test sample:
+  Exclude all training samples within 30m buffer
+  (= 1 pixel at 30m PRISMA/EnMAP resolution)
+
+Result:
+  Test pixels have no direct spatial neighbors in training
+  Evaluation is honest about generalization to new locations
+```
+
+**Parameters (from thesis manuscript):**
+- Buffer: 30m (= 1 PRISMA pixel)
+- CV replicates: 10 independent replicates of the 127-sample dataset
+- Metric: BAC (Balanced Accuracy) — handles class imbalance
+- Additional: Spatially blocked CV for Chapter 3 (EnMAP)
+
+---
+
+## Chapter 2 Accuracy (from manuscript — single source of truth)
+
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **BAC (best classifiers)** | **0.60–0.67** | Extra Trees, Random Forest |
+| **AUC (carbonate classes)** | **> 0.95** | Marl, Limestone |
+| AUC (Phosphate, Siliceous) | Lower | Spectral overlap at 30m |
+| Spatially independent samples | 127 | After removing 80 shared-pixel duplicates |
+
+The thesis manuscript states explicitly:
+> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
+
+---
+
+## Chapter 3: Spatially Blocked Cross-Validation (EnMAP)
+
+Chapter 3 uses a different, even more conservative spatial validation:
+- Elastic-net logistic regression on 32 balanced pixels per zone
+- **4 spatial groups** + **25 random CV repeats** + **500 permutation replicates**
+- Result: **BAC = 0.984 ± 0.031; AUC = 1.000**
+- Empirical permutation p = 0.002
+
+This near-perfect result (Ch.3) reflects the much stronger spectral separation between RZ and RWR zones under backfilling — NOT overfitting, confirmed by permutation test and spatial blocking.
+
+---
+
+## Why This Matters for Defense
+
+"Why is your Ch.2 accuracy only 0.60–0.67?"
+
+> "This is the honest, spatially-aware accuracy. Spatial CV (30m buffer, 10 replicates) prevents autocorrelation from inflating the metric. The 0.60–0.67 BAC represents true generalization performance at new, spatially isolated locations. For geological mapping with 30m pixels and spatially clustered training data, this is the realistic ceiling — the thesis itself states this is a 'physically constrained upper bound' on what any classifier can achieve given sub-pixel mixing. Marl and Limestone, which are spectrally distinct, achieve AUC > 0.95. The lower discrimination is in the Phosphate vs. Siliceous facies, which overlap at 30m scale."
+
+---
+
+## Literature Support
+- Roberts et al. (2017) — spatial CV for remote sensing
+- Ploton et al. (2020) — spatial CV for forest mapping
+- Karasiak et al. (2022) — spatial autocorrelation in ML
+- Meyer & Pebesma (2021) — "Predicting into unknown space"
+
+---
+
+## Related Concepts
+- [[Machine Learning for Hyperspectral]]
+- [[PRISMA Satellite]]
+- [[EnMAP Satellite]]
+- [[Shannon Entropy Uncertainty]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md (~276 words)
+================================================================================
+---
+tags:
+- concept
+- spectral-analysis
+- topic/wiki-concept
+- wiki
+- wiki-concept
+created: '2026-06-07'
+generated_by: claude
+summary: "Spectral analysis methods used in hyperspectral remote sensing \u2014 library\
+  \ matching, unmixing, classification."
+type: concept-note
+status: seed
+---
+
+# Spectral Analysis
+
+Quantitative analysis of electromagnetic reflectance spectra to identify and characterize materials based on their spectral signatures.
+
+## Core Methods (used in Abdelhak's Thesis)
+
+### Library Matching
+- Compare measured spectra to reference libraries (ECOSTRESS, USGS splib07)
+- Metrics: RMSE, SAM (Spectral Angle Mapper), SID (Spectral Information Divergence), R²
+- Used in Ch.1 (field spectra) and Ch.2 (PRISMA)
+
+### Spectral Unmixing
+- Decompose a mixed pixel into endmember fractional abundances
+- Methods: VCA (Vertex Component Analysis) for endmember extraction, FCLS (Fully Constrained Least Squares) for abundance mapping
+- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]]
+
+### Continuum Removal
+- Normalizes spectra to highlight absorption features
+- Convex hull algorithm isolates relative band depths
+- Standard pre-processing step before library matching
+
+## Key Spectral Features for Phosphate Mineralogy
+
+| Wavelength | Feature | Mineral |
+|-----------|---------|---------|
+| ~2150 nm | PO₄ stretch (weak) | Fluorapatite |
+| ~2200–2208 nm | Al-OH (sharp) | Illite/Muscovite |
+| ~2165 + 2200 nm doublet | Al-OH | Kaolinite |
+| ~2320–2350 nm | CO₃ | Dolomite/Calcite |
+| ~500–900 nm | Fe³⁺ | Goethite, Hematite |
+
+## Sensors Used
+
+- **Field:** ASD FieldSpec 4 (350–2500 nm, 1 nm sampling)
+- **Satellite Ch.2:** [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] (~250 bands, 30m)
+- **Satellite Ch.3:** [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] (189 valid bands, 30m)
+
+## Related
+
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md (~525 words)
+================================================================================
+---
+tags:
+- concept
+- method
+- spectroscopy
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Spectral Library Matching
+
+## Definition
+Spectral library matching identifies the mineralogy of an unknown spectrum by comparing it against a reference library of known mineral spectra. For each candidate mineral, a similarity metric (or composite of metrics) is computed; the mineral with the best score is assigned as the match.
+
+---
+
+## Libraries Used in Abdelhak's Thesis
+
+### ECOSTRESS Spectral Library (splib07)
+- Maintained by USGS / JPL
+- ~2,400+ spectra across minerals, vegetation, man-made materials
+- For Benguerir work: 1,609 spectra parsed; 15 curated for phosphate waste rock minerals
+- URL: Available via USGS/EROS
+- Key minerals present: Calcite, Dolomite, Illite, Montmorillonite, Kaolinite, Quartz, Apatite Ca₅(PO₄)₃F
+- Key **absence**: Fluorapatite/francolite (francolite = carbonate fluorapatite, dominant phosphate in Benguerir) → known limitation
+
+---
+
+## Metrics
+
+### RMSE (Root Mean Square Error)
+```
+RMSE = √(mean((a−b)²))
+```
+- Overall shape similarity
+- Sensitive to baseline offset differences
+- In thesis: weighted 5× in 2100–2300 nm (PO₄ window)
+
+### SAM (Spectral Angle Mapper)
+```
+SAM = arccos(a·b / (‖a‖ × ‖b‖))
+```
+- Measures angle between spectra in N-dimensional space
+- Insensitive to illumination scaling (brightness-invariant)
+- Result in radians; lower = more similar
+
+### SID (Spectral Information Divergence)
+```
+SID = Σ p(i)·log(p(i)/q(i)) + Σ q(i)·log(q(i)/p(i))
+```
+- Treats spectra as probability distributions (KL divergence, symmetric)
+- Sensitive to subtle shape differences
+- Complementary to SAM
+
+### R² (Coefficient of Determination)
+```
+R² = 1 − SSres/SStot
+```
+- How well the reference explains the unknown spectrum's variance
+- R² near 1 = excellent fit
+
+### Composite Score (in thesis Ch.1)
+```
+score = RMSE + SAM + SID
+```
+- Combined ranking; rank-1 = minimum composite score
+- Top 5–8 matches reported per sample
+
+---
+
+## Preprocessing Before Matching
+1. Resampling to common wavelength grid (350–2500 nm, 1 nm step)
+2. Savitzky-Golay smoothing (window=7, poly=2)
+3. Min-max normalization: (x − min) / range
+4. Optional: continuum removal, derivative
+5. Convert ECOSTRESS percent reflectance → fraction (÷100)
+
+---
+
+## Challenges for Phosphate Waste Rocks
+
+**Problem: Clay masking of apatite**
+- Illite and montmorillonite have strong Al-OH absorptions (~2200 nm)
+- Apatite PO₄ absorption (~2150 nm) is weaker
+- After normalization, clay features dominate → apatite ranks 3–7, not 1
+- **Solution:** Use HHXRF to directly measure P₂O₅, bypassing spectral dominance issue
+
+**Problem: Library incompleteness**
+- Francolite (carbonate fluorapatite) — the actual phosphate mineral at Benguerir — absent from ECOSTRESS
+- Only generic "Apatite Ca₅(PO₄)₃F" available
+- **Impact:** Phosphate identification less precise spectrally; confirmed via XRD/XRF
+
+---
+
+## Key Results from Thesis Ch.1 (104 samples)
+| Rank | Dominant mineral |
+|------|----------------|
+| 1–2 | Illite, Montmorillonite |
+| 3–4 | Dolomite, Quartz |
+| 5–7 | Apatite, Calcite, Kaolinite |
+
+This distribution is **mineralogically consistent** with phosphate waste rock: clay gangue coats surfaces; carbonates and silica form the matrix; apatite is the economic mineral beneath.
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Hyperspectral Imaging]]
+- [[Mineral Assemblages]]
+- [[Spectral Unmixing VCA-FCLS]]
+
+---
+
+*Related: [[04_Knowledge Base/AI-Generated/thesis-ingestion/Spectroscopy Notebook Ingestion|Spectroscopy Notebook Ingestion]]*
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md (~588 words)
+================================================================================
+---
+tags:
+- ch1
+- ch3
+- concept
+- method
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# Spectral Unmixing — NNLS, VCA, FCLS
+
+## Problem Statement
+At 30m pixel resolution, each EnMAP or PRISMA pixel contains contributions from multiple minerals (mixed pixel problem). Spectral unmixing decomposes a mixed pixel spectrum into:
+- **Endmembers:** Pure component spectra
+- **Abundances:** Fractional contribution of each endmember (sum-to-one constraint)
+
+**Linear mixing model:**
+```
+r = Σ(a_i × e_i) + ε
+```
+Where r = observed spectrum, a_i = abundances, e_i = endmember spectra, ε = noise
+
+---
+
+## Methods Used in Abdelhak's Thesis
+
+### Chapter 1: NNLS (Non-Negative Least Squares)
+- Endmembers from ECOSTRESS spectral library (top-5 rank-1 matches per sample)
+- NNLS finds non-negative abundances minimizing ||r − E·a||²
+- Applied to 104 field samples
+- Provides relative abundance of dolomite, illite, kaolinite, calcite, apatite
+
+### Chapter 3: VCA + FCLS (primary satellite-scale method)
+
+**VCA (Vertex Component Analysis)** — Endmember extraction
+- Assumes endmembers are at the vertices of the spectral simplex
+- PCA reduction → iterative vertex finding
+- Unsupervised — endmembers extracted from data, no library needed
+- **k = 4 endmembers** (primary)
+
+**FCLS (Fully Constrained Least Squares)** — Abundance estimation
+- Minimizes ||r − E·a||² subject to: a_i ≥ 0 AND Σa_i = 1
+- Implementation: NNLS with augmented sum-to-one equation
+- Parallelized via ThreadPoolExecutor
+
+---
+
+## Key Ch.3 Results (from thesis manuscript)
+
+| Endmember | Dominant zone | RWR mean abundance | RZ mean abundance | Δ (RZ−RWR) |
+|-----------|--------------|-------------------|-----------------|-----------|
+| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | −0.559 |
+| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | +0.484 |
+
+Bootstrap (5,000 iterations): 95% CI excludes zero for both EM3 and EM4.
+
+**Spatially blocked CV:** BAC = 0.984 ± 0.031; AUC = 1.000
+
+---
+
+## Ch.3 Band Configuration
+
+From the manuscript (not from the Python script — manuscript is source of truth):
+
+| Band category | Wavelength range | Action |
+|--------------|----------------|--------|
+| Valid bands | **189 bands, 418–2445 nm** | Retained |
+| Detector overlap | 1342–1391 nm | Masked |
+| Water vapor A | 1350–1450 nm | Masked |
+| Water vapor B | 1800–1950 nm | Masked |
+| Below valid fraction | Various | Masked |
+
+---
+
+## VCA Algorithm
+
+```
+1. Mean-center spectra: R_c = R - mean(R)
+2. SVD: U, S, V = svd(R_c)
+3. Project to k-dimensional subspace: R_w = U[:, :k] × S[:k]
+4. Iterative vertex finding (k iterations):
+   - Random vector w
+   - Orthogonalize against current endmember set
+   - k = argmax|R_w · f|
+   - Add to endmember set
+```
+
+---
+
+## FCLS Implementation
+
+```python
+# Augmented system: adds sum-to-one as an additional equation
+A_aug = vstack([endmember_matrix.T, scale × ones])
+b_aug = hstack([pixel, scale])  # scale = 1000.0
+abundances, _ = nnls(A_aug, b_aug)
+abundances = abundances / abundances.sum()  # renormalize
+```
+
+---
+
+## Linear Mixing Assumption — Limitation
+Real-world mixing is often non-linear (intimate mixtures, multiple scattering). The thesis acknowledges this:
+> "Structured residuals in the 2150–2300 nm region for samples with overlapping clay-carbonate signatures are flagged as cases requiring qualitative rather than quantitative interpretation."
+
+Linear mixing is used because at 30m satellite pixels, areal (checkerboard) mixing dominates — each component reflects independently. This is the standard model for geological remote sensing at this scale.
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[VNIR-SWIR Spectroscopy]]
+- [[EnMAP Satellite]]
+- [[Reclamation Monitoring]]
+- [[Reclamation Progress Index]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md (~540 words)
+================================================================================
+---
+tags:
+- ch1
+- concept
+- spectroscopy
+- topic/wiki-concept
+- wiki
+- wiki-concept
+updated: 2026-05-24
+generated_by: claude
+type: concept-note
+status: seed
+created: '2026-05-24'
+---
+
+# VNIR-SWIR Spectroscopy
+
+## Definition
+Visible/Near-Infrared + Shortwave Infrared spectroscopy (VNIR-SWIR) covers 350–2500 nm. Combined with handheld XRF (HHXRF), it forms the core analytical approach of Chapter 1 of Abdelhak's thesis for field characterization of phosphate mine waste.
+
+**Chapter 1 title:** "Integrating VNIR–SWIR Spectroscopy and Handheld XRF for Enhanced Mineralogical Characterization of Phosphate Mine Waste Rocks in Benguerir"  
+**Published:** Sensors (IF 3.5), Dec 2025, doi:10.3390/s26010002
+
+---
+
+## Physical Basis
+
+Spectral features in the VNIR-SWIR arise from two processes:
+
+### Electronic transitions (VNIR, 400–1000 nm)
+- **Fe2+/Fe3+ electronic transitions** → broad absorptions at 500 nm, 680 nm, 900 nm
+- Diagnostic for iron oxides: hematite (α-Fe₂O₃), goethite (α-FeOOH)
+- Present in phosphate waste due to oxidized gangue
+
+### Molecular vibrations (SWIR, 1000–2500 nm)
+- **Overtones and combination tones** of fundamental molecular bonds
+- OH⁻ stretch → ~1400 nm, ~1900 nm (clays, hydroxyl minerals)
+- CO₃ combination → ~2320 nm (carbonates)
+- Al-OH combination → ~2200 nm (kaolinite, illite)
+- Mg-OH combination → ~2330 nm (dolomite, chlorite)
+- PO₄ overtone → ~2150 nm (apatite, fluorapatite) — weak but diagnostic
+
+---
+
+## Chapter 1 Workflow
+
+```
+104 field samples (ASD FieldSpec 4, 350–2500nm)
+     ↓
+Preprocessing: resampling → 1nm common grid → normalization
+     ↓
+Spectral library matching (ECOSTRESS splib07)
+     Metrics: RMSE, SAM, SID, R² → composite score
+     ↓
+Best-match mineral identification (rank 1–8)
+     ↓
+NNLS spectral unmixing (endmember abundances)
+     ↓
+Integration with HHXRF (elemental chemistry)
+     Results: CaO, SiO2, P2O5, Fe2O3, Al2O3, MgO, K2O, etc.
+     ↓
+Cross-validation with XRD (mineralogy)
+```
+
+---
+
+## ECOSTRESS Spectral Library (splib07)
+- ~1,609 spectra total; 15 curated for Benguerir target minerals
+- **Key finding:** Fluorapatite/francolite underrepresented → apatite at rank 3–7, not rank 1
+- Dominant rank-1 matches: Illite, Montmorillonite (clays absorb more strongly than apatite in VNIR-SWIR)
+- This is physically correct: clay surface coatings dominate spectral response; apatite detected beneath clay signal via unmixing + XRF confirmation
+
+---
+
+## Matching Metrics
+
+| Metric | Formula | Good value |
+|--------|---------|-----------|
+| RMSE | √(mean((a−b)²)) | Low |
+| SAM | arccos(a·b / ‖a‖‖b‖) | Low (radians) |
+| SID | KL divergence (symmetric) | Low |
+| R² | 1 − SSres/SStot | High |
+| Composite score | RMSE + SAM + SID | Low |
+
+**Phosphate weighting:** RMSE is weighted 5× in the 2100–2300 nm window to emphasize PO₄ diagnostic region.
+
+---
+
+## ASD FieldSpec 4 Specifications
+- Range: 350–2500 nm
+- Sampling interval: 1.4 nm (VNIR), 2 nm (SWIR)
+- FWHM: 3 nm (VNIR), 6–10 nm (SWIR)
+- Field of view: ~25° FOV contact probe
+- Calibration: BaSO₄ Spectralon white reference panel before each measurement
+
+---
+
+## Key Results (Thesis Ch.1)
+- 104 samples from Benguerir waste rock piles (managed + unmanaged zones)
+- Dominant minerals identified: illite > dolomite > calcite > kaolinite > apatite
+- Clay minerals dominate spectral response → consistent with phosphate gangue mineralogy
+- HHXRF validated: P₂O₅ content correlates with apatite abundance from unmixing
+- Combined VNIR-SWIR + HHXRF outperforms either method alone
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[Spectral Library Matching]]
+- [[Handheld XRF]]
+- [[Mineral Assemblages]]
+- [[Phosphate Mine Waste]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md (~224 words)
+================================================================================
+---
+tags:
+- concept
+- topic/wiki-concept
+- waste-rock
+- wiki
+- wiki-concept
+created: '2026-06-07'
+generated_by: claude
+summary: "Mine waste rock characterization \u2014 mineralogy, spectral properties,\
+  \ and monitoring at Benguerir."
+type: concept-note
+status: seed
+---
+
+# Waste Rock Characterization
+
+The process of identifying and quantifying the mineralogical, geochemical, and physical properties of excavated non-ore material from mining operations.
+
+## Context (Benguerir, Morocco)
+
+At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]), waste rock piles (WRP) require characterization to:
+- Assess environmental risk (leaching, dust, ARD potential)
+- Identify valorization potential (residual phosphate, carbonates)
+- Design reclamation and revegetation strategies
+
+## Key Mineral Classes (from Thesis Ch.1)
+
+| Class | Dominant Minerals | Spectral Signature |
+|-------|------------------|-------------------|
+| Carbonates | Dolomite, Calcite | ~2320–2350 nm |
+| Clays | Illite, Kaolinite, Smectite | Al-OH ~2200 nm |
+| Phosphates | Fluorapatite, Francolite | PO₄ ~2150 nm (weak) |
+| Silicates | Quartz | Featureless SWIR |
+
+## Methods Used in Abdelhak's Thesis
+
+- **Field spectroscopy** (ASD FieldSpec 4, 350–2500 nm) + ECOSTRESS library matching → Ch.1
+- **Handheld XRF** (Niton XL5) for elemental geochemistry → Ch.1
+- **PRISMA satellite** (30m) classification → Ch.2
+- **EnMAP satellite** spectral unmixing → Ch.3
+
+## Related
+
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~468 words)
+================================================================================
+---
+tags:
+- entity
+- geology
+- morocco
+- topic/wiki-entity
+- wiki
+- wiki-entity
+updated: 2026-05-24
+generated_by: claude
+type: entity-note
+status: seed
+created: '2026-05-24'
+---
+
+# Gantour Basin
+
+## Overview
+The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
+
+---
+
+## Geography
+
+| Parameter | Value |
+|-----------|-------|
+| Location | Central Morocco, Marrakech-Safi region |
+| Approximate coordinates | ~32°N, ~7.5–8°W |
+| Area | ~1,600 km² (basin extent) |
+| Key city | Benguerir (study site) |
+| Distance from Marrakech | ~70 km north |
+
+---
+
+## Geological Setting
+
+**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
+
+**Stratigraphy (simplified):**
+```
+Top: Quaternary alluvium + lacustrine deposits
+     └─ Eocene marls and limestones
+     └─ Paleocene phosphate layers (economic horizon)
+          ├─ Phosphate series: francolite in marl/limestone matrix
+          ├─ Interbedded clays (illite, smectite)
+          └─ Carbonate-rich beds (calcite, dolomite)
+Bottom: Cretaceous basement
+```
+
+**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
+
+---
+
+## Mineralogy of the Deposit
+
+The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
+
+| Component | Role |
+|-----------|------|
+| Francolite | Economic phosphate mineral (ore) |
+| Calcite/dolomite | Carbonate gangue |
+| Illite/smectite | Clay gangue |
+| Quartz | Silica gangue |
+| Iron oxides | Accessory weathering products |
+
+---
+
+## Mining at Benguerir
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group (Office Chérifien des Phosphates) |
+| Mining method | Open-pit, strip mining |
+| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
+| Annual ore production | ~4 Mt/year (approx.) |
+| Annual waste generation | ~12.3 Mt/year |
+| Mine area (thesis study zone) | ~36 km² |
+
+**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
+
+---
+
+## Environmental Significance
+
+1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
+2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
+3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
+4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
+
+---
+
+## Morocco's Strategic Role
+Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
+
+---
+
+## Related Concepts
+- [[OCP Group and Benguerir Mine]]
+- [[Phosphate Mine Waste]]
+- [[Mineral Assemblages]]
+- [[Reclamation Monitoring]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~302 words)
+================================================================================
+---
+tags:
+- Morocco
+- OCP
+- entity
+- institution
+- mining
+- phosphate
+- topic/wiki-entity
+- wiki-entity
+updated: 2026-05-24
+generated_by: claude
+type: institution
+status: seed
+created: '2026-06-08'
+---
+
+# OCP Group & Benguerir Mine
+
+## OCP Group
+- **Full name:** Office Chérifien des Phosphates (OCP Group)
+- **Headquarters:** Casablanca, Morocco
+- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
+- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
+
+## Benguerir Mine
+- **Location:** Benguerir, Marrakech-Safi region, Morocco
+- **Type:** Open-pit phosphate mine
+- **Context:** Active phosphate extraction generating large waste rock dumps
+- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
+
+## Why This Site?
+1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
+2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
+3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
+4. Environmental importance — waste rock management is an OCP priority
+5. Data access — UM6P-OCP relationship facilitates ground truth collection
+
+## Phosphate Mineralogy at Benguerir
+Key minerals to characterize:
+- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
+- **Carbonates:** calcite, dolomite (buffering capacity)
+- **Clay minerals:** kaolinite, smectite, illite
+- **Iron minerals:** goethite, hematite (AMD indicator)
+- **Accessory:** quartz, feldspar
+
+## Reclamation Context
+OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
+Abdelhak's thesis monitors this process using PRISMA time series.
+
+## Related Pages
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- UM6P (entity note not yet created)
+
+## Potential Industry Application
+OCP Group is a natural client for remote sensing consulting post-defense.  
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
+
+
+
+
+================================================================================
 FILE: 04_Knowledge Base/wiki/sources/BoardmanJWKruse.md (~72 words)
 ================================================================================
 ---
@@ -11192,1916 +13102,6 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md (~560 words)
-================================================================================
----
-tags:
-- ch3
-- concept
-- remote-sensing
-- satellite
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# EnMAP Satellite
-
-## Overview
-EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission operated by the German Aerospace Center (DLR). Used in **Chapter 3** of Abdelhak's thesis for reclamation monitoring at Benguerir mine.
-
----
-
-## Specifications
-
-| Parameter | Value |
-|-----------|-------|
-| Agency | DLR (Germany) |
-| Launch | April 2022 |
-| Orbit | SSO, 653 km altitude |
-| Revisit time | ~27 days (off-pointing: 4 days) |
-| Spectral range | 420–2450 nm (total) |
-| Bands | 242 (total sensor) |
-| Spatial resolution | 30 m |
-| Swath width | 30 km |
-| SNR | >400:1 (VNIR), >150:1 (SWIR) |
-| Data distribution | Free for science users |
-| Data level | L2A surface reflectance |
-
----
-
-## Valid Bands After Preprocessing (from thesis manuscript)
-
-After masking bad bands for the Benguerir scene:
-- **189 valid bands, spanning 418–2445 nm**
-
-| Removed bands | Wavelength | Reason |
-|--------------|-----------|--------|
-| Detector transition | 1342–1391 nm | VNIR/SWIR gap |
-| Water vapor A | 1350–1450 nm | Atmospheric absorption |
-| Water vapor B | 1800–1950 nm | Atmospheric absorption |
-| Structural bad bands | Various | Scene NaN fraction > threshold |
-
-CRS: **EPSG:32629** (WGS84 UTM Zone 29N — Benguerir is ~32°N, 7.8°W)
-
----
-
-## Comparison to PRISMA (Chapter 2)
-
-| Parameter | PRISMA (Ch.2) | EnMAP (Ch.3) |
-|-----------|--------------|--------------|
-| Agency | ASI (Italy) | DLR (Germany) |
-| Launch | 2019 | 2022 |
-| Total bands | ~239 | 242 |
-| Valid bands (thesis) | Used for ML | **189** |
-| Resolution | 30 m | 30 m |
-| SNR | Lower | Higher |
-| Data format | HDF5 | TIF + XML |
-
-**Why EnMAP for Ch.3?** Higher SNR, different acquisition date enabling backfilling impact assessment, dedicated quality masks.
-
----
-
-## Pixel Quality Filtering (from manuscript)
-
-5-step preprocessing:
-1. Spectral masking (189 bands retained)
-2. Pixel flagging: nodata, negative reflectance (<0), saturation (>1.2), EnMAP quality layer
-3. Per-column median destriping (detector striping suppression)
-4. Shapefile alignment to EPSG:32629 via geopandas
-5. Zone pixel balancing: 32 pixels/zone (seed=42), from 49 RZ + 47 RWR valid pixels
-
-**Quality gate (6 criteria):** Valid L2A reflectance, correct wavelength masking, proper nodata/quality processing, ROI-scene overlap, minimum pixel count (both zones > 40 pixels), reflectance in 0–1.2 range. **Both ROI zones contained zero bad pixels.**
-
----
-
-## Role in Thesis (Ch.3) — Summary of Results
-
-**Research question:** Can EnMAP detect and quantify the impact of backfilling on phosphate waste rock surface characteristics?
-
-**Answer from manuscript:**
-- All **189/189** valid bands show statistically significant zone separation (FDR q < 0.05)
-- Median effect size: **r = 0.859** (large)
-- Spatially blocked CV: **BAC = 0.984 ± 0.031; AUC = 1.000**
-- Permutation p = 0.002 (confirms non-random)
-- RPI: RZ=0.896, RWR=0.203, Spearman ρ=0.845
-
-**Conclusion (from thesis):**
-> "EnMAP Level-2A hyperspectral data at 30 m resolution provides sufficient spectral information to reliably discriminate reclaimed from undisturbed phosphate waste rock surfaces."
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[PRISMA Satellite]]
-- [[Reclamation Monitoring]]
-- [[Reclamation Progress Index]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Handheld XRF.md (~530 words)
-================================================================================
----
-tags:
-- ch1
-- concept
-- geochemistry
-- instrument
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Handheld XRF (HHXRF)
-
-## Definition
-Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quantifies major and trace element concentrations in rocks, soils, and materials by measuring characteristic X-ray fluorescence emission. Combined with VNIR-SWIR spectroscopy in Chapter 1, it provides direct elemental chemistry to complement spectral mineralogy.
-
----
-
-## Physical Principle
-
-1. X-ray tube emits primary X-rays → excites atoms in the sample
-2. Each element emits characteristic fluorescence X-rays (unique energy per element)
-3. Energy-dispersive detector records spectrum
-4. Software converts intensities to concentrations using calibration standards
-
-**Key advantage:** Measures elements directly (Ca, P, Fe, Al, Si, K, Mg...) → oxide chemistry (CaO, P₂O₅, Fe₂O₃, etc.)
-
----
-
-## Use in Abdelhak's Thesis
-
-### Chapter 1 (field measurements)
-- Paired with ASD FieldSpec 4 at same sample points
-- 104 samples measured
-- Provides "ground truth" chemistry to validate spectral mineralogy
-- **P₂O₅:** Key indicator of apatite/francolite content
-- **Fe₂O₃:** Iron oxide quantification
-- **Al₂O₃:** Clay mineral content proxy
-- **CaO:** Carbonate content proxy
-
-### Chapter 3 (XRF linkage in EnMAP analysis)
-- XRF data from managed zone (RZ) and unmanaged zone (RWR) samples
-- Linked to EnMAP pixels by GPS coordinates
-- Spearman correlation between VCA endmember abundances and XRF oxides
-- Used to calibrate the RPI (Reclamation Progress Index)
-- Target oxides: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
-
----
-
-## XRF Data Files in Thesis
-- `Analyse XRF P (abdelhak) VL.xlsx` — field XRF data for all samples
-- `Copie de Managed zone.csv` (OneDrive) — XRF for RZ zone
-- `Copie de Unmanaged zone.csv` (OneDrive) — XRF for RWR zone
-
----
-
-## Limitations of HHXRF
-
-| Limitation | Impact |
-|------------|--------|
-| Surface measurement only (~2mm depth) | May not represent bulk mineralogy |
-| Matrix effects | Accuracy lower for light elements (Mg, Al, Na) |
-| No structural info | Cannot distinguish polymorphs (calcite vs. aragonite) |
-| Calibration dependent | Field conditions vs. laboratory calibration |
-| Moisture sensitivity | Wet samples give different readings |
-
-**Why combine with spectroscopy?**
-HHXRF gives chemistry; spectroscopy gives mineralogy. Together: P₂O₅ → confirms phosphate content; Al-OH spectral feature → confirms clay mineralogy. Cross-validation strengthens both.
-
----
-
-## HHXRF vs. Laboratory XRF
-| Feature | HHXRF | Lab XRF |
-|---------|-------|---------|
-| Speed | Seconds per point | Minutes per sample |
-| Portability | Yes | No |
-| Detection limits | Higher (1–10 ppm) | Lower (0.1–1 ppm) |
-| Accuracy | Good for major elements | Excellent |
-| Cost | No sample prep | Fusion bead prep |
-| Use | Field reconnaissance | Laboratory validation |
-
----
-
-## Key Result
-The HHXRF-spectroscopy integration (Chapter 1) demonstrated that:
-- Spectral matching alone underestimates apatite (clay masking effect)
-- HHXRF P₂O₅ directly reveals phosphate content independently of surface spectral response
-- Combined approach achieves better characterization than either method alone
-- Published: Sensors 2025, doi:10.3390/s26010002
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Mineral Assemblages]]
-- [[Phosphate Mine Waste]]
-- [[Reclamation Progress Index]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md (~523 words)
-================================================================================
----
-tags:
-- concept
-- remote-sensing
-- spectroscopy
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Hyperspectral Imaging
-
-## Definition
-Hyperspectral imaging (HSI) acquires continuous spectral information across hundreds of narrow, contiguous wavelength bands (typically 5–10 nm bandwidth) across a spatial scene. Unlike multispectral sensors (3–10 wide bands), hyperspectral sensors resolve diagnostic spectral features that identify specific mineral, vegetation, or material compositions.
-
-**Synonym:** Imaging spectroscopy
-
----
-
-## Key Characteristics
-
-| Feature | Multispectral | Hyperspectral |
-|---------|--------------|---------------|
-| Bands | 3–10 | 100–500+ |
-| Bandwidth | 50–200 nm | 5–15 nm |
-| Spectral range | Selective | Contiguous |
-| Data volume | Small | Large (hypercube) |
-| Mineral ID | Indirect | Direct |
-
-**Hypercube:** The data structure is a 3D array (x pixels × y pixels × λ bands). Each pixel contains a full reflectance spectrum.
-
----
-
-## Spectral Range in Abdelhak's Thesis
-
-| Range | Acronym | Wavelength | Key diagnostics |
-|-------|---------|-----------|----------------|
-| Visible | VIS | 400–700 nm | Fe3+ electronic transitions |
-| Near-infrared | NIR | 700–1000 nm | Vegetation red edge, Fe2+ |
-| Shortwave infrared | SWIR | 1000–2500 nm | Molecular overtones: OH, CO3, PO4 |
-| Combined | VNIR+SWIR | 400–2500 nm | Full diagnostic window |
-
----
-
-## Sensors in Abdelhak's Research
-
-| Sensor | Type | Bands | Resolution | Used in |
-|--------|------|-------|-----------|---------|
-| ASD FieldSpec 4 | Field spectrometer | ~2100 bands | 1 nm (resampled) | Ch.1 (104 field samples) |
-| PRISMA | Satellite | 239 bands | 30 m | Ch.2 (mineral mapping) |
-| EnMAP | Satellite | 242 bands | 30 m | Ch.3 (reclamation monitoring) |
-
----
-
-## Why Hyperspectral for Mining?
-
-- **Mineral fingerprinting:** Every mineral has a unique spectral signature driven by electronic and vibrational processes
-- **Non-destructive:** Remote sensing avoids the cost/time of physical sampling
-- **Spatial coverage:** Satellite HSI covers entire mine sites in one pass (36 km² Benguerir = tens of thousands of pixels)
-- **Reclamation monitoring:** Multi-temporal analysis tracks vegetation recovery and mineralogical change over time
-
----
-
-## Diagnostic Absorption Features (Benguerir context)
-
-| Feature | Wavelength | Mineral |
-|---------|-----------|---------|
-| CO₃ combination | ~2320 nm | Calcite, dolomite |
-| Al-OH | ~2200 nm | Illite, kaolinite |
-| Mg-OH | ~2330 nm | Dolomite, chlorite |
-| PO₄ | ~2150 nm | Apatite (fluorapatite) |
-| Fe3+ | ~500 nm, ~680 nm | Iron oxides (hematite, goethite) |
-| OH stretch | ~1400, ~1900 nm | Water, hydroxyl minerals |
-
----
-
-## Limitations
-
-- **Mixed pixels:** At 30 m resolution, each pixel averages contributions from multiple minerals/materials → requires spectral unmixing
-- **Atmospheric effects:** Water vapor absorption at ~1350–1450 nm and ~1800–1950 nm blocks parts of SWIR
-- **Detector overlap:** VNIR-SWIR transition zone (~880–1050 nm) has lower SNR in both PRISMA and EnMAP
-- **Spectral library completeness:** Matching requires reference spectra for every expected mineral; fluorapatite/francolite underrepresented in ECOSTRESS
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Spectral Library Matching]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[PRISMA Satellite]]
-- [[EnMAP Satellite]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md (~689 words)
-================================================================================
----
-tags:
-- ch2
-- concept
-- machine-learning
-- method
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
-type: concept-note
-status: seed
-created: '2026-06-05'
----
-
-# Machine Learning for Hyperspectral Classification
-
-## Context in Thesis
-Chapter 2 applies supervised machine learning to PRISMA satellite data for lithological mapping of phosphate waste rocks. The goal: classify pixels into lithological classes using field-validated training samples.
-
-**Paper:** Accepted in *Minerals* 2026 (IF 2.2) ✅
-
-> ⚠️ **Source of truth:** All numbers in this file are from the thesis manuscript. Conference abstract metrics (IGARSS 2025, EGU 2025) are from earlier experimental work and are NOT thesis results.
-
----
-
-## Samples and Classes (Chapter 2)
-
-| Step | Count | Details |
-|------|-------|---------|
-| Total field samples | 207 | Collected across Benguerir waste rock piles |
-| Removed (shared pixels) | 80 | Same 30m PRISMA pixel footprint — removed to prevent spectral leakage |
-| **Spatially independent samples** | **127** | Used for machine learning |
-| XRD subset | 20 | Representative subset for mineralogical validation |
-| XRF subset | 207 | All samples measured |
-
-**4 Lithological Classes:**
-1. **Phosphate rock** — carbonate fluorapatite-rich facies
-2. **Siliceous facies** — quartz-dominated
-3. **Marl** — clay-rich carbonate
-4. **Limestone** — calcite/dolomite-dominated
-
----
-
-## Models Tested
-
-| Model | Best performer? | Notes |
-|-------|----------------|-------|
-| **Extra Trees** | ✅ Yes | Most stable; best BAC |
-| **Random Forest** | ✅ Yes | Close second |
-| XGBoost | Competitive | More sensitive to spatially structured data |
-| SVM | Strong AUC | Lower BAC in complex multi-class setting |
-| KNN | Baseline | Instance-based |
-
-All evaluated under identical spatially constrained CV.
-
----
-
-## Feature Selection — ANOVA within CV Folds
-
-**Critical: nested inside each CV fold — no data leakage.**
-
-```
-For each CV fold:
-  1. Fit ANOVA F-test on training split only
-  2. Select top 60 SWIR bands
-  3. Train classifier on selected features
-  4. Evaluate on test split (unseen, spatially isolated data)
-```
-
-- **Why 60 bands?** Empirically selected via nested CV; captures CO₃, Al-OH, Mg-OH, PO₄ features
-- **Why SWIR?** Molecular absorptions for carbonate/clay/phosphate minerals are in SWIR
-
----
-
-## Spatially Constrained Cross-Validation
-
-- 30m buffer between train and test (= 1 PRISMA pixel)
-- 10 independent replicates
-- Prevents spatial autocorrelation from inflating accuracy
-
----
-
-## Key Results (Thesis Ch.2 — from manuscript)
-
-| Metric | Value |
-|--------|-------|
-| Best models | Extra Trees, Random Forest |
-| **BAC (balanced accuracy)** | **0.60–0.67** |
-| **AUC (carbonate classes: Marl, Limestone)** | **> 0.95** |
-| AUC (Phosphate rock, Siliceous facies) | Lower — spectral overlap at 30m |
-| Spatially independent samples | 127 |
-| CV scheme | Spatially constrained, 30m buffer, 10 replicates |
-| Feature selection | Top 60 SWIR bands (ANOVA, nested in CV) |
-
-**Class discrimination pattern:**
-- Marl and Limestone: excellent discrimination (AUC > 0.95) — carbonate contrast is clear
-- Phosphate rock vs. Siliceous facies: lower discrimination — spectral overlap at 30m scale reflects sub-pixel mixing
-
----
-
-## Shannon Entropy Uncertainty
-- Uncertainty is spatially structured — concentrated at lithological boundaries and in mixed phosphate-siliceous zones
-- This is geologically meaningful: exactly where sub-pixel mixing is expected
-- Operationally: high-entropy zones = where additional field investigation is warranted
-
----
-
-## The 0.60–0.67 BAC: Context for Defense
-
-This is the correct, peer-reviewed result representing true spatial generalization. The physically constrained upper bound on classification at 30m resolution with spatially clustered training data. The thesis manuscript states:
-
-> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
-
-**Do NOT confuse with:** The OA=0.92 figure in the IGARSS 2025 and EGU 2025 conference abstracts. Those are from earlier experimental work using a different framework (CNN+SHAP) and are not the thesis results submitted for defense.
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[PRISMA Satellite]]
-- [[Spatially Constrained Cross-Validation]]
-- [[Shannon Entropy Uncertainty]]
-- [[Mineral Assemblages]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md (~541 words)
-================================================================================
----
-tags:
-- benguerir
-- concept
-- mineralogy
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-06-08'
----
-
-# Mineral Assemblages — Benguerir Phosphate Waste
-
-## Overview
-The mineral assemblage of Benguerir phosphate waste rock reflects the sedimentary phosphate deposit geology: marine carbonate-fluorapatite (francolite) in a carbonate-siliceous gangue, with secondary clay mineral weathering products.
-
----
-
-## Primary Ore Minerals
-
-### Fluorapatite Ca₅(PO₄)₃F
-- End-member formula; rarely pure in sedimentary phosphates
-- **Spectral signature:** PO₄ combination tone ~2150 nm (weak feature)
-- **Diagnostic use:** Present in library as "Apatite Ca₅(PO₄)₃F"; detected at rank 3–7
-
-### Francolite (Carbonate Fluorapatite)
-- **Formula:** Ca₅[(PO₄)(CO₃)]₃F — partial substitution of CO₃ for PO₄
-- The **actual dominant phosphate mineral** in [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]] deposits
-- Hybrid PO₄ + CO₃ signature → harder to distinguish spectrally from calcite
-- **NOT in ECOSTRESS library** — key limitation of spectroscopy approach
-- Confirmed via XRD
-
----
-
-## Carbonate Gangue
-
-### Calcite CaCO₃
-- Very common in phosphate sequences (marine origin)
-- Strong CO₃ combination at **2320 nm**
-- Often rank 5–7 in spectral matching (weaker than clay Al-OH)
-- Confirmed via XRD peak at 29.4° 2θ
-
-### Dolomite CaMg(CO₃)₂
-- Characteristic Mg-OH feature at **2330 nm**
-- Often rank 3–4 in spectral matching
-- Present in both managed and unmanaged zones
-
----
-
-## Clay Gangue (Surface Dominant)
-
-### Illite (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀[(OH)₂,H₂O]
-- Most spectrally dominant clay
-- **Al-OH doublet: 2160 nm + 2205 nm** (diagnostic, strong)
-- **Rank 1–2 in spectral matching** for most samples
-- Formed by weathering of feldspar and volcanic ash layers
-- Confirmed via XRD
-
-### Kaolinite Al₂Si₂O₅(OH)₄
-- Al-OH at **2200 nm** (sharp doublet at 2163 + 2206 nm distinguishes from illite)
-- Lower abundance than illite at Benguerir
-- Confirmed via XRD
-
-### Montmorillonite (Smectite) (Na,Ca)₀.₃₃(Al,Mg)₂Si₄O₁₀(OH)₂·nH₂O
-- Swelling clay; Al-OH at ~2205 nm
-- Strong water absorption at 1900 nm (water molecules in interlayer)
-- Rank 1–2 alongside illite
-- Problematic for remote sensing: expands/contracts with moisture
-
----
-
-## Silica Gangue
-
-### Quartz SiO₂
-- Essentially featureless in SWIR (no molecular absorptions)
-- Detected via spectral background / contrast
-- Rank 3–4 in some samples
-- Confirmed via XRD sharp peak at 26.6° 2θ
-
----
-
-## Iron Oxide Accessories
-
-### Hematite α-Fe₂O₃ / Goethite α-FeOOH
-- Not major phases but spectrally visible
-- Fe3+ electronic transitions: shoulder ~500 nm, crystal field ~680 nm
-- Source: lateritic weathering of primary minerals
-- Tracked in `enmap_reclamation_engine_v2.py` feature catalogue
-
----
-
-## Spectral Dominance Hierarchy
-At surface expression (field + satellite scale):
-```
-Clays (Illite > Montmorillonite) >
-Carbonates (Dolomite > Calcite) >
-Iron Oxides >
-Silica (Quartz) >
-Phosphates (Apatite/Francolite)
-```
-Phosphates are mineralogically important but spectrally suppressed by surface clay coatings → requires HHXRF + XRD for reliable quantification.
-
----
-
-## XRD Validation
-XRD (X-ray diffraction) provides direct mineralogy:
-- Peak at 29.4° 2θ → calcite
-- Peak at 26.6° 2θ → quartz
-- Peaks at ~7° and ~3.5° → illite/smectite
-- Peaks at ~7.1° → kaolinite
-- Peaks at ~7° broad → fluorapatite (overlaps with clay)
-
-Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative samples.
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Spectral Library Matching]]
-- [[Phosphate Mine Waste]]
-- [[Handheld XRF]]
-- [[Gantour Basin]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md (~407 words)
-================================================================================
----
-tags:
-- PRISMA
-- concept
-- core
-- remote-sensing
-- satellite
-- topic/wiki-concept
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-domain: Remote Sensing
-type: concept-note
-status: seed
-created: '2026-06-08'
----
-
-# PRISMA Satellite
-
-## What It Is
-PRISMA (PRecursore IperSpettrale della Missione Applicativa) is the Italian Space Agency (ASI) hyperspectral satellite. Launched March 2019. One of the most capable civil hyperspectral satellites currently operating.
-
-## Technical Specs
-| Parameter | Value |
-|-----------|-------|
-| Spectral range | 400–2500 nm (VNIR + SWIR) |
-| Spectral bands | ~250 contiguous bands |
-| Spectral resolution | ~10 nm |
-| Spatial resolution | 30 m |
-| Swath width | 30 km |
-| Data format | **HDF5** |
-| Revisit time | ~29 days (at equator) |
-
-## Why Abdelhak Uses PRISMA
-- Full VNIR + SWIR coverage → essential for phosphate mineralogy in SWIR
-- Available for Moroccan study sites (Benguerir)
-- Relatively new → Abdelhak's thesis is among the first hyperspectral satellite studies of Moroccan phosphate mining
-
-## Data Format: HDF5
-PRISMA delivers data in HDF5 format — requires custom loading scripts.  
-Challenges solved during Abdelhak's thesis:
-- HDF5 indexing script developed
-- VNIR + SWIR cube fusion → NPZ format
-- Bad band removal (water vapor absorption at ~1400nm, ~1900nm)
-- Noisy band identification and removal
-
-→ See `thesis/code-notes/VNIR SWIR Fusion` (code notes not yet in vault)  
-→ See `thesis/code-notes/Bad Band Removal` (code notes not yet in vault)
-
-## Key Spectral Bands for Phosphate Mineralogy
-| Wavelength Region | Relevant Minerals |
-|------------------|------------------|
-| ~900–1000 nm (NIR) | Iron oxides, goethite, hematite |
-| ~2200 nm (SWIR) | Al-OH clays, kaolinite, alunite |
-| ~2300 nm (SWIR) | Carbonates, Mg-OH, dolomite |
-| ~2100–2200 nm | Phosphate minerals (specific features) |
-| ~1400, 1900 nm | Water/OH (remove — atmosphere) |
-
-## PRISMA vs. Other Sensors
-| Sensor | Bands | Resolution | Notes |
-|--------|-------|------------|-------|
-| PRISMA | ~250 | 30m | ✅ Abdelhak's sensor |
-| Sentinel-2 | 13 | 10-60m | Too few bands for mineralogy |
-| EnMAP | 244 | 30m | Higher SNR, newer (2022) |
-| AVIRIS | 224 | variable | Airborne, not satellite |
-| HyMap | 128 | variable | Airborne |
-
-## Related Pages
-- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
-- [[02_Academic & Work/thesis/Thesis Overview]]
-
-## Sources
-*(Add papers about PRISMA applications as you ingest them)*
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md (~512 words)
-================================================================================
----
-tags:
-- benguerir
-- concept
-- geology
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-06-08'
----
-
-# Phosphate Mine Waste / Waste Rock
-
-## Definition
-Phosphate mine waste rocks are the non-ore materials excavated to access phosphate ore bodies. At Benguerir (OCP Group), they form large waste rock piles (WRP) requiring environmental management and potential reclamation.
-
----
-
-## Benguerir Mine Context
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group |
-| Basin | [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]], Morocco |
-| Study area | ~36 km² |
-| Stripping ratio | ~3:1 (waste:ore) |
-| Waste production | ~12.3 Mt/year |
-| Pile heights | Up to several tens of meters |
-| Age of dumps | Decades of accumulation |
-
----
-
-## Mineralogical Composition (from thesis Ch.1)
-
-### Primary minerals (host rock)
-| Mineral | Formula | Spectral signature |
-|---------|---------|-------------------|
-| Fluorapatite | Ca₅(PO₄)₃F | PO₄ ~2150 nm (weak) |
-| Francolite | Ca₅(PO₄,CO₃)₃F | Carbonate-phosphate |
-| Calcite | CaCO₃ | CO₃ ~2320 nm |
-| Dolomite | CaMg(CO₃)₂ | Mg-OH ~2330 nm |
-
-### Secondary/gangue minerals
-| Mineral | Formula | Spectral signature |
-|---------|---------|-------------------|
-| Illite | (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀(OH)₂ | Al-OH ~2200 nm |
-| Kaolinite | Al₂Si₂O₅(OH)₄ | Al-OH ~2200 nm |
-| Montmorillonite | (Na,Ca)Al₂Si₄O₁₀(OH)₂·nH₂O | Al-OH ~2200 nm |
-| Quartz | SiO₂ | Featureless in SWIR |
-| Iron oxides | Hematite, Goethite | Fe3+ ~500, 680 nm |
-
-### Why clays dominate spectral response
-Clay minerals (illite, montmorillonite) coat waste rock surfaces due to weathering. Their Al-OH absorptions at ~2200 nm are spectrally stronger than the apatite PO₄ feature at ~2150 nm → clays rank 1–2 in spectral matching despite being secondary minerals.
-
----
-
-## Reclamation Context
-
-**Two zone types in Abdelhak's thesis:**
-- **RWR (Reference Waste Rock):** Unmanaged dump — raw, unvegetated, high phosphate, geochemically unstable
-- **RZ (Reclaimed Zone):** Managed area undergoing vegetation restoration — soil amendment, seeding, water management
-
-**Environmental concerns:**
-- Dust and wind erosion (fine phosphate particles)
-- Leaching of heavy metals and fluorine
-- Landscape rehabilitation compliance (OCP sustainability targets)
-- Acid rock drainage potential (limited for calcareous phosphate gangue)
-
----
-
-## Geochemistry (XRF targets from thesis)
-Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
-
-**P2O5 as reclamation indicator:**
-- High P2O5 → unweathered phosphate waste
-- Decreasing P2O5 over time → mineral weathering, dilution by added topsoil, vegetation biomass accumulation
-- The **Reclamation Progress Index (RPI)** uses abundance of vegetation/soil endmembers relative to raw waste endmembers, isotonically calibrated against XRF P2O5
-
----
-
-## Field Sampling (Thesis)
-- 104 field samples collected across managed and unmanaged zones
-- GPS locations recorded (used in QGIS maps, plotted in `Samples ppaer 1 + 2 all.csv`)
-- ASD FieldSpec 4 measurement at each sample point
-- HHXRF measurement (same or adjacent point)
-- XRD on subset → mineral quantification
-
----
-
-## Related Concepts
-- [[Mineral Assemblages]]
-- [[VNIR-SWIR Spectroscopy]]
-- [[Handheld XRF]]
-- [[Reclamation Monitoring]]
-- [[OCP Group and Benguerir Mine]]
-- [[Gantour Basin]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md (~692 words)
-================================================================================
----
-tags:
-- ch3
-- concept
-- environmental
-- reclamation
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Reclamation Monitoring (Chapter 3)
-
-## Definition
-Chapter 3 quantifies the impact of **backfilling** — the primary reclamation strategy at Benguerir — on phosphate waste rock surface characteristics, using EnMAP hyperspectral data and spectral unmixing.
-
-**Exact thesis title:** *"Assessing the impact of backfilling on phosphate mine waste rock characteristics in Benguerir, Morocco: An integrated field, laboratory, and hyperspectral remote sensing approach"*
-
-> **Important:** The reclamation strategy is specifically **backfilling** (remblayage), not generic revegetation. Backfilling = re-depositing material over waste rock piles to modify surface composition and prepare for revegetation.
-
----
-
-## Two Zone Types
-
-| Zone | Code | Description |
-|------|------|-------------|
-| Reclaimed Zone | **RZ** | Has undergone backfilling, leveling, and preparation for revegetation |
-| Reference Waste Rock Zone | **RWR** | Undisturbed deposited waste — "zero reclamation" reference |
-
----
-
-## Study Design (from manuscript)
-
-| Parameter | Value |
-|-----------|-------|
-| XRF samples per zone | n = 32 (balanced) |
-| EnMAP valid pixels (RZ) | 49 (balanced to 32) |
-| EnMAP valid pixels (RWR) | 47 (balanced to 32) |
-| EnMAP valid bands | **189** (spanning 418–2445 nm) |
-| Balancing seed | 42 (reproducible) |
-| Spectral concordance (full vs. balanced) | Pearson r = 0.990 |
-
----
-
-## What Backfilling Does Spectrally
-
-**XRF evidence:** Statistically significant geochemical contrasts (BH FDR-corrected q < 0.05) in:
-P₂O₅, CaO, SiO₂, Al₂O₃, MgO, K₂O, and Na₂O between RZ and RWR.
-
-Interpretation: Backfilling redistributes and mixes stratigraphically distinct lithological units, changing the surface geochemistry and thus the spectral response.
-
----
-
-## Spectral Separation (Per-Band Analysis)
-
-**Mann-Whitney U test on all 189 valid EnMAP bands:**
-- Significant zone separation across **all 189/189 valid bands** (q < 0.05 after BH FDR correction)
-- **Median effect size: r = 0.859** (large by conventional standards)
-- Spectral autocorrelation ρ₁ ≈ 0.992 → effective independent comparisons ≈ 17 → FDR correction applied
-
-**Key diagnostic features:**
-| Feature | Wavelength | Δ (RZ−RWR) | p-value |
-|---------|-----------|-----------|--------|
-| Carbonate combination | ~2330 nm | −0.019 | 0.0001 |
-| Iron oxide shoulder | ~900 nm | +0.006 | 0.0007 |
-
----
-
-## VCA-FCLS Unmixing Results (4 Endmembers)
-
-| Endmember | Dominant zone | RWR mean | RZ mean | Δ |
-|-----------|--------------|---------|--------|---|
-| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | +0.559 |
-| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | −0.483 |
-
-Bootstrap 95% CI excludes zero for both EM3 and EM4.
-
----
-
-## Statistical Validation
-
-| Test | Result |
-|------|--------|
-| Bootstrap (5,000 iter.) | 95% CI excludes zero for EM3 and EM4 |
-| Permutation test (10,000 iter.) | p = 0.0001 |
-| Spatial holdout | Same-sign fraction = 1.00 across all holdouts |
-| **Spatially blocked CV** | **BAC = 0.984 ± 0.031; AUC = 1.000** |
-| Permutation p (spatial block) | Empirical p = 0.002 |
-
-> The near-perfect BAC (0.984) reflects the strong spectral separation induced by backfilling — confirmed non-spurious by permutation test and spatial blocking. This is very different from the Ch.2 result (BAC=0.60–0.67) because the RZ vs. RWR contrast is a binary comparison at zone scale, not a fine-grained 4-class lithological mapping.
-
----
-
-## Reclamation Progress Index (RPI)
-
-| Zone | RPI median | 95% CI |
-|------|-----------|--------|
-| **RZ (reclaimed)** | **0.896** | [0.860–0.927] |
-| **RWR (reference)** | **0.203** | [0.161–0.221] |
-
-XRF concordance: Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
-
-→ Full details: [[Reclamation Progress Index]]
-
----
-
-## Implications
-
-1. EnMAP Level-2A at 30m can reliably discriminate reclaimed from undisturbed phosphate waste (all 189 bands significant)
-2. Near-perfect spatial CV accuracy (BAC=0.984) establishes EnMAP as operationally viable for large-scale monitoring
-3. No bespoke airborne campaigns needed — 27-day revisit at no additional cost
-4. RPI provides quarterly progress reporting tool for OCP Group
-
----
-
-## Related Concepts
-- [[EnMAP Satellite]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[Reclamation Progress Index]]
-- [[Phosphate Mine Waste]]
-- [[OCP Group and Benguerir Mine]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md (~575 words)
-================================================================================
----
-tags:
-- ch3
-- concept
-- novel-contribution
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Reclamation Progress Index (RPI)
-
-## Definition
-The Reclamation Progress Index (RPI) is a **novel spectral index** developed in Chapter 3 of Abdelhak's thesis. It provides a satellite-derived metric (0–1) of reclamation progress, calibrated isotonically against field XRF geochemical support scores.
-
-**This is the most original methodological contribution of the entire thesis.**
-
----
-
-## Validated Results (from thesis manuscript)
-
-| Zone | RPI median | 95% CI |
-|------|-----------|--------|
-| **RZ (Reclaimed — backfilled)** | **0.896** | [0.860–0.927] |
-| **RWR (Reference Waste Rock)** | **0.203** | [0.161–0.221] |
-
-**XRF concordance:** Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
-
-**Transitional fraction** (RPI 0.35–0.65): characterizes intermediate reclamation states
-
-**RZ-like classification (RPI > threshold):** 90.625% of RZ pixels correctly identified
-
----
-
-## Construction
-
-### Step 1: EnMAP preprocessing
-- 189 valid bands (418–2445 nm after masking)
-- 32 balanced pixels per zone (from 49 RZ + 47 RWR valid pixels, seed=42)
-- Spectral concordance: Pearson r = 0.990 (full vs. balanced subset)
-
-### Step 2: VCA endmember extraction (k=4)
-Four scene-derived endmembers extracted from combined RZ+RWR spectra:
-- **EM3:** Dominant in RWR (raw waste) — mean RWR=0.612, mean RZ=0.053
-- **EM4:** Dominant in RZ (backfilled) — mean RWR=0.032, mean RZ=0.516
-
-### Step 3: FCLS abundance estimation
-- Fully Constrained Least Squares: non-negativity + sum-to-one
-- Parallel implementation per pixel
-- Output: abundance fraction for each endmember per pixel
-
-### Step 4: Abundance ratio → Raw RPI
-```
-Raw_RPI = EM4_abundance / (EM3_abundance + EM4_abundance)
-```
-Higher value = more "reclaimed" endmember relative to "raw waste" endmember.
-
-### Step 5: Isotonic calibration against XRF
-- At matched pixel-XRF locations: relate Raw_RPI to XRF geochemical support score
-- **Isotonic regression:** monotone non-decreasing function, no linearity assumption
-- Calibrated RPI: 0 (no reclamation) → 1 (full target state)
-
-**Why isotonic?** The relationship is monotone but non-linear; isotonic regression is non-parametric and enforces the correct ordering without assuming any functional form.
-
----
-
-## Statistical Validation
-
-| Test | Result |
-|------|--------|
-| Spearman ρ (RPI vs. XRF) | 0.845 |
-| p-value | 1.74 × 10⁻¹² |
-| Zone difference significance | Clearly differentiated (non-overlapping 95% CI) |
-| Spatial holdout fraction | 1.00 (same-sign across all holdouts) |
-
----
-
-## Spatial Application
-- Computed for every valid pixel in EnMAP scene
-- Maps entire 36 km² mine in one pass
-- Repeatable with future EnMAP acquisitions → operational monitoring
-- OCP Group can track reclamation trajectory without additional field campaigns
-
----
-
-## Potential for Operational Use
-
-> "The RPI can be computed automatically from any future EnMAP acquisition, providing OCP with a quarterly reclamation progress report at zero additional field cost."
-
-Generalizable framework: the calibration approach (unmixing → isotonic calibration → XRF) can be applied to any satellite hyperspectral mission for any mine type with geochemical ground truth.
-
----
-
-## Defense Talking Point
-If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS + isotonic XRF calibration can be applied to any HSI sensor (PRISMA, DESIS, future missions) and any mine type where geochemical ground truth exists. This is not specific to EnMAP or Benguerir — it's an operational template for satellite-based mine reclamation monitoring."
-
----
-
-## Related Concepts
-- [[Reclamation Monitoring]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[EnMAP Satellite]]
-- [[Handheld XRF]]
-- [[Phosphate Mine Waste]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md (~450 words)
-================================================================================
----
-tags:
-- ch2
-- concept
-- method
-- statistics
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Shannon Entropy Uncertainty Mapping
-
-## Definition
-Shannon entropy is an information-theoretic measure of uncertainty applied to probabilistic classifier outputs. In Chapter 2, it maps per-pixel prediction uncertainty across the PRISMA mineral classification map.
-
----
-
-## Formula
-```
-H(x) = −Σᵢ p(cᵢ|x) × log₂[p(cᵢ|x)]
-```
-Where:
-- H(x) = entropy at pixel x (in bits)
-- p(cᵢ|x) = predicted probability of class i at pixel x
-- Sum over all K mineralogical classes
-
-**Bounds:**
-- H = 0 bits: Certain — one class has probability = 1, all others = 0
-- H = log₂(K) bits: Maximum uncertainty — all K classes equally probable
-
----
-
-## Physical Interpretation for Mineralogy
-
-| Entropy level | Meaning |
-|---------------|---------|
-| H ≈ 0 | Pixel is spectrally pure, clear mineral signature |
-| H = 0.5–1.5 | Moderate uncertainty — possible mixed pixel or boundary |
-| H > 2.0 | High uncertainty — mixed pixel, unusual spectrum, or outside training distribution |
-
-**Where high entropy appears:**
-- Pixel boundaries between mineralogical units (transition zones)
-- Mixed pixels combining multiple minerals in equal proportions
-- Pixels with atmospheric artifacts or sensor noise
-- Areas outside the spectral range of training data (extrapolation)
-
----
-
-## Role in Thesis Chapter 2
-
-1. **Diagnostic:** Identify pixels where the model is uncertain
-2. **Priority areas for future fieldwork:** High-entropy zones should be validated first
-3. **Quality control:** Threshold-based masking of uncertain predictions before generating final mineral map
-4. **Honest reporting:** Entropy map alongside classification map shows where the model can and cannot be trusted
-
----
-
-## Connection to Spatially Constrained CV
-
-Both entropy mapping and spatially constrained CV address model reliability:
-- **Spatial CV:** Honest generalization metric during training (removes autocorrelation)
-- **Entropy map:** Honest per-pixel uncertainty during prediction (identifies low-confidence areas)
-
-Together they form a rigorous uncertainty framework for the classification.
-
----
-
-## Calculation in Random Forest / Extra Trees
-
-Random Forest and Extra Trees output class probabilities as the mean of per-tree votes:
-```python
-proba = clf.predict_proba(X)  # shape: (n_pixels, n_classes)
-entropy = -np.sum(proba * np.log2(proba + 1e-10), axis=1)
-```
-This probability vector is what feeds the entropy calculation.
-
----
-
-## Defense Talking Point
-
-"Shannon entropy maps provide the jury with spatial honesty about where our model is confident and where it isn't. Rather than presenting a single classification map as if every pixel were equally reliable, we communicate uncertainty spatially — which is the scientifically rigorous approach."
-
----
-
-## Related Concepts
-- [[Machine Learning for Hyperspectral]]
-- [[Spatially Constrained Cross-Validation]]
-- [[PRISMA Satellite]]
-- [[Hyperspectral Imaging]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md (~587 words)
-================================================================================
----
-tags:
-- ch2
-- concept
-- method
-- statistics
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Spatially Constrained Cross-Validation
-
-## The Problem: Spatial Autocorrelation in Remote Sensing ML
-
-In remote sensing, nearby pixels are spatially correlated — they share similar spectra because they share similar materials, illumination, and atmospheric conditions. Standard k-fold CV randomly assigns pixels to train/test splits, meaning:
-- A pixel at location (x, y) may be in the test set
-- Its neighbor at (x+30m, y) is likely in the training set
-- The model "cheats" by learning from the neighbor → inflated performance
-
-**Tobler's First Law of Geography:** "Everything is related to everything else, but near things are more related than distant things."
-
----
-
-## Abdelhak's Solution: Spatial CV with Buffer (Chapter 2)
-
-```
-For each test sample:
-  Exclude all training samples within 30m buffer
-  (= 1 pixel at 30m PRISMA/EnMAP resolution)
-
-Result:
-  Test pixels have no direct spatial neighbors in training
-  Evaluation is honest about generalization to new locations
-```
-
-**Parameters (from thesis manuscript):**
-- Buffer: 30m (= 1 PRISMA pixel)
-- CV replicates: 10 independent replicates of the 127-sample dataset
-- Metric: BAC (Balanced Accuracy) — handles class imbalance
-- Additional: Spatially blocked CV for Chapter 3 (EnMAP)
-
----
-
-## Chapter 2 Accuracy (from manuscript — single source of truth)
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **BAC (best classifiers)** | **0.60–0.67** | Extra Trees, Random Forest |
-| **AUC (carbonate classes)** | **> 0.95** | Marl, Limestone |
-| AUC (Phosphate, Siliceous) | Lower | Spectral overlap at 30m |
-| Spatially independent samples | 127 | After removing 80 shared-pixel duplicates |
-
-The thesis manuscript states explicitly:
-> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
-
----
-
-## Chapter 3: Spatially Blocked Cross-Validation (EnMAP)
-
-Chapter 3 uses a different, even more conservative spatial validation:
-- Elastic-net logistic regression on 32 balanced pixels per zone
-- **4 spatial groups** + **25 random CV repeats** + **500 permutation replicates**
-- Result: **BAC = 0.984 ± 0.031; AUC = 1.000**
-- Empirical permutation p = 0.002
-
-This near-perfect result (Ch.3) reflects the much stronger spectral separation between RZ and RWR zones under backfilling — NOT overfitting, confirmed by permutation test and spatial blocking.
-
----
-
-## Why This Matters for Defense
-
-"Why is your Ch.2 accuracy only 0.60–0.67?"
-
-> "This is the honest, spatially-aware accuracy. Spatial CV (30m buffer, 10 replicates) prevents autocorrelation from inflating the metric. The 0.60–0.67 BAC represents true generalization performance at new, spatially isolated locations. For geological mapping with 30m pixels and spatially clustered training data, this is the realistic ceiling — the thesis itself states this is a 'physically constrained upper bound' on what any classifier can achieve given sub-pixel mixing. Marl and Limestone, which are spectrally distinct, achieve AUC > 0.95. The lower discrimination is in the Phosphate vs. Siliceous facies, which overlap at 30m scale."
-
----
-
-## Literature Support
-- Roberts et al. (2017) — spatial CV for remote sensing
-- Ploton et al. (2020) — spatial CV for forest mapping
-- Karasiak et al. (2022) — spatial autocorrelation in ML
-- Meyer & Pebesma (2021) — "Predicting into unknown space"
-
----
-
-## Related Concepts
-- [[Machine Learning for Hyperspectral]]
-- [[PRISMA Satellite]]
-- [[EnMAP Satellite]]
-- [[Shannon Entropy Uncertainty]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md (~276 words)
-================================================================================
----
-tags:
-- concept
-- spectral-analysis
-- topic/wiki-concept
-- wiki
-- wiki-concept
-created: '2026-06-07'
-generated_by: claude
-summary: "Spectral analysis methods used in hyperspectral remote sensing \u2014 library\
-  \ matching, unmixing, classification."
-type: concept-note
-status: seed
----
-
-# Spectral Analysis
-
-Quantitative analysis of electromagnetic reflectance spectra to identify and characterize materials based on their spectral signatures.
-
-## Core Methods (used in Abdelhak's Thesis)
-
-### Library Matching
-- Compare measured spectra to reference libraries (ECOSTRESS, USGS splib07)
-- Metrics: RMSE, SAM (Spectral Angle Mapper), SID (Spectral Information Divergence), R²
-- Used in Ch.1 (field spectra) and Ch.2 (PRISMA)
-
-### Spectral Unmixing
-- Decompose a mixed pixel into endmember fractional abundances
-- Methods: VCA (Vertex Component Analysis) for endmember extraction, FCLS (Fully Constrained Least Squares) for abundance mapping
-- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]]
-
-### Continuum Removal
-- Normalizes spectra to highlight absorption features
-- Convex hull algorithm isolates relative band depths
-- Standard pre-processing step before library matching
-
-## Key Spectral Features for Phosphate Mineralogy
-
-| Wavelength | Feature | Mineral |
-|-----------|---------|---------|
-| ~2150 nm | PO₄ stretch (weak) | Fluorapatite |
-| ~2200–2208 nm | Al-OH (sharp) | Illite/Muscovite |
-| ~2165 + 2200 nm doublet | Al-OH | Kaolinite |
-| ~2320–2350 nm | CO₃ | Dolomite/Calcite |
-| ~500–900 nm | Fe³⁺ | Goethite, Hematite |
-
-## Sensors Used
-
-- **Field:** ASD FieldSpec 4 (350–2500 nm, 1 nm sampling)
-- **Satellite Ch.2:** [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] (~250 bands, 30m)
-- **Satellite Ch.3:** [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] (189 valid bands, 30m)
-
-## Related
-
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
-- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md (~525 words)
-================================================================================
----
-tags:
-- concept
-- method
-- spectroscopy
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Spectral Library Matching
-
-## Definition
-Spectral library matching identifies the mineralogy of an unknown spectrum by comparing it against a reference library of known mineral spectra. For each candidate mineral, a similarity metric (or composite of metrics) is computed; the mineral with the best score is assigned as the match.
-
----
-
-## Libraries Used in Abdelhak's Thesis
-
-### ECOSTRESS Spectral Library (splib07)
-- Maintained by USGS / JPL
-- ~2,400+ spectra across minerals, vegetation, man-made materials
-- For Benguerir work: 1,609 spectra parsed; 15 curated for phosphate waste rock minerals
-- URL: Available via USGS/EROS
-- Key minerals present: Calcite, Dolomite, Illite, Montmorillonite, Kaolinite, Quartz, Apatite Ca₅(PO₄)₃F
-- Key **absence**: Fluorapatite/francolite (francolite = carbonate fluorapatite, dominant phosphate in Benguerir) → known limitation
-
----
-
-## Metrics
-
-### RMSE (Root Mean Square Error)
-```
-RMSE = √(mean((a−b)²))
-```
-- Overall shape similarity
-- Sensitive to baseline offset differences
-- In thesis: weighted 5× in 2100–2300 nm (PO₄ window)
-
-### SAM (Spectral Angle Mapper)
-```
-SAM = arccos(a·b / (‖a‖ × ‖b‖))
-```
-- Measures angle between spectra in N-dimensional space
-- Insensitive to illumination scaling (brightness-invariant)
-- Result in radians; lower = more similar
-
-### SID (Spectral Information Divergence)
-```
-SID = Σ p(i)·log(p(i)/q(i)) + Σ q(i)·log(q(i)/p(i))
-```
-- Treats spectra as probability distributions (KL divergence, symmetric)
-- Sensitive to subtle shape differences
-- Complementary to SAM
-
-### R² (Coefficient of Determination)
-```
-R² = 1 − SSres/SStot
-```
-- How well the reference explains the unknown spectrum's variance
-- R² near 1 = excellent fit
-
-### Composite Score (in thesis Ch.1)
-```
-score = RMSE + SAM + SID
-```
-- Combined ranking; rank-1 = minimum composite score
-- Top 5–8 matches reported per sample
-
----
-
-## Preprocessing Before Matching
-1. Resampling to common wavelength grid (350–2500 nm, 1 nm step)
-2. Savitzky-Golay smoothing (window=7, poly=2)
-3. Min-max normalization: (x − min) / range
-4. Optional: continuum removal, derivative
-5. Convert ECOSTRESS percent reflectance → fraction (÷100)
-
----
-
-## Challenges for Phosphate Waste Rocks
-
-**Problem: Clay masking of apatite**
-- Illite and montmorillonite have strong Al-OH absorptions (~2200 nm)
-- Apatite PO₄ absorption (~2150 nm) is weaker
-- After normalization, clay features dominate → apatite ranks 3–7, not 1
-- **Solution:** Use HHXRF to directly measure P₂O₅, bypassing spectral dominance issue
-
-**Problem: Library incompleteness**
-- Francolite (carbonate fluorapatite) — the actual phosphate mineral at Benguerir — absent from ECOSTRESS
-- Only generic "Apatite Ca₅(PO₄)₃F" available
-- **Impact:** Phosphate identification less precise spectrally; confirmed via XRD/XRF
-
----
-
-## Key Results from Thesis Ch.1 (104 samples)
-| Rank | Dominant mineral |
-|------|----------------|
-| 1–2 | Illite, Montmorillonite |
-| 3–4 | Dolomite, Quartz |
-| 5–7 | Apatite, Calcite, Kaolinite |
-
-This distribution is **mineralogically consistent** with phosphate waste rock: clay gangue coats surfaces; carbonates and silica form the matrix; apatite is the economic mineral beneath.
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Hyperspectral Imaging]]
-- [[Mineral Assemblages]]
-- [[Spectral Unmixing VCA-FCLS]]
-
----
-
-*Related: [[04_Knowledge Base/AI-Generated/thesis-ingestion/Spectroscopy Notebook Ingestion|Spectroscopy Notebook Ingestion]]*
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md (~588 words)
-================================================================================
----
-tags:
-- ch1
-- ch3
-- concept
-- method
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# Spectral Unmixing — NNLS, VCA, FCLS
-
-## Problem Statement
-At 30m pixel resolution, each EnMAP or PRISMA pixel contains contributions from multiple minerals (mixed pixel problem). Spectral unmixing decomposes a mixed pixel spectrum into:
-- **Endmembers:** Pure component spectra
-- **Abundances:** Fractional contribution of each endmember (sum-to-one constraint)
-
-**Linear mixing model:**
-```
-r = Σ(a_i × e_i) + ε
-```
-Where r = observed spectrum, a_i = abundances, e_i = endmember spectra, ε = noise
-
----
-
-## Methods Used in Abdelhak's Thesis
-
-### Chapter 1: NNLS (Non-Negative Least Squares)
-- Endmembers from ECOSTRESS spectral library (top-5 rank-1 matches per sample)
-- NNLS finds non-negative abundances minimizing ||r − E·a||²
-- Applied to 104 field samples
-- Provides relative abundance of dolomite, illite, kaolinite, calcite, apatite
-
-### Chapter 3: VCA + FCLS (primary satellite-scale method)
-
-**VCA (Vertex Component Analysis)** — Endmember extraction
-- Assumes endmembers are at the vertices of the spectral simplex
-- PCA reduction → iterative vertex finding
-- Unsupervised — endmembers extracted from data, no library needed
-- **k = 4 endmembers** (primary)
-
-**FCLS (Fully Constrained Least Squares)** — Abundance estimation
-- Minimizes ||r − E·a||² subject to: a_i ≥ 0 AND Σa_i = 1
-- Implementation: NNLS with augmented sum-to-one equation
-- Parallelized via ThreadPoolExecutor
-
----
-
-## Key Ch.3 Results (from thesis manuscript)
-
-| Endmember | Dominant zone | RWR mean abundance | RZ mean abundance | Δ (RZ−RWR) |
-|-----------|--------------|-------------------|-----------------|-----------|
-| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | −0.559 |
-| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | +0.484 |
-
-Bootstrap (5,000 iterations): 95% CI excludes zero for both EM3 and EM4.
-
-**Spatially blocked CV:** BAC = 0.984 ± 0.031; AUC = 1.000
-
----
-
-## Ch.3 Band Configuration
-
-From the manuscript (not from the Python script — manuscript is source of truth):
-
-| Band category | Wavelength range | Action |
-|--------------|----------------|--------|
-| Valid bands | **189 bands, 418–2445 nm** | Retained |
-| Detector overlap | 1342–1391 nm | Masked |
-| Water vapor A | 1350–1450 nm | Masked |
-| Water vapor B | 1800–1950 nm | Masked |
-| Below valid fraction | Various | Masked |
-
----
-
-## VCA Algorithm
-
-```
-1. Mean-center spectra: R_c = R - mean(R)
-2. SVD: U, S, V = svd(R_c)
-3. Project to k-dimensional subspace: R_w = U[:, :k] × S[:k]
-4. Iterative vertex finding (k iterations):
-   - Random vector w
-   - Orthogonalize against current endmember set
-   - k = argmax|R_w · f|
-   - Add to endmember set
-```
-
----
-
-## FCLS Implementation
-
-```python
-# Augmented system: adds sum-to-one as an additional equation
-A_aug = vstack([endmember_matrix.T, scale × ones])
-b_aug = hstack([pixel, scale])  # scale = 1000.0
-abundances, _ = nnls(A_aug, b_aug)
-abundances = abundances / abundances.sum()  # renormalize
-```
-
----
-
-## Linear Mixing Assumption — Limitation
-Real-world mixing is often non-linear (intimate mixtures, multiple scattering). The thesis acknowledges this:
-> "Structured residuals in the 2150–2300 nm region for samples with overlapping clay-carbonate signatures are flagged as cases requiring qualitative rather than quantitative interpretation."
-
-Linear mixing is used because at 30m satellite pixels, areal (checkerboard) mixing dominates — each component reflects independently. This is the standard model for geological remote sensing at this scale.
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[VNIR-SWIR Spectroscopy]]
-- [[EnMAP Satellite]]
-- [[Reclamation Monitoring]]
-- [[Reclamation Progress Index]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md (~540 words)
-================================================================================
----
-tags:
-- ch1
-- concept
-- spectroscopy
-- topic/wiki-concept
-- wiki
-- wiki-concept
-updated: 2026-05-24
-generated_by: claude
-type: concept-note
-status: seed
-created: '2026-05-24'
----
-
-# VNIR-SWIR Spectroscopy
-
-## Definition
-Visible/Near-Infrared + Shortwave Infrared spectroscopy (VNIR-SWIR) covers 350–2500 nm. Combined with handheld XRF (HHXRF), it forms the core analytical approach of Chapter 1 of Abdelhak's thesis for field characterization of phosphate mine waste.
-
-**Chapter 1 title:** "Integrating VNIR–SWIR Spectroscopy and Handheld XRF for Enhanced Mineralogical Characterization of Phosphate Mine Waste Rocks in Benguerir"  
-**Published:** Sensors (IF 3.5), Dec 2025, doi:10.3390/s26010002
-
----
-
-## Physical Basis
-
-Spectral features in the VNIR-SWIR arise from two processes:
-
-### Electronic transitions (VNIR, 400–1000 nm)
-- **Fe2+/Fe3+ electronic transitions** → broad absorptions at 500 nm, 680 nm, 900 nm
-- Diagnostic for iron oxides: hematite (α-Fe₂O₃), goethite (α-FeOOH)
-- Present in phosphate waste due to oxidized gangue
-
-### Molecular vibrations (SWIR, 1000–2500 nm)
-- **Overtones and combination tones** of fundamental molecular bonds
-- OH⁻ stretch → ~1400 nm, ~1900 nm (clays, hydroxyl minerals)
-- CO₃ combination → ~2320 nm (carbonates)
-- Al-OH combination → ~2200 nm (kaolinite, illite)
-- Mg-OH combination → ~2330 nm (dolomite, chlorite)
-- PO₄ overtone → ~2150 nm (apatite, fluorapatite) — weak but diagnostic
-
----
-
-## Chapter 1 Workflow
-
-```
-104 field samples (ASD FieldSpec 4, 350–2500nm)
-     ↓
-Preprocessing: resampling → 1nm common grid → normalization
-     ↓
-Spectral library matching (ECOSTRESS splib07)
-     Metrics: RMSE, SAM, SID, R² → composite score
-     ↓
-Best-match mineral identification (rank 1–8)
-     ↓
-NNLS spectral unmixing (endmember abundances)
-     ↓
-Integration with HHXRF (elemental chemistry)
-     Results: CaO, SiO2, P2O5, Fe2O3, Al2O3, MgO, K2O, etc.
-     ↓
-Cross-validation with XRD (mineralogy)
-```
-
----
-
-## ECOSTRESS Spectral Library (splib07)
-- ~1,609 spectra total; 15 curated for Benguerir target minerals
-- **Key finding:** Fluorapatite/francolite underrepresented → apatite at rank 3–7, not rank 1
-- Dominant rank-1 matches: Illite, Montmorillonite (clays absorb more strongly than apatite in VNIR-SWIR)
-- This is physically correct: clay surface coatings dominate spectral response; apatite detected beneath clay signal via unmixing + XRF confirmation
-
----
-
-## Matching Metrics
-
-| Metric | Formula | Good value |
-|--------|---------|-----------|
-| RMSE | √(mean((a−b)²)) | Low |
-| SAM | arccos(a·b / ‖a‖‖b‖) | Low (radians) |
-| SID | KL divergence (symmetric) | Low |
-| R² | 1 − SSres/SStot | High |
-| Composite score | RMSE + SAM + SID | Low |
-
-**Phosphate weighting:** RMSE is weighted 5× in the 2100–2300 nm window to emphasize PO₄ diagnostic region.
-
----
-
-## ASD FieldSpec 4 Specifications
-- Range: 350–2500 nm
-- Sampling interval: 1.4 nm (VNIR), 2 nm (SWIR)
-- FWHM: 3 nm (VNIR), 6–10 nm (SWIR)
-- Field of view: ~25° FOV contact probe
-- Calibration: BaSO₄ Spectralon white reference panel before each measurement
-
----
-
-## Key Results (Thesis Ch.1)
-- 104 samples from Benguerir waste rock piles (managed + unmanaged zones)
-- Dominant minerals identified: illite > dolomite > calcite > kaolinite > apatite
-- Clay minerals dominate spectral response → consistent with phosphate gangue mineralogy
-- HHXRF validated: P₂O₅ content correlates with apatite abundance from unmixing
-- Combined VNIR-SWIR + HHXRF outperforms either method alone
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[Spectral Library Matching]]
-- [[Handheld XRF]]
-- [[Mineral Assemblages]]
-- [[Phosphate Mine Waste]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md (~224 words)
-================================================================================
----
-tags:
-- concept
-- topic/wiki-concept
-- waste-rock
-- wiki
-- wiki-concept
-created: '2026-06-07'
-generated_by: claude
-summary: "Mine waste rock characterization \u2014 mineralogy, spectral properties,\
-  \ and monitoring at Benguerir."
-type: concept-note
-status: seed
----
-
-# Waste Rock Characterization
-
-The process of identifying and quantifying the mineralogical, geochemical, and physical properties of excavated non-ore material from mining operations.
-
-## Context (Benguerir, Morocco)
-
-At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]), waste rock piles (WRP) require characterization to:
-- Assess environmental risk (leaching, dust, ARD potential)
-- Identify valorization potential (residual phosphate, carbonates)
-- Design reclamation and revegetation strategies
-
-## Key Mineral Classes (from Thesis Ch.1)
-
-| Class | Dominant Minerals | Spectral Signature |
-|-------|------------------|-------------------|
-| Carbonates | Dolomite, Calcite | ~2320–2350 nm |
-| Clays | Illite, Kaolinite, Smectite | Al-OH ~2200 nm |
-| Phosphates | Fluorapatite, Francolite | PO₄ ~2150 nm (weak) |
-| Silicates | Quartz | Featureless SWIR |
-
-## Methods Used in Abdelhak's Thesis
-
-- **Field spectroscopy** (ASD FieldSpec 4, 350–2500 nm) + ECOSTRESS library matching → Ch.1
-- **Handheld XRF** (Niton XL5) for elemental geochemistry → Ch.1
-- **PRISMA satellite** (30m) classification → Ch.2
-- **EnMAP satellite** spectral unmixing → Ch.3
-
-## Related
-
-- [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste]]
-- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
-- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~468 words)
-================================================================================
----
-tags:
-- entity
-- geology
-- morocco
-- topic/wiki-entity
-- wiki
-- wiki-entity
-updated: 2026-05-24
-generated_by: claude
-type: entity-note
-status: seed
-created: '2026-05-24'
----
-
-# Gantour Basin
-
-## Overview
-The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
-
----
-
-## Geography
-
-| Parameter | Value |
-|-----------|-------|
-| Location | Central Morocco, Marrakech-Safi region |
-| Approximate coordinates | ~32°N, ~7.5–8°W |
-| Area | ~1,600 km² (basin extent) |
-| Key city | Benguerir (study site) |
-| Distance from Marrakech | ~70 km north |
-
----
-
-## Geological Setting
-
-**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
-
-**Stratigraphy (simplified):**
-```
-Top: Quaternary alluvium + lacustrine deposits
-     └─ Eocene marls and limestones
-     └─ Paleocene phosphate layers (economic horizon)
-          ├─ Phosphate series: francolite in marl/limestone matrix
-          ├─ Interbedded clays (illite, smectite)
-          └─ Carbonate-rich beds (calcite, dolomite)
-Bottom: Cretaceous basement
-```
-
-**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
-
----
-
-## Mineralogy of the Deposit
-
-The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
-
-| Component | Role |
-|-----------|------|
-| Francolite | Economic phosphate mineral (ore) |
-| Calcite/dolomite | Carbonate gangue |
-| Illite/smectite | Clay gangue |
-| Quartz | Silica gangue |
-| Iron oxides | Accessory weathering products |
-
----
-
-## Mining at Benguerir
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group (Office Chérifien des Phosphates) |
-| Mining method | Open-pit, strip mining |
-| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
-| Annual ore production | ~4 Mt/year (approx.) |
-| Annual waste generation | ~12.3 Mt/year |
-| Mine area (thesis study zone) | ~36 km² |
-
-**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
-
----
-
-## Environmental Significance
-
-1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
-2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
-3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
-4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
-
----
-
-## Morocco's Strategic Role
-Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
-
----
-
-## Related Concepts
-- [[OCP Group and Benguerir Mine]]
-- [[Phosphate Mine Waste]]
-- [[Mineral Assemblages]]
-- [[Reclamation Monitoring]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~302 words)
-================================================================================
----
-tags:
-- Morocco
-- OCP
-- entity
-- institution
-- mining
-- phosphate
-- topic/wiki-entity
-- wiki-entity
-updated: 2026-05-24
-generated_by: claude
-type: institution
-status: seed
-created: '2026-06-08'
----
-
-# OCP Group & Benguerir Mine
-
-## OCP Group
-- **Full name:** Office Chérifien des Phosphates (OCP Group)
-- **Headquarters:** Casablanca, Morocco
-- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
-- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
-
-## Benguerir Mine
-- **Location:** Benguerir, Marrakech-Safi region, Morocco
-- **Type:** Open-pit phosphate mine
-- **Context:** Active phosphate extraction generating large waste rock dumps
-- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
-
-## Why This Site?
-1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
-2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
-3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
-4. Environmental importance — waste rock management is an OCP priority
-5. Data access — UM6P-OCP relationship facilitates ground truth collection
-
-## Phosphate Mineralogy at Benguerir
-Key minerals to characterize:
-- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
-- **Carbonates:** calcite, dolomite (buffering capacity)
-- **Clay minerals:** kaolinite, smectite, illite
-- **Iron minerals:** goethite, hematite (AMD indicator)
-- **Accessory:** quartz, feldspar
-
-## Reclamation Context
-OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
-Abdelhak's thesis monitors this process using PRISMA time series.
-
-## Related Pages
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- UM6P (entity note not yet created)
-
-## Potential Industry Application
-OCP Group is a natural client for remote sensing consulting post-defense.  
-→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
