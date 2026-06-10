@@ -317,7 +317,7 @@ Money is being solved NOW, not after defense. Multiple streams running in parall
 ## Publications
 - **Published (4):** Sensors 2025 (Ch.1) · IJEST 2024 · Mining 2023 · BDJ 2023
 - **Pipeline:** Minerals (Ch.2, accepted 2026 ✅) · Ch.3 (pending submission post-defense)
-- **Conferences:** EGU 2025 · EARSeL 2024 (Valencia) · ESPC6 2026 (UM6P, [[02_Academic & Work/work/active/ESPC6 Submission/Email – ESPC6 Abstract Submission.md|abstract submitted]])
+- **Conferences:** EGU 2025 · EARSeL 2024 (Valencia) · ESPC6 2026 (UM6P, [[02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission|abstract submitted]])
 
 ---
 
