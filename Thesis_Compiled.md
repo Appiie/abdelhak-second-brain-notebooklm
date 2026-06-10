@@ -128,7 +128,7 @@ if (clips.length > 0) {
 | 📥 **Clips** | [[01_System/clips/Clips Dashboard\|All web clips]] |
 | 🧠 **North Star** | [[03_Digital Life/brain/North Star\|Who you are]] |
 | 📚 **Wiki** | [[04_Knowledge Base/wiki/index\|Knowledge base]] |
-| ⚙️ **Blueprints (v5)** | [[VAULT_ARCHITECTURE_v5\|Architecture v5]] · [[AGENT_SYSTEM_v5\|Agent System v5]] · [[INTEGRATIONS_v5\|Integrations v5]] · [[ADVANCED_INTELLIGENCE_v5\|Intelligence v5]] · [[PIPELINE_v5\|Pipeline v5]] · [[ROADMAP_v5\|Roadmap v5]] |
+| ⚙️ **Blueprints (v5)** | [[VAULT_ARCHITECTURE_v5|Architecture v5]] · [[MCP_CONNECTED_AGENTS_v5|Agents v5]] · [[EXTERNAL_MCP_INTEGRATIONS_v5|Integrations v5]] · [[CLOUD_SMARTNESS_v5|Cloud Smartness v5]] · [[PIPELINE_v5|Pipeline v5]] · [[ROADMAP_v5|Roadmap v5]] |
 
 ---
 
