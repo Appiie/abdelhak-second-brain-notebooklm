@@ -16,13 +16,13 @@ FILE: 04_Knowledge Base/wiki/Flashcards — Research Concepts.md (~1604 words)
 ================================================================================
 ---
 tags:
-- flashcards
-- hyperspectral
-- remote-sensing
-- research
-- system
-- thesis
-- topic/system
+  - flashcards
+  - hyperspectral
+  - remote-sensing
+  - research
+  - system
+  - thesis
+  - topic/system
 generated_by: claude
 date: 2026-06-07
 type: system-note
@@ -171,16 +171,22 @@ What is "backfilling" in mine reclamation?::Covering raw waste rock with overbur
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - A-C.md (~830 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - A-C.md (~837 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-10
-tags: [wiki, literature, moc, topic/wiki-concept, range-a-c]
+tags:
+  - literature
+  - moc
+  - range-a-c
+  - system
+  - topic/system
+  - topic/wiki-concept
 type: concept-note
 status: active
 created: '2026-06-10'
-summary: "Sub-MOC for literature sources in alphabetical range A-C."
+summary: Sub-MOC for literature sources in alphabetical range A-C.
 ---
 
 # 📚 Literature Index (A-C)
@@ -254,16 +260,22 @@ summary: "Sub-MOC for literature sources in alphabetical range A-C."
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - C-H.md (~829 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - C-H.md (~836 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-10
-tags: [wiki, literature, moc, topic/wiki-concept, range-c-h]
+tags:
+  - literature
+  - moc
+  - range-c-h
+  - system
+  - topic/system
+  - topic/wiki-concept
 type: concept-note
 status: active
 created: '2026-06-10'
-summary: "Sub-MOC for literature sources in alphabetical range C-H."
+summary: Sub-MOC for literature sources in alphabetical range C-H.
 ---
 
 # 📚 Literature Index (C-H)
@@ -337,16 +349,22 @@ summary: "Sub-MOC for literature sources in alphabetical range C-H."
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - H-M.md (~818 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - H-M.md (~825 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-10
-tags: [wiki, literature, moc, topic/wiki-concept, range-h-m]
+tags:
+  - literature
+  - moc
+  - range-h-m
+  - system
+  - topic/system
+  - topic/wiki-concept
 type: concept-note
 status: active
 created: '2026-06-10'
-summary: "Sub-MOC for literature sources in alphabetical range H-M."
+summary: Sub-MOC for literature sources in alphabetical range H-M.
 ---
 
 # 📚 Literature Index (H-M)
@@ -420,16 +438,22 @@ summary: "Sub-MOC for literature sources in alphabetical range H-M."
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - M-R.md (~720 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - M-R.md (~727 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-10
-tags: [wiki, literature, moc, topic/wiki-concept, range-m-r]
+tags:
+  - literature
+  - moc
+  - range-m-r
+  - system
+  - topic/system
+  - topic/wiki-concept
 type: concept-note
 status: active
 created: '2026-06-10'
-summary: "Sub-MOC for literature sources in alphabetical range M-R."
+summary: Sub-MOC for literature sources in alphabetical range M-R.
 ---
 
 # 📚 Literature Index (M-R)
@@ -503,16 +527,22 @@ summary: "Sub-MOC for literature sources in alphabetical range M-R."
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - R-Z.md (~841 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - R-Z.md (~848 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-10
-tags: [wiki, literature, moc, topic/wiki-concept, range-r-z]
+tags:
+  - literature
+  - moc
+  - range-r-z
+  - system
+  - topic/system
+  - topic/wiki-concept
 type: concept-note
 status: active
 created: '2026-06-10'
-summary: "Sub-MOC for literature sources in alphabetical range R-Z."
+summary: Sub-MOC for literature sources in alphabetical range R-Z.
 ---
 
 # 📚 Literature Index (R-Z)
@@ -588,16 +618,22 @@ summary: "Sub-MOC for literature sources in alphabetical range R-Z."
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC.md (~135 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC.md (~141 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-10
-tags: [wiki, literature, moc, topic/wiki-concept]
+tags:
+  - literature
+  - moc
+  - system
+  - topic/system
+  - topic/wiki-concept
 type: concept-note
 status: active
 created: '2026-06-10'
-summary: "Master Literature Map of Content (MOC) linking to alphabetical sub-MOCs for a clean, clustered graph layout."
+summary: Master Literature Map of Content (MOC) linking to alphabetical sub-MOCs for
+  a clean, clustered graph layout.
 ---
 
 # 📚 Literature Map of Content (MOC)
@@ -624,10 +660,10 @@ FILE: 04_Knowledge Base/wiki/hot.md (~717 words)
 ================================================================================
 ---
 tags:
-- hot-cache
-- system
-- topic/system
-- wiki
+  - hot-cache
+  - system
+  - topic/system
+  - wiki
 updated: 2026-06-08
 generated_by: claude
 type: system-note
@@ -720,10 +756,10 @@ FILE: 04_Knowledge Base/wiki/index.md (~696 words)
 ================================================================================
 ---
 tags:
-- index
-- system
-- topic/system
-- wiki
+  - index
+  - system
+  - topic/system
+  - wiki
 updated: 2026-05-24
 generated_by: claude
 type: system-note
@@ -844,188 +880,11 @@ created: '2026-05-24'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~468 words)
+FILE: 04_Knowledge Base/wiki/sources/BoardmanJWKruse.md (~66 words)
 ================================================================================
 ---
 tags:
-- entity
-- geology
-- morocco
-- topic/wiki-entity
-- wiki
-- wiki-entity
-updated: 2026-05-24
-generated_by: claude
-type: entity-note
-status: seed
-created: '2026-05-24'
----
-
-# Gantour Basin
-
-## Overview
-The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
-
----
-
-## Geography
-
-| Parameter | Value |
-|-----------|-------|
-| Location | Central Morocco, Marrakech-Safi region |
-| Approximate coordinates | ~32°N, ~7.5–8°W |
-| Area | ~1,600 km² (basin extent) |
-| Key city | Benguerir (study site) |
-| Distance from Marrakech | ~70 km north |
-
----
-
-## Geological Setting
-
-**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
-
-**Stratigraphy (simplified):**
-```
-Top: Quaternary alluvium + lacustrine deposits
-     └─ Eocene marls and limestones
-     └─ Paleocene phosphate layers (economic horizon)
-          ├─ Phosphate series: francolite in marl/limestone matrix
-          ├─ Interbedded clays (illite, smectite)
-          └─ Carbonate-rich beds (calcite, dolomite)
-Bottom: Cretaceous basement
-```
-
-**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
-
----
-
-## Mineralogy of the Deposit
-
-The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
-
-| Component | Role |
-|-----------|------|
-| Francolite | Economic phosphate mineral (ore) |
-| Calcite/dolomite | Carbonate gangue |
-| Illite/smectite | Clay gangue |
-| Quartz | Silica gangue |
-| Iron oxides | Accessory weathering products |
-
----
-
-## Mining at Benguerir
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group (Office Chérifien des Phosphates) |
-| Mining method | Open-pit, strip mining |
-| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
-| Annual ore production | ~4 Mt/year (approx.) |
-| Annual waste generation | ~12.3 Mt/year |
-| Mine area (thesis study zone) | ~36 km² |
-
-**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
-
----
-
-## Environmental Significance
-
-1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
-2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
-3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
-4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
-
----
-
-## Morocco's Strategic Role
-Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
-
----
-
-## Related Concepts
-- [[OCP Group and Benguerir Mine]]
-- [[Phosphate Mine Waste]]
-- [[Mineral Assemblages]]
-- [[Reclamation Monitoring]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~302 words)
-================================================================================
----
-tags:
-- Morocco
-- OCP
-- entity
-- institution
-- mining
-- phosphate
-- topic/wiki-entity
-- wiki-entity
-updated: 2026-05-24
-generated_by: claude
-type: institution
-status: seed
-created: '2026-06-08'
----
-
-# OCP Group & Benguerir Mine
-
-## OCP Group
-- **Full name:** Office Chérifien des Phosphates (OCP Group)
-- **Headquarters:** Casablanca, Morocco
-- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
-- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
-
-## Benguerir Mine
-- **Location:** Benguerir, Marrakech-Safi region, Morocco
-- **Type:** Open-pit phosphate mine
-- **Context:** Active phosphate extraction generating large waste rock dumps
-- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
-
-## Why This Site?
-1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
-2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
-3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
-4. Environmental importance — waste rock management is an OCP priority
-5. Data access — UM6P-OCP relationship facilitates ground truth collection
-
-## Phosphate Mineralogy at Benguerir
-Key minerals to characterize:
-- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
-- **Carbonates:** calcite, dolomite (buffering capacity)
-- **Clay minerals:** kaolinite, smectite, illite
-- **Iron minerals:** goethite, hematite (AMD indicator)
-- **Accessory:** quartz, feldspar
-
-## Reclamation Context
-OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
-Abdelhak's thesis monitors this process using PRISMA time series.
-
-## Related Pages
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- UM6P (entity note not yet created)
-
-## Potential Industry Application
-OCP Group is a natural client for remote sensing consulting post-defense.  
-→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/sources/BoardmanJWKruse.md (~72 words)
-================================================================================
----
-tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: BoardmanJWKruse
 year: Unknown Year
 authors: Unknown Authors
@@ -1053,14 +912,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/DataProductsQuality.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/DataProductsQuality.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: DataProductsQuality
 year: Unknown Year
 authors: Unknown Authors
@@ -1088,14 +944,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/DataSeries2017.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/DataSeries2017.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: DataSeries2017
 year: Unknown Year
 authors: Unknown Authors
@@ -1123,14 +976,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/DataSeries2017a.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/DataSeries2017a.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: DataSeries2017a
 year: Unknown Year
 authors: Unknown Authors
@@ -1158,14 +1008,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/DataSeries2017b.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/DataSeries2017b.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: DataSeries2017b
 year: Unknown Year
 authors: Unknown Authors
@@ -1193,14 +1040,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/EditorialSpecialIssue.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/EditorialSpecialIssue.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: EditorialSpecialIssue
 year: Unknown Year
 authors: Unknown Authors
@@ -1228,14 +1072,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/EnMAPSpaceborneImaging.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/EnMAPSpaceborneImaging.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: EnMAPSpaceborneImaging
 year: Unknown Year
 authors: Unknown Authors
@@ -1263,14 +1104,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: HandheldXrayFluorescence2019
 year: Unknown Year
 authors: Unknown Authors
@@ -1298,14 +1136,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019a.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019a.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: HandheldXrayFluorescence2019a
 year: Unknown Year
 authors: Unknown Authors
@@ -1333,14 +1168,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/HyperspectralRemoteSensing.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/HyperspectralRemoteSensing.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: HyperspectralRemoteSensing
 year: Unknown Year
 authors: Unknown Authors
@@ -1368,14 +1200,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ImagingSpectrometryEarth.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/ImagingSpectrometryEarth.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ImagingSpectrometryEarth
 year: Unknown Year
 authors: Unknown Authors
@@ -1403,14 +1232,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/InterlayersGeoenvironmentalAssessment.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/InterlayersGeoenvironmentalAssessment.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: InterlayersGeoenvironmentalAssessment
 year: Unknown Year
 authors: Unknown Authors
@@ -1438,14 +1264,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MappingHyperspectralAVIRIS.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/MappingHyperspectralAVIRIS.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MappingHyperspectralAVIRIS
 year: Unknown Year
 authors: Unknown Authors
@@ -1473,14 +1296,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineWastesCharacterization.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/MineWastesCharacterization.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineWastesCharacterization
 year: Unknown Year
 authors: Unknown Authors
@@ -1508,14 +1328,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries
 year: Unknown Year
 authors: Unknown Authors
@@ -1543,14 +1360,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2021.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2021.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2021
 year: Unknown Year
 authors: Unknown Authors
@@ -1578,14 +1392,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2023.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2023.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2023
 year: Unknown Year
 authors: Unknown Authors
@@ -1613,14 +1424,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2023a.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2023a.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2023a
 year: Unknown Year
 authors: Unknown Authors
@@ -1648,14 +1456,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2025
 year: Unknown Year
 authors: Unknown Authors
@@ -1683,14 +1488,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025a.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025a.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2025a
 year: Unknown Year
 authors: Unknown Authors
@@ -1718,14 +1520,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025b.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025b.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2025b
 year: Unknown Year
 authors: Unknown Authors
@@ -1753,14 +1552,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025c.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025c.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2025c
 year: Unknown Year
 authors: Unknown Authors
@@ -1788,14 +1584,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025d.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025d.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2025d
 year: Unknown Year
 authors: Unknown Authors
@@ -1823,14 +1616,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025e.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025e.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MineralCommoditySummaries2025e
 year: Unknown Year
 authors: Unknown Authors
@@ -1858,14 +1648,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/MitigatingSoilContamination2018.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/MitigatingSoilContamination2018.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: MitigatingSoilContamination2018
 year: Unknown Year
 authors: Unknown Authors
@@ -1893,14 +1680,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/OCPSustainabilityIntegrated2021.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/OCPSustainabilityIntegrated2021.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: OCPSustainabilityIntegrated2021
 year: Unknown Year
 authors: Unknown Authors
@@ -1928,14 +1712,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/OpenFileReport2002.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/OpenFileReport2002.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: OpenFileReport2002
 year: Unknown Year
 authors: Unknown Authors
@@ -1963,14 +1744,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/OpenFileReport2002a.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/OpenFileReport2002a.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: OpenFileReport2002a
 year: Unknown Year
 authors: Unknown Authors
@@ -1998,14 +1776,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ProgressGeoenvironmentalModels2002.md (~79 words)
+FILE: 04_Knowledge Base/wiki/sources/ProgressGeoenvironmentalModels2002.md (~73 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ProgressGeoenvironmentalModels2002
 year: Unknown Year
 authors: Unknown Authors
@@ -2033,14 +1808,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/SpectralReflectanceCarbonate.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/SpectralReflectanceCarbonate.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: SpectralReflectanceCarbonate
 year: Unknown Year
 authors: Unknown Authors
@@ -2068,14 +1840,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/TacklingMineWastes.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/TacklingMineWastes.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: TacklingMineWastes
 year: Unknown Year
 authors: Unknown Authors
@@ -2103,14 +1872,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/UsingPRISMAHyperspectral.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/UsingPRISMAHyperspectral.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: UsingPRISMAHyperspectral
 year: Unknown Year
 authors: Unknown Authors
@@ -2138,14 +1904,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/WorldFertilizerTrends.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/WorldFertilizerTrends.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: WorldFertilizerTrends
 year: Unknown Year
 authors: Unknown Authors
@@ -2173,14 +1936,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/WorldFertilizerTrends2019.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/WorldFertilizerTrends2019.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: WorldFertilizerTrends2019
 year: Unknown Year
 authors: Unknown Authors
@@ -2208,14 +1968,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/abdolmalekiOreWasteDiscriminationUsing2022.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/abdolmalekiOreWasteDiscriminationUsing2022.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: abdolmalekiOreWasteDiscriminationUsing2022
 year: Unknown Year
 authors: Abdolmaleki, Mehdi and Consens, Mariano and Esmaeili, Kamran
@@ -2243,14 +2000,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/achemrkTrackingQuarterCenturySpatioTemporal2026.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/achemrkTrackingQuarterCenturySpatioTemporal2026.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: achemrkTrackingQuarterCenturySpatioTemporal2026
 year: Unknown Year
 authors: Achemrk, Aiman and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay,
@@ -2279,14 +2033,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/acitoAtmosphericCompensationPRISMA2021.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/acitoAtmosphericCompensationPRISMA2021.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: acitoAtmosphericCompensationPRISMA2021
 year: Unknown Year
 authors: Acito, Nicola and Diani, Marco and Procissi, Gregorio and Corsini, Giovanni
@@ -2314,14 +2065,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/acitoAtmosphericCompensationPRISMA2021a.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/acitoAtmosphericCompensationPRISMA2021a.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: acitoAtmosphericCompensationPRISMA2021a
 year: Unknown Year
 authors: Acito, Nicola and Diani, Marco and Procissi, Gregorio and Corsini, Giovanni
@@ -2349,14 +2097,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/agrawalEvaluatingPerformancePRISMA2023.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/agrawalEvaluatingPerformancePRISMA2023.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: agrawalEvaluatingPerformancePRISMA2023
 year: Unknown Year
 authors: Agrawal, Neelam and Govil, Himanshu and Mishra, Gaurav and Gupta, Manika
@@ -2385,14 +2130,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/allowayHeavyMetalsSoils2013.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/allowayHeavyMetalsSoils2013.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: allowayHeavyMetalsSoils2013
 year: Unknown Year
 authors: Unknown Authors
@@ -2420,14 +2162,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/alonsoDataProductsQuality2019.md (~121 words)
+FILE: 04_Knowledge Base/wiki/sources/alonsoDataProductsQuality2019.md (~115 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: alonsoDataProductsQuality2019
 year: Unknown Year
 authors: Alonso, Kevin and Bachmann, Martin and Burch, Kara and Carmona, Emiliano
@@ -2457,14 +2196,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/alvesRevisitingRamanSpectra2023.md (~103 words)
+FILE: 04_Knowledge Base/wiki/sources/alvesRevisitingRamanSpectra2023.md (~97 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: alvesRevisitingRamanSpectra2023
 year: Unknown Year
 authors: Alves, Julliana F. and Edwards, Howell G. M. and Korsakov, Andrey and De
@@ -2493,14 +2229,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/amarMineWasteRock2023.md (~116 words)
+FILE: 04_Knowledge Base/wiki/sources/amarMineWasteRock2023.md (~110 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: amarMineWasteRock2023
 year: Unknown Year
 authors: Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdellatif and Taha, Yassine
@@ -2529,14 +2262,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/amarWasteRockReprocessing2022.md (~107 words)
+FILE: 04_Knowledge Base/wiki/sources/amarWasteRockReprocessing2022.md (~101 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: amarWasteRockReprocessing2022
 year: Unknown Year
 authors: Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdellatif and Hakkou,
@@ -2565,14 +2295,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/amraniValorizationPhosphateMine2019.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/amraniValorizationPhosphateMine2019.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: amraniValorizationPhosphateMine2019
 year: Unknown Year
 authors: Amrani, Mustapha and Taha, Yassine and Kchikach, Azzouz and Benzaazoua, Mostafa
@@ -2601,14 +2328,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/anjjarPhosphateSeriesBenguerir.md (~103 words)
+FILE: 04_Knowledge Base/wiki/sources/anjjarPhosphateSeriesBenguerir.md (~97 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: anjjarPhosphateSeriesBenguerir
 year: Unknown Year
 authors: Anjjar, A and Driouch, Y and Benjelloun, F and Hmeid, H Ait and Alami, A
@@ -2637,14 +2361,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/araujoRecyclingReuseMine2022.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/araujoRecyclingReuseMine2022.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: araujoRecyclingReuseMine2022
 year: Unknown Year
 authors: Araujo, Francisco and Taborda-Llano
@@ -2672,14 +2393,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/aubineauHighlyVariableContent2022.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/aubineauHighlyVariableContent2022.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: aubineauHighlyVariableContent2022
 year: Unknown Year
 authors: Aubineau, J\
@@ -2707,14 +2425,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/aubineauPhosphateD13CorgChemostratigraphy2024.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/aubineauPhosphateD13CorgChemostratigraphy2024.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: aubineauPhosphateD13CorgChemostratigraphy2024
 year: Unknown Year
 authors: Aubineau, J\
@@ -2742,14 +2457,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/audebertDeepLearningClassification2019.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/audebertDeepLearningClassification2019.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: audebertDeepLearningClassification2019
 year: Unknown Year
 authors: Audebert, Nicolas and Le Saux, Bertrand and Lefevre, Sebastien
@@ -2777,14 +2489,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bahhouUsePhosphateMine2021.md (~118 words)
+FILE: 04_Knowledge Base/wiki/sources/bahhouUsePhosphateMine2021.md (~112 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bahhouUsePhosphateMine2021
 year: Unknown Year
 authors: Bahhou, Abdelmoujib and Taha, Yassine and El Khessaimi, Yassine and Idrissi,
@@ -2813,14 +2522,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1972.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1972.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: barlowStatisticalInferenceOrder1972
 year: Unknown Year
 authors: Barlow, R. E.
@@ -2848,14 +2554,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1980.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1980.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: barlowStatisticalInferenceOrder1980
 year: Unknown Year
 authors: Unknown Authors
@@ -2883,14 +2586,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bayoussefUseClaysByproducts2021.md (~122 words)
+FILE: 04_Knowledge Base/wiki/sources/bayoussefUseClaysByproducts2021.md (~116 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bayoussefUseClaysByproducts2021
 year: Unknown Year
 authors: Bayoussef, A. and Loutou, M. and Taha, Y. and Mansori, M. and Benzaazoua,
@@ -2919,14 +2619,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bendorReflectanceMeasurementsSoils2015.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/bendorReflectanceMeasurementsSoils2015.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bendorReflectanceMeasurementsSoils2015
 year: Unknown Year
 authors: Ben Dor, Eyal and Ong, Cindy and Lau, Ian C.
@@ -2954,14 +2651,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bendorReflectanceMeasurementsSoils2015a.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/bendorReflectanceMeasurementsSoils2015a.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bendorReflectanceMeasurementsSoils2015a
 year: Unknown Year
 authors: Ben Dor, Eyal and Ong, Cindy and Lau, Ian C.
@@ -2989,14 +2683,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/benjaminiControllingFalseDiscovery1995.md (~88 words)
+FILE: 04_Knowledge Base/wiki/sources/benjaminiControllingFalseDiscovery1995.md (~82 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: benjaminiControllingFalseDiscovery1995
 year: Unknown Year
 authors: Benjamini, Yoav and Hochberg, Yosef
@@ -3024,14 +2715,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/benjaminiControllingFalseDiscovery1995a.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/benjaminiControllingFalseDiscovery1995a.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: benjaminiControllingFalseDiscovery1995a
 year: Unknown Year
 authors: Benjamini, Yoav and Hochberg, Yosef
@@ -3059,14 +2747,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bioucas-diasHyperspectralUnmixingOverview2012.md (~81 words)
+FILE: 04_Knowledge Base/wiki/sources/bioucas-diasHyperspectralUnmixingOverview2012.md (~75 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bioucas-diasHyperspectralUnmixingOverview2012
 year: Unknown Year
 authors: Bioucas-Dias
@@ -3094,14 +2779,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bishopInfraredSpectroscopicAnalyses1994.md (~83 words)
+FILE: 04_Knowledge Base/wiki/sources/bishopInfraredSpectroscopicAnalyses1994.md (~77 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bishopInfraredSpectroscopicAnalyses1994
 year: Unknown Year
 authors: Bishop, Janice L. and Pieters, Carl\
@@ -3129,14 +2811,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bishopReflectanceEmissionSpectroscopy2008.md (~111 words)
+FILE: 04_Knowledge Base/wiki/sources/bishopReflectanceEmissionSpectroscopy2008.md (~105 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bishopReflectanceEmissionSpectroscopy2008
 year: Unknown Year
 authors: Bishop, J. L. and Lane, M. D. and Dyar, M. D. and Brown, A. J.
@@ -3164,14 +2843,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/boardmanMAPPINGTARGETSIGNATURES.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/boardmanMAPPINGTARGETSIGNATURES.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: boardmanMAPPINGTARGETSIGNATURES
 year: Unknown Year
 authors: Boardman, Joseph and Kruse, F.A. and Green, Robert, O.
@@ -3199,14 +2875,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/boardmanMappingTargetSignatures1995.md (~96 words)
+FILE: 04_Knowledge Base/wiki/sources/boardmanMappingTargetSignatures1995.md (~90 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: boardmanMappingTargetSignatures1995
 year: Unknown Year
 authors: Boardman, Joseph W. and Kruse, Fred A. and Green, Robert O.
@@ -3234,14 +2907,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/boardmanjosephw.AUTOMATINGSPECTRALUNMIXING.md (~81 words)
+FILE: 04_Knowledge Base/wiki/sources/boardmanjosephw.AUTOMATINGSPECTRALUNMIXING.md (~75 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: boardmanjosephw.AUTOMATINGSPECTRALUNMIXING
 year: Unknown Year
 authors: Boardman, Joseph W.
@@ -3269,14 +2939,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bosseAssessmentPhosphateLimestone2013.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/bosseAssessmentPhosphateLimestone2013.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bosseAssessmentPhosphateLimestone2013
 year: Unknown Year
 authors: Boss\
@@ -3304,14 +2971,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/boujoContributionLetudeGeologique1976.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/boujoContributionLetudeGeologique1976.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: boujoContributionLetudeGeologique1976
 year: Unknown Year
 authors: Boujo, Armand
@@ -3339,14 +3003,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bourazzaRestorationPhosphateMined2025.md (~107 words)
+FILE: 04_Knowledge Base/wiki/sources/bourazzaRestorationPhosphateMined2025.md (~101 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bourazzaRestorationPhosphateMined2025
 year: Unknown Year
 authors: Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta, Berhanu Amsalu
@@ -3375,14 +3036,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bourazzaRestorationPhosphateMined2025a.md (~107 words)
+FILE: 04_Knowledge Base/wiki/sources/bourazzaRestorationPhosphateMined2025a.md (~101 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bourazzaRestorationPhosphateMined2025a
 year: Unknown Year
 authors: Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta, Berhanu Amsalu
@@ -3411,14 +3069,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bradshawRestorationMinedLands1997.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/bradshawRestorationMinedLands1997.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bradshawRestorationMinedLands1997
 year: Unknown Year
 authors: Bradshaw, Anthony
@@ -3446,14 +3101,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/breimanRandomForests2001.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/breimanRandomForests2001.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: breimanRandomForests2001
 year: Unknown Year
 authors: Breiman, Leo
@@ -3481,14 +3133,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/bressanEvaluationMachineLearning2020.md (~110 words)
+FILE: 04_Knowledge Base/wiki/sources/bressanEvaluationMachineLearning2020.md (~104 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: bressanEvaluationMachineLearning2020
 year: Unknown Year
 authors: Bressan, Thiago Santi and Kehl De Souza, Marcelo and Girelli, Tiago J. and
@@ -3517,14 +3166,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/buzziMappingChangesRecovering2014.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/buzziMappingChangesRecovering2014.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: buzziMappingChangesRecovering2014
 year: Unknown Year
 authors: Buzzi, Jorge and Riaza, Asunci\
@@ -3552,14 +3198,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/c.heckerSpectralAbsorptionFeature2019.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/c.heckerSpectralAbsorptionFeature2019.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: c.heckerSpectralAbsorptionFeature2019
 year: Unknown Year
 authors: C. Hecker
@@ -3587,14 +3230,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chabrillatEnMAPSpaceborneImaging2024.md (~216 words)
+FILE: 04_Knowledge Base/wiki/sources/chabrillatEnMAPSpaceborneImaging2024.md (~210 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chabrillatEnMAPSpaceborneImaging2024
 year: Unknown Year
 authors: Chabrillat, Sabine and Foerster, Saskia and Segl, Karl and Beamish, Alison
@@ -3627,14 +3267,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chakrabortySpectralSpatialComparison2024.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/chakrabortySpectralSpatialComparison2024.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chakrabortySpectralSpatialComparison2024
 year: Unknown Year
 authors: Chakraborty, Rupsa and Rachdi, Imane and Thiele, Samuel and Booysen, Ren\
@@ -3662,14 +3299,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/charbaouiNewInsightsGeophysical2023.md (~121 words)
+FILE: 04_Knowledge Base/wiki/sources/charbaouiNewInsightsGeophysical2023.md (~115 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: charbaouiNewInsightsGeophysical2023
 year: Unknown Year
 authors: Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed and Khadiri, Oussama
@@ -3699,14 +3333,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/charbaouiNewInsightsGeophysical2023a.md (~121 words)
+FILE: 04_Knowledge Base/wiki/sources/charbaouiNewInsightsGeophysical2023a.md (~115 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: charbaouiNewInsightsGeophysical2023a
 year: Unknown Year
 authors: Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed and Khadiri, Oussama
@@ -3736,14 +3367,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chein-ichangSpectralInformationDivergence1999.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/chein-ichangSpectralInformationDivergence1999.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chein-ichangSpectralInformationDivergence1999
 year: Unknown Year
 authors: Chein-I Chang
@@ -3771,14 +3399,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chenIntegratingVisibleNearinfrared2010.md (~105 words)
+FILE: 04_Knowledge Base/wiki/sources/chenIntegratingVisibleNearinfrared2010.md (~99 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chenIntegratingVisibleNearinfrared2010
 year: Unknown Year
 authors: Chen, Xianfeng and Warner, Timothy A. and Campagna, David J.
@@ -3806,14 +3431,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chenXGBoostScalableTree2016.md (~83 words)
+FILE: 04_Knowledge Base/wiki/sources/chenXGBoostScalableTree2016.md (~77 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chenXGBoostScalableTree2016
 year: Unknown Year
 authors: Chen, Tianqi and Guestrin, Carlos
@@ -3841,14 +3463,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chindongMultiSensorMachineLearning2025.md (~115 words)
+FILE: 04_Knowledge Base/wiki/sources/chindongMultiSensorMachineLearning2025.md (~109 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chindongMultiSensorMachineLearning2025
 year: Unknown Year
 authors: Chindong, Joyce Mongai and Ouzemou, Jamal-Eddine and Laamrani, Ahmed and
@@ -3877,14 +3496,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/chlahbiGeologicalGeomechanicalCharacterization2023.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/chlahbiGeologicalGeomechanicalCharacterization2023.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: chlahbiGeologicalGeomechanicalCharacterization2023
 year: Unknown Year
 authors: Chlahbi, Safa and Belem, Tikou and Elghali, Abdellatif and Rochdane, Samia
@@ -3913,14 +3529,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/choeMappingHeavyMetal2008.md (~98 words)
+FILE: 04_Knowledge Base/wiki/sources/choeMappingHeavyMetal2008.md (~92 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: choeMappingHeavyMetal2008
 year: Unknown Year
 authors: Choe, Eunyoung and van der Meer
@@ -3948,14 +3561,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990.md (~113 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990.md (~107 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkHighSpectralResolution1990
 year: Unknown Year
 authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg
@@ -3984,14 +3594,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990a.md (~113 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990a.md (~107 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkHighSpectralResolution1990a
 year: Unknown Year
 authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg
@@ -4020,14 +3627,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990b.md (~113 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990b.md (~107 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkHighSpectralResolution1990b
 year: Unknown Year
 authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg
@@ -4056,14 +3660,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990c.md (~113 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990c.md (~107 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkHighSpectralResolution1990c
 year: Unknown Year
 authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg
@@ -4092,14 +3693,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990d.md (~113 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkHighSpectralResolution1990d.md (~107 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkHighSpectralResolution1990d
 year: Unknown Year
 authors: Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew and Swayze, Gregg
@@ -4128,14 +3726,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984.md (~87 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984.md (~81 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkReflectanceSpectroscopyQuantitative1984
 year: Unknown Year
 authors: Clark, Roger N. and Roush, Ted L.
@@ -4163,14 +3758,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984a.md (~87 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984a.md (~81 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkReflectanceSpectroscopyQuantitative1984a
 year: Unknown Year
 authors: Clark, Roger N. and Roush, Ted L.
@@ -4198,14 +3790,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984b.md (~87 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984b.md (~81 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkReflectanceSpectroscopyQuantitative1984b
 year: Unknown Year
 authors: Clark, Roger N. and Roush, Ted L.
@@ -4233,14 +3822,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984c.md (~87 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkReflectanceSpectroscopyQuantitative1984c.md (~81 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkReflectanceSpectroscopyQuantitative1984c
 year: Unknown Year
 authors: Clark, Roger N. and Roush, Ted L.
@@ -4268,14 +3854,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/clarkSpectroscopyRocksMinerals1999.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/clarkSpectroscopyRocksMinerals1999.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: clarkSpectroscopyRocksMinerals1999
 year: Unknown Year
 authors: Clark, Roger
@@ -4303,14 +3886,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021.md (~132 words)
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021.md (~126 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cogliatiPRISMAImagingSpectroscopy2021
 year: Unknown Year
 authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso,
@@ -4340,14 +3920,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021a.md (~132 words)
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021a.md (~126 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cogliatiPRISMAImagingSpectroscopy2021a
 year: Unknown Year
 authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso,
@@ -4377,14 +3954,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021b.md (~132 words)
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021b.md (~126 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cogliatiPRISMAImagingSpectroscopy2021b
 year: Unknown Year
 authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso,
@@ -4414,14 +3988,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021c.md (~132 words)
+FILE: 04_Knowledge Base/wiki/sources/cogliatiPRISMAImagingSpectroscopy2021c.md (~126 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cogliatiPRISMAImagingSpectroscopy2021c
 year: Unknown Year
 authors: Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, M. and Lorusso,
@@ -4451,14 +4022,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cohenStatisticalPowerAnalysis2013.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/cohenStatisticalPowerAnalysis2013.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cohenStatisticalPowerAnalysis2013
 year: Unknown Year
 authors: Cohen, Jacob
@@ -4486,14 +4054,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/coppoLeonardoSpaceborneInfrared2020.md (~130 words)
+FILE: 04_Knowledge Base/wiki/sources/coppoLeonardoSpaceborneInfrared2020.md (~124 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: coppoLeonardoSpaceborneInfrared2020
 year: Unknown Year
 authors: Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sarti, Francesco and
@@ -4523,14 +4088,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/coppoLeonardoSpaceborneInfrared2020a.md (~130 words)
+FILE: 04_Knowledge Base/wiki/sources/coppoLeonardoSpaceborneInfrared2020a.md (~124 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: coppoLeonardoSpaceborneInfrared2020a
 year: Unknown Year
 authors: Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sarti, Francesco and
@@ -4560,14 +4122,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cordellStoryPhosphorusGlobal2009.md (~88 words)
+FILE: 04_Knowledge Base/wiki/sources/cordellStoryPhosphorusGlobal2009.md (~82 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cordellStoryPhosphorusGlobal2009
 year: Unknown Year
 authors: Cordell, Dana and Drangert, Jan-Olof and White, Stuart
@@ -4595,14 +4154,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cordellStoryPhosphorusGlobal2009a.md (~88 words)
+FILE: 04_Knowledge Base/wiki/sources/cordellStoryPhosphorusGlobal2009a.md (~82 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cordellStoryPhosphorusGlobal2009a
 year: Unknown Year
 authors: Cordell, Dana and Drangert, Jan-Olof and White, Stuart
@@ -4630,14 +4186,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/cortesSupportvectorNetworks1995.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/cortesSupportvectorNetworks1995.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: cortesSupportvectorNetworks1995
 year: Unknown Year
 authors: Cortes, Corinna and Vapnik, Vladimir
@@ -4665,14 +4218,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/coverNearestNeighborPattern1967.md (~83 words)
+FILE: 04_Knowledge Base/wiki/sources/coverNearestNeighborPattern1967.md (~77 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: coverNearestNeighborPattern1967
 year: Unknown Year
 authors: Cover, T. and Hart, P.
@@ -4700,14 +4250,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/daviesMappingAcidicMine2017.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/daviesMappingAcidicMine2017.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: daviesMappingAcidicMine2017
 year: Unknown Year
 authors: Davies, Gwendolyn E. and Calvin, Wendy M.
@@ -4735,14 +4282,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/desanctisSpectroscopicCharacterizationMineralogy2012.md (~225 words)
+FILE: 04_Knowledge Base/wiki/sources/desanctisSpectroscopicCharacterizationMineralogy2012.md (~219 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: desanctisSpectroscopicCharacterizationMineralogy2012
 year: Unknown Year
 authors: De Sanctis, M. C. and Ammannito, E. and Capria, M. T. and Tosi, F. and Capaccioni,
@@ -4774,14 +4318,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/dobigeonNonlinearUnmixingHyperspectral2014.md (~110 words)
+FILE: 04_Knowledge Base/wiki/sources/dobigeonNonlinearUnmixingHyperspectral2014.md (~104 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: dobigeonNonlinearUnmixingHyperspectral2014
 year: Unknown Year
 authors: Dobigeon, Nicolas and Tourneret, Jean-Yves and Richard, Cedric and Bermudez,
@@ -4810,14 +4351,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/edwardsMineralResourceOre2001.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/edwardsMineralResourceOre2001.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: edwardsMineralResourceOre2001
 year: Unknown Year
 authors: Edwards, A.C. and of Mining, Australasian Institute and Metallurgy
@@ -4845,14 +4383,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/el-arafySuccessfulSpectralRemote2021.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/el-arafySuccessfulSpectralRemote2021.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: el-arafySuccessfulSpectralRemote2021
 year: Unknown Year
 authors: El-Arafy
@@ -4880,14 +4415,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/el-azhariEvaluatingGroundwaterSalinity2025.md (~83 words)
+FILE: 04_Knowledge Base/wiki/sources/el-azhariEvaluatingGroundwaterSalinity2025.md (~77 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: el-azhariEvaluatingGroundwaterSalinity2025
 year: Unknown Year
 authors: El-Azhari
@@ -4915,14 +4447,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elazhariPollutionEcologicalRisk2017.md (~110 words)
+FILE: 04_Knowledge Base/wiki/sources/elazhariPollutionEcologicalRisk2017.md (~104 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elazhariPollutionEcologicalRisk2017
 year: Unknown Year
 authors: El Azhari, Abdellah and Rhoujjati, Ali and El Hachimi, Moulay La\^a
@@ -4950,14 +4479,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elbamikiPhosphateRocksReview2021.md (~105 words)
+FILE: 04_Knowledge Base/wiki/sources/elbamikiPhosphateRocksReview2021.md (~99 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elbamikiPhosphateRocksReview2021
 year: Unknown Year
 authors: El Bamiki, Radouan and Raji, Otmane and Ouabid, Muhammad and Elghali, Abdellatif
@@ -4986,14 +4512,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elberdaiValorizationPhosphateMine2024.md (~127 words)
+FILE: 04_Knowledge Base/wiki/sources/elberdaiValorizationPhosphateMine2024.md (~121 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elberdaiValorizationPhosphateMine2024
 year: Unknown Year
 authors: El Berdai, Yahya and Taha, Yassine and Trauchessec, Romain and Rhaouti, Yasmine
@@ -5022,14 +4545,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elberdaiValorizationPhosphateMine2024a.md (~127 words)
+FILE: 04_Knowledge Base/wiki/sources/elberdaiValorizationPhosphateMine2024a.md (~121 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elberdaiValorizationPhosphateMine2024a
 year: Unknown Year
 authors: El Berdai, Yahya and Taha, Yassine and Trauchessec, Romain and Rhaouti, Yasmine
@@ -5058,14 +4578,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elmachiRecyclingMineWastes2024.md (~117 words)
+FILE: 04_Knowledge Base/wiki/sources/elmachiRecyclingMineWastes2024.md (~111 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elmachiRecyclingMineWastes2024
 year: Unknown Year
 authors: El Machi, Aiman and El Berdai, Yahya and Mabroum, Safaa and Safhi, Amine
@@ -5094,14 +4611,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elmansourCuttingEdgeFrameworkSustainable2025.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/elmansourCuttingEdgeFrameworkSustainable2025.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elmansourCuttingEdgeFrameworkSustainable2025
 year: Unknown Year
 authors: El Mansour, Abdelhak and Laamrani, Ahmed and Elghali, Abdellatif and Hakkou,
@@ -5130,14 +4644,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elmeknassiCircularEconomyStrategies2024.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/elmeknassiCircularEconomyStrategies2024.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elmeknassiCircularEconomyStrategies2024
 year: Unknown Year
 authors: Elmeknassi, Malak and Elghali, Abdellatif and Laamrani, Ahmed and Benzaazoua,
@@ -5166,14 +4677,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/elserBrokenBiogeochemicalCycle2011.md (~79 words)
+FILE: 04_Knowledge Base/wiki/sources/elserBrokenBiogeochemicalCycle2011.md (~73 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: elserBrokenBiogeochemicalCycle2011
 year: Unknown Year
 authors: Elser, James and Bennett, Elena
@@ -5201,14 +4709,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/essingtonSoilWaterChemistry2004.md (~79 words)
+FILE: 04_Knowledge Base/wiki/sources/essingtonSoilWaterChemistry2004.md (~73 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: essingtonSoilWaterChemistry2004
 year: Unknown Year
 authors: Essington, Michael E.
@@ -5236,14 +4741,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/fauvelAdvancesSpectralSpatialClassification2013.md (~104 words)
+FILE: 04_Knowledge Base/wiki/sources/fauvelAdvancesSpectralSpatialClassification2013.md (~98 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: fauvelAdvancesSpectralSpatialClassification2013
 year: Unknown Year
 authors: Fauvel, M. and Tarabalka, Y. and Benediktsson, J. A. and Chanussot, J. and
@@ -5272,14 +4774,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/fieldingStatisticalInferenceOrder1974.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/fieldingStatisticalInferenceOrder1974.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: fieldingStatisticalInferenceOrder1974
 year: Unknown Year
 authors: Fielding, A. and Barlow, R. E. and Bartholomew, D. J. and Bremner, J. M.
@@ -5308,14 +4807,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/flogeacCharacterizationSoilParticles2005.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/flogeacCharacterizationSoilParticles2005.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: flogeacCharacterizationSoilParticles2005
 year: Unknown Year
 authors: Flogeac, Karine and Guillon, Emmanuel and Aplincourt, Michel and Marceau,
@@ -5344,14 +4840,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/francosEstimationRelativeAbundance2021.md (~85 words)
+FILE: 04_Knowledge Base/wiki/sources/francosEstimationRelativeAbundance2021.md (~79 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: francosEstimationRelativeAbundance2021
 year: Unknown Year
 authors: Francos, Nicolas and Notesco, Gila and Ben-Dor
@@ -5379,14 +4872,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gaffeySpectralReflectanceCarbonate1986.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/gaffeySpectralReflectanceCarbonate1986.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gaffeySpectralReflectanceCarbonate1986
 year: Unknown Year
 authors: Gaffey, Susan J.
@@ -5414,14 +4904,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gaffeysSpectralReflectanceCarbonate1986.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/gaffeysSpectralReflectanceCarbonate1986.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gaffeysSpectralReflectanceCarbonate1986
 year: Unknown Year
 authors: Gaffey, S, J
@@ -5449,14 +4936,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gaoGeneralizedUnsupervisedClustering2021.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/gaoGeneralizedUnsupervisedClustering2021.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gaoGeneralizedUnsupervisedClustering2021
 year: Unknown Year
 authors: Gao, Angela F. and Rasmussen, Brandon and Kulits, Peter and Scheller, Eva
@@ -5485,14 +4969,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gasmiUsingPRISMAHyperspectral2022.md (~81 words)
+FILE: 04_Knowledge Base/wiki/sources/gasmiUsingPRISMAHyperspectral2022.md (~75 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gasmiUsingPRISMAHyperspectral2022
 year: Unknown Year
 authors: Gasmi, Anis and Gomez, C\
@@ -5520,14 +5001,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gazleyReviewReliabilityValidity2014.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/gazleyReviewReliabilityValidity2014.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gazleyReviewReliabilityValidity2014
 year: Unknown Year
 authors: Gazley, M. F. and Fisher, L. A.
@@ -5555,14 +5033,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gazleyReviewReliabilityValidity2014a.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/gazleyReviewReliabilityValidity2014a.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gazleyReviewReliabilityValidity2014a
 year: Unknown Year
 authors: Gazley, Michael and Fisher, Louise
@@ -5590,14 +5065,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/geladiPartialLeastsquaresRegression1986.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/geladiPartialLeastsquaresRegression1986.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: geladiPartialLeastsquaresRegression1986
 year: Unknown Year
 authors: Geladi, Paul and Kowalski, Bruce R.
@@ -5625,14 +5097,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/geladiPartialLeastsquaresRegression1986a.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/geladiPartialLeastsquaresRegression1986a.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: geladiPartialLeastsquaresRegression1986a
 year: Unknown Year
 authors: Geladi, Paul and Kowalski, Bruce R.
@@ -5660,14 +5129,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/genesioUpdatesPRISMAScientific2022.md (~180 words)
+FILE: 04_Knowledge Base/wiki/sources/genesioUpdatesPRISMAScientific2022.md (~174 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: genesioUpdatesPRISMAScientific2022
 year: Unknown Year
 authors: Genesio, Lorenzo and Braga, Federica and Bresciani, Mariano and Boschetti,
@@ -5699,14 +5165,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/geurtsExtremelyRandomizedTrees2006.md (~85 words)
+FILE: 04_Knowledge Base/wiki/sources/geurtsExtremelyRandomizedTrees2006.md (~79 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: geurtsExtremelyRandomizedTrees2006
 year: Unknown Year
 authors: Geurts, Pierre and Ernst, Damien and Wehenkel, Louis
@@ -5734,14 +5197,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/gewaliMachineLearningBased2019.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/gewaliMachineLearningBased2019.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: gewaliMachineLearningBased2019
 year: Unknown Year
 authors: Gewali, Utsav B. and Monteiro, Sildomar T. and Saber, Eli
@@ -5769,14 +5229,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021.md (~137 words)
+FILE: 04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021.md (~131 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: giardinoHyperspectralPrismaProducts2021
 year: Unknown Year
 authors: Giardino, Claudia and Bresciani, Mariano and Fabbretto, Alice and Ghirardi,
@@ -5806,14 +5263,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021a.md (~137 words)
+FILE: 04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021a.md (~131 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: giardinoHyperspectralPrismaProducts2021a
 year: Unknown Year
 authors: Giardino, Claudia and Bresciani, Mariano and Fabbretto, Alice and Ghirardi,
@@ -5843,14 +5297,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/giglioActiveFireDetection2008.md (~97 words)
+FILE: 04_Knowledge Base/wiki/sources/giglioActiveFireDetection2008.md (~91 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: giglioActiveFireDetection2008
 year: Unknown Year
 authors: Giglio, Louis and Csiszar, Ivan and Rest\
@@ -5878,14 +5329,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985.md (~97 words)
+FILE: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985.md (~91 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: goetzImagingSpectrometryEarth1985
 year: Unknown Year
 authors: Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry E. and Rock, Barrett
@@ -5914,14 +5362,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985a.md (~97 words)
+FILE: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985a.md (~91 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: goetzImagingSpectrometryEarth1985a
 year: Unknown Year
 authors: Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry E. and Rock, Barrett
@@ -5950,14 +5395,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/grewalMachineLearningDeep2023.md (~85 words)
+FILE: 04_Knowledge Base/wiki/sources/grewalMachineLearningDeep2023.md (~79 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: grewalMachineLearningDeep2023
 year: Unknown Year
 authors: Grewal, Reaya and Singh Kasana, Singara and Kasana, Geeta
@@ -5985,14 +5427,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/guanterSpectralCalibrationHyperspectral2006.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/guanterSpectralCalibrationHyperspectral2006.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: guanterSpectralCalibrationHyperspectral2006
 year: Unknown Year
 authors: Guanter, Luis and Richter, Rudolf and Moreno, Jos\
@@ -6020,14 +5459,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/guhaReflectanceSpectroscopyASTER2019.md (~139 words)
+FILE: 04_Knowledge Base/wiki/sources/guhaReflectanceSpectroscopyASTER2019.md (~133 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: guhaReflectanceSpectroscopyASTER2019
 year: Unknown Year
 authors: Guha, Arindam and Vinod Kumar, K. and Porwal, Alok and Rani, Komal and Sahoo,
@@ -6057,14 +5493,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hakkouValorizationPhosphateWaste2016.md (~85 words)
+FILE: 04_Knowledge Base/wiki/sources/hakkouValorizationPhosphateWaste2016.md (~79 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hakkouValorizationPhosphateWaste2016
 year: Unknown Year
 authors: Hakkou, Rachid and Benzaazoua, Mostafa and Bussi\`e
@@ -6092,14 +5525,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hallEvaluationPortableXray2014.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/hallEvaluationPortableXray2014.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hallEvaluationPortableXray2014
 year: Unknown Year
 authors: Hall, Gwendy E.M. and Bonham-Carter
@@ -6127,14 +5557,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hapkeBidirectionalReflectanceSpectroscopy1981.md (~79 words)
+FILE: 04_Knowledge Base/wiki/sources/hapkeBidirectionalReflectanceSpectroscopy1981.md (~73 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hapkeBidirectionalReflectanceSpectroscopy1981
 year: Unknown Year
 authors: Hapke, Bruce
@@ -6162,14 +5589,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hapkeTheoryReflectanceEmittance2012.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/hapkeTheoryReflectanceEmittance2012.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hapkeTheoryReflectanceEmittance2012
 year: Unknown Year
 authors: Hapke, Bruce
@@ -6197,14 +5621,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/heRecentAdvancesSpectral2018.md (~95 words)
+FILE: 04_Knowledge Base/wiki/sources/heRecentAdvancesSpectral2018.md (~89 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: heRecentAdvancesSpectral2018
 year: Unknown Year
 authors: He, Lin and Li, Jun and Liu, Chenying and Li, Shutao
@@ -6232,14 +5653,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/heckerAssessingInfluenceReference2008.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/heckerAssessingInfluenceReference2008.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: heckerAssessingInfluenceReference2008
 year: Unknown Year
 authors: Hecker, Christoph and van der Meijde
@@ -6267,14 +5685,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/heckerAssessingInfluenceReference2008a.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/heckerAssessingInfluenceReference2008a.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: heckerAssessingInfluenceReference2008a
 year: Unknown Year
 authors: Hecker, Christoph and van der Meijde
@@ -6302,14 +5717,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: heinzFullyConstrainedLeast2001
 year: Unknown Year
 authors: Heinz, D.C. and Chein-I-Chang
@@ -6337,14 +5749,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001a.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001a.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: heinzFullyConstrainedLeast2001a
 year: Unknown Year
 authors: Heinz, D.C. and Chein-I-Chang
@@ -6372,14 +5781,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001b.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/heinzFullyConstrainedLeast2001b.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: heinzFullyConstrainedLeast2001b
 year: Unknown Year
 authors: Heinz, D.C. and Chein-I-Chang
@@ -6407,14 +5813,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hellerpearlshtienPRISMASensorEvaluation2021
 year: Unknown Year
 authors: Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
@@ -6442,14 +5845,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021a.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021a.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hellerpearlshtienPRISMASensorEvaluation2021a
 year: Unknown Year
 authors: Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
@@ -6477,14 +5877,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021b.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/hellerpearlshtienPRISMASensorEvaluation2021b.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hellerpearlshtienPRISMASensorEvaluation2021b
 year: Unknown Year
 authors: Heller Pearlshtien, Daniela and Pignatti, Stefano and Greisman-Ran
@@ -6512,14 +5909,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/hudson-edwardsTacklingMineWastes2016.md (~70 words)
+FILE: 04_Knowledge Base/wiki/sources/hudson-edwardsTacklingMineWastes2016.md (~64 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: hudson-edwardsTacklingMineWastes2016
 year: Unknown Year
 authors: Hudson-Edwards
@@ -6547,14 +5941,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/huntSPECTRALSIGNATURESPARTICULATE1977.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/huntSPECTRALSIGNATURESPARTICULATE1977.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: huntSPECTRALSIGNATURESPARTICULATE1977
 year: Unknown Year
 authors: Hunt, Graham R.
@@ -6582,14 +5973,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/huntVisibleNearinfraredSpectra1970.md (~81 words)
+FILE: 04_Knowledge Base/wiki/sources/huntVisibleNearinfraredSpectra1970.md (~75 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: huntVisibleNearinfraredSpectra1970
 year: Unknown Year
 authors: Hunt, Graham R.
@@ -6617,14 +6005,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/huntVisibleNearinfraredSpectra1971.md (~81 words)
+FILE: 04_Knowledge Base/wiki/sources/huntVisibleNearinfraredSpectra1971.md (~75 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: huntVisibleNearinfraredSpectra1971
 year: Unknown Year
 authors: Hunt, Graham R.
@@ -6652,14 +6037,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ibrahimAssessmentMachineLearning2014.md (~81 words)
+FILE: 04_Knowledge Base/wiki/sources/ibrahimAssessmentMachineLearning2014.md (~75 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ibrahimAssessmentMachineLearning2014
 year: Unknown Year
 authors: Ibrahim, Adamu M. and Bennett, Brandon
@@ -6687,14 +6069,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/idrissiSustainableUsePhosphate2021.md (~123 words)
+FILE: 04_Knowledge Base/wiki/sources/idrissiSustainableUsePhosphate2021.md (~117 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: idrissiSustainableUsePhosphate2021
 year: Unknown Year
 authors: Idrissi, Hicham and Taha, Yassine and Elghali, Abdellatif and El Khessaimi,
@@ -6724,14 +6103,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ihbachGeophysicalProspectingGroundwater2020.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/ihbachGeophysicalProspectingGroundwater2020.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ihbachGeophysicalProspectingGroundwater2020
 year: Unknown Year
 authors: Ihbach, Fatim-Zahra and Kchikach, Azzouz and Jaffal, Mohammed and El Azzab,
@@ -6760,14 +6136,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/inabiInvestigationInnovativeCombined2024.md (~105 words)
+FILE: 04_Knowledge Base/wiki/sources/inabiInvestigationInnovativeCombined2024.md (~99 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: inabiInvestigationInnovativeCombined2024
 year: Unknown Year
 authors: Inabi, Omar and Khalil, Abdessamad and Zouine, Abir and Hakkou, Rachid and
@@ -6796,14 +6169,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/inabiSustainableMiningRepurposing2025.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/inabiSustainableMiningRepurposing2025.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: inabiSustainableMiningRepurposing2025
 year: Unknown Year
 authors: Inabi, Omar and Khalil, Abdessamad and Benzaazoua, Mostafa and Taha, Yassine
@@ -6831,14 +6201,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/jahodaMachineLearningRecognizing2021.md (~110 words)
+FILE: 04_Knowledge Base/wiki/sources/jahodaMachineLearningRecognizing2021.md (~104 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: jahodaMachineLearningRecognizing2021
 year: Unknown Year
 authors: Jahoda, Pavel and Drozdovskiy, Igor and Payler, Samuel J. and Turchi, Leonardo
@@ -6867,14 +6234,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/jamiesonGeochemistryMineralogySolid2011.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/jamiesonGeochemistryMineralogySolid2011.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: jamiesonGeochemistryMineralogySolid2011
 year: Unknown Year
 authors: Jamieson, H. E.
@@ -6902,14 +6266,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/jiangEvaluationPotentialRelease2015.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/jiangEvaluationPotentialRelease2015.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: jiangEvaluationPotentialRelease2015
 year: Unknown Year
 authors: Jiang, Liguo and Xue, Qiang and Liu, Lei
@@ -6937,14 +6298,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kalnickyFieldPortableXRF2001.md (~83 words)
+FILE: 04_Knowledge Base/wiki/sources/kalnickyFieldPortableXRF2001.md (~77 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kalnickyFieldPortableXRF2001
 year: Unknown Year
 authors: Kalnicky, Dennis J and Singhvi, Raj
@@ -6972,14 +6330,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/karasiakSpatialDependenceTraining2022.md (~104 words)
+FILE: 04_Knowledge Base/wiki/sources/karasiakSpatialDependenceTraining2022.md (~98 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: karasiakSpatialDependenceTraining2022
 year: Unknown Year
 authors: Karasiak, N. and Dejoux, J.-F. and Monteil, C. and Sheeren, D.
@@ -7007,14 +6362,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kattenbornSpatiallyAutocorrelatedTraining2022.md (~123 words)
+FILE: 04_Knowledge Base/wiki/sources/kattenbornSpatiallyAutocorrelatedTraining2022.md (~117 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kattenbornSpatiallyAutocorrelatedTraining2022
 year: Unknown Year
 authors: Kattenborn, Teja and Schiefer, Felix and Frey, Julian and Feilhauer, Hannes
@@ -7043,14 +6395,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kattenbornSpatiallyAutocorrelatedTraining2022a.md (~123 words)
+FILE: 04_Knowledge Base/wiki/sources/kattenbornSpatiallyAutocorrelatedTraining2022a.md (~117 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kattenbornSpatiallyAutocorrelatedTraining2022a
 year: Unknown Year
 authors: Kattenborn, Teja and Schiefer, Felix and Frey, Julian and Feilhauer, Hannes
@@ -7079,14 +6428,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/keshavaSpectralUnmixing2002.md (~80 words)
+FILE: 04_Knowledge Base/wiki/sources/keshavaSpectralUnmixing2002.md (~74 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: keshavaSpectralUnmixing2002
 year: Unknown Year
 authors: Keshava, N. and Mustard, J.F.
@@ -7114,14 +6460,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/keshavaSpectralUnmixing2002a.md (~80 words)
+FILE: 04_Knowledge Base/wiki/sources/keshavaSpectralUnmixing2002a.md (~74 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: keshavaSpectralUnmixing2002a
 year: Unknown Year
 authors: Keshava, N. and Mustard, J.F.
@@ -7149,14 +6492,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/khalilAssessmentSoilContamination2013.md (~119 words)
+FILE: 04_Knowledge Base/wiki/sources/khalilAssessmentSoilContamination2013.md (~113 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: khalilAssessmentSoilContamination2013
 year: Unknown Year
 authors: Khalil, A. and Hanich, L. and Bannari, A. and Zouhri, L. and Pourret, O.
@@ -7185,14 +6525,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kleinmannPredictionWaterQuality2000.md (~88 words)
+FILE: 04_Knowledge Base/wiki/sources/kleinmannPredictionWaterQuality2000.md (~82 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kleinmannPredictionWaterQuality2000
 year: Unknown Year
 authors: Kleinmann, R.L.P. and Acid Drainage Technology Initiative. Prediction Workgroup
@@ -7220,14 +6557,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/koiralaRobustSupervisedMethod2021.md (~96 words)
+FILE: 04_Knowledge Base/wiki/sources/koiralaRobustSupervisedMethod2021.md (~90 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: koiralaRobustSupervisedMethod2021
 year: Unknown Year
 authors: Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo and Scheunders,
@@ -7256,14 +6590,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/koiralaRobustSupervisedMethod2021a.md (~96 words)
+FILE: 04_Knowledge Base/wiki/sources/koiralaRobustSupervisedMethod2021a.md (~90 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: koiralaRobustSupervisedMethod2021a
 year: Unknown Year
 authors: Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo and Scheunders,
@@ -7292,14 +6623,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kokalyUSGSSpectralLibrary2017.md (~140 words)
+FILE: 04_Knowledge Base/wiki/sources/kokalyUSGSSpectralLibrary2017.md (~134 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kokalyUSGSSpectralLibrary2017
 year: Unknown Year
 authors: Kokaly, Raymond F. and Clark, Roger and Swayze, Gregg and Livo, K. Eric and
@@ -7329,14 +6657,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kruseSpectralImageProcessing1993.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/kruseSpectralImageProcessing1993.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kruseSpectralImageProcessing1993
 year: Unknown Year
 authors: Kruse, F.A. and Lefkoff, A.B. and Boardman, J.W. and Heidebrecht, K.B. and
@@ -7365,14 +6690,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/kruseSpectralImageProcessing1993a.md (~130 words)
+FILE: 04_Knowledge Base/wiki/sources/kruseSpectralImageProcessing1993a.md (~124 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: kruseSpectralImageProcessing1993a
 year: Unknown Year
 authors: Kruse, F. A. and Lefkoff, A. B. and Boardman, J. W. and Heidebrecht, K. B.
@@ -7401,14 +6723,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/laaksoAssessingAbilityCombine2018.md (~100 words)
+FILE: 04_Knowledge Base/wiki/sources/laaksoAssessingAbilityCombine2018.md (~94 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: laaksoAssessingAbilityCombine2018
 year: Unknown Year
 authors: Laakso, K. and Middleton, M. and Heinig, T. and B\
@@ -7436,14 +6755,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/lawsonSolvingLeastSquares1995.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/lawsonSolvingLeastSquares1995.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: lawsonSolvingLeastSquares1995
 year: Unknown Year
 authors: Lawson, Charles L. and Hanson, Richard J.
@@ -7471,14 +6787,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/lawsonSolvingLeastSquares1995a.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/lawsonSolvingLeastSquares1995a.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: lawsonSolvingLeastSquares1995a
 year: Unknown Year
 authors: Lawson, Charles L. and Hanson, Richard J.
@@ -7506,14 +6819,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/liDeepLearningHyperspectral2019.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/liDeepLearningHyperspectral2019.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: liDeepLearningHyperspectral2019
 year: Unknown Year
 authors: Li, Shutao and Song, Weiwei and Fang, Leyuan and Chen, Yushi and Ghamisi,
@@ -7542,14 +6852,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/liMineralProspectivityMapping2025.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/liMineralProspectivityMapping2025.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: liMineralProspectivityMapping2025
 year: Unknown Year
 authors: Li, Quanke and Chen, Guoxiong and Wang, Detao
@@ -7577,14 +6884,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaItalianHyperspectral2018.md (~110 words)
+FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaItalianHyperspectral2018.md (~104 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: loizzoPrismaItalianHyperspectral2018
 year: Unknown Year
 authors: Loizzo, R. and Guarini, R. and Longo, F. and Scopa, T. and Formaro, R. and
@@ -7613,14 +6917,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaMissionStatus2019.md (~108 words)
+FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaMissionStatus2019.md (~102 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: loizzoPrismaMissionStatus2019
 year: Unknown Year
 authors: Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. and Lorusso, R. and
@@ -7649,14 +6950,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaMissionStatus2019a.md (~108 words)
+FILE: 04_Knowledge Base/wiki/sources/loizzoPrismaMissionStatus2019a.md (~102 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: loizzoPrismaMissionStatus2019a
 year: Unknown Year
 authors: Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. and Lorusso, R. and
@@ -7685,14 +6983,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/lottermoserMineWastes2010.md (~72 words)
+FILE: 04_Knowledge Base/wiki/sources/lottermoserMineWastes2010.md (~66 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: lottermoserMineWastes2010
 year: Unknown Year
 authors: Lottermoser, Bernd
@@ -7720,14 +7015,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/loukiliMonitoringLandChanges2025.md (~111 words)
+FILE: 04_Knowledge Base/wiki/sources/loukiliMonitoringLandChanges2025.md (~105 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: loukiliMonitoringLandChanges2025
 year: Unknown Year
 authors: Loukili, Ikram and Laamrani, Ahmed and El Ghorfi, Mustapha and El Moutak,
@@ -7756,14 +7048,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/maSituLeadImmobilization1993.md (~104 words)
+FILE: 04_Knowledge Base/wiki/sources/maSituLeadImmobilization1993.md (~98 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: maSituLeadImmobilization1993
 year: Unknown Year
 authors: Ma, Qi Ying and Traina, Samuel J. and Logan, Terry J. and Ryan, James A.
@@ -7791,14 +7080,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/malusisRestrictedSaltDiffusion2015.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/malusisRestrictedSaltDiffusion2015.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: malusisRestrictedSaltDiffusion2015
 year: Unknown Year
 authors: Malusis, Michael A. and Kang, Jong-Beom and Shackelford, Charles D.
@@ -7826,14 +7112,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mandendeHyperspectralCoreScanner2023.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/mandendeHyperspectralCoreScanner2023.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mandendeHyperspectralCoreScanner2023
 year: Unknown Year
 authors: Mandende, H. and Ndou, C. and Mothupi, T.
@@ -7861,14 +7144,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mansourIntegratingVNIRSWIR2025.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/mansourIntegratingVNIRSWIR2025.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mansourIntegratingVNIRSWIR2025
 year: Unknown Year
 authors: Mansour, Abdelhak El and Najih, Ahmed and Ouzemou, Jamal-Eddine and Laamrani,
@@ -7897,14 +7177,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/marshallFieldlevelCropYield2022.md (~111 words)
+FILE: 04_Knowledge Base/wiki/sources/marshallFieldlevelCropYield2022.md (~105 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: marshallFieldlevelCropYield2022
 year: Unknown Year
 authors: Marshall, Michael and Belgiu, Mariana and Boschetti, Mirco and Pepe, Monica
@@ -7933,14 +7210,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mcclellanMineralogyCarbonateFluorapatites1980.md (~79 words)
+FILE: 04_Knowledge Base/wiki/sources/mcclellanMineralogyCarbonateFluorapatites1980.md (~73 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mcclellanMineralogyCarbonateFluorapatites1980
 year: Unknown Year
 authors: McClellan, Guerry H.
@@ -7968,14 +7242,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/meerdinkECOSTRESSSpectralLibrary2019.md (~100 words)
+FILE: 04_Knowledge Base/wiki/sources/meerdinkECOSTRESSSpectralLibrary2019.md (~94 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: meerdinkECOSTRESSSpectralLibrary2019
 year: Unknown Year
 authors: Meerdink, Susan K. and Hook, Simon J. and Roberts, Dar A. and Abbott, Elsa
@@ -8004,14 +7275,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/melganiClassificationHyperspectralRemote2004.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/melganiClassificationHyperspectralRemote2004.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: melganiClassificationHyperspectralRemote2004
 year: Unknown Year
 authors: Melgani, F. and Bruzzone, L.
@@ -8039,14 +7307,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/melganiSupportVectorMachines2002.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/melganiSupportVectorMachines2002.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: melganiSupportVectorMachines2002
 year: Unknown Year
 authors: Melgani, F. and Bruzzone, L.
@@ -8074,14 +7339,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/meyerImportanceSpatialPredictor2019.md (~92 words)
+FILE: 04_Knowledge Base/wiki/sources/meyerImportanceSpatialPredictor2019.md (~86 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: meyerImportanceSpatialPredictor2019
 year: Unknown Year
 authors: Meyer, Hanna and Reudenbach, Christoph and W\
@@ -8109,14 +7371,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/meznedPerspectiveChapterOptical2023.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/meznedPerspectiveChapterOptical2023.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: meznedPerspectiveChapterOptical2023
 year: Unknown Year
 authors: Mezned, Nouha
@@ -8144,14 +7403,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mghazliDescriptionMicrobialCommunities2021.md (~107 words)
+FILE: 04_Knowledge Base/wiki/sources/mghazliDescriptionMicrobialCommunities2021.md (~101 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mghazliDescriptionMicrobialCommunities2021
 year: Unknown Year
 authors: Mghazli, Najoua and Sbabou, Laila and Hakkou, Rachid and Ouhammou, Ahmed
@@ -8180,14 +7436,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mielkeEnGeoMAP20AutomatedHyperspectral2016.md (~95 words)
+FILE: 04_Knowledge Base/wiki/sources/mielkeEnGeoMAP20AutomatedHyperspectral2016.md (~89 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mielkeEnGeoMAP20AutomatedHyperspectral2016
 year: Unknown Year
 authors: Mielke, Christian and Rogass, Christian and Boesche, Nina and Segl, Karl
@@ -8216,14 +7469,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mitchellFundamentalsSoilBehavior2005.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/mitchellFundamentalsSoilBehavior2005.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mitchellFundamentalsSoilBehavior2005
 year: Unknown Year
 authors: Mitchell, James Kenneth and Soga, Ken
@@ -8251,14 +7501,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mostafaReleasePotentiallyToxic2025.md (~98 words)
+FILE: 04_Knowledge Base/wiki/sources/mostafaReleasePotentiallyToxic2025.md (~92 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mostafaReleasePotentiallyToxic2025
 year: Unknown Year
 authors: Mostafa, Mouataz T. and Farhat, Hassan I. and Abd El-Bakey
@@ -8286,14 +7533,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/mulderQuantifyingMineralAbundances2013.md (~85 words)
+FILE: 04_Knowledge Base/wiki/sources/mulderQuantifyingMineralAbundances2013.md (~79 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: mulderQuantifyingMineralAbundances2013
 year: Unknown Year
 authors: Mulder, V.L. and Pl\
@@ -8321,14 +7565,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/nascimentoVertexComponentAnalysis2005.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/nascimentoVertexComponentAnalysis2005.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: nascimentoVertexComponentAnalysis2005
 year: Unknown Year
 authors: Nascimento, J.M.P. and Dias, J.M.B.
@@ -8356,14 +7597,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/nascimentoVertexComponentAnalysis2005a.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/nascimentoVertexComponentAnalysis2005a.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: nascimentoVertexComponentAnalysis2005a
 year: Unknown Year
 authors: Nascimento, J.M.P. and Dias, J.M.B.
@@ -8391,14 +7629,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/nationalmineralsinformationcenterUSGeologicalSurvey2024.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/nationalmineralsinformationcenterUSGeologicalSurvey2024.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: nationalmineralsinformationcenterUSGeologicalSurvey2024
 year: Unknown Year
 authors: National Minerals Information Center
@@ -8426,14 +7661,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/nordstromMineWatersAcidic2011.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/nordstromMineWatersAcidic2011.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: nordstromMineWatersAcidic2011
 year: Unknown Year
 authors: Nordstrom, D. K.
@@ -8461,14 +7693,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/norouziInformationDepthNIR2021.md (~108 words)
+FILE: 04_Knowledge Base/wiki/sources/norouziInformationDepthNIR2021.md (~102 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: norouziInformationDepthNIR2021
 year: Unknown Year
 authors: Norouzi, Sarem and Sadeghi, Morteza and Liaghat, Abdolmajid and Tuller, Markus
@@ -8497,14 +7726,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/notescoApplicationHyperspectralRemote2020.md (~85 words)
+FILE: 04_Knowledge Base/wiki/sources/notescoApplicationHyperspectralRemote2020.md (~79 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: notescoApplicationHyperspectralRemote2020
 year: Unknown Year
 authors: Notesco, Gila and Weksler, Shahar and Ben-Dor
@@ -8532,14 +7758,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ongPredictingAcidDrainage2003.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/ongPredictingAcidDrainage2003.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ongPredictingAcidDrainage2003
 year: Unknown Year
 authors: Ong, Cindy and Cudahy, Thomas and Swayze, Gregg
@@ -8567,14 +7790,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ouzemouIntegratingPostrainfallMultispectral2026.md (~116 words)
+FILE: 04_Knowledge Base/wiki/sources/ouzemouIntegratingPostrainfallMultispectral2026.md (~110 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ouzemouIntegratingPostrainfallMultispectral2026
 year: Unknown Year
 authors: Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Whalen,
@@ -8603,14 +7823,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ouzemouPredictingSoilSalinity2025.md (~96 words)
+FILE: 04_Knowledge Base/wiki/sources/ouzemouPredictingSoilSalinity2025.md (~90 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ouzemouPredictingSoilSalinity2025
 year: Unknown Year
 authors: Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, Ali and Whalen,
@@ -8639,14 +7856,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/percivalCustomizedSpectralLibraries2018.md (~131 words)
+FILE: 04_Knowledge Base/wiki/sources/percivalCustomizedSpectralLibraries2018.md (~125 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: percivalCustomizedSpectralLibraries2018
 year: Unknown Year
 authors: Percival, Jeanne B. and Bosman, Sean A. and Potter, Eric G. and Peter, Jan
@@ -8676,14 +7890,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/pereiraMultiTemporalMineralMapping2025.md (~73 words)
+FILE: 04_Knowledge Base/wiki/sources/pereiraMultiTemporalMineralMapping2025.md (~67 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: pereiraMultiTemporalMineralMapping2025
 year: Unknown Year
 authors: Pereira, In\
@@ -8711,14 +7922,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/pignattiEvaluationPRISMAHyperspectral2021.md (~127 words)
+FILE: 04_Knowledge Base/wiki/sources/pignattiEvaluationPRISMAHyperspectral2021.md (~121 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: pignattiEvaluationPRISMAHyperspectral2021
 year: Unknown Year
 authors: Pignatti, S. and Amodeo, A. and Mona, L. and Palombo, A. and Pascucci, S.
@@ -8747,14 +7955,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/plantePredictingGeochemicalBehaviour2011.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/plantePredictingGeochemicalBehaviour2011.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: plantePredictingGeochemicalBehaviour2011
 year: Unknown Year
 authors: Plante, B. and Benzaazoua, M. and Bussi\`e
@@ -8782,14 +7987,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/plazaForewordSpecialIssue2012.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/plazaForewordSpecialIssue2012.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: plazaForewordSpecialIssue2012
 year: Unknown Year
 authors: Plaza, Antonio and Bioucas-Dias
@@ -8817,14 +8019,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/plazaForewordSpecialIssue2012a.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/plazaForewordSpecialIssue2012a.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: plazaForewordSpecialIssue2012a
 year: Unknown Year
 authors: Plaza, Antonio and Bioucas-Dias
@@ -8852,14 +8051,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/plazaRecentDevelopmentsEndmember2011.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/plazaRecentDevelopmentsEndmember2011.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: plazaRecentDevelopmentsEndmember2011
 year: Unknown Year
 authors: Plaza, Antonio and Mart\
@@ -8887,14 +8083,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/plotonSpatialValidationReveals2020.md (~87 words)
+FILE: 04_Knowledge Base/wiki/sources/plotonSpatialValidationReveals2020.md (~81 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: plotonSpatialValidationReveals2020
 year: Unknown Year
 authors: Ploton, Pierre and Mortier, Fr\
@@ -8922,14 +8115,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/pottsHandbookSilicateRock1987.md (~74 words)
+FILE: 04_Knowledge Base/wiki/sources/pottsHandbookSilicateRock1987.md (~68 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: pottsHandbookSilicateRock1987
 year: Unknown Year
 authors: Potts, P. J.
@@ -8957,14 +8147,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/pourEditorialSpecialIssue2021.md (~95 words)
+FILE: 04_Knowledge Base/wiki/sources/pourEditorialSpecialIssue2021.md (~89 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: pourEditorialSpecialIssue2021
 year: Unknown Year
 authors: Pour, Amin Beiranvand and Zoheir, Basem and Pradhan, Biswajeet and Hashim,
@@ -8993,14 +8180,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/prevotCorrespondanceEntreContenu1979.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/prevotCorrespondanceEntreContenu1979.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: prevotCorrespondanceEntreContenu1979
 year: Unknown Year
 authors: Pr\
@@ -9028,14 +8212,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/qianGEOTECHNICALASPECTSLANDFILL.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/qianGEOTECHNICALASPECTSLANDFILL.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: qianGEOTECHNICALASPECTSLANDFILL
 year: Unknown Year
 authors: Qian, Xuede
@@ -9063,14 +8244,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/r.desikanExploringRockPhosphates2018.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/r.desikanExploringRockPhosphates2018.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: r.desikanExploringRockPhosphates2018
 year: Unknown Year
 authors: R. Desikan
@@ -9098,14 +8276,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ramakrishnanHyperspectralRemoteSensing2015.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/ramakrishnanHyperspectralRemoteSensing2015.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ramakrishnanHyperspectralRemoteSensing2015
 year: Unknown Year
 authors: Ramakrishnan, D. and Bharti, Rishikesh
@@ -9133,14 +8308,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ramseyCanSituGeochemical2012.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/ramseyCanSituGeochemical2012.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ramseyCanSituGeochemical2012
 year: Unknown Year
 authors: Ramsey, Michael H. and Boon, Katy A.
@@ -9168,14 +8340,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/rastiNoiseReductionHyperspectral2018.md (~96 words)
+FILE: 04_Knowledge Base/wiki/sources/rastiNoiseReductionHyperspectral2018.md (~90 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: rastiNoiseReductionHyperspectral2018
 year: Unknown Year
 authors: Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram and Licciardi, Giorgio
@@ -9204,14 +8373,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/rastiNoiseReductionHyperspectral2018a.md (~96 words)
+FILE: 04_Knowledge Base/wiki/sources/rastiNoiseReductionHyperspectral2018a.md (~90 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: rastiNoiseReductionHyperspectral2018a
 year: Unknown Year
 authors: Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram and Licciardi, Giorgio
@@ -9240,14 +8406,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/robertsCrossvalidationStrategiesData2017.md (~126 words)
+FILE: 04_Knowledge Base/wiki/sources/robertsCrossvalidationStrategiesData2017.md (~120 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: robertsCrossvalidationStrategiesData2017
 year: Unknown Year
 authors: Roberts, David R. and Bahn, Volker and Ciuti, Simone and Boyce, Mark S. and
@@ -9277,14 +8440,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/roggeIntegrationSpatialSpectral2007.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/roggeIntegrationSpatialSpectral2007.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: roggeIntegrationSpatialSpectral2007
 year: Unknown Year
 authors: Rogge, D. M. and Rivard, B. and Zhang, J. and Sanchez, A. and Harris, J.
@@ -9313,14 +8473,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/romanoAppropriateStatisticsOrdinal2006.md (~101 words)
+FILE: 04_Knowledge Base/wiki/sources/romanoAppropriateStatisticsOrdinal2006.md (~95 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: romanoAppropriateStatisticsOrdinal2006
 year: Unknown Year
 authors: Romano, Jeanine and Kromrey, Jeffrey D. and Coraggio, Jesse and Skowronek,
@@ -9349,14 +8506,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/rousseauCorrectionsMatrixEffects2006.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/rousseauCorrectionsMatrixEffects2006.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: rousseauCorrectionsMatrixEffects2006
 year: Unknown Year
 authors: Rousseau, Richard M.
@@ -9384,14 +8538,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ruffinCombinedDerivativeSpectroscopy2008.md (~92 words)
+FILE: 04_Knowledge Base/wiki/sources/ruffinCombinedDerivativeSpectroscopy2008.md (~86 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ruffinCombinedDerivativeSpectroscopy2008
 year: Unknown Year
 authors: Ruffin, Chris and King, Roger L. and Younan, Nicolas H.
@@ -9419,14 +8570,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/ryskinVibrationsProtonsMinerals1974.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/ryskinVibrationsProtonsMinerals1974.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: ryskinVibrationsProtonsMinerals1974
 year: Unknown Year
 authors: Ryskin, \relax Ya
@@ -9454,14 +8602,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/safhiCharacterizationsPotentialRecovery2022.md (~124 words)
+FILE: 04_Knowledge Base/wiki/sources/safhiCharacterizationsPotentialRecovery2022.md (~118 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: safhiCharacterizationsPotentialRecovery2022
 year: Unknown Year
 authors: Safhi, Amine El Mahdi and Amar, Hicham and El Berdai, Yahya and El Ghorfi,
@@ -9490,14 +8635,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/safhiCharacterizationsPotentialRecovery2022a.md (~124 words)
+FILE: 04_Knowledge Base/wiki/sources/safhiCharacterizationsPotentialRecovery2022a.md (~118 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: safhiCharacterizationsPotentialRecovery2022a
 year: Unknown Year
 authors: Safhi, Amine el Mahdi and Amar, Hicham and El Berdai, Yahya and El Ghorfi,
@@ -9526,14 +8668,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/sahooModellingSpectralUnmixing2023.md (~101 words)
+FILE: 04_Knowledge Base/wiki/sources/sahooModellingSpectralUnmixing2023.md (~95 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: sahooModellingSpectralUnmixing2023
 year: Unknown Year
 authors: Sahoo, Maitreya Mohan and Kalimuthu, R. and Pv, Arun and Porwal, Alok and
@@ -9562,14 +8701,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: savitzkySmoothingDifferentiationData1964
 year: Unknown Year
 authors: Savitzky, \relax Abraham
@@ -9597,14 +8733,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964a.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964a.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: savitzkySmoothingDifferentiationData1964a
 year: Unknown Year
 authors: Savitzky, \relax Abraham
@@ -9632,14 +8765,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964b.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964b.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: savitzkySmoothingDifferentiationData1964b
 year: Unknown Year
 authors: Savitzky, \relax Abraham
@@ -9667,14 +8797,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964c.md (~75 words)
+FILE: 04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964c.md (~69 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: savitzkySmoothingDifferentiationData1964c
 year: Unknown Year
 authors: Savitzky, \relax Abraham
@@ -9702,14 +8829,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/schaepmanEarthSystemScience2009.md (~116 words)
+FILE: 04_Knowledge Base/wiki/sources/schaepmanEarthSystemScience2009.md (~110 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: schaepmanEarthSystemScience2009
 year: Unknown Year
 authors: Schaepman, Michael E. and Ustin, Susan L. and Plaza, Antonio J. and Painter,
@@ -9738,14 +8862,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/scholzSustainableUsePhosphorus2013.md (~92 words)
+FILE: 04_Knowledge Base/wiki/sources/scholzSustainableUsePhosphorus2013.md (~86 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: scholzSustainableUsePhosphorus2013
 year: Unknown Year
 authors: Scholz, Roland W. and Ulrich, Andrea E. and Eilitt\
@@ -9773,14 +8894,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/sealProgressGeoenvironmentalModels2002.md (~79 words)
+FILE: 04_Knowledge Base/wiki/sources/sealProgressGeoenvironmentalModels2002.md (~73 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: sealProgressGeoenvironmentalModels2002
 year: Unknown Year
 authors: Unknown Authors
@@ -9808,14 +8926,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/shadmanroodposhtiUncertaintyAssessmentHyperspectral2019.md (~93 words)
+FILE: 04_Knowledge Base/wiki/sources/shadmanroodposhtiUncertaintyAssessmentHyperspectral2019.md (~87 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: shadmanroodposhtiUncertaintyAssessmentHyperspectral2019
 year: Unknown Year
 authors: Shadman Roodposhti, Majid and Aryal, Jagannath and Lucieer, Arko and Bryan,
@@ -9844,14 +8959,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/sheblPRISMAHyperspectralData2023.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/sheblPRISMAHyperspectralData2023.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: sheblPRISMAHyperspectralData2023
 year: Unknown Year
 authors: Shebl, Ali and Abriha, D\
@@ -9879,14 +8991,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/shirmardComparativeStudyConvolutional2022.md (~103 words)
+FILE: 04_Knowledge Base/wiki/sources/shirmardComparativeStudyConvolutional2022.md (~97 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: shirmardComparativeStudyConvolutional2022
 year: Unknown Year
 authors: Shirmard, Hojat and Farahbakhsh, Ehsan and Heidari, Elnaz and Beiranvand
@@ -9915,14 +9024,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/shirmardReviewMachineLearning2022.md (~105 words)
+FILE: 04_Knowledge Base/wiki/sources/shirmardReviewMachineLearning2022.md (~99 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: shirmardReviewMachineLearning2022
 year: Unknown Year
 authors: Shirmard, Hojat and Farahbakhsh, Ehsan and Muller, R. Dietmar and Chandra,
@@ -9951,14 +9057,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/simapeyghambariHyperspectralRemoteSensing2021.md (~87 words)
+FILE: 04_Knowledge Base/wiki/sources/simapeyghambariHyperspectralRemoteSensing2021.md (~81 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: simapeyghambariHyperspectralRemoteSensing2021
 year: Unknown Year
 authors: Sima Peyghambari
@@ -9986,14 +9089,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/slanskyGeologySedimentaryPhosphates1986.md (~80 words)
+FILE: 04_Knowledge Base/wiki/sources/slanskyGeologySedimentaryPhosphates1986.md (~74 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: slanskyGeologySedimentaryPhosphates1986
 year: Unknown Year
 authors: Slansky, Maurice and Slansky, Maurice
@@ -10021,14 +9121,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/smilPhosphorusEnvironmentNatural2000.md (~80 words)
+FILE: 04_Knowledge Base/wiki/sources/smilPhosphorusEnvironmentNatural2000.md (~74 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: smilPhosphorusEnvironmentNatural2000
 year: Unknown Year
 authors: Smil, Vaclav
@@ -10056,14 +9153,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/stonerCharacteristicVariationsReflectance1981.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/stonerCharacteristicVariationsReflectance1981.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: stonerCharacteristicVariationsReflectance1981
 year: Unknown Year
 authors: Stoner, E. R. and Baumgardner, M. F.
@@ -10091,14 +9185,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/storchEnMAPImagingSpectroscopy2023.md (~132 words)
+FILE: 04_Knowledge Base/wiki/sources/storchEnMAPImagingSpectroscopy2023.md (~126 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: storchEnMAPImagingSpectroscopy2023
 year: Unknown Year
 authors: Storch, Tobias and Honold, Hans-Peter and Chabrillat, Sabine and Habermeyer,
@@ -10128,14 +9219,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/sudharsanMachineLearningdrivenMineral2025.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/sudharsanMachineLearningdrivenMineral2025.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: sudharsanMachineLearningdrivenMineral2025
 year: Unknown Year
 authors: Sudharsan, S. and Hemalatha, R. and V., Tejas N. and Sivakumar, Krisha Aarunee
@@ -10163,14 +9251,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/swayzeUsingImagingSpectroscopy2000.md (~160 words)
+FILE: 04_Knowledge Base/wiki/sources/swayzeUsingImagingSpectroscopy2000.md (~154 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: swayzeUsingImagingSpectroscopy2000
 year: Unknown Year
 authors: Swayze, G. A. and Smith, K. S. and Clark, R. N. and Sutley, S. J. and Pearson,
@@ -10200,14 +9285,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: tahaZeroSolidWaste2021
 year: Unknown Year
 authors: Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua,
@@ -10236,14 +9318,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021a.md (~91 words)
+FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021a.md (~85 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: tahaZeroSolidWaste2021a
 year: Unknown Year
 authors: Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua,
@@ -10272,14 +9351,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021b.md (~97 words)
+FILE: 04_Knowledge Base/wiki/sources/tahaZeroSolidWaste2021b.md (~91 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: tahaZeroSolidWaste2021b
 year: Unknown Year
 authors: Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid and Benzaazoua,
@@ -10308,14 +9384,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/testaBACKFILLINGOPENPITMETALLIC2007.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/testaBACKFILLINGOPENPITMETALLIC2007.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: testaBACKFILLINGOPENPITMETALLIC2007
 year: Unknown Year
 authors: Testa, Stephen M. and Pompy, James S.
@@ -10343,14 +9416,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/testaBACKFILLINGOPENPITMETALLIC2007a.md (~90 words)
+FILE: 04_Knowledge Base/wiki/sources/testaBACKFILLINGOPENPITMETALLIC2007a.md (~84 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: testaBACKFILLINGOPENPITMETALLIC2007a
 year: Unknown Year
 authors: Testa, Stephen M. and Pompy, James S.
@@ -10378,14 +9448,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/tsaiDerivativeAnalysisHyperspectral.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/tsaiDerivativeAnalysisHyperspectral.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: tsaiDerivativeAnalysisHyperspectral
 year: Unknown Year
 authors: Tsai, Fuan and Philpot, William
@@ -10413,14 +9480,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/tsaiDerivativeAnalysisHyperspectrala.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/tsaiDerivativeAnalysisHyperspectrala.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: tsaiDerivativeAnalysisHyperspectrala
 year: Unknown Year
 authors: Tsai, Fuan and Philpot, William
@@ -10448,14 +9512,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/turnerVisibleShortwaveInfrared2016.md (~94 words)
+FILE: 04_Knowledge Base/wiki/sources/turnerVisibleShortwaveInfrared2016.md (~88 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: turnerVisibleShortwaveInfrared2016
 year: Unknown Year
 authors: Turner, David J. and Rivard, Benoit and Groat, Lee A.
@@ -10483,14 +9544,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/tusaDrillCoreMineralAbundance2020.md (~76 words)
+FILE: 04_Knowledge Base/wiki/sources/tusaDrillCoreMineralAbundance2020.md (~70 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: tusaDrillCoreMineralAbundance2020
 year: Unknown Year
 authors: Tu\c s
@@ -10518,14 +9576,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/valaviBlockCVPackageGenerating2019.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/valaviBlockCVPackageGenerating2019.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: valaviBlockCVPackageGenerating2019
 year: Unknown Year
 authors: Valavi, Roozbeh and Elith, Jane and Lahoz-Monfort
@@ -10553,14 +9608,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vandermeerAnalysisSpectralAbsorption2004.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/vandermeerAnalysisSpectralAbsorption2004.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vandermeerAnalysisSpectralAbsorption2004
 year: Unknown Year
 authors: van der Meer
@@ -10588,14 +9640,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vandermeerMultiHyperspectralGeologic2012.md (~171 words)
+FILE: 04_Knowledge Base/wiki/sources/vandermeerMultiHyperspectralGeologic2012.md (~165 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vandermeerMultiHyperspectralGeologic2012
 year: Unknown Year
 authors: Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and Van Ruitenbeek,
@@ -10626,14 +9675,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vandermeerMultiHyperspectralGeologic2012a.md (~171 words)
+FILE: 04_Knowledge Base/wiki/sources/vandermeerMultiHyperspectralGeologic2012a.md (~165 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vandermeerMultiHyperspectralGeologic2012a
 year: Unknown Year
 authors: Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and Van Ruitenbeek,
@@ -10664,14 +9710,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vandijkPhosphorusFlowsBalances2016.md (~84 words)
+FILE: 04_Knowledge Base/wiki/sources/vandijkPhosphorusFlowsBalances2016.md (~78 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vandijkPhosphorusFlowsBalances2016
 year: Unknown Year
 authors: van Dijk
@@ -10699,14 +9742,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vangenuchtenClosedformEquationPredicting1980.md (~82 words)
+FILE: 04_Knowledge Base/wiki/sources/vangenuchtenClosedformEquationPredicting1980.md (~76 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vangenuchtenClosedformEquationPredicting1980
 year: Unknown Year
 authors: Van Genuchten, M. \relax Th
@@ -10734,14 +9774,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vangiNewHyperspectralSatellite2021.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/vangiNewHyperspectralSatellite2021.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vangiNewHyperspectralSatellite2021
 year: Unknown Year
 authors: Vangi, Elia and D
@@ -10769,14 +9806,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/vankauwenberghWorldPhosphateRock2010.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/vankauwenberghWorldPhosphateRock2010.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: vankauwenberghWorldPhosphateRock2010
 year: Unknown Year
 authors: Van Kauwenbergh, S. J.
@@ -10804,14 +9838,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/wangSpectralSpatialMultifeaturebased2017.md (~106 words)
+FILE: 04_Knowledge Base/wiki/sources/wangSpectralSpatialMultifeaturebased2017.md (~100 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: wangSpectralSpatialMultifeaturebased2017
 year: Unknown Year
 authors: Wang, Lizhe and Zhang, Jiabin and Liu, Peng and Choo, Kim-Kwang Raymond and
@@ -10840,14 +9871,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/wangUncertaintyQuantificationDeep2025.md (~86 words)
+FILE: 04_Knowledge Base/wiki/sources/wangUncertaintyQuantificationDeep2025.md (~80 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: wangUncertaintyQuantificationDeep2025
 year: Unknown Year
 authors: Wang, Ziye and Zuo, Renguang and Kreuzer, Oliver P.
@@ -10875,14 +9903,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/waskeMappingHyperspectralAVIRIS2009.md (~77 words)
+FILE: 04_Knowledge Base/wiki/sources/waskeMappingHyperspectralAVIRIS2009.md (~71 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: waskeMappingHyperspectralAVIRIS2009
 year: Unknown Year
 authors: Waske, Bj\
@@ -10910,14 +9935,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/withersStewardshipTackleGlobal2015.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/withersStewardshipTackleGlobal2015.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: withersStewardshipTackleGlobal2015
 year: Unknown Year
 authors: Withers, Paul J. A. and Van Dijk, Kimo C. and Neset, Tina-Simone S. and Nesme,
@@ -10946,14 +9968,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/woldPLSregressionBasicTool2001.md (~78 words)
+FILE: 04_Knowledge Base/wiki/sources/woldPLSregressionBasicTool2001.md (~72 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: woldPLSregressionBasicTool2001
 year: Unknown Year
 authors: Wold, Svante and Sj\
@@ -10981,14 +10000,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/yangEnvironmentalImpactsCaused2014.md (~114 words)
+FILE: 04_Knowledge Base/wiki/sources/yangEnvironmentalImpactsCaused2014.md (~108 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: yangEnvironmentalImpactsCaused2014
 year: Unknown Year
 authors: Yang, Yu-You and Wu, Huai-Na and Shen, Shui-Long and Horpibulsuk, Suksun
@@ -11017,14 +10033,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/yekutieliResamplingbasedFalseDiscovery1999.md (~92 words)
+FILE: 04_Knowledge Base/wiki/sources/yekutieliResamplingbasedFalseDiscovery1999.md (~86 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: yekutieliResamplingbasedFalseDiscovery1999
 year: Unknown Year
 authors: Yekutieli, Daniel and Benjamini, Yoav
@@ -11052,14 +10065,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/yueSpectralSpatialClassification2015.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/yueSpectralSpatialClassification2015.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: yueSpectralSpatialClassification2015
 year: Unknown Year
 authors: Yue, Jun and Zhao, Wenzhi and Mao, Shanjun and Liu, Hui
@@ -11087,14 +10097,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zainiDeterminationCarbonateRock2014.md (~99 words)
+FILE: 04_Knowledge Base/wiki/sources/zainiDeterminationCarbonateRock2014.md (~93 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zainiDeterminationCarbonateRock2014
 year: Unknown Year
 authors: Zaini, Nasrullah and Van Der Meer, Freek and Van Der Werff, Harald
@@ -11122,14 +10129,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001.md (~95 words)
+FILE: 04_Knowledge Base/wiki/sources/zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001.md (~89 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001
 year: Unknown Year
 authors: Zhang, Guangyu and Wasyliuk, Ken and Pan, Yuanming
@@ -11157,14 +10161,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zhangPredictionRecyclePhosphate2024.md (~112 words)
+FILE: 04_Knowledge Base/wiki/sources/zhangPredictionRecyclePhosphate2024.md (~106 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zhangPredictionRecyclePhosphate2024
 year: Unknown Year
 authors: Zhang, Ling and Hou, Haochun and Yang, Lu and Zhang, Zeliang and Zhao, Yan
@@ -11192,14 +10193,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023.md (~101 words)
+FILE: 04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023.md (~95 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zineAdvancementsMineClosure2023
 year: Unknown Year
 authors: Zine, Hamza and El Mansour, Abdelhak and Hakkou, Rachid and Papazoglou, Eleni
@@ -11228,14 +10226,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zineNativePlantDiversity2023
 year: Unknown Year
 authors: Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak and Elgadi, Sara and
@@ -11264,14 +10259,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md (~111 words)
+FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md (~105 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zineNativePlantDiversity2023a
 year: Unknown Year
 authors: Zine, Hamza and Hakkou, Rachid and El Mansour, Abdelhak and Elgadi, Sara
@@ -11300,14 +10292,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md (~109 words)
+FILE: 04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md (~103 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zineNativePlantDiversity2023b
 year: Unknown Year
 authors: Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak and Elgadi, Sara and
@@ -11336,14 +10325,11 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md (~89 words)
+FILE: 04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md (~83 words)
 ================================================================================
 ---
 tags:
-- literature
-- literature-note
-- source
-- topic/literature
+  - topic/literature
 citekey: zouhriCretaceousTertiaryPlateaus2008
 year: Unknown Year
 authors: Zouhri, S. and Kchikach, A. and Saddiqi, O. and Ha\
@@ -11371,17 +10357,14 @@ created: '2026-06-09'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md (~560 words)
+FILE: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md (~554 words)
 ================================================================================
 ---
 tags:
-- ch3
-- concept
-- remote-sensing
-- satellite
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch3
+  - remote-sensing
+  - satellite
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
@@ -11487,17 +10470,14 @@ CRS: **EPSG:32629** (WGS84 UTM Zone 29N — Benguerir is ~32°N, 7.8°W)
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Handheld XRF.md (~530 words)
+FILE: 04_Knowledge Base/wiki/concepts/Handheld XRF.md (~524 words)
 ================================================================================
 ---
 tags:
-- ch1
-- concept
-- geochemistry
-- instrument
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch1
+  - geochemistry
+  - instrument
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -11596,16 +10576,13 @@ The HHXRF-spectroscopy integration (Chapter 1) demonstrated that:
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md (~523 words)
+FILE: 04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md (~517 words)
 ================================================================================
 ---
 tags:
-- concept
-- remote-sensing
-- spectroscopy
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - remote-sensing
+  - spectroscopy
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -11699,17 +10676,14 @@ Hyperspectral imaging (HSI) acquires continuous spectral information across hund
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md (~689 words)
+FILE: 04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md (~683 words)
 ================================================================================
 ---
 tags:
-- ch2
-- concept
-- machine-learning
-- method
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch2
+  - machine-learning
+  - method
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
@@ -11832,16 +10806,13 @@ This is the correct, peer-reviewed result representing true spatial generalizati
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md (~541 words)
+FILE: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md (~535 words)
 ================================================================================
 ---
 tags:
-- benguerir
-- concept
-- mineralogy
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - benguerir
+  - mineralogy
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -11965,17 +10936,15 @@ Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative 
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md (~407 words)
+FILE: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md (~403 words)
 ================================================================================
 ---
 tags:
-- PRISMA
-- concept
-- core
-- remote-sensing
-- satellite
-- topic/wiki-concept
-- wiki-concept
+  - PRISMA
+  - core
+  - remote-sensing
+  - satellite
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 domain: Remote Sensing
@@ -12047,16 +11016,13 @@ Challenges solved during Abdelhak's thesis:
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md (~512 words)
+FILE: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md (~506 words)
 ================================================================================
 ---
 tags:
-- benguerir
-- concept
-- geology
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - benguerir
+  - geology
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -12154,17 +11120,14 @@ Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md (~692 words)
+FILE: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md (~686 words)
 ================================================================================
 ---
 tags:
-- ch3
-- concept
-- environmental
-- reclamation
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch3
+  - environmental
+  - reclamation
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
@@ -12288,16 +11251,13 @@ XRF concordance: Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md (~575 words)
+FILE: 04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md (~569 words)
 ================================================================================
 ---
 tags:
-- ch3
-- concept
-- novel-contribution
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch3
+  - novel-contribution
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
@@ -12405,17 +11365,14 @@ If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS 
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md (~450 words)
+FILE: 04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md (~444 words)
 ================================================================================
 ---
 tags:
-- ch2
-- concept
-- method
-- statistics
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch2
+  - method
+  - statistics
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -12507,17 +11464,14 @@ This probability vector is what feeds the entropy calculation.
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md (~587 words)
+FILE: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md (~581 words)
 ================================================================================
 ---
 tags:
-- ch2
-- concept
-- method
-- statistics
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch2
+  - method
+  - statistics
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
@@ -12611,15 +11565,12 @@ This near-perfect result (Ch.3) reflects the much stronger spectral separation b
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md (~276 words)
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md (~270 words)
 ================================================================================
 ---
 tags:
-- concept
-- spectral-analysis
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - spectral-analysis
+  - topic/wiki-concept
 created: '2026-06-07'
 generated_by: claude
 summary: "Spectral analysis methods used in hyperspectral remote sensing \u2014 library\
@@ -12676,16 +11627,13 @@ Quantitative analysis of electromagnetic reflectance spectra to identify and cha
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md (~525 words)
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md (~519 words)
 ================================================================================
 ---
 tags:
-- concept
-- method
-- spectroscopy
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - method
+  - spectroscopy
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -12803,17 +11751,14 @@ This distribution is **mineralogically consistent** with phosphate waste rock: c
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md (~588 words)
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md (~582 words)
 ================================================================================
 ---
 tags:
-- ch1
-- ch3
-- concept
-- method
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch1
+  - ch3
+  - method
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 source-of-truth: Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx
@@ -12933,16 +11878,13 @@ Linear mixing is used because at 30m satellite pixels, areal (checkerboard) mixi
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md (~540 words)
+FILE: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md (~534 words)
 ================================================================================
 ---
 tags:
-- ch1
-- concept
-- spectroscopy
-- topic/wiki-concept
-- wiki
-- wiki-concept
+  - ch1
+  - spectroscopy
+  - topic/wiki-concept
 updated: 2026-05-24
 generated_by: claude
 type: concept-note
@@ -13052,15 +11994,12 @@ Cross-validation with XRD (mineralogy)
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md (~224 words)
+FILE: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md (~218 words)
 ================================================================================
 ---
 tags:
-- concept
-- topic/wiki-concept
-- waste-rock
-- wiki
-- wiki-concept
+  - topic/wiki-concept
+  - waste-rock
 created: '2026-06-07'
 generated_by: claude
 summary: "Mine waste rock characterization \u2014 mineralogy, spectral properties,\
@@ -13102,6 +12041,175 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 - [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
 - [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
 - [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~462 words)
+================================================================================
+---
+tags:
+  - geology
+  - morocco
+  - topic/wiki-entity
+updated: 2026-05-24
+generated_by: claude
+type: entity-note
+status: seed
+created: '2026-05-24'
+---
+
+# Gantour Basin
+
+## Overview
+The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
+
+---
+
+## Geography
+
+| Parameter | Value |
+|-----------|-------|
+| Location | Central Morocco, Marrakech-Safi region |
+| Approximate coordinates | ~32°N, ~7.5–8°W |
+| Area | ~1,600 km² (basin extent) |
+| Key city | Benguerir (study site) |
+| Distance from Marrakech | ~70 km north |
+
+---
+
+## Geological Setting
+
+**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
+
+**Stratigraphy (simplified):**
+```
+Top: Quaternary alluvium + lacustrine deposits
+     └─ Eocene marls and limestones
+     └─ Paleocene phosphate layers (economic horizon)
+          ├─ Phosphate series: francolite in marl/limestone matrix
+          ├─ Interbedded clays (illite, smectite)
+          └─ Carbonate-rich beds (calcite, dolomite)
+Bottom: Cretaceous basement
+```
+
+**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
+
+---
+
+## Mineralogy of the Deposit
+
+The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
+
+| Component | Role |
+|-----------|------|
+| Francolite | Economic phosphate mineral (ore) |
+| Calcite/dolomite | Carbonate gangue |
+| Illite/smectite | Clay gangue |
+| Quartz | Silica gangue |
+| Iron oxides | Accessory weathering products |
+
+---
+
+## Mining at Benguerir
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group (Office Chérifien des Phosphates) |
+| Mining method | Open-pit, strip mining |
+| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
+| Annual ore production | ~4 Mt/year (approx.) |
+| Annual waste generation | ~12.3 Mt/year |
+| Mine area (thesis study zone) | ~36 km² |
+
+**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
+
+---
+
+## Environmental Significance
+
+1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
+2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
+3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
+4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
+
+---
+
+## Morocco's Strategic Role
+Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
+
+---
+
+## Related Concepts
+- [[OCP Group and Benguerir Mine]]
+- [[Phosphate Mine Waste]]
+- [[Mineral Assemblages]]
+- [[Reclamation Monitoring]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~298 words)
+================================================================================
+---
+tags:
+  - Morocco
+  - OCP
+  - institution
+  - mining
+  - phosphate
+  - topic/wiki-entity
+updated: 2026-05-24
+generated_by: claude
+type: institution
+status: seed
+created: '2026-06-08'
+---
+
+# OCP Group & Benguerir Mine
+
+## OCP Group
+- **Full name:** Office Chérifien des Phosphates (OCP Group)
+- **Headquarters:** Casablanca, Morocco
+- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
+- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
+
+## Benguerir Mine
+- **Location:** Benguerir, Marrakech-Safi region, Morocco
+- **Type:** Open-pit phosphate mine
+- **Context:** Active phosphate extraction generating large waste rock dumps
+- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
+
+## Why This Site?
+1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
+2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
+3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
+4. Environmental importance — waste rock management is an OCP priority
+5. Data access — UM6P-OCP relationship facilitates ground truth collection
+
+## Phosphate Mineralogy at Benguerir
+Key minerals to characterize:
+- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
+- **Carbonates:** calcite, dolomite (buffering capacity)
+- **Clay minerals:** kaolinite, smectite, illite
+- **Iron minerals:** goethite, hematite (AMD indicator)
+- **Accessory:** quartz, feldspar
+
+## Reclamation Context
+OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
+Abdelhak's thesis monitors this process using PRISMA time series.
+
+## Related Pages
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- UM6P (entity note not yet created)
+
+## Potential Industry Application
+OCP Group is a natural client for remote sensing consulting post-defense.  
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
