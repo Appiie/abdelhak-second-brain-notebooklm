@@ -862,217 +862,6 @@ created: '2026-05-24'
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md (~136 words)
-================================================================================
----
-tags:
-  - MOC
-  - topic/wiki-concept
-generated_by: claude-moc-engine
-type: moc-note
-status: active
----
-
-# Wiki-Concept MOC
-
-> Auto-generated index for wiki-concept concepts.
-
----
-
-## 📂 Core Concepts
-- [[Waste Rock Characterization]] — Added automatically.
-- [[VNIR-SWIR Spectroscopy]] — Added automatically.
-- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
-- [[Spectral Library Matching]] — Added automatically.
-- [[Spectral Analysis]] — Added automatically.
-- [[Spatially Constrained Cross-Validation]] — Added automatically.
-- [[Shannon Entropy Uncertainty]] — Added automatically.
-- [[Reclamation Progress Index]] — Added automatically.
-- [[Reclamation Monitoring]] — Added automatically.
-- [[PRISMA Satellite]] — Added automatically.
-- [[Phosphate Mine Waste]] — Added automatically.
-- [[Mineral Assemblages]] — Added automatically.
-- [[Machine Learning for Hyperspectral]] — Added automatically.
-- [[Hyperspectral Imaging]] — Added automatically.
-- [[Handheld XRF]] — Added automatically.
-- [[EnMAP Satellite]] — Initial concept.
-
----
-*Related: [[Home|Mission Control]]*
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~462 words)
-================================================================================
----
-tags:
-  - geology
-  - morocco
-  - topic/wiki-entity
-updated: 2026-05-24
-generated_by: claude
-type: entity-note
-status: seed
-created: '2026-05-24'
----
-
-# Gantour Basin
-
-## Overview
-The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
-
----
-
-## Geography
-
-| Parameter | Value |
-|-----------|-------|
-| Location | Central Morocco, Marrakech-Safi region |
-| Approximate coordinates | ~32°N, ~7.5–8°W |
-| Area | ~1,600 km² (basin extent) |
-| Key city | Benguerir (study site) |
-| Distance from Marrakech | ~70 km north |
-
----
-
-## Geological Setting
-
-**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
-
-**Stratigraphy (simplified):**
-```
-Top: Quaternary alluvium + lacustrine deposits
-     └─ Eocene marls and limestones
-     └─ Paleocene phosphate layers (economic horizon)
-          ├─ Phosphate series: francolite in marl/limestone matrix
-          ├─ Interbedded clays (illite, smectite)
-          └─ Carbonate-rich beds (calcite, dolomite)
-Bottom: Cretaceous basement
-```
-
-**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
-
----
-
-## Mineralogy of the Deposit
-
-The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
-
-| Component | Role |
-|-----------|------|
-| Francolite | Economic phosphate mineral (ore) |
-| Calcite/dolomite | Carbonate gangue |
-| Illite/smectite | Clay gangue |
-| Quartz | Silica gangue |
-| Iron oxides | Accessory weathering products |
-
----
-
-## Mining at Benguerir
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group (Office Chérifien des Phosphates) |
-| Mining method | Open-pit, strip mining |
-| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
-| Annual ore production | ~4 Mt/year (approx.) |
-| Annual waste generation | ~12.3 Mt/year |
-| Mine area (thesis study zone) | ~36 km² |
-
-**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
-
----
-
-## Environmental Significance
-
-1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
-2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
-3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
-4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
-
----
-
-## Morocco's Strategic Role
-Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
-
----
-
-## Related Concepts
-- [[OCP Group and Benguerir Mine]]
-- [[Phosphate Mine Waste]]
-- [[Mineral Assemblages]]
-- [[Reclamation Monitoring]]
-
-
-
-
-================================================================================
-FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~298 words)
-================================================================================
----
-tags:
-  - Morocco
-  - OCP
-  - institution
-  - mining
-  - phosphate
-  - topic/wiki-entity
-updated: 2026-05-24
-generated_by: claude
-type: institution
-status: seed
-created: '2026-06-08'
----
-
-# OCP Group & Benguerir Mine
-
-## OCP Group
-- **Full name:** Office Chérifien des Phosphates (OCP Group)
-- **Headquarters:** Casablanca, Morocco
-- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
-- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
-
-## Benguerir Mine
-- **Location:** Benguerir, Marrakech-Safi region, Morocco
-- **Type:** Open-pit phosphate mine
-- **Context:** Active phosphate extraction generating large waste rock dumps
-- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
-
-## Why This Site?
-1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
-2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
-3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
-4. Environmental importance — waste rock management is an OCP priority
-5. Data access — UM6P-OCP relationship facilitates ground truth collection
-
-## Phosphate Mineralogy at Benguerir
-Key minerals to characterize:
-- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
-- **Carbonates:** calcite, dolomite (buffering capacity)
-- **Clay minerals:** kaolinite, smectite, illite
-- **Iron minerals:** goethite, hematite (AMD indicator)
-- **Accessory:** quartz, feldspar
-
-## Reclamation Context
-OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
-Abdelhak's thesis monitors this process using PRISMA time series.
-
-## Related Pages
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- UM6P (entity note not yet created)
-
-## Potential Industry Application
-OCP Group is a natural client for remote sensing consulting post-defense.  
-→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
-
-
-
-
-================================================================================
 FILE: 04_Knowledge Base/wiki/sources/BoardmanJWKruse.md (~66 words)
 ================================================================================
 ---
@@ -10569,7 +10358,7 @@ created: '2026-05-24'
 # EnMAP Satellite
 
 ## Overview
-EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission operated by the German Aerospace Center (DLR). Used in **Chapter 3** of Abdelhak's thesis for reclamation monitoring at Benguerir mine.
+EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission operated by the German Aerospace Center (DLR). Used in **Chapter 3** of Abdelhak's thesis for [[Reclamation Monitoring]] at Benguerir mine.
 
 ---
 
@@ -10681,7 +10470,7 @@ created: '2026-05-24'
 # Handheld XRF (HHXRF)
 
 ## Definition
-Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quantifies major and trace element concentrations in rocks, soils, and materials by measuring characteristic X-ray fluorescence emission. Combined with VNIR-SWIR spectroscopy in Chapter 1, it provides direct elemental chemistry to complement spectral mineralogy.
+Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quantifies major and trace element concentrations in rocks, soils, and materials by measuring characteristic X-ray fluorescence emission. Combined with [[VNIR-SWIR Spectroscopy]] in Chapter 1, it provides direct elemental chemistry to complement spectral mineralogy.
 
 ---
 
@@ -10711,7 +10500,7 @@ Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quan
 - XRF data from managed zone (RZ) and unmanaged zone (RWR) samples
 - Linked to EnMAP pixels by GPS coordinates
 - Spearman correlation between VCA endmember abundances and XRF oxides
-- Used to calibrate the RPI (Reclamation Progress Index)
+- Used to calibrate the RPI ([[Reclamation Progress Index]])
 - Target oxides: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
 
 ---
@@ -10823,7 +10612,7 @@ Hyperspectral imaging (HSI) acquires continuous spectral information across hund
 |--------|------|-------|-----------|---------|
 | ASD FieldSpec 4 | Field spectrometer | ~2100 bands | 1 nm (resampled) | Ch.1 (104 field samples) |
 | PRISMA | Satellite | 239 bands | 30 m | Ch.2 (mineral mapping) |
-| EnMAP | Satellite | 242 bands | 30 m | Ch.3 (reclamation monitoring) |
+| EnMAP | Satellite | 242 bands | 30 m | Ch.3 ([[Reclamation Monitoring]]) |
 
 ---
 
@@ -10832,7 +10621,7 @@ Hyperspectral imaging (HSI) acquires continuous spectral information across hund
 - **Mineral fingerprinting:** Every mineral has a unique spectral signature driven by electronic and vibrational processes
 - **Non-destructive:** Remote sensing avoids the cost/time of physical sampling
 - **Spatial coverage:** Satellite HSI covers entire mine sites in one pass (36 km² Benguerir = tens of thousands of pixels)
-- **Reclamation monitoring:** Multi-temporal analysis tracks vegetation recovery and mineralogical change over time
+- **[[Reclamation Monitoring]]:** Multi-temporal analysis tracks vegetation recovery and mineralogical change over time
 
 ---
 
@@ -10888,7 +10677,7 @@ created: '2026-06-05'
 # Machine Learning for Hyperspectral Classification
 
 ## Context in Thesis
-Chapter 2 applies supervised machine learning to PRISMA satellite data for lithological mapping of phosphate waste rocks. The goal: classify pixels into lithological classes using field-validated training samples.
+Chapter 2 applies supervised machine learning to [[PRISMA Satellite]] data for lithological mapping of phosphate waste rocks. The goal: classify pixels into lithological classes using field-validated training samples.
 
 **Paper:** Accepted in *Minerals* 2026 (IF 2.2) ✅
 
@@ -10945,7 +10734,7 @@ For each CV fold:
 
 ---
 
-## Spatially Constrained Cross-Validation
+## [[Spatially Constrained Cross-Validation]]
 
 - 30m buffer between train and test (= 1 PRISMA pixel)
 - 10 independent replicates
@@ -10971,7 +10760,7 @@ For each CV fold:
 
 ---
 
-## Shannon Entropy Uncertainty
+## [[Shannon Entropy Uncertainty]]
 - Uncertainty is spatially structured — concentrated at lithological boundaries and in mixed phosphate-siliceous zones
 - This is geologically meaningful: exactly where sub-pixel mixing is expected
 - Operationally: high-entropy zones = where additional field investigation is warranted
@@ -11288,7 +11077,7 @@ Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
 **P2O5 as reclamation indicator:**
 - High P2O5 → unweathered phosphate waste
 - Decreasing P2O5 over time → mineral weathering, dilution by added topsoil, vegetation biomass accumulation
-- The **Reclamation Progress Index (RPI)** uses abundance of vegetation/soil endmembers relative to raw waste endmembers, isotonically calibrated against XRF P2O5
+- The **[[Reclamation Progress Index]] (RPI)** uses abundance of vegetation/soil endmembers relative to raw waste endmembers, isotonically calibrated against XRF P2O5
 
 ---
 
@@ -11334,7 +11123,7 @@ created: '2026-05-24'
 ## Definition
 Chapter 3 quantifies the impact of **backfilling** — the primary reclamation strategy at Benguerir — on phosphate waste rock surface characteristics, using EnMAP hyperspectral data and spectral unmixing.
 
-**Exact thesis title:** *"Assessing the impact of backfilling on phosphate mine waste rock characteristics in Benguerir, Morocco: An integrated field, laboratory, and hyperspectral remote sensing approach"*
+**Exact thesis title:** *"Assessing the impact of backfilling on [[Phosphate Mine Waste]] rock characteristics in Benguerir, Morocco: An integrated field, laboratory, and hyperspectral remote sensing approach"*
 
 > **Important:** The reclamation strategy is specifically **backfilling** (remblayage), not generic revegetation. Backfilling = re-depositing material over waste rock piles to modify surface composition and prepare for revegetation.
 
@@ -11411,7 +11200,7 @@ Bootstrap 95% CI excludes zero for both EM3 and EM4.
 
 ---
 
-## Reclamation Progress Index (RPI)
+## [[Reclamation Progress Index]] (RPI)
 
 | Zone | RPI median | 95% CI |
 |------|-----------|--------|
@@ -11543,7 +11332,7 @@ Generalizable framework: the calibration approach (unmixing → isotonic calibra
 ---
 
 ## Defense Talking Point
-If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS + isotonic XRF calibration can be applied to any HSI sensor (PRISMA, DESIS, future missions) and any mine type where geochemical ground truth exists. This is not specific to EnMAP or Benguerir — it's an operational template for satellite-based mine reclamation monitoring."
+If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS + isotonic XRF calibration can be applied to any HSI sensor (PRISMA, DESIS, future missions) and any mine type where geochemical ground truth exists. This is not specific to EnMAP or Benguerir — it's an operational template for satellite-based mine [[Reclamation Monitoring]]."
 
 ---
 
@@ -11786,7 +11575,7 @@ Quantitative analysis of electromagnetic reflectance spectra to identify and cha
 ### Spectral Unmixing
 - Decompose a mixed pixel into endmember fractional abundances
 - Methods: VCA (Vertex Component Analysis) for endmember extraction, FCLS (Fully Constrained Least Squares) for abundance mapping
-- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]]
+- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/[[Reclamation Progress Index]]|RPI]]
 
 ### Continuum Removal
 - Normalizes spectra to highlight absorption features
@@ -12088,9 +11877,9 @@ created: '2026-05-24'
 # VNIR-SWIR Spectroscopy
 
 ## Definition
-Visible/Near-Infrared + Shortwave Infrared spectroscopy (VNIR-SWIR) covers 350–2500 nm. Combined with handheld XRF (HHXRF), it forms the core analytical approach of Chapter 1 of Abdelhak's thesis for field characterization of phosphate mine waste.
+Visible/Near-Infrared + Shortwave Infrared spectroscopy (VNIR-SWIR) covers 350–2500 nm. Combined with [[Handheld XRF]] (HHXRF), it forms the core analytical approach of Chapter 1 of Abdelhak's thesis for field characterization of [[Phosphate Mine Waste]].
 
-**Chapter 1 title:** "Integrating VNIR–SWIR Spectroscopy and Handheld XRF for Enhanced Mineralogical Characterization of Phosphate Mine Waste Rocks in Benguerir"  
+**Chapter 1 title:** "Integrating VNIR–SWIR Spectroscopy and [[Handheld XRF]] for Enhanced Mineralogical Characterization of [[Phosphate Mine Waste]] Rocks in Benguerir"  
 **Published:** Sensors (IF 3.5), Dec 2025, doi:10.3390/s26010002
 
 ---
@@ -12121,7 +11910,7 @@ Spectral features in the VNIR-SWIR arise from two processes:
      ↓
 Preprocessing: resampling → 1nm common grid → normalization
      ↓
-Spectral library matching (ECOSTRESS splib07)
+[[Spectral Library Matching]] (ECOSTRESS splib07)
      Metrics: RMSE, SAM, SID, R² → composite score
      ↓
 Best-match mineral identification (rank 1–8)
@@ -12224,9 +12013,9 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 ## Methods Used in Abdelhak's Thesis
 
 - **Field spectroscopy** (ASD FieldSpec 4, 350–2500 nm) + ECOSTRESS library matching → Ch.1
-- **Handheld XRF** (Niton XL5) for elemental geochemistry → Ch.1
-- **PRISMA satellite** (30m) classification → Ch.2
-- **EnMAP satellite** spectral unmixing → Ch.3
+- **[[Handheld XRF]]** (Niton XL5) for elemental geochemistry → Ch.1
+- **[[PRISMA Satellite]]** (30m) classification → Ch.2
+- **[[EnMAP Satellite]]** spectral unmixing → Ch.3
 
 ## Related
 
@@ -12234,6 +12023,217 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 - [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
 - [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
 - [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/Gantour Basin.md (~462 words)
+================================================================================
+---
+tags:
+  - geology
+  - morocco
+  - topic/wiki-entity
+updated: 2026-05-24
+generated_by: claude
+type: entity-note
+status: seed
+created: '2026-05-24'
+---
+
+# Gantour Basin
+
+## Overview
+The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
+
+---
+
+## Geography
+
+| Parameter | Value |
+|-----------|-------|
+| Location | Central Morocco, Marrakech-Safi region |
+| Approximate coordinates | ~32°N, ~7.5–8°W |
+| Area | ~1,600 km² (basin extent) |
+| Key city | Benguerir (study site) |
+| Distance from Marrakech | ~70 km north |
+
+---
+
+## Geological Setting
+
+**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
+
+**Stratigraphy (simplified):**
+```
+Top: Quaternary alluvium + lacustrine deposits
+     └─ Eocene marls and limestones
+     └─ Paleocene phosphate layers (economic horizon)
+          ├─ Phosphate series: francolite in marl/limestone matrix
+          ├─ Interbedded clays (illite, smectite)
+          └─ Carbonate-rich beds (calcite, dolomite)
+Bottom: Cretaceous basement
+```
+
+**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
+
+---
+
+## Mineralogy of the Deposit
+
+The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
+
+| Component | Role |
+|-----------|------|
+| Francolite | Economic phosphate mineral (ore) |
+| Calcite/dolomite | Carbonate gangue |
+| Illite/smectite | Clay gangue |
+| Quartz | Silica gangue |
+| Iron oxides | Accessory weathering products |
+
+---
+
+## Mining at Benguerir
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group (Office Chérifien des Phosphates) |
+| Mining method | Open-pit, strip mining |
+| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
+| Annual ore production | ~4 Mt/year (approx.) |
+| Annual waste generation | ~12.3 Mt/year |
+| Mine area (thesis study zone) | ~36 km² |
+
+**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
+
+---
+
+## Environmental Significance
+
+1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
+2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
+3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
+4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
+
+---
+
+## Morocco's Strategic Role
+Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
+
+---
+
+## Related Concepts
+- [[OCP Group and Benguerir Mine]]
+- [[Phosphate Mine Waste]]
+- [[Mineral Assemblages]]
+- [[Reclamation Monitoring]]
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md (~298 words)
+================================================================================
+---
+tags:
+  - Morocco
+  - OCP
+  - institution
+  - mining
+  - phosphate
+  - topic/wiki-entity
+updated: 2026-05-24
+generated_by: claude
+type: institution
+status: seed
+created: '2026-06-08'
+---
+
+# OCP Group & Benguerir Mine
+
+## OCP Group
+- **Full name:** Office Chérifien des Phosphates (OCP Group)
+- **Headquarters:** Casablanca, Morocco
+- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
+- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
+
+## Benguerir Mine
+- **Location:** Benguerir, Marrakech-Safi region, Morocco
+- **Type:** Open-pit phosphate mine
+- **Context:** Active phosphate extraction generating large waste rock dumps
+- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
+
+## Why This Site?
+1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
+2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
+3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
+4. Environmental importance — waste rock management is an OCP priority
+5. Data access — UM6P-OCP relationship facilitates ground truth collection
+
+## Phosphate Mineralogy at Benguerir
+Key minerals to characterize:
+- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
+- **Carbonates:** calcite, dolomite (buffering capacity)
+- **Clay minerals:** kaolinite, smectite, illite
+- **Iron minerals:** goethite, hematite (AMD indicator)
+- **Accessory:** quartz, feldspar
+
+## Reclamation Context
+OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
+Abdelhak's thesis monitors this process using PRISMA time series.
+
+## Related Pages
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- UM6P (entity note not yet created)
+
+## Potential Industry Application
+OCP Group is a natural client for remote sensing consulting post-defense.  
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
+
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md (~136 words)
+================================================================================
+---
+tags:
+  - MOC
+  - topic/wiki-concept
+generated_by: claude-moc-engine
+type: moc-note
+status: active
+---
+
+# Wiki-Concept MOC
+
+> Auto-generated index for wiki-concept concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Waste Rock Characterization]] — Added automatically.
+- [[VNIR-SWIR Spectroscopy]] — Added automatically.
+- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
+- [[Spectral Library Matching]] — Added automatically.
+- [[Spectral Analysis]] — Added automatically.
+- [[Spatially Constrained Cross-Validation]] — Added automatically.
+- [[Shannon Entropy Uncertainty]] — Added automatically.
+- [[Reclamation Progress Index]] — Added automatically.
+- [[Reclamation Monitoring]] — Added automatically.
+- [[PRISMA Satellite]] — Added automatically.
+- [[Phosphate Mine Waste]] — Added automatically.
+- [[Mineral Assemblages]] — Added automatically.
+- [[Machine Learning for Hyperspectral]] — Added automatically.
+- [[Hyperspectral Imaging]] — Added automatically.
+- [[Handheld XRF]] — Added automatically.
+- [[EnMAP Satellite]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
 
 
 
