@@ -431,6 +431,149 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 
 
 ================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~225 words)
+================================================================================
+---
+citekey: elmansour2025sensors
+title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
+  at Benguerir
+authors: EL MANSOUR A., LAAMRANI A., et al.
+year: 2025
+journal: Sensors
+doi: 10.3390/s26010002
+tags:
+  - chapter-1
+  - literature-note
+  - own-paper
+  - topic/thesis
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Your Paper — Chapter 1 (Sensors 2025)
+
+**This is your own published work. Know it cold.**
+
+## What it does
+Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
+
+## Key Results
+- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
+- 84% of spectra have R² > 0.70
+- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
+- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
+- Apatite spectral rank: 3–7 in field spectra
+
+## Novelty
+First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
+
+## Jury Defense Angle
+*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
+
+## Links
+- [[02_Academic & Work/thesis/Thesis MOC]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~214 words)
+================================================================================
+---
+citekey: roberts2019unmixing
+title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
+authors: Roberts D.A., et al.
+year: 2019
+journal: Remote Sensing
+tags:
+  - FCLS
+  - VCA
+  - chapter-3
+  - literature-note
+  - topic/thesis
+  - unmixing
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Unmixing Foundation Paper — Chapter 3 Justification
+
+**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
+
+## Core Argument
+Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
+
+## How it Supports Your Thesis
+- Justifies linear model at 30m EnMAP resolution
+- VCA as standard for geological endmember extraction without prior knowledge
+- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
+
+## Defense Quote Ready
+*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[02_Academic & Work/thesis/Thesis MOC]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~258 words)
+================================================================================
+---
+citekey: verrelst2021review
+title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
+  A Review on Retrieval Methods'
+authors: Verrelst J., et al.
+year: 2021
+journal: Surveys in Geophysics
+tags:
+  - RTM
+  - jury-prep
+  - literature-note
+  - topic/thesis
+  - unmixing
+  - verrelst
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Verrelst 2021 — RTM & Retrieval Methods Review
+
+**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
+
+## Core Argument
+Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
+
+## Your Defense Angle Against This
+*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
+
+## If Verrelst Pushes Back
+- Acknowledge RTM validity for vegetation/soil systems
+- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
+- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
+
+## Links
+- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
+
+
+
+
+================================================================================
 FILE: 02_Academic & Work/thesis/defense-prep/30-Day Countdown.md (~562 words)
 ================================================================================
 ---
@@ -2180,149 +2323,6 @@ I am ready. Over to you.
 - **On "Over to you":** make eye contact with the jury. Do not look down.
 - **Target timing:** 2 min 45 — 3 min 00.
 - **Delivered in French at the actual defense** — practice in French.
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~225 words)
-================================================================================
----
-citekey: elmansour2025sensors
-title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
-  at Benguerir
-authors: EL MANSOUR A., LAAMRANI A., et al.
-year: 2025
-journal: Sensors
-doi: 10.3390/s26010002
-tags:
-  - chapter-1
-  - literature-note
-  - own-paper
-  - topic/thesis
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Your Paper — Chapter 1 (Sensors 2025)
-
-**This is your own published work. Know it cold.**
-
-## What it does
-Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
-
-## Key Results
-- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
-- 84% of spectra have R² > 0.70
-- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
-- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
-- Apatite spectral rank: 3–7 in field spectra
-
-## Novelty
-First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
-
-## Jury Defense Angle
-*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
-
-## Links
-- [[02_Academic & Work/thesis/Thesis MOC]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~214 words)
-================================================================================
----
-citekey: roberts2019unmixing
-title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
-authors: Roberts D.A., et al.
-year: 2019
-journal: Remote Sensing
-tags:
-  - FCLS
-  - VCA
-  - chapter-3
-  - literature-note
-  - topic/thesis
-  - unmixing
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Unmixing Foundation Paper — Chapter 3 Justification
-
-**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
-
-## Core Argument
-Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
-
-## How it Supports Your Thesis
-- Justifies linear model at 30m EnMAP resolution
-- VCA as standard for geological endmember extraction without prior knowledge
-- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
-
-## Defense Quote Ready
-*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
-
-## Links
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[02_Academic & Work/thesis/Thesis MOC]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~258 words)
-================================================================================
----
-citekey: verrelst2021review
-title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
-  A Review on Retrieval Methods'
-authors: Verrelst J., et al.
-year: 2021
-journal: Surveys in Geophysics
-tags:
-  - RTM
-  - jury-prep
-  - literature-note
-  - topic/thesis
-  - unmixing
-  - verrelst
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Verrelst 2021 — RTM & Retrieval Methods Review
-
-**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
-
-## Core Argument
-Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
-
-## Your Defense Angle Against This
-*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
-
-## If Verrelst Pushes Back
-- Acknowledge RTM validity for vegetation/soil systems
-- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
-- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
-
-## Links
-- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
 
 
 
