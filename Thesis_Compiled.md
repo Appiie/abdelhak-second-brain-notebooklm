@@ -927,7 +927,7 @@ Say it first. Say it last. Say it when Verrelst makes you doubt yourself.
 
 ---
 
-*Related: [[02_Academic & Work/thesis/defense-prep/[[Jury Questions Prep]]|Jury Questions Prep]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|Defense Strategy]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]]*
+*Related: [[02_Academic & Work/thesis/defense-prep/[[Jury Questions Prep]]|[[Jury Questions Prep]]]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|[[Defense Strategy]]]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]]*
 
 
 
@@ -1472,7 +1472,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 ---
 
-*Related: [[02_Academic & Work/thesis/defense-prep/[[Victory Speech]]|Opening Speech — June 30, 2026]] · [[02_Academic & Work/thesis/defense-prep/[[Flashcards — Defense]]|Flashcards — Defense]]*
+*Related: [[02_Academic & Work/thesis/defense-prep/[[Victory Speech]]|Opening Speech — June 30, 2026]] · [[02_Academic & Work/thesis/defense-prep/[[Flashcards — Defense]]|[[Flashcards — Defense]]]]*
 
 
 
@@ -1604,7 +1604,7 @@ What is the novelty of your thesis?::First multi-scale hyperspectral RS framewor
 
 ---
 
-*Related: [[04_Knowledge Base/wiki/Flashcards — Research Concepts|Flashcards — Research Concepts]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|Defense Strategy]]*
+*Related: [[04_Knowledge Base/wiki/Flashcards — Research Concepts|Flashcards — Research Concepts]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|[[Defense Strategy]]]]*
 
 
 
