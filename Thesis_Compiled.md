@@ -16,10 +16,10 @@ FILE: Home.md (~615 words)
 ================================================================================
 ---
 tags:
-- dashboard
-- home
-- system
-- topic/system
+  - dashboard
+  - home
+  - system
+  - topic/system
 updated: 2026-06-07
 type: system-note
 status: active
@@ -138,14 +138,13 @@ if (clips.length > 0) {
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/Thesis MOC.md (~803 words)
+FILE: 02_Academic & Work/thesis/Thesis MOC.md (~801 words)
 ================================================================================
 ---
 tags:
-- MOC
-- navigation
-- thesis
-- topic/thesis
+  - MOC
+  - navigation
+  - topic/thesis
 generated_by: claude
 date: 2026-06-07
 type: thesis-note
@@ -277,16 +276,15 @@ SCALE ────────────────────────�
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/Thesis Overview.md (~833 words)
+FILE: 02_Academic & Work/thesis/Thesis Overview.md (~831 words)
 ================================================================================
 ---
 tags:
-- PRISMA
-- core
-- defense
-- phosphate
-- thesis
-- topic/thesis
+  - PRISMA
+  - core
+  - defense
+  - phosphate
+  - topic/thesis
 updated: 2026-05-24
 status: DEFENSE IN ~1 MONTH
 type: thesis-note
@@ -413,161 +411,14 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~227 words)
-================================================================================
----
-citekey: elmansour2025sensors
-title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
-  at Benguerir
-authors: EL MANSOUR A., LAAMRANI A., et al.
-year: 2025
-journal: Sensors
-doi: 10.3390/s26010002
-tags:
-- chapter-1
-- literature-note
-- own-paper
-- thesis
-- topic/thesis
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Your Paper — Chapter 1 (Sensors 2025)
-
-**This is your own published work. Know it cold.**
-
-## What it does
-Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
-
-## Key Results
-- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
-- 84% of spectra have R² > 0.70
-- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
-- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
-- Apatite spectral rank: 3–7 in field spectra
-
-## Novelty
-First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
-
-## Jury Defense Angle
-*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
-
-## Links
-- [[02_Academic & Work/thesis/Thesis MOC]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~216 words)
-================================================================================
----
-citekey: roberts2019unmixing
-title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
-authors: Roberts D.A., et al.
-year: 2019
-journal: Remote Sensing
-tags:
-- FCLS
-- VCA
-- chapter-3
-- literature-note
-- thesis
-- topic/thesis
-- unmixing
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Unmixing Foundation Paper — Chapter 3 Justification
-
-**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
-
-## Core Argument
-Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
-
-## How it Supports Your Thesis
-- Justifies linear model at 30m EnMAP resolution
-- VCA as standard for geological endmember extraction without prior knowledge
-- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
-
-## Defense Quote Ready
-*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
-
-## Links
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[02_Academic & Work/thesis/Thesis MOC]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~260 words)
-================================================================================
----
-citekey: verrelst2021review
-title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
-  A Review on Retrieval Methods'
-authors: Verrelst J., et al.
-year: 2021
-journal: Surveys in Geophysics
-tags:
-- RTM
-- jury-prep
-- literature-note
-- thesis
-- topic/thesis
-- unmixing
-- verrelst
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Verrelst 2021 — RTM & Retrieval Methods Review
-
-**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
-
-## Core Argument
-Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
-
-## Your Defense Angle Against This
-*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
-
-## If Verrelst Pushes Back
-- Acknowledge RTM validity for vegetation/soil systems
-- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
-- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
-
-## Links
-- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/30-Day Countdown.md (~564 words)
+FILE: 02_Academic & Work/thesis/defense-prep/30-Day Countdown.md (~562 words)
 ================================================================================
 ---
 tags:
-- countdown
-- defense
-- thesis
-- topic/thesis
-- urgent
+  - countdown
+  - defense
+  - topic/thesis
+  - urgent
 updated: 2026-05-24
 status: "ACTIVE \u2014 URGENT"
 type: thesis-note
@@ -648,18 +499,17 @@ created: '2026-05-27'
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/36-Day Sprint.md (~826 words)
+FILE: 02_Academic & Work/thesis/defense-prep/36-Day Sprint.md (~824 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-25
 tags:
-- defense
-- planning
-- sprint
-- thesis
-- topic/thesis
-- urgent
+  - defense
+  - planning
+  - sprint
+  - topic/thesis
+  - urgent
 updated: 2026-05-27
 type: thesis-note
 status: active
@@ -802,16 +652,15 @@ created: '2026-05-27'
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Quiz — NotebookLM.md (~1200 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Defense Quiz — NotebookLM.md (~1198 words)
 ================================================================================
 ---
 generated_by: notebooklm + claude
 date: 2026-05-26
 tags:
-- defense-prep
-- quiz
-- thesis
-- topic/thesis
+  - defense-prep
+  - quiz
+  - topic/thesis
 source: NotebookLM PhD Defense notebook (bb2823a9)
 type: thesis-note
 status: active
@@ -1008,15 +857,14 @@ Say it first. Say it last. Say it when Verrelst makes you doubt yourself.
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Slides — Master Plan.md (~2049 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Defense Slides — Master Plan.md (~2047 words)
 ================================================================================
 ---
 tags:
-- defense
-- priority
-- slides
-- thesis
-- topic/thesis
+  - defense
+  - priority
+  - slides
+  - topic/thesis
 generated_by: claude
 date: 2026-05-28
 updated: 2026-05-28
@@ -1326,17 +1174,16 @@ Defense date: June 30, 2026 · Jury: 10 members
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Strategy.md (~2021 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Defense Strategy.md (~2019 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-24
 tags:
-- defense
-- priority
-- strategy
-- thesis
-- topic/thesis
+  - defense
+  - priority
+  - strategy
+  - topic/thesis
 type: thesis-note
 status: active
 created: '2026-06-08'
@@ -1556,15 +1403,14 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Flashcards — Defense.md (~795 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Flashcards — Defense.md (~793 words)
 ================================================================================
 ---
 tags:
-- defense
-- flashcards
-- memorization
-- thesis
-- topic/thesis
+  - defense
+  - flashcards
+  - memorization
+  - topic/thesis
 generated_by: claude
 date: 2026-06-07
 sr-due: 2026-06-08
@@ -1689,18 +1535,17 @@ What is the novelty of your thesis?::First multi-scale hyperspectral RS framewor
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced.md (~972 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced.md (~970 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-06-05
 tags:
-- advanced
-- defense
-- jury
-- prep
-- thesis
-- topic/thesis
+  - advanced
+  - defense
+  - jury
+  - prep
+  - topic/thesis
 type: thesis-note
 status: active
 created: '2026-06-05'
@@ -1764,15 +1609,14 @@ This is an important connection. Heavy metals in phosphate waste — Cd (typical
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Jury Questions Prep.md (~1872 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Jury Questions Prep.md (~1870 words)
 ================================================================================
 ---
 tags:
-- defense
-- jury
-- prep
-- thesis
-- topic/thesis
+  - defense
+  - jury
+  - prep
+  - topic/thesis
 updated: 2026-05-24
 type: thesis-note
 status: active
@@ -1946,18 +1790,17 @@ Operational hyperspectral monitoring is becoming real — EnMAP, PRISMA, and upc
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Numbers Arsenal.md (~724 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Numbers Arsenal.md (~722 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-25
 tags:
-- defense
-- memorization
-- metrics
-- numbers
-- thesis
-- topic/thesis
+  - defense
+  - memorization
+  - metrics
+  - numbers
+  - topic/thesis
 type: thesis-note
 status: active
 created: '2026-06-08'
@@ -2076,15 +1919,14 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Oral Practice Log.md (~378 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Oral Practice Log.md (~376 words)
 ================================================================================
 ---
 tags:
-- defense
-- log
-- practice
-- thesis
-- topic/thesis
+  - defense
+  - log
+  - practice
+  - topic/thesis
 generated_by: claude
 date: 2026-06-07
 type: thesis-note
@@ -2161,15 +2003,14 @@ if (sessions.length === 0) {
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Session 0 — First Run.md (~565 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Session 0 — First Run.md (~563 words)
 ================================================================================
 ---
 tags:
-- defense
-- practice
-- session
-- thesis
-- topic/thesis
+  - defense
+  - practice
+  - session
+  - topic/thesis
 generated_by: claude
 date: 2026-06-07
 type: thesis-note
@@ -2255,18 +2096,17 @@ After logging, open `Ctrl+Shift+D` for tomorrow, set your focus: which section t
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Victory Speech.md (~617 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Victory Speech.md (~615 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-25
 tags:
-- defense
-- june-30
-- opening
-- speech
-- thesis
-- topic/thesis
+  - defense
+  - june-30
+  - opening
+  - speech
+  - topic/thesis
 duration: 3 minutes (~470 words)
 note: "Delivered in French at the defense \u2014 this is the English reference version"
 type: thesis-note
@@ -2320,6 +2160,149 @@ I am ready. Over to you.
 - **On "Over to you":** make eye contact with the jury. Do not look down.
 - **Target timing:** 2 min 45 — 3 min 00.
 - **Delivered in French at the actual defense** — practice in French.
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~225 words)
+================================================================================
+---
+citekey: elmansour2025sensors
+title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
+  at Benguerir
+authors: EL MANSOUR A., LAAMRANI A., et al.
+year: 2025
+journal: Sensors
+doi: 10.3390/s26010002
+tags:
+  - chapter-1
+  - literature-note
+  - own-paper
+  - topic/thesis
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Your Paper — Chapter 1 (Sensors 2025)
+
+**This is your own published work. Know it cold.**
+
+## What it does
+Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
+
+## Key Results
+- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
+- 84% of spectra have R² > 0.70
+- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
+- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
+- Apatite spectral rank: 3–7 in field spectra
+
+## Novelty
+First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
+
+## Jury Defense Angle
+*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
+
+## Links
+- [[02_Academic & Work/thesis/Thesis MOC]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~214 words)
+================================================================================
+---
+citekey: roberts2019unmixing
+title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
+authors: Roberts D.A., et al.
+year: 2019
+journal: Remote Sensing
+tags:
+  - FCLS
+  - VCA
+  - chapter-3
+  - literature-note
+  - topic/thesis
+  - unmixing
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Unmixing Foundation Paper — Chapter 3 Justification
+
+**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
+
+## Core Argument
+Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
+
+## How it Supports Your Thesis
+- Justifies linear model at 30m EnMAP resolution
+- VCA as standard for geological endmember extraction without prior knowledge
+- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
+
+## Defense Quote Ready
+*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[02_Academic & Work/thesis/Thesis MOC]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~258 words)
+================================================================================
+---
+citekey: verrelst2021review
+title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
+  A Review on Retrieval Methods'
+authors: Verrelst J., et al.
+year: 2021
+journal: Surveys in Geophysics
+tags:
+  - RTM
+  - jury-prep
+  - literature-note
+  - topic/thesis
+  - unmixing
+  - verrelst
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Verrelst 2021 — RTM & Retrieval Methods Review
+
+**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
+
+## Core Argument
+Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
+
+## Your Defense Angle Against This
+*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
+
+## If Verrelst Pushes Back
+- Acknowledge RTM validity for vegetation/soil systems
+- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
+- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
+
+## Links
+- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
 
 
 
