@@ -12,7 +12,7 @@ summary: "Compiled notes for Work theme: Job applications, postdoc search tracki
 
 
 ================================================================================
-FILE: Dashboard.md (~549 words)
+FILE: Dashboard.md (~737 words)
 ================================================================================
 ---
 tags:
@@ -140,6 +140,31 @@ const wikiConcepts = dv.pages('"04_Knowledge Base/wiki/concepts"').sort(p => p.f
 const money = dv.pages('"03_Digital Life/money"').sort(p => p.file.mtime, 'desc').limit(5);
 const jobs = dv.pages('"02_Academic & Work/work/active"').where(p => p.file.name.includes("Opportunit") || p.file.name.includes("Application") || p.file.name.includes("Postdoc")).sort(p => p.file.mtime, 'desc').limit(5);
 
+// Get approvals and today's schedule
+const approvals = dv.pages('"01_System/approvals"');
+let approvalsHtml = "";
+if (approvals.length === 0) {
+  approvalsHtml = `<li class="dash-item" style="color: var(--text-muted);">No drafts pending approval in 01_System/approvals/</li>`;
+} else {
+  approvalsHtml = approvals.map(p => {
+    const statusLabel = p.approved === true || p.approved === "true" ? "✅ Approved" : "⏳ Staged";
+    const metaLabel = p.target_recipient || p.file.name;
+    return `<li class="dash-item">
+      <span>✉️ <strong>${metaLabel}</strong> — ${p.title || 'Outreach'}</span>
+      <span>${statusLabel} · ${p.file.link.markdown()}</span>
+    </li>`;
+  }).join("");
+}
+
+const todayStr = moment().format("YYYY-MM-DD");
+const dailyNote = dv.page("03_Digital Life/daily/" + todayStr + ".md");
+let meetingsHtml = "";
+if (dailyNote) {
+  meetingsHtml = `<li class="dash-item"><span>📅 Today's Note: ${dailyNote.file.link.markdown()}</span></li>`;
+} else {
+  meetingsHtml = `<li class="dash-item" style="color: var(--text-muted);">Daily note ${todayStr}.md not created yet. Run pipeline sweeps to initialize.</li>`;
+}
+
 // Render helper
 function renderList(pages, placeholder = "No active notes found.") {
   if (pages.length === 0) return `<li class="dash-item" style="color: var(--text-muted);">${placeholder}</li>`;
@@ -163,6 +188,24 @@ const html = `
     </div>
   </div>
   
+  <div class="dash-card" style="grid-column: 1 / -1; border-left: 4px solid #10b981;">
+    <h3>📨 Live Inbox & Calendar Summary</h3>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+      <div>
+        <h4 style="margin: 0 0 8px 0; font-size: 13px; color: var(--text-muted);">📅 Synced Today's Schedule</h4>
+        <ul class="dash-list">
+          ${meetingsHtml}
+        </ul>
+      </div>
+      <div>
+        <h4 style="margin: 0 0 8px 0; font-size: 13px; color: var(--text-muted);">📬 Pending Staged Outreach (Approvals Queue)</h4>
+        <ul class="dash-list">
+          ${approvalsHtml}
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <div class="dash-card">
     <h3>🎓 Thesis Defense Prep</h3>
     <ul class="dash-list">
