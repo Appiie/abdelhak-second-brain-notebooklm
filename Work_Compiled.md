@@ -3310,7 +3310,7 @@ abdelhak.elmansour@um6p.ma
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md (~672 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md (~674 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3380,8 +3380,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[Thesis Overview]]
 - [[Hyperspectral Imaging]]
 - [[Spectral Analysis]]
@@ -3394,7 +3394,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md (~722 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md (~724 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3469,8 +3469,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[Thesis Overview]]
 - [[EnMAP Satellite]]
 - [[Hyperspectral Imaging]]
@@ -3479,7 +3479,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md (~629 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md (~631 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3546,8 +3546,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
@@ -3560,7 +3560,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc.md (~652 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc.md (~653 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3626,12 +3626,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Cover Letter — Lorenz HZDR Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Cover Letter — Esmaeili UofT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Cover Letter — Lorenz HZDR Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Cover Letter — Esmaeili UofT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md (~720 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md (~721 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3697,12 +3697,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc|Cover Letter — Khodadadzadeh ITC Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc|Cover Letter — Khodadadzadeh ITC Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md (~598 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md (~600 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3769,8 +3769,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
@@ -3783,7 +3783,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md (~671 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md (~672 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3848,12 +3848,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Cover Letter — Lorenz HZDR Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Cover Letter — Lorenz HZDR Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md (~728 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md (~729 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3924,12 +3924,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md (~638 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md (~639 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3996,13 +3996,13 @@ elmansour01abdelhak@gmail.com
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc|Cover Letter — INRAE PREPSOIL Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc|Cover Letter — INRAE PREPSOIL Postdoc]]*
 
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~696 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~697 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4065,13 +4065,13 @@ UM6P, GSMI, Benguerir, Maroc
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc|Cover Letter — INRAE MELICERTES Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc|Cover Letter — INRAE MELICERTES Postdoc]]*
 
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~615 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~616 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4139,13 +4139,13 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente|Motivation Letter — UTwente]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente|Motivation Letter — UTwente]]*
 
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md (~720 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md (~721 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4213,12 +4213,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Cover Letter — Esmaeili UofT Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Cover Letter — Esmaeili UofT Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~639 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~640 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4284,13 +4284,13 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
 
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md (~628 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md (~629 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4355,12 +4355,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc|Cover Letter — Gloaguen HZDR Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc|Cover Letter — Gloaguen HZDR Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md (~706 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md (~707 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4428,12 +4428,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]] · [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Cover Letter — Valeria UQAT Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]] · [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Cover Letter — Valeria UQAT Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md (~768 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md (~769 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4502,12 +4502,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]] · [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Cover Letter — Sorrentino Naples Inquiry]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]] · [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Cover Letter — Sorrentino Naples Inquiry]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md (~673 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md (~674 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4574,12 +4574,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md (~668 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md (~670 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4651,8 +4651,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[Thesis Overview]]
 - [[PRISMA Satellite]]
 - [[Waste Rock Characterization]]
@@ -4665,7 +4665,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~677 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~679 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4736,8 +4736,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[EnMAP Satellite]]
 - [[PRISMA Satellite]]
 - [[Reclamation Progress Index]]
@@ -4747,7 +4747,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md (~597 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md (~599 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4813,8 +4813,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief, Postdoc Applications 2026]]
-- [[Hot Opportunities, May 2026]]
+- [[Review Brief — Postdoc Applications 2026]]
+- [[Hot Opportunities — May 2026]]
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
@@ -4827,7 +4827,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md (~627 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md (~628 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4893,7 +4893,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief, Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
 
 
 
