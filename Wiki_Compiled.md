@@ -12195,3 +12195,45 @@ OCP Group is a natural client for remote sensing consulting post-defense.
 
 
 
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md (~136 words)
+================================================================================
+---
+tags:
+  - MOC
+  - topic/wiki-concept
+generated_by: claude-moc-engine
+type: moc-note
+status: active
+---
+
+# Wiki-Concept MOC
+
+> Auto-generated index for wiki-concept concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Waste Rock Characterization]] — Added automatically.
+- [[VNIR-SWIR Spectroscopy]] — Added automatically.
+- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
+- [[Spectral Library Matching]] — Added automatically.
+- [[Spectral Analysis]] — Added automatically.
+- [[Spatially Constrained Cross-Validation]] — Added automatically.
+- [[Shannon Entropy Uncertainty]] — Added automatically.
+- [[Reclamation Progress Index]] — Added automatically.
+- [[Reclamation Monitoring]] — Added automatically.
+- [[PRISMA Satellite]] — Added automatically.
+- [[Phosphate Mine Waste]] — Added automatically.
+- [[Mineral Assemblages]] — Added automatically.
+- [[Machine Learning for Hyperspectral]] — Added automatically.
+- [[Hyperspectral Imaging]] — Added automatically.
+- [[Handheld XRF]] — Added automatically.
+- [[EnMAP Satellite]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
