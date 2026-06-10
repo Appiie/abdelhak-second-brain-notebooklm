@@ -12,7 +12,7 @@ summary: "Compiled notes for Work theme: Job applications, postdoc search tracki
 
 
 ================================================================================
-FILE: Dashboard.md (~737 words)
+FILE: Dashboard.md (~769 words)
 ================================================================================
 ---
 tags:
@@ -245,6 +245,16 @@ const html = `
     <h3>💰 Domains & Income</h3>
     <ul class="dash-list">
       ${renderList(money)}
+    </ul>
+  </div>
+
+  <div class="dash-card" style="border-top: 3px solid #10b981;">
+    <h3>🧠 Memory Layers & Timeline</h3>
+    <ul class="dash-list">
+      <li class="dash-item"><span>📅 [[LIFE_TIMELINE_MOC|Life Timeline MOC]]</span></li>
+      <li class="dash-item"><span>🏗️ [[VAULT_ARCHITECTURE_v7_InfiniteMemory|Architecture v7]]</span></li>
+      <li class="dash-item"><span>📥 [[PERSONAL_DATA_INGESTION_PIPELINE|Ingestion Pipeline]]</span></li>
+      <li class="dash-item"><span>🕸️ [[RICH_CONNECTION_PROTOCOL|Connection Protocol]]</span></li>
     </ul>
   </div>
 </div>
