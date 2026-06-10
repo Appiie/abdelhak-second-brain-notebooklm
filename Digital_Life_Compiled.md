@@ -226,7 +226,7 @@ Deliver exactly in this order, no introduction:
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/North Star.md (~836 words)
+FILE: 03_Digital Life/brain/North Star.md (~843 words)
 ================================================================================
 ---
 tags:
@@ -316,7 +316,7 @@ Money is being solved NOW, not after defense. Multiple streams running in parall
 ## Publications
 - **Published (4):** Sensors 2025 (Ch.1) · IJEST 2024 · Mining 2023 · BDJ 2023
 - **Pipeline:** Minerals (Ch.2, accepted 2026 ✅) · Ch.3 (pending submission post-defense)
-- **Conferences:** EGU 2025 · EARSeL 2024 (Valencia) · ESPC6 2026 (UM6P, abstract submitted)
+- **Conferences:** EGU 2025 · EARSeL 2024 (Valencia) · ESPC6 2026 (UM6P, [[02_Academic & Work/work/active/ESPC6 Submission/Email – ESPC6 Abstract Submission.md|abstract submitted]])
 
 ---
 
@@ -969,7 +969,7 @@ Dr. Abdelhak EL MANSOUR.
 
 
 ================================================================================
-FILE: 03_Digital Life/personal/identity/Abdelhak Identity.md (~406 words)
+FILE: 03_Digital Life/personal/identity/Abdelhak Identity.md (~420 words)
 ================================================================================
 ---
 tags:
@@ -1051,7 +1051,7 @@ Languages: French, Arabic, Darija, English, Tamazight (mother tongue)
 
 ---
 
-*Related: [[03_Digital Life/brain/North Star|North Star]] · [[02_Academic & Work/org/People & Context|People & Context]]*
+*Related: [[03_Digital Life/brain/North Star|North Star]] · [[02_Academic & Work/org/People & Context|People & Context]] · [[03_Digital Life/personal/Twitter Intelligence|Twitter Intelligence]] · [[03_Digital Life/personal/Who I Am Becoming|Who I Am Becoming]]*
 
 
 
