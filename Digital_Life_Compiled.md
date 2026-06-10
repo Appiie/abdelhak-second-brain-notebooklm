@@ -12,14 +12,13 @@ summary: "Compiled notes for Digital_Life theme: Personal identity, domain portf
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Gotchas.md (~135 words)
+FILE: 03_Digital Life/brain/Gotchas.md (~133 words)
 ================================================================================
 ---
 description: "Things that have bitten before and will bite again \u2014 pitfalls,\
   \ edge cases, and workflow traps"
 tags:
-- brain
-- topic/brain
+  - topic/brain
 type: brain-note
 status: completed
 created: '2026-06-08'
@@ -45,13 +44,12 @@ This project runs on Windows. PowerShell commands (Copy-Item, etc.) do not work 
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Key Decisions.md (~312 words)
+FILE: 03_Digital Life/brain/Key Decisions.md (~310 words)
 ================================================================================
 ---
 tags:
-- brain
-- decisions
-- topic/brain
+  - decisions
+  - topic/brain
 updated: 2026-05-24
 type: brain-note
 status: completed
@@ -112,15 +110,14 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Memories.md (~253 words)
+FILE: 03_Digital Life/brain/Memories.md (~251 words)
 ================================================================================
 ---
 description: "Index of memory topics \u2014 key decisions, patterns, gotchas, people\
   \ context"
 tags:
-- brain
-- index
-- topic/brain
+  - index
+  - topic/brain
 type: brain-note
 status: completed
 created: '2026-06-08'
@@ -150,15 +147,14 @@ Persistent context and knowledge retained across sessions. Each topic lives in i
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Morning Brief Template.md (~328 words)
+FILE: 03_Digital Life/brain/Morning Brief Template.md (~326 words)
 ================================================================================
 ---
 tags:
-- brain
-- morning
-- ritual
-- system
-- topic/brain
+  - morning
+  - ritual
+  - system
+  - topic/brain
 note: "Instructions for Claude \u2014 read when Abdelhak says \"good morning\" or\
   \ equivalent"
 type: brain-note
@@ -230,15 +226,14 @@ Deliver exactly in this order, no introduction:
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/North Star.md (~838 words)
+FILE: 03_Digital Life/brain/North Star.md (~836 words)
 ================================================================================
 ---
 tags:
-- brain
-- core
-- identity
-- north-star
-- topic/brain
+  - core
+  - identity
+  - north-star
+  - topic/brain
 updated: 2026-05-26
 type: brain-note
 status: completed
@@ -364,13 +359,12 @@ My Grok usage shows I use AI as a personal advisor — not just a coding tool. I
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Patterns.md (~344 words)
+FILE: 03_Digital Life/brain/Patterns.md (~342 words)
 ================================================================================
 ---
 tags:
-- brain
-- patterns
-- topic/brain
+  - patterns
+  - topic/brain
 updated: 2026-05-24
 type: brain-note
 status: completed
@@ -422,16 +416,15 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 03_Digital Life/brain/Skills.md (~1187 words)
+FILE: 03_Digital Life/brain/Skills.md (~1185 words)
 ================================================================================
 ---
 date: 2026-04-07
 description: "Vault-specific workflows and slash commands \u2014 reusable patterns\
   \ for review prep, project tracking, and vault maintenance"
 tags:
-- brain
-- index
-- topic/brain
+  - index
+  - topic/brain
 type: brain-note
 status: completed
 created: '2026-05-26'
@@ -575,16 +568,15 @@ SessionStart hook runs `qmd --index <name> update` automatically, reading the in
 
 
 ================================================================================
-FILE: 03_Digital Life/personal/Flashcards — Identity.md (~707 words)
+FILE: 03_Digital Life/personal/Flashcards — Identity.md (~705 words)
 ================================================================================
 ---
 tags:
-- bio
-- flashcards
-- identity
-- networking
-- personal
-- topic/personal
+  - bio
+  - flashcards
+  - identity
+  - networking
+  - topic/personal
 generated_by: claude
 date: 2026-06-07
 type: personal-note
@@ -669,17 +661,16 @@ Things built so far::RPI (new scientific instrument). 1,776-line Python pipeline
 
 
 ================================================================================
-FILE: 03_Digital Life/personal/Twitter Intelligence.md (~1402 words)
+FILE: 03_Digital Life/personal/Twitter Intelligence.md (~1400 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-26
 tags:
-- identity
-- intelligence
-- personal
-- topic/personal
-- twitter
+  - identity
+  - intelligence
+  - topic/personal
+  - twitter
 source: .raw/twitter data/ (Twitter archive)
 type: personal-note
 status: completed
@@ -892,15 +883,14 @@ The financial pressure running underneath everything — Upwork bids, domain liq
 
 
 ================================================================================
-FILE: 03_Digital Life/personal/Who I Am Becoming.md (~629 words)
+FILE: 03_Digital Life/personal/Who I Am Becoming.md (~627 words)
 ================================================================================
 ---
 tags:
-- brain
-- identity
-- manifesto
-- personal
-- topic/personal
+  - brain
+  - identity
+  - manifesto
+  - topic/personal
 date: 2026-05-25
 note: "Read this when you doubt. Not to convince yourself \u2014 to remember."
 type: personal-note
@@ -979,15 +969,14 @@ Dr. Abdelhak EL MANSOUR.
 
 
 ================================================================================
-FILE: 03_Digital Life/personal/identity/Abdelhak Identity.md (~408 words)
+FILE: 03_Digital Life/personal/identity/Abdelhak Identity.md (~406 words)
 ================================================================================
 ---
 tags:
-- Amazigh
-- Morocco
-- identity
-- personal
-- topic/personal
+  - Amazigh
+  - Morocco
+  - identity
+  - topic/personal
 updated: 2026-05-24
 type: personal-note
 status: completed
@@ -1067,15 +1056,14 @@ Languages: French, Arabic, Darija, English, Tamazight (mother tongue)
 
 
 ================================================================================
-FILE: 03_Digital Life/money/Money Overview.md (~593 words)
+FILE: 03_Digital Life/money/Money Overview.md (~591 words)
 ================================================================================
 ---
 tags:
-- income
-- money
-- strategy
-- topic/money
-- urgent
+  - income
+  - strategy
+  - topic/money
+  - urgent
 updated: 2026-05-24
 type: money-note
 status: active
@@ -1174,16 +1162,15 @@ Typical salaries: ESA YPP ~€4,000-5,000/mo; DLR/VITO postdoc ~€3,500-4,500/m
 
 
 ================================================================================
-FILE: 03_Digital Life/money/domaining/Domain Outreach Pipeline.md (~173 words)
+FILE: 03_Digital Life/money/domaining/Domain Outreach Pipeline.md (~171 words)
 ================================================================================
 ---
 kanban-plugin: basic
 tags:
-- domaining
-- kanban
-- money
-- sales
-- topic/money
+  - domaining
+  - kanban
+  - sales
+  - topic/money
 generated_by: claude
 date: 2026-06-07
 type: domain-portfolio
@@ -1232,17 +1219,16 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md (~1312 words)
+FILE: 03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md (~1310 words)
 ================================================================================
 ---
 generated_by: claude
 date: 2026-05-24
 tags:
-- domaining
-- marketing
-- money
-- strategy
-- topic/money
+  - domaining
+  - marketing
+  - strategy
+  - topic/money
 type: domain-portfolio
 status: active
 created: '2026-06-08'
@@ -1428,14 +1414,13 @@ If 1 sells at BIN + 1 at min offer:
 
 
 ================================================================================
-FILE: 03_Digital Life/money/domaining/Domain Portfolio.md (~827 words)
+FILE: 03_Digital Life/money/domaining/Domain Portfolio.md (~825 words)
 ================================================================================
 ---
 tags:
-- domaining
-- money
-- portfolio
-- topic/money
+  - domaining
+  - portfolio
+  - topic/money
 updated: 2026-05-24
 source: domains-export.csv (Portfolio A of 2)
 type: domain-portfolio
@@ -1586,15 +1571,14 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 03_Digital Life/money/domaining/Flashcards — Domains.md (~591 words)
+FILE: 03_Digital Life/money/domaining/Flashcards — Domains.md (~589 words)
 ================================================================================
 ---
 tags:
-- domaining
-- flashcards
-- money
-- portfolio
-- topic/money
+  - domaining
+  - flashcards
+  - portfolio
+  - topic/money
 generated_by: claude
 date: 2026-06-07
 type: domain-portfolio
@@ -1697,15 +1681,14 @@ What is LTO and is it enabled?::Lease-to-own financing. NOT currently configured
 
 
 ================================================================================
-FILE: 03_Digital Life/money/instagram/Instagram Strategy.md (~366 words)
+FILE: 03_Digital Life/money/instagram/Instagram Strategy.md (~364 words)
 ================================================================================
 ---
 tags:
-- instagram
-- monetization
-- money
-- social-media
-- topic/money
+  - instagram
+  - monetization
+  - social-media
+  - topic/money
 updated: 2026-05-24
 type: instagram-note
 status: active
@@ -1774,15 +1757,14 @@ Expected spike: potentially 5K-15K new followers around defense announcement.
 
 
 ================================================================================
-FILE: 03_Digital Life/money/instagram/Sponsorship Pipeline.md (~667 words)
+FILE: 03_Digital Life/money/instagram/Sponsorship Pipeline.md (~665 words)
 ================================================================================
 ---
 tags:
-- instagram
-- money
-- pipeline
-- sponsorship
-- topic/money
+  - instagram
+  - pipeline
+  - sponsorship
+  - topic/money
 updated: 2026-05-28
 type: instagram-note
 status: active
