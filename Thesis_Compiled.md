@@ -12,7 +12,7 @@ summary: "Compiled notes for Thesis theme: Thesis manuscript, defense prep, and 
 
 
 ================================================================================
-FILE: Home.md (~639 words)
+FILE: Home.md (~658 words)
 ================================================================================
 ---
 tags:
@@ -129,6 +129,7 @@ if (clips.length > 0) {
 | 🧠 **North Star** | [[03_Digital Life/brain/North Star\|Who you are]] |
 | 📚 **Wiki** | [[04_Knowledge Base/wiki/index\|Knowledge base]] |
 | ⚙️ **Blueprints (v5)** | [[VAULT_ARCHITECTURE_v5|Architecture v5]] · [[MCP_CONNECTED_AGENTS_v5|Agents v5]] · [[EXTERNAL_MCP_INTEGRATIONS_v5|Integrations v5]] · [[CLOUD_SMARTNESS_v5|Cloud Smartness v5]] · [[PIPELINE_v5|Pipeline v5]] · [[ROADMAP_v5|Roadmap v5]] |
+| 🧠 **Memory Layers (v7)** | [[VAULT_ARCHITECTURE_v7_InfiniteMemory|Architecture v7]] · [[PERSONAL_DATA_INGESTION_PIPELINE|Ingestion Pipeline]] · [[RICH_CONNECTION_PROTOCOL|Connection Protocol]] · [[LIFE_TIMELINE_MOC|Life Timeline MOC]] |
 
 ---
 
