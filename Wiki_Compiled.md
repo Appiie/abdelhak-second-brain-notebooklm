@@ -171,17 +171,14 @@ What is "backfilling" in mine reclamation?::Covering raw waste rock with overbur
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - A-C.md (~837 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - A-C.md (~831 words)
 ================================================================================
 ---
 generated_by: claude
-date: 2026-06-10
+date: '2026-06-10'
 tags:
-  - literature
   - moc
   - range-a-c
-  - system
-  - topic/system
   - topic/wiki-concept
 type: concept-note
 status: active
@@ -260,17 +257,14 @@ summary: Sub-MOC for literature sources in alphabetical range A-C.
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - C-H.md (~836 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - C-H.md (~830 words)
 ================================================================================
 ---
 generated_by: claude
-date: 2026-06-10
+date: '2026-06-10'
 tags:
-  - literature
   - moc
   - range-c-h
-  - system
-  - topic/system
   - topic/wiki-concept
 type: concept-note
 status: active
@@ -349,17 +343,14 @@ summary: Sub-MOC for literature sources in alphabetical range C-H.
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - H-M.md (~825 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - H-M.md (~819 words)
 ================================================================================
 ---
 generated_by: claude
-date: 2026-06-10
+date: '2026-06-10'
 tags:
-  - literature
   - moc
   - range-h-m
-  - system
-  - topic/system
   - topic/wiki-concept
 type: concept-note
 status: active
@@ -438,17 +429,14 @@ summary: Sub-MOC for literature sources in alphabetical range H-M.
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - M-R.md (~727 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - M-R.md (~721 words)
 ================================================================================
 ---
 generated_by: claude
-date: 2026-06-10
+date: '2026-06-10'
 tags:
-  - literature
   - moc
   - range-m-r
-  - system
-  - topic/system
   - topic/wiki-concept
 type: concept-note
 status: active
@@ -527,17 +515,14 @@ summary: Sub-MOC for literature sources in alphabetical range M-R.
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC - R-Z.md (~848 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC - R-Z.md (~842 words)
 ================================================================================
 ---
 generated_by: claude
-date: 2026-06-10
+date: '2026-06-10'
 tags:
-  - literature
   - moc
   - range-r-z
-  - system
-  - topic/system
   - topic/wiki-concept
 type: concept-note
 status: active
@@ -618,16 +603,13 @@ summary: Sub-MOC for literature sources in alphabetical range R-Z.
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Literature MOC.md (~141 words)
+FILE: 04_Knowledge Base/wiki/Literature MOC.md (~135 words)
 ================================================================================
 ---
 generated_by: claude
-date: 2026-06-10
+date: '2026-06-10'
 tags:
-  - literature
   - moc
-  - system
-  - topic/system
   - topic/wiki-concept
 type: concept-note
 status: active
