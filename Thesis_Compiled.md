@@ -12,7 +12,7 @@ summary: "Compiled notes for Thesis theme: Thesis manuscript, defense prep, and 
 
 
 ================================================================================
-FILE: Home.md (~615 words)
+FILE: Home.md (~634 words)
 ================================================================================
 ---
 tags:
@@ -128,6 +128,7 @@ if (clips.length > 0) {
 | 📥 **Clips** | [[01_System/clips/Clips Dashboard\|All web clips]] |
 | 🧠 **North Star** | [[03_Digital Life/brain/North Star\|Who you are]] |
 | 📚 **Wiki** | [[04_Knowledge Base/wiki/index\|Knowledge base]] |
+| ⚙️ **Blueprints (v2)** | [[VAULT_ARCHITECTURE_v2\|Architecture v2]] · [[ENHANCED_PIPELINE\|Pipeline v2]] · [[AI_AGENT_RULES\|Agent Rules]] · [[SMART_DASHBOARD\|Dashboard v2]] · [[IMPLEMENTATION_ROADMAP\|Roadmap]] |
 
 ---
 
