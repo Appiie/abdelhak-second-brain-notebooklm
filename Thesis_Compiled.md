@@ -140,6 +140,59 @@ if (clips.length > 0) {
 
 
 ================================================================================
+FILE: 02_Academic & Work/thesis/Pipeline_MOC.md (~232 words)
+================================================================================
+# ⚙️ Hyperspectral Processing Pipeline MOC
+
+This Map of Content (MOC) acts as the central registry for the Python processing libraries, classification scripts, and radiative transfer unmixing engines developed during your PhD research.
+
+---
+
+## 🚀 1. The Core 1,776-Line Python Unmixing Engine
+*   **Path**: `01_System/scripts/unmixing_engine.py` (simulated/referenced)
+*   **Algorithms Integrated**:
+    *   **VCA (Vertex Component Analysis)**: Exposes endmember spectra directly from raw image matrices.
+    *   **FCLS (Fully Constrained Least Squares)**: Computes fractional abundances with constraints: Sum-to-One (ASC) and Non-Negative (ANC).
+*   **Key Inputs**: EnMAP L2A tile (orthorectified, surface reflectance), PRISMA SWIR bands.
+*   **Key Outputs**: Carbonate, Gypsum, Clay, and Siliceous abundance maps.
+
+---
+
+## 📁 2. Pipeline Architecture & Execution Steps
+
+```
+[ Raw Image Ingest ] ──► [ Atmospheric Correction ] ──► [ Bad Band Removal (SWIR) ]
+                                                                   │
+                                                                   ▼
+[ Abundance Maps ]   ◄── [ [[Spectral Unmixing]] (VCA-FCLS) ] ◄── [ Endmember Extraction ]
+        │
+        ▼
+[ Isotonic Calibration ] ──► [ [[Reclamation Progress Index]] (RPI) ] ──► [ XRF Geochem Validation ]
+```
+
+---
+
+## 🛠️ 3. Execution Scripts Registry
+
+*   `01_System/scripts/references_sync.py`: Syncs Zotero literature annotations.
+*   `01_System/scripts/calendar_sync.py`: Synchronizes Google Calendar meetings to daily notes.
+*   `01_System/scripts/contradiction_detector.py`: Scans the vault for metrics contradictions.
+*   `01_System/scripts/auto_moc_generator.py`: Audits note counts and folder locations.
+*   `01_System/scripts/vault_reflector.py`: Performs graph network structural checks.
+
+---
+
+## 📊 Pipeline Dataview Query
+```dataview
+TABLE sizeBytes AS "Script Size", updated AS "Last Modified"
+FROM "01_System/scripts"
+SORT file.name ASC
+```
+
+
+
+
+================================================================================
 FILE: 02_Academic & Work/thesis/Thesis MOC.md (~966 words)
 ================================================================================
 ---
@@ -432,149 +485,6 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~225 words)
-================================================================================
----
-citekey: elmansour2025sensors
-title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
-  at Benguerir
-authors: EL MANSOUR A., LAAMRANI A., et al.
-year: 2025
-journal: Sensors
-doi: 10.3390/s26010002
-tags:
-  - chapter-1
-  - literature-note
-  - own-paper
-  - topic/thesis
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Your Paper — Chapter 1 (Sensors 2025)
-
-**This is your own published work. Know it cold.**
-
-## What it does
-Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. Spectral library matching against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
-
-## Key Results
-- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
-- 84% of spectra have R² > 0.70
-- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
-- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
-- Apatite spectral rank: 3–7 in field spectra
-
-## Novelty
-First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
-
-## Jury Defense Angle
-*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
-
-## Links
-- [[02_Academic & Work/thesis/Thesis MOC]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~214 words)
-================================================================================
----
-citekey: roberts2019unmixing
-title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
-authors: Roberts D.A., et al.
-year: 2019
-journal: Remote Sensing
-tags:
-  - FCLS
-  - VCA
-  - chapter-3
-  - literature-note
-  - topic/thesis
-  - unmixing
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Unmixing Foundation Paper — Chapter 3 Justification
-
-**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
-
-## Core Argument
-Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
-
-## How it Supports Your Thesis
-- Justifies linear model at 30m EnMAP resolution
-- VCA as standard for geological endmember extraction without prior knowledge
-- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
-
-## Defense Quote Ready
-*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
-
-## Links
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[02_Academic & Work/thesis/Thesis MOC]]
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~258 words)
-================================================================================
----
-citekey: verrelst2021review
-title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
-  A Review on Retrieval Methods'
-authors: Verrelst J., et al.
-year: 2021
-journal: Surveys in Geophysics
-tags:
-  - RTM
-  - jury-prep
-  - literature-note
-  - topic/thesis
-  - unmixing
-  - verrelst
-generated_by: claude
-date: 2026-06-07
-type: thesis-note
-status: active
-created: '2026-06-07'
----
-
-# Verrelst 2021 — RTM & Retrieval Methods Review
-
-**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
-
-## Core Argument
-Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
-
-## Your Defense Angle Against This
-*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
-
-## If Verrelst Pushes Back
-- Acknowledge RTM validity for vegetation/soil systems
-- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
-- Note that SCOPE/PROSAIL are not designed for phosphate mine waste mineralogy
-
-## Links
-- [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
-
-
-
-
-================================================================================
 FILE: 02_Academic & Work/thesis/defense-prep/30-Day Countdown.md (~562 words)
 ================================================================================
 ---
@@ -645,7 +555,7 @@ created: '2026-05-27'
 3. What are the limitations of your approach at field scale?
 4. How do your ML models compare — why Extra Trees over SVM?
 5. What is the practical application for OCP Group?
-6. How does reclamation monitoring add to existing methods?
+6. How does [[Reclamation Monitoring]] add to existing methods?
 7. What would you do differently?
 8. Future research directions?
 
@@ -731,7 +641,7 @@ created: '2026-05-27'
 
 ### Wed June 4
 - [ ] Revise slides where you hesitated
-- [ ] Memorize the 10 critical numbers → [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal#Flash Cards — 10 Critical Numbers]]
+- [ ] Memorize the 10 critical numbers → [[02_Academic & Work/thesis/defense-prep/[[Numbers Arsenal]]#Flash Cards — 10 Critical Numbers]]
 
 ### Thu June 5
 - [ ] Oral run #2 — smoother, no notes
@@ -855,10 +765,10 @@ Clay-rich weathering horizons coat the surface. Their Al–OH absorptions at ~22
 
 ## Q2 — Sprint Rule No. 1
 
-**What was "Rule No. 1" established for the 36-day sprint leading up to the thesis defense?**
+**What was "Rule No. 1" established for the [[36-Day Sprint]] leading up to the thesis defense?**
 
 - A) The slides pass before everything else ✅
-- B) Memorize the Numbers Arsenal immediately
+- B) Memorize the [[Numbers Arsenal]] immediately
 - C) Submit the Chapter 3 paper first
 - D) Conduct a mock defense daily
 
@@ -874,7 +784,7 @@ Slides are Week 1–2. Mock defenses start Week 3. Numbers memorization runs in 
 
 **Why did the Balanced Accuracy (BAC) for Chapter 2 decrease to 0.60–0.67 during validation?**
 
-- A) The use of spatially constrained cross-validation with a 30 m buffer ✅
+- A) The use of [[Spatially Constrained Cross-Validation]] with a 30 m buffer ✅
 - B) The removal of 60 SWIR bands during ANOVA selection
 - C) Failure to use the Extra Trees classifier
 - D) Atmospheric interference in the VNIR bands
@@ -890,13 +800,13 @@ Enforcing geographic separation between training and test sets removes the infla
 
 **Which novel indicator was developed in Chapter 3 to quantify the state of backfilling operations from orbit?**
 
-- A) Reclamation Progress Index (RPI) ✅
+- A) [[Reclamation Progress Index]] (RPI) ✅
 - B) Phosphate Enrichment Score (PES)
 - C) Normalized Difference Mineral Index (NDMI)
 - D) VCA-FCLS Abundance Ratio
 
 **Answer: A**
-The RPI is the first quantitative, satellite-derived metric calibrated against independent field geochemistry (XRF) for phosphate mine waste. Continuous, monotone, physically meaningful. ρ=0.845, p=1.74×10⁻¹².
+The RPI is the first quantitative, satellite-derived metric calibrated against independent field geochemistry (XRF) for [[Phosphate Mine Waste]]. Continuous, monotone, physically meaningful. ρ=0.845, p=1.74×10⁻¹².
 
 *Hint: The name describes what it measures over time.*
 
@@ -920,7 +830,7 @@ Verrelst supervised your internship in Valencia (EARSeL 2024). He knows PRISMA. 
 
 ## Q6 — Why PRISMA Over Sentinel-2
 
-**What was the primary reason for selecting the PRISMA satellite sensor over Sentinel-2 for mineralogical mapping?**
+**What was the primary reason for selecting the [[PRISMA Satellite]] sensor over Sentinel-2 for mineralogical mapping?**
 
 - A) PRISMA provides contiguous spectral bands essential for identifying diagnostic mineral absorptions ✅
 - B) PRISMA has much higher spatial resolution of 5 m in the SWIR range
@@ -946,7 +856,7 @@ Verrelst supervised your internship in Valencia (EARSeL 2024). He knows PRISMA. 
 **Answer: A — r = 0.859**
 Very large spectral separation between zones across the full spectral range.
 - 0.670 = upper BAC bound, Ch.2
-- 0.748 = mean R² for spectral library matching, Ch.1
+- 0.748 = mean R² for [[Spectral Library Matching]], Ch.1
 - 0.203 = median RPI value for Reference Waste Rock zone
 
 *Hint: This spans the entire valid spectral range of EnMAP.*
@@ -983,21 +893,21 @@ At 30 m resolution, a pixel integrates dozens of distinct rock fragments and min
 - 56.22 wt% = max SiO₂
 - 12.3 million tonnes = total waste rock generated (not a concentration)
 
-*Hint: This is the critical number for the phosphate-rich class in the Numbers Arsenal.*
+*Hint: This is the critical number for the phosphate-rich class in the [[Numbers Arsenal]].*
 
 ---
 
 ## Q10 — One-Sentence Summary
 
-**According to the defense strategy, what is the "One-Sentence Summary" to memorize and say first, last, and when feeling lost?**
+**According to the [[Defense Strategy]], what is the "One-Sentence Summary" to memorize and say first, last, and when feeling lost?**
 
-- A) "I developed a multi-scale framework that characterizes and monitors phosphate mine waste rocks combining three complementary approaches." ✅
+- A) "I developed a multi-scale framework that characterizes and monitors [[Phosphate Mine Waste]] rocks combining three complementary approaches." ✅
 - B) "This thesis proves that PRISMA and EnMAP are superior to all other sensors for monitoring Moroccan mines."
 - C) "My research demonstrates that machine learning is the only way to achieve high accuracy in mineral mapping."
 - D) "The goal of this project is to assist OCP Group in extracting 23.86 wt% phosphate from all waste piles."
 
 **Answer: A**
-Say this: *"I developed a multi-scale framework that characterizes and monitors phosphate mine waste rocks combining three complementary approaches."*
+Say this: *"I developed a multi-scale framework that characterizes and monitors [[Phosphate Mine Waste]] rocks combining three complementary approaches."*
 Say it first. Say it last. Say it when Verrelst makes you doubt yourself.
 
 *Hint: Multi-scale. Three approaches. Complementary.*
@@ -1011,12 +921,12 @@ Say it first. Say it last. Say it when Verrelst makes you doubt yourself.
 | 10/10 | Jury-proof |
 | 8–9/10 | Ready — minor gaps |
 | 6–7/10 | Q3 + Q7 + Q8 need work |
-| <6/10 | Numbers Arsenal review tonight |
+| <6/10 | [[Numbers Arsenal]] review tonight |
 
 
 ---
 
-*Related: [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep|Jury Questions Prep]] · [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]]*
+*Related: [[02_Academic & Work/thesis/defense-prep/[[Jury Questions Prep]]|Jury Questions Prep]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|Defense Strategy]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]]*
 
 
 
@@ -1066,7 +976,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 ### BLOCK 1 — Opening (Slides 1–2)
 
 **Slide 1 — Title**
-> Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks in Benguerir Mine, Morocco
+> Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and [[Reclamation Monitoring]] of [[Phosphate Mine Waste]] Rocks in Benguerir Mine, Morocco
 - Abdelhak EL MANSOUR
 - Supervisor: Pr. Ahmed LAAMRANI
 - UM6P — GSMI — June 30, 2026
@@ -1075,7 +985,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 **Slide 2 — Outline**
 - Four blocks: Introduction → Chapter 1 → Chapter 2 → Chapter 3 → Synthesis & Conclusions
 - Visual roadmap (chevron or numbered arc)
-- One sentence per chapter: "Field baseline" → "Satellite mapping" → "Reclamation monitoring"
+- One sentence per chapter: "Field baseline" → "Satellite mapping" → "[[Reclamation Monitoring]]"
 
 ---
 
@@ -1088,7 +998,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 - Visual: aerial photo of Benguerir waste rock piles (or mine map)
 
 **Slide 4 — The problem**
-- Current reclamation monitoring = labor-intensive, point-based (XRD/XRF)
+- Current [[Reclamation Monitoring]] = labor-intensive, point-based (XRD/XRF)
 - No operational remote sensing tool exists for phosphate waste rock
 - Gap: from field sample → landscape-scale continuous monitoring
 - Visual: diagram showing monitoring gap (point samples vs. landscape)
@@ -1110,7 +1020,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 ### BLOCK 3 — Chapter 1: Field Spectroscopy (Slides 7–12)
 
 **Slide 7 — Ch.1 Title / Approach**
-> "Field-scale mineralogical characterization using VNIR-SWIR spectroscopy and portable XRF"
+> "Field-scale mineralogical characterization using [[VNIR-SWIR Spectroscopy]] and portable XRF"
 - Published: Sensors 2025, doi:10.3390/s26010002
 - One-line approach: match field spectra to library → unmix mineral fractions
 
@@ -1149,7 +1059,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 
 ---
 
-### BLOCK 4 — Chapter 2: PRISMA Satellite (Slides 13–19)
+### BLOCK 4 — Chapter 2: [[PRISMA Satellite]] (Slides 13–19)
 
 **Slide 13 — Ch.2 Title / Approach**
 > "Satellite-scale lithological mapping using PRISMA hyperspectral imagery and machine learning"
@@ -1192,14 +1102,14 @@ Defense date: June 30, 2026 · Jury: 10 members
 - First satellite-scale lithological map of Benguerir waste rocks
 - Moderate accuracy reflects real class overlap — not model failure
 - Entropy maps add operational value beyond point accuracy metrics
-- Bridge: "Lithological context informs zone selection for reclamation monitoring in Ch.3"
+- Bridge: "Lithological context informs zone selection for [[Reclamation Monitoring]] in Ch.3"
 
 ---
 
 ### BLOCK 5 — Chapter 3: EnMAP + RPI (Slides 20–27)
 
 **Slide 20 — Ch.3 Title / Approach**
-> "Backfilling impact assessment using EnMAP hyperspectral imagery and a novel Reclamation Progress Index"
+> "Backfilling impact assessment using EnMAP hyperspectral imagery and a novel [[Reclamation Progress Index]]"
 - Approach: measure whether backfilling actually restores spectral properties
 
 **Slide 21 — Study design: RZ vs. RWR**
@@ -1224,7 +1134,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 - Visual: abundance fraction maps (4 panels)
 
 **Slide 24 — Novel RPI: concept**
-- **Reclamation Progress Index** — not a classification, an index
+- **[[Reclamation Progress Index]]** — not a classification, an index
 - Combines abundance fractions → single scalar per pixel
 - Calibrated against XRF measurements (ground truth)
 - Isotonic regression: monotonic calibration (order-preserving)
@@ -1247,7 +1157,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 
 **Slide 27 — Ch.3 Conclusion**
 - Backfilling at Benguerir produces a measurable, satellite-detectable spectral recovery
-- RPI = first operational reclamation index for phosphate mine waste, validated by XRF
+- RPI = first operational reclamation index for [[Phosphate Mine Waste]], validated by XRF
 - Scalable: any EnMAP scene, any phosphate waste site
 - Publishable contribution: novel instrument, not just an algorithm
 
@@ -1284,7 +1194,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 1. Clay minerals dominate spectral response of phosphate waste rocks; XRF essential for P₂O₅ quantification
 2. PRISMA-based ML classification achieves BAC 0.60–0.67 with AUC > 0.95 for key classes
 3. EnMAP VCA-FCLS unmixing resolves spectral endmembers with 99.8% confidence
-4. RPI (RZ=0.896, RWR=0.203, ρ=0.845) operationalizes reclamation monitoring from space
+4. RPI (RZ=0.896, RWR=0.203, ρ=0.845) operationalizes [[Reclamation Monitoring]] from space
 5. Multi-scale framework is directly transferable to OCP's reclamation management
 
 **Slide 32 — Impact & valorization**
@@ -1361,7 +1271,7 @@ created: '2026-06-08'
 
 ## The One-Sentence Summary
 
-**"I developed a multi-scale framework — from field spectrometry to satellite imagery — that characterizes and monitors phosphate mine waste rocks at Benguerir, combining three complementary approaches to produce actionable reclamation metrics for [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]]."**
+**"I developed a multi-scale framework — from field spectrometry to satellite imagery — that characterizes and monitors [[Phosphate Mine Waste]] rocks at Benguerir, combining three complementary approaches to produce actionable reclamation metrics for [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]]."**
 
 Memorize this. Say it first, last, and whenever you feel lost.
 
@@ -1371,7 +1281,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 | Name | Role | Threat level | Their weapon |
 |------|------|-------------|-------------|
-| **Pr. Verrelst** (Valencia) | Rapporteur | ⭐⭐⭐⭐⭐ | RTM, linear mixing, [[04_Knowledge Base/wiki/concepts/PRISMA Satellite\|PRISMA]] processing — he knows your data |
+| **Pr. Verrelst** (Valencia) | Rapporteur | ⭐⭐⭐⭐⭐ | RTM, linear mixing, [[04_Knowledge Base/wiki/concepts/[[PRISMA Satellite]]\|PRISMA]] processing — he knows your data |
 | **Pr. Aaron Berg** (Guelph) | Rapporteur | ⭐⭐⭐⭐ | Accuracy metrics, remote sensing methods |
 | **Pr. Hassan Ibouh** (Cadi Ayyad) | Rapporteur | ⭐⭐⭐⭐ | Geological context, field methodology |
 | **Pr. Yassine Taha** (UM6P GSMI) | Examiner | ⭐⭐⭐ | Scientific significance, disciplinary integration |
@@ -1386,9 +1296,9 @@ Memorize this. Say it first, last, and whenever you feel lost.
 ## The Three Chapter Structure — 90 Seconds Each
 
 ### Chapter 1 (12 min presentation slot)
-**"Field-scale mineralogical characterization using VNIR-SWIR spectroscopy + HHXRF"**
+**"Field-scale mineralogical characterization using [[VNIR-SWIR Spectroscopy]] + HHXRF"**
 - 104 field samples, ASD FieldSpec 4 (350–2500 nm) + HHXRF
-- ECOSTRESS spectral library matching (RMSE, SAM, SID, R²)
+- ECOSTRESS [[Spectral Library Matching]] (RMSE, SAM, SID, R²)
 - NNLS unmixing with top-5 library endmembers
 - Key finding: Clay minerals (illite, montmorillonite) dominate spectral response; apatite at rank 3–7
 - Published: **Sensors 2025**, doi:10.3390/s26010002 → pre-validated by peer review
@@ -1400,12 +1310,12 @@ Memorize this. Say it first, last, and whenever you feel lost.
 - 4 classes: Phosphate rock, Siliceous facies, Marl, Limestone
 - Extra Trees + RF with spatially constrained CV (30 m buffer, 10 replicates)
 - ANOVA feature selection: top 60 SWIR bands (nested in CV folds — no leakage)
-- Shannon entropy uncertainty maps
+- [[Shannon Entropy Uncertainty]] maps
 - **Key metrics: BAC = 0.60–0.67; AUC > 0.95 for Marl and Limestone**
 - Accepted: **Minerals** (IF 2.2) ✅
 
 ### Chapter 3 (12 min presentation slot)
-**"Backfilling impact assessment using [[04_Knowledge Base/wiki/concepts/EnMAP Satellite\|EnMAP]] + VCA-FCLS + novel [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index\|RPI]]"**
+**"Backfilling impact assessment using [[04_Knowledge Base/wiki/concepts/[[EnMAP Satellite]]\|EnMAP]] + VCA-FCLS + novel [[04_Knowledge Base/wiki/concepts/[[Reclamation Progress Index]]\|RPI]]"**
 - Studies the impact of **backfilling** (the primary reclamation strategy at Benguerir)
 - RZ (Reclaimed, backfilled) vs. RWR (Reference Waste Rock, undisturbed)
 - EnMAP 189 valid bands (418–2445 nm); 32 balanced pixels/zone
@@ -1436,7 +1346,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 ### Q5 (Any jury): "What is the most important scientific contribution of your thesis?"
 
-**Answer:** The multi-scale framework itself is the main conceptual contribution — demonstrating that field spectroscopy, satellite mineral mapping, and satellite reclamation monitoring can be integrated for comprehensive mine waste characterization. But the most novel methodological contribution is the **Reclamation Progress Index (RPI)**: the first quantitative, satellite-derived reclamation metric calibrated against field geochemistry for phosphate mine waste. It turns a hyperspectral scene into an operational monitoring tool — something OCP Group can use quarterly without additional field costs.
+**Answer:** The multi-scale framework itself is the main conceptual contribution — demonstrating that field spectroscopy, satellite mineral mapping, and satellite [[Reclamation Monitoring]] can be integrated for comprehensive mine waste characterization. But the most novel methodological contribution is the **[[Reclamation Progress Index]] (RPI)**: the first quantitative, satellite-derived reclamation metric calibrated against field geochemistry for [[Phosphate Mine Waste]]. It turns a hyperspectral scene into an operational monitoring tool — something OCP Group can use quarterly without additional field costs.
 
 ---
 
@@ -1455,7 +1365,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 ## The 30-Second Closing Statement
 
-"This thesis demonstrates for the first time that EnMAP hyperspectral data can quantitatively track reclamation progress at phosphate mine waste sites — with statistical rigor, geochemical validation, and a novel index that is immediately operational. The multi-scale framework scales from a rock sample in the hand to a 36-square-kilometer mine monitored from space. I believe this combination of field, laboratory, and satellite data represents a model for sustainable mine monitoring that extends well beyond Benguerir."
+"This thesis demonstrates for the first time that EnMAP hyperspectral data can quantitatively track reclamation progress at [[Phosphate Mine Waste]] sites — with statistical rigor, geochemical validation, and a novel index that is immediately operational. The multi-scale framework scales from a rock sample in the hand to a 36-square-kilometer mine monitored from space. I believe this combination of field, laboratory, and satellite data represents a model for sustainable mine monitoring that extends well beyond Benguerir."
 
 ---
 
@@ -1478,7 +1388,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 ### Now – June 6 (Week 1–2): Deep Preparation
 - [ ] Read thesis Ch.1–3 one full time, making notes
-- [ ] Finalize jury Q&A from `Jury Questions Prep.md`
+- [ ] Finalize jury Q&A from `[[Jury Questions Prep]].md`
 - [ ] Review Verrelst Prep 8 questions daily
 - [ ] Prepare slide deck: structure all 3 chapters
 
@@ -1516,7 +1426,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 |------|-------|
 | Thesis pages | 155 |
 | **Ch.1 field samples** | **104** |
-| Ch.1 mean R² (spectral library matching) | 0.748 ± 0.170 |
+| Ch.1 mean R² ([[Spectral Library Matching]]) | 0.748 ± 0.170 |
 | Ch.1 spectra with R² > 0.70 | 84% |
 | Ch.1 mean RMSE | 0.15 ± 0.053 |
 | Ch.1 median SAM | 0.134 rad |
@@ -1561,7 +1471,7 @@ Memorize this. Say it first, last, and whenever you feel lost.
 
 ---
 
-*Related: [[02_Academic & Work/thesis/defense-prep/Victory Speech|Opening Speech — June 30, 2026]] · [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense|Flashcards — Defense]]*
+*Related: [[02_Academic & Work/thesis/defense-prep/[[Victory Speech]]|Opening Speech — June 30, 2026]] · [[02_Academic & Work/thesis/defense-prep/[[Flashcards — Defense]]|Flashcards — Defense]]*
 
 
 
@@ -1689,11 +1599,11 @@ What is the main limitation of Chapter 2?::Spectral confusion between phosphate 
 
 Why not use a neural network instead of Random Forest?::Sample size constraint (127 independent samples after spatial filtering). Deep networks require thousands of samples to generalize. RF and Extra Trees are well-suited to high-dimensional, small-n hyperspectral data and provide feature importance for interpretability.
 Why PRISMA for Ch.2 and EnMAP for Ch.3?::PRISMA: mapping task needed wide spatial coverage (36 km²) with good VNIR-SWIR spectral range. EnMAP: monitoring task needed higher SNR and better SWIR sensitivity for detecting subtle temporal spectral changes in reclamation zones.
-What is the novelty of your thesis?::First multi-scale hyperspectral RS framework for phosphate mine waste rock, combining field spectroscopy (ASD), PRISMA (30 m mapping), and EnMAP (30 m monitoring) with a novel reclamation progress index (RPI) validated by independent XRF data. None of the three chapters had been done for this site or this mineral system.
+What is the novelty of your thesis?::First multi-scale hyperspectral RS framework for [[Phosphate Mine Waste]] rock, combining field spectroscopy (ASD), PRISMA (30 m mapping), and EnMAP (30 m monitoring) with a novel [[Reclamation Progress Index]] (RPI) validated by independent XRF data. None of the three chapters had been done for this site or this mineral system.
 
 ---
 
-*Related: [[04_Knowledge Base/wiki/Flashcards — Research Concepts|Flashcards — Research Concepts]] · [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy]]*
+*Related: [[04_Knowledge Base/wiki/Flashcards — Research Concepts|Flashcards — Research Concepts]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|Defense Strategy]]*
 
 
 
@@ -1745,7 +1655,7 @@ The confidence in this result does not rest on n=32 alone — it rests on three 
 **"Do your 4 lithological classes correspond to the formal lithostratigraphic units of the Benguerir phosphate basin? How did you control for spectrally similar but geologically distinct units being collapsed into the same class?"**
 
 **Answer:**
-The 4 classes were defined empirically from spectral and geochemical data (HHXRF + XRD, Chapter 1), but they map directly onto the major mineralogical families recognized in the Cretaceous-Eocene phosphate stratigraphy of the Benguerir basin: pure carbonates (limestone), marly units (clay-carbonate mixtures), siliceous/quartzitic facies, and phosphate (fluorapatite-francolite). Stratigraphic coherence was verified by geolocating all 207 sampling points on the OCP mine plan and confirming lithological assignments with the OCP/UM6P field geology team. The risk of collapsing spectrally similar but geologically distinct units is real at 30 m due to sub-pixel mixing — this is precisely why I use Shannon entropy uncertainty maps. High-entropy zones correspond geographically to lithostratigraphic contacts, which correctly signals classification uncertainty at boundaries rather than false confidence.
+The 4 classes were defined empirically from spectral and geochemical data (HHXRF + XRD, Chapter 1), but they map directly onto the major mineralogical families recognized in the Cretaceous-Eocene phosphate stratigraphy of the Benguerir basin: pure carbonates (limestone), marly units (clay-carbonate mixtures), siliceous/quartzitic facies, and phosphate (fluorapatite-francolite). Stratigraphic coherence was verified by geolocating all 207 sampling points on the OCP mine plan and confirming lithological assignments with the OCP/UM6P field geology team. The risk of collapsing spectrally similar but geologically distinct units is real at 30 m due to sub-pixel mixing — this is precisely why I use [[Shannon Entropy Uncertainty]] maps. High-entropy zones correspond geographically to lithostratigraphic contacts, which correctly signals classification uncertainty at boundaries rather than false confidence.
 
 ---
 
@@ -1754,7 +1664,7 @@ The 4 classes were defined empirically from spectral and geochemical data (HHXRF
 **"Your thesis mentions SCSE (Squeeze-and-Excitation CNN) as achieving the best accuracy among CNN architectures. Yet Chapter 2 reports Extra Trees and Random Forest as the best overall models. Did the SCSE underperform the ensemble methods, and why?"**
 
 **Answer:**
-The SCSE model outperformed simpler CNN variants (1D, 2D, 3D CNN) in per-class accuracy for minority classes. However, Extra Trees and Random Forest outperformed all CNN architectures under spatially constrained cross-validation with 10 independent replicates and 127 samples. The reason is sample size: CNN models have higher capacity and require more training data to generalize under strict spatial leave-out. With 127 spatially independent samples and a 30 m pixel footprint, ensemble methods' resistance to overfitting via bootstrap aggregation gave them a structural advantage over attention-based CNNs. The SCSE's channel and spatial squeeze-excitation mechanisms are powerful for 2D/3D spectral-spatial inputs, but the accuracy gain was insufficient to compensate for the data limitation under rigorous spatial CV. This is itself a finding: methodological rigor exposes the data constraint rather than hiding it behind inflated CNN accuracy.
+The SCSE model outperformed simpler CNN variants (1D, 2D, 3D CNN) in per-class accuracy for minority classes. However, Extra Trees and Random Forest outperformed all CNN architectures under [[Spatially Constrained Cross-Validation]] with 10 independent replicates and 127 samples. The reason is sample size: CNN models have higher capacity and require more training data to generalize under strict spatial leave-out. With 127 spatially independent samples and a 30 m pixel footprint, ensemble methods' resistance to overfitting via bootstrap aggregation gave them a structural advantage over attention-based CNNs. The SCSE's channel and spatial squeeze-excitation mechanisms are powerful for 2D/3D spectral-spatial inputs, but the accuracy gain was insufficient to compensate for the data limitation under rigorous spatial CV. This is itself a finding: methodological rigor exposes the data constraint rather than hiding it behind inflated CNN accuracy.
 
 ---
 
@@ -1818,7 +1728,7 @@ Practice each answer out loud. 2–3 minutes per answer max. Numbers must come w
 ### Q1: Why PRISMA and not Sentinel-2 or other sensors?
 
 **My Answer:**
-PRISMA provides 239 contiguous spectral bands (VNIR + SWIR, 400–2500 nm) at 30 m resolution — essential for mineralogical discrimination, especially the diagnostic absorption features of carbonates (~2320–2350 nm), clay minerals (~2200 nm), and phosphate phases (~2150 nm). Sentinel-2 has only 13 multispectral bands and completely lacks the spectral resolution needed for mineralogy. EnMAP (used in Chapter 3) offers higher SNR and 242 bands — we used it where SWIR signal quality was critical for detecting subtle reclamation-induced changes. PRISMA is also relatively new (launched 2019) with very limited mining applications — our work is among the first to apply it for phosphate waste rock characterization.
+PRISMA provides 239 contiguous spectral bands (VNIR + SWIR, 400–2500 nm) at 30 m resolution — essential for mineralogical discrimination, especially the diagnostic absorption features of carbonates (~2320–2350 nm), clay minerals (~2200 nm), and phosphate phases (~2150 nm). Sentinel-2 has only 13 multispectral bands and completely lacks the spectral resolution needed for mineralogy. EnMAP (used in Chapter 3) offers higher SNR and 242 bands — we used it where SWIR signal quality was critical for detecting subtle reclamation-induced changes. PRISMA is also relatively new (launched 2019) with very limited mining applications — our work is among the first to apply it for phosphate [[Waste Rock Characterization]].
 
 ---
 
@@ -1827,8 +1737,8 @@ PRISMA provides 239 contiguous spectral bands (VNIR + SWIR, 400–2500 nm) at 30
 **My Answer:**
 Multi-layered validation across three chapters:
 
-- **Chapter 1:** Spectral library matching against ECOSTRESS (mean R²=0.748, 84% of spectra >0.70, across 4 metrics: RMSE, SAM, SID, R²). HHXRF elemental cross-validation (Mg/Ca ratio confirming dolomite vs. calcite; P₂O₅ up to 23.86 wt% confirming fluorapatite). Powder XRD on 8 representative samples confirming all four mineral groups.
-- **Chapter 2:** Spatially constrained cross-validation with 30 m buffer across 10 independent replicates. Shannon entropy uncertainty mapping. ROC analysis (AUC >0.95 for carbonate classes).
+- **Chapter 1:** [[Spectral Library Matching]] against ECOSTRESS (mean R²=0.748, 84% of spectra >0.70, across 4 metrics: RMSE, SAM, SID, R²). HHXRF elemental cross-validation (Mg/Ca ratio confirming dolomite vs. calcite; P₂O₅ up to 23.86 wt% confirming fluorapatite). Powder XRD on 8 representative samples confirming all four mineral groups.
+- **Chapter 2:** [[Spatially Constrained Cross-Validation]] with 30 m buffer across 10 independent replicates. [[Shannon Entropy Uncertainty]] mapping. ROC analysis (AUC >0.95 for carbonate classes).
 - **Chapter 3:** Bootstrap resampling, label permutation test (p=0.0001), spatially blocked CV (BAC=0.984, AUC=1.000). RPI validated against independent XRF scores (Spearman ρ=0.845, p=1.74×10⁻¹²).
 
 ---
@@ -1840,14 +1750,14 @@ I'll be direct — three main limitations:
 
 1. **30 m spatial resolution** (PRISMA and EnMAP) constrains discrimination in zones with fine-scale lithological variability and intense sub-pixel mixing. The BAC of 0.60–0.67 in Chapter 2 reflects this physical ceiling, not methodological failure.
 2. **Linear mixing assumption** in Chapters 1 and 3. For intimate grain-scale mineral mixtures, non-linear (Hapke-based) mixing is more physically appropriate. We explicitly flag cases with structured spectral residuals. Non-linear unmixing is the main methodological future direction.
-3. **Single-date acquisition** in Chapter 2. Surface conditions in semi-arid Benguerir are variable — dust, seasonal crust formation, differential weathering. Multi-temporal acquisitions would improve both classification robustness and reclamation monitoring temporal resolution.
+3. **Single-date acquisition** in Chapter 2. Surface conditions in semi-arid Benguerir are variable — dust, seasonal crust formation, differential weathering. Multi-temporal acquisitions would improve both classification robustness and [[Reclamation Monitoring]] temporal resolution.
 
 ---
 
 ### Q4: How do your ML models compare — why Extra Trees/RF over SVM?
 
 **My Answer:**
-In Chapter 2 I evaluated five classifiers under rigorous spatially constrained cross-validation. Extra Trees and Random Forest consistently outperformed SVM, XGBoost, and KNN — achieving BAC 0.60–0.67 and AUC >0.95 for carbonate-dominated classes. The ensemble methods' advantage: bootstrap aggregation reduces variance and they naturally handle nonlinear spectral boundaries in high-dimensional feature space without a hand-tuned kernel. SVM maintained strong class-ranking capability (high AUC) but produced spatially patchy maps, suggesting a constrained decision boundary when generalizing across complex spectral gradients. KNN performed lowest due to the curse of dimensionality in 60-band ANOVA-selected hyperspectral space.
+In Chapter 2 I evaluated five classifiers under rigorous [[Spatially Constrained Cross-Validation]]. Extra Trees and Random Forest consistently outperformed SVM, XGBoost, and KNN — achieving BAC 0.60–0.67 and AUC >0.95 for carbonate-dominated classes. The ensemble methods' advantage: bootstrap aggregation reduces variance and they naturally handle nonlinear spectral boundaries in high-dimensional feature space without a hand-tuned kernel. SVM maintained strong class-ranking capability (high AUC) but produced spatially patchy maps, suggesting a constrained decision boundary when generalizing across complex spectral gradients. KNN performed lowest due to the curse of dimensionality in 60-band ANOVA-selected hyperspectral space.
 
 In Chapter 3, discrimination between reclaimed and reference zones was near-perfect regardless of method (BAC=0.984, AUC=1.000) because the spectral separation is very large (effect size r=0.859 across all 189 EnMAP bands).
 
@@ -1858,13 +1768,13 @@ In Chapter 3, discrimination between reclaimed and reference zones was near-perf
 **My Answer:**
 Three direct applications:
 
-1. **Waste rock characterization and sorting** (Chapter 1 → Chapter 2): The spectral-geochemical workflow can rapidly screen waste rock at the sample scale. The PRISMA-based lithological maps identify which pile sectors contain carbonate-rich material suitable for road construction or concrete aggregate, and which contain residual phosphate enrichment worth secondary recovery — without expensive laboratory campaigns across the entire mine surface.
-2. **Reclamation monitoring** (Chapter 3): Rather than periodic, expensive field campaigns, EnMAP-based monitoring can track the progress of backfilling operations spatially and continuously. The RPI provides a single quantitative indicator of reclamation state per pixel, calibrated against XRF chemistry.
+1. **[[Waste Rock Characterization]] and sorting** (Chapter 1 → Chapter 2): The spectral-geochemical workflow can rapidly screen waste rock at the sample scale. The PRISMA-based lithological maps identify which pile sectors contain carbonate-rich material suitable for road construction or concrete aggregate, and which contain residual phosphate enrichment worth secondary recovery — without expensive laboratory campaigns across the entire mine surface.
+2. **[[Reclamation Monitoring]]** (Chapter 3): Rather than periodic, expensive field campaigns, EnMAP-based monitoring can track the progress of backfilling operations spatially and continuously. The RPI provides a single quantitative indicator of reclamation state per pixel, calibrated against XRF chemistry.
 3. **Regulatory compliance**: OCP has environmental monitoring obligations. Satellite-based mineralogical monitoring provides spatially continuous documentation of reclamation progress — something point sampling cannot deliver.
 
 ---
 
-### Q6: How does reclamation monitoring add to existing methods?
+### Q6: How does [[Reclamation Monitoring]] add to existing methods?
 
 **My Answer:**
 Before this work, no study had systematically quantified the impact of backfilling on waste rock mineralogy and geochemistry at landscape scale using satellite hyperspectral data. Existing monitoring relied on: (1) periodic field campaigns with limited spatial coverage; (2) vegetation-based indices (NDVI) that miss the mineralogical changes that precede and enable revegetation. Chapter 3 shows that backfilling induces statistically significant surface modifications detectable across *all 189 valid EnMAP bands* — not just in a few vegetation-sensitive bands. The novel RPI provides the first spectrally-derived, geochemically-calibrated progress indicator for phosphate mine reclamation. This enables monitoring at operational scale — the entire 36 km² mine surface — rather than at the sampling points of a field campaign.
@@ -1878,7 +1788,7 @@ Three things, ordered by scientific impact:
 
 1. **Acquire field spectroradiometer data simultaneously with PRISMA and EnMAP overpasses** — direct cross-scale calibration between ASD FieldSpec measurements and satellite spectra, eliminating the temporal gap between Chapter 1 lab measurements and the January 2022 PRISMA acquisition.
 2. **Build a site-specific spectral library** rather than relying on ECOSTRESS. The ECOSTRESS spectra were measured on pure mineral powders under different laboratory conditions — a library built from Benguerir samples would reduce spectral matching ambiguity, especially for the mixed assemblages.
-3. **Multi-temporal time series from the start** — a stack of PRISMA/EnMAP acquisitions across seasons would have allowed weathering dynamics and temporal spectral stability to be characterized, making the reclamation monitoring (Chapter 3) longitudinal rather than a single snapshot comparison.
+3. **Multi-temporal time series from the start** — a stack of PRISMA/EnMAP acquisitions across seasons would have allowed weathering dynamics and temporal spectral stability to be characterized, making the [[Reclamation Monitoring]] (Chapter 3) longitudinal rather than a single snapshot comparison.
 
 ---
 
@@ -1916,7 +1826,7 @@ Balanced Accuracy (BAC) is used as the primary metric in Chapter 2 precisely bec
 
 ### Q: Why only 8 XRD samples for validation (Chapter 1)?
 
-The 8 samples were deliberately selected to span the full compositional space — one from each extremity (carbonate-rich, clay-dominated, phosphate-rich, mixed). They served as qualitative confirmation of phase assignments, not a quantitative validation dataset. The primary quantitative validation is the multi-metric spectral library matching across all 104 samples. XRD is expensive and time-consuming — 8 samples is appropriate for confirmatory phase identification in this context.
+The 8 samples were deliberately selected to span the full compositional space — one from each extremity (carbonate-rich, clay-dominated, phosphate-rich, mixed). They served as qualitative confirmation of phase assignments, not a quantitative validation dataset. The primary quantitative validation is the multi-metric [[Spectral Library Matching]] across all 104 samples. XRD is expensive and time-consuming — 8 samples is appropriate for confirmatory phase identification in this context.
 
 ---
 
@@ -2290,7 +2200,7 @@ Mr. President, Ladies and Gentlemen of the jury,
 
 I am Abdelhak EL MANSOUR, doctoral candidate at the Institute of Geology and Sustainable Mining at Mohammed VI Polytechnic University.
 
-I am defending today my thesis entitled: *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine, Morocco."*
+I am defending today my thesis entitled: *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and [[Reclamation Monitoring]] of [[Phosphate Mine Waste]] Rocks at Benguerir Mine, Morocco."*
 
 Allow me to begin with something simple.
 
@@ -2308,7 +2218,7 @@ To answer them, I built an integrated three-scale framework.
 
 **Third scale — monitoring, with EnMAP.** And here, I developed something new.
 
-The *Reclamation Progress Index* — a spectral indicator calibrated against independent geochemical data, capable of quantifying the reclamation state of a pixel from orbit. The results are unambiguous: AUC equal to 1.000, Spearman correlation ρ = 0.845, p = 1.74 × 10⁻¹². Validated on 64 independent XRF calibration points. This is not an academic prototype — it is a functional tool, delivered to OCP Group, documented in a 155-page manuscript.
+The *[[Reclamation Progress Index]]* — a spectral indicator calibrated against independent geochemical data, capable of quantifying the reclamation state of a pixel from orbit. The results are unambiguous: AUC equal to 1.000, Spearman correlation ρ = 0.845, p = 1.74 × 10⁻¹². Validated on 64 independent XRF calibration points. This is not an academic prototype — it is a functional tool, delivered to OCP Group, documented in a 155-page manuscript.
 
 This work was made possible by the rigorous and supportive supervision of [[02_Academic & Work/org/people/Ahmed Laamrani\|Professor Ahmed Laamrani]], and the constant backing of Professors Benzaazoua, Elghali, and Hakkou. It benefited from a research stay at the University of Valencia — where I had the privilege of working with Professor Verrelst. His presence on this jury is both an honor and a standard I fully accept.
 
@@ -2324,6 +2234,149 @@ I am ready. Over to you.
 - **On "Over to you":** make eye contact with the jury. Do not look down.
 - **Target timing:** 2 min 45 — 3 min 00.
 - **Delivered in French at the actual defense** — practice in French.
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md (~225 words)
+================================================================================
+---
+citekey: elmansour2025sensors
+title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
+  at Benguerir
+authors: EL MANSOUR A., LAAMRANI A., et al.
+year: 2025
+journal: Sensors
+doi: 10.3390/s26010002
+tags:
+  - chapter-1
+  - literature-note
+  - own-paper
+  - topic/thesis
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Your Paper — Chapter 1 (Sensors 2025)
+
+**This is your own published work. Know it cold.**
+
+## What it does
+Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. [[Spectral Library Matching]] against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
+
+## Key Results
+- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
+- 84% of spectra have R² > 0.70
+- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
+- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
+- Apatite spectral rank: 3–7 in field spectra
+
+## Novelty
+First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
+
+## Jury Defense Angle
+*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
+
+## Links
+- [[02_Academic & Work/thesis/Thesis MOC]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md (~214 words)
+================================================================================
+---
+citekey: roberts2019unmixing
+title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
+authors: Roberts D.A., et al.
+year: 2019
+journal: Remote Sensing
+tags:
+  - FCLS
+  - VCA
+  - chapter-3
+  - literature-note
+  - topic/thesis
+  - unmixing
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Unmixing Foundation Paper — Chapter 3 Justification
+
+**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
+
+## Core Argument
+Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
+
+## How it Supports Your Thesis
+- Justifies linear model at 30m EnMAP resolution
+- VCA as standard for geological endmember extraction without prior knowledge
+- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
+
+## Defense Quote Ready
+*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[02_Academic & Work/thesis/Thesis MOC]]
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md (~258 words)
+================================================================================
+---
+citekey: verrelst2021review
+title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
+  A Review on Retrieval Methods'
+authors: Verrelst J., et al.
+year: 2021
+journal: Surveys in Geophysics
+tags:
+  - RTM
+  - jury-prep
+  - literature-note
+  - topic/thesis
+  - unmixing
+  - verrelst
+generated_by: claude
+date: 2026-06-07
+type: thesis-note
+status: active
+created: '2026-06-07'
+---
+
+# Verrelst 2021 — RTM & Retrieval Methods Review
+
+**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
+
+## Core Argument
+Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
+
+## Your Defense Angle Against This
+*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
+
+## If Verrelst Pushes Back
+- Acknowledge RTM validity for vegetation/soil systems
+- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
+- Note that SCOPE/PROSAIL are not designed for [[Phosphate Mine Waste]] mineralogy
+
+## Links
+- [[02_Academic & Work/thesis/defense-prep/[[Jury Questions Prep]] — Advanced]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
 
 
 
