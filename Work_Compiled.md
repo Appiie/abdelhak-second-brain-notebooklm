@@ -374,7 +374,7 @@ VITO applications sent (with dates)::Scientist Remote Sensing Water Quality (App
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/Index.md (~217 words)
+FILE: 02_Academic & Work/work/Index.md (~242 words)
 ================================================================================
 ---
 tags:
@@ -417,11 +417,14 @@ created: '2026-06-08'
 ## Incidents / Blockers
 *(Technical issues, administrative blockers)*
 
+## Administrative & Log Notes
+- **University Admin**: [[04_Knowledge Base/AI-Generated/admin/CeDoc Hours Log|CeDoc Hours Log]] · [[04_Knowledge Base/AI-Generated/admin/Mission Order — International Travel|Mission Order — International Travel]]
+
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/Tools Setup.md (~736 words)
+FILE: 02_Academic & Work/work/Tools Setup.md (~762 words)
 ================================================================================
 ---
 generated_by: claude
@@ -552,6 +555,13 @@ Ask Claude: "list my GitHub repos"    ← tests github (needs PAT)
 Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 ```
 
+
+---
+
+## Setup Guides
+- [[02_Academic & Work/work/setup/External Data Import Guide|External Data Import Guide]]
+- [[02_Academic & Work/work/setup/NotebookLM Setup|NotebookLM Setup]]
+- [[02_Academic & Work/work/setup/Plugin Guide|Plugin Guide]]
 
 ---
 
@@ -753,7 +763,7 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md (~1590 words)
+FILE: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md (~1592 words)
 ================================================================================
 ---
 generated_by: claude
@@ -788,7 +798,7 @@ created: '2026-06-08'
 | **Space42 / Bayanat**         | AI-powered Space & EO Constellations    | 🇦🇪 Abu Dhabi, UAE       | Building the region's largest EO satellite network. Direct fit for Remote Sensing Lead. | [Space42 Careers Portal](https://space42.ai/)                  | - [ ] Not Contacted              |
 | **Bayanat Engineering Qatar** | Infrastructure GIS & new EO Division    | 🇶🇦 Doha, Qatar          | Recently launched a dedicated Earth Observation and Remote Sensing division.            | `info@bayanatengineering.qa`                                   | - [x] Not Contacted ✅ 2026-06-07 |
 | **Kuva Space**                | Commercial Hyperspectral Constellation  | 🇫🇮 Espoo, Finland       | Launching hyperspectral nanosatellites for climate/agriculture. High technical fit.     | `careers@kuvaspace.com`                                        | - [x] Not Contacted ✅ 2026-06-07 |
-| **Egis Group (Qatar)**        | Global Engineering & Consulting         | 🇶🇦 Doha, Qatar          | Spontaneous outreach for environmental remote sensing in infrastructure projects.       | [Egis Contact Page](https://www.egis-group.com/contact)        | - [ ] Not Contacted              |
+| **Egis Group (Qatar)**        | Global Engineering & Consulting         | 🇶🇦 Doha, Qatar          | Spontaneous outreach for environmental remote sensing in infrastructure projects.       | [Egis Contact Page](https://www.egis-group.com/contact)        | [[02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry|Inquiry Drafted]] |
 | **Taqnia Space**              | Satellite Intelligence & Remote Sensing | 🇸🇦 Riyadh, Saudi Arabia | Major operator for Saudi Space Commission and Vision 2030 Earth Observation.            | [Taqnia Space Contact Portal](https://www.taqniaspace.com.sa/) | - [ ] Not Contacted              |
 | **LYRASENSE**                 | Agentic AI for Geospatial Analytics     | 🇪🇺 Europe (Remote)      | Software analyzing satellite imagery for oil, gas, and environmental monitoring.        | [Lyrasense Careers Page](https://lyrasense.com/)               | - [ ] Not Contacted              |
 | **European Space Imaging**    | High-Res Satellite Imagery & Solutions  | 🇩🇪 Munich, Germany      | Major imagery distributor partnering with Pixxel for hyperspectral analytics.           | [EUSI Careers Portal](https://www.euspaceimaging.com/careers/) | - [ ] Not Contacted              |
@@ -1322,7 +1332,7 @@ created: '2026-06-08'
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Applications.md (~698 words)
+FILE: 02_Academic & Work/work/active/Postdoc Applications.md (~705 words)
 ================================================================================
 ---
 tags:
@@ -1372,7 +1382,7 @@ created: '2026-06-06'
 - **Portal:** → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
 
 ### 🇧🇪 VITO — Scientific Expert EO Services
-- **Status:** ✅ Applied 2026-05-25 — awaiting response
+- **Status:** ✅ Applied 2026-05-25 — awaiting response · **Checklist**: [[02_Academic & Work/work/active/VITO Application/Submission Checklist.md]]
 - **Fit:** 8.5/10
 - **Typical response time:** 2–6 weeks
 
@@ -1441,7 +1451,7 @@ created: '2026-06-06'
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5217 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5227 words)
 ================================================================================
 ---
 generated_by: claude
@@ -1952,7 +1962,7 @@ UM6P, Morocco
 
 ### 👤 Dr. Tobias Storch (DLR — 🇩🇪 Germany)
 **Email Address**: `tobias.storch@dlr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md]]  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md]] · **Draft Email**: [[02_Academic & Work/work/applications/DLR-2026/Email – Tobias Storch DLR.md]]  
 
 > [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:tobias.storch@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Storch%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20imaging%20spectroscopy%20and%20operational%20processing%20chains.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20EnMAP%20pipeline%20development%20and%20algorithm%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
 
