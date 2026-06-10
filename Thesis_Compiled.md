@@ -12,7 +12,7 @@ summary: "Compiled notes for Thesis theme: Thesis manuscript, defense prep, and 
 
 
 ================================================================================
-FILE: Home.md (~591 words)
+FILE: Home.md (~615 words)
 ================================================================================
 ---
 tags:
@@ -117,6 +117,8 @@ if (clips.length > 0) {
 | 🎓 **Thesis MOC** | [[02_Academic & Work/thesis/Thesis MOC\|Full chapter map]] |
 | 🔢 **Numbers Arsenal** | [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal\|All numbers]] |
 | 🎯 **Defense Strategy** | [[02_Academic & Work/thesis/defense-prep/Defense Strategy\|Master playbook]] |
+| 🎤 **Opening Speech** | [[02_Academic & Work/thesis/defense-prep/Victory Speech\|June 30 presentation opener]] |
+| 💪 **Hidden Strengths** | [[02_Academic & Work/perf/Hidden Strengths\|Under-communicated superpowers]] |
 | ❓ **Jury Q&A** | [[02_Academic & Work/thesis/defense-prep/Jury Questions Prep\|All answers]] |
 | 🎤 **Practice Log** | [[02_Academic & Work/thesis/defense-prep/Oral Practice Log\|Session tracker]] |
 | 🃏 **Flashcards** | [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense\|Defense deck]] |
@@ -1178,7 +1180,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Defense Strategy.md (~2002 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Defense Strategy.md (~2021 words)
 ================================================================================
 ---
 generated_by: claude
@@ -1400,11 +1402,15 @@ Memorize this. Say it first, last, and whenever you feel lost.
 | Supervised students | 2 |
 | Valencia mobility | 6 months (Mar–Aug 2024) |
 
+---
+
+*Related: [[02_Academic & Work/thesis/defense-prep/Victory Speech|Opening Speech — June 30, 2026]] · [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense|Flashcards — Defense]]*
+
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/defense-prep/Flashcards — Defense.md (~779 words)
+FILE: 02_Academic & Work/thesis/defense-prep/Flashcards — Defense.md (~795 words)
 ================================================================================
 ---
 tags:
@@ -1528,6 +1534,10 @@ What is the main limitation of Chapter 2?::Spectral confusion between phosphate 
 Why not use a neural network instead of Random Forest?::Sample size constraint (127 independent samples after spatial filtering). Deep networks require thousands of samples to generalize. RF and Extra Trees are well-suited to high-dimensional, small-n hyperspectral data and provide feature importance for interpretability.
 Why PRISMA for Ch.2 and EnMAP for Ch.3?::PRISMA: mapping task needed wide spatial coverage (36 km²) with good VNIR-SWIR spectral range. EnMAP: monitoring task needed higher SNR and better SWIR sensitivity for detecting subtle temporal spectral changes in reclamation zones.
 What is the novelty of your thesis?::First multi-scale hyperspectral RS framework for phosphate mine waste rock, combining field spectroscopy (ASD), PRISMA (30 m mapping), and EnMAP (30 m monitoring) with a novel reclamation progress index (RPI) validated by independent XRF data. None of the three chapters had been done for this site or this mineral system.
+
+---
+
+*Related: [[04_Knowledge Base/wiki/Flashcards — Research Concepts|Flashcards — Research Concepts]] · [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy]]*
 
 
 
