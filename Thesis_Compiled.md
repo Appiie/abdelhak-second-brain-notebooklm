@@ -138,7 +138,7 @@ if (clips.length > 0) {
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/Thesis MOC.md (~801 words)
+FILE: 02_Academic & Work/thesis/Thesis MOC.md (~966 words)
 ================================================================================
 ---
 tags:
@@ -271,12 +271,31 @@ SCALE ────────────────────────�
 | [[02_Academic & Work/thesis/defense-prep/Oral Practice Log]] | Track each rehearsal |
 | [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]] | Every number memorized |
 | [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]] | Daily plan |
+| [[02_Academic & Work/thesis/defense-prep/Defense Quiz — NotebookLM]] | AI-generated quiz practice |
+| [[02_Academic & Work/thesis/defense-prep/Session 0 — First Run]] | First full oral rehearsal log |
+
+---
+
+## Key Literature
+
+| Note | Topic |
+|------|-------|
+| [[02_Academic & Work/thesis/literature-notes/@elmansour2025sensors]] | Abdelhak's Sensors 2025 paper (Ch.1) |
+| [[02_Academic & Work/thesis/literature-notes/@roberts2019unmixing]] | Spectral unmixing reference |
+| [[02_Academic & Work/thesis/literature-notes/@verrelst2021review]] | RTM review — Verrelst (jury threat) |
+
+---
+
+## Thesis Data, Ingestion & Paper Logs
+- **Ingestion Logs**: [[04_Knowledge Base/AI-Generated/thesis-ingestion/Code Ingestion|Code Ingestion]] · [[04_Knowledge Base/AI-Generated/thesis-ingestion/EnMAP Notebook Ingestion|EnMAP Notebook Ingestion]]
+- **Data Summaries**: [[04_Knowledge Base/AI-Generated/data/XRD Sensors Image – Description|XRD Sensors Image Description]] · [[04_Knowledge Base/AI-Generated/data/XRF Analysis – Raw Data Summary|XRF Analysis Raw Data Summary]] · [[04_Knowledge Base/AI-Generated/data/Supplementary S1 – Summary|Supplementary S1 Summary]] · [[04_Knowledge Base/AI-Generated/data/Sample Locations – Papers 1 and 2|Sample Locations (Papers 1 & 2)]]
+- **Paper & Review Logs**: [[04_Knowledge Base/AI-Generated/papers/Publication Figures – ANOVA Validation|ANOVA Validation]] · [[04_Knowledge Base/AI-Generated/papers/Rebuttal Experiments – Sensors Paper|Sensors Rebuttal Experiments]] · [[04_Knowledge Base/AI-Generated/conferences/EGU 2025 Abstract|EGU 2025 Abstract]]
 
 
 
 
 ================================================================================
-FILE: 02_Academic & Work/thesis/Thesis Overview.md (~831 words)
+FILE: 02_Academic & Work/thesis/Thesis Overview.md (~834 words)
 ================================================================================
 ---
 tags:
@@ -303,7 +322,7 @@ created: '2026-06-08'
 | Specialty | Remote Sensing and Environmental Geosciences |
 | Institution | University Mohammed VI Polytechnic (UM6P) |
 | Department | Geology and Sustainable Mining Institute (GSMI) |
-| Supervisor | Pr. Ahmed LAAMRANI |
+| Supervisor | [[02_Academic & Work/org/people/Ahmed Laamrani\|Pr. Ahmed LAAMRANI]] |
 | Pages | 155 |
 | Defense | ~June 2026 |
 | Study site | Benguerir Mine, Morocco ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]] phosphate) |
