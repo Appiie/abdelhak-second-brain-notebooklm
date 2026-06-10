@@ -12,7 +12,7 @@ summary: "Compiled notes for Wiki theme: Wiki index, concepts, entities, and lit
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/Flashcards — Research Concepts.md (~1596 words)
+FILE: 04_Knowledge Base/wiki/Flashcards — Research Concepts.md (~1604 words)
 ================================================================================
 ---
 tags:
@@ -166,7 +166,324 @@ What is "backfilling" in mine reclamation?::Covering raw waste rock with overbur
 
 ---
 
-*Related: [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[02_Academic & Work/thesis/Thesis MOC|Thesis MOC]]*
+*Related: [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[02_Academic & Work/thesis/Thesis MOC|Thesis MOC]] · [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense|Flashcards — Defense]]*
+
+
+
+================================================================================
+FILE: 04_Knowledge Base/wiki/Literature MOC.md (~3771 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-10
+tags: [wiki, literature, moc, topic/wiki-concept]
+type: concept-note
+status: active
+created: '2026-06-10'
+summary: "Literature Map of Content (MOC) cataloging all 292 papers and references ingested in the knowledge base."
+---
+
+# 📚 Literature Map of Content (MOC)
+
+> Consolidated catalog of all literature notes, research papers, and bibliography sources ingested in the Second Brain.
+> Grouped alphabetically by Zotero Citekey.
+
+## 📋 Literature Notes Index
+
+| Citekey | Authors | Link |
+| :--- | :--- | :--- |
+| `abdolmalekiOreWasteDiscriminationUsing2022` | Abdolmaleki, Mehdi and Consens, Mariano and Esmaeili, Kamran | [[sources/abdolmalekiOreWasteDiscriminationUsing2022|abdolmalekiOreWasteDiscriminationUsing2022]] |
+| `achemrkTrackingQuarterCenturySpatioTemporal2026` | Achemrk, Aiman and Ouzemou, Jamal-Eddine and Laamrani, Ah... | [[sources/achemrkTrackingQuarterCenturySpatioTemporal2026|achemrkTrackingQuarterCenturySpatioTemporal2026]] |
+| `acitoAtmosphericCompensationPRISMA2021` | Acito, Nicola and Diani, Marco and Procissi, Gregorio and... | [[sources/acitoAtmosphericCompensationPRISMA2021|acitoAtmosphericCompensationPRISMA2021]] |
+| `acitoAtmosphericCompensationPRISMA2021a` | Acito, Nicola and Diani, Marco and Procissi, Gregorio and... | [[sources/acitoAtmosphericCompensationPRISMA2021a|acitoAtmosphericCompensationPRISMA2021a]] |
+| `agrawalEvaluatingPerformancePRISMA2023` | Agrawal, Neelam and Govil, Himanshu and Mishra, Gaurav an... | [[sources/agrawalEvaluatingPerformancePRISMA2023|agrawalEvaluatingPerformancePRISMA2023]] |
+| `allowayHeavyMetalsSoils2013` | Unknown Authors | [[sources/allowayHeavyMetalsSoils2013|allowayHeavyMetalsSoils2013]] |
+| `alonsoDataProductsQuality2019` | Alonso, Kevin and Bachmann, Martin and Burch, Kara and Ca... | [[sources/alonsoDataProductsQuality2019|alonsoDataProductsQuality2019]] |
+| `alvesRevisitingRamanSpectra2023` | Alves, Julliana F. and Edwards, Howell G. M. and Korsakov... | [[sources/alvesRevisitingRamanSpectra2023|alvesRevisitingRamanSpectra2023]] |
+| `amarMineWasteRock2023` | Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdella... | [[sources/amarMineWasteRock2023|amarMineWasteRock2023]] |
+| `amarWasteRockReprocessing2022` | Amar, Hicham and Benzaazoua, Mostafa and Elghali, Abdella... | [[sources/amarWasteRockReprocessing2022|amarWasteRockReprocessing2022]] |
+| `amraniValorizationPhosphateMine2019` | Amrani, Mustapha and Taha, Yassine and Kchikach, Azzouz a... | [[sources/amraniValorizationPhosphateMine2019|amraniValorizationPhosphateMine2019]] |
+| `anjjarPhosphateSeriesBenguerir` | Anjjar, A and Driouch, Y and Benjelloun, F and Hmeid, H A... | [[sources/anjjarPhosphateSeriesBenguerir|anjjarPhosphateSeriesBenguerir]] |
+| `araujoRecyclingReuseMine2022` | Araujo, Francisco and Taborda-Llano | [[sources/araujoRecyclingReuseMine2022|araujoRecyclingReuseMine2022]] |
+| `aubineauHighlyVariableContent2022` | Aubineau, J\ | [[sources/aubineauHighlyVariableContent2022|aubineauHighlyVariableContent2022]] |
+| `aubineauPhosphateD13CorgChemostratigraphy2024` | Aubineau, J\ | [[sources/aubineauPhosphateD13CorgChemostratigraphy2024|aubineauPhosphateD13CorgChemostratigraphy2024]] |
+| `audebertDeepLearningClassification2019` | Audebert, Nicolas and Le Saux, Bertrand and Lefevre, Seba... | [[sources/audebertDeepLearningClassification2019|audebertDeepLearningClassification2019]] |
+| `bahhouUsePhosphateMine2021` | Bahhou, Abdelmoujib and Taha, Yassine and El Khessaimi, Y... | [[sources/bahhouUsePhosphateMine2021|bahhouUsePhosphateMine2021]] |
+| `barlowStatisticalInferenceOrder1972` | Barlow, R. E. | [[sources/barlowStatisticalInferenceOrder1972|barlowStatisticalInferenceOrder1972]] |
+| `barlowStatisticalInferenceOrder1980` | Unknown Authors | [[sources/barlowStatisticalInferenceOrder1980|barlowStatisticalInferenceOrder1980]] |
+| `bayoussefUseClaysByproducts2021` | Bayoussef, A. and Loutou, M. and Taha, Y. and Mansori, M.... | [[sources/bayoussefUseClaysByproducts2021|bayoussefUseClaysByproducts2021]] |
+| `bendorReflectanceMeasurementsSoils2015` | Ben Dor, Eyal and Ong, Cindy and Lau, Ian C. | [[sources/bendorReflectanceMeasurementsSoils2015|bendorReflectanceMeasurementsSoils2015]] |
+| `bendorReflectanceMeasurementsSoils2015a` | Ben Dor, Eyal and Ong, Cindy and Lau, Ian C. | [[sources/bendorReflectanceMeasurementsSoils2015a|bendorReflectanceMeasurementsSoils2015a]] |
+| `benjaminiControllingFalseDiscovery1995` | Benjamini, Yoav and Hochberg, Yosef | [[sources/benjaminiControllingFalseDiscovery1995|benjaminiControllingFalseDiscovery1995]] |
+| `benjaminiControllingFalseDiscovery1995a` | Benjamini, Yoav and Hochberg, Yosef | [[sources/benjaminiControllingFalseDiscovery1995a|benjaminiControllingFalseDiscovery1995a]] |
+| `bioucas-diasHyperspectralUnmixingOverview2012` | Bioucas-Dias | [[sources/bioucas-diasHyperspectralUnmixingOverview2012|bioucas-diasHyperspectralUnmixingOverview2012]] |
+| `bishopInfraredSpectroscopicAnalyses1994` | Bishop, Janice L. and Pieters, Carl\ | [[sources/bishopInfraredSpectroscopicAnalyses1994|bishopInfraredSpectroscopicAnalyses1994]] |
+| `bishopReflectanceEmissionSpectroscopy2008` | Bishop, J. L. and Lane, M. D. and Dyar, M. D. and Brown, ... | [[sources/bishopReflectanceEmissionSpectroscopy2008|bishopReflectanceEmissionSpectroscopy2008]] |
+| `boardmanjosephw.AUTOMATINGSPECTRALUNMIXING` | Boardman, Joseph W. | [[sources/boardmanjosephw.AUTOMATINGSPECTRALUNMIXING|boardmanjosephw.AUTOMATINGSPECTRALUNMIXING]] |
+| `BoardmanJWKruse` | Unknown Authors | [[sources/BoardmanJWKruse|BoardmanJWKruse]] |
+| `boardmanMAPPINGTARGETSIGNATURES` | Boardman, Joseph and Kruse, F.A. and Green, Robert, O. | [[sources/boardmanMAPPINGTARGETSIGNATURES|boardmanMAPPINGTARGETSIGNATURES]] |
+| `boardmanMappingTargetSignatures1995` | Boardman, Joseph W. and Kruse, Fred A. and Green, Robert O. | [[sources/boardmanMappingTargetSignatures1995|boardmanMappingTargetSignatures1995]] |
+| `bosseAssessmentPhosphateLimestone2013` | Boss\ | [[sources/bosseAssessmentPhosphateLimestone2013|bosseAssessmentPhosphateLimestone2013]] |
+| `boujoContributionLetudeGeologique1976` | Boujo, Armand | [[sources/boujoContributionLetudeGeologique1976|boujoContributionLetudeGeologique1976]] |
+| `bourazzaRestorationPhosphateMined2025` | Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta... | [[sources/bourazzaRestorationPhosphateMined2025|bourazzaRestorationPhosphateMined2025]] |
+| `bourazzaRestorationPhosphateMined2025a` | Bourazza, Anass and Hassane Sidikou, Abdel Aziz and Fenta... | [[sources/bourazzaRestorationPhosphateMined2025a|bourazzaRestorationPhosphateMined2025a]] |
+| `bradshawRestorationMinedLands1997` | Bradshaw, Anthony | [[sources/bradshawRestorationMinedLands1997|bradshawRestorationMinedLands1997]] |
+| `breimanRandomForests2001` | Breiman, Leo | [[sources/breimanRandomForests2001|breimanRandomForests2001]] |
+| `bressanEvaluationMachineLearning2020` | Bressan, Thiago Santi and Kehl De Souza, Marcelo and Gire... | [[sources/bressanEvaluationMachineLearning2020|bressanEvaluationMachineLearning2020]] |
+| `buzziMappingChangesRecovering2014` | Buzzi, Jorge and Riaza, Asunci\ | [[sources/buzziMappingChangesRecovering2014|buzziMappingChangesRecovering2014]] |
+| `c.heckerSpectralAbsorptionFeature2019` | C. Hecker | [[sources/c.heckerSpectralAbsorptionFeature2019|c.heckerSpectralAbsorptionFeature2019]] |
+| `chabrillatEnMAPSpaceborneImaging2024` | Chabrillat, Sabine and Foerster, Saskia and Segl, Karl an... | [[sources/chabrillatEnMAPSpaceborneImaging2024|chabrillatEnMAPSpaceborneImaging2024]] |
+| `chakrabortySpectralSpatialComparison2024` | Chakraborty, Rupsa and Rachdi, Imane and Thiele, Samuel a... | [[sources/chakrabortySpectralSpatialComparison2024|chakrabortySpectralSpatialComparison2024]] |
+| `charbaouiNewInsightsGeophysical2023` | Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed... | [[sources/charbaouiNewInsightsGeophysical2023|charbaouiNewInsightsGeophysical2023]] |
+| `charbaouiNewInsightsGeophysical2023a` | Charbaoui, Anas and Kchikach, Azzouz and Jaffal, Mohammed... | [[sources/charbaouiNewInsightsGeophysical2023a|charbaouiNewInsightsGeophysical2023a]] |
+| `chein-ichangSpectralInformationDivergence1999` | Chein-I Chang | [[sources/chein-ichangSpectralInformationDivergence1999|chein-ichangSpectralInformationDivergence1999]] |
+| `chenIntegratingVisibleNearinfrared2010` | Chen, Xianfeng and Warner, Timothy A. and Campagna, David J. | [[sources/chenIntegratingVisibleNearinfrared2010|chenIntegratingVisibleNearinfrared2010]] |
+| `chenXGBoostScalableTree2016` | Chen, Tianqi and Guestrin, Carlos | [[sources/chenXGBoostScalableTree2016|chenXGBoostScalableTree2016]] |
+| `chindongMultiSensorMachineLearning2025` | Chindong, Joyce Mongai and Ouzemou, Jamal-Eddine and Laam... | [[sources/chindongMultiSensorMachineLearning2025|chindongMultiSensorMachineLearning2025]] |
+| `chlahbiGeologicalGeomechanicalCharacterization2023` | Chlahbi, Safa and Belem, Tikou and Elghali, Abdellatif an... | [[sources/chlahbiGeologicalGeomechanicalCharacterization2023|chlahbiGeologicalGeomechanicalCharacterization2023]] |
+| `choeMappingHeavyMetal2008` | Choe, Eunyoung and van der Meer | [[sources/choeMappingHeavyMetal2008|choeMappingHeavyMetal2008]] |
+| `clarkHighSpectralResolution1990` | Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew... | [[sources/clarkHighSpectralResolution1990|clarkHighSpectralResolution1990]] |
+| `clarkHighSpectralResolution1990a` | Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew... | [[sources/clarkHighSpectralResolution1990a|clarkHighSpectralResolution1990a]] |
+| `clarkHighSpectralResolution1990b` | Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew... | [[sources/clarkHighSpectralResolution1990b|clarkHighSpectralResolution1990b]] |
+| `clarkHighSpectralResolution1990c` | Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew... | [[sources/clarkHighSpectralResolution1990c|clarkHighSpectralResolution1990c]] |
+| `clarkHighSpectralResolution1990d` | Clark, Roger N. and King, Trude V. V. and Klejwa, Matthew... | [[sources/clarkHighSpectralResolution1990d|clarkHighSpectralResolution1990d]] |
+| `clarkReflectanceSpectroscopyQuantitative1984` | Clark, Roger N. and Roush, Ted L. | [[sources/clarkReflectanceSpectroscopyQuantitative1984|clarkReflectanceSpectroscopyQuantitative1984]] |
+| `clarkReflectanceSpectroscopyQuantitative1984a` | Clark, Roger N. and Roush, Ted L. | [[sources/clarkReflectanceSpectroscopyQuantitative1984a|clarkReflectanceSpectroscopyQuantitative1984a]] |
+| `clarkReflectanceSpectroscopyQuantitative1984b` | Clark, Roger N. and Roush, Ted L. | [[sources/clarkReflectanceSpectroscopyQuantitative1984b|clarkReflectanceSpectroscopyQuantitative1984b]] |
+| `clarkReflectanceSpectroscopyQuantitative1984c` | Clark, Roger N. and Roush, Ted L. | [[sources/clarkReflectanceSpectroscopyQuantitative1984c|clarkReflectanceSpectroscopyQuantitative1984c]] |
+| `clarkSpectroscopyRocksMinerals1999` | Clark, Roger | [[sources/clarkSpectroscopyRocksMinerals1999|clarkSpectroscopyRocksMinerals1999]] |
+| `cogliatiPRISMAImagingSpectroscopy2021` | Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, ... | [[sources/cogliatiPRISMAImagingSpectroscopy2021|cogliatiPRISMAImagingSpectroscopy2021]] |
+| `cogliatiPRISMAImagingSpectroscopy2021a` | Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, ... | [[sources/cogliatiPRISMAImagingSpectroscopy2021a|cogliatiPRISMAImagingSpectroscopy2021a]] |
+| `cogliatiPRISMAImagingSpectroscopy2021b` | Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, ... | [[sources/cogliatiPRISMAImagingSpectroscopy2021b|cogliatiPRISMAImagingSpectroscopy2021b]] |
+| `cogliatiPRISMAImagingSpectroscopy2021c` | Cogliati, S. and Sarti, F. and Chiarantini, L. and Cosi, ... | [[sources/cogliatiPRISMAImagingSpectroscopy2021c|cogliatiPRISMAImagingSpectroscopy2021c]] |
+| `cohenStatisticalPowerAnalysis2013` | Cohen, Jacob | [[sources/cohenStatisticalPowerAnalysis2013|cohenStatisticalPowerAnalysis2013]] |
+| `coppoLeonardoSpaceborneInfrared2020` | Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sa... | [[sources/coppoLeonardoSpaceborneInfrared2020|coppoLeonardoSpaceborneInfrared2020]] |
+| `coppoLeonardoSpaceborneInfrared2020a` | Coppo, Peter and Brandani, Fabio and Faraci, Marco and Sa... | [[sources/coppoLeonardoSpaceborneInfrared2020a|coppoLeonardoSpaceborneInfrared2020a]] |
+| `cordellStoryPhosphorusGlobal2009` | Cordell, Dana and Drangert, Jan-Olof and White, Stuart | [[sources/cordellStoryPhosphorusGlobal2009|cordellStoryPhosphorusGlobal2009]] |
+| `cordellStoryPhosphorusGlobal2009a` | Cordell, Dana and Drangert, Jan-Olof and White, Stuart | [[sources/cordellStoryPhosphorusGlobal2009a|cordellStoryPhosphorusGlobal2009a]] |
+| `cortesSupportvectorNetworks1995` | Cortes, Corinna and Vapnik, Vladimir | [[sources/cortesSupportvectorNetworks1995|cortesSupportvectorNetworks1995]] |
+| `coverNearestNeighborPattern1967` | Cover, T. and Hart, P. | [[sources/coverNearestNeighborPattern1967|coverNearestNeighborPattern1967]] |
+| `DataProductsQuality` | Unknown Authors | [[sources/DataProductsQuality|DataProductsQuality]] |
+| `DataSeries2017` | Unknown Authors | [[sources/DataSeries2017|DataSeries2017]] |
+| `DataSeries2017a` | Unknown Authors | [[sources/DataSeries2017a|DataSeries2017a]] |
+| `DataSeries2017b` | Unknown Authors | [[sources/DataSeries2017b|DataSeries2017b]] |
+| `daviesMappingAcidicMine2017` | Davies, Gwendolyn E. and Calvin, Wendy M. | [[sources/daviesMappingAcidicMine2017|daviesMappingAcidicMine2017]] |
+| `desanctisSpectroscopicCharacterizationMineralogy2012` | De Sanctis, M. C. and Ammannito, E. and Capria, M. T. and... | [[sources/desanctisSpectroscopicCharacterizationMineralogy2012|desanctisSpectroscopicCharacterizationMineralogy2012]] |
+| `dobigeonNonlinearUnmixingHyperspectral2014` | Dobigeon, Nicolas and Tourneret, Jean-Yves and Richard, C... | [[sources/dobigeonNonlinearUnmixingHyperspectral2014|dobigeonNonlinearUnmixingHyperspectral2014]] |
+| `EditorialSpecialIssue` | Unknown Authors | [[sources/EditorialSpecialIssue|EditorialSpecialIssue]] |
+| `edwardsMineralResourceOre2001` | Edwards, A.C. and of Mining, Australasian Institute and M... | [[sources/edwardsMineralResourceOre2001|edwardsMineralResourceOre2001]] |
+| `el-arafySuccessfulSpectralRemote2021` | El-Arafy | [[sources/el-arafySuccessfulSpectralRemote2021|el-arafySuccessfulSpectralRemote2021]] |
+| `el-azhariEvaluatingGroundwaterSalinity2025` | El-Azhari | [[sources/el-azhariEvaluatingGroundwaterSalinity2025|el-azhariEvaluatingGroundwaterSalinity2025]] |
+| `elazhariPollutionEcologicalRisk2017` | El Azhari, Abdellah and Rhoujjati, Ali and El Hachimi, Mo... | [[sources/elazhariPollutionEcologicalRisk2017|elazhariPollutionEcologicalRisk2017]] |
+| `elbamikiPhosphateRocksReview2021` | El Bamiki, Radouan and Raji, Otmane and Ouabid, Muhammad ... | [[sources/elbamikiPhosphateRocksReview2021|elbamikiPhosphateRocksReview2021]] |
+| `elberdaiValorizationPhosphateMine2024` | El Berdai, Yahya and Taha, Yassine and Trauchessec, Romai... | [[sources/elberdaiValorizationPhosphateMine2024|elberdaiValorizationPhosphateMine2024]] |
+| `elberdaiValorizationPhosphateMine2024a` | El Berdai, Yahya and Taha, Yassine and Trauchessec, Romai... | [[sources/elberdaiValorizationPhosphateMine2024a|elberdaiValorizationPhosphateMine2024a]] |
+| `elmachiRecyclingMineWastes2024` | El Machi, Aiman and El Berdai, Yahya and Mabroum, Safaa a... | [[sources/elmachiRecyclingMineWastes2024|elmachiRecyclingMineWastes2024]] |
+| `elmansourCuttingEdgeFrameworkSustainable2025` | El Mansour, Abdelhak and Laamrani, Ahmed and Elghali, Abd... | [[sources/elmansourCuttingEdgeFrameworkSustainable2025|elmansourCuttingEdgeFrameworkSustainable2025]] |
+| `elmeknassiCircularEconomyStrategies2024` | Elmeknassi, Malak and Elghali, Abdellatif and Laamrani, A... | [[sources/elmeknassiCircularEconomyStrategies2024|elmeknassiCircularEconomyStrategies2024]] |
+| `elserBrokenBiogeochemicalCycle2011` | Elser, James and Bennett, Elena | [[sources/elserBrokenBiogeochemicalCycle2011|elserBrokenBiogeochemicalCycle2011]] |
+| `EnMAPSpaceborneImaging` | Unknown Authors | [[sources/EnMAPSpaceborneImaging|EnMAPSpaceborneImaging]] |
+| `essingtonSoilWaterChemistry2004` | Essington, Michael E. | [[sources/essingtonSoilWaterChemistry2004|essingtonSoilWaterChemistry2004]] |
+| `fauvelAdvancesSpectralSpatialClassification2013` | Fauvel, M. and Tarabalka, Y. and Benediktsson, J. A. and ... | [[sources/fauvelAdvancesSpectralSpatialClassification2013|fauvelAdvancesSpectralSpatialClassification2013]] |
+| `fieldingStatisticalInferenceOrder1974` | Fielding, A. and Barlow, R. E. and Bartholomew, D. J. and... | [[sources/fieldingStatisticalInferenceOrder1974|fieldingStatisticalInferenceOrder1974]] |
+| `flogeacCharacterizationSoilParticles2005` | Flogeac, Karine and Guillon, Emmanuel and Aplincourt, Mic... | [[sources/flogeacCharacterizationSoilParticles2005|flogeacCharacterizationSoilParticles2005]] |
+| `francosEstimationRelativeAbundance2021` | Francos, Nicolas and Notesco, Gila and Ben-Dor | [[sources/francosEstimationRelativeAbundance2021|francosEstimationRelativeAbundance2021]] |
+| `gaffeySpectralReflectanceCarbonate1986` | Gaffey, Susan J. | [[sources/gaffeySpectralReflectanceCarbonate1986|gaffeySpectralReflectanceCarbonate1986]] |
+| `gaffeysSpectralReflectanceCarbonate1986` | Gaffey, S, J | [[sources/gaffeysSpectralReflectanceCarbonate1986|gaffeysSpectralReflectanceCarbonate1986]] |
+| `gaoGeneralizedUnsupervisedClustering2021` | Gao, Angela F. and Rasmussen, Brandon and Kulits, Peter a... | [[sources/gaoGeneralizedUnsupervisedClustering2021|gaoGeneralizedUnsupervisedClustering2021]] |
+| `gasmiUsingPRISMAHyperspectral2022` | Gasmi, Anis and Gomez, C\ | [[sources/gasmiUsingPRISMAHyperspectral2022|gasmiUsingPRISMAHyperspectral2022]] |
+| `gazleyReviewReliabilityValidity2014` | Gazley, M. F. and Fisher, L. A. | [[sources/gazleyReviewReliabilityValidity2014|gazleyReviewReliabilityValidity2014]] |
+| `gazleyReviewReliabilityValidity2014a` | Gazley, Michael and Fisher, Louise | [[sources/gazleyReviewReliabilityValidity2014a|gazleyReviewReliabilityValidity2014a]] |
+| `geladiPartialLeastsquaresRegression1986` | Geladi, Paul and Kowalski, Bruce R. | [[sources/geladiPartialLeastsquaresRegression1986|geladiPartialLeastsquaresRegression1986]] |
+| `geladiPartialLeastsquaresRegression1986a` | Geladi, Paul and Kowalski, Bruce R. | [[sources/geladiPartialLeastsquaresRegression1986a|geladiPartialLeastsquaresRegression1986a]] |
+| `genesioUpdatesPRISMAScientific2022` | Genesio, Lorenzo and Braga, Federica and Bresciani, Maria... | [[sources/genesioUpdatesPRISMAScientific2022|genesioUpdatesPRISMAScientific2022]] |
+| `geurtsExtremelyRandomizedTrees2006` | Geurts, Pierre and Ernst, Damien and Wehenkel, Louis | [[sources/geurtsExtremelyRandomizedTrees2006|geurtsExtremelyRandomizedTrees2006]] |
+| `gewaliMachineLearningBased2019` | Gewali, Utsav B. and Monteiro, Sildomar T. and Saber, Eli | [[sources/gewaliMachineLearningBased2019|gewaliMachineLearningBased2019]] |
+| `giardinoHyperspectralPrismaProducts2021` | Giardino, Claudia and Bresciani, Mariano and Fabbretto, A... | [[sources/giardinoHyperspectralPrismaProducts2021|giardinoHyperspectralPrismaProducts2021]] |
+| `giardinoHyperspectralPrismaProducts2021a` | Giardino, Claudia and Bresciani, Mariano and Fabbretto, A... | [[sources/giardinoHyperspectralPrismaProducts2021a|giardinoHyperspectralPrismaProducts2021a]] |
+| `giglioActiveFireDetection2008` | Giglio, Louis and Csiszar, Ivan and Rest\ | [[sources/giglioActiveFireDetection2008|giglioActiveFireDetection2008]] |
+| `goetzImagingSpectrometryEarth1985` | Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry... | [[sources/goetzImagingSpectrometryEarth1985|goetzImagingSpectrometryEarth1985]] |
+| `goetzImagingSpectrometryEarth1985a` | Goetz, Alexander F. H. and Vane, Gregg and Solomon, Jerry... | [[sources/goetzImagingSpectrometryEarth1985a|goetzImagingSpectrometryEarth1985a]] |
+| `grewalMachineLearningDeep2023` | Grewal, Reaya and Singh Kasana, Singara and Kasana, Geeta | [[sources/grewalMachineLearningDeep2023|grewalMachineLearningDeep2023]] |
+| `guanterSpectralCalibrationHyperspectral2006` | Guanter, Luis and Richter, Rudolf and Moreno, Jos\ | [[sources/guanterSpectralCalibrationHyperspectral2006|guanterSpectralCalibrationHyperspectral2006]] |
+| `guhaReflectanceSpectroscopyASTER2019` | Guha, Arindam and Vinod Kumar, K. and Porwal, Alok and Ra... | [[sources/guhaReflectanceSpectroscopyASTER2019|guhaReflectanceSpectroscopyASTER2019]] |
+| `hakkouValorizationPhosphateWaste2016` | Hakkou, Rachid and Benzaazoua, Mostafa and Bussi\`e | [[sources/hakkouValorizationPhosphateWaste2016|hakkouValorizationPhosphateWaste2016]] |
+| `hallEvaluationPortableXray2014` | Hall, Gwendy E.M. and Bonham-Carter | [[sources/hallEvaluationPortableXray2014|hallEvaluationPortableXray2014]] |
+| `HandheldXrayFluorescence2019` | Unknown Authors | [[sources/HandheldXrayFluorescence2019|HandheldXrayFluorescence2019]] |
+| `HandheldXrayFluorescence2019a` | Unknown Authors | [[sources/HandheldXrayFluorescence2019a|HandheldXrayFluorescence2019a]] |
+| `hapkeBidirectionalReflectanceSpectroscopy1981` | Hapke, Bruce | [[sources/hapkeBidirectionalReflectanceSpectroscopy1981|hapkeBidirectionalReflectanceSpectroscopy1981]] |
+| `hapkeTheoryReflectanceEmittance2012` | Hapke, Bruce | [[sources/hapkeTheoryReflectanceEmittance2012|hapkeTheoryReflectanceEmittance2012]] |
+| `heckerAssessingInfluenceReference2008` | Hecker, Christoph and van der Meijde | [[sources/heckerAssessingInfluenceReference2008|heckerAssessingInfluenceReference2008]] |
+| `heckerAssessingInfluenceReference2008a` | Hecker, Christoph and van der Meijde | [[sources/heckerAssessingInfluenceReference2008a|heckerAssessingInfluenceReference2008a]] |
+| `heinzFullyConstrainedLeast2001` | Heinz, D.C. and Chein-I-Chang | [[sources/heinzFullyConstrainedLeast2001|heinzFullyConstrainedLeast2001]] |
+| `heinzFullyConstrainedLeast2001a` | Heinz, D.C. and Chein-I-Chang | [[sources/heinzFullyConstrainedLeast2001a|heinzFullyConstrainedLeast2001a]] |
+| `heinzFullyConstrainedLeast2001b` | Heinz, D.C. and Chein-I-Chang | [[sources/heinzFullyConstrainedLeast2001b|heinzFullyConstrainedLeast2001b]] |
+| `hellerpearlshtienPRISMASensorEvaluation2021` | Heller Pearlshtien, Daniela and Pignatti, Stefano and Gre... | [[sources/hellerpearlshtienPRISMASensorEvaluation2021|hellerpearlshtienPRISMASensorEvaluation2021]] |
+| `hellerpearlshtienPRISMASensorEvaluation2021a` | Heller Pearlshtien, Daniela and Pignatti, Stefano and Gre... | [[sources/hellerpearlshtienPRISMASensorEvaluation2021a|hellerpearlshtienPRISMASensorEvaluation2021a]] |
+| `hellerpearlshtienPRISMASensorEvaluation2021b` | Heller Pearlshtien, Daniela and Pignatti, Stefano and Gre... | [[sources/hellerpearlshtienPRISMASensorEvaluation2021b|hellerpearlshtienPRISMASensorEvaluation2021b]] |
+| `heRecentAdvancesSpectral2018` | He, Lin and Li, Jun and Liu, Chenying and Li, Shutao | [[sources/heRecentAdvancesSpectral2018|heRecentAdvancesSpectral2018]] |
+| `hudson-edwardsTacklingMineWastes2016` | Hudson-Edwards | [[sources/hudson-edwardsTacklingMineWastes2016|hudson-edwardsTacklingMineWastes2016]] |
+| `huntSPECTRALSIGNATURESPARTICULATE1977` | Hunt, Graham R. | [[sources/huntSPECTRALSIGNATURESPARTICULATE1977|huntSPECTRALSIGNATURESPARTICULATE1977]] |
+| `huntVisibleNearinfraredSpectra1970` | Hunt, Graham R. | [[sources/huntVisibleNearinfraredSpectra1970|huntVisibleNearinfraredSpectra1970]] |
+| `huntVisibleNearinfraredSpectra1971` | Hunt, Graham R. | [[sources/huntVisibleNearinfraredSpectra1971|huntVisibleNearinfraredSpectra1971]] |
+| `HyperspectralRemoteSensing` | Unknown Authors | [[sources/HyperspectralRemoteSensing|HyperspectralRemoteSensing]] |
+| `ibrahimAssessmentMachineLearning2014` | Ibrahim, Adamu M. and Bennett, Brandon | [[sources/ibrahimAssessmentMachineLearning2014|ibrahimAssessmentMachineLearning2014]] |
+| `idrissiSustainableUsePhosphate2021` | Idrissi, Hicham and Taha, Yassine and Elghali, Abdellatif... | [[sources/idrissiSustainableUsePhosphate2021|idrissiSustainableUsePhosphate2021]] |
+| `ihbachGeophysicalProspectingGroundwater2020` | Ihbach, Fatim-Zahra and Kchikach, Azzouz and Jaffal, Moha... | [[sources/ihbachGeophysicalProspectingGroundwater2020|ihbachGeophysicalProspectingGroundwater2020]] |
+| `ImagingSpectrometryEarth` | Unknown Authors | [[sources/ImagingSpectrometryEarth|ImagingSpectrometryEarth]] |
+| `inabiInvestigationInnovativeCombined2024` | Inabi, Omar and Khalil, Abdessamad and Zouine, Abir and H... | [[sources/inabiInvestigationInnovativeCombined2024|inabiInvestigationInnovativeCombined2024]] |
+| `inabiSustainableMiningRepurposing2025` | Inabi, Omar and Khalil, Abdessamad and Benzaazoua, Mostaf... | [[sources/inabiSustainableMiningRepurposing2025|inabiSustainableMiningRepurposing2025]] |
+| `InterlayersGeoenvironmentalAssessment` | Unknown Authors | [[sources/InterlayersGeoenvironmentalAssessment|InterlayersGeoenvironmentalAssessment]] |
+| `jahodaMachineLearningRecognizing2021` | Jahoda, Pavel and Drozdovskiy, Igor and Payler, Samuel J.... | [[sources/jahodaMachineLearningRecognizing2021|jahodaMachineLearningRecognizing2021]] |
+| `jamiesonGeochemistryMineralogySolid2011` | Jamieson, H. E. | [[sources/jamiesonGeochemistryMineralogySolid2011|jamiesonGeochemistryMineralogySolid2011]] |
+| `jiangEvaluationPotentialRelease2015` | Jiang, Liguo and Xue, Qiang and Liu, Lei | [[sources/jiangEvaluationPotentialRelease2015|jiangEvaluationPotentialRelease2015]] |
+| `kalnickyFieldPortableXRF2001` | Kalnicky, Dennis J and Singhvi, Raj | [[sources/kalnickyFieldPortableXRF2001|kalnickyFieldPortableXRF2001]] |
+| `karasiakSpatialDependenceTraining2022` | Karasiak, N. and Dejoux, J.-F. and Monteil, C. and Sheere... | [[sources/karasiakSpatialDependenceTraining2022|karasiakSpatialDependenceTraining2022]] |
+| `kattenbornSpatiallyAutocorrelatedTraining2022` | Kattenborn, Teja and Schiefer, Felix and Frey, Julian and... | [[sources/kattenbornSpatiallyAutocorrelatedTraining2022|kattenbornSpatiallyAutocorrelatedTraining2022]] |
+| `kattenbornSpatiallyAutocorrelatedTraining2022a` | Kattenborn, Teja and Schiefer, Felix and Frey, Julian and... | [[sources/kattenbornSpatiallyAutocorrelatedTraining2022a|kattenbornSpatiallyAutocorrelatedTraining2022a]] |
+| `keshavaSpectralUnmixing2002` | Keshava, N. and Mustard, J.F. | [[sources/keshavaSpectralUnmixing2002|keshavaSpectralUnmixing2002]] |
+| `keshavaSpectralUnmixing2002a` | Keshava, N. and Mustard, J.F. | [[sources/keshavaSpectralUnmixing2002a|keshavaSpectralUnmixing2002a]] |
+| `khalilAssessmentSoilContamination2013` | Khalil, A. and Hanich, L. and Bannari, A. and Zouhri, L. ... | [[sources/khalilAssessmentSoilContamination2013|khalilAssessmentSoilContamination2013]] |
+| `kleinmannPredictionWaterQuality2000` | Kleinmann, R.L.P. and Acid Drainage Technology Initiative... | [[sources/kleinmannPredictionWaterQuality2000|kleinmannPredictionWaterQuality2000]] |
+| `koiralaRobustSupervisedMethod2021` | Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo ... | [[sources/koiralaRobustSupervisedMethod2021|koiralaRobustSupervisedMethod2021]] |
+| `koiralaRobustSupervisedMethod2021a` | Koirala, Bikram and Zahiri, Zohreh and Lamberti, Alfredo ... | [[sources/koiralaRobustSupervisedMethod2021a|koiralaRobustSupervisedMethod2021a]] |
+| `kokalyUSGSSpectralLibrary2017` | Kokaly, Raymond F. and Clark, Roger and Swayze, Gregg and... | [[sources/kokalyUSGSSpectralLibrary2017|kokalyUSGSSpectralLibrary2017]] |
+| `kruseSpectralImageProcessing1993` | Kruse, F.A. and Lefkoff, A.B. and Boardman, J.W. and Heid... | [[sources/kruseSpectralImageProcessing1993|kruseSpectralImageProcessing1993]] |
+| `kruseSpectralImageProcessing1993a` | Kruse, F. A. and Lefkoff, A. B. and Boardman, J. W. and H... | [[sources/kruseSpectralImageProcessing1993a|kruseSpectralImageProcessing1993a]] |
+| `laaksoAssessingAbilityCombine2018` | Laakso, K. and Middleton, M. and Heinig, T. and B\ | [[sources/laaksoAssessingAbilityCombine2018|laaksoAssessingAbilityCombine2018]] |
+| `lawsonSolvingLeastSquares1995` | Lawson, Charles L. and Hanson, Richard J. | [[sources/lawsonSolvingLeastSquares1995|lawsonSolvingLeastSquares1995]] |
+| `lawsonSolvingLeastSquares1995a` | Lawson, Charles L. and Hanson, Richard J. | [[sources/lawsonSolvingLeastSquares1995a|lawsonSolvingLeastSquares1995a]] |
+| `liDeepLearningHyperspectral2019` | Li, Shutao and Song, Weiwei and Fang, Leyuan and Chen, Yu... | [[sources/liDeepLearningHyperspectral2019|liDeepLearningHyperspectral2019]] |
+| `liMineralProspectivityMapping2025` | Li, Quanke and Chen, Guoxiong and Wang, Detao | [[sources/liMineralProspectivityMapping2025|liMineralProspectivityMapping2025]] |
+| `loizzoPrismaItalianHyperspectral2018` | Loizzo, R. and Guarini, R. and Longo, F. and Scopa, T. an... | [[sources/loizzoPrismaItalianHyperspectral2018|loizzoPrismaItalianHyperspectral2018]] |
+| `loizzoPrismaMissionStatus2019` | Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. a... | [[sources/loizzoPrismaMissionStatus2019|loizzoPrismaMissionStatus2019]] |
+| `loizzoPrismaMissionStatus2019a` | Loizzo, R. and Daraio, M. and Guarini, R. and Longo, F. a... | [[sources/loizzoPrismaMissionStatus2019a|loizzoPrismaMissionStatus2019a]] |
+| `lottermoserMineWastes2010` | Lottermoser, Bernd | [[sources/lottermoserMineWastes2010|lottermoserMineWastes2010]] |
+| `loukiliMonitoringLandChanges2025` | Loukili, Ikram and Laamrani, Ahmed and El Ghorfi, Mustaph... | [[sources/loukiliMonitoringLandChanges2025|loukiliMonitoringLandChanges2025]] |
+| `malusisRestrictedSaltDiffusion2015` | Malusis, Michael A. and Kang, Jong-Beom and Shackelford, ... | [[sources/malusisRestrictedSaltDiffusion2015|malusisRestrictedSaltDiffusion2015]] |
+| `mandendeHyperspectralCoreScanner2023` | Mandende, H. and Ndou, C. and Mothupi, T. | [[sources/mandendeHyperspectralCoreScanner2023|mandendeHyperspectralCoreScanner2023]] |
+| `mansourIntegratingVNIRSWIR2025` | Mansour, Abdelhak El and Najih, Ahmed and Ouzemou, Jamal-... | [[sources/mansourIntegratingVNIRSWIR2025|mansourIntegratingVNIRSWIR2025]] |
+| `MappingHyperspectralAVIRIS` | Unknown Authors | [[sources/MappingHyperspectralAVIRIS|MappingHyperspectralAVIRIS]] |
+| `marshallFieldlevelCropYield2022` | Marshall, Michael and Belgiu, Mariana and Boschetti, Mirc... | [[sources/marshallFieldlevelCropYield2022|marshallFieldlevelCropYield2022]] |
+| `maSituLeadImmobilization1993` | Ma, Qi Ying and Traina, Samuel J. and Logan, Terry J. and... | [[sources/maSituLeadImmobilization1993|maSituLeadImmobilization1993]] |
+| `mcclellanMineralogyCarbonateFluorapatites1980` | McClellan, Guerry H. | [[sources/mcclellanMineralogyCarbonateFluorapatites1980|mcclellanMineralogyCarbonateFluorapatites1980]] |
+| `meerdinkECOSTRESSSpectralLibrary2019` | Meerdink, Susan K. and Hook, Simon J. and Roberts, Dar A.... | [[sources/meerdinkECOSTRESSSpectralLibrary2019|meerdinkECOSTRESSSpectralLibrary2019]] |
+| `melganiClassificationHyperspectralRemote2004` | Melgani, F. and Bruzzone, L. | [[sources/melganiClassificationHyperspectralRemote2004|melganiClassificationHyperspectralRemote2004]] |
+| `melganiSupportVectorMachines2002` | Melgani, F. and Bruzzone, L. | [[sources/melganiSupportVectorMachines2002|melganiSupportVectorMachines2002]] |
+| `meyerImportanceSpatialPredictor2019` | Meyer, Hanna and Reudenbach, Christoph and W\ | [[sources/meyerImportanceSpatialPredictor2019|meyerImportanceSpatialPredictor2019]] |
+| `meznedPerspectiveChapterOptical2023` | Mezned, Nouha | [[sources/meznedPerspectiveChapterOptical2023|meznedPerspectiveChapterOptical2023]] |
+| `mghazliDescriptionMicrobialCommunities2021` | Mghazli, Najoua and Sbabou, Laila and Hakkou, Rachid and ... | [[sources/mghazliDescriptionMicrobialCommunities2021|mghazliDescriptionMicrobialCommunities2021]] |
+| `mielkeEnGeoMAP20AutomatedHyperspectral2016` | Mielke, Christian and Rogass, Christian and Boesche, Nina... | [[sources/mielkeEnGeoMAP20AutomatedHyperspectral2016|mielkeEnGeoMAP20AutomatedHyperspectral2016]] |
+| `MineralCommoditySummaries` | Unknown Authors | [[sources/MineralCommoditySummaries|MineralCommoditySummaries]] |
+| `MineralCommoditySummaries2021` | Unknown Authors | [[sources/MineralCommoditySummaries2021|MineralCommoditySummaries2021]] |
+| `MineralCommoditySummaries2023` | Unknown Authors | [[sources/MineralCommoditySummaries2023|MineralCommoditySummaries2023]] |
+| `MineralCommoditySummaries2023a` | Unknown Authors | [[sources/MineralCommoditySummaries2023a|MineralCommoditySummaries2023a]] |
+| `MineralCommoditySummaries2025` | Unknown Authors | [[sources/MineralCommoditySummaries2025|MineralCommoditySummaries2025]] |
+| `MineralCommoditySummaries2025a` | Unknown Authors | [[sources/MineralCommoditySummaries2025a|MineralCommoditySummaries2025a]] |
+| `MineralCommoditySummaries2025b` | Unknown Authors | [[sources/MineralCommoditySummaries2025b|MineralCommoditySummaries2025b]] |
+| `MineralCommoditySummaries2025c` | Unknown Authors | [[sources/MineralCommoditySummaries2025c|MineralCommoditySummaries2025c]] |
+| `MineralCommoditySummaries2025d` | Unknown Authors | [[sources/MineralCommoditySummaries2025d|MineralCommoditySummaries2025d]] |
+| `MineralCommoditySummaries2025e` | Unknown Authors | [[sources/MineralCommoditySummaries2025e|MineralCommoditySummaries2025e]] |
+| `MineWastesCharacterization` | Unknown Authors | [[sources/MineWastesCharacterization|MineWastesCharacterization]] |
+| `mitchellFundamentalsSoilBehavior2005` | Mitchell, James Kenneth and Soga, Ken | [[sources/mitchellFundamentalsSoilBehavior2005|mitchellFundamentalsSoilBehavior2005]] |
+| `MitigatingSoilContamination2018` | Unknown Authors | [[sources/MitigatingSoilContamination2018|MitigatingSoilContamination2018]] |
+| `mostafaReleasePotentiallyToxic2025` | Mostafa, Mouataz T. and Farhat, Hassan I. and Abd El-Bakey | [[sources/mostafaReleasePotentiallyToxic2025|mostafaReleasePotentiallyToxic2025]] |
+| `mulderQuantifyingMineralAbundances2013` | Mulder, V.L. and Pl\ | [[sources/mulderQuantifyingMineralAbundances2013|mulderQuantifyingMineralAbundances2013]] |
+| `nascimentoVertexComponentAnalysis2005` | Nascimento, J.M.P. and Dias, J.M.B. | [[sources/nascimentoVertexComponentAnalysis2005|nascimentoVertexComponentAnalysis2005]] |
+| `nascimentoVertexComponentAnalysis2005a` | Nascimento, J.M.P. and Dias, J.M.B. | [[sources/nascimentoVertexComponentAnalysis2005a|nascimentoVertexComponentAnalysis2005a]] |
+| `nationalmineralsinformationcenterUSGeologicalSurvey2024` | National Minerals Information Center | [[sources/nationalmineralsinformationcenterUSGeologicalSurvey2024|nationalmineralsinformationcenterUSGeologicalSurvey2024]] |
+| `nordstromMineWatersAcidic2011` | Nordstrom, D. K. | [[sources/nordstromMineWatersAcidic2011|nordstromMineWatersAcidic2011]] |
+| `norouziInformationDepthNIR2021` | Norouzi, Sarem and Sadeghi, Morteza and Liaghat, Abdolmaj... | [[sources/norouziInformationDepthNIR2021|norouziInformationDepthNIR2021]] |
+| `notescoApplicationHyperspectralRemote2020` | Notesco, Gila and Weksler, Shahar and Ben-Dor | [[sources/notescoApplicationHyperspectralRemote2020|notescoApplicationHyperspectralRemote2020]] |
+| `OCPSustainabilityIntegrated2021` | Unknown Authors | [[sources/OCPSustainabilityIntegrated2021|OCPSustainabilityIntegrated2021]] |
+| `ongPredictingAcidDrainage2003` | Ong, Cindy and Cudahy, Thomas and Swayze, Gregg | [[sources/ongPredictingAcidDrainage2003|ongPredictingAcidDrainage2003]] |
+| `OpenFileReport2002` | Unknown Authors | [[sources/OpenFileReport2002|OpenFileReport2002]] |
+| `OpenFileReport2002a` | Unknown Authors | [[sources/OpenFileReport2002a|OpenFileReport2002a]] |
+| `ouzemouIntegratingPostrainfallMultispectral2026` | Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, ... | [[sources/ouzemouIntegratingPostrainfallMultispectral2026|ouzemouIntegratingPostrainfallMultispectral2026]] |
+| `ouzemouPredictingSoilSalinity2025` | Ouzemou, Jamal-Eddine and Laamrani, Ahmed and El Battay, ... | [[sources/ouzemouPredictingSoilSalinity2025|ouzemouPredictingSoilSalinity2025]] |
+| `percivalCustomizedSpectralLibraries2018` | Percival, Jeanne B. and Bosman, Sean A. and Potter, Eric ... | [[sources/percivalCustomizedSpectralLibraries2018|percivalCustomizedSpectralLibraries2018]] |
+| `pereiraMultiTemporalMineralMapping2025` | Pereira, In\ | [[sources/pereiraMultiTemporalMineralMapping2025|pereiraMultiTemporalMineralMapping2025]] |
+| `pignattiEvaluationPRISMAHyperspectral2021` | Pignatti, S. and Amodeo, A. and Mona, L. and Palombo, A. ... | [[sources/pignattiEvaluationPRISMAHyperspectral2021|pignattiEvaluationPRISMAHyperspectral2021]] |
+| `plantePredictingGeochemicalBehaviour2011` | Plante, B. and Benzaazoua, M. and Bussi\`e | [[sources/plantePredictingGeochemicalBehaviour2011|plantePredictingGeochemicalBehaviour2011]] |
+| `plazaForewordSpecialIssue2012` | Plaza, Antonio and Bioucas-Dias | [[sources/plazaForewordSpecialIssue2012|plazaForewordSpecialIssue2012]] |
+| `plazaForewordSpecialIssue2012a` | Plaza, Antonio and Bioucas-Dias | [[sources/plazaForewordSpecialIssue2012a|plazaForewordSpecialIssue2012a]] |
+| `plazaRecentDevelopmentsEndmember2011` | Plaza, Antonio and Mart\ | [[sources/plazaRecentDevelopmentsEndmember2011|plazaRecentDevelopmentsEndmember2011]] |
+| `plotonSpatialValidationReveals2020` | Ploton, Pierre and Mortier, Fr\ | [[sources/plotonSpatialValidationReveals2020|plotonSpatialValidationReveals2020]] |
+| `pottsHandbookSilicateRock1987` | Potts, P. J. | [[sources/pottsHandbookSilicateRock1987|pottsHandbookSilicateRock1987]] |
+| `pourEditorialSpecialIssue2021` | Pour, Amin Beiranvand and Zoheir, Basem and Pradhan, Bisw... | [[sources/pourEditorialSpecialIssue2021|pourEditorialSpecialIssue2021]] |
+| `prevotCorrespondanceEntreContenu1979` | Pr\ | [[sources/prevotCorrespondanceEntreContenu1979|prevotCorrespondanceEntreContenu1979]] |
+| `ProgressGeoenvironmentalModels2002` | Unknown Authors | [[sources/ProgressGeoenvironmentalModels2002|ProgressGeoenvironmentalModels2002]] |
+| `qianGEOTECHNICALASPECTSLANDFILL` | Qian, Xuede | [[sources/qianGEOTECHNICALASPECTSLANDFILL|qianGEOTECHNICALASPECTSLANDFILL]] |
+| `r.desikanExploringRockPhosphates2018` | R. Desikan | [[sources/r.desikanExploringRockPhosphates2018|r.desikanExploringRockPhosphates2018]] |
+| `ramakrishnanHyperspectralRemoteSensing2015` | Ramakrishnan, D. and Bharti, Rishikesh | [[sources/ramakrishnanHyperspectralRemoteSensing2015|ramakrishnanHyperspectralRemoteSensing2015]] |
+| `ramseyCanSituGeochemical2012` | Ramsey, Michael H. and Boon, Katy A. | [[sources/ramseyCanSituGeochemical2012|ramseyCanSituGeochemical2012]] |
+| `rastiNoiseReductionHyperspectral2018` | Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram a... | [[sources/rastiNoiseReductionHyperspectral2018|rastiNoiseReductionHyperspectral2018]] |
+| `rastiNoiseReductionHyperspectral2018a` | Rasti, Behnood and Scheunders, Paul and Ghamisi, Pedram a... | [[sources/rastiNoiseReductionHyperspectral2018a|rastiNoiseReductionHyperspectral2018a]] |
+| `robertsCrossvalidationStrategiesData2017` | Roberts, David R. and Bahn, Volker and Ciuti, Simone and ... | [[sources/robertsCrossvalidationStrategiesData2017|robertsCrossvalidationStrategiesData2017]] |
+| `roggeIntegrationSpatialSpectral2007` | Rogge, D. M. and Rivard, B. and Zhang, J. and Sanchez, A.... | [[sources/roggeIntegrationSpatialSpectral2007|roggeIntegrationSpatialSpectral2007]] |
+| `romanoAppropriateStatisticsOrdinal2006` | Romano, Jeanine and Kromrey, Jeffrey D. and Coraggio, Jes... | [[sources/romanoAppropriateStatisticsOrdinal2006|romanoAppropriateStatisticsOrdinal2006]] |
+| `rousseauCorrectionsMatrixEffects2006` | Rousseau, Richard M. | [[sources/rousseauCorrectionsMatrixEffects2006|rousseauCorrectionsMatrixEffects2006]] |
+| `ruffinCombinedDerivativeSpectroscopy2008` | Ruffin, Chris and King, Roger L. and Younan, Nicolas H. | [[sources/ruffinCombinedDerivativeSpectroscopy2008|ruffinCombinedDerivativeSpectroscopy2008]] |
+| `ryskinVibrationsProtonsMinerals1974` | Ryskin, \relax Ya | [[sources/ryskinVibrationsProtonsMinerals1974|ryskinVibrationsProtonsMinerals1974]] |
+| `safhiCharacterizationsPotentialRecovery2022` | Safhi, Amine El Mahdi and Amar, Hicham and El Berdai, Yah... | [[sources/safhiCharacterizationsPotentialRecovery2022|safhiCharacterizationsPotentialRecovery2022]] |
+| `safhiCharacterizationsPotentialRecovery2022a` | Safhi, Amine el Mahdi and Amar, Hicham and El Berdai, Yah... | [[sources/safhiCharacterizationsPotentialRecovery2022a|safhiCharacterizationsPotentialRecovery2022a]] |
+| `sahooModellingSpectralUnmixing2023` | Sahoo, Maitreya Mohan and Kalimuthu, R. and Pv, Arun and ... | [[sources/sahooModellingSpectralUnmixing2023|sahooModellingSpectralUnmixing2023]] |
+| `savitzkySmoothingDifferentiationData1964` | Savitzky, \relax Abraham | [[sources/savitzkySmoothingDifferentiationData1964|savitzkySmoothingDifferentiationData1964]] |
+| `savitzkySmoothingDifferentiationData1964a` | Savitzky, \relax Abraham | [[sources/savitzkySmoothingDifferentiationData1964a|savitzkySmoothingDifferentiationData1964a]] |
+| `savitzkySmoothingDifferentiationData1964b` | Savitzky, \relax Abraham | [[sources/savitzkySmoothingDifferentiationData1964b|savitzkySmoothingDifferentiationData1964b]] |
+| `savitzkySmoothingDifferentiationData1964c` | Savitzky, \relax Abraham | [[sources/savitzkySmoothingDifferentiationData1964c|savitzkySmoothingDifferentiationData1964c]] |
+| `schaepmanEarthSystemScience2009` | Schaepman, Michael E. and Ustin, Susan L. and Plaza, Anto... | [[sources/schaepmanEarthSystemScience2009|schaepmanEarthSystemScience2009]] |
+| `scholzSustainableUsePhosphorus2013` | Scholz, Roland W. and Ulrich, Andrea E. and Eilitt\ | [[sources/scholzSustainableUsePhosphorus2013|scholzSustainableUsePhosphorus2013]] |
+| `sealProgressGeoenvironmentalModels2002` | Unknown Authors | [[sources/sealProgressGeoenvironmentalModels2002|sealProgressGeoenvironmentalModels2002]] |
+| `shadmanroodposhtiUncertaintyAssessmentHyperspectral2019` | Shadman Roodposhti, Majid and Aryal, Jagannath and Luciee... | [[sources/shadmanroodposhtiUncertaintyAssessmentHyperspectral2019|shadmanroodposhtiUncertaintyAssessmentHyperspectral2019]] |
+| `sheblPRISMAHyperspectralData2023` | Shebl, Ali and Abriha, D\ | [[sources/sheblPRISMAHyperspectralData2023|sheblPRISMAHyperspectralData2023]] |
+| `shirmardComparativeStudyConvolutional2022` | Shirmard, Hojat and Farahbakhsh, Ehsan and Heidari, Elnaz... | [[sources/shirmardComparativeStudyConvolutional2022|shirmardComparativeStudyConvolutional2022]] |
+| `shirmardReviewMachineLearning2022` | Shirmard, Hojat and Farahbakhsh, Ehsan and Muller, R. Die... | [[sources/shirmardReviewMachineLearning2022|shirmardReviewMachineLearning2022]] |
+| `simapeyghambariHyperspectralRemoteSensing2021` | Sima Peyghambari | [[sources/simapeyghambariHyperspectralRemoteSensing2021|simapeyghambariHyperspectralRemoteSensing2021]] |
+| `slanskyGeologySedimentaryPhosphates1986` | Slansky, Maurice and Slansky, Maurice | [[sources/slanskyGeologySedimentaryPhosphates1986|slanskyGeologySedimentaryPhosphates1986]] |
+| `smilPhosphorusEnvironmentNatural2000` | Smil, Vaclav | [[sources/smilPhosphorusEnvironmentNatural2000|smilPhosphorusEnvironmentNatural2000]] |
+| `SpectralReflectanceCarbonate` | Unknown Authors | [[sources/SpectralReflectanceCarbonate|SpectralReflectanceCarbonate]] |
+| `stonerCharacteristicVariationsReflectance1981` | Stoner, E. R. and Baumgardner, M. F. | [[sources/stonerCharacteristicVariationsReflectance1981|stonerCharacteristicVariationsReflectance1981]] |
+| `storchEnMAPImagingSpectroscopy2023` | Storch, Tobias and Honold, Hans-Peter and Chabrillat, Sab... | [[sources/storchEnMAPImagingSpectroscopy2023|storchEnMAPImagingSpectroscopy2023]] |
+| `sudharsanMachineLearningdrivenMineral2025` | Sudharsan, S. and Hemalatha, R. and V., Tejas N. and Siva... | [[sources/sudharsanMachineLearningdrivenMineral2025|sudharsanMachineLearningdrivenMineral2025]] |
+| `swayzeUsingImagingSpectroscopy2000` | Swayze, G. A. and Smith, K. S. and Clark, R. N. and Sutle... | [[sources/swayzeUsingImagingSpectroscopy2000|swayzeUsingImagingSpectroscopy2000]] |
+| `TacklingMineWastes` | Unknown Authors | [[sources/TacklingMineWastes|TacklingMineWastes]] |
+| `tahaZeroSolidWaste2021` | Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid ... | [[sources/tahaZeroSolidWaste2021|tahaZeroSolidWaste2021]] |
+| `tahaZeroSolidWaste2021a` | Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid ... | [[sources/tahaZeroSolidWaste2021a|tahaZeroSolidWaste2021a]] |
+| `tahaZeroSolidWaste2021b` | Taha, Yassine and Elghali, Abdellatif and Hakkou, Rachid ... | [[sources/tahaZeroSolidWaste2021b|tahaZeroSolidWaste2021b]] |
+| `testaBACKFILLINGOPENPITMETALLIC2007` | Testa, Stephen M. and Pompy, James S. | [[sources/testaBACKFILLINGOPENPITMETALLIC2007|testaBACKFILLINGOPENPITMETALLIC2007]] |
+| `testaBACKFILLINGOPENPITMETALLIC2007a` | Testa, Stephen M. and Pompy, James S. | [[sources/testaBACKFILLINGOPENPITMETALLIC2007a|testaBACKFILLINGOPENPITMETALLIC2007a]] |
+| `tsaiDerivativeAnalysisHyperspectral` | Tsai, Fuan and Philpot, William | [[sources/tsaiDerivativeAnalysisHyperspectral|tsaiDerivativeAnalysisHyperspectral]] |
+| `tsaiDerivativeAnalysisHyperspectrala` | Tsai, Fuan and Philpot, William | [[sources/tsaiDerivativeAnalysisHyperspectrala|tsaiDerivativeAnalysisHyperspectrala]] |
+| `turnerVisibleShortwaveInfrared2016` | Turner, David J. and Rivard, Benoit and Groat, Lee A. | [[sources/turnerVisibleShortwaveInfrared2016|turnerVisibleShortwaveInfrared2016]] |
+| `tusaDrillCoreMineralAbundance2020` | Tu\c s | [[sources/tusaDrillCoreMineralAbundance2020|tusaDrillCoreMineralAbundance2020]] |
+| `UsingPRISMAHyperspectral` | Unknown Authors | [[sources/UsingPRISMAHyperspectral|UsingPRISMAHyperspectral]] |
+| `valaviBlockCVPackageGenerating2019` | Valavi, Roozbeh and Elith, Jane and Lahoz-Monfort | [[sources/valaviBlockCVPackageGenerating2019|valaviBlockCVPackageGenerating2019]] |
+| `vandermeerAnalysisSpectralAbsorption2004` | van der Meer | [[sources/vandermeerAnalysisSpectralAbsorption2004|vandermeerAnalysisSpectralAbsorption2004]] |
+| `vandermeerMultiHyperspectralGeologic2012` | Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and... | [[sources/vandermeerMultiHyperspectralGeologic2012|vandermeerMultiHyperspectralGeologic2012]] |
+| `vandermeerMultiHyperspectralGeologic2012a` | Van Der Meer, Freek D. and Van Der Werff, Harald M.A. and... | [[sources/vandermeerMultiHyperspectralGeologic2012a|vandermeerMultiHyperspectralGeologic2012a]] |
+| `vandijkPhosphorusFlowsBalances2016` | van Dijk | [[sources/vandijkPhosphorusFlowsBalances2016|vandijkPhosphorusFlowsBalances2016]] |
+| `vangenuchtenClosedformEquationPredicting1980` | Van Genuchten, M. \relax Th | [[sources/vangenuchtenClosedformEquationPredicting1980|vangenuchtenClosedformEquationPredicting1980]] |
+| `vangiNewHyperspectralSatellite2021` | Vangi, Elia and D | [[sources/vangiNewHyperspectralSatellite2021|vangiNewHyperspectralSatellite2021]] |
+| `vankauwenberghWorldPhosphateRock2010` | Van Kauwenbergh, S. J. | [[sources/vankauwenberghWorldPhosphateRock2010|vankauwenberghWorldPhosphateRock2010]] |
+| `wangSpectralSpatialMultifeaturebased2017` | Wang, Lizhe and Zhang, Jiabin and Liu, Peng and Choo, Kim... | [[sources/wangSpectralSpatialMultifeaturebased2017|wangSpectralSpatialMultifeaturebased2017]] |
+| `wangUncertaintyQuantificationDeep2025` | Wang, Ziye and Zuo, Renguang and Kreuzer, Oliver P. | [[sources/wangUncertaintyQuantificationDeep2025|wangUncertaintyQuantificationDeep2025]] |
+| `waskeMappingHyperspectralAVIRIS2009` | Waske, Bj\ | [[sources/waskeMappingHyperspectralAVIRIS2009|waskeMappingHyperspectralAVIRIS2009]] |
+| `withersStewardshipTackleGlobal2015` | Withers, Paul J. A. and Van Dijk, Kimo C. and Neset, Tina... | [[sources/withersStewardshipTackleGlobal2015|withersStewardshipTackleGlobal2015]] |
+| `woldPLSregressionBasicTool2001` | Wold, Svante and Sj\ | [[sources/woldPLSregressionBasicTool2001|woldPLSregressionBasicTool2001]] |
+| `WorldFertilizerTrends` | Unknown Authors | [[sources/WorldFertilizerTrends|WorldFertilizerTrends]] |
+| `WorldFertilizerTrends2019` | Unknown Authors | [[sources/WorldFertilizerTrends2019|WorldFertilizerTrends2019]] |
+| `yangEnvironmentalImpactsCaused2014` | Yang, Yu-You and Wu, Huai-Na and Shen, Shui-Long and Horp... | [[sources/yangEnvironmentalImpactsCaused2014|yangEnvironmentalImpactsCaused2014]] |
+| `yekutieliResamplingbasedFalseDiscovery1999` | Yekutieli, Daniel and Benjamini, Yoav | [[sources/yekutieliResamplingbasedFalseDiscovery1999|yekutieliResamplingbasedFalseDiscovery1999]] |
+| `yueSpectralSpatialClassification2015` | Yue, Jun and Zhao, Wenzhi and Mao, Shanjun and Liu, Hui | [[sources/yueSpectralSpatialClassification2015|yueSpectralSpatialClassification2015]] |
+| `zainiDeterminationCarbonateRock2014` | Zaini, Nasrullah and Van Der Meer, Freek and Van Der Werf... | [[sources/zainiDeterminationCarbonateRock2014|zainiDeterminationCarbonateRock2014]] |
+| `zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001` | Zhang, Guangyu and Wasyliuk, Ken and Pan, Yuanming | [[sources/zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001|zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001]] |
+| `zhangPredictionRecyclePhosphate2024` | Zhang, Ling and Hou, Haochun and Yang, Lu and Zhang, Zeli... | [[sources/zhangPredictionRecyclePhosphate2024|zhangPredictionRecyclePhosphate2024]] |
+| `zineAdvancementsMineClosure2023` | Zine, Hamza and El Mansour, Abdelhak and Hakkou, Rachid a... | [[sources/zineAdvancementsMineClosure2023|zineAdvancementsMineClosure2023]] |
+| `zineNativePlantDiversity2023` | Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak an... | [[sources/zineNativePlantDiversity2023|zineNativePlantDiversity2023]] |
+| `zineNativePlantDiversity2023a` | Zine, Hamza and Hakkou, Rachid and El Mansour, Abdelhak a... | [[sources/zineNativePlantDiversity2023a|zineNativePlantDiversity2023a]] |
+| `zineNativePlantDiversity2023b` | Zine, Hamza and Hakkou, Rachid and Elmansour, Abdelhak an... | [[sources/zineNativePlantDiversity2023b|zineNativePlantDiversity2023b]] |
+| `zouhriCretaceousTertiaryPlateaus2008` | Zouhri, S. and Kchikach, A. and Saddiqi, O. and Ha\ | [[sources/zouhriCretaceousTertiaryPlateaus2008|zouhriCretaceousTertiaryPlateaus2008]] |
 
 
 
@@ -267,7 +584,7 @@ This week: slides complete + first solo oral run (timed, 45 min target). Slides 
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/index.md (~676 words)
+FILE: 04_Knowledge Base/wiki/index.md (~686 words)
 ================================================================================
 ---
 tags:
@@ -336,6 +653,9 @@ created: '2026-05-24'
 ---
 
 ## Sources — Papers Ingested
+
+> 📂 **Master Catalog**: [[Literature MOC|View all 292 literature notes]]
+
 
 | File | What it contains | Status |
 |------|-----------------|--------|
@@ -1696,7 +2016,7 @@ Quantitative analysis of electromagnetic reflectance spectra to identify and cha
 
 
 ================================================================================
-FILE: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md (~517 words)
+FILE: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md (~525 words)
 ================================================================================
 ---
 tags:
@@ -1814,6 +2134,10 @@ This distribution is **mineralogically consistent** with phosphate waste rock: c
 - [[Hyperspectral Imaging]]
 - [[Mineral Assemblages]]
 - [[Spectral Unmixing VCA-FCLS]]
+
+---
+
+*Related: [[04_Knowledge Base/AI-Generated/thesis-ingestion/Spectroscopy Notebook Ingestion|Spectroscopy Notebook Ingestion]]*
 
 
 
