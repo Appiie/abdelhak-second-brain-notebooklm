@@ -12,7 +12,7 @@ summary: "Compiled notes for Work theme: Job applications, postdoc search tracki
 
 
 ================================================================================
-FILE: Dashboard.md (~810 words)
+FILE: Dashboard.md (~815 words)
 ================================================================================
 ---
 tags:
@@ -259,12 +259,12 @@ const html = `
   </div>
 
   <div class="dash-card" style="border-top: 3px solid #f59e0b;">
-    <h3>💾 D: Archive Hub</h3>
+    <h3>💾 D: Archive Hub (v10 Rich Layer)</h3>
     <ul class="dash-list">
-      <li class="dash-item"><span>🏗️ [[VAULT_ARCHITECTURE_v9_DDrive|D-Drive Architecture]]</span></li>
+      <li class="dash-item"><span>🗄️ <strong>[[D_Drive_Master_Hub|D-Drive Master Hub]]</strong></span></li>
       <li class="dash-item"><span>📥 [[D_DRIVE_INDEX_PIPELINE|D-Drive Pipeline]]</span></li>
-      <li class="dash-item"><span>📊 [[04_Archives/D-Drive/Index - D-Drive - PHD-1st|PHD 1st Year Index]]</span></li>
-      <li class="dash-item"><span>📊 [[04_Archives/D-Drive/Index - D-Drive - PRISMA_Analysis_Results|PRISMA Analysis Index]]</span></li>
+      <li class="dash-item"><span>📊 [[04_Archives/D-Drive/Index - D-Drive - PHD-3rd|PHD 3rd Year (Satellite)]]</span></li>
+      <li class="dash-item"><span>📊 [[04_Archives/D-Drive/Index - D-Drive - Photo_mine_BENG|Photo mine BENG (Field)]]</span></li>
     </ul>
   </div>
 </div>
