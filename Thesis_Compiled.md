@@ -12,7 +12,7 @@ summary: "Compiled notes for Thesis theme: Thesis manuscript, defense prep, and 
 
 
 ================================================================================
-FILE: Home.md (~670 words)
+FILE: Home.md (~895 words)
 ================================================================================
 ---
 tags:
@@ -107,6 +107,27 @@ if (clips.length > 0) {
   dv.table(["Title", "Date"], clips.map(p => [p.file.link, p.date ?? p.file.ctime.toFormat("MMM dd")]));
 }
 ```
+
+---
+
+## 🗄️ Living Archive (D: Drive v13)
+
+This section maps your **201.07 GB** physical archive, structured into **Graph View Clusters** that bridge physical raw files to your dissertation chapters and personal research memory:
+
+> [!abstract] **Living Graph Clusters**
+> - 🎓 **[[04_Archives/D-Drive/D_Drive_PHD_Core_Cluster|PHD Core Cluster]]**: My academic years (1st to 4th), supervisor feedback logs, and final manuscripts.
+> - 📷 **[[04_Archives/D-Drive/D_Drive_Field_Photos_Cluster|Field Photos Cluster]]**: My visual memory palace—exposure photos, thin sections petrography, and mobile field logs.
+> - 🛰️ **[[04_Archives/D-Drive/D_Drive_PRISMA_Analysis_Cluster|PRISMA Analysis Cluster]]**: Processing matrices, abundance estimates, and spectral unmixing algorithms.
+> - 🏕️ **[[04_Archives/D-Drive/D_Drive_Field_Campaigns_Cluster|Field Campaigns Cluster]]**: Point-spectroscopy databases, environmental libraries (ecospeclib), and GIS layers.
+> 
+> → Open Central Hub: **[[D_Drive_Master_Hub|D-Drive Master Hub]]** · Pipeline: **[[D_DRIVE_INDEX_PIPELINE|D-Drive Ingestion Pipeline]]**
+
+### 🧠 Highlighted Memories & Milestones
+*   🏕️ **[[03_Digital Life/memory-palace/Memory - Tachedirt Campaign 2023|Tachedirt Valley Calibration (2023)]]**: Hiking spectrometer gear under shifting Atlas clouds.
+*   🏕️ **[[03_Digital Life/memory-palace/Memory - Amanar Soil Baseline 2023|Amanar Soil Baseline (2023)]]**: Heat stress, dry riverbed sampling, and clay doublet discoveries.
+*   🏕️ **[[03_Digital Life/memory-palace/Memory - Benguerir Mine Campaign 2024|Benguerir Mine Campaign (2024)]]**: Collecting 104 samples and 500+ reflectances across waste dumps.
+*   💻 **[[03_Digital Life/memory-palace/Memory - PRISMA Unmixing Breakthrough 2025|PRISMA Unmixing Code Breakthrough (2025)]]**: Vectorizing constraints to collapse run time under 2 seconds.
+*   🎓 **[[03_Digital Life/memory-palace/Memory - Final Thesis Draft Submission 2026|Thesis Draft Submission (2026)]]**: Delivering the final manuscript to Ahmed Laamrani.
 
 ---
 
