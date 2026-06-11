@@ -643,6 +643,716 @@ Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 
 
 ================================================================================
+FILE: 02_Academic & Work/work/meetings/README.md (~156 words)
+================================================================================
+---
+tags:
+  - inbox
+  - meetings
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-27'
+---
+
+# Meetings Inbox
+
+Drop raw meeting notes here before processing.
+
+## Usage
+
+1. Export or write your note in this folder
+2. File naming: `YYYY-MM-DD <Topic or Person>.md`
+3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
+
+## What `/om-intake` does with each file
+
+| Detected content | Destination |
+|-----------------|-------------|
+| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
+| Project update | Append to `work/active/<Project>.md` |
+| Decision reached | New Decision Record + `work/Index.md` |
+| Action item | `- [ ]` in the relevant note |
+| Win / recognition | `perf/Brag Doc.md` |
+| New person mentioned | Stub in `org/people/<Name>.md` |
+| Blocker identified | `## Blockers` section in active note |
+
+For freeform unstructured content, use `/om-dump` instead.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~1002 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-28
+tags:
+  - automation
+  - claude-code
+  - mcp
+  - power-user
+  - setup
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-28'
+---
+
+# Elite Vault Setup — Power User Stack 2026
+
+> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
+> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
+
+---
+
+## What's Installed and Live
+
+### MCP Servers (9 total, all ✓ Connected)
+
+| Server | Purpose | Status |
+|--------|---------|--------|
+| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
+| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
+| `brave-search` | Web search (token needs renewal) | ✓ Connected |
+| `github` | PR reviews, issue tracking | ✓ Live |
+| `notion` | Notion DB access | ✓ Live |
+| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
+| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
+| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
+| `google-drive` | Drive file access | ! Needs OAuth |
+
+**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
+
+**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
+
+---
+
+### Custom Claude Skills (5 skills in `~/.claude/skills/`)
+
+| Skill | Trigger | What it does |
+|-------|---------|--------------|
+| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
+| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
+| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
+| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
+| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
+
+---
+
+### Vault Scripts (`scripts/`)
+
+| Script | Schedule | What it does |
+|--------|----------|--------------|
+| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
+| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
+
+**Automate via Task Scheduler (Windows):**
+```powershell
+# Run both scripts every Monday at 8:00 AM
+$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
+Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
+Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
+```
+
+---
+
+## Researched Repos — Honest Assessment
+
+### Top-tier (real, maintained, worth using)
+
+**`ProfSynapse/claudesidian-mcp` (Nexus)**  
+- Local semantic search over vault using embeddings
+- Graph-traversal: find notes by concept, not just keyword
+- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
+- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
+
+**`rohitg00/awesome-claude-code-toolkit`**  
+- 135 agents, 35 skills, 42 slash commands on GitHub
+- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
+- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
+
+**`obra/knowledge-graph` Claude Code plugin**  
+- Vault as knowledge graph with BFS/DFS query tools
+- Community detection, god-node identification
+- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
+
+**`eugeniughelbur/obsidian-second-brain`**  
+- 34 slash commands for second-brain workflows
+- `@obsidian`, `@notes`, `@daily` context tools
+- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
+
+**`jacksteamdev/obsidian-mcp-tools`**  
+- Semantic search + Templater integration
+- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
+
+### Not worth installing (why)
+
+| Repo | Reason to skip |
+|------|---------------|
+| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
+| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
+| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
+| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
+
+---
+
+## Workflow Stack — How It All Connects
+
+```
+Morning Standup
+└── /om-standup
+    ├── reads wiki/hot.md
+    ├── reads work/Index.md
+    └── surfaces job deadlines + domain alerts
+
+Weekly Review
+└── /vault-review
+    ├── scans work/active/ for stale notes
+    ├── flags job deadlines
+    └── flags domain renewals
+
+Job Search
+└── scripts/job_monitor.py (weekly, auto)
+    └── appends → work/active/Job Board -- Live Tracker.md
+
+Domain Monitoring
+└── scripts/domain_report.py (weekly, auto)
+    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
+
+Defense Prep
+└── /thesis-check
+    ├── counts days to June 30
+    └── outputs daily action plan
+```
+
+---
+
+## What Requires Manual Action
+
+1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
+2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
+3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
+4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
+5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
+
+---
+
+## Your Edge — What Nobody Else Has
+
+The combination of:
+- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
+- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
+- **gmail MCP** (read + draft application emails without leaving Claude)
+- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
+- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
+- **thesis-check skill** (defense countdown with daily actions)
+
+This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
+
+---
+
+## Next Upgrades (when time permits)
+
+| Priority | Action | Time |
+|----------|--------|------|
+| High | Task Scheduler for weekly scripts | 10 min |
+| High | Brave Search token renewal | 5 min |
+| Medium | `claudesidian-mcp` when npm-stable | — |
+| Medium | Google Drive OAuth | 15 min |
+| Low | ManyChat Instagram automation | 15 min |
+| Low | GoDaddy API key in settings | 5 min |
+
+
+---
+
+*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/work/Tools Setup|Tools Setup]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~777 words)
+================================================================================
+---
+tags:
+  - data
+  - import
+  - obsidian
+  - setup
+  - topic/work
+generated_by: claude
+date: 2026-06-07
+type: work-note
+status: active
+created: '2026-06-07'
+---
+
+# External Data Import Guide
+
+How to get emails, Outlook data, files, images, and PDFs into the vault.
+
+---
+
+## 1. Emails from Outlook (Windows)
+
+### Option A — Obsidian Importer Plugin (Recommended)
+Install the **Obsidian Importer** community plugin. It natively imports:
+- `.eml` files (email files)
+- `.mbox` files (Gmail / Thunderbird exports)
+
+**Workflow:**
+1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
+   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
+2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
+3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
+4. Set destination folder: `AI-Generated/emails/`
+5. Add frontmatter `generated_by: claude` on import if needed
+
+### Option B — Markdown Export Script
+Export important emails manually. For each email you want to preserve as a note:
+1. Copy/paste email body into Obsidian note
+2. Use template:
+```markdown
+---
+from: sender@example.com
+to: abdelhak.elmansour@um6p.ma
+date: YYYY-MM-DD
+subject: "Email subject"
+tags: [email, imported]
+---
+
+# Subject
+
+**From:** Sender Name <email>
+**Date:** YYYY-MM-DD
+
+---
+
+Body content here...
+```
+Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
+
+### Option C — Obsidian Web Clipper (for Gmail)
+If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
+
+---
+
+## 2. Files (PDFs, DOCX, Excel, PPT)
+
+### PDFs
+- Drag-and-drop into vault folder → Obsidian treats them as attachments
+- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
+- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
+- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
+
+### DOCX (Word) — Convert to Markdown
+Use **Pandoc** (free CLI tool):
+```powershell
+pandoc input.docx -o output.md
+```
+Then move output.md into vault. Works for thesis drafts, cover letters, etc.
+
+### Excel / CSV — Import as Dataview
+Save CSV files in vault → query with DataviewJS:
+```dataviewjs
+const data = await dv.io.csv("path/to/file.csv");
+dv.table(data.headers, data.rows);
+```
+
+---
+
+## 3. Images
+
+### Direct drag-and-drop
+Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
+Set attachment folder: Settings → Files and links → Default location = `assets/`
+
+### Embed in notes
+```markdown
+![[image.png]]
+![[image.png|300]]        ← width in pixels
+![[image.png|caption]]
+```
+
+### Screenshot workflow
+For screenshots of important emails, docs, or web content:
+1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
+2. Or: Screenshot → drag into vault folder → embed
+
+### Images already in vault
+Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
+
+---
+
+## 4. Outlook Calendar → Obsidian
+
+### Option A — iCal Export
+Outlook → File → Save Calendar → `.ics` file
+Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
+Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
+
+### Option B — Forward to Vault
+For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
+
+---
+
+## 5. Web Pages (Articles, Papers, News)
+
+### Obsidian Web Clipper (Best Option)
+Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
+- Clips any web page to vault with one click
+- Auto-applies templates for articles, papers, etc.
+- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
+
+### defuddle (via Claude Code)
+Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
+Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
+
+### Manual
+Copy URL → paste into note → add `tags: [clipping]` frontmatter.
+
+---
+
+## 6. Zotero Papers → Literature Notes
+
+Already configured via **Citations plugin** (installed 2026-06-07):
+- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
+- `Ctrl+P → Citations: Insert Markdown citation` → search your library
+- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
+
+For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
+
+---
+
+## 7. Flashcards from Any External Content
+
+Once you have any content in the vault as a note, add flashcard syntax:
+```
+Question::Answer
+```
+Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
+
+Active flashcard decks:
+- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
+- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
+- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
+- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
+- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~357 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+tags:
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-26'
+---
+
+# NotebookLM Integration
+
+Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
+Auth: `~/.notebooklm/profiles/default/storage_state.json`
+CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
+
+Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
+
+---
+
+## Notebooks
+
+| Name | ID | Sources |
+|------|----|---------|
+| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
+| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
+| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
+
+---
+
+## CLI Quick Reference
+
+```bash
+# Set active notebook
+notebooklm use bb2823a9        # defense
+notebooklm use f5b6cff5        # methods
+notebooklm use da39982c        # jobs
+
+# Ask a question
+notebooklm ask "What are the three most likely Verrelst attack vectors?"
+notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
+
+# Generate artifacts
+notebooklm generate audio      # podcast overview
+notebooklm generate quiz       # study quiz
+notebooklm generate flashcards # flashcards
+notebooklm generate mind-map   # mind map
+
+# Download artifacts
+notebooklm download audio      # saves audio file
+
+# List sources
+notebooklm source list
+
+# Add new source (.md files MUST use --mime-type text/plain)
+notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
+
+# Refresh after vault updates
+notebooklm source refresh <source-id>
+```
+
+---
+
+## Workflow: Defense Prep
+
+1. `notebooklm use bb2823a9`
+2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
+3. `notebooklm generate quiz` → download and study
+4. `notebooklm generate audio` → listen as podcast
+
+## Workflow: Update After Vault Changes
+
+When you update a defense prep file, refresh it:
+```bash
+notebooklm use bb2823a9
+notebooklm source list   # find the source ID
+notebooklm source refresh <id>
+```
+
+---
+
+## Notes
+
+- Unofficial reverse-engineered API — Google can break it without warning
+- Re-authenticate if it stops working: `notebooklm login`
+- Sessions expire: re-run `notebooklm login` every few weeks
+
+
+---
+
+*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~673 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+updated: 2026-06-07
+tags:
+  - obsidian
+  - plugins
+  - setup
+  - topic/work
+type: work-note
+status: active
+created: '2026-06-07'
+---
+
+# Obsidian Plugin Guide
+
+14 community plugins installed and enabled. **6 added 2026-06-07.**
+
+---
+
+## obsidian-git (Vinzent03)
+
+**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
+
+**Config set:**
+- Auto-commit every **20 minutes** (when Obsidian is open)
+- Pull on startup (gets latest from GitHub before you start)
+- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
+- Pull before push: enabled
+- Status bar: shows git status
+
+**Manual commands (Cmd/Ctrl+P → "Git"):**
+- `Git: Create backup` — commit + push right now
+- `Git: Pull` — pull latest from remote
+- `Git: Open source control view` — see changed files
+- `Git: Open history` — browse commit history
+
+**Remote:** https://github.com/Appiie/abdelhak-vault.git
+
+---
+
+## Dataview (blacksmithgu)
+
+**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
+
+**Config set:**
+- DataviewJS enabled (JavaScript queries)
+- Inline queries enabled
+- Task completion tracking on
+- HTML rendering allowed
+
+**Where it's used:**
+- `Dashboard.md` — defense countdown + live tables of all active files
+- `Home.md` — mission control
+
+**Basic syntax:**
+```dataview
+TABLE file.mtime AS "Updated"
+FROM "02_Academic & Work/thesis/defense-prep"
+SORT file.mtime DESC
+```
+
+```dataviewjs
+const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
+dv.paragraph(`${days} days to defense`);
+```
+
+**Add metadata to any note for Dataview to pick up:**
+```yaml
+---
+status: in-progress
+priority: high
+deadline: 2026-06-30
+---
+```
+
+---
+
+## Templater (SilentVoid13)
+
+Auto-fill templates with dynamic content (dates, prompts, etc.).
+
+---
+
+## Tasks (obsidian-tasks-plugin)
+
+Track tasks across the vault with due dates, priorities, recurrence.
+
+**Syntax:**
+```
+- [ ] Write slide 5 📅 2026-06-01 ⏫
+```
+
+**Query all urgent tasks:**
+```tasks
+not done
+priority is high
+```
+
+---
+
+## Excalidraw
+
+Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
+
+---
+
+## Charts
+
+Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
+
+---
+
+## Style Settings
+
+Adjust theme appearance. `Cmd+P → Style Settings`.
+
+---
+
+## Spaced Repetition (st3v3nmw) — NEW
+
+Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
+
+**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
+
+**Syntax:**
+```
+Question::Answer          ← single-line card
+Question:::Answer         ← reversed (shows answer first too)
+```
+Multi-line:
+```
+Question
+?
+Answer
+```
+Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
+
+**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
+
+---
+
+## Citations (hans) — NEW
+
+Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
+
+**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
+**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
+**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
+
+---
+
+## QuickAdd (chhoumann) — NEW
+
+4 capture macros bound to commands:
+
+| Macro | What it does |
+|-------|-------------|
+| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
+| 🌐 New Domain Lead | Creates domain lead file from template |
+| 💼 New Job Application | Creates job application file from template |
+| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
+
+Access: `Ctrl+P → QuickAdd: ...`
+
+---
+
+## Kanban (mgmeyers) — NEW
+
+Two active boards:
+- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
+- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
+
+Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
+
+---
+
+## Linter (platers) — NEW
+
+Runs automatically on save. Enforces:
+- Consistent heading spacing
+- No trailing whitespace
+- Proper ellipsis formatting
+- YAML `updated:` timestamp on save
+
+Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
+
+---
+
+## Natural Language Dates (argenos) — NEW
+
+Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
+
+Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
+Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
 FILE: 02_Academic & Work/work/1-1/Laamrani-2026-05-27.md (~92 words)
 ================================================================================
 ---
@@ -2777,7 +3487,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md (~724 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md (~730 words)
 ================================================================================
 ---
 generated_by: claude
@@ -2831,7 +3541,7 @@ The relevance to forest ecosystem monitoring in a European context is direct. Ab
 
 Chapter 2 of my thesis applied PRISMA satellite imagery (239 bands, 30 m) and spatially constrained machine learning for landscape-scale lithological mapping, and Chapter 1 built the sample-scale spectral-geochemical baseline using field spectroscopy and XRD/HHXRF validation. Together the three chapters cover the mineral surface characterisation that precedes any vegetation monitoring analysis.
 
-I bring four peer-reviewed publications (including a lead-author paper in *Sensors*, IF 3.5), a Python-based pipeline for EnMAP and PRISMA satellite data from raw HDF5 to validated landscape outputs, and direct experience working on environmental monitoring problems with a large mining industry partner. I am familiar with DLR DFD's land surface monitoring programme and the multi-temporal analysis frameworks it uses.
+I bring five peer-reviewed publications (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5), a Python-based pipeline for EnMAP and PRISMA satellite data from raw HDF5 to validated landscape outputs, and direct experience working on environmental monitoring problems with a large mining industry partner. I am familiar with DLR DFD's land surface monitoring programme and the multi-temporal analysis frameworks it uses.
 
 I would welcome the opportunity to discuss whether there is a fit with your team's current or planned research directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -2862,7 +3572,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md (~631 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md (~637 words)
 ================================================================================
 ---
 generated_by: claude
@@ -2908,7 +3618,7 @@ My thesis, conducted at the Benguerir phosphate mine of OCP Group (Morocco), dev
 
 The practical gap this work addresses is one your group knows well: in-situ sensor networks and field sampling campaigns deliver high temporal and geochemical resolution at discrete monitoring points, but they cannot provide continuous spatial coverage across an active mine site. Satellite hyperspectral monitoring scales to the full mine footprint and can be repeated systematically without additional field costs. I see direct potential for combining RIME's established geotechnical monitoring protocols with satellite-derived spatial reclamation indices, a combination that would add a spatial layer to the point-based monitoring your group currently operates across its partner mine sites in Quebec.
 
-Beyond the methodological fit, my background at UM6P gives me direct experience working with mining industry partners on applied environmental problems, a context that maps naturally onto RIME's structure of academic research integrated with six industrial partners including Agnico Eagle and IAMGOLD. I bring four peer-reviewed publications, a complete Python workflow for hyperspectral satellite data from raw ingestion to analysis-ready geochemical maps, and experience in the full characterization pipeline from XRD/XRF laboratory validation to landscape-scale satellite mapping.
+Beyond the methodological fit, my background at UM6P gives me direct experience working with mining industry partners on applied environmental problems, a context that maps naturally onto RIME's structure of academic research integrated with six industrial partners including Agnico Eagle and IAMGOLD. I bring five peer-reviewed publications (first-author on 2, co-author on 3), a complete Python workflow for hyperspectral satellite data from raw ingestion to analysis-ready geochemical maps, and experience in the full characterization pipeline from XRD/XRF laboratory validation to landscape-scale satellite mapping.
 
 I would welcome the opportunity to discuss whether there is a potential fit with your group's ongoing or planned research directions. I am available for a video call at a convenient time and can provide my CV, thesis abstract, and publications on request.
 
@@ -3014,7 +3724,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md (~721 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md (~728 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3060,7 +3770,7 @@ My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocc
 
 The scale difference between your group's operational close-range imaging and my satellite-scale work is complementary rather than competing. Your approach delivers high spatial and spectral resolution at the point of extraction, drill cuttings, blast hole material, which is where the operational decision is made. My approach delivers spatial coverage across the full mine footprint for monitoring, planning, and regulatory compliance, decisions that require landscape-scale context. The two scales together address different parts of the same management problem, and the ML and geochemical validation methodologies transfer directly between them.
 
-I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026), a Python-based pipeline for EnMAP and PRISMA satellite data from raw acquisition to validated mineral maps, and direct experience integrating spectral, XRD, and XRF data in supervised ML workflows for a major mining industry partner. I also note that your group's work on data-driven versus knowledge-based approaches to hyperspectral ore-waste discrimination maps directly onto the comparison between spectral library matching and ML classification that runs through all three chapters of my thesis.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026), a Python-based pipeline for EnMAP and PRISMA satellite data from raw acquisition to validated mineral maps, and direct experience integrating spectral, XRD, and XRF data in supervised ML workflows for a major mining industry partner. I also note that your group's work on data-driven versus knowledge-based approaches to hyperspectral ore-waste discrimination maps directly onto the comparison between spectral library matching and ML classification that runs through all three chapters of my thesis.
 
 I would welcome the opportunity to discuss whether there is a fit with your group's current directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -3085,7 +3795,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md (~600 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md (~606 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3131,7 +3841,7 @@ My thesis developed a multi-scale framework combining field spectroscopy, PRISMA
 
 I see a direct and practical extension of this into the monitoring questions your Chair addresses. Your group's work on the spatial footprint of particulate pollutants around active and restored mines, and on bryophyte diversity estimation across the mine life cycle, faces a scaling challenge that satellite hyperspectral data is well positioned to address: field surveys deliver high ecological resolution but limited spatial coverage. EnMAP and PRISMA, for which I have built end-to-end processing pipelines, can extend that coverage continuously across the full mine footprint. The spectral unmixing and classification workflows I developed (VCA-FCLS, spatially constrained random forests) are directly applicable to mapping vegetation and bryophyte surface cover gradients across mine-affected boreal landscapes.
 
-I bring four peer-reviewed publications (including a lead-author paper in *Sensors*, IF 3.5), fluency in Python-based geospatial workflows for high-dimensional hyperspectral datasets, and direct experience working with mining industry partners on environmental monitoring problems. My background spans the full processing pipeline from raw satellite data ingestion to validated landscape-scale maps, a capacity I could contribute to your group independently from the start.
+I bring five peer-reviewed publications (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5), fluency in Python-based geospatial workflows for high-dimensional hyperspectral datasets, and direct experience working with mining industry partners on environmental monitoring problems. My background spans the full processing pipeline from raw satellite data ingestion to validated landscape-scale maps, a capacity I could contribute to your group independently from the start.
 
 I would welcome the chance to discuss how my experience aligns with your current projects. I am available for a video call at a convenient time and can provide my CV, thesis abstract, and publications on request.
 
@@ -3166,7 +3876,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md (~672 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md (~678 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3212,7 +3922,7 @@ My thesis covers three complementary scales at the Benguerir phosphate mine of O
 
 Your group's 2024 work on the spectral and spatial comparison of satellite-based hyperspectral sensors for geological mapping addresses precisely the sensor evaluation question I dealt with in practice, choosing between PRISMA and EnMAP for different chapters of a mine characterization study based on their respective band configurations and SNR profiles. My field experience with both sensors adds an applied dimension to that comparison: I can speak from real data about where each sensor's SWIR performance is sufficient for mineral discrimination and where it breaks down. I see potential for this experience to feed directly into your group's sensor-agnostic multiscale mineral mapping framework, particularly as the number of operational spaceborne hyperspectral missions grows (PRISMA, EnMAP, EMIT, upcoming CHIME).
 
-Beyond the satellite scale, the multi-source data fusion logic I applied, spectral library matching, geochemical integration, spatially blocked ML validation, aligns with the multimodal processing approaches your division develops for core-to-outcrop-to-satellite workflows. I bring a complete Python-based processing pipeline for both PRISMA and EnMAP (raw HDF5 to validated geoscience outputs), five peer-reviewed publications including a lead-author paper in *Sensors* (IF 3.5) and a paper accepted in *Minerals* 2026 (IF 2.2), and direct experience working with a mining industry partner on applied environmental monitoring problems.
+Beyond the satellite scale, the multi-source data fusion logic I applied, spectral library matching, geochemical integration, spatially blocked ML validation, aligns with the multimodal processing approaches your division develops for core-to-outcrop-to-satellite workflows. I bring a complete Python-based processing pipeline for both PRISMA and EnMAP (raw HDF5 to validated geoscience outputs), five peer-reviewed publications (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5) and a paper accepted in *Minerals* 2026 (IF 2.2), and direct experience working with a mining industry partner on applied environmental monitoring problems.
 
 I would welcome the chance to discuss how my experience fits your division's current research directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -3236,7 +3946,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md (~729 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md (~736 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3287,7 +3997,7 @@ My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocc
 
 The connection to your work is spectral and applied. On the spectral side: the silicate and carbonate minerals I characterize in the SWIR also carry diagnostic signatures in the thermal infrared, the Si-O stretching features that TIR resolves are precisely what governs the geotechnical behaviour and geochemical stability of the carbonate-rich waste rock classes I mapped. A combined VNIR-SWIR + TIR approach on the same mine materials would produce a more complete mineralogical picture than either range alone: SWIR for clay and carbonate polymorph discrimination, TIR for silicate framework identification and mineral chemistry quantification. Your recent work using EMIT spaceborne hyperspectral data to identify mineral chemistry variation in epithermal systems shows that this combined satellite-scale approach is becoming technically achievable, and phosphate mine waste is a geologically rich test site for it, fluorapatite, dolomite, illite, kaolinite, and quartz all present resolvable features across both spectral regions. On the applied side: phosphate is classified as a critical raw material in the EU, and your GreenMiner project on geological remote sensing for critical raw materials education is a natural context for mine waste characterization work that bridges exploration and environmental monitoring.
 
-I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026, IF 2.2), a complete Python pipeline for PRISMA and EnMAP data from raw HDF5 ingestion to validated geoscience outputs, and direct experience designing multi-source spectral-geochemical validation workflows. I am also well-versed in the USGS and ECOSTRESS spectral libraries and in the spectral feature analysis methods that underpin both SWIR and TIR mineralogical interpretation.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026, IF 2.2), a complete Python pipeline for PRISMA and EnMAP data from raw HDF5 ingestion to validated geoscience outputs, and direct experience designing multi-source spectral-geochemical validation workflows. I am also well-versed in the USGS and ECOSTRESS spectral libraries and in the spectral feature analysis methods that underpin both SWIR and TIR mineralogical interpretation.
 
 I would welcome the chance to discuss how my experience might fit your group's current or planned directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -3387,7 +4097,7 @@ UM6P, GSMI, Benguerir, Maroc
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md (~639 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md (~658 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3436,7 +4146,7 @@ La contribution centrale attendue du post-doctorat, construire des mosaïques te
 
 Mon pipeline Python de traitement (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → mosaïque → correction radiométrique → suppression des bandes défectueuses → classification → validation spatiale) est directement adaptable à l'intégration de séries temporelles Sentinel-2 et futures missions hyperspectrale (CHIME, EnMAP). Je maîtrise les environnements scikit-learn, GDAL, rasterio, spectral et numpy. Je suis également familier des services Copernicus Land Monitoring Service (CLMS) dans leur composante de couverture des sols et de biophysique de surface.
 
-Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain sur des sites agricoles français. J'ai publié 4 articles dans des revues à comité de lecture avant soutenance, avec un autre article actuellement soumis.
+Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain sur des sites agricoles français. Je suis premier auteur de 2 articles publiés ou acceptés (dont un dans *Sensors* et un dans *Minerals*) et co-auteur de 3 autres articles publiés dans des revues à comité de lecture, avec un autre article actuellement soumis.
 
 Je serais heureux de vous présenter mes travaux lors d'un entretien et tiens à votre disposition mon CV complet, le résumé de ma thèse et mes publications principales.
 
@@ -3460,7 +4170,7 @@ elmansour01abdelhak@gmail.com
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~697 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md (~710 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3506,7 +4216,7 @@ Ma thèse repose sur trois contributions complémentaires. Le premier chapitre (
 
 Le transfert vers le monitoring des sols européens est direct à deux niveaux. Méthodologiquement, les assemblages minéralogiques qui contrôlent la réflectance spectrale d'une roche stérile phosphatée, carbonates, argiles, oxydes de fer, sont les mêmes que ceux qui structurent la signature spectrale des sols agricoles dégradés ou en cours de restauration. Les caractéristiques diagnostiques que j'ai quantifiées (absorption Al-OH à ~2200 nm, CO₃ à ~2320 nm, Fe³⁺ à ~500–900 nm) sont directement exploitables pour les indicateurs de santé des sols du projet PREPSOIL. Opérationnellement, mon pipeline Python complet (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → correction atmosphérique → suppression des bandes défectueuses → démixage spectral → classification → validation) est immédiatement adaptable à l'intégration de données Sentinel-2, Sentinel-3 et futures missions hyperspectrale (CHIME) pour une surveillance multi-temporelle des sols.
 
-Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain en France. J'ai publié 5 articles dans des revues à comité de lecture (dont l'article du chapitre 1 publié dans *Sensors* 2026 et l'article du chapitre 2 accepté dans *Minerals* 2026), avec un manuscrit supplémentaire en cours de soumission.
+Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain en France. Je suis premier auteur de 2 articles publiés ou acceptés (dont l'article du chapitre 1 publié dans *Sensors* 2026 et l'article du chapitre 2 accepté dans *Minerals* 2026) et co-auteur de 3 autres articles publiés dans des revues à comité de lecture, avec un manuscrit supplémentaire en cours de soumission.
 
 Je serais ravi de pouvoir discuter de mes travaux lors d'un entretien. Vous trouverez ci-joint mon CV, le résumé de ma thèse et mes publications principales.
 
@@ -3529,7 +4239,7 @@ UM6P, GSMI, Benguerir, Maroc
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~616 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md (~622 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3578,7 +4288,7 @@ My thesis developed three operational systems using hyperspectral satellite data
 
 The bridge to the biodiversity-positive energy context is methodological. Monitoring land surfaces undergoing transformation, whether mine reclamation or renewable energy infrastructure, requires detecting subtle spectral shifts that precede or accompany biological change. My experience resolving vegetation emergence, soil crust formation, and carbonate weathering as endmember-level spectral signals in a 30 m pixel is directly applicable to detecting biodiversity-relevant surface and vegetation changes in energy infrastructure footprints. I have also worked with the ASD FieldSpec 4 (350–2500 nm) for field validation, establishing spectral ground truth for satellite-derived products, a workflow central to any EO-based biodiversity indicator validation.
 
-Technically, I bring a complete Python pipeline for PRISMA and EnMAP data processing (1,776-line production engine: HDF5 ingestion → atmospheric correction → bad-band removal → spectral analysis → classification → accuracy assessment), four peer-reviewed publications, and experience presenting results at international conferences (EGU 2025, EARSeL 2024). I am also familiar with the work of ITC's Earth Observation Science department and am aware of the hyperspectral and thermal RS capacity at ITC that would support this research context.
+Technically, I bring a complete Python pipeline for PRISMA and EnMAP data processing (1,776-line production engine: HDF5 ingestion → atmospheric correction → bad-band removal → spectral analysis → classification → accuracy assessment), five peer-reviewed publications (first-author on 2, co-author on 3), and experience presenting results at international conferences (EGU 2025, EARSeL 2024). I am also familiar with the work of ITC's Earth Observation Science department and am aware of the hyperspectral and thermal RS capacity at ITC that would support this research context.
 
 I would welcome the opportunity to discuss how my EnMAP/PRISMA processing expertise and surface monitoring experience can contribute to the project's EO component. I am available for a video call at short notice and can provide my full CV, thesis abstract, and key publications immediately.
 
@@ -3603,7 +4313,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md (~721 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md (~728 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3652,7 +4362,7 @@ Chapter 3 carries this fusion logic to the satellite scale using EnMAP (189 vali
 
 The scale difference between drill-core and satellite is not a disconnect, it is the upscaling problem that makes the field practical. Your group's methodology produces high-resolution mineralogical maps at the core scale; what mining operations also need is coverage across the full mine footprint, continuously and without additional drilling. Satellite hyperspectral data addresses that need, and the spectral-geochemical fusion logic transfers directly. I see concrete potential for joint work on multi-scale mineral characterization that bridges your proximal sensing pipeline with satellite-scale spatial coverage.
 
-I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026, IF 2.2), a Python-based processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and direct experience integrating spectral, XRD, and XRF data in ML workflows for mining applications. My background at the Helmholtz Institute Freiberg community, where your own research trajectory included a position before joining ITC, gives me familiarity with the broader methodological ecosystem your group works within.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026, IF 2.2), a Python-based processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and direct experience integrating spectral, XRD, and XRF data in ML workflows for mining applications. My background at the Helmholtz Institute Freiberg community, where your own research trajectory included a position before joining ITC, gives me familiarity with the broader methodological ecosystem your group works within.
 
 I would welcome the opportunity to discuss potential directions. ITC's visiting researcher and postdoctoral fellowship programme makes a range of arrangements possible, and I am open to discussing what format would be most useful. I am available for a video call at a convenient time and can provide my CV, thesis abstract, and publications on request.
 
@@ -3676,7 +4386,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~640 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md (~646 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3723,7 +4433,7 @@ My thesis developed operational processing pipelines for both PRISMA (~239 bands
 
 The methodological transfer from mine waste monitoring to forest biophysical variable retrieval is straightforward. The core challenge in both contexts is the same: resolving spectrally overlapping signal components within a mixed pixel, mineral assemblages in mine waste, or chlorophyll, structure, and water content in canopy, and mapping their spatial distribution with validated accuracy. The VCA-FCLS unmixing approach I applied for endmember detection in geoscience applications is structurally equivalent to hybrid RTM inversion as used for LAI, FAPAR, and chlorophyll estimation in forest applications. I am prepared to extend my experience into the forest biophysics domain.
 
-I have published four peer-reviewed papers (Sensors 2026, IJEST 2024, two earlier), with a fifth accepted in *Minerals* 2026 and a sixth in preparation. I have presented at EGU 2025 and EARSeL 2024. I maintain a production-grade Python pipeline for PRISMA and EnMAP processing that can be adapted to the multi-sensor fusion context of this project.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including *Sensors* 2026, IJEST 2024, and a first-author paper accepted in *Minerals* 2026), with a sixth in preparation. I have presented at EGU 2025 and EARSeL 2024. I maintain a production-grade Python pipeline for PRISMA and EnMAP processing that can be adapted to the multi-sensor fusion context of this project.
 
 I would welcome the opportunity to discuss how my hyperspectral EO expertise fits the DC-26100 project. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications immediately.
 
@@ -3748,7 +4458,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md (~629 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md (~636 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3794,7 +4504,7 @@ Your group's work spans from close-range core scanning to drone-borne hyperspect
 
 The multi-scale logic of your group's work, from millimetre-scale core scanning to metre-scale drone data, is one that I would extend upward to the 30 m satellite footprint. Practically, this means the satellite data provides spatial context and site-wide coverage, while your UAV and proximal systems provide the spectral and spatial resolution needed for detailed mineral discrimination and process-level monitoring. This upward integration is technically straightforward with the EnMAP and PRISMA processing pipelines I have built, and is increasingly demanded by mining operators who need both detail and coverage simultaneously.
 
-I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026), a complete Python-based workflow for EnMAP and PRISMA data from raw HDF5 to validated geoscience maps, and direct experience integrating spectral data with XRD/XRF laboratory validation. I am familiar with the spectral library and SWIR mineral diagnostic approaches that underpin your AMD characterization work.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026), a complete Python-based workflow for EnMAP and PRISMA data from raw HDF5 to validated geoscience maps, and direct experience integrating spectral data with XRD/XRF laboratory validation. I am familiar with the spectral library and SWIR mineral diagnostic approaches that underpin your AMD characterization work.
 
 I would welcome the opportunity to discuss whether my background fits your group's current projects or planned directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -3818,7 +4528,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md (~707 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md (~714 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3867,7 +4577,7 @@ My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocc
 
 The connection I see to your research is specifically on the spectral side. Your 2021 paper in Remote Sensing of Environment demonstrated that LiDAR structural metrics and satellite-derived spectral indices are complementary predictors of forest structural diversity, LiDAR captures the three-dimensional arrangement of biomass, while multispectral satellite indices capture surface reflectance. Hyperspectral satellite data adds a third layer: not just whether the surface is reflecting green, but which specific compounds, bryophytes vs. vascular plants, dry vs. live biomass, soil mineral exposure, are driving that reflectance, resolved across hundreds of contiguous bands. In the boreal context, this level of spectral detail is directly relevant to the bryophyte diversity and understory composition questions that feature prominently in IRF research, and to distinguishing vegetation recovery stages in mine-adjacent landscapes in Abitibi-Témiscamingue where reclamation and forest succession interact.
 
-I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026, IF 2.2), a complete Python pipeline for EnMAP and PRISMA data from raw HDF5 to validated landscape-scale outputs, and experience designing spatially robust validation frameworks for heterogeneous terrain. I would be contributing independently to your group's RS capacity from the start.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026, IF 2.2), a complete Python pipeline for EnMAP and PRISMA data from raw HDF5 to validated landscape-scale outputs, and experience designing spatially robust validation frameworks for heterogeneous terrain. I would be contributing independently to your group's RS capacity from the start.
 
 I would welcome the opportunity to discuss whether my background fits your current or planned projects. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -3891,7 +4601,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md (~769 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md (~776 words)
 ================================================================================
 ---
 generated_by: claude
@@ -3940,7 +4650,7 @@ The geological context differs, ore deposit exploration versus mine waste charac
 
 I also note your recent collaboration with Asadzadeh and Chabrillat (GFZ Potsdam) on the EnMAP study of Zn mineralization in South Australia, I used EnMAP independently in Chapter 3, so there is a common sensor thread across both of our recent work.
 
-I have published five peer-reviewed papers including a lead-author paper in *Sensors* (IF 3.5) and a paper accepted in *Minerals* 2026 (IF 2.2), a complete Python pipeline for PRISMA and EnMAP data processing from raw HDF5 to validated geoscience outputs, and direct experience with the XRD and XRF geochemical validation workflow that underpins your group's methodology. I am also comfortable with the Italian academic system through my familiarity with the broader European research environment.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026, IF 2.2), a complete Python pipeline for PRISMA and EnMAP data processing from raw HDF5 to validated geoscience outputs, and direct experience with the XRD and XRF geochemical validation workflow that underpins your group's methodology. I am also comfortable with the Italian academic system through my familiarity with the broader European research environment.
 
 I would welcome the opportunity to discuss potential research directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -3965,7 +4675,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md (~674 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md (~681 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4013,7 +4723,7 @@ My thesis was carried out at the Benguerir phosphate mine of OCP Group, one of t
 
 I draw particular attention to Chapter 3 in relation to BGR's mine site monitoring activities. Your group's work simulating EnMAP data over the Aggeneys Pb-Zn deposit for surface alteration mapping demonstrated the potential of the sensor for this class of problem. My work goes one step further: it uses actual EnMAP acquisitions with full geochemical ground truth validation, demonstrating that the sensor performs as expected for mineralogical change detection at operational mine scale. The RPI framework, calibrated satellite index + XRF validation + spatially continuous coverage, could be adapted to BGR's monitoring programmes at other mine sites in Europe or globally, including tailings monitoring where surface mineralogical change is a key environmental indicator.
 
-BGR's model of applied geoscience research tied to raw materials policy and industry partnerships matches the type of work environment I am looking for. I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026, IF 2.2), a complete Python processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and direct experience delivering applied monitoring results to a mining industry partner.
+BGR's model of applied geoscience research tied to raw materials policy and industry partnerships matches the type of work environment I am looking for. I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026, IF 2.2), a complete Python processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and direct experience delivering applied monitoring results to a mining industry partner.
 
 I would welcome the opportunity to discuss whether there is a fit with BGR's current project portfolio. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -4123,7 +4833,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~679 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md (~686 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4173,7 +4883,7 @@ My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocc
 
 Chapter 2 used [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] (239 bands, 30 m) for lithological mapping of four waste rock classes under spatially constrained machine learning, providing a sensor comparison reference point: EnMAP's higher SNR and improved band configuration produced cleaner SWIR discriminations than PRISMA for the same site conditions, consistent with the sensor specifications your ground segment team designed for. Chapter 1 built the full spectral-geochemical baseline at sample scale using ASD FieldSpec 4 [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|spectroscopy]] and HHXRF/XRD validation, providing the per-mineral ground truth that anchors interpretation at the satellite scale.
 
-I have published five peer-reviewed papers (including a lead-author paper in *Sensors*, IF 3.5, and a paper accepted in *Minerals* 2026), a complete Python processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and first-hand experience with the practical constraints of EnMAP data in a real applied setting, bad band behaviour, atmospheric correction residuals in semi-arid conditions, and SWIR SNR limits for carbonate and phosphate mineral discrimination. I am familiar with the DLR EOC's imaging spectroscopy science agenda and would be glad to contribute to it.
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026), a complete Python processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and first-hand experience with the practical constraints of EnMAP data in a real applied setting, bad band behaviour, atmospheric correction residuals in semi-arid conditions, and SWIR SNR limits for carbonate and phosphate mineral discrimination. I am familiar with the DLR EOC's imaging spectroscopy science agenda and would be glad to contribute to it.
 
 I would welcome the opportunity to discuss potential directions. I am available for a video call at a convenient time and can provide my full CV, thesis abstract, and publications on request.
 
@@ -4205,7 +4915,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md (~599 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md (~607 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4250,7 +4960,7 @@ My thesis developed a three-chapter multi-scale framework combining field spectr
 
 I see a clear extension of this work into the forest and wetland monitoring questions your group addresses. The spectral unmixing and machine learning pipelines I built for mineral surface characterization (VCA-FCLS, Extra Trees, Random Forest) transfer directly to boreal forest applications: bryophyte mapping, post-disturbance structural recovery, and wetland detection from hyperspectral and multispectral data. The spatially blocked validation design I implemented, enforcing geographic separation between training and test sets to prevent autocorrelation from inflating accuracy estimates, is directly applicable to any landscape-scale classification task in heterogeneous boreal environments. For Chapter 2, lithological mapping under this rigorous design yielded balanced accuracies of 0.60–0.67, which I argue represents the physically constrained performance ceiling at 30 m resolution, an honest and transferable benchmark.
 
-I bring four peer-reviewed publications (including one in *Sensors*, IF 3.5), experience with satellite hyperspectral data processing from raw HDF5 to analysis-ready products, and a strong Python/scikit-learn workflow for high-dimensional geospatial datasets. My background at UM6P, which has direct ties with OCP Group and the broader sustainable mining sector, gives me experience bridging academic environmental monitoring with industry partners, relevant to the operational context of Abitibi-Témiscamingue's mining landscape.
+I bring five peer-reviewed publications (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5), experience with satellite hyperspectral data processing from raw HDF5 to analysis-ready products, and a strong Python/scikit-learn workflow for high-dimensional geospatial datasets. My background at UM6P, which has direct ties with OCP Group and the broader sustainable mining sector, gives me experience bridging academic environmental monitoring with industry partners, relevant to the operational context of Abitibi-Témiscamingue's mining landscape.
 
 I would welcome the opportunity to discuss potential research directions that align with your group's current projects. I am available for a video call at a convenient time and can provide my full CV, thesis manuscript, and list of publications on request.
 
@@ -4285,7 +4995,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md (~628 words)
+FILE: 02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md (~631 words)
 ================================================================================
 ---
 generated_by: claude
@@ -4332,7 +5042,7 @@ My thesis addresses a complex monitoring problem at the Benguerir phosphate mine
 
 WUR's remote sensing group operates at the intersection of multi-source EO data, biophysical variable retrieval, and applied geoscience, the same axis along which my research sits. I am experienced with the full processing chain from raw satellite data (HDF5 format for PRISMA and EnMAP) to validated geoscience products: atmospheric correction, bad-band removal, spectral calibration, classification, and spatial accuracy assessment. My Python production pipeline (1,776 lines) handles this end-to-end and is documented for reproducibility. I am also comfortable with drone and field spectroscopy data, having built a ground-truth database that directly informed satellite model training and validation across both chapters.
 
-I have published four peer-reviewed papers before defense (Sensors 2026, IJEST 2024, two earlier contributions) with a fifth accepted in *Minerals* 2026 and a sixth targeting ISPRS or Remote Sensing of Environment post-defense. I have presented at EGU 2025 (Vienna) and EARSeL 2024 (Tartu).
+I have published five peer-reviewed papers (first-author on 2, co-author on 3, including *Sensors* 2026, IJEST 2024, and a first-author paper accepted in *Minerals* 2026), with a sixth targeting ISPRS or Remote Sensing of Environment post-defense. I have presented at EGU 2025 (Vienna) and EARSeL 2024 (Tartu).
 
 I am excited to bring my hyperspectral experience and operational pipeline development to WUR's research environment. I would welcome the chance to discuss how my experience fits the team's current projects and can provide my full CV, thesis abstract, and publications on request.
 
@@ -4724,715 +5434,5 @@ UM6P, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~1002 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-28
-tags:
-  - automation
-  - claude-code
-  - mcp
-  - power-user
-  - setup
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-28'
----
-
-# Elite Vault Setup — Power User Stack 2026
-
-> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
-> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
-
----
-
-## What's Installed and Live
-
-### MCP Servers (9 total, all ✓ Connected)
-
-| Server | Purpose | Status |
-|--------|---------|--------|
-| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
-| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
-| `brave-search` | Web search (token needs renewal) | ✓ Connected |
-| `github` | PR reviews, issue tracking | ✓ Live |
-| `notion` | Notion DB access | ✓ Live |
-| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
-| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
-| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
-| `google-drive` | Drive file access | ! Needs OAuth |
-
-**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
-
-**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
-
----
-
-### Custom Claude Skills (5 skills in `~/.claude/skills/`)
-
-| Skill | Trigger | What it does |
-|-------|---------|--------------|
-| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
-| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
-| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
-| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
-| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
-
----
-
-### Vault Scripts (`scripts/`)
-
-| Script | Schedule | What it does |
-|--------|----------|--------------|
-| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
-| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
-
-**Automate via Task Scheduler (Windows):**
-```powershell
-# Run both scripts every Monday at 8:00 AM
-$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
-Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
-Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
-```
-
----
-
-## Researched Repos — Honest Assessment
-
-### Top-tier (real, maintained, worth using)
-
-**`ProfSynapse/claudesidian-mcp` (Nexus)**  
-- Local semantic search over vault using embeddings
-- Graph-traversal: find notes by concept, not just keyword
-- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
-- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
-
-**`rohitg00/awesome-claude-code-toolkit`**  
-- 135 agents, 35 skills, 42 slash commands on GitHub
-- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
-- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
-
-**`obra/knowledge-graph` Claude Code plugin**  
-- Vault as knowledge graph with BFS/DFS query tools
-- Community detection, god-node identification
-- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
-
-**`eugeniughelbur/obsidian-second-brain`**  
-- 34 slash commands for second-brain workflows
-- `@obsidian`, `@notes`, `@daily` context tools
-- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
-
-**`jacksteamdev/obsidian-mcp-tools`**  
-- Semantic search + Templater integration
-- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
-
-### Not worth installing (why)
-
-| Repo | Reason to skip |
-|------|---------------|
-| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
-| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
-| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
-| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
-
----
-
-## Workflow Stack — How It All Connects
-
-```
-Morning Standup
-└── /om-standup
-    ├── reads wiki/hot.md
-    ├── reads work/Index.md
-    └── surfaces job deadlines + domain alerts
-
-Weekly Review
-└── /vault-review
-    ├── scans work/active/ for stale notes
-    ├── flags job deadlines
-    └── flags domain renewals
-
-Job Search
-└── scripts/job_monitor.py (weekly, auto)
-    └── appends → work/active/Job Board -- Live Tracker.md
-
-Domain Monitoring
-└── scripts/domain_report.py (weekly, auto)
-    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
-
-Defense Prep
-└── /thesis-check
-    ├── counts days to June 30
-    └── outputs daily action plan
-```
-
----
-
-## What Requires Manual Action
-
-1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
-2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
-3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
-4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
-5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
-
----
-
-## Your Edge — What Nobody Else Has
-
-The combination of:
-- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
-- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
-- **gmail MCP** (read + draft application emails without leaving Claude)
-- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
-- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
-- **thesis-check skill** (defense countdown with daily actions)
-
-This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
-
----
-
-## Next Upgrades (when time permits)
-
-| Priority | Action | Time |
-|----------|--------|------|
-| High | Task Scheduler for weekly scripts | 10 min |
-| High | Brave Search token renewal | 5 min |
-| Medium | `claudesidian-mcp` when npm-stable | — |
-| Medium | Google Drive OAuth | 15 min |
-| Low | ManyChat Instagram automation | 15 min |
-| Low | GoDaddy API key in settings | 5 min |
-
-
----
-
-*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/work/Tools Setup|Tools Setup]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~777 words)
-================================================================================
----
-tags:
-  - data
-  - import
-  - obsidian
-  - setup
-  - topic/work
-generated_by: claude
-date: 2026-06-07
-type: work-note
-status: active
-created: '2026-06-07'
----
-
-# External Data Import Guide
-
-How to get emails, Outlook data, files, images, and PDFs into the vault.
-
----
-
-## 1. Emails from Outlook (Windows)
-
-### Option A — Obsidian Importer Plugin (Recommended)
-Install the **Obsidian Importer** community plugin. It natively imports:
-- `.eml` files (email files)
-- `.mbox` files (Gmail / Thunderbird exports)
-
-**Workflow:**
-1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
-   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
-2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
-3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
-4. Set destination folder: `AI-Generated/emails/`
-5. Add frontmatter `generated_by: claude` on import if needed
-
-### Option B — Markdown Export Script
-Export important emails manually. For each email you want to preserve as a note:
-1. Copy/paste email body into Obsidian note
-2. Use template:
-```markdown
----
-from: sender@example.com
-to: abdelhak.elmansour@um6p.ma
-date: YYYY-MM-DD
-subject: "Email subject"
-tags: [email, imported]
----
-
-# Subject
-
-**From:** Sender Name <email>
-**Date:** YYYY-MM-DD
-
----
-
-Body content here...
-```
-Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
-
-### Option C — Obsidian Web Clipper (for Gmail)
-If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
-
----
-
-## 2. Files (PDFs, DOCX, Excel, PPT)
-
-### PDFs
-- Drag-and-drop into vault folder → Obsidian treats them as attachments
-- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
-- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
-- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
-
-### DOCX (Word) — Convert to Markdown
-Use **Pandoc** (free CLI tool):
-```powershell
-pandoc input.docx -o output.md
-```
-Then move output.md into vault. Works for thesis drafts, cover letters, etc.
-
-### Excel / CSV — Import as Dataview
-Save CSV files in vault → query with DataviewJS:
-```dataviewjs
-const data = await dv.io.csv("path/to/file.csv");
-dv.table(data.headers, data.rows);
-```
-
----
-
-## 3. Images
-
-### Direct drag-and-drop
-Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
-Set attachment folder: Settings → Files and links → Default location = `assets/`
-
-### Embed in notes
-```markdown
-![[image.png]]
-![[image.png|300]]        ← width in pixels
-![[image.png|caption]]
-```
-
-### Screenshot workflow
-For screenshots of important emails, docs, or web content:
-1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
-2. Or: Screenshot → drag into vault folder → embed
-
-### Images already in vault
-Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
-
----
-
-## 4. Outlook Calendar → Obsidian
-
-### Option A — iCal Export
-Outlook → File → Save Calendar → `.ics` file
-Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
-Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
-
-### Option B — Forward to Vault
-For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
-
----
-
-## 5. Web Pages (Articles, Papers, News)
-
-### Obsidian Web Clipper (Best Option)
-Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
-- Clips any web page to vault with one click
-- Auto-applies templates for articles, papers, etc.
-- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
-
-### defuddle (via Claude Code)
-Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
-Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
-
-### Manual
-Copy URL → paste into note → add `tags: [clipping]` frontmatter.
-
----
-
-## 6. Zotero Papers → Literature Notes
-
-Already configured via **Citations plugin** (installed 2026-06-07):
-- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
-- `Ctrl+P → Citations: Insert Markdown citation` → search your library
-- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
-
-For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
-
----
-
-## 7. Flashcards from Any External Content
-
-Once you have any content in the vault as a note, add flashcard syntax:
-```
-Question::Answer
-```
-Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
-
-Active flashcard decks:
-- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
-- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
-- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
-- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
-- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~357 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-tags:
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-26'
----
-
-# NotebookLM Integration
-
-Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
-Auth: `~/.notebooklm/profiles/default/storage_state.json`
-CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
-
-Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
-
----
-
-## Notebooks
-
-| Name | ID | Sources |
-|------|----|---------|
-| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
-| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
-| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
-
----
-
-## CLI Quick Reference
-
-```bash
-# Set active notebook
-notebooklm use bb2823a9        # defense
-notebooklm use f5b6cff5        # methods
-notebooklm use da39982c        # jobs
-
-# Ask a question
-notebooklm ask "What are the three most likely Verrelst attack vectors?"
-notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
-
-# Generate artifacts
-notebooklm generate audio      # podcast overview
-notebooklm generate quiz       # study quiz
-notebooklm generate flashcards # flashcards
-notebooklm generate mind-map   # mind map
-
-# Download artifacts
-notebooklm download audio      # saves audio file
-
-# List sources
-notebooklm source list
-
-# Add new source (.md files MUST use --mime-type text/plain)
-notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
-
-# Refresh after vault updates
-notebooklm source refresh <source-id>
-```
-
----
-
-## Workflow: Defense Prep
-
-1. `notebooklm use bb2823a9`
-2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
-3. `notebooklm generate quiz` → download and study
-4. `notebooklm generate audio` → listen as podcast
-
-## Workflow: Update After Vault Changes
-
-When you update a defense prep file, refresh it:
-```bash
-notebooklm use bb2823a9
-notebooklm source list   # find the source ID
-notebooklm source refresh <id>
-```
-
----
-
-## Notes
-
-- Unofficial reverse-engineered API — Google can break it without warning
-- Re-authenticate if it stops working: `notebooklm login`
-- Sessions expire: re-run `notebooklm login` every few weeks
-
-
----
-
-*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~673 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-updated: 2026-06-07
-tags:
-  - obsidian
-  - plugins
-  - setup
-  - topic/work
-type: work-note
-status: active
-created: '2026-06-07'
----
-
-# Obsidian Plugin Guide
-
-14 community plugins installed and enabled. **6 added 2026-06-07.**
-
----
-
-## obsidian-git (Vinzent03)
-
-**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
-
-**Config set:**
-- Auto-commit every **20 minutes** (when Obsidian is open)
-- Pull on startup (gets latest from GitHub before you start)
-- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
-- Pull before push: enabled
-- Status bar: shows git status
-
-**Manual commands (Cmd/Ctrl+P → "Git"):**
-- `Git: Create backup` — commit + push right now
-- `Git: Pull` — pull latest from remote
-- `Git: Open source control view` — see changed files
-- `Git: Open history` — browse commit history
-
-**Remote:** https://github.com/Appiie/abdelhak-vault.git
-
----
-
-## Dataview (blacksmithgu)
-
-**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
-
-**Config set:**
-- DataviewJS enabled (JavaScript queries)
-- Inline queries enabled
-- Task completion tracking on
-- HTML rendering allowed
-
-**Where it's used:**
-- `Dashboard.md` — defense countdown + live tables of all active files
-- `Home.md` — mission control
-
-**Basic syntax:**
-```dataview
-TABLE file.mtime AS "Updated"
-FROM "02_Academic & Work/thesis/defense-prep"
-SORT file.mtime DESC
-```
-
-```dataviewjs
-const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
-dv.paragraph(`${days} days to defense`);
-```
-
-**Add metadata to any note for Dataview to pick up:**
-```yaml
----
-status: in-progress
-priority: high
-deadline: 2026-06-30
----
-```
-
----
-
-## Templater (SilentVoid13)
-
-Auto-fill templates with dynamic content (dates, prompts, etc.).
-
----
-
-## Tasks (obsidian-tasks-plugin)
-
-Track tasks across the vault with due dates, priorities, recurrence.
-
-**Syntax:**
-```
-- [ ] Write slide 5 📅 2026-06-01 ⏫
-```
-
-**Query all urgent tasks:**
-```tasks
-not done
-priority is high
-```
-
----
-
-## Excalidraw
-
-Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
-
----
-
-## Charts
-
-Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
-
----
-
-## Style Settings
-
-Adjust theme appearance. `Cmd+P → Style Settings`.
-
----
-
-## Spaced Repetition (st3v3nmw) — NEW
-
-Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
-
-**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
-
-**Syntax:**
-```
-Question::Answer          ← single-line card
-Question:::Answer         ← reversed (shows answer first too)
-```
-Multi-line:
-```
-Question
-?
-Answer
-```
-Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
-
-**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
-
----
-
-## Citations (hans) — NEW
-
-Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
-
-**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
-**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
-**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
-
----
-
-## QuickAdd (chhoumann) — NEW
-
-4 capture macros bound to commands:
-
-| Macro | What it does |
-|-------|-------------|
-| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
-| 🌐 New Domain Lead | Creates domain lead file from template |
-| 💼 New Job Application | Creates job application file from template |
-| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
-
-Access: `Ctrl+P → QuickAdd: ...`
-
----
-
-## Kanban (mgmeyers) — NEW
-
-Two active boards:
-- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
-- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
-
-Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
-
----
-
-## Linter (platers) — NEW
-
-Runs automatically on save. Enforces:
-- Consistent heading spacing
-- No trailing whitespace
-- Proper ellipsis formatting
-- YAML `updated:` timestamp on save
-
-Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
-
----
-
-## Natural Language Dates (argenos) — NEW
-
-Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
-
-Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
-Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/meetings/README.md (~156 words)
-================================================================================
----
-tags:
-  - inbox
-  - meetings
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-27'
----
-
-# Meetings Inbox
-
-Drop raw meeting notes here before processing.
-
-## Usage
-
-1. Export or write your note in this folder
-2. File naming: `YYYY-MM-DD <Topic or Person>.md`
-3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
-
-## What `/om-intake` does with each file
-
-| Detected content | Destination |
-|-----------------|-------------|
-| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
-| Project update | Append to `work/active/<Project>.md` |
-| Decision reached | New Decision Record + `work/Index.md` |
-| Action item | `- [ ]` in the relevant note |
-| Win / recognition | `perf/Brag Doc.md` |
-| New person mentioned | Stub in `org/people/<Name>.md` |
-| Blocker identified | `## Blockers` section in active note |
-
-For freeform unstructured content, use `/om-dump` instead.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
 
 
