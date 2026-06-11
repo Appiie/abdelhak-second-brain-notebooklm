@@ -1,6 +1,6 @@
 ---
 generated_by: claude
-date: 2026-06-10
+date: 2026-06-11
 tags: [knowledge, compiled, notebooklm, work]
 summary: "Compiled notes for Work theme: Job applications, postdoc search tracking, and professional projects."
 ---
