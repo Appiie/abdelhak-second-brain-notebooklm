@@ -8,7 +8,7 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 19 | **Total Word Count**: ~15825 words
+> **Total Files Compiled**: 20 | **Total Word Count**: ~17703 words
 
 ## 📂 Table of Contents
 
@@ -25,6 +25,7 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 - [02_Academic & Work/thesis/defense-prep/Defense Slides — Master Plan.md](#-file-02_academic-&-work-thesis-defense-prep-defense-slides-—-master-plan-md) (~2031 words)
 - [02_Academic & Work/thesis/defense-prep/Defense Strategy.md](#-file-02_academic-&-work-thesis-defense-prep-defense-strategy-md) (~2005 words)
 - [02_Academic & Work/thesis/defense-prep/Flashcards — Defense.md](#-file-02_academic-&-work-thesis-defense-prep-flashcards-—-defense-md) (~771 words)
+- [02_Academic & Work/thesis/defense-prep/Gap Report — 2026-06-12.md](#-file-02_academic-&-work-thesis-defense-prep-gap-report-—-2026-06-12-md) (~1878 words)
 - [02_Academic & Work/thesis/defense-prep/Jury Questions Prep — Advanced.md](#-file-02_academic-&-work-thesis-defense-prep-jury-questions-prep-—-advanced-md) (~954 words)
 - [02_Academic & Work/thesis/defense-prep/Jury Questions Prep.md](#-file-02_academic-&-work-thesis-defense-prep-jury-questions-prep-md) (~1856 words)
 - [02_Academic & Work/thesis/defense-prep/Numbers Arsenal.md](#-file-02_academic-&-work-thesis-defense-prep-numbers-arsenal-md) (~706 words)
@@ -1683,6 +1684,194 @@ What is the novelty of your thesis?::First multi-scale hyperspectral RS framewor
 ---
 
 *Related: [[04_Knowledge Base/wiki/Flashcards — Research Concepts|Flashcards — Research Concepts]] · [[02_Academic & Work/thesis/defense-prep/[[Defense Strategy]]|[[Defense Strategy]]]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Gap Report — 2026-06-12.md
+
+---
+date: 2026-06-12
+tags:
+---
+
+
+# Attack Surface Report — 2026-06-12
+
+## Summary
+- HIGH risk gaps: 7
+- MEDIUM risk gaps: 6
+- LOW risk gaps: 4
+- Number inconsistencies: 5
+- Hedging language hits: 4
+
+---
+
+## HIGH Risk — Address Before June 25
+
+### H1 — Permutation p-value Contradiction | Attacker: Berg + Verrelst
+
+**Finding:** Three different values appear across prep files:
+- Numbers Arsenal + Flashcards + Jury Questions Prep Q2: `p = 0.0001`
+- **Jury Questions Prep — Advanced Q2 (the answer you will actually speak): `p = 0.002`**
+- Defense Strategy numbers table: `p = 0.002`
+
+**What the jury will ask:** "You report p = 0.0001 — is that exact or a rounded threshold? If exact, how is it possible with only 10,000 permutations? That implies zero permutations produced a result as extreme as observed."
+
+**What's needed:** Open Chapter 3 manuscript. If 0 out of 10,000 permutations matched, report as `p < 0.0001`. If 2 out of 10,000, it is `p = 0.002`. Fix one value everywhere. The Advanced Q2 verbal answer and the flashcard contradict each other — this is the single most dangerous inconsistency because both will be in use on the same day.
+
+> ⚠️ **Escalate:** Cannot verify from vault notes alone. Confirm from Chapter 3 manuscript before June 25.
+
+---
+
+### H2 — ECOSTRESS Library Size Inconsistency | Attacker: Verrelst
+
+**Finding:**
+- Defense Strategy numbers table: `1,609 spectra loaded`
+- Defense Slides Master Plan Slide 8: `2,400+ mineral spectra (USGS)`
+
+Verrelst knows this library. He will notice if your slide says 2,400+ while your thesis says 1,609.
+
+**What the jury will ask:** "You mention 2,400 ECOSTRESS spectra — ECOSTRESS v3.1 contains ~3,400 total. Did you use all of them, or a subset? How did you select the subset?"
+
+**What's needed:** Determine the exact number used. Defensible answer: "We loaded 1,609 ECOSTRESS spectra covering mineral families relevant to semi-arid phosphate environments, then curated to 15 target minerals for Benguerir." Fix Slide 8 to show the actual number.
+
+---
+
+### H3 — "Independent XRF" Label is Potentially Circular | Attacker: Berg
+
+**Finding:** All prep answers describe the XRF data used for ρ = 0.845 as "independent XRF scores." However, the same 64 XRF points are described as the calibration set for isotonic regression. If the same 64 points were used for both calibrating the regression AND computing ρ = 0.845, calling this "independent validation" is circular.
+
+**What the jury will ask:** "Were those XRF points used to fit the isotonic regression, or were they withheld? If used in fitting, ρ = 0.845 is a training metric, not a validation metric."
+
+**What's needed:** Verify from Chapter 3 whether a held-out split exists. If no split: remove "independent" from all verbal answers and Victory Speech. Replace with: "XRF-calibrated, with calibration fit assessed via leave-one-out cross-validation." You have rehearsed the word "independent" — it must be corrected before it is internalized.
+
+> ⚠️ **Escalate:** Cannot verify without reading Chapter 3 Methods. HIGH risk if not clarified.
+
+---
+
+### H4 — Atmospheric Correction Algorithm Contradiction | Attacker: Verrelst
+
+**Finding:**
+- Jury Questions Prep — Advanced Q1 (your verbal answer): "PRISMA-ATCOR algorithm (L2D product from ASI)"
+- Defense Slides Master Plan Slide 14: "Atmospheric correction applied **(6SV)**"
+
+These are different algorithms. 6SV is a vector radiative transfer code; the PRISMA L2D product uses ATCOR. Verrelst works with atmospheric correction daily.
+
+**What the jury will ask:** "Your slide says 6SV but you just said ATCOR — which did you actually use?"
+
+**What's needed:** Confirm from manuscript. Fix the slide to match the verbal answer before the deck is finalized. This must be resolved before slides are sent to Laamrani for review.
+
+---
+
+### H5 — Paper Count: 4 vs. 5 | Attacker: Any jury member
+
+**Finding:**
+- Numbers Arsenal: 4 published + 2 in pipeline
+- Defense Slides Master Plan Slide 29: "5 published/accepted papers"
+
+**What's needed:** Consistent framing: "4 published (Sensors, IJEST, Mining, BDJ) + 1 accepted in press (Minerals Ch.2) + 1 submitted (Ch.3)." Update Slide 29 accordingly.
+
+---
+
+### H6 — Sensors Publication Year: 2025 vs. 2026 | Attacker: Any jury member
+
+**Finding:**
+- Thesis Overview (×2): *Sensors* **2026**, doi: 10.3390/s26010002
+- Numbers Arsenal, Defense Strategy, Slides, Flashcards: *Sensors* **2025**
+
+The DOI `s26010002` encodes Volume 26 = 2026. One of these is wrong everywhere.
+
+**What's needed:** Verify the official publication date on the journal website. If online-first in late 2025 but Volume 26 = 2026, the citation standard determines which year to use. Pick one, apply consistently to Numbers Arsenal + all prep files + slides.
+
+---
+
+### H7 — "Endmember-count sensitivity analysis confirms k=4" — Unverifiable | Attacker: Verrelst
+
+**Finding:** Jury Questions Prep VCA answer states: "endmember-count sensitivity analysis confirms 4 endmembers is the stable solution." No supporting detail anywhere — no k range tested, no criterion stated, no numbers in Numbers Arsenal.
+
+**What the jury will ask:** "What criterion did you use? What happened at k=3 and k=5?"
+
+**What's needed:** From Chapter 3 manuscript, retrieve the specific analysis (k range, criterion, results). If no formal analysis exists, prepare: "The k=4 selection was based on [HySime/virtual dimensionality/scree analysis] — I did not perform a full sensitivity sweep across k; this is a recognized limitation." Do not claim a sensitivity analysis was performed if it wasn't.
+
+> ⚠️ **Escalate:** Cannot verify from vault notes. Check Chapter 3 before June 25.
+
+---
+
+## MEDIUM Risk — Address If Time Allows
+
+### M1 — R² > 0.70 Threshold Has No Justification | Berg
+The 84% / R² > 0.70 result is cited everywhere but no prep answer explains why 0.70 is the threshold. **Fix:** "The 0.70 threshold follows [cite standard] as minimum acceptable spectral similarity for mineral identification. Values below indicate insufficient correspondence to assign a mineral identity with confidence."
+
+### M2 — "Why 30 m Buffer" Has No Autocorrelation Defense | Berg or Verrelst
+The 30 m buffer is justified as "prevents shared pixels" but Berg may push for a variogram or Moran's I argument. **Fix:** Add "The 30 m buffer equals the pixel footprint — minimum distance ensuring no two samples share a pixel. A full variogram analysis was not performed; however, the conservative literature recommendation (Karasiak et al. 2022) for minimum exclusion is the pixel footprint, which we apply."
+
+### M3 — Advanced Q2 Uses p=0.002 While Flashcards Say 0.0001 | Berg
+Derivative of H1. Fix automatically once H1 is resolved.
+
+### M4 — "Relatively New Satellite" Hedging | Verrelst
+In Jury Questions Prep Q1: "PRISMA is also *relatively new* (launched 2019)." PRISMA is 7 years old by June 2026. **Fix:** "PRISMA has been operational since 2019; mining applications remain severely underrepresented in the literature — this work is among the first systematic phosphate applications."
+
+### M5 — "I Believe" in Closing Statement | General
+Defense Strategy 30-Second Closing: "I believe this combination... represents a model." **Fix:** "This thesis establishes a model for sustainable mine monitoring that extends well beyond Benguerir."
+
+### M6 — Heavy Metals Concentration Ranges Uncited | Khalil or Benzaazoua
+Advanced Q5 states Cd (0.1–0.5 ppm) and U (10–50 ppm) ranges without a source. Khalil works in mining geochemistry. **Fix:** Source these numbers — either your HHXRF data or a specific literature reference (not "typically").
+
+---
+
+## LOW Risk — Monitor Only
+
+- **L1** — "Typically" and "suggests" appear only in the heavy metals answer (M6) and sensor framing (M4) — handled above
+- **L2** — "I believe" in closing — handled in M5
+- **L3** — Bootstrap CI confidence level not specified: are RPI CIs 95%? Confirm from manuscript and be ready to state it if asked
+- **L4** — "Spatially patchy maps" for SVM is a visual observation, not quantified — if pressed, acknowledge it's a qualitative observation consistent with known SVM limitations in heterogeneous geological scenes
+
+---
+
+## Number Inconsistencies
+
+| Claim | Prep note value | Numbers Arsenal / source-of-truth | Risk |
+|-------|----------------|-----------------------------------|------|
+| Permutation p-value | `p = 0.002` (Advanced Q2, Defense Strategy) | `p = 0.0001` (Numbers Arsenal, Flashcards, Jury Questions Prep Q2) | **HIGH** |
+| ECOSTRESS library size | `2,400+` (Slides, Slide 8) | `1,609 loaded + 15 curated` (Defense Strategy numbers table) | **HIGH** |
+| Sensors year | `2025` (Numbers Arsenal, Defense Strategy, Slides, Flashcards) | `2026` (Thesis Overview ×2, consistent with DOI vol 26) | **HIGH** |
+| Published paper count | `5 published/accepted` (Slide 29) | `4 published + 2 in pipeline` (Numbers Arsenal) | MEDIUM |
+| EnMAP pixels vs. XRF points | "n=32 per zone" used for both EnMAP pixels (actually 49 RZ / 47 RWR) and XRF calibration points (32 per zone) | Numbers Arsenal: 32 = XRF calibration; Defense Strategy: 49+47 = EnMAP pixels | MEDIUM — conflating the two in Berg's power question is misleading |
+
+---
+
+## Hedging Language — Replace These
+
+| Phrase | Location | Hardened replacement |
+|--------|----------|---------------------|
+| "relatively new (launched 2019)" | Jury Questions Prep Q1 | "operational since 2019; mining applications remain severely underrepresented" |
+| "Cd (typically 0.1–0.5 ppm)" | Advanced Q5 | Replace with sourced value from HHXRF data or specific reference |
+| "I believe this combination... represents a model" | Defense Strategy closing | "This thesis establishes a model for sustainable mine monitoring that extends well beyond Benguerir." |
+| "suggesting a constrained decision boundary" | Jury Questions Prep Q4 | "SVM produced spatially discontinuous maps, consistent with constrained hyperplane geometry under complex spectral gradients — a documented limitation of kernel SVMs in heterogeneous geological scenes." |
+
+---
+
+## Citation Gaps
+
+| Method / claim | Expected citation | Literature note in vault? |
+|----------------|------------------|--------------------------|
+| VCA endmember extraction | Nascimento & Dias (2005) | Zotero yes; `thesis/literature-notes/` NO. Verbal answers never name Nascimento. |
+| FCLS unmixing | Heinz & Chang (2001) | Zotero yes (3 Heinz entries); NO literature note; NO mention in any verbal answer. If Verrelst asks "original reference for FCLS?", answer is empty. |
+| Isotonic regression | Barlow et al. (1972/1980) | Zotero yes (`barlowStatisticalInferenceOrder1972/1980`); never cited in any verbal answer. |
+| Spatially constrained CV | Karasiak et al. (2022); Ploton et al. (2020) | YES — cited by name in Defense Strategy. **COVERED.** |
+| BAC metric | Brodersen et al. (2010) | NO Brodersen entry in Zotero. If Berg asks for the theoretical reference for BAC, the answer is empty. |
+| Nested CV bias prevention | Cawley & Talbot (2010) or Varma & Simon (2006) | Not found. Method is stated but theoretical justification is unsourced. |
+
+---
+
+## Top 3 — Fix Before June 25
+
+**1. H1 — Permutation p-value.** Open Chapter 3, find the exact value, update Numbers Arsenal and Advanced Q2 to match. This inconsistency sits inside your most-rehearsed answer against Berg and will detonate under pressure.
+
+**2. H4 — Atmospheric correction on slides.** Slides say 6SV; your mouth will say ATCOR. Fix the slide before it goes to Laamrani for review. Verrelst is the highest-threat member and this is the first processing step he will probe.
+
+**3. H3 — "Independent" XRF label.** If the 64 XRF points calibrated the isotonic regression and also produced ρ = 0.845, you cannot call them independent. You have rehearsed this word. Remove it before it is locked in muscle memory.
 
 
 
