@@ -1,6 +1,6 @@
 ---
 generated_by: claude
-date: 2026-06-10
+date: 2026-06-11
 tags: [knowledge, compiled, notebooklm, wiki]
 summary: "Compiled notes for Wiki theme: Wiki index, concepts, entities, and literature references."
 ---
