@@ -643,6 +643,716 @@ Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 
 
 ================================================================================
+FILE: 02_Academic & Work/work/meetings/README.md (~156 words)
+================================================================================
+---
+tags:
+  - inbox
+  - meetings
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-27'
+---
+
+# Meetings Inbox
+
+Drop raw meeting notes here before processing.
+
+## Usage
+
+1. Export or write your note in this folder
+2. File naming: `YYYY-MM-DD <Topic or Person>.md`
+3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
+
+## What `/om-intake` does with each file
+
+| Detected content | Destination |
+|-----------------|-------------|
+| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
+| Project update | Append to `work/active/<Project>.md` |
+| Decision reached | New Decision Record + `work/Index.md` |
+| Action item | `- [ ]` in the relevant note |
+| Win / recognition | `perf/Brag Doc.md` |
+| New person mentioned | Stub in `org/people/<Name>.md` |
+| Blocker identified | `## Blockers` section in active note |
+
+For freeform unstructured content, use `/om-dump` instead.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~1002 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-28
+tags:
+  - automation
+  - claude-code
+  - mcp
+  - power-user
+  - setup
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-28'
+---
+
+# Elite Vault Setup — Power User Stack 2026
+
+> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
+> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
+
+---
+
+## What's Installed and Live
+
+### MCP Servers (9 total, all ✓ Connected)
+
+| Server | Purpose | Status |
+|--------|---------|--------|
+| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
+| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
+| `brave-search` | Web search (token needs renewal) | ✓ Connected |
+| `github` | PR reviews, issue tracking | ✓ Live |
+| `notion` | Notion DB access | ✓ Live |
+| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
+| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
+| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
+| `google-drive` | Drive file access | ! Needs OAuth |
+
+**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
+
+**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
+
+---
+
+### Custom Claude Skills (5 skills in `~/.claude/skills/`)
+
+| Skill | Trigger | What it does |
+|-------|---------|--------------|
+| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
+| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
+| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
+| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
+| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
+
+---
+
+### Vault Scripts (`scripts/`)
+
+| Script | Schedule | What it does |
+|--------|----------|--------------|
+| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
+| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
+
+**Automate via Task Scheduler (Windows):**
+```powershell
+# Run both scripts every Monday at 8:00 AM
+$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
+$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
+Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
+Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
+```
+
+---
+
+## Researched Repos — Honest Assessment
+
+### Top-tier (real, maintained, worth using)
+
+**`ProfSynapse/claudesidian-mcp` (Nexus)**  
+- Local semantic search over vault using embeddings
+- Graph-traversal: find notes by concept, not just keyword
+- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
+- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
+
+**`rohitg00/awesome-claude-code-toolkit`**  
+- 135 agents, 35 skills, 42 slash commands on GitHub
+- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
+- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
+
+**`obra/knowledge-graph` Claude Code plugin**  
+- Vault as knowledge graph with BFS/DFS query tools
+- Community detection, god-node identification
+- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
+
+**`eugeniughelbur/obsidian-second-brain`**  
+- 34 slash commands for second-brain workflows
+- `@obsidian`, `@notes`, `@daily` context tools
+- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
+
+**`jacksteamdev/obsidian-mcp-tools`**  
+- Semantic search + Templater integration
+- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
+
+### Not worth installing (why)
+
+| Repo | Reason to skip |
+|------|---------------|
+| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
+| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
+| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
+| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
+
+---
+
+## Workflow Stack — How It All Connects
+
+```
+Morning Standup
+└── /om-standup
+    ├── reads wiki/hot.md
+    ├── reads work/Index.md
+    └── surfaces job deadlines + domain alerts
+
+Weekly Review
+└── /vault-review
+    ├── scans work/active/ for stale notes
+    ├── flags job deadlines
+    └── flags domain renewals
+
+Job Search
+└── scripts/job_monitor.py (weekly, auto)
+    └── appends → work/active/Job Board -- Live Tracker.md
+
+Domain Monitoring
+└── scripts/domain_report.py (weekly, auto)
+    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
+
+Defense Prep
+└── /thesis-check
+    ├── counts days to June 30
+    └── outputs daily action plan
+```
+
+---
+
+## What Requires Manual Action
+
+1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
+2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
+3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
+4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
+5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
+
+---
+
+## Your Edge — What Nobody Else Has
+
+The combination of:
+- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
+- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
+- **gmail MCP** (read + draft application emails without leaving Claude)
+- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
+- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
+- **thesis-check skill** (defense countdown with daily actions)
+
+This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
+
+---
+
+## Next Upgrades (when time permits)
+
+| Priority | Action | Time |
+|----------|--------|------|
+| High | Task Scheduler for weekly scripts | 10 min |
+| High | Brave Search token renewal | 5 min |
+| Medium | `claudesidian-mcp` when npm-stable | — |
+| Medium | Google Drive OAuth | 15 min |
+| Low | ManyChat Instagram automation | 15 min |
+| Low | GoDaddy API key in settings | 5 min |
+
+
+---
+
+*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/work/Tools Setup|Tools Setup]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~777 words)
+================================================================================
+---
+tags:
+  - data
+  - import
+  - obsidian
+  - setup
+  - topic/work
+generated_by: claude
+date: 2026-06-07
+type: work-note
+status: active
+created: '2026-06-07'
+---
+
+# External Data Import Guide
+
+How to get emails, Outlook data, files, images, and PDFs into the vault.
+
+---
+
+## 1. Emails from Outlook (Windows)
+
+### Option A — Obsidian Importer Plugin (Recommended)
+Install the **Obsidian Importer** community plugin. It natively imports:
+- `.eml` files (email files)
+- `.mbox` files (Gmail / Thunderbird exports)
+
+**Workflow:**
+1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
+   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
+2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
+3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
+4. Set destination folder: `AI-Generated/emails/`
+5. Add frontmatter `generated_by: claude` on import if needed
+
+### Option B — Markdown Export Script
+Export important emails manually. For each email you want to preserve as a note:
+1. Copy/paste email body into Obsidian note
+2. Use template:
+```markdown
+---
+from: sender@example.com
+to: abdelhak.elmansour@um6p.ma
+date: YYYY-MM-DD
+subject: "Email subject"
+tags: [email, imported]
+---
+
+# Subject
+
+**From:** Sender Name <email>
+**Date:** YYYY-MM-DD
+
+---
+
+Body content here...
+```
+Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
+
+### Option C — Obsidian Web Clipper (for Gmail)
+If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
+
+---
+
+## 2. Files (PDFs, DOCX, Excel, PPT)
+
+### PDFs
+- Drag-and-drop into vault folder → Obsidian treats them as attachments
+- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
+- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
+- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
+
+### DOCX (Word) — Convert to Markdown
+Use **Pandoc** (free CLI tool):
+```powershell
+pandoc input.docx -o output.md
+```
+Then move output.md into vault. Works for thesis drafts, cover letters, etc.
+
+### Excel / CSV — Import as Dataview
+Save CSV files in vault → query with DataviewJS:
+```dataviewjs
+const data = await dv.io.csv("path/to/file.csv");
+dv.table(data.headers, data.rows);
+```
+
+---
+
+## 3. Images
+
+### Direct drag-and-drop
+Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
+Set attachment folder: Settings → Files and links → Default location = `assets/`
+
+### Embed in notes
+```markdown
+![[image.png]]
+![[image.png|300]]        ← width in pixels
+![[image.png|caption]]
+```
+
+### Screenshot workflow
+For screenshots of important emails, docs, or web content:
+1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
+2. Or: Screenshot → drag into vault folder → embed
+
+### Images already in vault
+Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
+
+---
+
+## 4. Outlook Calendar → Obsidian
+
+### Option A — iCal Export
+Outlook → File → Save Calendar → `.ics` file
+Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
+Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
+
+### Option B — Forward to Vault
+For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
+
+---
+
+## 5. Web Pages (Articles, Papers, News)
+
+### Obsidian Web Clipper (Best Option)
+Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
+- Clips any web page to vault with one click
+- Auto-applies templates for articles, papers, etc.
+- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
+
+### defuddle (via Claude Code)
+Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
+Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
+
+### Manual
+Copy URL → paste into note → add `tags: [clipping]` frontmatter.
+
+---
+
+## 6. Zotero Papers → Literature Notes
+
+Already configured via **Citations plugin** (installed 2026-06-07):
+- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
+- `Ctrl+P → Citations: Insert Markdown citation` → search your library
+- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
+
+For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
+
+---
+
+## 7. Flashcards from Any External Content
+
+Once you have any content in the vault as a note, add flashcard syntax:
+```
+Question::Answer
+```
+Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
+
+Active flashcard decks:
+- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
+- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
+- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
+- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
+- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
+
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~357 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+tags:
+  - topic/work
+type: work-note
+status: active
+created: '2026-05-26'
+---
+
+# NotebookLM Integration
+
+Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
+Auth: `~/.notebooklm/profiles/default/storage_state.json`
+CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
+
+Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
+
+---
+
+## Notebooks
+
+| Name | ID | Sources |
+|------|----|---------|
+| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
+| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
+| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
+
+---
+
+## CLI Quick Reference
+
+```bash
+# Set active notebook
+notebooklm use bb2823a9        # defense
+notebooklm use f5b6cff5        # methods
+notebooklm use da39982c        # jobs
+
+# Ask a question
+notebooklm ask "What are the three most likely Verrelst attack vectors?"
+notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
+
+# Generate artifacts
+notebooklm generate audio      # podcast overview
+notebooklm generate quiz       # study quiz
+notebooklm generate flashcards # flashcards
+notebooklm generate mind-map   # mind map
+
+# Download artifacts
+notebooklm download audio      # saves audio file
+
+# List sources
+notebooklm source list
+
+# Add new source (.md files MUST use --mime-type text/plain)
+notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
+
+# Refresh after vault updates
+notebooklm source refresh <source-id>
+```
+
+---
+
+## Workflow: Defense Prep
+
+1. `notebooklm use bb2823a9`
+2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
+3. `notebooklm generate quiz` → download and study
+4. `notebooklm generate audio` → listen as podcast
+
+## Workflow: Update After Vault Changes
+
+When you update a defense prep file, refresh it:
+```bash
+notebooklm use bb2823a9
+notebooklm source list   # find the source ID
+notebooklm source refresh <id>
+```
+
+---
+
+## Notes
+
+- Unofficial reverse-engineered API — Google can break it without warning
+- Re-authenticate if it stops working: `notebooklm login`
+- Sessions expire: re-run `notebooklm login` every few weeks
+
+
+---
+
+*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
+FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~673 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-05-26
+updated: 2026-06-07
+tags:
+  - obsidian
+  - plugins
+  - setup
+  - topic/work
+type: work-note
+status: active
+created: '2026-06-07'
+---
+
+# Obsidian Plugin Guide
+
+14 community plugins installed and enabled. **6 added 2026-06-07.**
+
+---
+
+## obsidian-git (Vinzent03)
+
+**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
+
+**Config set:**
+- Auto-commit every **20 minutes** (when Obsidian is open)
+- Pull on startup (gets latest from GitHub before you start)
+- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
+- Pull before push: enabled
+- Status bar: shows git status
+
+**Manual commands (Cmd/Ctrl+P → "Git"):**
+- `Git: Create backup` — commit + push right now
+- `Git: Pull` — pull latest from remote
+- `Git: Open source control view` — see changed files
+- `Git: Open history` — browse commit history
+
+**Remote:** https://github.com/Appiie/abdelhak-vault.git
+
+---
+
+## Dataview (blacksmithgu)
+
+**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
+
+**Config set:**
+- DataviewJS enabled (JavaScript queries)
+- Inline queries enabled
+- Task completion tracking on
+- HTML rendering allowed
+
+**Where it's used:**
+- `Dashboard.md` — defense countdown + live tables of all active files
+- `Home.md` — mission control
+
+**Basic syntax:**
+```dataview
+TABLE file.mtime AS "Updated"
+FROM "02_Academic & Work/thesis/defense-prep"
+SORT file.mtime DESC
+```
+
+```dataviewjs
+const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
+dv.paragraph(`${days} days to defense`);
+```
+
+**Add metadata to any note for Dataview to pick up:**
+```yaml
+---
+status: in-progress
+priority: high
+deadline: 2026-06-30
+---
+```
+
+---
+
+## Templater (SilentVoid13)
+
+Auto-fill templates with dynamic content (dates, prompts, etc.).
+
+---
+
+## Tasks (obsidian-tasks-plugin)
+
+Track tasks across the vault with due dates, priorities, recurrence.
+
+**Syntax:**
+```
+- [ ] Write slide 5 📅 2026-06-01 ⏫
+```
+
+**Query all urgent tasks:**
+```tasks
+not done
+priority is high
+```
+
+---
+
+## Excalidraw
+
+Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
+
+---
+
+## Charts
+
+Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
+
+---
+
+## Style Settings
+
+Adjust theme appearance. `Cmd+P → Style Settings`.
+
+---
+
+## Spaced Repetition (st3v3nmw) — NEW
+
+Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
+
+**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
+
+**Syntax:**
+```
+Question::Answer          ← single-line card
+Question:::Answer         ← reversed (shows answer first too)
+```
+Multi-line:
+```
+Question
+?
+Answer
+```
+Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
+
+**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
+
+---
+
+## Citations (hans) — NEW
+
+Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
+
+**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
+**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
+**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
+
+---
+
+## QuickAdd (chhoumann) — NEW
+
+4 capture macros bound to commands:
+
+| Macro | What it does |
+|-------|-------------|
+| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
+| 🌐 New Domain Lead | Creates domain lead file from template |
+| 💼 New Job Application | Creates job application file from template |
+| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
+
+Access: `Ctrl+P → QuickAdd: ...`
+
+---
+
+## Kanban (mgmeyers) — NEW
+
+Two active boards:
+- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
+- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
+
+Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
+
+---
+
+## Linter (platers) — NEW
+
+Runs automatically on save. Enforces:
+- Consistent heading spacing
+- No trailing whitespace
+- Proper ellipsis formatting
+- YAML `updated:` timestamp on save
+
+Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
+
+---
+
+## Natural Language Dates (argenos) — NEW
+
+Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
+
+Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
+Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
+
+
+---
+
+*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
+
+
+
+================================================================================
 FILE: 02_Academic & Work/work/1-1/Laamrani-2026-05-27.md (~92 words)
 ================================================================================
 ---
@@ -3285,6 +3995,80 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 ================================================================================
+FILE: 02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous.md (~686 words)
+================================================================================
+---
+generated_by: claude
+date: 2026-06-11
+tags:
+  - INERIS
+  - applications
+  - france
+  - jobs
+  - postdoc
+  - topic/work
+target: Responsable du Pôle Après-Mine / Direction de la Prévention des Risques
+institution: INERIS (Institut National de l'Environnement Industriel et des Risques)
+status: draft
+type: job-application
+created: '2026-06-11'
+---
+
+# Cover Letter, Spontaneous Application, INERIS (France)
+
+---
+
+**Abdelhak EL MANSOUR**  
+Doctorant, Geology and Sustainable Mining Institute (GSMI)  
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Maroc  
+Email : elmansour01abdelhak@gmail.com  
+
+---
+
+À l'attention du Responsable du Pôle Après-Mine / Recrutement  
+**INERIS (Institut National de l'Environnement Industriel et des Risques)**  
+Parc Technologique Alata, BP 2  
+60550 Verneuil-en-Halatte, France  
+
+---
+
+**Objet : Candidature spontanée — Postdoctorat / Chercheur en Télédétection Hyperspectrale appliquée à l'Après-Mine et aux Risques Environnementaux**
+
+Madame, Monsieur,
+
+Je me permets de vous adresser ma candidature spontanée pour un poste de chercheur postdoctorant au sein de l'INERIS, suite à la soutenance imminente de ma thèse de doctorat le 30 juin 2026 à l'Université Mohammed VI Polytechnique (UM6P). Mes travaux de recherche portent sur la caractérisation des déchets miniers et le suivi de leur réhabilitation par télédétection hyperspectrale (VNIR-SWIR) multi-échelle, une thématique en parfaite adéquation avec vos programmes de prévention des risques après-mine et d'évaluation de l'écotoxicité des sols.
+
+Ma thèse, menée sur le site de la mine de phosphate de Benguerir (Groupe OCP) au Maroc, s'articule autour d'une approche multi-sources combinant la spectroscopie de terrain (ASD FieldSpec 4, 350-2500 nm), l'imagerie satellitaire de nouvelle génération (PRISMA et EnMAP) et la validation géochimique (DRX, FRX). 
+
+Dans le cadre de mes travaux, j'ai notamment développé un **Indice de Performance de Réhabilitation (Reclamation Performance Index - RPI)** basé sur les données d'EnMAP (189 bandes spectrales) et calibré sur des mesures géochimiques de terrain. Cet indice permet de cartographier de manière continue l'état des surfaces réhabilitées par rapport aux zones de stockage de stériles non perturbées (Spearman ρ = 0,845, p = 1,74 × 10⁻¹²), offrant ainsi un outil de suivi macro-échelle puissant et automatisé. J'ai également mis en œuvre des modèles de classification avancés (Extra Trees, SVM) utilisant une validation croisée spatialement contrainte (atteignant une exactitude équilibrée — **BAC = 0,984 ± 0,031**) pour cartographier les assemblages minéralogiques de surface (fluorapatite, dolomite, silice, gypse/argiles).
+
+Ce profil s'aligne directement avec les priorités scientifiques de l'INERIS, en particulier dans deux domaines :
+
+1. **Le suivi de l'après-mine et la stabilité géotechnique :** L'approche de cartographie spectrale quantitative que j'ai développée peut être transposée pour suivre l'évolution physico-chimique des verses à stériles, des parcs à résidus et des cavités de surface, facilitant ainsi l'identification précoce des zones propices à l'érosion ou aux glissements.
+2. **L'évaluation environnementale et l'écotoxicité :** Mes travaux sur la détection indirecte des éléments traces (comme le phosphore via ses corrélations minéralogiques avec les argiles et la calcite) résonnent fortement avec votre **Indice Écologique de Préoccupation (Ecological Index of Concern - EIoC)** publié en janvier 2025. Le RPI spectral offre un pendant spatialisé continu aux mesures géochimiques ponctuelles de terrain, idéal pour évaluer l'aptitude des sols à une revalorisation écologique.
+
+Maîtrisant l'ensemble de la chaîne de traitement des données hyperspectrales (chargement HDF5, correction atmosphérique, démélange spectral linéaire VCA-FCLS et modélisation machine learning sous Python), j'ai publié mes résultats dans des revues internationales de premier plan (*Sensors* en 2025, et un article accepté dans *Minerals* en 2026).
+
+Je serais particulièrement honoré de mettre mes compétences au service des projets de recherche de l'INERIS et de collaborer avec vos équipes sur le développement d'outils innovants de surveillance environnementale. Je me tiens à votre entière disposition pour un entretien en visioconférence afin de vous présenter mes travaux plus en détail.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+**Abdelhak EL MANSOUR**  
+Doctorant en Télédétection et Géosciences de l'Environnement  
+UM6P, GSMI, Benguerir, Maroc  
+
+---
+
+*Pièces jointes suggérées : Curriculum Vitae, résumé de thèse (1 page), tiré à part de l'article Sensors 2025.*
+
+---
+
+*Related: [[02_Academic & Work/org/people/INERIS Outreach|INERIS Outreach]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc|Cover Letter — INRAE PREPSOIL Postdoc]]*
+
+
+
+
+================================================================================
 FILE: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md (~639 words)
 ================================================================================
 ---
@@ -4622,715 +5406,5 @@ UM6P, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Elite Vault Setup.md (~1002 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-28
-tags:
-  - automation
-  - claude-code
-  - mcp
-  - power-user
-  - setup
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-28'
----
-
-# Elite Vault Setup — Power User Stack 2026
-
-> Research: 8 parallel web searches across GitHub, npm, Reddit, HN, Claude docs.  
-> Last updated: 2026-05-28. Honest assessment — no hype, no vaporware.
-
----
-
-## What's Installed and Live
-
-### MCP Servers (9 total, all ✓ Connected)
-
-| Server | Purpose | Status |
-|--------|---------|--------|
-| `vault-obsidian` | Read/write vault files via MCP | ✓ Live |
-| `gmail` | Read/draft/search Gmail in-session | ✓ Live |
-| `brave-search` | Web search (token needs renewal) | ✓ Connected |
-| `github` | PR reviews, issue tracking | ✓ Live |
-| `notion` | Notion DB access | ✓ Live |
-| `domain-search` | RDAP + GoDaddy auction detection | ✓ Live |
-| `memory` | Persistent knowledge graph across sessions | ✓ Live (new) |
-| `sequential-thinking` | Structured multi-step reasoning | ✓ Live (new) |
-| `google-drive` | Drive file access | ! Needs OAuth |
-
-**Activate `memory` MCP:** In next session, Claude can store named entities (people, domains, papers) as a persistent graph — survives conversation compaction.
-
-**Activate `sequential-thinking`:** Triggers automatically for complex multi-step tasks. Forces structured `<parameter name="thought">` chains instead of linear responses.
-
----
-
-### Custom Claude Skills (5 skills in `~/.claude/skills/`)
-
-| Skill | Trigger | What it does |
-|-------|---------|--------------|
-| `graphify` | `/graphify` | Any input → knowledge graph → HTML + JSON |
-| `notebooklm` | `/notebooklm` | Full NotebookLM API (podcast, briefing, FAQ) |
-| `vault-review` | `/vault-review` | Weekly vault audit: orphans, deadlines, domain renewals |
-| `thesis-check` | `/thesis-check` | Defense readiness audit with daily action plan |
-| `obsidian-cli` | `/obsidian-cli` | Obsidian CLI (tasks, properties, plugin dev) |
-
----
-
-### Vault Scripts (`scripts/`)
-
-| Script | Schedule | What it does |
-|--------|----------|--------------|
-| `job_monitor.py` | Weekly Monday | RSS scrape → Job Board note |
-| `domain_report.py` | Weekly Monday | RDAP lookup + marketplace links |
-
-**Automate via Task Scheduler (Windows):**
-```powershell
-# Run both scripts every Monday at 8:00 AM
-$action1 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\job_monitor.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$action2 = New-ScheduledTaskAction -Execute "python" -Argument "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\scripts\domain_report.py" -WorkingDirectory "C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault"
-$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday -At "08:00AM"
-Register-ScheduledTask -TaskName "VaultJobMonitor" -Action $action1 -Trigger $trigger -RunLevel Highest
-Register-ScheduledTask -TaskName "VaultDomainReport" -Action $action2 -Trigger $trigger -RunLevel Highest
-```
-
----
-
-## Researched Repos — Honest Assessment
-
-### Top-tier (real, maintained, worth using)
-
-**`ProfSynapse/claudesidian-mcp` (Nexus)**  
-- Local semantic search over vault using embeddings
-- Graph-traversal: find notes by concept, not just keyword
-- **Install:** `npm install -g claudesidian-mcp` (not on npm yet — install from GitHub)
-- **Verdict:** Most powerful Obsidian MCP. 2-tool architecture. Worth watching for stable npm release.
-
-**`rohitg00/awesome-claude-code-toolkit`**  
-- 135 agents, 35 skills, 42 slash commands on GitHub
-- **Verdict:** Cherry-pick individual skills. Don't install bulk — most don't match your profile.
-- **What to grab:** `research-agent`, `citation-finder`, `brag-doc-updater`
-
-**`obra/knowledge-graph` Claude Code plugin**  
-- Vault as knowledge graph with BFS/DFS query tools
-- Community detection, god-node identification
-- **Verdict:** Already covered by your `graphify` skill (same concept, different implementation)
-
-**`eugeniughelbur/obsidian-second-brain`**  
-- 34 slash commands for second-brain workflows
-- `@obsidian`, `@notes`, `@daily` context tools
-- **Verdict:** Useful reference for custom skills but installs as an Obsidian plugin (not Claude Code). Your existing skills do the same.
-
-**`jacksteamdev/obsidian-mcp-tools`**  
-- Semantic search + Templater integration
-- **Verdict:** Requires Obsidian plugin side + MCP side. Your `vault-obsidian` MCP handles this adequately.
-
-### Not worth installing (why)
-
-| Repo | Reason to skip |
-|------|---------------|
-| `sickn33/antigravity-awesome-skills` (1,400 skills) | Bulk install = context bloat. 95% irrelevant. |
-| `rps321321/obsidian-mcp-pro` | Not on npm, GitHub repo sparse, unclear maintenance |
-| `YishenTu/claudian` | Claude Code *inside* Obsidian — redundant if you use Claude Code CLI |
-| `AgriciDaniel/claude-obsidian` | Last commit 8 months ago, no npm package |
-
----
-
-## Workflow Stack — How It All Connects
-
-```
-Morning Standup
-└── /om-standup
-    ├── reads wiki/hot.md
-    ├── reads work/Index.md
-    └── surfaces job deadlines + domain alerts
-
-Weekly Review
-└── /vault-review
-    ├── scans work/active/ for stale notes
-    ├── flags job deadlines
-    └── flags domain renewals
-
-Job Search
-└── scripts/job_monitor.py (weekly, auto)
-    └── appends → work/active/Job Board -- Live Tracker.md
-
-Domain Monitoring
-└── scripts/domain_report.py (weekly, auto)
-    └── saves → AI-Generated/domain-report-YYYY-MM-DD.md
-
-Defense Prep
-└── /thesis-check
-    ├── counts days to June 30
-    └── outputs daily action plan
-```
-
----
-
-## What Requires Manual Action
-
-1. **Google Drive MCP** — run `! gcloud auth login` in Claude Code terminal
-2. **Brave Search token** — renew at https://api.search.brave.com (current token invalid)
-3. **GoDaddy API key** — add to `.claude/settings.json` vault file to activate auction alerts in domain-search MCP
-4. **Windows Task Scheduler** — run the PowerShell block above (one-time, 5 min setup)
-5. **ManyChat** — $14/mo, 15 min setup for Instagram DM automation
-
----
-
-## Your Edge — What Nobody Else Has
-
-The combination of:
-- **domain-search MCP** (live RDAP + GoDaddy auction detection in-session)
-- **job_monitor.py** (weekly RSS aggregation scoped to hyperspectral + EO — not generic "remote sensing")
-- **gmail MCP** (read + draft application emails without leaving Claude)
-- **memory MCP** (persistent entity graph: domains, buyers, professors, journals)
-- **graphify skill** (any input → knowledge graph — papers, thesis chapters, portfolios)
-- **thesis-check skill** (defense countdown with daily actions)
-
-This stack covers: PhD researcher + domain investor + job seeker + Instagram creator — simultaneously, in one environment.
-
----
-
-## Next Upgrades (when time permits)
-
-| Priority | Action | Time |
-|----------|--------|------|
-| High | Task Scheduler for weekly scripts | 10 min |
-| High | Brave Search token renewal | 5 min |
-| Medium | `claudesidian-mcp` when npm-stable | — |
-| Medium | Google Drive OAuth | 15 min |
-| Low | ManyChat Instagram automation | 15 min |
-| Low | GoDaddy API key in settings | 5 min |
-
-
----
-
-*Related: [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/work/Tools Setup|Tools Setup]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/External Data Import Guide.md (~777 words)
-================================================================================
----
-tags:
-  - data
-  - import
-  - obsidian
-  - setup
-  - topic/work
-generated_by: claude
-date: 2026-06-07
-type: work-note
-status: active
-created: '2026-06-07'
----
-
-# External Data Import Guide
-
-How to get emails, Outlook data, files, images, and PDFs into the vault.
-
----
-
-## 1. Emails from Outlook (Windows)
-
-### Option A — Obsidian Importer Plugin (Recommended)
-Install the **Obsidian Importer** community plugin. It natively imports:
-- `.eml` files (email files)
-- `.mbox` files (Gmail / Thunderbird exports)
-
-**Workflow:**
-1. In Outlook: File → Save As → `.msg` or select emails → File → Save As `.eml`
-   - Or: File → Open & Export → Import/Export → Export to File → Outlook Data File (.pst)
-2. Convert `.pst` → `.eml` using free tool: **Aid4Mail** (free tier) or **pst-to-eml** CLI
-3. In Obsidian: `Ctrl+P → Obsidian Importer → Import from email files (.eml)`
-4. Set destination folder: `AI-Generated/emails/`
-5. Add frontmatter `generated_by: claude` on import if needed
-
-### Option B — Markdown Export Script
-Export important emails manually. For each email you want to preserve as a note:
-1. Copy/paste email body into Obsidian note
-2. Use template:
-```markdown
----
-from: sender@example.com
-to: abdelhak.elmansour@um6p.ma
-date: YYYY-MM-DD
-subject: "Email subject"
-tags: [email, imported]
----
-
-# Subject
-
-**From:** Sender Name <email>
-**Date:** YYYY-MM-DD
-
----
-
-Body content here...
-```
-Save in: `AI-Generated/emails/YYYY-MM-DD — Subject.md`
-
-### Option C — Obsidian Web Clipper (for Gmail)
-If using Gmail: install **Obsidian Web Clipper** browser extension. One-click saves any web page (including Gmail threads) as a markdown note directly into the vault.
-
----
-
-## 2. Files (PDFs, DOCX, Excel, PPT)
-
-### PDFs
-- Drag-and-drop into vault folder → Obsidian treats them as attachments
-- Embed in a note: `![[filename.pdf]]` or `![[filename.pdf#page=3]]`
-- Recommended folder: `thesis/references/` for papers, `AI-Generated/files/` for other docs
-- **To make PDF content searchable:** Use Obsidian **PDF++ plugin** (community) for annotation and text extraction
-
-### DOCX (Word) — Convert to Markdown
-Use **Pandoc** (free CLI tool):
-```powershell
-pandoc input.docx -o output.md
-```
-Then move output.md into vault. Works for thesis drafts, cover letters, etc.
-
-### Excel / CSV — Import as Dataview
-Save CSV files in vault → query with DataviewJS:
-```dataviewjs
-const data = await dv.io.csv("path/to/file.csv");
-dv.table(data.headers, data.rows);
-```
-
----
-
-## 3. Images
-
-### Direct drag-and-drop
-Drag any image (PNG, JPG, WEBP) into Obsidian → it copies to your attachments folder.
-Set attachment folder: Settings → Files and links → Default location = `assets/`
-
-### Embed in notes
-```markdown
-![[image.png]]
-![[image.png|300]]        ← width in pixels
-![[image.png|caption]]
-```
-
-### Screenshot workflow
-For screenshots of important emails, docs, or web content:
-1. Windows Snip (Win+Shift+S) → paste into Obsidian note directly (auto-saves to attachments)
-2. Or: Screenshot → drag into vault folder → embed
-
-### Images already in vault
-Thesis figures: `thesis/defense-prep/gen_figs/` — already embedded in defense notes.
-
----
-
-## 4. Outlook Calendar → Obsidian
-
-### Option A — iCal Export
-Outlook → File → Save Calendar → `.ics` file
-Convert with: **icalendar-to-obsidian** Python script (GitHub: available)
-Or: manually copy key dates into Daily Notes / the [[02_Academic & Work/thesis/defense-prep/30-Day Countdown]]
-
-### Option B — Forward to Vault
-For important calendar entries: copy paste into `work/meetings/` folder with date in filename.
-
----
-
-## 5. Web Pages (Articles, Papers, News)
-
-### Obsidian Web Clipper (Best Option)
-Browser extension: **Obsidian Web Clipper** (official, by Obsidian team)
-- Clips any web page to vault with one click
-- Auto-applies templates for articles, papers, etc.
-- Install: Chrome/Firefox extension store → search "Obsidian Web Clipper"
-
-### defuddle (via Claude Code)
-Claude Code has a `/defuddle` skill that converts web pages to clean markdown.
-Usage: give Claude a URL → it strips navigation/ads and saves clean content to vault.
-
-### Manual
-Copy URL → paste into note → add `tags: [clipping]` frontmatter.
-
----
-
-## 6. Zotero Papers → Literature Notes
-
-Already configured via **Citations plugin** (installed 2026-06-07):
-- Your 292 refs are in `thesis/references.bib` (auto-synced via Better BibTeX)
-- `Ctrl+P → Citations: Insert Markdown citation` → search your library
-- `Ctrl+P → Citations: Open literature note` → creates `thesis/literature-notes/@citekey.md`
-
-For new papers: add to Zotero → Better BibTeX auto-updates references.bib → available in Citations plugin immediately.
-
----
-
-## 7. Flashcards from Any External Content
-
-Once you have any content in the vault as a note, add flashcard syntax:
-```
-Question::Answer
-```
-Tag the note `#flashcards` and the Spaced Repetition plugin will include it in reviews.
-
-Active flashcard decks:
-- [[02_Academic & Work/thesis/defense-prep/Flashcards — Defense]] — numbers + jury prep
-- [[04_Knowledge Base/wiki/Flashcards — Research Concepts]] — all scientific knowledge
-- [[02_Academic & Work/work/Flashcards — Career]] — contacts + career strategy
-- [[03_Digital Life/money/domaining/Flashcards — Domains]] — full domain portfolio
-- [[03_Digital Life/personal/Flashcards — Identity]] — bio + elevator pitches
-
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/NotebookLM Setup.md (~357 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-tags:
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-26'
----
-
-# NotebookLM Integration
-
-Installed: `notebooklm-py` v0.5.0 with Playwright browser auth.
-Auth: `~/.notebooklm/profiles/default/storage_state.json`
-CLI: `C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\notebooklm.exe`
-
-Skill installed: `~/.claude/skills/notebooklm/SKILL.md` → use `/notebooklm` in Claude Code.
-
----
-
-## Notebooks
-
-| Name | ID | Sources |
-|------|----|---------|
-| PhD Defense — Thesis | `bb2823a9-ab3d-454a-9425-f534620228db` | Thesis Overview, Full Ingestion, Verrelst Prep, Numbers Arsenal, Defense Strategy, Jury Prep, 36-Day Sprint, Victory Speech |
-| Hyperspectral Methods — Deep Reference | `f5b6cff5-2d39-4431-8fa8-f4c5f3acaa40` | All 15 wiki/concepts pages + Code Ingestion |
-| Job Search — Post-Defense Strategy | `da39982c-a4cf-4039-93d4-ceda231196ec` | Hot Opportunities, 90-Day Plan, Postdoc Applications, Hidden Strengths, Brag Doc, Money Overview, North Star, Who I Am Becoming |
-
----
-
-## CLI Quick Reference
-
-```bash
-# Set active notebook
-notebooklm use bb2823a9        # defense
-notebooklm use f5b6cff5        # methods
-notebooklm use da39982c        # jobs
-
-# Ask a question
-notebooklm ask "What are the three most likely Verrelst attack vectors?"
-notebooklm ask "Explain VCA-FCLS as if I'm defending it to a hostile jury"
-
-# Generate artifacts
-notebooklm generate audio      # podcast overview
-notebooklm generate quiz       # study quiz
-notebooklm generate flashcards # flashcards
-notebooklm generate mind-map   # mind map
-
-# Download artifacts
-notebooklm download audio      # saves audio file
-
-# List sources
-notebooklm source list
-
-# Add new source (.md files MUST use --mime-type text/plain)
-notebooklm source add --notebook bb2823a9 --type file --mime-type "text/plain" "path/to/file.md"
-
-# Refresh after vault updates
-notebooklm source refresh <source-id>
-```
-
----
-
-## Workflow: Defense Prep
-
-1. `notebooklm use bb2823a9`
-2. `notebooklm ask "Generate 10 hard questions Verrelst would ask about my RPI methodology"`
-3. `notebooklm generate quiz` → download and study
-4. `notebooklm generate audio` → listen as podcast
-
-## Workflow: Update After Vault Changes
-
-When you update a defense prep file, refresh it:
-```bash
-notebooklm use bb2823a9
-notebooklm source list   # find the source ID
-notebooklm source refresh <id>
-```
-
----
-
-## Notes
-
-- Unofficial reverse-engineered API — Google can break it without warning
-- Re-authenticate if it stops working: `notebooklm login`
-- Sessions expire: re-run `notebooklm login` every few weeks
-
-
----
-
-*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/setup/Plugin Guide.md (~673 words)
-================================================================================
----
-generated_by: claude
-date: 2026-05-26
-updated: 2026-06-07
-tags:
-  - obsidian
-  - plugins
-  - setup
-  - topic/work
-type: work-note
-status: active
-created: '2026-06-07'
----
-
-# Obsidian Plugin Guide
-
-14 community plugins installed and enabled. **6 added 2026-06-07.**
-
----
-
-## obsidian-git (Vinzent03)
-
-**What it does:** Auto-commits and syncs the vault to GitHub every 20 minutes.
-
-**Config set:**
-- Auto-commit every **20 minutes** (when Obsidian is open)
-- Pull on startup (gets latest from GitHub before you start)
-- Commit message: `vault: auto-backup YYYY-MM-DD HH:mm:ss`
-- Pull before push: enabled
-- Status bar: shows git status
-
-**Manual commands (Cmd/Ctrl+P → "Git"):**
-- `Git: Create backup` — commit + push right now
-- `Git: Pull` — pull latest from remote
-- `Git: Open source control view` — see changed files
-- `Git: Open history` — browse commit history
-
-**Remote:** https://github.com/Appiie/abdelhak-vault.git
-
----
-
-## Dataview (blacksmithgu)
-
-**What it does:** Query your vault like a database. Live tables and lists from file metadata and content.
-
-**Config set:**
-- DataviewJS enabled (JavaScript queries)
-- Inline queries enabled
-- Task completion tracking on
-- HTML rendering allowed
-
-**Where it's used:**
-- `Dashboard.md` — defense countdown + live tables of all active files
-- `Home.md` — mission control
-
-**Basic syntax:**
-```dataview
-TABLE file.mtime AS "Updated"
-FROM "02_Academic & Work/thesis/defense-prep"
-SORT file.mtime DESC
-```
-
-```dataviewjs
-const days = Math.ceil((new Date("2026-06-30") - new Date()) / 86400000);
-dv.paragraph(`${days} days to defense`);
-```
-
-**Add metadata to any note for Dataview to pick up:**
-```yaml
----
-status: in-progress
-priority: high
-deadline: 2026-06-30
----
-```
-
----
-
-## Templater (SilentVoid13)
-
-Auto-fill templates with dynamic content (dates, prompts, etc.).
-
----
-
-## Tasks (obsidian-tasks-plugin)
-
-Track tasks across the vault with due dates, priorities, recurrence.
-
-**Syntax:**
-```
-- [ ] Write slide 5 📅 2026-06-01 ⏫
-```
-
-**Query all urgent tasks:**
-```tasks
-not done
-priority is high
-```
-
----
-
-## Excalidraw
-
-Draw diagrams inside Obsidian. Create new: `Cmd+P → Excalidraw: Create new`.
-
----
-
-## Charts
-
-Render charts from data. Useful for plotting XRF values or accuracy metrics inline.
-
----
-
-## Style Settings
-
-Adjust theme appearance. `Cmd+P → Style Settings`.
-
----
-
-## Spaced Repetition (st3v3nmw) — NEW
-
-Daily flashcard review. Implements SM-2 algorithm — cards space out as you master them.
-
-**Flashcard file:** `thesis/defense-prep/Flashcards — Defense.md`
-
-**Syntax:**
-```
-Question::Answer          ← single-line card
-Question:::Answer         ← reversed (shows answer first too)
-```
-Multi-line:
-```
-Question
-?
-Answer
-```
-Cloze: `==highlighted text==` becomes a fill-in-the-blank card.
-
-**Workflow:** Open `Flashcards — Defense.md` → ribbon icon "Review flashcards" → rate each card Easy/Good/Hard.
-
----
-
-## Citations (hans) — NEW
-
-Search your Zotero library from inside Obsidian and insert `[@citekey]` references.
-
-**Config:** Points to `thesis/references.bib` (your 292-ref Better BibTeX export).
-**Commands:** `Ctrl+P → Citations: Insert Markdown citation` or `Citations: Open literature note`
-**Literature notes:** Auto-created in `thesis/literature-notes/` with full metadata template.
-
----
-
-## QuickAdd (chhoumann) — NEW
-
-4 capture macros bound to commands:
-
-| Macro | What it does |
-|-------|-------------|
-| 💡 Capture Idea | Appends timestamped idea to `wiki/hot.md` |
-| 🌐 New Domain Lead | Creates domain lead file from template |
-| 💼 New Job Application | Creates job application file from template |
-| 🎓 Defense Q&A Entry | Appends Q&A block to `thesis/defense-prep/Defense QA.md` |
-
-Access: `Ctrl+P → QuickAdd: ...`
-
----
-
-## Kanban (mgmeyers) — NEW
-
-Two active boards:
-- `work/active/Job Pipeline.md` — job search stages (To Apply → Letter Drafted → Sent → Interview → Offer)
-- `money/domaining/Domain Outreach Pipeline.md` — domain sales stages
-
-Open any `.md` file with `kanban-plugin: basic` frontmatter to get the board view.
-
----
-
-## Linter (platers) — NEW
-
-Runs automatically on save. Enforces:
-- Consistent heading spacing
-- No trailing whitespace
-- Proper ellipsis formatting
-- YAML `updated:` timestamp on save
-
-Ignores: `.raw/`, `.claude/`, `thesis/references.bib`
-
----
-
-## Natural Language Dates (argenos) — NEW
-
-Type `@today`, `@tomorrow`, `@next monday`, `@june 25` anywhere — converts to ISO date on trigger.
-
-Works inline in Tasks plugin: `- [ ] Submit ETH application @june 25`
-Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and it auto-converts.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]]*
-
-
-
-================================================================================
-FILE: 02_Academic & Work/work/meetings/README.md (~156 words)
-================================================================================
----
-tags:
-  - inbox
-  - meetings
-  - topic/work
-type: work-note
-status: active
-created: '2026-05-27'
----
-
-# Meetings Inbox
-
-Drop raw meeting notes here before processing.
-
-## Usage
-
-1. Export or write your note in this folder
-2. File naming: `YYYY-MM-DD <Topic or Person>.md`
-3. Run `/om-intake` — classifies, routes, and clears the inbox automatically
-
-## What `/om-intake` does with each file
-
-| Detected content | Destination |
-|-----------------|-------------|
-| 1-on-1 with a person | `work/1-1/<Person> YYYY-MM-DD.md` |
-| Project update | Append to `work/active/<Project>.md` |
-| Decision reached | New Decision Record + `work/Index.md` |
-| Action item | `- [ ]` in the relevant note |
-| Win / recognition | `perf/Brag Doc.md` |
-| New person mentioned | Stub in `org/people/<Name>.md` |
-| Blocker identified | `## Blockers` section in active note |
-
-For freeform unstructured content, use `/om-dump` instead.
-
-
----
-
-*Related: [[02_Academic & Work/work/Index|Work Index]] · [[02_Academic & Work/org/People & Context|People & Context]]*
 
 
