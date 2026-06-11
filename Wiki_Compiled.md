@@ -21,6 +21,9 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/Literature MOC.md](#-file-04_knowledge-base-wiki-literature-moc-md) (~120 words)
 - [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
+- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~126 words)
+- [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
+- [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/sources/BoardmanJWKruse.md](#-file-04_knowledge-base-wiki-sources-boardmanjwkruse-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataProductsQuality.md](#-file-04_knowledge-base-wiki-sources-dataproductsquality-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataSeries2017.md](#-file-04_knowledge-base-wiki-sources-dataseries2017-md) (~50 words)
@@ -329,9 +332,6 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
 - [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
-- [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
-- [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
-- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~126 words)
 
 
 
@@ -1126,6 +1126,195 @@ created: '2026-05-24'
 ## Meta
 - [[04_Knowledge Base/wiki/hot]] — session context (Claude reads first)
 - [[01_System/graphify-out/GRAPH_REPORT|Graph Report]] — Network analysis of the vault structure
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md
+
+---
+tags:
+---
+
+
+# Wiki-Concept MOC
+
+> Auto-generated index for wiki-concept concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Waste Rock Characterization]] — Added automatically.
+- [[VNIR-SWIR Spectroscopy]] — Added automatically.
+- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
+- [[Spectral Library Matching]] — Added automatically.
+- [[Spectral Analysis]] — Added automatically.
+- [[Spatially Constrained Cross-Validation]] — Added automatically.
+- [[Shannon Entropy Uncertainty]] — Added automatically.
+- [[Reclamation Progress Index]] — Added automatically.
+- [[Reclamation Monitoring]] — Added automatically.
+- [[PRISMA Satellite]] — Added automatically.
+- [[Phosphate Mine Waste]] — Added automatically.
+- [[Mineral Assemblages]] — Added automatically.
+- [[Machine Learning for Hyperspectral]] — Added automatically.
+- [[Hyperspectral Imaging]] — Added automatically.
+- [[Handheld XRF]] — Added automatically.
+- [[EnMAP Satellite]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/entities/Gantour Basin.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Gantour Basin
+
+## Overview
+The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
+
+---
+
+## Geography
+
+| Parameter | Value |
+|-----------|-------|
+| Location | Central Morocco, Marrakech-Safi region |
+| Approximate coordinates | ~32°N, ~7.5–8°W |
+| Area | ~1,600 km² (basin extent) |
+| Key city | Benguerir (study site) |
+| Distance from Marrakech | ~70 km north |
+
+---
+
+## Geological Setting
+
+**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
+
+**Stratigraphy (simplified):**
+```
+Top: Quaternary alluvium + lacustrine deposits
+     └─ Eocene marls and limestones
+     └─ Paleocene phosphate layers (economic horizon)
+          ├─ Phosphate series: francolite in marl/limestone matrix
+          ├─ Interbedded clays (illite, smectite)
+          └─ Carbonate-rich beds (calcite, dolomite)
+Bottom: Cretaceous basement
+```
+
+**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
+
+---
+
+## Mineralogy of the Deposit
+
+The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
+
+| Component | Role |
+|-----------|------|
+| Francolite | Economic phosphate mineral (ore) |
+| Calcite/dolomite | Carbonate gangue |
+| Illite/smectite | Clay gangue |
+| Quartz | Silica gangue |
+| Iron oxides | Accessory weathering products |
+
+---
+
+## Mining at Benguerir
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group (Office Chérifien des Phosphates) |
+| Mining method | Open-pit, strip mining |
+| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
+| Annual ore production | ~4 Mt/year (approx.) |
+| Annual waste generation | ~12.3 Mt/year |
+| Mine area (thesis study zone) | ~36 km² |
+
+**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
+
+---
+
+## Environmental Significance
+
+1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
+2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
+3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
+4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
+
+---
+
+## Morocco's Strategic Role
+Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
+
+---
+
+## Related Concepts
+- [[OCP Group and Benguerir Mine]]
+- [[Phosphate Mine Waste]]
+- [[Mineral Assemblages]]
+- [[Reclamation Monitoring]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# OCP Group & Benguerir Mine
+
+## OCP Group
+- **Full name:** Office Chérifien des Phosphates (OCP Group)
+- **Headquarters:** Casablanca, Morocco
+- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
+- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
+
+## Benguerir Mine
+- **Location:** Benguerir, Marrakech-Safi region, Morocco
+- **Type:** Open-pit phosphate mine
+- **Context:** Active phosphate extraction generating large waste rock dumps
+- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
+
+## Why This Site?
+1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
+2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
+3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
+4. Environmental importance — waste rock management is an OCP priority
+5. Data access — UM6P-OCP relationship facilitates ground truth collection
+
+## Phosphate Mineralogy at Benguerir
+Key minerals to characterize:
+- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
+- **Carbonates:** calcite, dolomite (buffering capacity)
+- **Clay minerals:** kaolinite, smectite, illite
+- **Iron minerals:** goethite, hematite (AMD indicator)
+- **Accessory:** quartz, feldspar
+
+## Reclamation Context
+OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
+Abdelhak's thesis monitors this process using PRISMA time series.
+
+## Related Pages
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- UM6P (entity note not yet created)
+
+## Potential Industry Application
+OCP Group is a natural client for remote sensing consulting post-defense.  
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
@@ -9989,194 +10178,5 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 - [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
 - [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
 - [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/entities/Gantour Basin.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Gantour Basin
-
-## Overview
-The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
-
----
-
-## Geography
-
-| Parameter | Value |
-|-----------|-------|
-| Location | Central Morocco, Marrakech-Safi region |
-| Approximate coordinates | ~32°N, ~7.5–8°W |
-| Area | ~1,600 km² (basin extent) |
-| Key city | Benguerir (study site) |
-| Distance from Marrakech | ~70 km north |
-
----
-
-## Geological Setting
-
-**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
-
-**Stratigraphy (simplified):**
-```
-Top: Quaternary alluvium + lacustrine deposits
-     └─ Eocene marls and limestones
-     └─ Paleocene phosphate layers (economic horizon)
-          ├─ Phosphate series: francolite in marl/limestone matrix
-          ├─ Interbedded clays (illite, smectite)
-          └─ Carbonate-rich beds (calcite, dolomite)
-Bottom: Cretaceous basement
-```
-
-**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
-
----
-
-## Mineralogy of the Deposit
-
-The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
-
-| Component | Role |
-|-----------|------|
-| Francolite | Economic phosphate mineral (ore) |
-| Calcite/dolomite | Carbonate gangue |
-| Illite/smectite | Clay gangue |
-| Quartz | Silica gangue |
-| Iron oxides | Accessory weathering products |
-
----
-
-## Mining at Benguerir
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group (Office Chérifien des Phosphates) |
-| Mining method | Open-pit, strip mining |
-| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
-| Annual ore production | ~4 Mt/year (approx.) |
-| Annual waste generation | ~12.3 Mt/year |
-| Mine area (thesis study zone) | ~36 km² |
-
-**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
-
----
-
-## Environmental Significance
-
-1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
-2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
-3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
-4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
-
----
-
-## Morocco's Strategic Role
-Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
-
----
-
-## Related Concepts
-- [[OCP Group and Benguerir Mine]]
-- [[Phosphate Mine Waste]]
-- [[Mineral Assemblages]]
-- [[Reclamation Monitoring]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# OCP Group & Benguerir Mine
-
-## OCP Group
-- **Full name:** Office Chérifien des Phosphates (OCP Group)
-- **Headquarters:** Casablanca, Morocco
-- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
-- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
-
-## Benguerir Mine
-- **Location:** Benguerir, Marrakech-Safi region, Morocco
-- **Type:** Open-pit phosphate mine
-- **Context:** Active phosphate extraction generating large waste rock dumps
-- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
-
-## Why This Site?
-1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
-2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
-3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
-4. Environmental importance — waste rock management is an OCP priority
-5. Data access — UM6P-OCP relationship facilitates ground truth collection
-
-## Phosphate Mineralogy at Benguerir
-Key minerals to characterize:
-- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
-- **Carbonates:** calcite, dolomite (buffering capacity)
-- **Clay minerals:** kaolinite, smectite, illite
-- **Iron minerals:** goethite, hematite (AMD indicator)
-- **Accessory:** quartz, feldspar
-
-## Reclamation Context
-OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
-Abdelhak's thesis monitors this process using PRISMA time series.
-
-## Related Pages
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- UM6P (entity note not yet created)
-
-## Potential Industry Application
-OCP Group is a natural client for remote sensing consulting post-defense.  
-→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md
-
----
-tags:
----
-
-
-# Wiki-Concept MOC
-
-> Auto-generated index for wiki-concept concepts.
-
----
-
-## 📂 Core Concepts
-- [[Waste Rock Characterization]] — Added automatically.
-- [[VNIR-SWIR Spectroscopy]] — Added automatically.
-- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
-- [[Spectral Library Matching]] — Added automatically.
-- [[Spectral Analysis]] — Added automatically.
-- [[Spatially Constrained Cross-Validation]] — Added automatically.
-- [[Shannon Entropy Uncertainty]] — Added automatically.
-- [[Reclamation Progress Index]] — Added automatically.
-- [[Reclamation Monitoring]] — Added automatically.
-- [[PRISMA Satellite]] — Added automatically.
-- [[Phosphate Mine Waste]] — Added automatically.
-- [[Mineral Assemblages]] — Added automatically.
-- [[Machine Learning for Hyperspectral]] — Added automatically.
-- [[Hyperspectral Imaging]] — Added automatically.
-- [[Handheld XRF]] — Added automatically.
-- [[EnMAP Satellite]] — Initial concept.
-
----
-*Related: [[Home|Mission Control]]*
 
 
