@@ -2234,7 +2234,7 @@ created: '2026-06-06'
 
 
 ================================================================================
-FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5231 words)
+FILE: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md (~5470 words)
 ================================================================================
 ---
 generated_by: claude
@@ -2284,6 +2284,7 @@ created: '2026-06-09'
 | **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Dr. Anna Sorrentino Letter]] | - [ ] Not Contacted |
 | **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc|Dr. Tobias Storch Letter]] | - [ ] Not Contacted |
 | **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Pr. Osvaldo Valeria Letter]] | - [ ] Not Contacted |
+| **INERIS Spontaneous** | INERIS | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous|INERIS Spontaneous Letter]] | - [ ] Not Contacted |
 
 ---
 
@@ -2806,6 +2807,32 @@ UM6P, Maroc
 ```
 
 ---
+
+---
+
+### 👤 INERIS Spontaneous (INERIS — 🇫🇷 France)
+**Email Address**: `recrutement@ineris.fr`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:recrutement@ineris.fr?subject=Candidature%20spontan%C3%A9e%20postdoctorat%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20hyperspectrale%20et%20apr%C3%A8s-mine%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%2C%20Monsieur%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20des%20%C3%A9quipes%20de%20l%27INERIS%20%28notamment%20le%20P%C3%B4le%20Apr%C3%A8s-Mine%29.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20de%20doctorat%20le%2030%20juin%202026.%0A%0AMes%20travaux%20de%20recherche%20portent%20sur%20la%20caract%C3%A9risation%20des%20d%C3%A9chets%20miniers%20et%20le%20suivi%20de%20leur%20r%C3%A9habilitation%20par%20t%C3%A9l%C3%A9d%C3%A9tection%20hyperspectrale%20%28VNIR-SWIR%29%20satellitaire%20%28PRISMA%2C%20EnMAP%29%20et%20spectroscopie%20de%20terrain%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20%28DRX%2C%20FRX%29.%20J%27ai%20d%C3%A9velopp%C3%A9%20un%20Indice%20de%20Performance%20de%20R%C3%A9habilitation%20%28RPI%29%20qui%20s%27aligne%20directement%20avec%20vos%20mod%C3%A9lisations%20de%20risques%20et%20l%27Indice%20%C3%89cologique%20de%20Pr%C3%A9occupation%20%28EIoC%29%20de%20l%27INERIS.%0A%0AJe%20joins%20mon%20CV%20ainsi%20qu%27une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20pour%20votre%20consid%C3%A9ration.%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20par%20visioconf%C3%A9rence.%0A%0AEn%20vous%20remerciant%20pour%20votre%20temps%20et%20l%27int%C3%A9r%C3%AAt%20que%20vous%20porterez%20%C3%A0%20ma%20candidature%2C%20je%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%2C%20Monsieur%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Candidature spontanée postdoctorat — Télédétection hyperspectrale et après-mine — Dr Abdelhak EL MANSOUR
+
+Madame, Monsieur,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein des équipes de l'INERIS (notamment le Pôle Après-Mine). Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse de doctorat le 30 juin 2026.
+
+Mes travaux de recherche portent sur la caractérisation des déchets miniers et le suivi de leur réhabilitation par télédétection hyperspectrale (VNIR-SWIR) satellitaire (PRISMA, EnMAP) et spectroscopie de terrain, validés par géochimie (DRX, FRX). J'ai développé un Indice de Performance de Réhabilitation (RPI) qui s'aligne directement avec vos modélisations de risques et l'Indice Écologique de Préoccupation (EIoC) de l'INERIS.
+
+Je joins mon CV ainsi qu'une lettre de motivation détaillée décrivant mon parcours pour votre considération. Je serais ravi de pouvoir échanger brièvement par visioconférence.
+
+En vous remerciant pour votre temps et l'intérêt que vous porterez à ma candidature, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
 
 ---
 
