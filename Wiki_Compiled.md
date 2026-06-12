@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 320 | **Total Word Count**: ~32239 words
+> **Total Files Compiled**: 320 | **Total Word Count**: ~32253 words
 
 ## 📂 Table of Contents
 
@@ -328,7 +328,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~256 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~505 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~519 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
 - [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
@@ -9901,6 +9901,7 @@ This distribution is **mineralogically consistent** with phosphate waste rock: c
 - [[Hyperspectral Imaging]]
 - [[Mineral Assemblages]]
 - [[Spectral Unmixing VCA-FCLS]]
+- [[04_Archives/D-Drive/D-Drive — ecospeclib]] — full ECOSTRESS library on D:\\ (3,105 spectra, downloaded 2024-10-02)
 
 ---
 
