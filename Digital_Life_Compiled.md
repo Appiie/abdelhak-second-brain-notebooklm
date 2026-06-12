@@ -8,7 +8,7 @@ summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Digital_Life
 
 > **Theme Summary**: Personal identity, domain portfolio, and mindset logs.
-> **Total Files Compiled**: 18 | **Total Word Count**: ~10818 words
+> **Total Files Compiled**: 18 | **Total Word Count**: ~10839 words
 
 ## 📂 Table of Contents
 
@@ -28,7 +28,7 @@ summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 - [03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md](#-file-03_digital-life-money-domaining-domain-portfolio-analysis-—-top-5-to-market-md) (~1296 words)
 - [03_Digital Life/money/domaining/Domain Portfolio.md](#-file-03_digital-life-money-domaining-domain-portfolio-md) (~821 words)
 - [03_Digital Life/money/domaining/Flashcards — Domains.md](#-file-03_digital-life-money-domaining-flashcards-—-domains-md) (~575 words)
-- [03_Digital Life/money/instagram/Instagram Strategy.md](#-file-03_digital-life-money-instagram-instagram-strategy-md) (~350 words)
+- [03_Digital Life/money/instagram/Instagram Strategy.md](#-file-03_digital-life-money-instagram-instagram-strategy-md) (~371 words)
 - [03_Digital Life/money/instagram/Sponsorship Pipeline.md](#-file-03_digital-life-money-instagram-sponsorship-pipeline-md) (~651 words)
 
 
@@ -1667,6 +1667,9 @@ Expected spike: potentially 5K-15K new followers around defense announcement.
 - Explain spectral signatures in accessible way
 - "What do mining satellites see?" content
 - Behind-the-scenes of data analysis
+
+## Content Assets
+- [[04_Archives/D-Drive/D-Drive — DESIGNS-STICK]] — 57 original PNG sticker/meme designs on D:\\ (design #1–139, most recent June 2025)
 
 ## Collaboration Log
 | Brand/Partner | Offer | Decision | Date | Notes |
