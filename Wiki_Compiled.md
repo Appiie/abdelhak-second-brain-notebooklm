@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 320 | **Total Word Count**: ~32253 words
+> **Total Files Compiled**: 323 | **Total Word Count**: ~33472 words
 
 ## 📂 Table of Contents
 
@@ -316,11 +316,14 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023a-md) (~73 words)
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023b-md) (~72 words)
 - [04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md](#-file-04_knowledge-base-wiki-sources-zouhricretaceoustertiaryplateaus2008-md) (~59 words)
+- [04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md](#-file-04_knowledge-base-wiki-concepts-atmospheric-absorption-windows-in-prisma-md) (~373 words)
 - [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
 - [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
 - [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
 - [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-band-removal-—-multi-criterion-method-md) (~358 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md](#-file-04_knowledge-base-wiki-concepts-prisma-band-quality-map-—-benguerir-acquisition-md) (~488 words)
 - [04_Knowledge Base/wiki/concepts/PRISMA Satellite.md](#-file-04_knowledge-base-wiki-concepts-prisma-satellite-md) (~382 words)
 - [04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mine-waste-md) (~492 words)
 - [04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md](#-file-04_knowledge-base-wiki-concepts-reclamation-monitoring-md) (~664 words)
@@ -8619,6 +8622,60 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md
+
+---
+date: 2026-06-12
+tags:
+summary: "SWIR wavelength ranges where atmospheric water vapor and CO₂ absorb radiation, making PRISMA bands at those positions unreliable for surface reflectance."
+created: 2026-06-12
+aliases:
+---
+
+
+# Atmospheric Absorption Windows in PRISMA
+
+Atmospheric gases — primarily water vapor (H₂O) and carbon dioxide (CO₂) — absorb incoming solar radiation at specific wavelengths. PRISMA bands that fall inside these absorption windows record atmospheric absorption rather than surface reflectance, making them useless for mineralogical analysis. They are flagged as bad bands during preprocessing.
+
+---
+
+## Primary Absorption Windows (SWIR)
+
+| Window | Wavelength range | PRISMA band indices | Main absorber |
+|--------|-----------------|---------------------|--------------|
+| First water vapor | ~1350–1460 nm | 140–150 (11 bands) | H₂O |
+| Second water vapor | ~1750–1980 nm | 192–196 (5 bands) | H₂O |
+| CO₂ + H₂O | ~2000–2050 nm | partially overlaps edge | CO₂ / H₂O |
+
+The bands at indices 140–150 are the most heavily affected: they show simultaneously Low Entropy, Extreme Kurtosis, and High Skewness in the Benguerir scene — signature of near-total atmospheric absorption driving all pixels toward a uniform near-zero value.
+
+---
+
+## Why These Bands Cannot Be Rescued by Atmospheric Correction
+
+Atmospheric correction algorithms (6SV, ATCOR, PRISMA-L2D) model the atmospheric path radiance and transmittance, but inside an absorption window the surface signal is reduced to near zero — multiplicative correction amplifies noise to infinity. Standard practice is to simply exclude these bands from analysis.
+
+---
+
+## Implication for Mineralogy
+
+The 2200 nm clay absorption feature (Al-OH) and the 2150 nm phosphate (PO₄) absorption feature both fall **outside** these windows, in clear-sky transmittance regions. The ECOSTRESS spectral library matching and ML classification in the thesis work on the 173-band clean subset that excludes all three windows above.
+
+The 1000–1300 nm range (short SWIR) is unaffected and is particularly valuable for iron oxide discrimination.
+
+---
+
+## Related Concepts
+
+- [[PRISMA Band Quality Map — Benguerir Acquisition]] — specific bad band indices from the Benguerir scene
+- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — how these bands are detected statistically
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — instrument spectral range
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]] — downstream band use for mineralogy
+- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source analysis on D:\
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md
 
 ---
@@ -9154,6 +9211,146 @@ Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative 
 - [[Phosphate Mine Waste]]
 - [[Handheld XRF]]
 - [[Gantour Basin]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Five statistical criteria used to flag unusable PRISMA bands before spectral analysis — entropy, SNR, kurtosis, skewness, and regular problem intervals."
+created: 2026-06-12
+aliases:
+---
+
+
+# PRISMA Bad Band Removal — Multi-Criterion Method
+
+Bad band removal is the first preprocessing step before any spectral analysis of PRISMA imagery. A band is flagged as bad if it meets one or more of five criteria applied per-band across the full scene.
+
+---
+
+## The Five Criteria
+
+| Criterion | What it detects |
+|-----------|----------------|
+| **Low Entropy** | Spectrally homogeneous band — near-zero information (often edge bands, calibration failures) |
+| **High Entropy** | Excessively noisy band — random response, no spectral structure |
+| **Low SNR** | Signal-to-noise ratio below threshold — noise dominates reflectance |
+| **Extreme Kurtosis** | Heavy-tailed pixel distribution — outlier-dominated, sensor artifacts |
+| **High Skewness** | Strongly asymmetric pixel distribution — systematic bias |
+| **Regular Problem Interval** | Systematic periodic bad bands at fixed indices — likely VNIR/SWIR detector boundary or calibration pattern |
+
+Multiple criteria can co-occur on the same band. The Benguerir acquisition analysis shows 19 bands flagged with three simultaneous criteria (Low Entropy + Extreme Kurtosis + High Skewness), indicating corrupted detector elements rather than simple noise.
+
+---
+
+## Output
+
+The method produces a binary `Bad_Band` mask (True/False) per band. Only `Bad_Band=False` bands enter downstream analysis (spectral library matching, ML classification, unmixing).
+
+Applied to the Benguerir PRISMA acquisition: **66 of 239 bands removed → 173 usable bands**.
+
+---
+
+## Why Multiple Criteria Matter
+
+A single-criterion mask (SNR only) would miss edge bands with decent SNR but zero information content. Conversely, entropy alone would miss genuinely noisy mid-SWIR bands with normal entropy. The composite approach catches four distinct failure modes independently.
+
+---
+
+## Related Concepts
+
+- [[PRISMA Band Quality Map — Benguerir Acquisition]] — the actual numbers from applying this method
+- [[Atmospheric Absorption Windows in PRISMA]] — the wavelength-domain explanation for the largest bad band clusters
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — instrument context
+- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source CSVs on D:\
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]] — downstream use of cleaned bands
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Specific bad band index ranges and statistics from the PRISMA scene analysis at Benguerir — 173 good bands retained from 239 total."
+created: 2026-06-12
+aliases:
+---
+
+
+# PRISMA Band Quality Map — Benguerir Acquisition
+
+Quantitative output of the [[PRISMA Bad Band Removal — Multi-Criterion Method]] applied to the Benguerir phosphate mine PRISMA scene used in thesis Chapter 2.
+
+---
+
+## Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total PRISMA bands | 239 |
+| Bad bands flagged | 66 |
+| **Good bands retained** | **173** |
+| Good band index range | 12–218 (with internal gaps) |
+| SNR range (good bands) | 0.873 – 1.437 |
+| Mean SNR (good bands) | 1.377 |
+
+---
+
+## Bad Band Index Map
+
+| Index range | Band count | Primary reason |
+|-------------|-----------|----------------|
+| 0–11 | 12 | Low Entropy (VNIR detector edge — zero / near-zero values) |
+| 14–21 | 8 | Low Entropy (blue-edge calibration zone) |
+| 30 | 1 | Regular Problem Interval |
+| 50 | 1 | Regular Problem Interval |
+| 66–67 | 2 | Low SNR |
+| 100 | 1 | Regular Problem Interval |
+| 140–150 | 11 | Low Entropy + Extreme Kurtosis + High Skewness (water vapor window) |
+| 192–196 | 5 | Low SNR (second water vapor absorption region) |
+| 200 | 1 | Regular Problem Interval |
+| 210–213 | 4 | Low Entropy |
+| 219–238 | 20 | Low Entropy (SWIR detector edge — zero values) |
+
+The largest gap (bands 140–150) corresponds to an atmospheric absorption window in the SWIR. See [[Atmospheric Absorption Windows in PRISMA]].
+
+---
+
+## Breakdown by Removal Reason
+
+| Reason | Band count |
+|--------|-----------|
+| Low Entropy | 20 |
+| Low Entropy + Extreme Kurtosis + High Skewness | 19 |
+| Low SNR | 17 |
+| Regular Problem Interval | 4 |
+| High Entropy (noisy) | 1 |
+| Other compound reasons | 5 |
+| **Total bad** | **66** |
+
+---
+
+## Interpretation for Thesis
+
+The 173-band subset represents the spectrally valid VNIR+SWIR range for Benguerir. The SWIR edge bands (219–238) are discarded because the PRISMA SWIR detector has a sharp sensitivity rolloff beyond ~2400 nm. The regular problem intervals (30, 50, 100, 200) likely correspond to known PRISMA inter-detector calibration artifacts.
+
+This band mask is the direct input to the ML classification pipeline in Chapter 2 (Extra Trees, Random Forest: BAC = 0.60–0.67 across 4 lithological classes).
+
+---
+
+## Related Concepts
+
+- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — the method that produced this map
+- [[Atmospheric Absorption Windows in PRISMA]] — wavelength context for the largest gaps
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — sensor specs
+- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source files on D:\
+- [[02_Academic & Work/thesis/Thesis Overview]] — Chapter 2 results using these 173 bands
 
 
 
