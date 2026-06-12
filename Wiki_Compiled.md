@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 323 | **Total Word Count**: ~33472 words
+> **Total Files Compiled**: 333 | **Total Word Count**: ~36316 words
 
 ## 📂 Table of Contents
 
@@ -317,7 +317,17 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023b-md) (~72 words)
 - [04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md](#-file-04_knowledge-base-wiki-sources-zouhricretaceoustertiaryplateaus2008-md) (~59 words)
 - [04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md](#-file-04_knowledge-base-wiki-concepts-atmospheric-absorption-windows-in-prisma-md) (~373 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-benguerir-scene-hdf5-md) (~249 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-false-color-composition-r-md) (~263 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-python-rasterio-display-md) (~212 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-random-forest-classification-r-md) (~341 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-spectral-signature-extraction-r-md) (~253 words)
+- [04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-ensemble-band-selection-md) (~366 words)
+- [04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-spectral-derivatives-pipeline-md) (~374 words)
+- [04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-morocco-map-r-script-md) (~185 words)
+- [04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md](#-file-04_knowledge-base-wiki-concepts-code-—-neon-tutorial-dataset-sjer-md) (~216 words)
 - [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
+- [04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md](#-file-04_knowledge-base-wiki-concepts-ensemble-spectral-band-selection-—-feilhauer-method-md) (~326 words)
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
 - [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
 - [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
@@ -330,7 +340,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md](#-file-04_knowledge-base-wiki-concepts-reclamation-progress-index-md) (~549 words)
 - [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~256 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~315 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~519 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
@@ -8676,6 +8686,568 @@ The 1000–1300 nm range (short SWIR) is unaffected and is particularly valuable
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Raw PRISMA Level-2D HDF5 acquisition for Benguerir (2022-02-12), the earliest PRISMA scene used in the PhD."
+aliases:
+---
+
+
+# Code — BGimageR — PRISMA Benguerir Scene HDF5
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `PRS_L2D_STD_20220212112444_20220212112448_0001.he5` |
+| Format | HDF5 (PRISMA L2D standard) |
+| Acquisition | 2022-02-12, 11:24:44–11:24:48 UTC |
+| Size | ~2 GB |
+| Location | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
+
+## Derived Files (same folder)
+
+| File | Format | Content |
+|------|--------|---------|
+| `L2DPRISMASpectralCube.tif` | GeoTIFF | Full spectral cube exported from HDF5 (~1.3 GB) |
+| `PRS_L2D_STD_..._Cube` | ENVI binary | Full cube (no extension) |
+| `PRS_L2D_STD_..._SWIR_Cube` | ENVI binary | SWIR sub-cube only |
+| `PRS_L2D_STD_..._VNIR_Cube` | ENVI binary | VNIR sub-cube only |
+| Matching `.hdr` files | ENVI header | Band/wavelength metadata |
+
+## Context
+
+This is the **earliest PRISMA scene** in the D:\\ archive, acquired before the bulk of thesis analysis was conducted. The Feb 2022 acquisition was used for exploratory code development in R (BGimageR scripts). Later analysis likely used scenes from 2023–2024 stored in `PHD-2nd` or `PHD-3rd`.
+
+The scene covers the Benguerir phosphate mining area, OCP Group concession, Youssoufia region, Morocco.
+
+## Links
+
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+- [[Code — BGimageR — PRISMA False Color Composition R]]
+- [[Code — BGimageR — PRISMA Spectral Signature Extraction R]]
+- [[Code — BGimageR — PRISMA Random Forest Classification R]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R script for PRISMA false color composite visualization using raster + randomForest. Early exploratory code."
+---
+
+
+# Code — BGimageR — PRISMA False Color Composition R
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `false color composition code.R` |
+| Path | [file:///D:/Code/BGimageR/false%20color%20composition%20code.R](file:///D:/Code/BGimageR/false%20color%20composition%20code.R) |
+| Language | R |
+| Packages | `raster`, `randomForest` |
+| Status | Exploratory / incomplete |
+
+## Purpose
+
+Loads the PRISMA spectral cube (`L2DPRISMASpectralCube.tif`) and produces a false color composite visualization with a custom 11-color palette. Also attempts (unsuccessfully) to run Random Forest classification directly on the raster object.
+
+## Code Summary
+
+```r
+# Load hyperspectral image
+data <- raster("...L2DPRISMASpectralCube.tif")
+
+# False color composite
+plot(data, col = colorRampPalette(c("white","brown",...,"black"))(255))
+
+# RF classification (broken — raster object not directly usable as RF input)
+features <- randomForest(x = data, y = data@data$class, ntree = 500)
+```
+
+## Notes & Caveats
+
+- The Random Forest call is **broken** — `raster` objects cannot be fed directly to `randomForest()`; training data must be extracted as a matrix first.
+- This is early-stage exploration code from ~2022–2023, not a finalized pipeline.
+- Output images: `FALSe color compoition map2.png`, `false colors 3.png`, `FLASE COLOR COMPOSITION MAP.png`, `levelplotmap.png`, `map.png`, `map2.png` (all in the same folder).
+
+## Reusable Pattern
+
+The false color composite pattern with `colorRampPalette` on a raster band is valid for quick visualization. The RF workflow was later properly implemented in Python (SCSE-CNN pipeline in thesis Ch.2).
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Python script using rasterio to display PRISMA TIF with cartopy projection — early exploratory."
+---
+
+
+# Code — BGimageR — PRISMA Python Rasterio Display
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `tiffPYTHON.py` |
+| Path | [file:///D:/Code/BGimageR/tiffPYTHON.py](file:///D:/Code/BGimageR/tiffPYTHON.py) |
+| Language | Python |
+| Packages | `rasterio`, `cartopy`, `matplotlib` |
+
+## Purpose
+
+Opens `L2DPRISMASpectralCube.tif` with `rasterio` and attempts to display it with a `PlateCarree` cartopy projection, coastlines, and axis labels.
+
+## Code
+
+```python
+import rasterio
+from rasterio.plot import show
+import matplotlib.pyplot as plt
+
+fp = r'D:\\Code\\BGimageR\\L2DPRISMASpectralCube.tif'
+img = rasterio.open(fp)
+
+projection = ccrs.PlateCarree()  # BUG: ccrs not imported
+fig, ax = plt.subplots(subplot_kw={'projection': projection})
+ax.imshow(img, transform=projection)  # BUG: rasterio dataset ≠ numpy array
+ax.coastlines()
+```
+
+## Bugs
+
+- `ccrs` used without `import cartopy.crs as ccrs`
+- `ax.imshow(img, ...)` — `rasterio.open()` returns a `DatasetReader`, not an array; should use `rasterio.plot.show()` or `img.read(1)` to get an array
+
+## Reusable Pattern (corrected)
+
+```python
+import rasterio
+import cartopy.crs as ccrs
+import matplotlib.pyplot as plt
+
+with rasterio.open('L2DPRISMASpectralCube.tif') as src:
+    band = src.read(1)
+    extent = [src.bounds.left, src.bounds.right, src.bounds.bottom, src.bounds.top]
+
+fig, ax = plt.subplots(subplot_kw={'projection': ccrs.PlateCarree()})
+ax.imshow(band, extent=extent, origin='upper', transform=ccrs.PlateCarree())
+ax.coastlines()
+plt.show()
+```
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R scripts attempting Random Forest land cover classification on PRISMA hyperspectral data — early exploratory, not production-grade."
+---
+
+
+# Code — BGimageR — PRISMA Random Forest Classification R
+
+## Scripts
+
+| File | Path |
+|------|------|
+| `Testcode2.R` | [file:///D:/Code/BGimageR/Testcode2.R](file:///D:/Code/BGimageR/Testcode2.R) |
+| `Testcode3.R` | [file:///D:/Code/BGimageR/Testcode3.R](file:///D:/Code/BGimageR/Testcode3.R) |
+
+## Purpose
+
+Exploratory attempts to classify PRISMA pixels into land cover categories (water, vegetation, bare soil, urban) using Random Forest regression/classification in R.
+
+## Workflow (Testcode3.R — most complete version)
+
+```r
+# 1. Load PRISMA cube
+image_data <- raster("...PRS_L2D_STD_..._Cube")
+
+# 2. Subset to region of interest
+image_subset <- crop(image_data, extent(760000, 765000, 4625000, 4635000))
+
+# 3. Random sample training pixels
+training_points <- sampleRandom(image_subset, size = 100, na.rm = TRUE)
+
+# 4. Convert to dataframe with wavelengths as column names
+training_data <- as.data.frame(cbind(coordinates(training_points), as.vector(training_points)))
+colnames(training_data) <- c("x", "y", wavelengths)
+
+# 5. Define labels manually (unrealistic for 4 classes over 100 points)
+training_labels <- c("water", "vegetation", "bare soil", "urban")
+
+# 6. RF model
+model <- randomForest(as.factor(training_labels) ~ ., data = training_data)
+
+# 7. Predict + overlay on hillshade
+classified_image <- predict(image_subset, model)
+hillshade <- hillShade(image_data, 45, 315)
+```
+
+## Limitations / Why This Wasn't Used
+
+- Labels are defined manually as a 4-element vector — doesn't match the 100 sampled pixels. **Model would fail at runtime.**
+- `getwavelenght()` is a typo — no such R function. Should be a custom vector from `.hdr` metadata.
+- `classiy()` (Testcode2.R) is a typo for `classify()`, which doesn't exist in `raster` for RF either — `predict()` is the correct function.
+- Hillshade from a hyperspectral multi-band raster is conceptually wrong (`hillShade()` expects elevation/slope/aspect).
+- These scripts were never completed. The actual thesis ML pipeline uses Python (PyTorch SCSE-CNN), not R.
+
+## Historical Context
+
+These represent the **earliest ML experiments** (~2022–2023) before the thesis methodology settled on Python deep learning. They show the evolution from simple RF in R toward the SCSE-CNN approach.
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R scripts for extracting and plotting PRISMA spectral signatures from the Benguerir scene — early exploratory code."
+---
+
+
+# Code — BGimageR — PRISMA Spectral Signature Extraction R
+
+## Scripts
+
+| File | Path |
+|------|------|
+| `Spectral signature of prisma.R` | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
+| `testcodeforHSI.R` | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
+
+## Purpose
+
+Attempts to:
+1. Load PRISMA scene as a `RasterBrick` (multi-band raster)
+2. Extract spectral signature for individual pixels or spatial subsets
+3. Plot wavelength vs. reflectance curves
+
+## Key Patterns
+
+```r
+# Load multi-band PRISMA TIF as brick
+prisma <- brick("D:/Code/BGimageR/L2DPRISMASpectralCube.tif")
+
+# Plot spectral signature of a pixel [x, band, y]
+plot(prisma[x,,y], xlab = "Wavelength (nm)", ylab = "Reflectance")
+
+# Crop to region of interest
+img_cropped <- crop(img, extent(xmin, xmax, ymin, ymax))
+
+# Median filter (EBImage)
+filtered_img <- medianFilter(img, radius = 3)
+```
+
+## Notes & Caveats
+
+- `testcodeforHSI.R` is a **scratchpad** — contains broken syntax (bare `-----------` lines) and unfilled placeholder variables (`x`, `y`, `xmin`). Not runnable as-is.
+- Uses `ncell()` as a proxy for wavelength vector — incorrect; wavelengths should come from the `.hdr` or HDF5 metadata.
+- `Spectral signature of prisma.R` uses `ggplot(prisma_maps)` incorrectly — `ggplot2` cannot directly accept a `RasterStack`; `as.data.frame(rasterToPoints())` is needed.
+
+## Reusable Technique
+
+The `brick()` + `plot(brick[row,,col])` pattern is valid for quick spectral profile extraction in R. For production use, `extract()` with point coordinates is more reliable.
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Multi-method ensemble spectral band selection function (PLSR + RF + SVM + GPR) by Khalil Misbah — adapted from Feilhauer et al."
+aliases:
+---
+
+
+# Code — Khalil — Ensemble Band Selection
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `ensembleAlg.R` |
+| Path | [file:///D:/Code/Code-khalil/ensembleAlg.R](file:///D:/Code/Code-khalil/ensembleAlg.R) |
+| Author | Khalil Misbah (khalil.misbah@um6p.ma) |
+| Based on | Feilhauer et al. `rse09382-mmc` codebase |
+| Language | R 4.1.1 |
+| Packages | `pls 2.8.0`, `randomForest 4.7.1`, `e1071 1.7.9`, `caret`, `kernlab` |
+
+## Purpose
+
+Selects the most informative spectral bands from a hyperspectral dataset by running **four regression models** and combining their variable importance scores into a weighted ensemble. Bands above `mean + sd` of the ensemble score are selected.
+
+## Algorithm
+
+```
+Input:
+  x   — spectral matrix (samples × bands)
+  y   — response variable (e.g., mineral content %)
+  wl  — wavelength vector
+
+Models run:
+  1a. PLSop  — Optimized PLSR (automatic LV selection via onesigma rule, jackknife)
+  1b. PLS    — PLSR via caret 10-fold CV
+  2.  RF     — Random Forest (500 trees, %IncMSE variable importance)
+  3.  SVR    — Support Vector Regression (ε-SVR, grid search over C and γ)
+  4.  GPR    — Gaussian Process Regression (caret, radial kernel, 10-fold CV)
+
+Ensemble:
+  ensemblecf = |PLSop_coef|×R²_PLSop + |PLS_coef|×R²_PLS 
+             + |RF_importance|×R²_RF + |SVR_coef|×R²_SVR 
+             + |GPR_coef|×R²_GPR
+
+Selection threshold:
+  th = mean(ensemblecf) + sd(ensemblecf)
+  Selected bands: ensemblecf > th
+```
+
+## Output
+
+Returns a list with:
+- `selection` — matrix of per-model coefficients + ensemble score + binary selection flag (rows × bands)
+- `fits` — R² values for each model
+- `threshold` — the selection threshold value
+- `PLSop`, `PLS`, `RF`, `SVR`, `GPR` — trained model objects
+
+## Visualization
+
+`plot.ensemble()` renders a heatmap of ensemble scores with overlaid model-specific coefficient curves, highlighting selected bands.
+
+## Relevance to Thesis
+
+This ensemble approach to band selection is methodologically related to thesis Ch.1 (field spectroscopy spectral indices) and Ch.2 (PRISMA band optimization). The Feilhauer framework is established in vegetation remote sensing; application to mine waste rock minerals is a direct extension.
+
+## Links
+
+- [[Code — Khalil — Spectral Derivatives Pipeline]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R Markdown pipeline for spectral preprocessing: noise filtering, continuum removal, 1st/2nd derivatives, CWT — by Khalil Misbah."
+aliases:
+---
+
+
+# Code — Khalil — Spectral Derivatives Pipeline
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `DERIVATIVES.Rmd` |
+| Path | [file:///D:/Code/Code-khalil/DERIVATIVES.Rmd](file:///D:/Code/Code-khalil/DERIVATIVES.Rmd) |
+| Author | Khalil Misbah (UM6P) |
+| Language | R Markdown |
+| Packages | `hsdar`, `car`, `readr`, `wmtsa`, `janitor` |
+
+## Input Data
+
+| File | Description |
+|------|-------------|
+| `fieldSamples.txt` | Raw reflectance matrix (bands × samples) |
+| `wvl.txt` | Wavelength vector |
+| `nutrientSamples.txt` | Soil/mineral response variable |
+
+## Processing Pipeline
+
+```
+1. Load raw reflectance → transpose to (samples × bands) matrix
+2. Build hsdar speclib object with wavelength metadata
+3. Apply atmospheric mask (1349–1459 nm, 1793–1958 nm)
+4. Noise filtering: Savitzky-Golay (sgolay, n=5)
+5. Continuum removal → band depth transformation (method = "ch")
+6. 1st derivative (Savitzky-Golay)
+7. 2nd derivative (Savitzky-Golay)
+8. CWT (Continuous Wavelet Transform): gaussian2 wavelet, 8 scales
+   → sum of scale 2 + scale 3 components
+9. Export all transformed spectra + nutrients to .txt files:
+   rawBind.txt, rawContBind.txt, Der1Bind.txt, Der2Bind.txt
+```
+
+## Key Techniques
+
+**Continuum removal** — Divides spectrum by the convex hull baseline; produces band depth (BD) values emphasizing absorption features. Standard in mineralogical spectroscopy.
+
+**Savitzky-Golay derivative** — Fits local polynomials to compute derivatives while minimizing noise amplification. n=5 window used here.
+
+**CWT with gaussian2** — Second-order Gaussian (= Mexican Hat) wavelet. Effective for locating inflection points in spectral profiles (mineral absorption edge positions). Scales 2+3 sum selected here.
+
+## Atmospheric Mask Applied
+
+- `1349–1459 nm` — water vapor absorption (overlaps PRISMA bad band zone)
+- `1793–1958 nm` — CO₂/H₂O absorption (overlaps PRISMA bad band zone)
+
+These mask ranges are consistent with the bad bands identified in [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]].
+
+## Relevance to Thesis
+
+Spectral derivative preprocessing (1st/2nd order) and continuum removal are standard methods for phosphate mineral identification at field scale (Ch.1). The same preprocessing philosophy (SG filtering + feature extraction) is applied in the thesis hyperspectral pipeline.
+
+## Links
+
+- [[Code — Khalil — Ensemble Band Selection]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R script to generate a Morocco map with ggplot2 + rnaturalearth — utility visualization script."
+---
+
+
+# Code — Morocco Map R Script
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `MoroccomapR.R` |
+| Path | [file:///D:/Code/MoroccomapR.R](file:///D:/Code/MoroccomapR.R) |
+| Output | `MoroccanMAP.png` |
+| Language | R |
+| Packages | `ggplot2`, `rnaturalearth`, `rnaturalearthdata` |
+
+## Purpose
+
+Generates a zoomed map of southwestern Morocco centered at lat 28.77, lon -9.5 (Saharan region, not Benguerir). Minor syntax errors present (missing `+` continuation for `coord_sf`).
+
+## Reusable Pattern
+
+```r
+library(ggplot2)
+library(rnaturalearth)
+library(rnaturalearthdata)
+
+morocco_map <- ne_countries(scale = "medium", country = "Morocco", returnclass = "sf")
+
+ggplot() +
+  geom_sf(data = morocco_map) +
+  coord_sf(xlim = c(-18, -1), ylim = c(21, 36))  # full Morocco extent
+```
+
+For a Benguerir-centered map, use `xlim = c(-9, -6.5)`, `ylim = c(32, 33.5)`.
+
+## Notes
+
+The center coordinates in the script (lat 28.77, lon -9.5) point to southern Morocco (Anti-Atlas region), not Benguerir (lat ~32.2, lon ~-7.9). Possibly created for a different visualization.
+
+## Links
+
+- [[04_Archives/D-Drive/D-Drive — Code]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md
+
+---
+date: 2026-06-12
+tags:
+summary: "NEON Field Site Spatial Data for SJER (California) — LiDAR tutorial dataset, no thesis research value."
+---
+
+
+# Code — NEON Tutorial Dataset SJER
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| Source | NEON (National Ecological Observatory Network) |
+| Site | SJER — San Joaquin Experimental Range, California, USA |
+| Path | [file:///D:/Code/NEONDSFieldSiteSpatialData/](file:///D:/Code/NEONDSFieldSiteSpatialData/) |
+| Size | ~758 MB (GeoTIFFs + shapefiles) |
+
+## Contents
+
+| Type | Files |
+|------|-------|
+| Digital Surface Model (DSM) | `SJER2013_DSM.tif`, hillshade, overviews |
+| Digital Terrain Model (DTM) | `SJER2013_DTM.tif`, hillshade, overviews |
+| Canopy Height Model (CHM) | `CHM_SJER.tif` |
+| Plot centroids | `SJERPlotCentroids.csv` + buffer shapefiles |
+| Vegetation structure | `D17_2013_vegStr.csv`, `D17_2013_SOAP_vegStr.csv` |
+| Hyperspectral bands | `band19.tif`, `band34.tif`, `band58.tif`, `band90.tif` (NEON AOP) |
+
+## Research Value
+
+**No direct thesis value.** This is a standard NEON Data Skills tutorial dataset used for learning LiDAR processing and CHM extraction workflows in R. Stored in D:\Code because it was downloaded during early-PhD R skill development (~2022–2023).
+
+## Potential Use
+
+The CHM extraction workflow (DSM − DTM = CHM) and plot-based sampling approach could be adapted for structural analysis of Benguerir waste rock dumps, but this is not a thesis objective.
+
+## Links
+
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md
 
 ---
@@ -8776,6 +9348,70 @@ CRS: **EPSG:32629** (WGS84 UTM Zone 29N — Benguerir is ~32°N, 7.8°W)
 - [[PRISMA Satellite]]
 - [[Reclamation Monitoring]]
 - [[Reclamation Progress Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Feilhauer multi-model ensemble method for spectral band importance ranking: combines PLSR, RF, SVM, GPR variable importances weighted by model R²."
+aliases:
+---
+
+
+# Ensemble Spectral Band Selection — Feilhauer Method
+
+## What It Is
+
+A model-agnostic band selection framework for hyperspectral data that avoids over-reliance on any single regression method. Published originally by Hannes Feilhauer (Univ. Erlangen-Nürnberg) as supplementary code for a Remote Sensing of Environment paper (`rse09382-mmc`).
+
+## Core Idea
+
+Run multiple regression models on the same spectral dataset, extract their band importance/coefficient profiles, weight each profile by that model's cross-validated R², and sum into a composite "ensemble score." Bands above `mean + sd` of the ensemble score are retained.
+
+## Models Combined
+
+| Model | Variable Importance Source | Typical Strength |
+|-------|---------------------------|-----------------|
+| PLSop | Regression coefficients (jackknife PLSR, onesigma LV selection) | Collinear predictors |
+| PLS | caret PLSR variable importance | Robust cross-validation |
+| RF | %IncMSE (500 trees) | Non-linear interactions |
+| SVR | Pseudo-coefficients from α-vector | SVM decision boundary |
+| GPR | caret Gaussian Process variable importance | Probabilistic uncertainty |
+
+## Ensemble Formula
+
+```
+ensemble_score(b) = Σ_m |coeff_m(b)| × R²_m
+```
+
+All coefficients are first standardized by their standard deviation to make scales comparable across models.
+
+## Output Interpretation
+
+- High ensemble score → band consistently important across multiple model types → robust selection
+- Selected band set is likely to remain stable across different spectral preprocessing choices
+
+## Application Context
+
+Originally developed for vegetation trait mapping from field spectroscopy. Directly applicable to:
+- Mineral abundance prediction from ASD/SVC field spectra
+- PRISMA band subset selection for mineralogical mapping
+- Any hyperspectral regression problem where band redundancy is high
+
+## Implementation
+
+See [[Code — Khalil — Ensemble Band Selection]] for the UM6P-adapted R implementation.
+
+## Links
+
+- [[Code — Khalil — Ensemble Band Selection]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
 
 
 
@@ -9978,6 +10614,15 @@ Quantitative analysis of electromagnetic reflectance spectra to identify and cha
 - **Field:** ASD FieldSpec 4 (350–2500 nm, 1 nm sampling)
 - **Satellite Ch.2:** [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] (~250 bands, 30m)
 - **Satellite Ch.3:** [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] (189 valid bands, 30m)
+
+## Band Selection
+
+- [[04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method]] — PLSR+RF+SVM+GPR ensemble; selects bands by multi-model R²-weighted importance
+- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection]] — UM6P R implementation
+
+## Spectral Preprocessing (Derivatives & Transforms)
+
+- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline]] — SG filter, continuum removal, 1st/2nd derivatives, CWT (gaussian2 wavelet)
 
 ## Related
 
