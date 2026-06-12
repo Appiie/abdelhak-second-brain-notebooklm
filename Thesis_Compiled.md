@@ -8,14 +8,14 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 20 | **Total Word Count**: ~17703 words
+> **Total Files Compiled**: 20 | **Total Word Count**: ~17712 words
 
 ## 📂 Table of Contents
 
 - [Home.md](#-file-home-md) (~881 words)
 - [02_Academic & Work/thesis/Pipeline_MOC.md](#-file-02_academic-&-work-thesis-pipeline_moc-md) (~232 words)
 - [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~954 words)
-- [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~815 words)
+- [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
 - [02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md](#-file-02_academic-&-work-thesis-literature-notes-@elmansour2025sensors-md) (~193 words)
 - [02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md](#-file-02_academic-&-work-thesis-literature-notes-@roberts2019unmixing-md) (~184 words)
 - [02_Academic & Work/thesis/literature-notes/@verrelst2021review.md](#-file-02_academic-&-work-thesis-literature-notes-@verrelst2021review-md) (~222 words)
@@ -404,7 +404,7 @@ created: '2026-06-08'
 | Supervisor | [[02_Academic & Work/org/people/Ahmed Laamrani\|Pr. Ahmed LAAMRANI]] |
 | Pages | 155 |
 | Defense | ~June 2026 |
-| Study site | Benguerir Mine, Morocco ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]] phosphate) |
+| Study site | Benguerir Mine, Morocco ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine\|OCP Group]] phosphate) · field photos → [[04_Archives/D-Drive/D-Drive — Photo-mine-BENG\|Photo mine BENG]] |
 
 ---
 
