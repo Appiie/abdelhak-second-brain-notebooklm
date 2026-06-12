@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 333 | **Total Word Count**: ~36316 words
+> **Total Files Compiled**: 336 | **Total Word Count**: ~37616 words
 
 ## 📂 Table of Contents
 
@@ -326,6 +326,9 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-spectral-derivatives-pipeline-md) (~374 words)
 - [04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-morocco-map-r-script-md) (~185 words)
 - [04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md](#-file-04_knowledge-base-wiki-concepts-code-—-neon-tutorial-dataset-sjer-md) (~216 words)
+- [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
+- [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
+- [04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md](#-file-04_knowledge-base-wiki-concepts-ecostress-spectral-library-md) (~390 words)
 - [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
 - [04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md](#-file-04_knowledge-base-wiki-concepts-ensemble-spectral-band-selection-—-feilhauer-method-md) (~326 words)
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
@@ -340,8 +343,8 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md](#-file-04_knowledge-base-wiki-concepts-reclamation-progress-index-md) (~549 words)
 - [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~315 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~519 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~345 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~582 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
 - [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
@@ -9248,6 +9251,174 @@ The CHM extraction workflow (DSM − DTM = CHM) and plot-based sampling approach
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md
+
+---
+tags:
+created: '2026-06-12'
+summary: "Detailed analysis of how the ECOSTRESS Spectral Library was applied in Chapter 1 of the thesis for matching 104 ASD field spectrometer samples."
+---
+
+
+# ECOSTRESS Application in Thesis Chapter 1
+
+In Chapter 1 of the thesis (published in *Sensors 2025*), the ECOSTRESS Spectral Library was used as the reference baseline to validate mineralogical identifications of phosphate waste rock samples via reflectance spectroscopy.
+
+## Context and Workflow
+1. **Field Sampling**: Reflectance spectra were measured from **104 representative waste rock samples** from the Benguerir mine using an **ASD FieldSpec 4 spectroradiometer** (spectral range: 350–2500 nm, resampled to a 1 nm step).
+2. **Preprocessing**: Spectra were smoothed using a Savitzky-Golay filter (window size = 7, polynomial order = 2) and min-max normalized to standard range.
+3. **Reference Loading**: Out of the global library, **1,609 ECOSTRESS mineral spectra** representing families relevant to semi-arid phosphate environments were loaded.
+4. **Curation**: A site-specific subset of **15 curated target minerals** was selected for Benguerir:
+   * *Carbonates*: Calcite, Dolomite
+   * *Clays/Silicates*: Illite, Montmorillonite, Kaolinite
+   * *Silica*: Quartz
+   * *Phosphate*: Generic Apatite ($\text{Ca}_5(\text{PO}_4)_3\text{F}$)
+
+---
+
+## Spectral Matching Metrics & Performance
+Matching was computed by evaluating similarity between each field-measured spectrum and the reference database across **four distinct metrics**:
+* **RMSE (Root Mean Square Error)**: Measures overall baseline fit and shape similarity (weighted $5\times$ in the $2100-2300\ \text{nm}$ phosphate absorption window).
+* **SAM (Spectral Angle Mapper)**: Measures vector angle deviation, ensuring brightness-invariant shape matching.
+* **SID (Spectral Information Divergence)**: Computes thermodynamic probability divergence to identify subtle band shapes.
+* **$R^2$ (Coefficient of Determination)**: Assesses the proportion of variance explained by the reference spectrum.
+
+### Validation Results (Confirmed against Thesis Manuscript)
+The following matching statistics are confirmed directly by the thesis numbers database in [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy]]:
+* **Mean $R^2$**: $0.748 \pm 0.170$
+* **$R^2 > 0.70$ Frequency**: $84\%$ of measured spectra
+* **Mean RMSE**: $0.15 \pm 0.053$
+* **Median SAM**: $0.134\ \text{rad}$
+* **Median SID**: $0.029$
+
+---
+
+## Known Limitations and Mitigations
+1. **Clay Masking**: Strong Al-OH absorption features (~$2200\ \text{nm}$) of clay minerals (illite, montmorillonite) often masked the weaker $\text{PO}_4$ absorption features (~$2150\ \text{nm}$) of apatite, ranking apatite lower in purely spectral rankings (typically 3rd to 7th). This was mitigated by cross-validating with Handheld XRF (HHXRF) elemental assays (P₂O₅ content up to $23.86\ \text{wt}\%$ in apatite-rich samples).
+2. **Library Incompleteness**: The actual phosphate mineral dominant in Benguerir (francolite/carbonate fluorapatite) is absent from the ECOSTRESS library, requiring the use of generic "Apatite" as a spectral proxy.
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming|ECOSTRESS Library File Structure and Naming]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md
+
+---
+tags:
+created: '2026-06-12'
+summary: "Description of the directory structure and filename pattern used in the ECOSTRESS Spectral Library."
+---
+
+
+# ECOSTRESS Library File Structure and Naming
+
+The physical archive of the ECOSTRESS Spectral Library is structured as a flat folder containing paired spectrum and metadata text files. Understanding this structure is essential for programmatic parsing, filtering, and resampling during preprocessing pipelines.
+
+## Flat Directory Structure
+As registered in the physical drive index note [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib]] at `D:\ecospeclib-1727712223018\`, the library contains **3,105 flat text files** consisting of:
+* **`Manifest.txt`**: A central ledger describing each sample dataset.
+* **Spectrum and Ancillary pairs**: Every specimen is represented by two complementary text files:
+  1. A `.spectrum.txt` file containing the actual numeric measurement data.
+  2. An `.ancillary.txt` file containing metadata about the sample's origin, chemistry, and experimental conditions.
+
+---
+
+## Filename Naming Pattern
+The filenames follow a highly structured dot-separated naming convention that encodes key classification hierarchies:
+
+```
+[class].[subclass].[subclass2].[grain_size].[spectral_range].[sample_id].[laboratory].[instrument].[type].txt
+```
+
+### Breakdown of Naming Fields:
+1. **`class`**: Broad taxonomy classification.
+   * *Examples*: `mineral`, `rock`, `soil`, `vegetation`, `nonphotosynthetic`.
+2. **`subclass`**: Geochemical or taxonomy group.
+   * *Examples*: `carbonate`, `silicate`, `phosphate`, `broadleaf`, `conifer`.
+3. **`subclass2`**: Secondary subclass descriptor or `none` if not applicable.
+4. **`grain_size`**: Grain size class.
+   * *Examples*: `coarse`, `medium`, `fine`, `solid`, `none`.
+5. **`spectral_range`**: Wavelength window of the measurement.
+   * *Examples*: 
+     * `vswir`: Visible to Shortwave Infrared ($0.35\ \mu\text{m} - 2.5\ \mu\text{m}$).
+     * `tir`: Thermal Infrared ($2.5\ \mu\text{m} - 15.4\ \mu\text{m}$).
+6. **`sample_id`**: Internal laboratory specimen identifier (e.g., `a-1a`, `t-1a`).
+7. **`laboratory`**: Laboratory of origin.
+   * *Examples*: `jpl` (Jet Propulsion Laboratory), `usgs` (USGS Spectroscopy Lab), `jhu` (Johns Hopkins University).
+8. **`instrument`**: Measuring equipment.
+   * *Examples*: `beckman` (Beckman UV-Vis-NIR spectrometer), `nicolet` (Nicolet FTIR spectrometer), `perkin` (PerkinElmer).
+9. **`type`**: The contents of the text file.
+   * `spectrum.txt`: Contains two columns (typically wavelength/wavenumber in microns and reflectance/emittance as a percentage or fraction).
+   * `ancillary.txt`: Human-readable description, chemical formula, specimen location, and purity assessments.
+
+### Example File Pair:
+* **Spectrum data**: `mineral.phosphate.none.coarse.vswir.a-1a.jpl.beckman.spectrum.txt`
+* **Ancillary metadata**: `mineral.phosphate.none.coarse.vswir.a-1a.jpl.beckman.ancillary.txt`
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md
+
+---
+tags:
+created: '2026-06-12'
+summary: "Overview of the ECOSTRESS Spectral Library (formerly ASTER), a comprehensive reference database used for mineral and vegetation spectroscopy."
+---
+
+
+# ECOSTRESS Spectral Library
+
+The **ECOSTRESS Spectral Library** is a comprehensive public repository of laboratory-measured reflectance spectra covering a wide spectral range from the Visible to Shortwave Infrared (VSWIR) to the Thermal Infrared (TIR) ($0.35\ \mu\text{m}$ to $15.4\ \mu\text{m}$). It is maintained jointly by NASA's Jet Propulsion Laboratory (JPL) and the USGS.
+
+## Origin and Evolution
+* **ASTER Library roots**: The database evolved from the **ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer) Spectral Library Version 2.0**.
+* **ECOSTRESS expansion**: In support of the ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station) mission launched in June 2018, the library was expanded to include extensive leaf-level and canopy spectra of green vegetation and non-photosynthetic vegetation (NPV). 
+* **Renaming**: With the addition of these biological spectra, the repository was renamed the **ECOSTRESS Spectral Library Version 1.0**.
+
+## Core Content Classes
+The library contains over 3,000 spectra classified into key material types:
+1. **Minerals**: Pure mineral specimens (carbonate, silicate, phosphate, sulfate, etc.) measured under controlled laboratory settings.
+2. **Rocks**: Igneous, metamorphic, and sedimentary rocks.
+3. **Soils**: Various soil types with different moisture and organic contents.
+4. **Vegetation**: Leaf-level spectra (VIS/SWIR and TIR) and non-photosynthetic vegetation (NPV).
+5. **Water, Ice, and Snow**: Reflectance/emittance baselines.
+6. **Man-made Materials**: Concrete, asphalt, paint, and other urban surfaces.
+
+## Significance in the Thesis
+In the context of the thesis (specifically Chapter 1/[[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]), the ECOSTRESS library serves as the master database of reference profiles used to validate and identify mineral groups in physical field samples.
+
+> [!NOTE]
+> * **Thesis Numbers Verification**: The total number of loaded ECOSTRESS spectra for the Chapter 1 pipeline (**1,609 spectra**) has been verified against the thesis numbers database in [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy (Ch.1 ECOSTRESS spectra total loaded)]].
+> * The physical copy of the library on the physical `D:` drive is registered at [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib]] (`D:\ecospeclib-1727712223018`, containing 3,105 files).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming|ECOSTRESS Library File Structure and Naming]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+* [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib Index]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md
 
 ---
@@ -10585,8 +10756,8 @@ Quantitative analysis of electromagnetic reflectance spectra to identify and cha
 ## Core Methods (used in Abdelhak's Thesis)
 
 ### Library Matching
-- Compare measured spectra to reference libraries (ECOSTRESS, USGS splib07)
-- Metrics: RMSE, SAM (Spectral Angle Mapper), SID (Spectral Information Divergence), R²
+- Compare measured spectra to reference libraries (e.g., [[ECOSTRESS Spectral Library]])
+- Metrics: RMSE, SAM, SID, $R^2$ (see [[ECOSTRESS Application in Thesis Chapter 1]] for setup)
 - Used in Ch.1 (field spectra) and Ch.2 (PRISMA)
 
 ### Spectral Unmixing
@@ -10626,10 +10797,12 @@ Quantitative analysis of electromagnetic reflectance spectra to identify and cha
 
 ## Related
 
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
-- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]
+- [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
+- [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
 
 
 
@@ -10651,13 +10824,13 @@ Spectral library matching identifies the mineralogy of an unknown spectrum by co
 
 ## Libraries Used in Abdelhak's Thesis
 
-### ECOSTRESS Spectral Library (splib07)
-- Maintained by USGS / JPL
-- ~2,400+ spectra across minerals, vegetation, man-made materials
-- For Benguerir work: 1,609 spectra parsed; 15 curated for phosphate waste rock minerals
-- URL: Available via USGS/EROS
-- Key minerals present: Calcite, Dolomite, Illite, Montmorillonite, Kaolinite, Quartz, Apatite Ca₅(PO₄)₃F
-- Key **absence**: Fluorapatite/francolite (francolite = carbonate fluorapatite, dominant phosphate in Benguerir) → known limitation
+### [[ECOSTRESS Spectral Library]]
+- Maintained by USGS / JPL.
+- Over 3,000 reference spectra (VIRS/TIR range) across minerals, vegetation, soils, and man-made materials.
+- For folder structure and filename formatting details, see [[ECOSTRESS Library File Structure and Naming]].
+- For details on how the library was loaded, curated, and matched against field samples, see [[ECOSTRESS Application in Thesis Chapter 1]].
+- Key minerals used: Calcite, Dolomite, Illite, Montmorillonite, Kaolinite, Quartz, Apatite $\text{Ca}_5(\text{PO}_4)_3\text{F}$.
+- Key **absence**: Francolite (carbonate fluorapatite, dominant phosphate in Benguerir) → known library limitation.
 
 ---
 
@@ -10730,9 +10903,8 @@ score = RMSE + SAM + SID
 ## Key Results from Thesis Ch.1 (104 samples)
 | Rank | Dominant mineral |
 |------|----------------|
-| 1–2 | Illite, Montmorillonite |
-| 3–4 | Dolomite, Quartz |
-| 5–7 | Apatite, Calcite, Kaolinite |
+| 1–2 | Illite, Montmorillonite (dominant surface clays) |
+| 3–7 | Apatite (spectrally recessive), Calcite, Quartz, Dolomite, Kaolinite |
 
 This distribution is **mineralogically consistent** with phosphate waste rock: clay gangue coats surfaces; carbonates and silica form the matrix; apatite is the economic mineral beneath.
 
@@ -10743,7 +10915,10 @@ This distribution is **mineralogically consistent** with phosphate waste rock: c
 - [[Hyperspectral Imaging]]
 - [[Mineral Assemblages]]
 - [[Spectral Unmixing VCA-FCLS]]
-- [[04_Archives/D-Drive/D-Drive — ecospeclib]] — full ECOSTRESS library on D:\\ (3,105 spectra, downloaded 2024-10-02)
+- [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib Index]] — full ECOSTRESS library on D:\\ (3,105 spectra, downloaded 2024-10-02)
+- [[ECOSTRESS Spectral Library]] — overview and material classes
+- [[ECOSTRESS Library File Structure and Naming]] — directory and filename naming conventions
+- [[ECOSTRESS Application in Thesis Chapter 1]] — matching setup and results in Chapter 1
 
 ---
 
