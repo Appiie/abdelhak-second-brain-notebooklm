@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 349 | **Total Word Count**: ~43121 words
+> **Total Files Compiled**: 351 | **Total Word Count**: ~43819 words
 
 ## 📂 Table of Contents
 
@@ -21,7 +21,8 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/Literature MOC.md](#-file-04_knowledge-base-wiki-literature-moc-md) (~120 words)
 - [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
-- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~126 words)
+- [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
+- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~230 words)
 - [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
 - [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/sources/BoardmanJWKruse.md](#-file-04_knowledge-base-wiki-sources-boardmanjwkruse-md) (~50 words)
@@ -270,6 +271,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964a.md](#-file-04_knowledge-base-wiki-sources-savitzkysmoothingdifferentiationdata1964a-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964b.md](#-file-04_knowledge-base-wiki-sources-savitzkysmoothingdifferentiationdata1964b-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/savitzkySmoothingDifferentiationData1964c.md](#-file-04_knowledge-base-wiki-sources-savitzkysmoothingdifferentiationdata1964c-md) (~52 words)
+- [04_Knowledge Base/wiki/sources/sayabFinlandCobalt2024.md](#-file-04_knowledge-base-wiki-sources-sayabfinlandcobalt2024-md) (~284 words)
 - [04_Knowledge Base/wiki/sources/schaepmanEarthSystemScience2009.md](#-file-04_knowledge-base-wiki-sources-schaepmanearthsystemscience2009-md) (~75 words)
 - [04_Knowledge Base/wiki/sources/scholzSustainableUsePhosphorus2013.md](#-file-04_knowledge-base-wiki-sources-scholzsustainableusephosphorus2013-md) (~63 words)
 - [04_Knowledge Base/wiki/sources/sealProgressGeoenvironmentalModels2002.md](#-file-04_knowledge-base-wiki-sources-sealprogressgeoenvironmentalmodels2002-md) (~57 words)
@@ -1159,6 +1161,50 @@ created: '2026-05-24'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md
+
+---
+tags:
+date: 2026-06-13
+summary: "Map of Content for Automated Mineralogy and XRF/Micro-XRF characterization methods."
+---
+
+
+# Automated Mineralogy MOC
+
+> Map of Content for Automated Mineralogy and XRF/Micro-XRF characterization methods.
+
+---
+
+## 📂 Core Concepts & Workflow
+- [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]] — what AMICS is, modules, and data layers
+- [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]] — definition, advantages, and comparison vs SEM-EDS
+- [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]] — Matrix/Segmentation/Hyper mapping, segmentation, and matching
+- [[04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree|AMICS Spectrum Tree]] — binning, filtering, and manual/automatic clustering
+- [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]] — grain zonation, shape factors, and elemental deportment
+
+## 🏕️ Training Samples & Data Assets
+- [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite|XRF Training Sample — Granite]] — block mapping, resolving perthite exsolution textures
+- [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite|XRF Training Sample — Pegmatite]] — Li pegmatite mineralogy, Li deportment, and scan speed optimization
+- [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite|XRF Training Sample — Chlorite]] — Mg, Al, Si light element detection under vacuum (2 mbar)
+- [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates|XRF Training Sample — Carbonates]] — calcite vs dolomite magnesium-based separation
+- [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis|XRF Training Sample — Particle Analysis]] — eclogite granulated particle mapping, BSE background thresholding
+- [[04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets|Data Asset — UM6P AMICS MicroXRF Training Datasets]] — inventory of .bcf/.spx/.lik files and instructions
+
+## 📈 Integration & Research Applications
+- [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|AMICS Automated Mineralogy in Phosphate Reclamation]] — ground-truth validation for remote sensing indices (RPI)
+- [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]] — primary thesis XRF baseline
+
+## 📄 Reference Literature
+- [[04_Knowledge Base/wiki/sources/menziesLithiumMineralCharacterisation2024|menziesLithiumMineralCharacterisation2024]] — iRIS 2024 pegmatite characterization
+- [[04_Knowledge Base/wiki/sources/sayabFinlandCobalt2024|sayabFinlandCobalt2024]] — Mineralium Deposita 2024 structural controls of cobalt mineralization
+
+---
+*Related: [[Home|Mission Control]] | [[04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC|Wiki-Concept MOC]]*
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md
 
 ---
@@ -1173,22 +1219,34 @@ tags:
 ---
 
 ## 📂 Core Concepts
-- [[Waste Rock Characterization]] — Added automatically.
-- [[VNIR-SWIR Spectroscopy]] — Added automatically.
-- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
-- [[Spectral Library Matching]] — Added automatically.
-- [[Spectral Analysis]] — Added automatically.
-- [[Spatially Constrained Cross-Validation]] — Added automatically.
-- [[Shannon Entropy Uncertainty]] — Added automatically.
-- [[Reclamation Progress Index]] — Added automatically.
-- [[Reclamation Monitoring]] — Added automatically.
-- [[PRISMA Satellite]] — Added automatically.
-- [[Phosphate Mine Waste]] — Added automatically.
-- [[Mineral Assemblages]] — Added automatically.
-- [[Machine Learning for Hyperspectral]] — Added automatically.
-- [[Hyperspectral Imaging]] — Added automatically.
-- [[Handheld XRF]] — Added automatically.
+- [[AMICS Automated Mineralogy]] — Added automatically.
+- [[AMICS Automated Mineralogy Workflow]] — Added automatically.
+- [[AMICS Automated Mineralogy in Phosphate Reclamation]] — Added automatically.
+- [[AMICS Spectrum Tree]] — Added automatically.
+- [[AMICS Target Mineral Quantification]] — Added automatically.
+- [[Data Asset — UM6P AMICS MicroXRF Training Datasets]] — Added automatically.
 - [[EnMAP Satellite]] — Initial concept.
+- [[Handheld XRF]] — Added automatically.
+- [[Hyperspectral Imaging]] — Added automatically.
+- [[Machine Learning for Hyperspectral]] — Added automatically.
+- [[Micro-XRF Spectroscopy]] — Added automatically.
+- [[Mineral Assemblages]] — Added automatically.
+- [[Phosphate Mine Waste]] — Added automatically.
+- [[PRISMA Satellite]] — Added automatically.
+- [[Reclamation Monitoring]] — Added automatically.
+- [[Reclamation Progress Index]] — Added automatically.
+- [[Shannon Entropy Uncertainty]] — Added automatically.
+- [[Spatially Constrained Cross-Validation]] — Added automatically.
+- [[Spectral Analysis]] — Added automatically.
+- [[Spectral Library Matching]] — Added automatically.
+- [[Spectral Unmixing VCA-FCLS]] — Added automatically.
+- [[VNIR-SWIR Spectroscopy]] — Added automatically.
+- [[Waste Rock Characterization]] — Added automatically.
+- [[XRF Training Sample — Carbonates]] — Added automatically.
+- [[XRF Training Sample — Chlorite]] — Added automatically.
+- [[XRF Training Sample — Granite]] — Added automatically.
+- [[XRF Training Sample — Particle Analysis]] — Added automatically.
+- [[XRF Training Sample — Pegmatite]] — Added automatically.
 
 ---
 *Related: [[Home|Mission Control]]*
@@ -7511,6 +7569,49 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/sayabFinlandCobalt2024.md
+
+---
+tags:
+created: '2026-06-13'
+---
+
+
+# 📄 Structural controls on cobalt mineralisation during regional metamorphism: an example from the Rajapalot area, Finland
+
+* **Authors:** Mohammad Sayab, A. Menzies, R. M. Palin, A. R. Butcher, N. Cook, J. Kuva, Q. Dehaine
+* **Published in:** *Mineralium Deposita* (2024)
+* **Zotero Link:** *Not in Zotero library yet.*
+* **Original File Link:** [Sayab-et-al_2024_Finland-Cobalt_s00126-024-01315-x.pdf](file:///D:/XRF%20training/UM6P%20Shared%20Files/Sayab-et-al_2024_Finland-Cobalt_s00126-024-01315-x.pdf)
+* **DOI:** [https://doi.org/10.1007/s00126-024-01315-x](https://doi.org/10.1007/s00126-024-01315-x)
+
+---
+
+## 💡 Key Takeaways
+
+* **Analytical Workflow**: Demonstrates a multi-scale, multi-modal characterization approach integrating 3D X-ray computed micro-tomography ($\mu\text{CT}$) with 2D micro-XRF raster mapping and SEM-EDS (AMICS) to study structural-mineralogical distributions.
+* **Geological Context**: Evaluates cobalt and gold-cobalt deposits in Finnish Lapland. Shows that cobalt mineralization (linnaeite $\text{Co}_3\text{O}_4$ and cobaltite $\text{CoAsS}$) is structurally controlled by folding, regional metamorphism, and foliation planes.
+* **Chlorite Alteration Association**: Identifies that cobalt minerals are spatially associated with distinct bands of chlorite-biotite alteration along foliation planes, with chlorite replacing primary amphibole/biotite.
+* **Micro-XRF vs. SEM Resolution**: Micro-XRF is used for rapid, non-destructive, decimeter-scale elemental mapping of cut drill cores to define the micro-structural fabric, while SEM-EDS provides sub-micron verification of specific sulfide zones.
+
+---
+
+## 🛠️ Methodology & Relevance to Abdelhak's Thesis
+
+* **Multi-Scale In-Situ Characterization**: Validates the upscaling workflow from laboratory micro-analysis to macro-scale deposit mapping, serving as a methodological analogue to Abdelhak's VNIR-SWIR ASD field unmixing to satellite hyperspectral (PRISMA/EnMAP) scaling.
+* **Chlorite Characterization**: Highlights the geochemical role of chlorite alteration zones, which are also monitored in mine waste piles at Benguerir as proxies for rock weathering and soil development.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+* [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite|XRF Training Sample — Chlorite]]
 
 
 
