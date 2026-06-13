@@ -8,13 +8,13 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 29 | **Total Word Count**: ~22672 words
+> **Total Files Compiled**: 29 | **Total Word Count**: ~23008 words
 
 ## 📂 Table of Contents
 
 - [Home.md](#-file-home-md) (~881 words)
 - [02_Academic & Work/thesis/Pipeline_MOC.md](#-file-02_academic-&-work-thesis-pipeline_moc-md) (~232 words)
-- [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~1218 words)
+- [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~1554 words)
 - [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-01-12.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-01-12-md) (~206 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-03-07.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-03-07-md) (~173 words)
@@ -314,12 +314,21 @@ SCALE ────────────────────────�
 |-------------|------|
 | Sensor | [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — ~239 bands, 30m, HDF5, Jan 2022 |
 | ML methods | [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]] — Extra Trees + RF best |
-| Feature selection | ANOVA nested in CV → 60 SWIR bands |
-| CV strategy | [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation]] — 30m buffer, 10 replicates |
-| Uncertainty | [[04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty]] — spatially structured at boundaries |
+| Feature selection | [[04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability\|ANOVA Wavelength Ranking & Selection Stability]] — ANOVA nested in CV → top 60 SWIR bands |
+| Preprocessing | [[04_Knowledge Base/wiki/concepts/PRISMA Image Preprocessing & Spectral Optimization\|PRISMA Image Preprocessing & Spectral Optimization]] — ENVI spatial alignment, atmospheric masking, Savitzky–Golay smoothing |
+| Spatial Filtering | [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering\|PRISMA Spatial Redundancy Filtering]] — deduplication of shared pixels, coordinates overlay |
+| CV strategy | [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2\|Spatially Constrained Cross-Validation in Chapter 2]] — 30m buffer, 10 replicates, random vs spatial CV |
+| Models & Baselines | [[04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models\|Lithological Classifier Configurations & Baseline Models]] — hyperparameters, class balancing, LightGBM/SAM baselines |
+| Lab Validation | [[04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels\|XRD and Petrographic Validation of Classification Labels]] — mineral phase XRD detection, microtextures in thin-sections |
+| Geochemistry | [[04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class\|Geochemical Summary Statistics by Lithological Class]] — Table S1 major oxide limits per class |
+| Ablation studies | [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies\|Feature Selection & Validation Ablation Studies]] — Tables S3 (full-band vs ANOVA-60), S4 (ANOVA vs MI), S5 (spatial vs random CV) |
+| Performance | [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics\|PRISMA Lithological Mapping Performance Metrics]] — Table 2 classification metrics, best model (Extra Trees), BA discrepancy |
+| Uncertainty | [[04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping\|Spatial Uncertainty & Posterior Probability Score Mapping]] — Shannon entropy, maximum posterior probabilities, calibration warning |
+| Geological setting | [[04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting\|Gantour Basin and Benguerir Mine Geological Setting]] — Gantour Basin geology, 3:1 stripping ratio, extraction stats |
 | 4 classes | [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]] — Phosphate rock, Siliceous, Marl, Limestone |
 | Result | BAC=0.60–0.67, AUC>0.95 (carbonates), <0.80 (phosphate/siliceous) |
 | Paper | Minerals 2026 (IF 2.2) — ACCEPTED ✅ |
+| Supplementary | [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 2 Supplementary Materials\|Data Asset — Chapter 2 Supplementary Materials]] — Supplementary Materials index and links |
 
 ---
 
@@ -382,6 +391,9 @@ SCALE ────────────────────────�
 | [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response]] | Reviewer 2 objections on sampling, grain size, and XRD/HHXRF QA |
 | [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response]] | Reviewer 3 objections on XRD validation and Muglight stability gate |
 | [[02_Academic & Work/thesis/defense-prep/Reviewer 4 Response]] | Reviewer 4 objections on Kubelka–Munk, outlier detection, and unmixing residuals |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2)]] | Reviewer 1 objections on spatial validation, geological validation, and feature importance (Chapter 2) |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response (Chapter 2)]] | Reviewer 2 objections on spatial autocorrelation, classifier choices, and scale mismatch (Chapter 2) |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)]] | Reviewer 3 objections on sample sizes, spectral features, and validation buffer (Chapter 2) |
 
 ---
 
