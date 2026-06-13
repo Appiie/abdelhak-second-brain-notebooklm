@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-12
+date: 2026-06-13
 tags: [knowledge, compiled, notebooklm, wiki]
 summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 336 | **Total Word Count**: ~37616 words
+> **Total Files Compiled**: 349 | **Total Word Count**: ~43121 words
 
 ## 📂 Table of Contents
 
@@ -223,6 +223,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/meerdinkECOSTRESSSpectralLibrary2019.md](#-file-04_knowledge-base-wiki-sources-meerdinkecostressspectrallibrary2019-md) (~65 words)
 - [04_Knowledge Base/wiki/sources/melganiClassificationHyperspectralRemote2004.md](#-file-04_knowledge-base-wiki-sources-melganiclassificationhyperspectralremote2004-md) (~66 words)
 - [04_Knowledge Base/wiki/sources/melganiSupportVectorMachines2002.md](#-file-04_knowledge-base-wiki-sources-melganisupportvectormachines2002-md) (~61 words)
+- [04_Knowledge Base/wiki/sources/menziesLithiumMineralCharacterisation2024.md](#-file-04_knowledge-base-wiki-sources-menzieslithiummineralcharacterisation2024-md) (~304 words)
 - [04_Knowledge Base/wiki/sources/meyerImportanceSpatialPredictor2019.md](#-file-04_knowledge-base-wiki-sources-meyerimportancespatialpredictor2019-md) (~65 words)
 - [04_Knowledge Base/wiki/sources/meznedPerspectiveChapterOptical2023.md](#-file-04_knowledge-base-wiki-sources-meznedperspectivechapteroptical2023-md) (~51 words)
 - [04_Knowledge Base/wiki/sources/mghazliDescriptionMicrobialCommunities2021.md](#-file-04_knowledge-base-wiki-sources-mghazlidescriptionmicrobialcommunities2021-md) (~69 words)
@@ -316,6 +317,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023a-md) (~73 words)
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023b-md) (~72 words)
 - [04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md](#-file-04_knowledge-base-wiki-sources-zouhricretaceoustertiaryplateaus2008-md) (~59 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-workflow-md) (~499 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-in-phosphate-reclamation-md) (~413 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-md) (~516 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md](#-file-04_knowledge-base-wiki-concepts-amics-spectrum-tree-md) (~441 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md](#-file-04_knowledge-base-wiki-concepts-amics-target-mineral-quantification-md) (~405 words)
 - [04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md](#-file-04_knowledge-base-wiki-concepts-atmospheric-absorption-windows-in-prisma-md) (~373 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-benguerir-scene-hdf5-md) (~249 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-false-color-composition-r-md) (~263 words)
@@ -326,6 +332,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-spectral-derivatives-pipeline-md) (~374 words)
 - [04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-morocco-map-r-script-md) (~185 words)
 - [04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md](#-file-04_knowledge-base-wiki-concepts-code-—-neon-tutorial-dataset-sjer-md) (~216 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-um6p-amics-microxrf-training-datasets-md) (~594 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md](#-file-04_knowledge-base-wiki-concepts-ecostress-spectral-library-md) (~390 words)
@@ -334,6 +341,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
 - [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
 - [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
+- [04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-micro-xrf-spectroscopy-md) (~440 words)
 - [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
 - [04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-band-removal-—-multi-criterion-method-md) (~358 words)
 - [04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md](#-file-04_knowledge-base-wiki-concepts-prisma-band-quality-map-—-benguerir-acquisition-md) (~488 words)
@@ -348,6 +356,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
 - [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-carbonates-md) (~331 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-chlorite-md) (~332 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-granite-md) (~326 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-particle-analysis-md) (~437 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-pegmatite-md) (~467 words)
 
 
 
@@ -6310,6 +6323,48 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/menziesLithiumMineralCharacterisation2024.md
+
+---
+tags:
+created: '2026-06-13'
+---
+
+
+# 📄 Lithium (Li) mineral characterization of drill cores and hand specimens: Supporting exploration with rapid mineralogy mapping
+
+* **Authors:** Andrew Menzies, Jorge Ferreira, Paula Avila, Nigel M. Kelly
+* **Published in:** *iRIS-2024 (The International Rock Imaging Summit, London)* (2024)
+* **Zotero Link:** *Not in Zotero library yet.*
+* **Original File Link:** [iRIS2024_LithiumMineralCharacterisation_Menziesetal.pdf](file:///D:/XRF%20training/UM6P%20Shared%20Files/iRIS2024_LithiumMineralCharacterisation_Menziesetal.pdf)
+
+---
+
+## 💡 Key Takeaways
+
+* **Multi-Scale In-Situ Mineral Mapping**: Demonstrates using Micro-XRF (M4 TORNADO and M6 JETSTREAM) combined with AMICS software to map Lithium (Li) mineralogy directly onto drill cores and hand specimens with little to no sample preparation.
+* **Lithium Minerals Stoichiometry**: Identifies key Li-bearing phases: Spodumene ($\text{LiAlSi}_2\text{O}_6$), Lepidolite ($\text{Li}_2\text{KAlSi}_4\text{O}_{10}\text{F}(\text{OH})$), Petalite ($\text{LiAlSi}_4\text{O}_{10}$), and Amblygonite ($\text{LiAlPO}_4\text{OH}$).
+* **Element Deportment**: Successfully quantifies Li distribution (deportment) across different phases in a pegmatite sample containing $1.0\text{ Wt}\%$ Li (Lepidolite: $55.2\%$, Spodumene: $37.4\%$, Petalite: $4.2\%$, Amblygonite: $2.7\%$, Eucryptite: $0.5\%$).
+* **Resolution vs. Time Optimization**: Shows that a $4$-fold decrease in scan resolution ($50\ \mu\text{m} \rightarrow 200\ \mu\text{m}$) and $4$-fold decrease in dwell time ($20\text{ ms} \rightarrow 5\text{ ms}$) yields a **34x measurement speedup** ($15\text{ hours} \rightarrow 26\text{ minutes}$) with minor deviations in modal mineralogy calculations ($<0.6\text{ Wt}\%$ error for Spodumene, plagioclase albite within $3.6\text{ Wt}\%$).
+
+---
+
+## 🛠️ Methodology & Relevance to Abdelhak's Thesis
+
+* **Methodological Validation**: Provides experimental proof that rapid, coarse-scale micro-XRF scanning can calculate bulk mineral proportions with high statistical accuracy, validating the optimization of scan parameters in mine waste characterization.
+* **Geochemical Calibration**: Demonstrates the calculation of back-calculated elemental assays from modal mineralogy, which directly aligns with Abdelhak's VNIR-SWIR and XRF integration framework used to ground-truth satellite unmixing pixels.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite|XRF Training Sample — Pegmatite]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/meyerImportanceSpatialPredictor2019.md
 
 ---
@@ -8635,6 +8690,341 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Technical workflow of Bruker AMICS automated mineralogy, including acquisition, image segmentation, spectrum tree clustering, and mineral library matching."
+aliases:
+---
+
+
+# AMICS Automated Mineralogy Workflow
+
+The AMICS automated mineralogy pipeline progresses through three key stages: **Scan (Acquisition) $\rightarrow$ Segmentation (Boundary Detection) $\rightarrow$ Mineral Classification**.
+
+```mermaid
+graph LR
+    A[1. Scan / Acquisition] --> B[2. Segmentation / Boundary]
+    B --> C[3. Classification / Library Match]
+    C --> D[4. Reporting & Touch-Up]
+```
+
+---
+
+## 1. Scan / Acquisition (Measurement Modes)
+
+AMICS supports different measurement configurations depending on resolution and time constraints:
+* **Matrix Mapping**: 
+  * Generates a false-color material map at a user-defined step size (e.g., $20\ \mu\text{m}$ or $50\ \mu\text{m}$).
+  * It does not perform high-resolution boundary detection, meaning fine-scale textural details may be missed if the step size is too coarse.
+  * Faster and ideal for block samples.
+* **Segmentation Mapping**:
+  * Superimposes the mineral classification on top of the underlying BSE image at the BSE resolution.
+  * Captures fine-grained boundaries and textures.
+* **Hyper Mapping**:
+  * Acquires BSE data at the same resolution as the X-ray step size.
+  * It is up to four times faster than standard mapping modes while maintaining full spectral information per pixel.
+
+---
+
+## 2. Segmentation (Boundary Detection)
+
+Segmentation is the process of grouping contiguous pixels with similar characteristics into discrete segments to reduce spectral collection time:
+* **BSE/Intensity Thresholding**: Used to differentiate the target rock/mineral fragments from the background mounting medium (epoxy resin).
+  * **Particle Mapping**: Relies on BSE thresholding to identify particles against the resin background, making it suitable for granulated samples in epoxy.
+  * **Matrix Mapping**: Does not search for background boundaries, applying a flat grid segment size matching the X-ray step size.
+* **Noise Reduction**: Applies smoothing filters to the BSE image to prevent over-segmentation due to detector noise.
+
+---
+
+## 3. Mineral Classification (Spectral Matching)
+
+Once segments are identified, the X-ray spectrum collected from the segment center is matched against a reference mineral library:
+* **Full-Spectrum Matching**: The matching algorithm calculates the absolute difference between the measured spectrum and reference spectra:
+  $$\text{ABS}(\text{Measured} - \text{Reference}) = \text{Difference Spectrum}$$
+  The mineral with the smallest difference is assigned to the segment.
+* **Matching Speed Optimization**:
+  * A larger reference library slows down the classification.
+  * **Priority Levels**: Minerals in the reference library can be assigned a priority (`High`, `Normal`, or `Low`). High-priority minerals are tested first, saving processing time.
+  * **Spectrum Tree Clustering**: Grouping similar unclassified spectra using elemental or intensity filters to classify them in batches rather than individually.
+
+---
+
+## 4. Post-Processing & Touch-Up
+
+* **Grain Panel Touch-Up**: Used to clean up classification artifacts, such as misclassified boundary pixels. This can reduce unclassified pixels significantly (e.g., from $5\%$ "Unknown" to $0.08\%$).
+* **Elemental Quantification**: Calculates modal mineralogy ($Wt\%$), grain size distributions, mineral locking, and mineral association curves.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree|AMICS Spectrum Tree]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Methodological link explaining how automated mineralogy (AMICS) can be applied to characterize and monitor phosphate mine waste rock reclamation."
+aliases:
+---
+
+
+# AMICS Automated Mineralogy in Phosphate Reclamation
+
+## Overview
+Abdelhak's PhD thesis focuses on **multi-scale characterization and reclamation monitoring of phosphate mine waste rocks** at the Benguerir Mine. Applying **automated mineralogy (AMICS)** to this research provides a micro-scale analytical baseline that connects laboratory geochemistry to satellite-based remote sensing models.
+
+---
+
+## Key Applications in Phosphate Reclamation
+
+```mermaid
+graph TD
+    A[AMICS Micro-Scale Mineralogy] --> B[Validate VNIR-SWIR Handheld Spectroscopy]
+    B --> C[Calibrate PRISMA & EnMAP Spectral Unmixing]
+    C --> D[Monitor Reclamation Progress Index - RPI]
+```
+
+### 1. Mineralogical Characterization of Waste Rock Dumps
+* ** Francolite (Carbonate-Apatite) Quantification**:
+  * Phosphate mine waste rock piles (WRPs) contain variable amounts of residual phosphate, typically in the form of carbonate-fluorapatite (francolite).
+  * AMICS allows direct quantification of francolite abundance ($Wt\%$) and grain size. This is crucial for evaluating the environmental risk of heavy metal leaching (e.g., Cadmium associated with apatite) and the potential for waste reprocessing/valorization.
+* **Silica (Quartz/Flint) vs. Carbonate Ratio**:
+  * Maps the ratio of silexite/flint ($\text{SiO}_2$) to carbonates (calcite/dolomite). This ratio determines the geomechanical stability of the dumps and their resistance to physical erosion.
+
+### 2. Acid Neutralization Potential & Weathering
+* **Carbonate Neutralization Capacity**:
+  * Carbonates (calcite/dolomite) provide a natural buffer that neutralizes potential acidity. AMICS maps the spatial exposure and liberation state of carbonate grains within clayey matrices.
+  * This allows modelers to predict the long-term geochemical weathering and acid neutralization pathways of the waste dumps.
+
+### 3. Ground-Truth Validation of Remote Sensing Models
+* **Cross-Scale Calibration**:
+  * Satellite sensors like **[[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]]** and **[[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]** map surface mineral abundances across $30\text{ m}$ pixels.
+  * Laboratory AMICS provides the absolute "ground truth" mineralogy ($Wt\%$) of surface samples collected from those pixels.
+  * This ground truth is used to calibrate and validate **spectral unmixing algorithms** (like Vertex Component Analysis - VCA, and Fully Constrained Least Squares - FCLS) and the **[[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]]**.
+  * By verifying the exact mineral compositions under the pixel area (e.g., verifying that a predicted $12\%$ carbonate signal matches a physical mixture of calcite, dolomite, and clays), the satellite models are grounded in geological reality.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+* [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]]
+* [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Bruker's Automated Mineralogy and Image Characterisation Software (AMICS) for SEM and Micro-XRF data processing, classification, and quantification."
+aliases:
+---
+
+
+# AMICS Automated Mineralogy
+
+## Definition
+**AMICS** (Automated Mineralogy and Image Characterisation Software) is Bruker's proprietary software suite designed to automate mineral identification and characterization using energy-dispersive X-ray spectroscopy (EDS) data. It operates across both Scanning Electron Microscopy (SEM) and Micro-X-ray Fluorescence (Micro-XRF) instruments.
+
+---
+
+## Software Modules
+
+AMICS is divided into three functional modules that cover the entire analytical workflow:
+
+1. **AMICS Tool**: 
+   * Handles instrument control and calibration.
+   * Manages hardware parameters, beam positioning, and API drivers (e.g., Zeiss, Hitachi, Bruker M4).
+   * Used for checking microscope/instrument communication, stage limits, vacuum control (e.g., 2 mbar for light element detection), and EDS count rates (aiming for $>2000$ counts per spot).
+2. **AMICS Investigator**:
+   * Used for project creation, sample holder mapping (using digital templates like 9- or 12-hole grids), and defining measurement areas.
+   * Allows drawing specific measurement shapes (circle, rectangle, polygon) and configuring scan settings (step size, dwell time).
+   * Defines the scan type: Matrix Mapping, Segmentation Mapping, Hyper Mapping, or Bright Phase Search.
+3. **AMICS Process**:
+   * Performs post-scan data processing, spectrum tree clustering, touch-ups, and mineral abundance calculations.
+   * Manages the classification workflow, matching spectra to reference libraries, and exporting results.
+
+---
+
+## Data Structure & Layers
+
+AMICS builds a spatial-compositional relational database from the scan. The data is structured into three overlapping layers:
+
+```mermaid
+graph TD
+    A[Image Layer: Grayscale BSE / X-ray Intensity] --> B[Segment Layer: Boundary Detection]
+    B --> C[Matching Layer: Mineral Classification]
+    C --> D[(Relational Database: Pixel X-Y + Segment BSE + Spectrum + Mineral)]
+```
+
+* **Image Layer**: The base layer containing the Backscattered Electron (BSE) grayscale image (for SEM) or the total X-ray intensity map (for Micro-XRF).
+* **Segment Layer**: Adjacent pixels with similar grayscale values or elemental intensities are grouped into segments. Each segment has an average BSE/intensity value and an X-ray spectrum collected at its center or across its area.
+* **Matching Layer**: Every pixel is classified by matching its spectrum against a mineral library.
+
+### Grains vs. Particles
+AMICS distinguishes between these two structures for metallurgical and mineralogical calculations:
+* **Grains**: Contiguous areas of pixels classified as the same mineral.
+* **Particles**: Contiguous grains surrounded by a designated "Background" (typically the epoxy resin in granulated samples). Particle mapping allows for the calculation of mineral liberation, locking, and mineral association data.
+
+---
+
+## Current Results vs. Common Library
+
+AMICS manages mineral libraries at two levels:
+* **Current Result Standard (MRE File)**: The reference mineral library is stored directly within the raw measurement file. Any customized spectrum trees, groupings, and touch-up steps travel with the data.
+* **Common Library (UserSTD.db)**: The reference library stored on the local PC. It serves as a master database. Reclassifying with a Common Library will overwrite the MRE's local groupings.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Filtering, clustering, and binning tool within Bruker AMICS for batch classification of unclassified/unknown spectra."
+aliases:
+---
+
+
+# AMICS Spectrum Tree
+
+## Definition
+The **Spectrum Tree** is a filtering, binning, and clustering tool in AMICS Process. It allows the mineralogist to group similar spectra—particularly "Unknown" or unclassified spectra—and assign them to mineral definitions in batches. It can augment or completely supersede traditional automated library matching.
+
+---
+
+## Filtering and Binning Criteria
+
+The Spectrum Tree operates like a decision tree, splitting a population of spectra (e.g., thousands of unclassified "Unknown" pixels) into sub-bins based on several parameters:
+
+1. **Energy (Elemental) Filter**:
+   * Creates a binary split in the spectra based on X-ray count intensity at a specific energy line (e.g., splitting at the $K\alpha$ peak of Calcium or Phosphorus).
+   * The user sets a count intensity threshold line to divide the spectra.
+2. **Ratio Filter**:
+   * Splits spectra based on the ratio of intensities between two different energy ranges (e.g., the ratio of Silicon to Aluminum peaks to classify feldspars versus clay minerals).
+3. **BSE Filter**:
+   * Groups spectra based on the average Backscattered Electron (BSE) grayscale value of the segment from which they were collected.
+4. **Area (Size) Filter**:
+   * Bins spectra according to the physical size ($\mu\text{m}^2$) of the mineral grain or particle they belong to.
+
+---
+
+## Clustering Methods
+
+Once a sub-bin is isolated, AMICS can group the spectra using statistical clustering:
+
+* **Manual Clustering**:
+   * The user selects a representative "seed" spectrum from the bin.
+   * The system automatically searches for all other spectra in the bin that match this seed within a user-defined tolerance.
+* **Automatic Clustering**:
+   * The system automatically groups the spectra into a set number of clusters based on three constraints:
+     1. **Cluster Limit**: Maximum number of clusters allowed (e.g., 4).
+     2. **Tolerance**: The mathematical distance threshold for grouping (e.g., 1.25).
+     3. **Minimum Population**: The minimum number of spectra required to form a cluster (e.g., 5).
+
+---
+
+## Technical Value
+By building a structured set of Spectrum Tree filtering and clustering steps, the mineralogist can:
+1. **Reduce Library Size**: Instead of checking every pixel against hundreds of reference spectra, broad categories (e.g., all quartz) are binned and classified first.
+2. **Refine Tolerances**: Set distinct matching tolerances for different mineral sub-classes.
+3. **Export Reclassification Workflows**: The sequence of spectrum tree splits is saved within the MRE file, allowing it to be batch-applied to other samples in the same campaign, ensuring consistent classification.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Analytical module in Bruker AMICS for calculating elemental concentrations, mineral zonation, and deportment of target elements within specific mineral phases."
+aliases:
+---
+
+
+# AMICS Target Mineral Quantification
+
+## Definition
+**Target Mineral Quantification** (TMQ) is an advanced post-processing function within the AMICS Grain Panel. It is used to filter, isolate, and quantify specific mineral grains of interest (such as economic or trace-element-bearing phases) for detailed elemental and structural characterization.
+
+---
+
+## Filtering Parameters
+
+TMQ utilizes a set of physical and chemical filters to select target minerals from the segmented matching database:
+
+1. **Size and Geometry Filters**:
+   * **Area Range ($\mu\text{m}^2$)**: Minimum and maximum grain area limits.
+   * **Minimum Estimated Grain Radius**: Used to find grains large enough for spot-analysis techniques. This is particularly useful for target selection in **Laser Ablation ICP-MS (LA-ICP-MS)** workflows.
+2. **Backscattered Electron (BSE) Grayscale Limits**:
+   * Restricts analysis to grains within specific density ranges (e.g., selecting bright sulfide phases like pyrite or cobaltite).
+3. **Host Mineral Filter**:
+   * Filters target grains based on the mineral phase they are enclosed in or associated with (e.g., selecting only apatite grains hosted within marly waste rock).
+
+---
+
+## Key Outputs and Calculations
+
+When TMQ is executed, it calculates several geometallurgical metrics:
+
+### 1. Elemental Deportment
+Calculates how a specific chemical element is distributed across all mineral phases in the sample. For example, in a lithium pegmatite exploration workflow, TMQ can determine that although the bulk sample contains $1.0\text{ Wt}\%$ Lithium ($\text{Li}$), that Lithium is deported as:
+* **Lepidolite**: $55.2\%$
+* **Spodumene**: $37.4\%$
+* **Petalite**: $4.2\%$
+* **Amblygonite**: $2.7\%$
+* **Eucryptite**: $0.5\%$
+
+### 2. Back-Calculated Bulk Assay
+Calculates the estimated bulk chemical composition of the rock by combining the measured modal mineralogy ($Wt\%$) with the chemical formulas/stoichiometry of the identified minerals. This back-calculated assay is compared with whole-rock chemical assays to validate the accuracy of the automated mineralogy classification.
+
+### 3. Grain Geometry and Spatial Coordinates
+* **X-Y Coordinates**: Exact center positions of target grains for subsequent micro-analysis (e.g., electron microprobe or LA-ICP-MS).
+* **Shape Factor (Roundness)**: Calculated as:
+  $$\text{Shape Factor} = \frac{\text{Perimeter}}{\sqrt{\text{Area}}}$$
+  Used to characterize grain textures, grain weathering, or mineral liberation progress.
+* **X-ray Point & Count Mapping**: Tracks the exact X-ray spot location on the target grain and records the total X-ray counts.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md
 
 ---
@@ -9247,6 +9637,92 @@ The CHM extraction workflow (DSM − DTM = CHM) and plot-based sampling approach
 ## Links
 
 - [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Inventory of Bruker AMICS Micro-XRF training datasets, file extensions, and instructions for reopening and processing them."
+aliases:
+---
+
+
+# Data Asset — UM6P AMICS MicroXRF Training Datasets
+
+## Overview
+The **UM6P AMICS Micro-XRF Training Datasets** represent a collection of calibration files, spectral databases, and raw scans acquired during instrument training sessions held in October 2024. 
+
+* **Source Path**: `file:///D:/XRF training`
+* **Size**: $6.22912\text{ GB}$
+* **Total Files**: $1717$
+
+---
+
+## File Type Directory & Purpose
+
+| Extension | Count | Description / Role in Workflow |
+| :--- | :--- | :--- |
+| **`.bcf`** | 14 | **Bruker Raw Hyperspectral Scan**: Large binary files containing the raw spectral data for each mapped pixel (e.g., `LiPegmatite_50kV-600uA-200um-20ms.bcf`, size $354.1\text{ MB}$). |
+| **`.mre`** | — | **AMICS Measurement Result**: Active workspace files converted from `.bcf`. They store the image layer, segment boundaries, and matching results. |
+| **`.spx`** | 39 | **Bruker Spectrum File**: Individual spectra extracted from specific spots (e.g., `Eclogite-Newlands-Cpx (S).spx`). Used to build new mineral standards. |
+| **`.db`** | — | **AMICS Database**: Reference spectrum databases (e.g., `+XRF (+SEP) 50kV 2mbar Chlorite.db`). |
+| **`.lik`** | 21 | **License Key**: Hardware-locked license files enabling AMICS Tool offline processing. |
+| **`.fld`** | 395 | **Field Spatial Coordinates**: Stores spatial reference coordinates for the scanned fields. |
+| **`.fld_xrays`** | 778 | **X-ray Segment Intensities**: Stores integrated X-ray counts per segment. |
+| **`.fld_segData`** | 395 | **Segmentation Boundaries**: Stores polygon coordinates for image segments. |
+
+---
+
+## Key Training Datasets
+
+1. **Granite Block mapping**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part2 Granite/`
+   * Target: Perthitic feldspar and biotite mica.
+2. **Lithium Pegmatite**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part3 Pegmatite/`
+   * Target: Spodumene, Lepidolite, Petalite, Amblygonite.
+3. **Eclogite Fragments**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part5 Particle/`
+   * Target: Particle segmentation, epoxy background separation, mineral association.
+4. **Chlorite Database**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Chlorite.db`
+   * Target: Light element Mg, Al, Si detection under 2 mbar vacuum.
+5. **Carbonates Database**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Carbonates.db`
+   * Target: Calcite vs. dolomite magnesium-based classification.
+
+---
+
+## Workflow: How to Reopen and Process in AMICS
+
+To reopen and re-evaluate these training files in the offline AMICS software suite:
+
+```mermaid
+graph TD
+    A[1. Activate License via AMICS Tool] --> B[2. Convert .bcf to .mre using BcfConverter]
+    B --> C[3. Open .mre in AMICS Process]
+    C --> D[4. Load UserSTD.db Mineral Standards]
+    D --> E[5. Execute Classification & Export Results]
+```
+
+1. **License Activation**:
+   * Open **AMICS Tool**. Click the *License Manager* tab.
+   * Click *Apply*, browse to the active license file (e.g., `[AMICS_License_Key_um6p_abdelaziz_zine.lik](file:///D:/XRF training/AMICS Licences - UM6P/AMICS_License_Key_um6p_abdelaziz_zine(2024_10_07).lik)`), and click *Activate*.
+2. **File Conversion**:
+   * Raw `.bcf` files cannot be processed directly. In **AMICS Tool**, run `BcfConverter` to convert target `.bcf` files to `.mre` format. This will output a `.mre` file and a `.converted` folder containing spatial files.
+3. **Loading Dataset**:
+   * Open **AMICS Process**. Click *Open Result* and select the generated `.mre` file.
+4. **Mineral Standard Setup**:
+   * Click the *Standards* tab. Load the common classification library database (`UserSTD.db`).
+   * Select the target mineral group (e.g., *Au-ore minerals*, *SinoZKHC_V2*, or customize a new group using imported `.spx` files).
+5. **Running Classification**:
+   * Go to *Do Classification Steps*. Set the matching parameters (tolerances, priority lists, and vacuum corrections like *Ignore High KeV*). Click *Classify*.
+6. **Data Exporting**:
+   * Click *Export*. Save the mineral distribution maps as `PNG/BMP/TIF` images, and export the modal mineralogy tables to `XML` (Excel compatible) sheets.
 
 
 
@@ -9895,6 +10371,64 @@ This is the correct, peer-reviewed result representing true spatial generalizati
 - [[Spatially Constrained Cross-Validation]]
 - [[Shannon Entropy Uncertainty]]
 - [[Mineral Assemblages]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-X-ray Fluorescence (Micro-XRF) spectroscopy for non-destructive, high-resolution elemental mapping of geological samples."
+aliases:
+---
+
+
+# Micro-XRF Spectroscopy
+
+## Definition
+**Micro-XRF** (Micro-X-ray Fluorescence) is a non-destructive elemental analysis technique that utilizes capillary optics to focus primary X-rays onto a small spot on a sample surface (typically $10\text{ to }100\ \mu\text{m}$). It maps major, minor, and trace element abundances down to parts-per-million ($\text{ppm}$) levels.
+
+---
+
+## Comparison: Micro-XRF vs. SEM-EDS
+
+Automated mineralogy (AMICS) can be performed on both Micro-XRF and Scanning Electron Microscopy (SEM) platforms. The choice between them represents a trade-off between **analytical scale** and **spatial resolution**:
+
+| Feature | Micro-XRF (e.g., Bruker M4 TORNADO) | SEM-EDS |
+| :--- | :--- | :--- |
+| **Spatial Resolution** | $10\text{ to }100\ \mu\text{m}$ (coarser) | Sub-micron ($<1\ \mu\text{m}$) (extremely fine) |
+| **Sample Preparation** | None or minimal (direct scans on cut cores, hand specimens) | High (requires polished thin sections, carbon coating) |
+| **Sample Size / Area** | Large (decimeter scale, entire drill core trays up to $800 \times 600\text{ mm}^2$) | Small (typically limited to $30 \times 20\text{ mm}^2$ thin sections) |
+| **Destructiveness** | Non-destructive (sample is preserved) | Destructive (requires cutting and grinding) |
+| **Detection Limits** | Down to $10\text{ ppm}$ (excellent for trace element zoning) | Down to $\sim 1000\text{ ppm}$ ($0.1\text{ Wt}\%$) |
+| **Light Element Analysis** | Requires vacuum (e.g., $2\text{ mbar}$ or Helium flush) | Standard under high vacuum |
+
+---
+
+## Key Advantages for Mining & Exploration
+
+1. **Multi-Scale In-Situ Core Logging**:
+   * Bridges the gap between geological field mapping (macro-scale) and laboratory thin-section petrography (micro-scale).
+   * Allows continuous scanning of cut drill core sections (e.g., $60\text{ cm}$ sections) directly in core trays to map element distributions (such as cobalt mineralization or iron-magnesium alteration bands).
+2. **Trace Element Deportment**:
+   * Lower detection limits allow mapping of trace elements (like Cobalt or Lithium) within host minerals (e.g., cobalt in pyrite or lithium in pegmatite phases).
+3. **No Charging Effects**:
+   * Unlike SEM, Micro-XRF does not require a conductive carbon coating, allowing raw hand specimens and mineralized veins to be mapped directly.
+
+---
+
+## Application in Abdelhak's Thesis
+While Abdelhak's thesis primarily integrates **[[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF (HHXRF)]]** with VNIR-SWIR field spectroscopy to calibrate remote sensing indices, the Micro-XRF calibration datasets (e.g., from the AMICS training sessions) serve as the instrumentation baseline. They demonstrate how micro-scale elemental abundance maps validate the macro-scale spectral predictions of minerals like chlorite, carbonates, and phosphates.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
 
 
 
@@ -11196,5 +11730,281 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 - [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
 - [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
 - [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF database dataset demonstrating carbonate mineral mapping, calcite/dolomite zonation, and vacuum settings."
+aliases:
+---
+
+
+# XRF Training Sample — Carbonates
+
+## Overview
+The **Carbonates Training Sample** is a micro-XRF spectral database located in:
+`file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Carbonates.db`
+
+It focuses on mapping and distinguishing carbonate mineral phases (such as calcite, dolomite, and ankerite) using micro-scale elemental zonation.
+
+---
+
+## Technical Demonstrations
+
+### 1. Differentiating Calcite from Dolomite
+* **The Challenge**: Both calcite ($\text{CaCO}_3$) and dolomite ($\text{CaMg}(\text{CO}_3)_2$) contain Calcium ($\text{Ca}$), but dolomite also contains Magnesium ($\text{Mg}$). Differentiating them by X-ray fluorescence requires resolving the weak $\text{Mg}$ signal.
+* **The Solution**: By mapping under **$2\text{ mbar}$ vacuum** with **$50\text{ kV}$ voltage**, the detector resolves both the strong $\text{Ca K}\alpha$ ($3.69\text{ keV}$) and the weak $\text{Mg K}\alpha$ ($1.25\text{ keV}$) peaks. The spatial distribution of the $\text{Mg}/\text{Ca}$ ratio is calculated in AMICS to separate dolomite zones from calcite veins.
+
+### 2. Carbonate Zonation
+* Demonstrates how carbonate minerals undergo chemical zonation (e.g., iron or magnesium substitution in calcite) during diagenesis or hydrothermal alteration, mapping the gradational boundaries between calcite ($\text{Ca}$-rich) and ankerite/dolomite ($\text{Fe/Mg}$-bearing).
+
+---
+
+## Relevance to Abdelhak's Research
+At the Benguerir phosphate mine, carbonate rocks (limestone, marly limestone, dolomite) constitute the majority of the waste rock overburdens and interburdens.
+* In **Chapter 1** (field spectroscopy), carbonates are identified by their characteristic $\text{C-O}$ vibrational absorption features in the SWIR range (typically around $2.3\ \mu\text{m}$ and $2.5\ \mu\text{m}$).
+* In **Chapter 3**, the $\text{CaO}$ proxy from XRF calibration is a core parameter in calculating the **[[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]]**, where carbonate waste rock represents the background soil geology before revegetation.
+* Resolving calcite versus dolomite is important because dolomite has higher geomechanical strength (higher UCS) and different weathering rates, affecting how the waste piles stabilize over time.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+* [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF database dataset demonstrating chlorite mineral mapping and scan optimization for light elements."
+aliases:
+---
+
+
+# XRF Training Sample — Chlorite
+
+## Overview
+The **Chlorite Training Sample** is a micro-XRF spectral database located in:
+`file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Chlorite.db`
+
+It is designed to train operators on optimizing scan parameters for **light elements** (specifically Magnesium, Aluminum, and Silicon) hosted within hydrous sheet silicates like chlorite ($(\text{Mg,Fe})_5\text{Al}(\text{AlSi}_3\text{O}_{10})(\text{OH})_8$).
+
+---
+
+## Technical Demonstrations
+
+### 1. Overcoming Air Absorption of Light Elements
+X-ray fluorescence lines emitted by light elements have very low energies (e.g., $\text{Mg K}\alpha = 1.25\text{ keV}$, $\text{Al K}\alpha = 1.49\text{ keV}$, $\text{Si K}\alpha = 1.74\text{ keV}$). In standard atmospheric conditions, these weak X-rays are absorbed by air molecules before they can reach the detector, preventing their measurement.
+* **The Solution**: The dataset was acquired under a **$2\text{ mbar}$ vacuum** in the Bruker sample chamber. Removing air molecules allows the low-energy X-rays to reach the energy-dispersive detector, enabling the identification and quantification of chlorite's $\text{Mg}$, $\text{Al}$, and $\text{Si}$ peaks.
+
+### 2. High Voltage (50 kV) for Heavy Elements
+While vacuum is necessary for light elements, the X-ray tube must also excite heavier elements like Iron ($\text{Fe K}\alpha = 6.40\text{ keV}$).
+* The dataset demonstrates using a **$50\text{ kV}$ tube voltage** and **$600\ \mu\text{A}$ current** to provide enough energy to excite the heavy $\text{Fe}$ transitions while the vacuum system simultaneously preserves the light $\text{Mg}$ and $\text{Al}$ signals.
+
+---
+
+## Relevance to Abdelhak's Research
+In phosphate mine waste rocks, clay minerals (like smectite, illite, chlorite, and kaolinite) indicate weathering and reclamation progress. When using **[[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF (HHXRF)]]** or laboratory XRF to calibrate clay abundance maps:
+* Measuring $\text{Al}_2\text{O}_3$ and $\text{MgO}$ directly provides a chemical proxy for clay content.
+* Operators must calibrate vacuum or helium-flush systems to ensure these light elements are not underestimated due to air absorption.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF training dataset demonstrating perthitic feldspar and biotite mapping in granite."
+aliases:
+---
+
+
+# XRF Training Sample — Granite
+
+## Overview
+The **Granite Training Sample** is a micro-XRF calibration dataset located in:
+`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part2 Granite/`
+
+It utilizes the raw Bruker scan file **`Nice-Granite.bcf`** (converted to `Nice-Granite.mre`) to demonstrate data processing on an intact rock block (block sample type).
+
+---
+
+## Technical Demonstrations
+
+This dataset is specifically designed to train operators on handling coarse-grained plutonic rocks with complex mineral intergrowths:
+
+### 1. Perthitic Feldspar Exsolution
+* **The Challenge**: Perthitic feldspar consists of fine, intergrown lamellae of albite (plagioclase, $\text{NaAlSi}_3\text{O}_8$) exsolved within a host matrix of orthoclase ($\text{K-feldspar}$, $\text{KAlSi}_3\text{O}_8$).
+* **Matrix Mapping vs. Segmentation**:
+  * **Matrix Mapping** (using a standard grid step size like $20\ \mu\text{m}$) fails to resolve the fine, worm-like lamellae. It averages the Sodium ($\text{Na}$) and Potassium ($\text{K}$) signals, resulting in a single misclassified "intermediate" feldspar or noisy pixel classifications.
+  * **Segmentation Mapping** solves this by superimposing the mineral classification onto the high-resolution BSE image. It uses the BSE grayscale variation to segment the fine albite boundaries before collecting or assigning X-ray spectra, successfully resolving the exsolution texture.
+
+### 2. Biotite Mapping
+* Demonstrates the classification of sheet silicates (biotite mica) which contain Iron ($\text{Fe}$) and Magnesium ($\text{Mg}$). It is used to train on setting count thresholds and energy filters to distinguish biotite from secondary chlorite alteration.
+
+---
+
+## Relevance to Abdelhak's Research
+Although granite is not present in phosphate waste rock piles, this sample illustrates a key methodological principle: **coarse-step matrix mapping fails on fine-scale mineral intergrowths**. In phosphate waste rocks, flint/silexite and carbonate-apatite (francolite) are often finely intergrown. Understanding when to use Segmentation Mapping over flat Matrix Mapping is essential to avoid underestimating or misclassifying silica and phosphate phases.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF training dataset demonstrating granulated particle analysis, background thresholding, and mineral association in eclogite fragments."
+aliases:
+---
+
+
+# XRF Training Sample — Particle Analysis
+
+## Overview
+The **Particle Analysis Training Sample** is a micro-XRF calibration dataset located in:
+`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part5 Particle/`
+
+It utilizes the raw Bruker scan file **`Eclogite-Fragments-Large.bcf`** to demonstrate the automated mineralogical characterization of granulated samples (rock or ore fragments embedded in epoxy resin).
+
+---
+
+## Technical Demonstrations
+
+This dataset is used to train operators in **particle-based automated mineralogy**, which is more complex than mapping solid rock blocks:
+
+### 1. BSE Background Thresholding
+* **The Challenge**: The sample consists of rock fragments suspended in an epoxy resin mount. The resin generates false X-ray signals (mostly carbon and chlorine) that must be ignored.
+* **The Solution**: AMICS uses Backscattered Electron (BSE) grayscale thresholding. Because epoxy is low-density, it has a very low BSE signal (dark). AMICS sets a lower BSE threshold to treat everything below it as "Background" (resin) and excludes those regions from X-ray acquisition and spectral matching, saving time and storage.
+
+### 2. Particle vs. Grain Segmentation
+* **Particles**: The rock fragments isolated from the background.
+* **Grains**: The distinct mineral phases (garnet, pyroxene, K-silicate) within each particle.
+* AMICS performs image segmentation to identify grain boundaries inside each particle, ensuring that mineral association and grain size metrics are calculated relative to their host fragment.
+
+### 3. Grain Panel Touch-Up (Filtering Noise)
+* Shows how to filter out small unclassified pixels (noise) that appear at mineral boundaries.
+* By applying size filters in the Grain Panel, the amount of "Unknown" or unclassified pixels can be reduced from **$5\%$ down to $0.08\%$**, significantly cleaning up the modal mineralogy report.
+
+### 4. Mineral Association & Liberation
+* AMICS calculates the shared boundary lengths between minerals within the particles. It determines whether pyroxene is locked inside garnet, or if the phases are liberated (free-standing grains), which is a key metric in mineral processing.
+
+---
+
+## Relevance to Abdelhak's Research
+In the reclamation and valorization of phosphate mine wastes:
+* Overburdens and interburdens are crushed, and tailing piles consist of granulated sand/silt-sized particles.
+* Using **Particle Analysis** helps determine the **liberation state of apatite (francolite)**: is the phosphate mineral free (liberated) and ready for chemical extraction/fertilizer production, or is it locked (encapsulated) within calcite, quartz, or clay matrices?
+* This information is critical for designing recycling flowsheets for phosphate waste rock reprocessing.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF training dataset demonstrating lithium pegmatite mapping, element deportment, and scan parameter optimization."
+aliases:
+---
+
+
+# XRF Training Sample — Pegmatite
+
+## Overview
+The **Pegmatite Training Sample** is a micro-XRF calibration dataset located in:
+`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part3 Pegmatite/`
+
+It utilizes raw Bruker scans (e.g., `LiPegmatite_50kV-600uA-100um-10ms.bcf`, `LiPegmatite_50kV-600uA-200um-20ms.bcf`) from a lithium pegmatite sample from **Gonçalo - Seixo Amarelo, Portugal**. The analytical area is $80\text{ mm} \times 50\text{ mm}$ (mapped at $50\ \mu\text{m}$ resolution, yielding $1600 \times 1000$ pixels).
+
+---
+
+## Modal Mineralogy & Lithium Deportment
+
+Using **[[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification (TMQ)]]**, the sample was classified to determine its mineral composition and how Lithium ($\text{Li}$) is distributed among the phases:
+
+### 1. Modal Mineralogy (Wt%)
+* **Albite**: $57.92\%$
+* **Lepidolite**: $15.60\%$
+* **Quartz**: $12.70\%$
+* **Spodumene**: $10.07\%$
+* **Petalite**: $2.02\%$
+* **Topaz**: $0.88\%$
+* **Amblygonite**: $0.57\%$
+* **Eucryptite**: $0.10\%$
+* **Sanidine**: $0.06\%$
+* **Perhamite**: $0.04\%$
+
+### 2. Lithium (Li) Deportment (Total 100%)
+Although the bulk sample's back-calculated assay contains only $1.0\text{ Wt}\%$ Lithium ($\text{Li}$), its deportment is divided as:
+* **Lepidolite** ($\text{Li}_2\text{KAlSi}_4\text{O}_{10}\text{F}(\text{OH})$): $55.2\%$
+* **Spodumene** ($\text{LiAlSi}_2\text{O}_6$): $37.4\%$
+* **Petalite** ($\text{LiAlSi}_4\text{O}_{10}$): $4.2\%$
+* **Amblygonite** ($\text{LiAlPO}_4\text{OH}$): $2.7\%$
+* **Eucryptite**: $0.5\%$
+
+---
+
+## Scan Parameter Optimization (Speed vs. Accuracy)
+
+A key metallurgical/geological finding from this dataset is the trade-off between scan resolution, dwell time, and modal mineralogy accuracy. The pegmatite sample was mapped under five different configurations:
+
+| Parameter | Run 1 | Run 2 | Run 3 | Run 4 | Run 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pixel Size ($\mu\text{m}$)** | **50** | **100** | **200** | **200** | **200** |
+| **Dwell Time ($\text{ms}$)** | **20** | **10** | **20** | **10** | **5** |
+| **Scan Time (hh:mm)** | **15:05** | **01:43** | **00:52** | **00:39** | **00:26** |
+| **Spodumene (Wt%)** | $10.1\%$ | $10.5\%$ | $10.6\%$ | $10.5\%$ | $9.5\%$ |
+| **Lepidolite (Wt%)** | $15.6\%$ | $14.5\%$ | $14.4\%$ | $14.2\%$ | $13.4\%$ |
+| **Albite (Wt%)** | $57.9\%$ | $59.3\%$ | $59.4\%$ | $59.7\%$ | $61.5\%$ |
+| **Quartz (Wt%)** | $12.7\%$ | $12.3\%$ | $12.3\%$ | $12.3\%$ | $12.2\%$ |
+
+### Key Conclusion
+Decreasing the pixel resolution from $50\ \mu\text{m}$ to $200\ \mu\text{m}$ and the dwell time from $20\text{ ms}$ to $5\text{ ms}$ reduced the measurement time from **15 hours and 5 minutes to 26 minutes** (a **34x speedup**). 
+
+Remarkably, the modal mineralogy calculations remained stable: Spodumene varied by only $0.6\text{ Wt}\%$, Lepidolite by $2.2\text{ Wt}\%$, and Quartz by $0.5\text{ Wt}\%$. This demonstrates that **coarse-scale, rapid micro-XRF scanning is statistically robust for determining bulk mineral proportions** in coarse-grained rocks.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
 
 
