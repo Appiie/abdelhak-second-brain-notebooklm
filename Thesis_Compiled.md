@@ -8,7 +8,7 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 20 | **Total Word Count**: ~17712 words
+> **Total Files Compiled**: 22 | **Total Word Count**: ~18091 words
 
 ## 📂 Table of Contents
 
@@ -16,6 +16,8 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 - [02_Academic & Work/thesis/Pipeline_MOC.md](#-file-02_academic-&-work-thesis-pipeline_moc-md) (~232 words)
 - [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~954 words)
 - [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
+- [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-01-12.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-01-12-md) (~206 words)
+- [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-03-07.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-03-07-md) (~173 words)
 - [02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md](#-file-02_academic-&-work-thesis-literature-notes-@elmansour2025sensors-md) (~193 words)
 - [02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md](#-file-02_academic-&-work-thesis-literature-notes-@roberts2019unmixing-md) (~184 words)
 - [02_Academic & Work/thesis/literature-notes/@verrelst2021review.md](#-file-02_academic-&-work-thesis-literature-notes-@verrelst2021review-md) (~222 words)
@@ -504,6 +506,78 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 - pyspectra module not found → installed correctly
 - Optimizing memory usage for large hyperspectral arrays
 - Spectral library loader with phosphate filtering
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-01-12.md
+
+---
+tags:
+date: 2022-01-12
+---
+
+
+# Thesis — Supervisor Meeting 2022-01-12
+
+## Meeting Metadata
+*   **Date**: 12 January 2022
+*   **Topic**: Research direction and sampling strategy for progressive rehabilitation of phosphate mining sites.
+*   **Attendees**: Abdelhak El Mansour, Pr. Mostafa Benzaazoua, Pr. Ahmed Laamrani, Pr. Rachid Hakkou, and Pr. Abdellatif El Ghali.
+*   **Original File**: [Compte rendu de l'état d'avancement-Abdelhak EL MANSOUR.docx](file:///D:/PHD-1st/Compte%20rendu/Compte%20rendu%20de%20l'état%20d'avancement-Abdelhak%20EL%20MANSOUR.docx)
+
+---
+
+## Key Decisions & Milestones
+1.  **Refining Project Objectives**: Group aligned on the core objective of progressive rehabilitation of open-pit phosphate mining sites, focusing on characterizing and mapping wasted phosphate in overburden dumps.
+2.  **Sampling Methodology**: Agreed to focus sample collection on a well-defined linear waste rock pile (cavalier) zone. Specifically, a systematic sampling step of **2 to 5 meters** along a selected transect was selected to represent dragline deposition layers.
+3.  **Multi-Tool Integration Strategy**: Discussed and approved the integration of multiple analysis tools:
+    *   **Hyperspectral Remote Sensing**: Stacking VNIR and SWIR bands to detect spatial variations.
+    *   **Ground-Truth Characterization**: Combining XRD and chemical assays to establish mineralogical baseline properties.
+    *   **Machine Learning Integration**: Investigating machine learning classifiers to generate per-pixel mapping of mineral distributions.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy]]
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-03-07.md
+
+---
+tags:
+date: 2022-03-07
+---
+
+
+# Thesis — Supervisor Meeting 2022-03-07
+
+## Meeting Metadata
+*   **Date**: 7 March 2022 (30-minute duration)
+*   **Supervisor**: Pr. Ahmed Laamrani
+*   **Original File**: [Compte rendu-réunion 07mars2022.docx](file:///D:/PHD-1st/Compte%20rendu/Compte%20rendu-réunion%2007mars2022.docx)
+
+---
+
+## Key Decisions & Milestones
+1.  **PRISMA Image Acquisition**: Confirmed plans for acquiring PRISMA satellite hyperspectral data covering the Benguerir mine.
+2.  **Spectral Preprocessing**: Discussed methods for dimensionality reduction of hyperspectral bands (e.g., PCA and MNF in ENVI/R).
+3.  **Ground-Truth Markers**: Emphasized the importance of leaving clear physical markers (signs/stakes) on the ground during Panel 2 sampling to ensure accurate spatial registration with satellite pixels.
+4.  **Target Chemical Parameter**: Confirmed **$P_2O_5$** (phosphorus pentoxide) weight percentage as the primary chemical target to map phosphorus distribution across the mine waste rocks.
+5.  **External Collaboration**: Decided to coordinate with **Khalil Misbah** to discuss robust methods for analyzing and processing hyperspectral images.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy]]
+- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection]]
+- [[02_Academic & Work/org/people/Ahmed Laamrani]]
 
 
 
