@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 369 | **Total Word Count**: ~51710 words
+> **Total Files Compiled**: 385 | **Total Word Count**: ~59283 words
 
 ## 📂 Table of Contents
 
@@ -22,6 +22,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
+- [04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-remote-sensing-moc-md) (~447 words)
 - [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~305 words)
 - [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
 - [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
@@ -34,12 +35,19 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/Delogu2023Using.md](#-file-04_knowledge-base-wiki-sources-delogu2023using-md) (~572 words)
 - [04_Knowledge Base/wiki/sources/EditorialSpecialIssue.md](#-file-04_knowledge-base-wiki-sources-editorialspecialissue-md) (~53 words)
 - [04_Knowledge Base/wiki/sources/EnMAPSpaceborneImaging.md](#-file-04_knowledge-base-wiki-sources-enmapspaceborneimaging-md) (~54 words)
+- [04_Knowledge Base/wiki/sources/Ewing2020Utilizing.md](#-file-04_knowledge-base-wiki-sources-ewing2020utilizing-md) (~492 words)
+- [04_Knowledge Base/wiki/sources/Forkuor2017High.md](#-file-04_knowledge-base-wiki-sources-forkuor2017high-md) (~518 words)
+- [04_Knowledge Base/wiki/sources/Guha2019Reflectance.md](#-file-04_knowledge-base-wiki-sources-guha2019reflectance-md) (~528 words)
 - [04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019.md](#-file-04_knowledge-base-wiki-sources-handheldxrayfluorescence2019-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019a.md](#-file-04_knowledge-base-wiki-sources-handheldxrayfluorescence2019a-md) (~50 words)
+- [04_Knowledge Base/wiki/sources/Heincke2019Developing.md](#-file-04_knowledge-base-wiki-sources-heincke2019developing-md) (~448 words)
+- [04_Knowledge Base/wiki/sources/Hernandez2013Spectral.md](#-file-04_knowledge-base-wiki-sources-hernandez2013spectral-md) (~525 words)
 - [04_Knowledge Base/wiki/sources/HyperspectralRemoteSensing.md](#-file-04_knowledge-base-wiki-sources-hyperspectralremotesensing-md) (~55 words)
 - [04_Knowledge Base/wiki/sources/ImagingSpectrometryEarth.md](#-file-04_knowledge-base-wiki-sources-imagingspectrometryearth-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/InterlayersGeoenvironmentalAssessment.md](#-file-04_knowledge-base-wiki-sources-interlayersgeoenvironmentalassessment-md) (~60 words)
+- [04_Knowledge Base/wiki/sources/Liu2018Quantitative.md](#-file-04_knowledge-base-wiki-sources-liu2018quantitative-md) (~458 words)
 - [04_Knowledge Base/wiki/sources/MappingHyperspectralAVIRIS.md](#-file-04_knowledge-base-wiki-sources-mappinghyperspectralaviris-md) (~55 words)
+- [04_Knowledge Base/wiki/sources/McHugh2001Simplified.md](#-file-04_knowledge-base-wiki-sources-mchugh2001simplified-md) (~492 words)
 - [04_Knowledge Base/wiki/sources/MineWastesCharacterization.md](#-file-04_knowledge-base-wiki-sources-minewastescharacterization-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/MineralCommoditySummaries.md](#-file-04_knowledge-base-wiki-sources-mineralcommoditysummaries-md) (~51 words)
 - [04_Knowledge Base/wiki/sources/MineralCommoditySummaries2021.md](#-file-04_knowledge-base-wiki-sources-mineralcommoditysummaries2021-md) (~51 words)
@@ -57,9 +65,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/OpenFileReport2002.md](#-file-04_knowledge-base-wiki-sources-openfilereport2002-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/OpenFileReport2002a.md](#-file-04_knowledge-base-wiki-sources-openfilereport2002a-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/ProgressGeoenvironmentalModels2002.md](#-file-04_knowledge-base-wiki-sources-progressgeoenvironmentalmodels2002-md) (~57 words)
+- [04_Knowledge Base/wiki/sources/Shippert2003Introduction.md](#-file-04_knowledge-base-wiki-sources-shippert2003introduction-md) (~472 words)
 - [04_Knowledge Base/wiki/sources/SpectralReflectanceCarbonate.md](#-file-04_knowledge-base-wiki-sources-spectralreflectancecarbonate-md) (~62 words)
 - [04_Knowledge Base/wiki/sources/TacklingMineWastes.md](#-file-04_knowledge-base-wiki-sources-tacklingminewastes-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/UsingPRISMAHyperspectral.md](#-file-04_knowledge-base-wiki-sources-usingprismahyperspectral-md) (~53 words)
+- [04_Knowledge Base/wiki/sources/Wadoux2020Note.md](#-file-04_knowledge-base-wiki-sources-wadoux2020note-md) (~493 words)
 - [04_Knowledge Base/wiki/sources/WorldFertilizerTrends.md](#-file-04_knowledge-base-wiki-sources-worldfertilizertrends-md) (~55 words)
 - [04_Knowledge Base/wiki/sources/WorldFertilizerTrends2019.md](#-file-04_knowledge-base-wiki-sources-worldfertilizertrends2019-md) (~55 words)
 - [04_Knowledge Base/wiki/sources/abdolmalekiOreWasteDiscriminationUsing2022.md](#-file-04_knowledge-base-wiki-sources-abdolmalekiorewastediscriminationusing2022-md) (~58 words)
@@ -343,7 +353,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md](#-file-04_knowledge-base-wiki-concepts-code-—-root-—-articles-progress-and-metrics-md) (~350 words)
 - [04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-bad-bands-detection-md) (~379 words)
 - [04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-ml-models-classifier-md) (~352 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Books Reference Library.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-books-reference-library-md) (~382 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-ocp-institutional-documents-md) (~532 words)
 - [04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-phd-1st-xrd-reports-md) (~493 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-prisma-khouribga-satellite-scenes-md) (~427 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-shepelife-lithology-datasets-md) (~403 words)
 - [04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-um6p-amics-microxrf-training-datasets-md) (~594 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
@@ -363,8 +377,10 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mine-waste-md) (~492 words)
 - [04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mineral-validation-scheme-md) (~414 words)
 - [04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md](#-file-04_knowledge-base-wiki-concepts-phosphate-waste-rock-piles-sampling-strategy-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping.md](#-file-04_knowledge-base-wiki-concepts-project-overview-—-shepelife-lithology-mapping-md) (~366 words)
 - [04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md](#-file-04_knowledge-base-wiki-concepts-reclamation-monitoring-md) (~664 words)
 - [04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md](#-file-04_knowledge-base-wiki-concepts-reclamation-progress-index-md) (~549 words)
+- [04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis.md](#-file-04_knowledge-base-wiki-concepts-research-note-—-shepelife-classification-accuracy-analysis-md) (~590 words)
 - [04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md](#-file-04_knowledge-base-wiki-concepts-rietveld-refinement-in-xrd-md) (~427 words)
 - [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
@@ -1224,6 +1240,61 @@ summary: "Map of Content for Automated Mineralogy and XRF/Micro-XRF characteriza
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md
+
+---
+tags:
+date: 2026-06-13
+summary: "Map of Content for Hyperspectral Remote Sensing, Satellite Missions, and Machine Learning Spectral Unmixing."
+---
+
+
+# Hyperspectral Remote Sensing MOC
+
+> Map of Content for Hyperspectral Remote Sensing, Satellite Missions, and Machine Learning Spectral Unmixing.
+
+---
+
+## 🛰️ Spaceborne & Airborne Missions
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]] — Italian Space Agency hyperspectral mission (30m HSI, 5m PAN)
+- [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP Satellite]] — German spaceborne hyperspectral mission
+- [[04_Knowledge Base/wiki/concepts/Sentinel-2 Satellite|Sentinel-2 Satellite]] — Multispectral ESA mission used for regional vegetation baseline
+
+## 🗃️ Datasets & Data Assets
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes|Data Asset — PRISMA Khouribga Satellite Scenes]] — L1/L2D PRISMA scenes over Khouribga for transfer studies
+- [[04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents|Data Asset — OCP Institutional Documents]] — OCP progressive reclamation reports and operations data
+- [[04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets|Data Asset — Shepelife Lithology Datasets]] — CSV and GeoJSON dataset inventory for the Shepelife mapping prototype
+
+## 🧠 Core Spectral Concepts & Classifiers
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] — Core definition and scale features (lab, UAV, satellite)
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]] — Spectral feature extraction, continuum removal, derivatives
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]] — Sub-pixel abundance estimation (VCA + FCLS algorithms)
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]] — Support Vector Machines, Random Forests, and CNN architectures
+- [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]] — Block-CV and spatial validation methods to resolve autocorrelation
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]] — Formulation of indices to monitor vegetation recovery on waste rock
+
+## 🧪 Project Prototypes & Case Studies
+- [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Project Overview — Shepelife Lithology Mapping]] — Shepelife regional lithological ML mapping overview
+- [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]] — Analysis of low accuracy metrics (15-27%) and scale mismatches
+
+
+## 📄 Key Reference Literature
+- [[04_Knowledge Base/wiki/sources/Shippert2003Introduction|Shippert2003Introduction]] — Foundational tutorial on hyperspectral image analysis workflows
+- [[04_Knowledge Base/wiki/sources/Guha2019Reflectance|Guha2019Reflectance]] — ASTER multispectral mapping of sedimentary rock-phosphate (Aravalli, India)
+- [[04_Knowledge Base/wiki/sources/Hernandez2013Spectral|Hernandez2013Spectral]] — VNIR-SWIR-TIR diffuse reflectance spectroscopy of igneous phosphates (Brazil)
+- [[04_Knowledge Base/wiki/sources/Heincke2019Developing|Heincke2019Developing]] — Drone-based multi-sensor geoscientific surveying (MULSEDRO project)
+- [[04_Knowledge Base/wiki/sources/McHugh2001Simplified|McHugh2001Simplified]] — Tripod-mounted LCTF hyperspectral camera for mine slope geologic mapping
+- [[04_Knowledge Base/wiki/sources/Ewing2020Utilizing|Ewing2020Utilizing]] — Correlation of soil grain-size (gradation curves) to spectral scattering properties
+- [[04_Knowledge Base/wiki/sources/Forkuor2017High|Forkuor2017High]] — Comparing Random Forest, SVM, SGB, and MLR for high-resolution soil property mapping
+- [[04_Knowledge Base/wiki/sources/Wadoux2020Note|Wadoux2020Note]] — Critical critique of using black-box machine learning for pedological knowledge discovery
+- [[04_Knowledge Base/wiki/sources/Liu2018Quantitative|Liu2018Quantitative]] — Scaling soil mapping models from lab contact-probe to airborne flights
+
+---
+*Related: [[Home|Mission Control]] | [[04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC|Wiki-Concept MOC]] | [[04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC|Automated Mineralogy MOC]]*
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md
 
 ---
@@ -1734,6 +1805,180 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/Ewing2020Utilizing.md
+
+---
+date: 2026-06-13
+title: "Utilizing hyperspectral remote sensing for soil gradation"
+tags:
+---
+
+
+# 📄 Utilizing hyperspectral remote sensing for soil gradation
+
+* **Authors:** Jordan Ewing, T. Oommen, Paramsothy Jayakumar, and Russell Alger
+* **Published in:** *Remote Sensing* (2020, Vol. 12, No. 20, Article ID: 3312)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Ewing2020Utilizing)
+* **DOI:** [10.3390/rs12203312](https://doi.org/10.3390/rs12203312)
+
+---
+
+## 📝 Abstract
+Soil gradation, representing the distribution of particle sizes in a soil sample, is a critical parameter for evaluating soil strength, hydraulic conductivity, and trafficability. Traditional laboratory methods for determining soil gradation (sieve analysis and hydrometer tests) are destructive, labor-intensive, and limited in spatial coverage. This study investigates the feasibility of using visible and near-infrared (VNIR) and short-wave infrared (SWIR) hyperspectral remote sensing (350–2500 nm) to estimate soil gradation parameters. Laboratory spectroscopy was performed on soil samples representing various gradation curves. Statistical models and machine learning regressions were used to correlate spectral reflectance curves to soil gradation coefficients ($C_u$ and $C_c$, and particle diameters $D_{10}$, $D_{30}$, $D_{60}$). The findings show that soil surface roughness, micro-topography, and scattering coefficients—which vary systematically with grain size—produce distinct changes in spectral shape and absorption band depths, enabling non-destructive estimation of soil gradation curves.
+
+---
+
+## 💡 Key Points
+* **Grain Size and Reflectance Correlation**: Establishes that soil particle size distribution (gradation) affects how light scatters off the surface. Coarser soils have larger pores and create micro-shadows, which reduces overall reflectance. Finer soils increase multiple scattering, resulting in higher overall reflectance.
+* **Spectral Feature Extraction**: Demonstrates that the slope of the reflectance curve in VNIR and the depth of water absorption bands (1400 nm and 1900 nm) correlate strongly with the percentage of fines (silt and clay fractions) because smaller grains have a higher specific surface area, retaining more hygroscopic moisture.
+* **Regression Modeling**: Utilizes Partial Least Squares Regression (PLSR) and Machine Learning (Random Forest) to predict geotechnical metrics like $D_{50}$ (median grain size) from spectral signatures.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Measurement**: Laboratory hyperspectral signatures (ASD FieldSpec spectroradiometer) paired with geotechnical sieve analysis.
+* **Metrics Estimated**: Effective particle size ($D_{10}$), coefficient of uniformity ($C_u$), and coefficient of curvature ($C_c$).
+
+---
+
+## 🎓 Relevance to Thesis
+* **Waste Rock Particle Sorting**: Waste rock dumps (cavaliers) at the Benguerir mine exhibit significant spatial segregation of particle sizes (coarse blocks at the bottom, finer gravels/soil at the top due to gravity sorting during tipping). This paper provides a theoretical basis for using remote sensing to map grain-size variations across these dumps.
+* **Reclamation Suitability**: Finer-grained waste rocks hold more water and are more suitable for revegetation formulation. Mapping gradation remotely helps target reclamation soils to the optimal areas.
+
+---
+
+## 📓 Notes
+* The original file is stored at [346172122.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/346172122.pdf) in the D-Drive.
+* Explores an innovative extension of remote sensing: moving beyond chemical/mineralogical identification to physical/geotechnical property characterization.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Forkuor2017High.md
+
+---
+date: 2026-06-13
+title: "High Resolution Mapping of Soil Properties Using Remote Sensing Variables in South-Western Burkina Faso: A Comparison of Machine Learning and Multiple Linear Regression Models"
+tags:
+---
+
+
+# 📄 High Resolution Mapping of Soil Properties Using Remote Sensing Variables in South-Western Burkina Faso: A Comparison of Machine Learning and Multiple Linear Regression Models
+
+* **Authors:** Gerald Forkuor, Ozias K. L. Hounkpatin, Gerhard Welp, and Michael Thiel
+* **Published in:** *PLoS ONE* (2017, Vol. 12, No. 1, e0170594)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Forkuor2017High)
+* **DOI:** [10.1371/journal.pone.0170594](https://doi.org/10.1371/journal.pone.0170594)
+
+---
+
+## 📝 Abstract
+Detailed spatial soil information is crucial for agricultural planning, ecological modeling, and sustainable land management. This study evaluates the effectiveness of incorporating high-resolution multispectral satellite data (RapidEye and Landsat 8) and topographic index variables to map six soil properties: sand, silt, clay, soil organic carbon (SOC), nitrogen, and cation exchange capacity (CEC). The study compares Multiple Linear Regression (MLR) against three machine learning (ML) algorithms: Random Forest (RF), Support Vector Machines (SVM), and Stochastic Gradient Boosting (SGB). Conducted over a 580 km2 watershed in Burkina Faso, the models were trained on 135 soil samples. Results show that machine learning models consistently outperform MLR, with Random Forest and Stochastic Gradient Boosting yielding the lowest root mean square errors (RMSE) and highest $R^2$ values. RapidEye's red-edge channel was identified as a critical variable in mapping soil properties, particularly clay content and CEC.
+
+---
+
+## 💡 Key Points
+* **Algorithm Comparison**: Evaluates regression performance:
+  * **Random Forest (RF)**: Handled complex interactions and outliers without overfitting, ranking as the most stable and accurate model for clay and SOC mapping.
+  * **Stochastic Gradient Boosting (SGB)**: Showed comparable accuracy to RF but was slightly more sensitive to training set configurations.
+  * **Support Vector Machine (SVM)**: Effective but required extensive hyperparameter tuning ($C$, $\gamma$) to prevent overfitting.
+  * **Multiple Linear Regression (MLR)**: Failed to capture non-linear interactions between covariates and soil properties, showing poor generalizability.
+* **Red-Edge Spectral Value**: Demonstrates that sensors containing a red-edge band (like RapidEye or Sentinel-2) significantly improve the prediction accuracy of clay fractions and soil hydration states over traditional RGB-NIR sensors.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Data Sources**: RapidEye (5m spatial resolution, 5 bands including red-edge), Landsat 8 (30m spatial resolution), and ASTER DEM topographic indices.
+* **Validation**: 10-fold cross-validation of spatial-spectral predictions.
+
+---
+
+## 🎓 Relevance to Thesis
+* Validates the transition from linear models (Multiple Linear Regression) to non-linear machine learning architectures (such as Random Forests) for soil and mine waste characterization.
+* Supports the usage of red-edge and SWIR band indicators in Abdelhak's predictive pipelines, reinforcing that non-linear ML models are required to map heterogeneous targets (like phosphate waste rock compositions).
+
+---
+
+## 📓 Notes
+* The original file is stored at [forkuor2017.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/forkuor2017.pdf) in the D-Drive.
+* Emphasizes the value of combining topographic covariates (DEM-derived slope, wetness index) with spectral covariates, which is highly relevant for mapping hummocky waste rock terrains (cavaliers) where slope directly influences weathering and moisture retention.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Guha2019Reflectance.md
+
+---
+date: 2026-06-13
+title: "Reflectance spectroscopy and ASTER based mapping of rock-phosphate in parts of Paleoproterozoic sequences of Aravalli group of rocks, Rajasthan, India"
+tags:
+---
+
+
+# 📄 Reflectance spectroscopy and ASTER based mapping of rock-phosphate in parts of Paleoproterozoic sequences of Aravalli group of rocks, Rajasthan, India
+
+* **Authors:** Arindam Guha, K. Vinod Kumar, Alok Porwal, Komal Rani, K.C. Sahoo, S.R. Aneesh Kumar, V. Singaraju, R.P. Singh, M.K. Khandelwal, P.V. Raju, and P.G. Diwakar
+* **Published in:** *Ore Geology Reviews* (2019, Vol. 108, pp. 73-87)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Guha2019Reflectance)
+* **DOI:** [10.1016/j.oregeorev.2018.02.021](https://doi.org/10.1016/j.oregeorev.2018.02.021)
+
+---
+
+## 📝 Abstract
+Rock-phosphate (phosphorite) deposits are critical raw materials for fertilizer production. Identifying and mapping these deposits is vital for exploration and resource management. This study demonstrates the use of laboratory reflectance spectroscopy and ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer) multispectral data to map rock-phosphate occurrences in the Aravalli Basin, India. Laboratory spectral analysis shows that rock-phosphates exhibit diagnostic absorption features in the Short-Wave Infrared (SWIR) region (around 1400 nm, 1900 nm, and 2200-2300 nm) related to water/hydroxyl groups and carbonate substitution in the apatite lattice (carbonate fluorapatite). The authors applied spectral mapping methods—including Matched Filtering (MF) and Adaptive Coherence Estimator (ACE)—to ASTER SWIR and VNIR channels. The results show that ASTER's band configuration (particularly bands 4 to 9 in the SWIR) can successfully delineate rock-phosphate zones, which were validated against field geology maps and geochemical assays.
+
+---
+
+## 💡 Key Points
+* **Phosphate Spectral Response**: Identifies that carbonate fluorapatite (francolite) exhibits characteristic absorption features near **1430 nm**, **1920 nm**, and a doublet around **2200-2300 nm** due to structural carbonate ($CO_3^{2-}$) and hydroxyl ($OH^-$) groups.
+* **Multispectral Feasibility**: Demonstrates that despite ASTER's relatively broad spectral channels compared to hyperspectral sensors, its 6 SWIR bands are strategically placed to capture the slopes and absorption depths associated with phosphate-rich host rocks (typically dolomites and cherts).
+* **Advanced Unmixing Algorithms**:
+  * **Matched Filtering (MF)**: Projects the image spectra into a subspace orthogonal to background spectra to map abundance without knowing background endmembers.
+  * **Adaptive Coherence Estimator (ACE)**: A detector invariant to scaling, showing superior performance in suppressing background lithologies like pure dolomites.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Spectroscopy**: Laboratory measurements of outcrop samples using a FieldSpec spectroradiometer (350–2500 nm).
+* **Satellite Processing**: Radiometric calibration, atmospheric correction (FLAASH), and pixel-based mapping using ASTER's 30-meter SWIR bands.
+* **Target Detection**: MF and ACE algorithms are used to generate mineral abundance index maps.
+
+---
+
+## 🎓 Relevance to Thesis
+* Validates the spectral characteristics of carbonate fluorapatite in SWIR, confirming the physical basis for mapping phosphate mine waste.
+* Offers a direct comparison between multispectral ASTER and the newer hyperspectral sensors (PRISMA and EnMAP) utilized in Abdelhak's thesis, showing how increasing spectral resolution improves mapping accuracy in complex mine environments.
+
+---
+
+## 📓 Notes
+* The original file is stored at [1-s2.0-S0169136817306285-main.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/1-s2.0-S0169136817306285-main.pdf) in the D-Drive.
+* Emphasizes the role of carbonate substitution in apatite spectral behavior, which is critical for distinguishing phosphate ores from background dolomitic waste rock.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+- [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019.md
 
 ---
@@ -1780,6 +2025,121 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Heincke2019Developing.md
+
+---
+date: 2026-06-13
+title: "Developing multi-sensor drones for geological mapping and mineral exploration: setup and first results from the MULSEDRO project"
+tags:
+---
+
+
+# 📄 Developing multi-sensor drones for geological mapping and mineral exploration: setup and first results from the MULSEDRO project
+
+* **Authors:** Björn Heincke, Robert Jackisch, Ari Saartenoja, and the MULSEDRO Consortium
+* **Published in:** *Geological Survey of Denmark and Greenland Bulletin* (2019, Vol. 43, Article ID: e2019430302)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Heincke2019Developing)
+* **DOI:** [10.34194/GEUSB-201943-03-02](https://doi.org/10.34194/GEUSB-201943-03-02)
+
+---
+
+## 📝 Abstract
+Unmanned Aerial Systems (UAS), or drones, are transforming geologic mapping and mineral exploration by offering a cost-effective, high-resolution bridge between ground surveys and airborne/spaceborne platforms. This paper details the hardware setup and initial survey results of the EU-funded MULSEDRO (MULti-SEnsor DROnes) project. The project focuses on integrating lightweight magnetic and hyperspectral sensors on both fixed-wing and multicopter drones. Fixed-wing platforms equipped with fluxgate magnetometers allow rapid coverage of large areas for structural mapping, while multicopters carrying hyperspectral frame cameras (VNIR-SWIR range) provide ultra-high-resolution spatial-spectral datasets over exposed outcrops. Field tests in well-exposed targets demonstrate the system's ability to map lithological boundaries, alteration mineralogy, and iron-bearing units, providing an optimized operational workflow for commercial exploration.
+
+---
+
+## 💡 Key Points
+* **Integrated Positioning System (IPS)**: Introduces a new, non-GPS-based integrated positioning system developed specifically for drones operating in remote, high-latitude, or GPS-denied environments (critical for arctic and sub-arctic exploration).
+* **Multi-Sensor Synergy**:
+  * **Magnetic Surveys**: Run on lightweight, stable fixed-wing drones to trace deep-seated structural features and iron-ore distributions (magnetite/pyrrhotite).
+  * **Hyperspectral Imaging (HSI)**: Deployed on multicopter drones to map surface mineralogy (VNIR-SWIR bands) based on spectral absorption valleys.
+* **Outcrop Mapping Success**: Confirms that drone-based hyperspectral cameras can resolve complex mineral configurations on vertical cliff-faces and slopes that are poorly resolved by downward-looking satellites.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Platforms**: Custom-built fixed-wing and octocopter drones carrying magnetometer payloads and frame-based hyperspectral cameras.
+* **Relevance to Thesis**: Explains the integration of multi-scale remote sensing systems. UAV drones serve as a vital intermediate scale, validating satellite unmixing models (like those from PRISMA and EnMAP) at sub-meter spatial resolutions.
+
+---
+
+## 🎓 Relevance to Thesis
+* Provides independent validation of how hyperspectral imaging can be scaled and integrated with other geophysical variables.
+* Supports the usage of drone-derived digital surface models (DSM) and close-range spectral datasets to validate the accuracy of satellite-derived mine reclamation classifications.
+
+---
+
+## 📓 Notes
+* The original file is stored at [geusb-201943-03-02.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/geusb-201943-03-02.pdf) in the D-Drive.
+* Highlights the technological trend of deploying compact, lightweight hyperspectral frame cameras on UAVs for rapid field verification.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]
+- [[02_Academic & Work/thesis/Pipeline_MOC|Hyperspectral Pipelines]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Hernandez2013Spectral.md
+
+---
+date: 2026-06-13
+title: "Spectral reflectance and emissivity features of PO4-bearing carbonatitic rocks from the Catalão I and Tapira complexes: New constraints for detection of igneous phosphates with remote sensing data"
+tags:
+---
+
+
+# 📄 Spectral reflectance and emissivity features of PO4-bearing carbonatitic rocks from the Catalão I and Tapira complexes: New constraints for detection of igneous phosphates with remote sensing data
+
+* **Authors:** Emanuel Amorer Hernandez and Carlos Roberto de Souza Filho
+* **Published in:** *Anais XVI Simpósio Brasileiro de Sensoriamento Remoto - SBSR* (2013, pp. 7320-7327)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Hernandez2013Spectral)
+
+---
+
+## 📝 Abstract
+To determine the feasibility of conducting remote sensing of igneous phosphate rocks, reflectance and diffuse reflectance measurements were performed on carbonatitic rocks and associated weather products from the Catalão I and Tapira alkaline-carbonatitic complexes, Brazil. The study covers the Visible, Near-Infrared, Short-Wave Infrared (VNIR-SWIR: 400-2500 nm), and Thermal Infrared (TIR: 8000-14000 nm) spectral ranges. Results show that phosphate minerals (predominantly fluorapatite) exhibit diagnostic absorption features in both the SWIR and TIR. The VNIR-SWIR range is dominated by features associated with carbonates (calcite/dolomite at 2300 nm and 2500 nm), iron oxides (goethite/hematite in VNIR), and phosphate-bearing minerals, while the TIR range exhibits diagnostic phosphate-reststrahlen bands (around 9000-11000 nm) related to P-O stretching vibrations. These spectral signatures provide new constraints and templates for the detection and mapping of phosphate-bearing units using airborne or spaceborne multispectral/hyperspectral sensors.
+
+---
+
+## 💡 Key Points
+* **Multispectral Spectral Ranges**: Maps phosphate spectral behavior across three key regions:
+  * **VNIR (400-1000 nm)**: Dominated by charge-transfer and crystal-field transitions in iron oxides (hematite/goethite) present in weathered carbonatite matrices.
+  * **SWIR (1000-2500 nm)**: Characterized by structural carbonate vibrational overtones (calcite at 2340 nm, dolomite at 2320 nm) and structural $OH^-$ and water overtones in apatite and accessory clay minerals.
+  * **TIR (8000-14000 nm)**: Features the diagnostic $PO_4^{3-}$ fundamental stretching vibrations (reststrahlen bands) between 9000 nm and 11000 nm, which are distinct from silicate or carbonate reststrahlen features.
+* **Igneous vs. Sedimentary Phosphates**: Highlights that igneous phosphates (fluorapatite) show slightly different absorption depths and widths than sedimentary carbonates-apatite (francolite) due to differing substitution rates of carbonate for phosphate.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Spectral Analysis**: Lab-based VNIR-SWIR and TIR diffuse reflectance spectroscopy of weathered and unweathered carbonatite drill cores and hand samples.
+* **Complexes Studied**: Catalão I and Tapira, major Brazilian phosphate and niobium deposits.
+
+---
+
+## 🎓 Relevance to Thesis
+* Validates the spectral mapping of phosphate minerals, specifically providing a template for how apatite features are masked or highlighted by co-existing carbonates (calcite/dolomite) and iron oxides.
+* Explores the potential of using Thermal Infrared (TIR) bands for phosphate characterization, representing an alternative or complementary method to the VNIR-SWIR unmixing models used in Chapters 2 and 3 of the thesis.
+
+---
+
+## 📓 Notes
+* The original file is stored at [p0420.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/p0420.pdf) in the D-Drive.
+* Emphasizes that while VNIR-SWIR can map associated alteration minerals (carbonates, clays), TIR holds the most direct chemical signature for fundamental phosphate ($P-O$) vibrations.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+- [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
 
 
 
@@ -1859,6 +2219,64 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/Liu2018Quantitative.md
+
+---
+date: 2026-06-13
+title: "Quantitative Mapping of Soil Property Based on Laboratory and Airborne Hyperspectral Data Using Machine Learning"
+tags:
+---
+
+
+# 📄 Quantitative Mapping of Soil Property Based on Laboratory and Airborne Hyperspectral Data Using Machine Learning
+
+* **Author:** Lanfa Liu
+* **Published as:** PhD Dissertation, Faculty of Environmental Sciences, TU Dresden, Germany (2018)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Liu2018Quantitative)
+
+---
+
+## 📝 Abstract
+This dissertation investigates the application of laboratory and airborne hyperspectral remote sensing paired with machine learning algorithms to quantitatively map soil properties (organic carbon, soil texture, pH, and nitrogen). The study evaluates the scaling effects when moving from laboratory contact-probe measurements (controlled conditions, high signal-to-noise ratio) to airborne hyperspectral imaging flights (atmospheric attenuation, surface roughness, vegetative cover). It compares multiple regression models—including Partial Least Squares Regression (PLSR), Support Vector Machine Regression (SVMR), Random Forest Regression (RFR), and Artificial Neural Networks (ANN). Furthermore, the author evaluates spectral preprocessing combinations (first/second derivatives, continuum removal, and Savitzky-Golay filtering) and feature selection methods to optimize prediction models, providing a comprehensive framework for digital soil mapping.
+
+---
+
+## 💡 Key Points
+* **Scale Transferability Issues**: Focuses on the challenge of applying laboratory-calibrated prediction models directly to airborne or satellite imagery. Lab models often over-predict properties when applied to airborne data due to differences in illumination geometry, soil moisture, and sub-pixel vegetation mixing.
+* **Algorithm Benchmarking**:
+  * **RFR and SVMR**: Showed superior capability in handling non-linear relationships compared to linear PLSR, particularly in soils with complex agricultural matrices.
+  * **Spectral Preprocessing**: Demonstrates that Savitzky-Golay smoothing combined with first derivatives (SG-1D) provides the best balance between signal amplification and noise suppression.
+* **Feature Selection**: Compares Genetic Algorithms (GA) and Competitive Adaptive Reweighted Sampling (CARS) to isolate critical spectral bands, which reduces model dimensionality and improves calculation speeds.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Data Ingestion**: Laboratory spectroscopy (350–2500 nm ASD FieldSpec) and airborne HyMap hyperspectral data.
+* **Target Parameters**: Soil organic carbon, soil texture fractions (sand, silt, clay), and pH.
+* **Software**: Executed using R and Python scripting.
+
+---
+
+## 🎓 Relevance to Thesis
+* Directly matches Abdelhak's multi-scale remote sensing framework: collecting laboratory spectrometer signatures (ASD FieldSpec 4) and transferring those calibrations to satellite scales (PRISMA and EnMAP).
+* Provides a baseline methodology for spectral preprocessing (Savitzky-Golay smoothing and derivatives) and variable selection which were adapted for the VCA-FCLS unmixing and Random Forest models in the thesis.
+
+---
+
+## 📓 Notes
+* The original file is stored at [236379345.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/236379345.pdf) in the D-Drive.
+* A highly valuable reference for structuring a remote sensing PhD dissertation, illustrating how to systematically lay out scale comparison chapters.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+- [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/MappingHyperspectralAVIRIS.md
 
 ---
@@ -1880,6 +2298,62 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/McHugh2001Simplified.md
+
+---
+date: 2026-06-13
+title: "Simplified Hyperspectral Imaging for Improved Geologic Mapping of Mine Slopes"
+tags:
+---
+
+
+# 📄 Simplified Hyperspectral Imaging for Improved Geologic Mapping of Mine Slopes
+
+* **Authors:** Edward L. McHugh, Jami M. Girard, and Louis J. Denes
+* **Published by:** National Institute for Occupational Safety and Health (NIOSH) Spokane Research Laboratory & Carnegie Mellon Research Institute (2001)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@McHugh2001Simplified)
+
+---
+
+## 📝 Abstract
+A prototype portable hyperspectral imager that operates in the visible and near-infrared (VNIR) ranges of the electromagnetic spectrum was field tested at an open-pit mine. The tests were sponsored by the Spokane Research Laboratory, National Institute for Occupational Safety and Health (NIOSH), as part of an investigation into using remote sensing technologies to identify hazardous geological structures on mine slopes. The imager utilizes a liquid crystal tunable filter (LCTF) to rapidly capture sequential narrow-band spectral images, creating a hyperspectral datacube. The primary objective is to evaluate the system's ability to map geological features, rock classes, clay distributions, and alteration zones directly on exposed mine faces. Field tests demonstrate that the system can resolve fine structural boundaries and identify clay-rich hazard zones that are critical for slope stability monitoring.
+
+---
+
+## 💡 Key Points
+* **Liquid Crystal Tunable Filter (LCTF) Technology**: Highlights the use of an LCTF camera system. Instead of using a traditional grating spectrometer which requires line-scanning (push-broom), the LCTF captures full-frame 2D images sequentially at different wavelengths. This makes it highly portable and suitable for static mine-slope imaging.
+* **Geologic Structural Mapping**: Demonstrates the detection of joint sets, faults, and weak clay interlayers (such as montmorillonite/kaolinite) on highwalls. Mapping these features helps mine engineers identify potential block-fall or landslide hazards.
+* **Spectral Alteration Indicators**: Successfully maps structural water and hydroxyl ($OH$) absorption features in VNIR (specifically looking at iron oxide weathering and clay hydration states).
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Equipment**: Tunable filter hyperspectral camera (VNIR: 400-1000 nm range) mounted on a tripod facing open-pit mine highwalls.
+* **Data Ingestion**: Sequence of 2D images collected at 10-20 nm intervals, compiled into a 3D spatial-spectral datacube.
+* **Processing**: Supervised spectral angle mapping (SAM) and band ratioing to isolate mineral concentrations.
+
+---
+
+## 🎓 Relevance to Thesis
+* Provides historical precedent for applying hyperspectral imaging to active mine site characterization and environmental safety.
+* Supports the multi-scale characterization framework (ground/close-range vs. satellite) by demonstrating that close-range portable hyperspectral scanners can validate satellite classifications (like PRISMA and EnMAP) on vertical exposures (highwalls and dumps) where downward-looking satellites suffer from geometric distortions.
+
+---
+
+## 📓 Notes
+* The original file is stored at [shifig.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/shifig.pdf) in the D-Drive.
+* Shows how early hyperspectral research in the mining sector was driven by engineering geology and slope stability concerns, prior to the widespread application of the technology for environmental reclamation monitoring.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group and Benguerir Mine]]
 
 
 
@@ -2338,6 +2812,68 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/Shippert2003Introduction.md
+
+---
+date: 2026-06-13
+title: "Introduction to Hyperspectral Image Analysis"
+tags:
+---
+
+
+# 📄 Introduction to Hyperspectral Image Analysis
+
+* **Author:** Peg Shippert
+* **Published by:** Research Systems, Inc. (2003)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Shippert2003Introduction)
+
+---
+
+## 📝 Abstract
+Hyperspectral remote sensing, also known as imaging spectroscopy, is a relatively new technology that compiles continuous, high-resolution spectral profiles for each pixel in an image. Unlike multispectral sensors (such as Landsat or SPOT) which capture discrete, non-contiguous bands, hyperspectral sensors (such as AVIRIS and Hyperion) measure reflectances across dozens or hundreds of narrow, contiguous bands. This allows for the precise identification of materials based on their unique molecular absorption characteristics. This paper provides a comprehensive introduction to hyperspectral image analysis workflows. It reviews: (1) physical concepts of spectroscopy, (2) raw data preprocessing and atmospheric correction, (3) spectral dimensionality reduction techniques, (4) endmember extraction methods, and (5) spatial mapping and classification algorithms.
+
+---
+
+## 💡 Key Points
+* **Multispectral vs. Hyperspectral**:
+  * *Multispectral*: Measures discrete bands. Useful for broad land cover categories but cannot distinguish specific minerals or vegetative species.
+  * *Hyperspectral*: Gathers continuous spectra, making it possible to resolve narrow absorption features (10-20 nm wide) unique to specific compounds.
+* **Standard Hyperspectral Analysis Workflow**:
+  1.  **Atmospheric Correction**: Converting raw radiances to surface reflectance (e.g., using ATREM, ACORN, or FLAASH) by modeling atmospheric water vapor and aerosols.
+  2.  **Minimum Noise Fraction (MNF)**: A two-phase principal component rotation that segregates noise from coherent signal, facilitating data compression.
+  3.  **Pixel Purity Index (PPI)**: Iterative projection of MNF-transformed data onto random vectors to locate the most extreme, "pure" pixels (endmembers).
+  4.  **Endmember Extraction**: Identifying the core spectral signatures representing pure classes (soil, water, specific minerals, vegetation).
+  5.  **Spectral Angle Mapper (SAM)**: Classifies pixels by measuring the angular difference between their spectral vector and reference endmember vectors in $N$-dimensional space.
+  6.  **Linear Spectral Unmixing (LSU)**: Models pixel spectra as a linear combination of endmembers, calculating sub-pixel fractional abundances.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Scope**: Theoretical and practical tutorial covering classical hyperspectral analysis tools implemented in ENVI software.
+* **Relevance to Thesis**: Provides the textbook definitions and baseline mathematics for the hyperspectral workflows used throughout the PhD research.
+
+---
+
+## 🎓 Relevance to Thesis
+* Explains the mathematical progression from raw DN values to sub-pixel abundance maps, directly supporting the unmixing methodologies (VCA-FCLS) developed in Abdelhak's python pipelines.
+* Serves as an excellent pedagogical reference note for the thesis introduction and literature review chapters (Chapter 1 and Chapter 2).
+
+---
+
+## 📓 Notes
+* The original file is stored at [shippert.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/shippert.pdf) in the D-Drive.
+* A foundational paper that explains *why* hyperspectral is necessary: multispectral sensors lump key mineral absorption valleys into single broad channels, completely masking their presence.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/SpectralReflectanceCarbonate.md
 
 ---
@@ -2409,6 +2945,62 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Wadoux2020Note.md
+
+---
+date: 2026-06-13
+title: "A note on knowledge discovery and machine learning in digital soil mapping"
+tags:
+---
+
+
+# 📄 A note on knowledge discovery and machine learning in digital soil mapping
+
+* **Authors:** Alexandre M. J.-C. Wadoux, Alessandro Samuel-Rosa, Laura Poggio, and Vera Leatitia Mulder
+* **Published in:** *European Journal of Soil Science* (2020, Vol. 71, pp. 133-136)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Wadoux2020Note)
+* **DOI:** [10.1111/ejss.12909](https://doi.org/10.1111/ejss.12909)
+
+---
+
+## 📝 Abstract
+In digital soil mapping, machine learning (ML) models are increasingly used to predict soil properties and discover the underlying relationships between soils and environmental covariates. This short communication warns against equating statistical pattern recognition with pedological knowledge discovery. The authors present a hypothetical case study where ML models (Random Forest) are trained on meaningless "pseudo-covariates" (specifically, coordinate matrices and arbitrary random noise grids). They demonstrate that these ML models can achieve very high predictive accuracy ($R^2 > 0.8$) on test datasets by capturing spatial autocorrelation and random overlaps, despite having no physical or causal relationship with soil-forming factors. The authors argue that ML models can identify patterns anywhere, but translating these patterns into scientific "knowledge" requires physical validation, causal reasoning, and pedological theory.
+
+---
+
+## 💡 Key Points
+* **The "Pseudo-Covariates" Trap**: Shows that Random Forest models can accurately fit soil organic carbon (SOC) spatial patterns using coordinates and random noise grids. This occurs because ML algorithms excel at partitioning the feature space to memorize local configurations, even when covariates violate basic physical principles of soil science (e.g., Clorpt equation).
+* **Prediction vs. Explanation**: Highlights that high predictive performance (low RMSE, high $R^2$) on cross-validation sets does not prove that the model has "discovered" a true physical or geological relationship.
+* **Call for Physical Constraints**: Recommends incorporating physical constraints, geochemical limits, or prior geological knowledge into ML architectures, rather than relying on pure data-driven parameterizations.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Case Study**: Simulated soil organic carbon prediction using a Random Forest regression model on spatial datasets, comparing real environmental covariates against random noise.
+* **Relevance to Thesis**: A critical warning for hyperspectral and geochemical machine learning pipelines. It highlights the risk of overfitting models to local spatial coordinates or atmospheric noise rather than true mineralogical reflectances.
+
+---
+
+## 🎓 Relevance to Thesis
+* Stresses the absolute necessity of validating the machine learning models (used for waste-rock mapping and classification) against physical mineralogy (XRD assays) and geochemical ground-truth (HHXRF), rather than relying solely on high statistical scores.
+* Directly informs the cross-validation strategy, supporting the use of spatially independent block cross-validation (Block-CV) rather than random split cross-validation, which is highly prone to spatial autocorrelation bias.
+
+---
+
+## 📓 Notes
+* The original file is stored at [wadoux2019.pdf](file:///D:/ALL/core.ac.uk/Remote%20sensing/wadoux2019.pdf) in the D-Drive.
+* A crucial paper for maintaining scientific integrity when using black-box classifiers on remote sensing imagery.
+
+---
+
+## 🕸️ Links
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+- [[04_Archives/D-Drive/D-Drive — ALL]]
 
 
 
@@ -10419,6 +11011,127 @@ Uses `rasterio` and a trained model to classify an entire PRISMA scene, exportin
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Books Reference Library.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note indexing reference books on mine site rehabilitation, revegetation, and phytoremediation in D:\\ALL\\Books"
+---
+
+
+# 📚 Data Asset — Books Reference Library
+
+This note catalogs the reference books located in [D:\ALL\Books\](file:///D:/ALL/Books) used in years 2–3 of the PhD to establish a theoretical foundation for mine site rehabilitation, soil formulation, and vegetation recovery monitoring.
+
+---
+
+## 📖 Books Inventory
+
+### 1. Spoil to Soil: Mine Site Rehabilitation and Revegetation
+*   **Filename**: [Spoil to Soil_ Mine Site Rehabilitation and Revegetation.pdf](file:///D:/ALL/Books/Spoil%20to%20Soil_%20Mine%20Site%20Rehabilitation%20and%20Revegetation.pdf)
+*   **Format**: PDF (28.8 MB)
+*   **Subjects Covered**: 
+    *   Soil reconstruction and transformation of raw mine wastes (spoil) into functional soils.
+    *   Physical, chemical, and biological barriers to plant growth on mine spoils.
+    *   Application of organic and inorganic amendments (topsoil, biochar, composts, and by-products like phosphogypsum).
+    *   Ecosystem reconstruction and species selection for mine site revegetation.
+*   **Relevance to Thesis**: Provides baseline concepts for the soil formulation trials at the Benguerir mine (mixing topsoil, sewage sludge, and phosphogypsum).
+
+### 2. Revegetation and Phytoremediation of Tailings from a Lead-Zinc Mine
+*   **Filename**: [Revegetation and phytoremediation of tailings from a lead-zinc mine.pdf](file:///D:/ALL/Books/Revegetation%20and%20phytoremediation%20of%20tailings%20from%20a%20lead-zinc%20mine.pdf)
+*   **Format**: PDF (13.3 MB)
+*   **Subjects Covered**: 
+    *   Phytoremediation strategies (phytoextraction and phytostabilization) for heavy metal-rich mine tailings.
+    *   Use of metal-tolerant plants and accumulator species.
+    *   Rhizosphere interactions and microbial inoculants to support plant survival.
+    *   Long-term monitoring of vegetation cover and soil chemistry.
+*   **Relevance to Thesis**: Although focused on lead-zinc tailings, the ecological monitoring principles and vegetation indicators (fractional vegetation cover, spectral response) align with remote sensing monitoring of mine waste.
+
+### 3. Mine Rehabilitation Handbook (LPSDP)
+*   **Filename**: [lpsdp-mine-rehabilitation-handbook-english.pdf](file:///D:/ALL/Books/lpsdp-mine-rehabilitation-handbook-english.pdf)
+*   **Format**: PDF (10.7 MB)
+*   **Source**: Australian Government — Leading Practice Sustainable Development Program for the Mining Industry.
+*   **Subjects Covered**:
+    *   Leading practice guidelines for sustainable mine rehabilitation.
+    *   Integration of rehabilitation into mine planning and operations (progressive rehabilitation).
+    *   Landform design, stability, and geomorphic erosion modeling.
+    *   Rehabilitation criteria, success indicators, and sign-off protocols.
+*   **Relevance to Thesis**: Directly references progressive mine rehabilitation frameworks, supporting the operational context of OCP's land-shaping and reclamation workflows at Benguerir.
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|Phosphate Mine Reclamation]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
+*   **hub**:: [[04_Archives/D-Drive/D_Drive_Master_Hub]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note summarizing OCP institutional documents and operational procedures (Modes Opératoires) in D:\\ALL\\ocp"
+---
+
+
+# 🏢 Data Asset — OCP Institutional Documents
+
+This note catalogs and summarizes the OCP Group institutional documents and operational procedures (Modes Opératoires) stored in [D:\ALL\ocp\](file:///D:/ALL/ocp). These documents provide crucial industry context on mine operations, safety protocols, and progressive reclamation at the Benguerir mine site.
+
+---
+
+## 📝 Folder Summary & Key Content
+
+The OCP folder contains records from a 7-day field internship (stage) completed in the Gantour basin (Benguerir mine) during the early stages of the PhD. It details OCP's official protocols for reclamation and day-to-day mine operations.
+
+### 1. Mine Reclamation & Internship Report
+*   **Filename**: [Report.docx](file:///D:/ALL/ocp/Report.docx)
+*   **Key Information Extracted**:
+    *   **Historical Timeline**: OCP initiated formal mine rehabilitation protocols in **2014**. Prior to this, mined-out panels were left without systemic grading or revegetation.
+    *   **The Two Reclamation Axes**:
+        1.  **Aménagement (Shaping)**: Grading and stabilizing the waste rock piles (cavaliers) to reduce slopes and prevent erosion, executed using heavy machinery (Caterpillar D9 and D11 Bulldozers).
+        2.  **Plantation (Revegetation)**: Implantation of adaptive trees and shrubs on the reshaped land.
+    *   **Soil Formulation Recipe**: Planting is performed by digging pits measuring **$70 \times 70 \times 70\ \text{cm}$**. To overcome the nutrient deficiencies and physical limitations of raw overburden waste rock, a soil formulation mixture is filled into these pits. The mixture blends:
+        *   **Terre végétale** (saved topsoil)
+        *   **Boue de la STEP** (wastewater treatment plant sewage sludge)
+        *   **Boue de lavage** (phosphate washing plant clay byproduct)
+        *   **Phosphogypsum** (industrial byproduct of phosphoric acid production) at varying ratios to regulate pH and structure.
+    *   **Vegetation Species Selection**: OCP utilizes **21 different plant species** categorized into 5 functional classes:
+        *   *Fruit trees* (e.g., olive, fig, pomegranate)
+        *   *Forest trees* (e.g., eucalyptus, acacia)
+        *   *Shrubs* (e.g., Atriplex halimus)
+        *   *Medicinal plants*
+        *   *Ornamental garden plants*
+*   **Relevance to Thesis**: Provides the exact operational parameters (pit size, byproducts used, plant species) for the reclamation monitoring models.
+
+### 2. Operational Procedures (Modes Opératoires)
+Located in [D:\ALL\ocp\MO\](file:///D:/ALL/ocp/MO). These spreadsheets detail standard operating procedures for OCP mining crews:
+*   [MO foration.xlsx](file:///D:/ALL/ocp/MO/MO%20foration.xlsx) (3.18 MB) — Technical procedures and checklists for blasthole drilling rigs.
+*   [MO défuitage.xlsx](file:///D:/ALL/ocp/MO/MO%20défuitage.xlsx) (14.5 MB) — Procedures for dragline stripping, waste rock casting, and phosphate layer extraction (défuitage).
+*   [MOs PH .xlsx](file:///D:/ALL/ocp/MO/MOs%20PH%20.xlsx) (12.6 MB) — Operational modes for hydraulic shovels (Pelle Hydraulique) and haul trucks.
+*   [MOs 7500M .xlsx](file:///D:/ALL/ocp/MO/MOs%207500M%20.xlsx) (2.59 MB) — Operator logs and parameters for OCP's large-scale draglines (e.g., Marion 7500).
+
+### 3. HSE (Health, Safety, & Environment) Protocols
+*   [Réunion.docx](file:///D:/ALL/ocp/Réunion.docx) — Internal minutes regarding HSE policies (ISO 14001 certification goals and paper-reduction initiatives: reducing paper use from 100k sheets to 41k sheets/year, saving 17-20 trees per year).
+*   [DOOC_Checkliste_JCC_OCP 19MAI2017_V01.pdf](file:///D:/ALL/ocp/MO/DOOC_Checkliste_JCC_OCP%2019MAI2017_V01.pdf) — Job Cycle Check (JCC) checklist evaluating operator compliance with safety standards.
+*   [VF HD Affiche  7 principes.pdf](file:///D:/ALL/ocp/MO/VF%20HD%20Affiche%20%207%20principes.pdf) — Graphic design posters outlining OCP's 7 Golden Safety Rules (7 Principes d'Or HSE).
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-entity**:: [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group and Benguerir Mine]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|Phosphate Mine Reclamation]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md
 
 ---
@@ -10494,6 +11207,162 @@ This data asset contains the raw X-ray diffraction (XRD) mineralogical reports a
 - [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
 - [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
 - [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note indexing PRISMA Khouribga satellite scenes (L1 HDF5 and L2d geotiff/zip) in D:\\ALL\\PRISMA\\Khouribga"
+---
+
+
+# 🛰️ Data Asset — PRISMA Khouribga Satellite Scenes
+
+This note indexes the PRISMA hyperspectral satellite datasets covering the Khouribga phosphate basin, stored in [D:\ALL\PRISMA\Khouribga\](file:///D:/ALL/PRISMA/Khouribga). These datasets were acquired for a transferability study to test if the remote sensing mineral mapping models calibrated for the Benguerir mine can map phosphate waste rocks at other major Moroccan basins.
+
+---
+
+## 📅 Dataset Profile
+
+| Metric | Value |
+| :--- | :--- |
+| **Target Site** | Khouribga Phosphate Basin, Morocco |
+| **Acquisition Date** | September 2, 2021 |
+| **Acquisition Time** | 11:11:07 to 11:11:11 UTC |
+| **Satellite Sensor** | PRISMA (Poldiagostico e Tecnologie per Immagini Spettrali), ASI (Italian Space Agency) |
+| **Processing Levels** | L1 (Top-of-Atmosphere Radiance) & L2D (Geocoded Surface Reflectance) |
+| **Total Size** | ~3.0 GB |
+
+---
+
+## 🗃️ Files Inventory
+
+### 1. Level-1 Standard OFFL Product (L1)
+*   **Format**: `.he5` (HDF5)
+*   **Path**: [PRS_L1_STD_OFFL_20210902111107_20210902111111_0001.he5](file:///D:/ALL/PRISMA/Khouribga/PRS_L1_STD_OFFL_20210902111107_20210902111111_0001.he5)
+*   **Size**: 959 MB
+*   **Description**: Raw top-of-atmosphere (TOA) spectral radiances, including calibration coefficient metadata and viewing geometries.
+
+### 2. Level-2D Standard Product (L2D)
+*   **Format**: `.zip` containing HDF5/GeoTIFF structures
+*   **Path**: [PRS_L2D_STD_20210902111107_20210902111111_0001.zip](file:///D:/ALL/PRISMA/Khouribga/L2D/PRS_L2D_STD_20210902111107_20210902111111_0001.zip)
+*   **Size**: 1.12 GB
+*   **Description**: Geocoded and orthorectified surface reflectances, corrected for atmospheric effects using PRISMA's standard preprocessing pipeline.
+
+---
+
+## 🎛️ PRISMA Sensor Specifications
+
+PRISMA is a push-broom hyperspectral imaging instrument consisting of:
+1.  **Hyperspectral Imager**:
+    *   **VNIR (Visible & Near-Infrared)**: 66 bands covering 400 nm – 1010 nm.
+    *   **SWIR (Short-Wave Infrared)**: 173 bands covering 920 nm – 2505 nm.
+    *   **Spatial Resolution**: 30 meters.
+    *   **Spectral Resolution**: $\le 12\ \text{nm}$ bandwidth.
+2.  **Panchromatic Camera**:
+    *   **Spatial Resolution**: 5 meters.
+    *   **Spectral Range**: 400 nm – 700 nm.
+    *   **Purpose**: Co-registration and pan-sharpening of 30m hyperspectral bands.
+
+---
+
+## 🎓 Relevance to Thesis
+*   **Algorithm Transferability**: The primary purpose of this data is to run transferability tests for the VCA-FCLS (Vertex Component Analysis - Fully Constrained Least Squares) spectral unmixing code developed for the Benguerir mine.
+*   **Target Minerals**: Khouribga mine waste piles contain similar mineral suites (calcite, dolomite, gypsum, clays, and apatite). This scene allows testing whether regional spectral libraries (like ECOSTRESS or custom Benguerir libraries) can accurately unmix minerals under different atmospheric and soil conditions without new ground-truth calibration.
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP Satellite]]
+*   **related-topic**:: [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note indexing the CSV, JSON, and GeoJSON datasets in the Shepelife project folder."
+---
+
+
+# 📊 Data Asset — Shepelife Lithology Datasets
+
+This data asset note indexes the tabular (`.csv`, `.json`) and spatial (`.geojson`) datasets stored in [D:\Shepelife_Lithology_MasterProject\](file:///D:/Shepelife_Lithology_MasterProject). It catalogs the files used to run the preprocessing, clustering, feature extraction, and model training phases of the lithological classification pipeline.
+
+---
+
+## 🗺️ Spatial & Metadata Files
+
+### 1. PRISMA Metadata UTM
+*   **Filename**: [PRISMA_metadata_utm.json](file:///D:/Shepelife_Lithology_MasterProject/01_preprocessing/PRISMA_metadata_utm.json)
+*   **Description**: JSON file containing coordinate boundaries (UTM Zone 29N) and matrix dimensions (1199 rows × 1198 columns) for the PRISMA scene.
+
+### 2. Balanced Lithology Dataset (GeoJSON)
+*   **Filename**: [Balanced_Lithology_Dataset.geojson](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.geojson)
+*   **Description**: Spatial point features mapping sampling locations. Each point includes geochemical oxide concentrations ($\text{SiO}_2$, $\text{Al}_2\text{O}_3$, $\text{P}_2\text{O}_5$, $\text{CaO}$, $\text{MgO}$, and $\text{K}_2\text{O}$), cluster IDs, and lithological classifications (e.g., "Dolomitic Marl").
+
+---
+
+## 📊 Feature Extraction & Spectral Libraries
+
+### 1. Extracted Spectra Libraries
+*   **CSV Files**:
+    *   [PRISMA_Spectra_Extracted.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/PRISMA_Spectra_Extracted.csv) (282 KB)
+    *   [PRISMA_Spectra_Extracted_v2.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/PRISMA_Spectra_Extracted_v2.csv) (240 KB)
+*   **Description**: Tabular spectral libraries containing extracted VNIR-SWIR reflectance values corresponding to geological regions of interest.
+
+### 2. Training Sample Validation Lists
+*   **CSV Files**:
+    *   [Valid_PRISMA_samples.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/Valid_PRISMA_samples.csv) (22 KB)
+    *   [Invalid_PRISMA_samples.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/Invalid_PRISMA_samples.csv)
+*   **Description**: Tabular lists separating pixels that passed SNR and quality filters from those that were rejected due to clouds, shadows, or bad band noise.
+
+---
+
+## 🤖 Model Input & Classification Ready Tables
+
+### 1. Balanced Lithology CSV
+*   **Filename**: [Balanced_Lithology_Dataset.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.csv)
+*   **Description**: Tabular representation of the GeoJSON spatial point layer, listing spatial coordinates and geochemical oxides.
+
+### 2. Machine Learning Ready Tables
+*   **CSV Files**:
+    *   [Lithology_MLReady_Final.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_Final.csv) (8.6 KB)
+    *   [Lithology_MLReady_AllSamples_Final_FIXED.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_AllSamples_Final_FIXED.csv) (15.6 KB)
+    *   [Lithology_MLReady_AllSamples_Final.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_AllSamples_Final.csv)
+*   **Description**: Cleansed and formatted training arrays merging spectral band reflectances (features) with target lithological class labels, ready to be ingested by classifiers.
+
+### 3. Class Reclassifications & Calibrations
+*   **CSV Files**:
+    *   [Balanced_Lithology_Reclassified.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Reclassified.csv)
+    *   [Balanced_Lithology_Reclassified_v2.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Reclassified_v2.csv)
+    *   [Cluster_XRF_Association.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Cluster_XRF_Association.csv)
+*   **Description**: Mappings linking spectral clusters to distinct geochemical assays and reclassified lithological labels.
+
+---
+
+## 📈 Model Performance Logs
+
+These spreadsheets document accuracy comparison results across different model configurations:
+*   [Spectral_ML_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Model_Summary.csv) — Accuracies of classifiers trained on raw spectral reflectances.
+*   [Spectral_ML_Derivative_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Derivative_Model_Summary.csv) — Accuracies of classifiers trained on first-derivative spectra.
+*   [ML_Model_Comparison.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/ML_Model_Comparison.csv) — Overall model parameters log.
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Shepelife Project Overview]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
 
 
 
@@ -11921,6 +12790,65 @@ As the PhD research matured (moving into Chapter 1 and Chapter 4), this linear 1
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Project overview note for the Shepelife Lithology Mapping project, mapping regional formations using PRISMA hyperspectral data and machine learning."
+---
+
+
+# 📁 Project Overview — Shepelife Lithology Mapping
+
+This note provides an overview of the **Shepelife Lithology MasterProject**, a structured machine learning pipeline developed in December 2025. It appears to be a supervised student project or an early pipeline prototype designed to map surface geological formations (lithologies) in the Shepelife region using PRISMA hyperspectral satellite data.
+
+---
+
+## 🎯 Project Objectives
+
+The primary goal of the Shepelife project is to evaluate the feasibility of utilizing spaceborne hyperspectral remote sensing to classify and map geological units in a semi-arid terrain. 
+Specifically, it attempts to:
+1.  Ingest and preprocess PRISMA VNIR and SWIR bands.
+2.  Extract spectral reflectances from regions of interest (ROIs) corresponding to verified geological field points.
+3.  Evaluate multiple machine learning (ML) classification models to map regional lithologies (e.g., Dolomitic Marl).
+
+---
+
+## 🛰️ PRISMA Satellite Data Involved
+
+The project utilizes raw and preprocessed bands from the **PRISMA hyperspectral sensor** (30m spatial resolution), focusing on the concatenated VNIR and SWIR channels:
+*   **01_preprocessing/PRISMA_SWIR_tmp.tif**: SWIR reflectance bands (920–2505 nm) covering key carbonate and clay absorption features.
+*   **01_preprocessing/PRISMA_VNIR_tmp.tif**: VNIR bands (400–1010 nm) covering iron oxide spectral slopes.
+*   **02_vnir_swir_concatenated/PRISMA_VNIR_SWIR_ROI_merged.tif**: The concatenated multi-band GeoTIFF used for training ML feature vectors.
+*   **Spatial Bounds**: Mapped in UTM Zone 29N (EPSG:32629) with coordinates stored in [PRISMA_metadata_utm.json](file:///D:/Shepelife_Lithology_MasterProject/01_preprocessing/PRISMA_metadata_utm.json).
+
+---
+
+## 🤖 Machine Learning Classifiers Evaluated
+
+The pipeline runs comparisons across five supervised classifiers:
+1.  **Random Forest (RF)**: Ensemble bagger utilizing decision trees.
+2.  **Support Vector Machine (SVM)**: Kernel-based margin classifier.
+3.  **Gradient Boosting (GB)**: Sequential boosting model.
+4.  **K-Nearest Neighbors (KNN)**: Distance-based instance classifier.
+5.  **Logistic Regression**: Linear statistical classification model.
+
+Models were evaluated on two different feature representations: **raw spectral bands** and **derivative spectra** (first derivatives to resolve overlapping absorption peaks).
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets|Shepelife Datasets]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
+*   **defense-link**:: [[Thesis_Defense_Preparation|Defense Prep Q9]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md
 
 ---
@@ -12145,6 +13073,79 @@ If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS 
 - [[EnMAP Satellite]]
 - [[Handheld XRF]]
 - [[Phosphate Mine Waste]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Research note analyzing the low lithological classification accuracies (15-27%) in the Shepelife model runs and outlining geological/remote-sensing causes."
+---
+
+
+# 📊 Research Note — Shepelife Classification Accuracy Analysis
+
+This research note documents and analyzes the low overall accuracies (**15.38% to 26.92%**) observed in the model evaluation summaries of the **Shepelife Lithology MasterProject** (dated December 2025). 
+
+---
+
+## 📈 Summary of Classifier Results
+
+Model accuracies were evaluated under two different inputs (raw spectral reflectances vs. derivative reflectances) across five classifiers:
+
+### 1. Raw Spectral Inputs
+*   **Random Forest**: $23.08\%$
+*   **Logistic Regression**: $23.08\%$
+*   **Support Vector Machine (SVM)**: $19.23\%$
+*   **Gradient Boosting**: $17.31\%$
+*   **K-Nearest Neighbors (KNN)**: $15.38\%$
+*   *Source Document*: [Spectral_ML_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Model_Summary.csv)
+
+### 2. Derivative Spectral Inputs (First Derivative)
+*   **Random Forest**: $26.92\%$
+*   **Logistic Regression**: $25.00\%$
+*   **K-Nearest Neighbors (KNN)**: $21.15\%$
+*   **Support Vector Machine (SVM)**: $19.23\%$
+*   **Gradient Boosting**: $19.23\%$
+*   *Source Document*: [Spectral_ML_Derivative_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Derivative_Model_Summary.csv)
+
+*Observations*: Preprocessing spectra via first derivatives yielded a minor performance boost (e.g., Random Forest accuracy improved from $23.08\%$ to $26.92\%$ and KNN from $15.38\%$ to $21.15\%$), but the models still severely underperformed.
+
+---
+
+## 🔍 Why the Models Likely Underperformed
+
+These low classification accuracies are symptomatic of common bottlenecks in geological remote sensing. The project likely failed to generalize due to several key factors:
+
+### 1. Severe Class Imbalance & Metric Selection
+Geological formations are naturally imbalanced (e.g., small, rich outcrops vs. massive background dolomite or soil). If the model was evaluated using standard **Overall Accuracy (OA)** on an imbalanced dataset, the score would be highly skewed. As documented in [[Thesis_Defense_Preparation|Defense Prep Q9]], standard metrics fail on geological classes, and models must be evaluated using **Balanced Accuracy (BAC)**.
+
+### 2. Spatial Autocorrelation Bias (Random Splits)
+If the project utilized standard random cross-validation splits (e.g., random train-test splits) on spatial pixel grids, it would suffer from spatial autocorrelation. Pixels close to each other share identical spectral and atmospheric properties. Random splits lead to severe overfitting in training while showing terrible performance when evaluated on truly independent validation sets (requiring **Spatially Blocked Cross-Validation (Block-CV)** to resolve).
+
+### 3. Lack of Bad Band Masking & Atmospheric Preprocessing
+PRISMA satellite scenes contain multiple atmospheric absorption bands (around 1400 nm and 1900 nm) and low signal-to-noise ratio (SNR) channels at the edges of the VNIR/SWIR detectors. If these "bad bands" were not masked prior to training, the ML classifiers would build decision boundaries on atmospheric noise rather than true surface mineral chemistry, resulting in model failure.
+
+### 4. Scale Mismatch: Sub-Pixel Mixing
+Point-scale geochemical samples (such as XRF readings) from [Balanced_Lithology_Dataset.geojson](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.geojson) were matched directly to 30-meter PRISMA pixels. A single 30m pixel is rarely composed of a single, pure lithological unit. It represents an intimate mixture of dolomite, calcite, clay, and vegetative cover. Pure classifiers fail on mixed pixels; sub-pixel **Linear Spectral Unmixing (LSU)** is required to model these fractional abundances.
+
+---
+
+## 🛡️ Thesis Context & Validation
+> [!IMPORTANT]
+> These low accuracies (**15–27%**) represent the results of this early prototype/student project and **do not** represent the final classification performance of your PhD thesis models. In your final Chapter 2 workflow, utilizing spatially blocked cross-validation and optimized **Extra Trees** classifiers, you achieved a **Balanced Accuracy (BAC) of 0.60–0.67** and **AUC > 0.95** (validated in [[Thesis_Defense_Preparation|Defense Prep Q6]]).
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Shepelife Project Overview]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
+*   **discrepancy-log**:: [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
 
 
 
