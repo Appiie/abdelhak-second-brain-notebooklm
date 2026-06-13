@@ -8,13 +8,13 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 351 | **Total Word Count**: ~43819 words
+> **Total Files Compiled**: 369 | **Total Word Count**: ~51710 words
 
 ## 📂 Table of Contents
 
 - [04_Knowledge Base/wiki/Flashcards — Research Concepts.md](#-file-04_knowledge-base-wiki-flashcards-—-research-concepts-md) (~1583 words)
 - [04_Knowledge Base/wiki/Literature MOC - A-C.md](#-file-04_knowledge-base-wiki-literature-moc---a-c-md) (~345 words)
-- [04_Knowledge Base/wiki/Literature MOC - C-H.md](#-file-04_knowledge-base-wiki-literature-moc---c-h-md) (~345 words)
+- [04_Knowledge Base/wiki/Literature MOC - C-H.md](#-file-04_knowledge-base-wiki-literature-moc---c-h-md) (~350 words)
 - [04_Knowledge Base/wiki/Literature MOC - H-M.md](#-file-04_knowledge-base-wiki-literature-moc---h-m-md) (~345 words)
 - [04_Knowledge Base/wiki/Literature MOC - M-R.md](#-file-04_knowledge-base-wiki-literature-moc---m-r-md) (~345 words)
 - [04_Knowledge Base/wiki/Literature MOC - R-Z.md](#-file-04_knowledge-base-wiki-literature-moc---r-z-md) (~355 words)
@@ -22,14 +22,16 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
-- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~230 words)
+- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~305 words)
 - [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
 - [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
+- [04_Knowledge Base/wiki/sources/Abdelhak2022Progressive.md](#-file-04_knowledge-base-wiki-sources-abdelhak2022progressive-md) (~634 words)
 - [04_Knowledge Base/wiki/sources/BoardmanJWKruse.md](#-file-04_knowledge-base-wiki-sources-boardmanjwkruse-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataProductsQuality.md](#-file-04_knowledge-base-wiki-sources-dataproductsquality-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataSeries2017.md](#-file-04_knowledge-base-wiki-sources-dataseries2017-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataSeries2017a.md](#-file-04_knowledge-base-wiki-sources-dataseries2017a-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataSeries2017b.md](#-file-04_knowledge-base-wiki-sources-dataseries2017b-md) (~50 words)
+- [04_Knowledge Base/wiki/sources/Delogu2023Using.md](#-file-04_knowledge-base-wiki-sources-delogu2023using-md) (~572 words)
 - [04_Knowledge Base/wiki/sources/EditorialSpecialIssue.md](#-file-04_knowledge-base-wiki-sources-editorialspecialissue-md) (~53 words)
 - [04_Knowledge Base/wiki/sources/EnMAPSpaceborneImaging.md](#-file-04_knowledge-base-wiki-sources-enmapspaceborneimaging-md) (~54 words)
 - [04_Knowledge Base/wiki/sources/HandheldXrayFluorescence2019.md](#-file-04_knowledge-base-wiki-sources-handheldxrayfluorescence2019-md) (~50 words)
@@ -50,6 +52,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025d.md](#-file-04_knowledge-base-wiki-sources-mineralcommoditysummaries2025d-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/MineralCommoditySummaries2025e.md](#-file-04_knowledge-base-wiki-sources-mineralcommoditysummaries2025e-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/MitigatingSoilContamination2018.md](#-file-04_knowledge-base-wiki-sources-mitigatingsoilcontamination2018-md) (~54 words)
+- [04_Knowledge Base/wiki/sources/NBSAIDS83_Manual.md](#-file-04_knowledge-base-wiki-sources-nbsaids83_manual-md) (~378 words)
 - [04_Knowledge Base/wiki/sources/OCPSustainabilityIntegrated2021.md](#-file-04_knowledge-base-wiki-sources-ocpsustainabilityintegrated2021-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/OpenFileReport2002.md](#-file-04_knowledge-base-wiki-sources-openfilereport2002-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/OpenFileReport2002a.md](#-file-04_knowledge-base-wiki-sources-openfilereport2002a-md) (~50 words)
@@ -314,7 +317,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/zainiDeterminationCarbonateRock2014.md](#-file-04_knowledge-base-wiki-sources-zainideterminationcarbonaterock2014-md) (~67 words)
 - [04_Knowledge Base/wiki/sources/zhangCHARACTERIZATIONQUANTITATIVEANALYSIS2001.md](#-file-04_knowledge-base-wiki-sources-zhangcharacterizationquantitativeanalysis2001-md) (~67 words)
 - [04_Knowledge Base/wiki/sources/zhangPredictionRecyclePhosphate2024.md](#-file-04_knowledge-base-wiki-sources-zhangpredictionrecyclephosphate2024-md) (~78 words)
-- [04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023.md](#-file-04_knowledge-base-wiki-sources-zineadvancementsmineclosure2023-md) (~65 words)
+- [04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023.md](#-file-04_knowledge-base-wiki-sources-zineadvancementsmineclosure2023-md) (~730 words)
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023-md) (~72 words)
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023a-md) (~73 words)
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023b-md) (~72 words)
@@ -330,34 +333,49 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-python-rasterio-display-md) (~212 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-random-forest-classification-r-md) (~341 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-spectral-signature-extraction-r-md) (~253 words)
+- [04_Knowledge Base/wiki/concepts/Code — Bibliometric — Paper Visualizations and ML.md](#-file-04_knowledge-base-wiki-concepts-code-—-bibliometric-—-paper-visualizations-and-ml-md) (~369 words)
 - [04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-ensemble-band-selection-md) (~366 words)
 - [04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-spectral-derivatives-pipeline-md) (~374 words)
 - [04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-morocco-map-r-script-md) (~185 words)
 - [04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md](#-file-04_knowledge-base-wiki-concepts-code-—-neon-tutorial-dataset-sjer-md) (~216 words)
+- [04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Clean.md](#-file-04_knowledge-base-wiki-concepts-code-—-r-viz-—-ukraine-wheat-war-trade-clean-md) (~349 words)
+- [04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Step by Step.md](#-file-04_knowledge-base-wiki-concepts-code-—-r-viz-—-ukraine-wheat-war-trade-step-by-step-md) (~367 words)
+- [04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md](#-file-04_knowledge-base-wiki-concepts-code-—-root-—-articles-progress-and-metrics-md) (~350 words)
+- [04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-bad-bands-detection-md) (~379 words)
+- [04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-ml-models-classifier-md) (~352 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-phd-1st-xrd-reports-md) (~493 words)
 - [04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-um6p-amics-microxrf-training-datasets-md) (~594 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md](#-file-04_knowledge-base-wiki-concepts-ecostress-spectral-library-md) (~390 words)
 - [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
 - [04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md](#-file-04_knowledge-base-wiki-concepts-ensemble-spectral-band-selection-—-feilhauer-method-md) (~326 words)
+- [04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md](#-file-04_knowledge-base-wiki-concepts-ensemble-voting-classifier-md) (~334 words)
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
 - [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
 - [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
 - [04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-micro-xrf-spectroscopy-md) (~440 words)
 - [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
+- [04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md](#-file-04_knowledge-base-wiki-concepts-minimum-distance-classifier-md) (~310 words)
 - [04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-band-removal-—-multi-criterion-method-md) (~358 words)
 - [04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md](#-file-04_knowledge-base-wiki-concepts-prisma-band-quality-map-—-benguerir-acquisition-md) (~488 words)
 - [04_Knowledge Base/wiki/concepts/PRISMA Satellite.md](#-file-04_knowledge-base-wiki-concepts-prisma-satellite-md) (~382 words)
 - [04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mine-waste-md) (~492 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mineral-validation-scheme-md) (~414 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md](#-file-04_knowledge-base-wiki-concepts-phosphate-waste-rock-piles-sampling-strategy-md) (~369 words)
 - [04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md](#-file-04_knowledge-base-wiki-concepts-reclamation-monitoring-md) (~664 words)
 - [04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md](#-file-04_knowledge-base-wiki-concepts-reclamation-progress-index-md) (~549 words)
+- [04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md](#-file-04_knowledge-base-wiki-concepts-rietveld-refinement-in-xrd-md) (~427 words)
 - [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~345 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~582 words)
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
+- [04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md](#-file-04_knowledge-base-wiki-concepts-synthetic-minority-over-sampling-technique-(smote)-md) (~339 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
 - [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
+- [04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus.md](#-file-04_knowledge-base-wiki-concepts-x'pert-highscore-plus-md) (~368 words)
+- [04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy.md](#-file-04_knowledge-base-wiki-concepts-x-ray-diffraction-(xrd)-in-mineralogy-md) (~342 words)
 - [04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-carbonates-md) (~331 words)
 - [04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-chlorite-md) (~332 words)
 - [04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-granite-md) (~326 words)
@@ -634,6 +652,7 @@ summary: Sub-MOC for literature sources in alphabetical range C-H.
 | `DataSeries2017a` | [[DataSeries2017a]] |
 | `DataSeries2017b` | [[DataSeries2017b]] |
 | `daviesMappingAcidicMine2017` | [[daviesMappingAcidicMine2017]] |
+| `Delogu2023Using` | [[Delogu2023Using]] |
 | `desanctisSpectroscopicCharacterizationMineralogy2012` | [[desanctisSpectroscopicCharacterizationMineralogy2012]] |
 | `dobigeonNonlinearUnmixingHyperspectral2014` | [[dobigeonNonlinearUnmixingHyperspectral2014]] |
 | `EditorialSpecialIssue` | [[EditorialSpecialIssue]] |
@@ -1224,24 +1243,33 @@ tags:
 - [[AMICS Automated Mineralogy in Phosphate Reclamation]] — Added automatically.
 - [[AMICS Spectrum Tree]] — Added automatically.
 - [[AMICS Target Mineral Quantification]] — Added automatically.
+- [[Data Asset — PHD-1st XRD Reports]] — Added automatically.
 - [[Data Asset — UM6P AMICS MicroXRF Training Datasets]] — Added automatically.
 - [[EnMAP Satellite]] — Initial concept.
+- [[Ensemble Voting Classifier]] — Added automatically.
 - [[Handheld XRF]] — Added automatically.
 - [[Hyperspectral Imaging]] — Added automatically.
 - [[Machine Learning for Hyperspectral]] — Added automatically.
 - [[Micro-XRF Spectroscopy]] — Added automatically.
+- [[Minimum Distance Classifier]] — Added automatically.
 - [[Mineral Assemblages]] — Added automatically.
 - [[Phosphate Mine Waste]] — Added automatically.
+- [[Phosphate Mineral Validation Scheme]] — Added automatically.
+- [[Phosphate Waste Rock Piles Sampling Strategy]] — Added automatically.
 - [[PRISMA Satellite]] — Added automatically.
 - [[Reclamation Monitoring]] — Added automatically.
 - [[Reclamation Progress Index]] — Added automatically.
+- [[Rietveld Refinement in XRD]] — Added automatically.
 - [[Shannon Entropy Uncertainty]] — Added automatically.
 - [[Spatially Constrained Cross-Validation]] — Added automatically.
+- [[Synthetic Minority Over-sampling Technique (SMOTE)]] — Added automatically.
 - [[Spectral Analysis]] — Added automatically.
 - [[Spectral Library Matching]] — Added automatically.
 - [[Spectral Unmixing VCA-FCLS]] — Added automatically.
 - [[VNIR-SWIR Spectroscopy]] — Added automatically.
 - [[Waste Rock Characterization]] — Added automatically.
+- [[X'Pert HighScore Plus]] — Added automatically.
+- [[X-Ray Diffraction (XRD) in Mineralogy]] — Added automatically.
 - [[XRF Training Sample — Carbonates]] — Added automatically.
 - [[XRF Training Sample — Chlorite]] — Added automatically.
 - [[XRF Training Sample — Granite]] — Added automatically.
@@ -1406,6 +1434,68 @@ OCP Group is a natural client for remote sensing consulting post-defense.
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/Abdelhak2022Progressive.md
+
+---
+date: 2026-06-13
+title: "Progressive Rehabilitation of Phosphate Mining Sites: PhD Year 1 Activity Report"
+tags:
+---
+
+
+# 📄 Progressive Rehabilitation of Phosphate Mining Sites: PhD Year 1 Activity Report
+
+* **Author:** Abdelhak El Mansour
+* **Supervisors:** Pr. Mostafa Benzaazoua, Pr. Ahmed Laamrani, Pr. Rachid Hakkou, and Pr. Abdellatif El Ghali
+* **Date:** July 2022 (covering the 2021/2022 session; PhD start date: 1 July 2021)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Abdelhak2022Progressive)
+
+---
+
+## 📝 Abstract
+This activity report summarizes the progress made during the first year of the PhD project "Progressive rehabilitation of phosphate mines". Open-pit phosphate mining in Morocco generates massive volumes of heterogeneous waste rocks (overburden and interlayers) that are stored in piles (cavaliers). The project aims to chemically, mineralogically, and spectrally characterize these piles using remote sensing (specifically PRISMA hyperspectral imagery) and ground-based analyses (XRD, XRF, ICP-AES) to map the distribution of lost phosphate and predict its proportions across the mine. This characterization serves to evaluate soil fertility and guide soil remediation/restoration plans using amendments (washing sludge, topsoil, phosphate by-products) and wild plant species (*Nicotiana glauca*, *Kali soda* Moench). First-year achievements include the linear sampling of 100 waste rock samples along a Panel 2 transect, PRISMA Level-2D preprocessing, and exploratory supervised/unsupervised classification mapping.
+
+---
+
+## 💡 Key Points
+* **Heterogeneity & Circular Economy**: Establishes that phosphate mine waste rocks are highly heterogeneous but hold circular economy value for soil preparation, secondary resource recovery, or environmental stabilization.
+* **First-Year sampling**: Collected a linear transect of **100 samples** spaced approximately 5 meters apart (adjusted for slope instabilities) across **Panel 2** of the Benguerir mine over **662 meters**.
+* **Hyperspectral mapping**: Acquired a PRISMA Level-2D HDF5 scene (12 February 2022, center coordinates: `32.2157, -7.86712`, cloud cover $<1\%$, spatial area $30 \times 30$ km).
+* **Classifier Baseline**: Benchmarked unsupervised classification (K-means, Isodata) and supervised classifiers (Minimum Distance, SAM, Mahalanobis, Maximum Likelihood) in ENVI. Minimum Distance classification was selected as it gave the cleanest mapping of the 8 defined lithology ROIs.
+* **Dimensionality Reduction**: Utilized Minimum Noise Fraction (MNF) to isolate redundant bands, showing that 15 bands were sufficient for subsequent processing in R.
+* **Mineralogy**: XRD reports on Panel 2 samples showed that almost all samples host phosphate minerals (Fluorapatite, Berlinite) alongside Calcite, Dolomite, and Quartz. Thin sections confirmed phosphate pellets, bio-fragments, and carbonate matrices.
+* **Training Activities**: Outlines Abdelhak's first-year courses, including EMEC (Mining Environment and Circular Economy) modules, English courses, Datacamp Introduction to R, and the EO College "Beyond the visible" hyperspectral course.
+
+---
+
+## 🛠️ Methods Summary
+* **Sample Preparation**: Pulverized samples to $<75\,\mu\text{m}$. For XRD, 8 g of powder was prepared. For XRF, mixed 4 g of sample with 1 g of CEROX binder and pressed to 30 tons.
+* **Spectral Analysis**: Preprocessed PRISMA L2d HDF5 data by stacking VNIR and SWIR bands (470–2500 nm range). Masked out noisy bands and performed dimensionality reduction (PCA, MNF).
+* **Supervised Classification**: Map lithology classes using the Minimum Distance algorithm in ENVI.
+
+---
+
+## 🎓 Relevance to Thesis
+* This report marks the conceptual origin of Abdelhak's thesis, documenting the transition from exploratory first-year linear sampling to the expanded multi-scale machine learning frameworks developed in Chapter 1 and Chapter 4.
+* Contains early-stage mineralogical and hyperspectral parameters that serve as historical context for the final thesis manuscript.
+
+---
+
+## 📓 Notes
+* The original document is located at [Activity report-ABDELHAK EL MANSOUR.pdf](file:///D:/PHD-1st/Activity%20report/Activity%20report-ABDELHAK%20EL%20MANSOUR.pdf) in the D-Drive.
+* **Discrepancy Note**: The linear sampling of 100 samples over 662 m on Panel 2 was an exploratory first-year campaign. The final thesis Chapter 1 / Chapter 4 publications use an expanded spatial grid of **103 samples** covering **60 km²**.
+
+---
+
+## 🕸️ Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/BoardmanJWKruse.md
 
 ---
@@ -1527,6 +1617,69 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Delogu2023Using.md
+
+---
+date: 2026-06-13
+title: "Using PRISMA Hyperspectral Data for Land Cover Classification with Artificial Intelligence Support"
+tags:
+---
+
+
+# 📄 Using PRISMA Hyperspectral Data for Land Cover Classification with Artificial Intelligence Support
+
+* **Authors:** Gabriele Delogu, Eros Caputi, Miriam Perretta, Maria Nicolina Ripa, and Lorenzo Boccia
+* **Published in:** *Sustainability* (2023, Vol. 15, No. 18, Article ID: 13786)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@Delogu2023Using)
+* **DOI:** [10.3390/su151813786](https://doi.org/10.3390/su151813786)
+
+---
+
+## 📝 Abstract
+Hyperspectral satellite missions, such as PRISMA of the Italian Space Agency (ASI), have opened up new research opportunities. Using PRISMA data in land cover classification has yet to be fully explored, and it is the main focus of this paper. Historically, the main purposes of remote sensing have been to identify land cover types, to detect changes, and to determine the vegetation status of forest canopies or agricultural crops. The ability to achieve these goals can be improved by increasing spectral resolution. At the same time, improved AI algorithms open up new classification possibilities. This paper compares three supervised classification techniques for agricultural crop recognition using PRISMA data: random forest (RF), artificial neural network (ANN), and convolutional neural network (CNN). The study was carried out over an area of 900 km2 in the province of Caserta, Italy. The PRISMA HDF5 file, pre-processed by the ASI at the reflectance level (L2d), was converted to GeoTiff using a custom Python script to facilitate its management in Qgis. The Qgis plugin AVHYAS was used for classification tests. The results show that CNN gives better results in terms of overall accuracy (0.973), K coefficient (0.968), and F1 score (0.842).
+
+---
+
+## 💡 Key Points
+* **PRISMA L2d Performance**: Confirms that PRISMA's Level-2D surface reflectance products (atmospherically and geometrically corrected) are highly suitable for detailed crop and land cover classification without requiring complex manual atmospheric corrections.
+* **Supervised Classifiers Comparison**: Evaluates three major classification frameworks:
+  * **Random Forest (RF)**: Serves as a robust machine learning baseline.
+  * **Artificial Neural Network (ANN)**: Standard multilayer perceptron model.
+  * **Convolutional Neural Network (CNN)**: 2D convolutional architecture that utilizes both spectral features and spatial context.
+* **Accuracy Breakdown**:
+  * CNN achieved the highest overall accuracy (**0.973**) and Kappa coefficient (**0.968**), significantly outperforming standard RF and ANN.
+  * CNN's spatial-spectral feature extraction helps in minimizing salt-and-pepper noise in agricultural class boundaries.
+
+---
+
+## 🛠️ Methodology & Relevance
+* **Data Processing**: Converts raw PRISMA L2d HDF5 data (`.he5`) to multi-band GeoTIFF using custom Python routines to facilitate QGIS integration.
+* **Software**: Classification tests performed using the QGIS plugin AVHYAS (Advanced Hyperspectral Data Analysis Software).
+* **Model Training**: Trained models on representative land-cover regions in the Caserta province, Italy, focusing on agricultural crop classification.
+
+---
+
+## 🎓 Relevance to Thesis
+* Provides an independent benchmark validating PRISMA L2d data accuracy and suitability for land cover classification, similar to Abdelhak's work on waste-rock classification at the Benguerir mine.
+* Supports the usage of advanced deep learning (such as CNN architectures) for hyperspectral data over traditional machine learning models (like Random Forests) due to their superior capability to resolve spatial-spectral features.
+
+---
+
+## 📓 Notes
+* The original file is stored at [sustainability-15-13786.pdf](file:///D:/PHD-3rd/STO/sustainability-15-13786.pdf) in the D-Drive.
+* Shows a comparable workflow to the one developed in [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) which compares Random Forest, SVM, XGBoost, and KNN on PRISMA-derived lithology arrays.
+
+---
+
+## 🕸️ Links
+- [[Code — VLC — ML Models Classifier]]
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
 
 
 
@@ -2027,6 +2180,60 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/NBSAIDS83_Manual.md
+
+---
+date: 2026-06-13
+title: "NBS*AIDS83 Manual: A manual describing the data format used in the PDF Database"
+tags:
+---
+
+
+# 📄 NBS*AIDS83 Manual: A manual describing the data format used in the PDF Database
+
+* **Authors:** Standard Reference Data (National Institute of Standards and Technology - NIST) & International Centre for Diffraction Data (ICDD)
+* **Published in:** *NIST/ICDD Technical Manual* (Revised July 1997)
+* **Zotero Link:** [Open in Zotero](zotero://select/items/@NBSAIDS83_Manual)
+
+---
+
+## 📝 Abstract
+A comprehensive technical manual describing the data cards, file formats, and coding rules used to compile and structure the Powder Diffraction File (PDF) database. Developed jointly by the National Bureau of Standards (now NIST) and the JCPDS-International Centre for Diffraction Data, this document outlines the database formats (such as control cards, chemistry fields, crystal data cards, space groups, cell parameters, and structural entries) that govern standard crystallographic reference cards. These card datasets are utilized by powder diffraction analysis software to match, index, and refine raw X-ray diffraction (XRD) patterns against validated standard reference phases.
+
+---
+
+## 💡 Key Points
+* **Standardized Format**: Outlines the standard `NBS*AIDS83` ASCII-based card format for storing unit cell parameters, crystal symmetry, space groups, and $d$-spacing intensities.
+* **Database Utility**: This coding standard governs the creation of the JCPDS PDF-2 databases (such as `PDF2.DAT` and `ReferenceDatabase.PDB`), which are crucial for search/match phase identification.
+* **Metadata Fields**: Dictates constraints on recording experimental setup details, radiation wavelengths, sample preparation methods, and reliability indices ($R$-factors).
+
+---
+
+## 🛠️ Methods Summary
+* Technical database specification manual detailing field limits, column positions, and string formats (e.g., control cards, crystal cards, literature citations).
+
+---
+
+## 🎓 Relevance to Thesis
+* Provides the technical foundation for understanding the JCPDS reference database cards used by the [X'Pert HighScore Plus](file:///D:/PHD-1st/Xpert%20highscore/) software.
+* Helps explain the database-matching protocol used to quantitatively identify the waste rock mineral phases (Calcite, Quartz, Dolomite, Palygorskite, Fluorapatite) that validated Chapter 1's 4-class mineralogical scheme.
+
+---
+
+## 📓 Notes
+* The original manual is located at [NBSAIDS.PDF](file:///D:/PHD-1st/Xpert%20highscore/JCPDS-Cards/AIDSMAN/NBSAIDS.PDF) in the D-Drive.
+* This is a technical reference manual rather than a research paper, and has been indexed to document the underlying software logic of the XRD database setup.
+
+---
+
+## 🕸️ Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
 
 
 
@@ -8669,24 +8876,63 @@ created: '2026-06-09'
 ## 📄 File: 04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023.md
 
 ---
+date: 2026-06-13
+title: "Advancements in Mine Closure and Ecological Reclamation: A Comprehensive Bibliometric Overview (1980–2023)"
 tags:
-created: '2026-06-09'
 ---
 
 
-# 📄 Advancements in Mine Closure
+# 📄 Advancements in Mine Closure and Ecological Reclamation: A Comprehensive Bibliometric Overview (1980–2023)
 
-* **Authors:** Zine, Hamza and El Mansour, Abdelhak and Hakkou, Rachid and Papazoglou, Eleni G. and Benzaazoua, Mostafa
-* **Published in:** *Mining* (Unknown Year)
+* **Authors:** Hamza Zine, Abdelhak El Mansour, Rachid Hakkou, Eleni G. Papazoglou, and Mostafa Benzaazoua
+* **Published in:** *Mining* (2023, Vol. 3, No. 4, pp. 798–813)
 * **Zotero Link:** [Open in Zotero](zotero://select/items/@zineAdvancementsMineClosure2023)
+* **DOI:** [10.3390/mining3040044](https://doi.org/10.3390/mining3040044)
 
 ---
 
-## 💡 Key Takeaways
-* *Summary of findings...*
+## 📝 Abstract
+Faced with the ongoing energy transition and the escalating fragility of our natural ecosystems, ecological reclamation emerges as an imperative necessity. Investigation within this field has been in progress since the early 20th century. To gauge the advancements in this realm, elucidate the evolving research trends, and emphasize pertinent metrics, it is essential to perform a comprehensive overview of the subject. Undertaking this bibliometric study is necessary to clarify research's current state of play, grasp research hotspots, showcase outstanding researchers, and predict future research trends. In this work, 40,386 articles were retrieved from the Scopus and Web of Science databases, and bibliometric analysis was carried out using the Biblioshiny R package (Version 4.0.0, K-Synth Srl, Naples, Italy), and Python (PyCharm Community Edition 2023.2.1) to understand the progress in this research field from 1980 to 2023. The findings reveal a consistent upward trend in the publication rate within the field of mine closure and ecological reclamation over this timeframe, culminating in 6,705 articles by 2022. Notably, authors and institutions from China have taken the lead, followed closely by those from the USA and Canada in terms of article publications. This prominence can be attributed to these countries' rapid economic growth and energetic transition, which has frequently come at the expense of environmental quality, and a rise in reclamation challenges. In this sense, the circular economy has risen in force recently, which highlights the withdrawal of the old linear economy. In coming research on mine closure and ecological reclamation, multi-scale ecological reclamation research should be reinforced, and social and economic concerns should be integrated. This study pinpointed current research hotspots and forecasted potential future research areas, providing a scientific baseline for future studies in mine closure and ecological reclamation.
 
-## 🛠️ Methodology & Relevance
-* *How this relates to multi-scale remote sensing / unmixing...*
+---
+
+## 💡 Key Points
+* **Volume of Research**: Analyzed 40,386 publications between 1980 and 2023, showing a steady exponential growth in publications (peaking at 6,705 in 2022).
+* **Geographical Leaders**: China, the USA, and Canada lead global publications in mine closure and ecological reclamation, driven by rapid industrialization, resource consumption, and strict regulatory developments.
+* **Paradigm Shift**: Identifies a major thematic transition from linear disposal (mine waste dumps) to circular economy strategies (valorization, secondary resource extraction, and progressive reclamation).
+* **Hotspots Identified**: Keyword co-occurrence networks indicate active research clusters around heavy metal contamination, revegetation using native plants, soil remediation, acid mine drainage prediction, and remote-sensing based monitoring.
+* **Recommendations**: Call to reinforce multi-scale ecological monitoring combining ground assays with Earth observation data, and integration of socio-economic elements into technical reclamation plans.
+
+---
+
+## 🛠️ Methods Summary
+* **Search Strategy**: Retrieved literature from Scopus and Web of Science using query structures targeting terms like "mine closure", "ecological reclamation", "tailings restoration", and "rehabilitation".
+* **Software Tools**:
+  * **R (`Biblioshiny` package)**: Used to compute core bibliometric parameters (co-citation networks, thematic maps, country collaboration matrices, and author-impact metrics).
+  * **Python (pandas/matplotlib)**: Used to parse the raw citation databases and generate custom figures (such as annual production rates and author impact curves).
+* **Analysis Metrics**: Annual production, source growth, author productivity (Lotka's law, h-index, g-index), country output, and co-occurrence analysis of keywords.
+
+---
+
+## 🎓 Relevance to Thesis
+* This co-authored paper establishes the academic foundation and literature baseline for Abdelhak's doctoral research, specifically on post-mining reclamation monitoring using remote sensing.
+* Validates the thesis direction: combining multi-scale spectral characterization (ground, airborne, satellite) to monitor phosphate mine waste rock dumps and vegetation recovery at the Benguerir mine.
+* Connects technical reclamation indicators (mineralogy, vegetation health) to the broader literature framework of mine waste rock stabilization.
+
+---
+
+## 📓 Notes
+* The Python code used to generate the paper's figures is archived in [Chartcode2paper.py](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/Chartcode2paper.py).
+* The data tables supporting the author impact visualizations and affiliations are saved as Excel files in [Bibliometric paper-ZINE](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/).
+
+---
+
+## 🕸️ Links
+- [[Code — Bibliometric — Paper Visualizations and ML]]
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/concepts/Minimum Distance Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
 
 
 
@@ -9490,6 +9736,82 @@ The `brick()` + `plot(brick[row,,col])` pattern is valid for quick spectral prof
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Bibliometric — Paper Visualizations and ML.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Python scripts supporting the co-authored bibliometric paper: author impact visualizations and multi-model machine learning classifications on PRISMA scenes."
+aliases:
+---
+
+
+# Code — Bibliometric — Paper Visualizations and ML
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| Files | `Chartcode2paper.py` and `Actualiser/CODE.py` |
+| Format | Python Scripts |
+| Location | [file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/) |
+| Core Libraries | `pandas`, `numpy`, `matplotlib`, `seaborn`, `h5py`, `scikit-learn`, `rasterio` |
+
+## Description & Purpose
+
+These Python scripts support the co-authored bibliometric study:
+* **`Chartcode2paper.py`**: Visualizes author citation metrics, analyzing total citations (TC), h-index, and g-index distribution over time to generate paper figures.
+* **`Actualiser/CODE.py`**: Represents an exploratory script that loads a PRISMA Level-2D HDF5 scene (`PRS_L2D_STD_20220212112444_20220212112448_0001.he5`), plots ground sample coordinates from an Excel sheet (`Randompoints-TEST-Python.xlsx`) over an RGB composite, and benchmarks SVM, KNN, Random Forest, and a custom **Minimum Distance Classifier** to map lithology classes.
+
+---
+
+## Technical Implementations
+
+### 1. Author Impact Plots (`Chartcode2paper.py`)
+Loads `Author-Impact.xlsx` and creates a $2 \times 3$ subplot layout visualizing citation trajectories:
+* **h-index Over Time**: Uses `sns.lineplot` to track `h_index` against publication year start (`PY_start`) grouped by author (`Element`).
+* **Total Citations**: Bar plot of total citations (`TC`) per author.
+* **h-index vs. g-index**: Scatter plot showing correlation between these two impact metrics.
+* **Distribution Fills**: Histogram with KDE of the `m_index` parameter, alongside box plots of `g_index`.
+
+### 2. PRISMA Loading and Sample Overlay (`Actualiser/CODE.py`)
+Fuses VNIR/SWIR bands from PRISMA `.he5` structure and overlays ground sample points:
+```python
+with h5py.File(he5_file_path, 'r') as hdf5_file:
+    # Extracts RGB bands (Red, Green, Blue) from standard group paths
+    red_band = np.array(hdf5_file[group_name][red_band_name])
+    green_band = np.array(hdf5_file[group_name][green_band_name])
+    blue_band = np.array(hdf5_file[group_name][blue_band_name])
+    
+    # Scale and display RGB composite
+    rgb_image = np.dstack((red_band, green_band, blue_band)) / 65535.0
+```
+
+### 3. Classification Benchmarking (`Actualiser/CODE.py`)
+Imports lithological points, encodes classes via `LabelEncoder`, splits training/testing datasets ($70/30$), and fits four classifiers:
+* **SVM**: `SVC()`
+* **KNN**: `KNeighborsClassifier(n_neighbors=5)`
+* **Random Forest**: `RandomForestClassifier(n_estimators=100)`
+* **Minimum Distance Classifier**: Custom function using Euclidean distance centroids:
+  ```python
+  def minimum_distance_classifier(train_data, test_point):
+      distances = np.linalg.norm(train_data - test_point, axis=1)
+      min_distance_index = np.argmin(distances)
+      return y_train[min_distance_index]
+  ```
+
+---
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023]]
+- [[04_Knowledge Base/wiki/concepts/Minimum Distance Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md
 
 ---
@@ -9738,6 +10060,440 @@ The CHM extraction workflow (DSM − DTM = CHM) and plot-based sampling approach
 ## Links
 
 - [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Clean.md
+
+---
+date: 2026-06-13
+tags:
+summary: "R script from the AgBS data visualization short course (Frédéric Baudron), plotting the impact of the Russia-Ukraine war on global wheat trade."
+aliases:
+---
+
+
+# Code — R Viz — Ukraine Wheat War Trade Clean
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `Data visualization training - 10 June 2022 - clean codes (1).R` |
+| Format | R Script |
+| Location | [file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20clean%20codes%20(1).R](file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20clean%20codes%20(1).R) |
+| Author | Frédéric Baudron (f.baudron@cgiar.org) |
+| Course | AgBS Learning by Doing Short Course #1 (10 June 2022) |
+
+---
+
+## Script Overview & Purpose
+This script contains clean, production-ready R code used in a data visualization training session attended by Abdelhak in his first PhD year. The course uses global wheat datasets to teach advanced plotting techniques in R. 
+
+*   **Theme**: Consequence of the Ukraine-Russia war on the global wheat trade.
+*   **Input Data**:
+    *   `wheat prices.csv` (historical prices)
+    *   `wheat imp af.csv` (African wheat imports)
+    *   `export.csv` (wheat exports)
+    *   `cereal compo.csv`
+    *   `wheat gap.csv`
+    *   `trade matrix.csv`
+    *   `wheat import countries.csv`
+    *   `commodity prices.csv`
+*   **Key Libraries**: `ggplot2`, `ggthemes`, `dplyr`, `scales`, `viridis`, `ggalluvial` (flow charts), `sf` (spatial data mapping), `gganimate` (animated timelines), and `patchwork` (arranging subplots).
+
+---
+
+## Core Visualizations & R Techniques
+
+### 1. Historical Line Chart
+Plots a monthly line chart of US hard red winter wheat prices in the last 40 years:
+*   Converts date fields via `as.Date(wp$Date, format = "%m/%d/%Y")`.
+*   Uses `geom_line(size = 1.2, color = "#CEFF1A")` for a prominent line color.
+*   Applies `scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%Y"))` for a 4-year grid increment.
+*   Styled with `theme_few()` and a custom dark mode theme (`plot.background = element_rect(fill = "grey10")`).
+
+### 2. Advanced Layouts & Mapping
+*   **Alluvial plots**: Visualizes trade flows from exporters to importers using `ggalluvial`.
+*   **Spatial mapping**: Renders spatial shapefiles using `sf` to map wheat trade matrices.
+*   **Animations**: Employs `gganimate` to transition trade statistics over years.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[Code — R Viz — Ukraine Wheat War Trade Step by Step]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Step by Step.md
+
+---
+date: 2026-06-13
+tags:
+summary: "R script showing step-by-step builds of plots demonstrating incremental adjustments (colors, scale breaks, labels) in ggplot2."
+aliases:
+---
+
+
+# Code — R Viz — Ukraine Wheat War Trade Step by Step
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `Data visualization training - 10 June 2022 - step by step.R` |
+| Format | R Script |
+| Location | [file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20step%20by%20step.R](file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20step%20by%20step.R) |
+| Author | Frédéric Baudron (f.baudron@cgiar.org) |
+| Course | AgBS Learning by Doing Short Course #1 (10 June 2022) |
+
+---
+
+## Script Overview & Purpose
+This R script serves as the step-by-step tutorial version of the data visualization session. It demonstrates how to build plots incrementally in `ggplot2`, showing the effect of individual formatting parameters.
+
+## Incremental Tutorial Workflow
+
+The script guides the user through the process of building the historical wheat price chart in five steps:
+
+### Step 1: Raw Plot
+Plots a simple default line chart without formatting:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line()
+```
+
+### Step 2: Line Adjustments
+Modifies line thickness and colors (referencing online color code palettes):
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red")
+```
+
+### Step 3: Axis Labeling
+Removes the empty x-axis label and updates the y-axis title:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red") + 
+  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)")
+```
+
+### Step 4: Scale Breaks
+Adjusts the scale increment to 4-year breaks to resolve date label overlaps:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red") + 
+  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)") +
+  scale_x_date(breaks = date_breaks("4 years"))
+```
+
+### Step 5: Date Formatting
+Applies year formatting (`%Y`) to date labels and bounds the axis:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red") + 
+  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)") +
+  scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%Y"))
+```
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[Code — R Viz — Ukraine Wheat War Trade Clean]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Jupyter notebook tracking PhD publication progress and analyzing target journal impact factors and quartile statistics."
+aliases:
+---
+
+
+# Code — Root — Articles Progress and Metrics
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `artcicles.ipynb` |
+| Format | Jupyter Notebook |
+| Location | [file:///D:/PHD-3rd/artcicles.ipynb](file:///D:/PHD-3rd/artcicles.ipynb) |
+| Core Libraries | `pandas`, `matplotlib`, `plotly.express`, `plotly.graph_objects` |
+
+## Description & Purpose
+
+This notebook is an administrative and tracking asset used by Abdelhak during his third PhD year (mid-2024). It serves two main purposes:
+1. **PhD Publication Tracking**: Visually monitors the writing progress, time investment, and milestones of three planned PhD articles.
+2. **Journal Target Analysis**: Dynamically imports and evaluates a target journal metadata sheet, displaying impact factor statistics by quartile (Q1/Q2/Q3) to help guide publication submissions.
+
+---
+
+## Technical Implementations
+
+### 1. Progress and Timeline Plotting (Cell 1)
+Defines dates, progress percentages, and estimated time investments for three papers, generating charts saved to the user's Desktop:
+* **Paper Progress**:
+  * **1er article**: $90\%$ complete (Milestone: 30 July 2024, Time: 180 days)
+  * **2ème article**: $40\%$ complete (Milestone: 20 September 2024, Time: 90 days)
+  * **3ème article**: $25\%$ complete (Milestone: 30 November 2024, Time: 45 days)
+* **Plot Functions**:
+  * `bar_chart()`: Plots relative progress bar chart.
+  * `timeline()`: Renders milestone markers on a horizontal time axis relative to 1 July 2024.
+  * `line_chart()`: Renders cumulative progress rates over time.
+  * `pie_chart()`: Visualizes relative time allocation (in days) per article.
+
+### 2. Target Journal Analytics (Cell 3)
+Reads target journal metadata from `C:/Users/Dell/OneDrive - Université Mohammed VI Polytechnique/Journals-papers.xlsx` and generates interactive tables and plots in a `Desktop/MyPlots/` directory:
+* **Full Dataset Table**: Uses Plotly `go.Table` to output full journal rosters.
+* **Quartile Grouping**: Groups target journals by Quartile (Q1/Q2/Q3) and Journal name to display article distributions.
+* **Sunburst & Treemaps**: Renders hierarchy maps of journals weighted by their Impact Factor (IF).
+* **Quartile Boxplots**: Renders the distribution of Impact Factors across different quartiles to highlight Q1 journals.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[LIFE_TIMELINE_MOC]]
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[03_Digital Life/timeline/Timeline-2023-2026]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Jupyter notebook containing multi-criterion statistical filters (SNR, entropy, correlation, PCA variance) to identify and mask noisy PRISMA bands."
+aliases:
+---
+
+
+# Code — VLC — Bad Bands Detection
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `bad bands code.ipynb` |
+| Format | Jupyter Notebook |
+| Location | [file:///D:/PHD-3rd/VLC/bad%20bands%20code.ipynb](file:///D:/PHD-3rd/VLC/bad%20bands%20code.ipynb) |
+| Core Libraries | `h5py`, `numpy`, `scipy.stats`, `scipy.signal`, `matplotlib`, `sklearn.decomposition` |
+
+## Algorithmic Workflow
+
+The notebook develops and refines a custom Python function (`analyze_prisma_bands`) that automates the identification and masking of corrupted or atmospheric absorption channels in PRISMA Level-2D datasets.
+
+```mermaid
+graph TD
+    A["Read PRISMA L2d HDF5"] -->|Load Arrays| B["VNIR Cube & SWIR Cube"]
+    B -->|Fusing| C["Combined Cube (239 bands)"]
+    C -->|Calculate per band| D["SNR, Entropy, Correlation, PCA Variance"]
+    D -->|Apply thresholds| E["Multi-Criterion Bad Band Mask"]
+    E -->|Output| F["Cleaned Hyperspectral Cube & Stats Plots"]
+```
+
+## Key Code Implementations & Metrics
+
+### 1. Fusing VNIR and SWIR Cubes
+Loads the Level-2D HDF5 file structures and concatenates the VNIR and SWIR spectral dimensions:
+```python
+with h5py.File(file_path, 'r') as f:
+    vnir_cube = f['HDFEOS/SWATHS/PRS_L2D_HCO/Data Fields/VNIR_Cube'][:]
+    swir_cube = f['HDFEOS/SWATHS/PRS_L2D_HCO/Data Fields/SWIR_Cube'][:]
+combined_cube = np.concatenate((vnir_cube, swir_cube), axis=1)
+```
+
+### 2. Multi-Criterion Band Filtering Logic
+Iterates through all bands, applying four distinct statistical filters:
+* **SNR Thresholding**: Identifies channels with low signal-to-noise ratio:
+  ```python
+  # Calculate mean and standard deviation across spatial dimensions
+  mean_spectrum = np.nanmean(combined_cube, axis=(0, 2))
+  std_spectrum = np.nanstd(combined_cube, axis=(0, 2))
+  snr = mean_spectrum / (std_spectrum + 1e-6)
+  bad_snr = snr < snr_threshold
+  ```
+* **Entropy Analysis**: Checks data distribution diversity. Low entropy indicates flat line values (edge channels or calibration bands), while extremely high entropy signals random detector noise.
+* **Correlation Thresholding**: Checks adjacent band correlation. Very low correlation highlights sudden spikes or localized detector errors.
+* **PCA Variance Contribution**: Evaluates the cumulative variance contribution. If a band does not align with principal components explaining $99.99\%$ variance, it is potential noise.
+
+### 3. Visualizations
+Generates detailed spectral statistic figures (mean, standard deviation, and min-max fills) across the wavelength spectrum, helping to verify that the water vapor absorption windows (1300–1500 nm and 1750–1980 nm) are correctly masked out.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]]
+- [[04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Jupyter notebook comparing XGBoost, SVM, Random Forest, KNN, and Voting Ensemble models for lithological classification of PRISMA hyperspectral data."
+aliases:
+---
+
+
+# Code — VLC — ML Models Classifier
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `ML-MODELS-VLC.ipynb` |
+| Format | Jupyter Notebook |
+| Location | [file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) |
+| Core Libraries | `rasterio`, `geopandas`, `scikit-learn`, `xgboost`, `imbalanced-learn` |
+
+## Pipeline Architecture
+
+The notebook implements a structured supervised machine learning workflow to classify ground lithology (such as limestone, phosphate, chert, and clay classes) using spatial-spectral inputs:
+
+```mermaid
+graph TD
+    A["Raw PRISMA L2d HDF5 Cube"] -->|Extraction & Loading| B["Lithological Sample Coordinates (Excel)"]
+    B -->|Raster Extract| C["Spectral Feature Matrix (StandardScaler)"]
+    C -->|Dimensionality Reduction| D["PCA (Principal Component Analysis)"]
+    D -->|Oversampling| E["SMOTE (Synthesized Minority Balancing)"]
+    E -->|Model Training| F["GridSearchCV / StratifiedKFold"]
+    F -->|Ensemble Fusion| G["Voting Classifier (RF + SVM + XGBoost)"]
+    G -->|Validation & Evaluation| H["Classification Reports & Confusion Matrices"]
+```
+
+## Key Code Implementations & Techniques
+
+### 1. Class Imbalance Remediation (SMOTE)
+Given that waste rock classes are highly imbalanced, the notebook employs `SMOTE` (Synthetic Minority Over-sampling Technique) to synthetically balance the training feature matrix:
+```python
+from imblearn.over_sampling import SMOTE
+smote = SMOTE(random_state=42)
+X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
+```
+
+### 2. Dimensionality Reduction (PCA)
+Hyperspectral data contains highly correlated bands. Principal Component Analysis (PCA) is used to project the normalized bands into a reduced orthogonal feature space:
+```python
+from sklearn.decomposition import PCA
+pca = PCA(n_components=0.99) # Keep components explaining 99% variance
+X_train_pca = pca.fit_transform(X_train_scaled)
+```
+
+### 3. Model Ensemble (Voting Classifier)
+To combine the predictive power of gradient boosting, support vector margins, and bagging trees, a soft voting ensemble is constructed:
+```python
+from sklearn.ensemble import VotingClassifier
+voting_clf = VotingClassifier(
+    estimators=[
+        ('rf', RandomForestClassifier(n_estimators=100, random_state=42)),
+        ('xgb', XGBClassifier(use_label_encoder=False, eval_metric='logloss', random_state=42)),
+        ('svc', SVC(probability=True, kernel='rbf', random_state=42))
+    ],
+    voting='soft'
+)
+```
+
+### 4. Spatially Mapping Predictions
+Uses `rasterio` and a trained model to classify an entire PRISMA scene, exporting the classification result to `lithology_map_xgboost.png`.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE)]]
+- [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/sources/Delogu2023Using]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md
+
+---
+tags:
+date: 2026-06-13
+summary: "Quantitative mineralogy reports (Rietveld refinement outputs) for early Benguerir waste rock samples, validating the 4-class mineralogy model."
+aliases:
+---
+
+
+# Data Asset — PHD-1st XRD Reports
+
+## Description
+This data asset contains the raw X-ray diffraction (XRD) mineralogical reports and quantitative analyses for waste rock samples collected during the first PhD year (2021/2022) at the Benguerir phosphate mine. The quantitative weight percentages were determined using full-pattern Rietveld refinements in PANalytical X'Pert HighScore Plus.
+
+*   **Source Archive**: [XRD_reports.zip](file:///D:/PHD-1st/XRD_reports.zip)
+*   **Active Directory**: [RE__Analyses_DRX/](file:///D:/PHD-1st/RE__Analyses_DRX/) (contains the raw `.raw`, `.xy`, and `.brml` scan files)
+
+---
+
+## Quantitative Analysis - Rietveld Refinements
+
+### 1. Sample Z2-1 (`Z21.docx`)
+*   **Raw Data File**: `SA GRPOUPE 2 DM1.raw`
+*   **Fit Parameters**: $R_{\text{exp}} = 11.09\%$, $R_{\text{wp}} = 30.15\%$, $R_{\text{p}} = 23.35\%$, $\text{GOF} = 2.72$
+*   **Mineral Weight Percentages**:
+
+| Mineral Phase | Weight % | Mineral Group |
+|---------------|----------|---------------|
+| **Calcite** | $30.831\%$ | Carbonate |
+| **Dolomite** | $19.348\%$ | Carbonate |
+| **Ankerite** | $1.121\%$ | Carbonate |
+| **Hydroxylapatite** | $21.369\%$ | Phosphate |
+| **Palygorskite** | $11.110\%$ | Clay Silicate |
+| **Montmorillonite** | $3.021\%$ | Clay Silicate |
+| **Quartz** | $13.200\%$ | Silica |
+
+### 2. Sample Z2-5 (`Minerals-Z2-5.docx`)
+*   **Raw Data File**: `SA GRPOUPE 2 DM5.raw`
+*   **Fit Parameters**: $R_{\text{exp}} = 11.27\%$, $R_{\text{wp}} = 34.85\%$, $R_{\text{p}} = 27.39\%$, $\text{GOF} = 3.09$
+*   **Mineral Weight Percentages**:
+
+| Mineral Phase | Weight % | Mineral Group |
+|---------------|----------|---------------|
+| **Calcite** | $54.474\%$ | Carbonate |
+| **Dolomite** | $4.558\%$ | Carbonate |
+| **Ankerite** | $2.854\%$ | Carbonate |
+| **Hydroxylapatite** | $21.524\%$ | Phosphate |
+| **Palygorskite** | $8.546\%$ | Clay Silicate |
+| **Quartz** | $8.043\%$ | Silica |
+
+### 3. Sample Z2-10 (`Z2-10-minerals.docx`)
+*   **Raw Data File**: `SA GRPOUPE 2 DM10.raw`
+*   **Fit Parameters**: $R_{\text{exp}} = 11.71\%$, $R_{\text{wp}} = 37.93\%$, $R_{\text{p}} = 30.13\%$, $\text{GOF} = 3.24$
+*   **Mineral Weight Percentages**:
+
+| Mineral Phase | Weight % | Mineral Group |
+|---------------|----------|---------------|
+| **Calcite** | $38.135\%$ | Carbonate |
+| **Hydroxylapatite** | $57.366\%$ | Phosphate |
+| **Quartz** | $4.500\%$ | Silica |
+
+---
+
+## Key Observations
+*   **Phosphate Phase Identification**: HighScore Plus identified the phosphate mineral specifically as **Hydroxylapatite** (Hydroxyapatite, $Ca_5(PO_4)_3(OH)$), which is structurally and spectrally very similar to Fluorapatite ($Ca_5(PO_4)_3F$, the dominant ore mineral in sedimentary deposits). 
+*   **High Carbonate Content**: Samples Z2-1 and Z2-5 show high carbonate concentrations ($>50\,\text{Wt}\%$ combined Calcite, Dolomite, Ankerite), which represent the limestone and dolomite interlayers of the Benguerir geological series.
+*   **Clay Presence**: Palygorskite (up to $11.1\%$) and Montmorillonite (up to $3.0\%$) are the principal clay minerals identified in the raw overburden piles. These clays contain $Al\text{-}OH$ and $O\text{-}H$ vibrational bonds that generate strong absorption features at ~1400 nm, 1900 nm, and 2200 nm, which complicate the spatial unmixing of phosphate features.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
 
 
 
@@ -10160,6 +10916,56 @@ See [[Code — Khalil — Ensemble Band Selection]] for the UM6P-adapted R imple
 - [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
 - [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
 - [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md
+
+---
+tags:
+date: 2026-06-13
+summary: "An ensemble machine learning algorithm that trains multiple individual classifiers and predicts labels based on consensus voting."
+aliases:
+---
+
+
+# Ensemble Voting Classifier
+
+## Definition
+An **Ensemble Voting Classifier** is a meta-classifier that combines the predictions of multiple individual machine learning models (such as Support Vector Machines, Decision Trees, K-Nearest Neighbors, or Gradient Boosted Trees) to output a single consolidated prediction. By leveraging the consensus of diverse algorithms, it mitigates individual model biases and increases generalization performance.
+
+## How It Works
+Voting classifiers can operate in two primary modes:
+
+### 1. Hard Voting (Majority Rule)
+The meta-classifier counts the predicted class labels from each individual model and predicts the class that receives the majority of votes:
+$$\hat{y} = \arg\max_i \sum_{m=1}^{M} I(C_m(\mathbf{x}) = i)$$
+where $C_m(\mathbf{x})$ is the class predicted by the $m$-th classifier, and $I$ is the indicator function.
+
+### 2. Soft Voting (Weighted Probabilities)
+Each classifier calculates the probability of each class label. The meta-classifier averages these predicted probabilities (optionally with weights $w_m$ per classifier) and assigns the class with the highest average probability:
+$$\hat{y} = \arg\max_i \sum_{m=1}^{M} w_m P(C_m(\mathbf{x}) = i)$$
+Soft voting usually yields better performance than hard voting because it accounts for the models' confidence levels, but it requires that all base classifiers support probability estimation (e.g., `predict_proba`).
+
+```mermaid
+graph TD
+    A["Test Sample (x)"] --> B1["Classifier 1 (SVM)"]
+    A --> B2["Classifier 2 (Random Forest)"]
+    A --> B3["Classifier 3 (XGBoost)"]
+    B1 -->|Probability / Vote| C["Voting Mechanism (Hard/Soft)"]
+    B2 -->|Probability / Vote| C
+    B3 -->|Probability / Vote| C
+    C --> D["Consolidated Prediction (y_hat)"]
+```
+
+## Applications
+In hyperspectral lithological and waste-rock classification, different classifiers have complementary strengths: SVMs handle high-dimensional spaces well, Random Forests are robust to noisy bands, and XGBoost excels at capturing non-linear interactions. An ensemble voting classifier is used in [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) to combine these models, achieving higher classification performance and stability.
+
+## Links
+- [[Code — VLC — ML Models Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE)]]
 
 
 
@@ -10657,6 +11463,57 @@ Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative 
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A basic supervised classification algorithm that assigns a sample to the class whose mean centroid is closest in feature space."
+aliases:
+---
+
+
+# Minimum Distance Classifier
+
+## Definition
+The **Minimum Distance Classifier (MDC)** is a simple, computationally efficient supervised classification algorithm used in pattern recognition and remote sensing. It assigns an unclassified pixel or sample vector to the class whose mean vector (centroid) is closest in the multi-dimensional feature space.
+
+## How It Works
+The algorithm consists of two phases:
+
+### 1. Training Phase
+Compute the mean vector (centroid) $\mathbf{m}_c$ for each class $c$ using its training samples:
+$$\mathbf{m}_c = \frac{1}{N_c} \sum_{i=1}^{N_c} \mathbf{x}_i^{(c)}$$
+where $N_c$ is the number of training samples for class $c$, and $\mathbf{x}_i^{(c)}$ is the $i$-th training vector of class $c$.
+
+### 2. Classification Phase
+For an unknown test sample $\mathbf{x}$, compute the distance to each class centroid $\mathbf{m}_c$. Typically, **Euclidean distance** is used:
+$$d(\mathbf{x}, \mathbf{m}_c) = \|\mathbf{x} - \mathbf{m}_c\|_2 = \sqrt{\sum_{j=1}^{D} (x_j - m_{c,j})^2}$$
+where $D$ is the dimensionality of the feature space.
+
+Assign $\mathbf{x}$ to the class $c^*$ that minimizes this distance:
+$$c^* = \arg\min_c d(\mathbf{x}, \mathbf{m}_c)$$
+
+```mermaid
+graph TD
+    A["Compute Class Centroids (m_c)"] --> B["Compute Distances d(x, m_c) for Test Point"]
+    B --> C["Find Minimum Distance c* = argmin d(x, m_c)"]
+    C --> D["Assign Class label c* to Test Point"]
+```
+
+## Applications
+While MDC lacks the sophisticated boundary optimization of Support Vector Machines (SVM) or Random Forests, it serves as a robust baseline classifier. It performs well when classes are spectrally distinct, compact, and isotropic. 
+
+In the bibliometric study co-authored with Hamza Zine, a Python implementation of the Minimum Distance Classifier is used in [CODE.py](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/Actualiser/CODE.py) alongside SVM, KNN, and Random Forest models to classify lithology based on coordinates.
+
+## Links
+- [[Code — Bibliometric — Paper Visualizations and ML]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md
 
 ---
@@ -10964,6 +11821,106 @@ Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A validation framework linking quantitative XRD phase analysis to a simplified 4-class mineralogical scheme for calibrating hyperspectral unmixing algorithms."
+aliases:
+---
+
+
+# Phosphate Mineral Validation Scheme
+
+## Definition
+The **Phosphate Mineral Validation Scheme** is a methodological framework designed to translate complex multi-mineral assemblages identified via lab analysis (like X-ray diffraction) into a simplified, robust classification scheme (typically 4 main classes) suitable for calibrating and validating spatial-spectral remote sensing products (such as PRISMA or EnMAP abundance maps).
+
+## The 4-Class Scheme
+
+```mermaid
+graph TD
+    A["Raw Waste Rock XRD Phases"] -->|Group & Map| B["Simplified 4-Class Scheme"]
+    B --> C1["Carbonate Class (Calcite / Dolomite / Ankerite / Siderite)"]
+    B --> C2["Silica Class (Quartz)"]
+    B --> C3["Phosphate Class (Fluorapatite / Hydroxyapatite)"]
+    B --> C4["Clay Class (Palygorskite / Montmorillonite)"]
+    B -->|Calibrate| D["Satellite Hyperspectral unmixing (VNIR-SWIR)"]
+```
+
+Powder XRD analysis is highly detailed, often identifying 5 to 8 distinct mineral phases per sample in Moroccan open-pit phosphate waste rock piles (WRPs). However, satellite sensors with $30\,\text{m}$ spatial resolution cannot resolve such granular mineralogical parameters. HighScore XRD results are therefore grouped into four main diagnostic classes that align with distinct spectral features in the VNIR-SWIR ranges (400–2500 nm):
+
+1.  **Carbonates**: Grouping **Calcite**, **Dolomite**, **Ankerite**, and **Siderite**. These minerals exhibit diagnostic absorption features in the Shortwave Infrared (SWIR) at ~2300–2350 nm (due to $CO_3^{2-}$ vibrational overtones).
+2.  **Silica (Quartz)**: Grouping crystalline **Quartz**. Although featureless in the VSWIR range, quartz acts as a spectrally neutral diluent, altering the depth and shape of adjacent absorption features.
+3.  **Phosphates**: Grouping **Fluorapatite** and **Hydroxyapatite** (Hydroxylapatite). These minerals represent the key secondary resource targeted for recovery.
+4.  **Clays**: Grouping clay silicates like **Palygorskite** and **Montmorillonite**. Clays show strong absorption features at ~1400 nm, 1900 nm (water overtones), and ~2200 nm (Al-OH bending), which can mask the diagnostic signatures of apatite.
+
+## Ground-Truth Validation
+This validation scheme acts as the ground-truth linkage in Abdelhak's Chapter 1 and Chapter 4 work:
+*   **Sample Characterization**: High-resolution Rietveld refinements (from [PHD-1st XRD Reports](file:///D:/PHD-1st/XRD_reports.zip)) provide absolute weight percentages of these minerals.
+*   **Fusing with Spectroscopy**: Ground ASD FieldSpec readings are mapped to these quantitative mineral classes.
+*   **Unmixing Calibration**: The resulting database is used as endmembers to calibrate spatial unmixing algorithms (VCA-FCLS) applied to PRISMA and EnMAP images, allowing for per-pixel resource mapping and reclamation monitoring.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md
+
+---
+tags:
+date: 2026-06-13
+summary: "The linear systematic sampling strategy used during the first year of research to characterize Panel 2 waste rock piles at the Benguerir mine."
+aliases:
+---
+
+
+# Phosphate Waste Rock Piles Sampling Strategy
+
+## Definition
+The **Phosphate Waste Rock Piles Sampling Strategy** represents the systematic sampling protocols designed to obtain representative physical samples of heterogeneous waste rock piles (overburden and interlayers) to calibrate chemical, mineralogical, and remote-sensing analyses.
+
+## First-Year Linear Sampling Protocol (Panel 2)
+
+```mermaid
+graph LR
+    A["Panel 2 Transect (662 m)"] -->|Linear Systematic Sampling| B["Target Step: 5 m (slope adjusted)"]
+    B --> C["100 Samples Collected"]
+    C -->|Homogenization & Quartering| D["Sub-samples for XRD, XRF, ICP-AES"]
+```
+
+During his first PhD year (February–March 2022), Abdelhak conducted a 3-week sampling campaign at the Benguerir open-pit mine focused on **Panel 2**:
+*   **Transect length**: Collected samples along a linear transect of **662 meters**.
+*   **Target Step**: The systematic sampling step was designed to be **5 meters** to mirror the linear exploitation direction of the draglines and dragline dumping patterns.
+*   **Adjustments**: The distance was adjusted dynamically due to slope instabilities and the heterogeneous dumping of waste rock piles, resulting in some random spacing.
+*   **Sample Count**: A total of **100 samples** were collected.
+*   **Homogenization**: Samples were crushed, homogenized, and quartered into sub-samples for laboratory characterization:
+    *   **XRD**: 20 representative samples were ground to $<75\,\mu\text{m}$ for crystalline phase analysis.
+    *   **XRF**: Pulverized and mixed with binder (Apex press) for elemental analysis.
+    *   **Thin Sections**: 10 thin sections prepared to inspect grain textures.
+
+## Spatially Constrained Sampling Strategy (Canonical Thesis Method)
+As the PhD research matured (moving into Chapter 1 and Chapter 4), this linear 1D transect approach was replaced by a 2D spatial grid strategy to better capture regional mining dump variations:
+*   **Sample Count**: **103 samples** collected.
+*   **Spatial Extent**: Distributed over a wide area of approximately **60 km²** covering diverse mining sectors (rather than just Panel 2).
+*   **Validation Purpose**: Calibrated the 2D spatial predictions of Explainable Machine Learning (XML) models applied to PRISMA and EnMAP scenes, minimizing spatial autocorrelation effects.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[Spatially Constrained Cross-Validation]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md
 
 ---
@@ -11188,6 +12145,52 @@ If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS 
 - [[EnMAP Satellite]]
 - [[Handheld XRF]]
 - [[Phosphate Mine Waste]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A mathematical technique that refines crystallographic structures to fit a measured XRD pattern, enabling quantitative mineral phase analysis."
+aliases:
+---
+
+
+# Rietveld Refinement in XRD
+
+## Definition
+**Rietveld Refinement** is a mathematical method developed by Hugo Rietveld in 1969. It uses a least-squares approach to refine structural parameters (such as unit cell dimensions, atomic positions, site occupancies, and temperature factors) and instrumental parameters (such as background, peak shape, and alignment) to fit a simulated diffraction pattern to a measured X-ray powder diffraction (XRD) pattern. It is the standard method for quantitative phase analysis (QPA).
+
+## Mathematical Principle
+The method minimizes the residual sum of squares $S_y$ between the observed intensities $y_i(\text{obs})$ and calculated intensities $y_i(\text{calc})$ at each step $i$ of the diffractogram:
+$$S_y = \sum_{i} w_i \left[ y_i(\text{obs}) - y_i(\text{calc}) \right]^2$$
+where:
+*   $w_i = 1 / y_i(\text{obs})$ is the statistical weight assigned to point $i$,
+*   $y_i(\text{calc})$ is the sum of contributions from all crystalline phases and background.
+
+## Numerical Quality Indicators (R-Values)
+Rietveld software (such as HighScore Plus) outputs several numerical indicators to judge the quality of the fit:
+
+| Parameter | Name | Formula / Description |
+|-----------|------|-----------------------|
+| **$R_{\text{wp}}$** | Weighted Profile R-factor | $\left[ \frac{\sum w_i (y_i(\text{obs}) - y_i(\text{calc}))^2}{\sum w_i y_i(\text{obs})^2} \right]^{1/2}$. Mathematically, the most significant indicator as its numerator is the minimized residual. |
+| **$R_{\text{exp}}$** | Expected R-factor | $\left[ \frac{N - P}{\sum w_i y_i(\text{obs})^2} \right]^{1/2}$ where $N$ is the number of data points and $P$ is the number of refined parameters. Represents the best possible fit based on statistics. |
+| **$R_{\text{p}}$** | Profile R-factor | $\frac{\sum |y_i(\text{obs}) - y_i(\text{calc})|}{\sum y_i(\text{obs})}$. Measures raw profile absolute differences. |
+| **$\text{GOF}$** | Goodness of Fit | $\text{GOF} = \chi^2 = \left( \frac{R_{\text{wp}}}{R_{\text{exp}}} \right)^2$. A value of $1.0$ indicates an ideal fit; values between $1.5$ and $3.0$ are common for geological refinements. |
+
+## Applications
+In the XRD reports compiled in [XRD_reports.zip](file:///D:/PHD-1st/XRD_reports.zip), Rietveld refinement was conducted on raw scans of Benguerir waste rock samples:
+*   **Sample Z2-1** (`Z21.docx`): Refinement converged with $R_{\text{exp}} = 11.09\%$, $R_{\text{wp}} = 30.15\%$, and $\text{GOF} = 2.72$. It identified Palygorskite ($11.110\%$) and Montmorillonite ($3.021\%$) alongside major calcite, dolomite, and quartz.
+*   **Sample Z2-5** (`Minerals-Z2-5.docx`): Converged with $R_{\text{exp}} = 11.27\%$, $R_{\text{wp}} = 34.85\%$, and $\text{GOF} = 3.09$. Identified $21.524\%$ Hydroxylapatite.
+*   **Sample Z2-10** (`Z2-10-minerals.docx`): Converged with $R_{\text{exp}} = 11.71\%$, $R_{\text{wp}} = 37.93\%$, and $\text{GOF} = 3.24$, yielding $57.366\%$ Hydroxylapatite and $38.135\%$ Calcite.
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
 
 
 
@@ -11680,6 +12683,51 @@ Linear mixing is used because at 30m satellite pixels, areal (checkerboard) mixi
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md
+
+---
+tags:
+date: 2026-06-13
+summary: "An over-sampling method that resolves class imbalance by generating synthetic minority samples along the lines connecting nearest neighbors."
+aliases:
+---
+
+
+# Synthetic Minority Over-sampling Technique (SMOTE)
+
+## Definition
+**Synthetic Minority Over-sampling Technique (SMOTE)** is a popular data augmentation technique designed to address class imbalance in machine learning datasets. Instead of simple over-sampling (which duplicates existing minority instances and often leads to overfitting), SMOTE generates entirely new, synthetic examples of the minority class by interpolating between existing minority class instances and their nearest neighbors.
+
+## How It Works
+SMOTE operates in the feature space rather than data-space:
+1. **Identify Minority Samples**: For each sample $x_i$ belonging to the minority class, compute its $k$-nearest neighbors in the same class (typically using Euclidean distance, with $k=5$).
+2. **Select Neighbor**: Choose one of the $k$-nearest neighbors $x_{zi}$ at random.
+3. **Interpolate**: Create a new synthetic sample $x_{new}$ along the line segment joining $x_i$ and $x_{zi}$ using the formula:
+   $$x_{new} = x_i + \lambda (x_{zi} - x_i)$$
+   where $\lambda$ is a random value drawn from a uniform distribution between $0$ and $1$.
+4. **Repeat**: Repeat the process until the minority class matches the size of the majority class (or a target ratio is achieved).
+
+```mermaid
+graph TD
+    A["Minority Sample (x_i)"] -->|Find k-NN| B["k-Nearest Neighbors"]
+    B -->|Random Select| C["Chosen Neighbor (x_zi)"]
+    C -->|Draw Line Segment| D["Calculate: x_i + lambda * (x_zi - x_i)"]
+    D -->|Create| E["New Synthetic Sample (x_new)"]
+```
+
+## Applications
+In geological and remote sensing datasets, mineral occurrences or specific waste rock lithologies (e.g., low-grade phosphate vs. altered limestone vs. chert) are often highly imbalanced. Standard classifiers (such as Random Forest or XGBoost) trained on such data will exhibit high overall accuracy but poor recall for minority classes. 
+
+SMOTE is applied in the preprocessing phase of [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) to balance waste rock lithology classes before training, resulting in more robust classification boundaries and higher F1-scores for under-represented classes.
+
+## Links
+- [[Code — VLC — ML Models Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md
 
 ---
@@ -11831,6 +12879,105 @@ At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and
 - [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
 - [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
 - [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A software application developed by PANalytical used for mineral phase identification, Rietveld refinement, and crystallographic analysis of XRD data."
+aliases:
+---
+
+
+# X'Pert HighScore Plus
+
+## Definition
+**X'Pert HighScore Plus** (developed by PANalytical, now Malvern Panalytical) is a standard desktop application used for analyzing X-ray powder diffraction (XRD) patterns. It integrates phase identification (search/match), profile fitting, pattern treatment, and advanced crystallographic analysis—including quantitative phase analysis using the Rietveld refinement method.
+
+## Key Capabilities & Workflow
+
+```mermaid
+graph TD
+    A["Raw Diffractogram (.raw / .xy / .xrdml)"] --> B["Pattern Treatment: Background & Peak Search"]
+    B --> C["Search/Match Phase Identification"]
+    C -->|JCPDS PDF-2 Database| D["Candidate Phase Selection (Calcite, Quartz, Apatite)"]
+    D --> E["Rietveld Refinement & Profile Matching"]
+    E --> F["Quantitative Analysis (Weight %) & Unit Cell Parameters"]
+```
+
+### 1. Database Integration
+HighScore Plus relies on reference databases to match measured peaks with crystallographic standards. The software in [D:\PHD-1st\Xpert highscore\](file:///D:/PHD-1st/Xpert%20highscore/) uses the **JCPDS PDF-2 database** (Joint Committee on Powder Diffraction Standards / ICDD), containing standard powder diffraction file cards:
+*   `PDF2.DAT`: The primary JCPDS compiled binary database.
+*   `ReferenceDatabase.PDB`: Converted indexes used by the HighScore engine for fast searching and matching.
+
+### 2. Search/Match Algorithm
+Compares the $d$-spacings ($2\theta$ angles) and relative intensities of peaks in the experimental diffractogram against the reference cards in the PDF database. Candidate phases are scored based on the alignment of peak positions and matching chemistry constraints.
+
+### 3. Quantitative Rietveld Refinement
+Performs full-pattern fitting by adjusting crystallographic structures (atomic positions, unit cell dimensions, crystallite size, microstrain, thermal parameters) and instrument parameters to minimize the difference between the observed and simulated XRD patterns. It outputs the relative weight percentages ($\text{Wt}\%$) of the identified mineral phases.
+
+## Applications
+In the first year of the PhD, Abdelhak used HighScore Plus to analyze raw scans (`.raw` and `.xy` files in [RE__Analyses_DRX](file:///D:/PHD-1st/RE__Analyses_DRX/)) of waste rock samples from Panel 2 of the Benguerir mine. This analysis quantitatively verified the mineral components (e.g., Calcite, Dolomite, Palygorskite, Quartz, Fluorapatite) validating the 4-class mineralogy validation scheme of Chapter 1.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
+- [[04_Knowledge Base/wiki/sources/NBSAIDS83_Manual]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy.md
+
+---
+tags:
+date: 2026-06-13
+summary: "An analytical technique used to identify crystalline mineral phases by measuring standard constructive interference patterns of X-rays."
+aliases:
+---
+
+
+# X-Ray Diffraction (XRD) in Mineralogy
+
+## Definition
+**X-Ray Diffraction (XRD)** is a non-destructive analytical technique used to determine the mineralogical composition, crystalline structure, and physical properties of geological materials. It functions by exposing a crystalline powder sample to a monochromatic beam of X-rays, which scatter in directions dictated by the spacing of atoms in the crystal lattice.
+
+## How It Works
+Crystalline minerals act as three-dimensional diffraction gratings for X-rays. When the path difference of scattered X-rays equals an integer number of wavelengths, constructive interference occurs, generating a diffraction peak. This is described by **Bragg's Law**:
+$$n\lambda = 2d \sin\theta$$
+where:
+*   $n$ is the order of reflection (integer),
+*   $\lambda$ is the wavelength of the incident X-ray beam (e.g., $Cu\text{-}K\alpha$ radiation = $1.5406\,\text{Å}$),
+*   $d$ is the interplanar spacing ($d$-spacing) of the crystal lattice planes,
+*   $\theta$ is the angle of incidence.
+
+```mermaid
+graph TD
+    A["Monochromatic X-ray Source"] -->|Incident Beam| B["Crystalline Sample (d-spacing)"]
+    B -->|Diffracted Beam (Bragg's Law)| C["X-ray Detector"]
+    C -->|Measure Angles & Intensities| D["Diffraction Pattern (2-Theta vs Intensity)"]
+```
+
+The resulting diffractogram (plotting $2\theta$ vs. intensity) acts as a unique mineralogical fingerprint. Individual phases are identified by comparing the position and relative intensity of their diffraction peaks against standard reference databases (such as the ICDD Powder Diffraction File).
+
+## Applications
+In phosphate mining environment studies, XRD is essential for:
+*   **Phase Identification**: Distinguishing between different carbonate minerals (Calcite, Dolomite, Ankerite, Siderite) and phosphate-bearing minerals (Fluorapatite, Hydroxyapatite) in waste rock piles.
+*   **Quantitative Mineralogy**: Determining the relative weight percentages of minerals using Rietveld refinement methods, which helps validate satellite remote sensing mineral maps.
+*   **Clay Characterization**: Identifying clay mineral assemblages (such as Palygorskite and Montmorillonite) which impact waste pile stability and soil water-holding capacity.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
 
 
 
