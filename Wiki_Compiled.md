@@ -21,112 +21,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/Literature MOC.md](#-file-04_knowledge-base-wiki-literature-moc-md) (~120 words)
 - [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
-- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-workflow-md) (~499 words)
-- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-in-phosphate-reclamation-md) (~413 words)
-- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-md) (~516 words)
-- [04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md](#-file-04_knowledge-base-wiki-concepts-amics-spectrum-tree-md) (~441 words)
-- [04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md](#-file-04_knowledge-base-wiki-concepts-amics-target-mineral-quantification-md) (~405 words)
-- [04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability.md](#-file-04_knowledge-base-wiki-concepts-anova-wavelength-ranking-&-selection-stability-md) (~347 words)
-- [04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md](#-file-04_knowledge-base-wiki-concepts-atmospheric-absorption-windows-in-prisma-md) (~373 words)
-- [04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping.md](#-file-04_knowledge-base-wiki-concepts-benguerir-site-scale-oxide-&-mineral-dominance-mapping-md) (~325 words)
-- [04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics.md](#-file-04_knowledge-base-wiki-concepts-chapter-1-cohort-spectral-similarity-metrics-md) (~340 words)
-- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-benguerir-scene-hdf5-md) (~249 words)
-- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-false-color-composition-r-md) (~263 words)
-- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-python-rasterio-display-md) (~212 words)
-- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-random-forest-classification-r-md) (~341 words)
-- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-spectral-signature-extraction-r-md) (~253 words)
-- [04_Knowledge Base/wiki/concepts/Code — Bibliometric — Paper Visualizations and ML.md](#-file-04_knowledge-base-wiki-concepts-code-—-bibliometric-—-paper-visualizations-and-ml-md) (~369 words)
-- [04_Knowledge Base/wiki/concepts/Code — Hamza Collaboration Biodiversity Plotting.md](#-file-04_knowledge-base-wiki-concepts-code-—-hamza-collaboration-biodiversity-plotting-md) (~480 words)
-- [04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-ensemble-band-selection-md) (~366 words)
-- [04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-spectral-derivatives-pipeline-md) (~374 words)
-- [04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-morocco-map-r-script-md) (~185 words)
-- [04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md](#-file-04_knowledge-base-wiki-concepts-code-—-neon-tutorial-dataset-sjer-md) (~216 words)
-- [04_Knowledge Base/wiki/concepts/Code — Pierre Gy's Fundamental Sampling Error R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-pierre-gy's-fundamental-sampling-error-r-script-md) (~577 words)
-- [04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Clean.md](#-file-04_knowledge-base-wiki-concepts-code-—-r-viz-—-ukraine-wheat-war-trade-clean-md) (~349 words)
-- [04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Step by Step.md](#-file-04_knowledge-base-wiki-concepts-code-—-r-viz-—-ukraine-wheat-war-trade-step-by-step-md) (~367 words)
-- [04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md](#-file-04_knowledge-base-wiki-concepts-code-—-root-—-articles-progress-and-metrics-md) (~350 words)
-- [04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-bad-bands-detection-md) (~379 words)
-- [04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-ml-models-classifier-md) (~352 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — Benguerir Mine Species and Shapefiles.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-benguerir-mine-species-and-shapefiles-md) (~334 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — Books Reference Library.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-books-reference-library-md) (~382 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-chapter-1-supplementary-tables-md) (~546 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — Chapter 2 Supplementary Materials.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-chapter-2-supplementary-materials-md) (~699 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-ocp-institutional-documents-md) (~532 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-phd-1st-xrd-reports-md) (~493 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-prisma-khouribga-satellite-scenes-md) (~427 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-shepelife-lithology-datasets-md) (~403 words)
-- [04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-um6p-amics-microxrf-training-datasets-md) (~594 words)
-- [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
-- [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
-- [04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md](#-file-04_knowledge-base-wiki-concepts-ecostress-spectral-library-md) (~390 words)
-- [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
-- [04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md](#-file-04_knowledge-base-wiki-concepts-ensemble-spectral-band-selection-—-feilhauer-method-md) (~326 words)
-- [04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md](#-file-04_knowledge-base-wiki-concepts-ensemble-voting-classifier-md) (~334 words)
-- [04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies.md](#-file-04_knowledge-base-wiki-concepts-feature-selection-&-validation-ablation-studies-md) (~799 words)
-- [04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting.md](#-file-04_knowledge-base-wiki-concepts-gantour-basin-and-benguerir-mine-geological-setting-md) (~261 words)
-- [04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class.md](#-file-04_knowledge-base-wiki-concepts-geochemical-summary-statistics-by-lithological-class-md) (~376 words)
-- [04_Knowledge Base/wiki/concepts/GrosFichiers-SAADAOUI Collaboration Dataset.md](#-file-04_knowledge-base-wiki-concepts-grosfichiers-saadaoui-collaboration-dataset-md) (~262 words)
-- [04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC.md](#-file-04_knowledge-base-wiki-concepts-hhxrf-instrument-parameters-&-qa-qc-md) (~265 words)
-- [04_Knowledge Base/wiki/concepts/HHXRF Major-Oxide Concentration Ranges.md](#-file-04_knowledge-base-wiki-concepts-hhxrf-major-oxide-concentration-ranges-md) (~280 words)
-- [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
-- [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
-- [04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles.md](#-file-04_knowledge-base-wiki-concepts-integrated-sample-level-mineralogical-geochemical-profiles-md) (~369 words)
-- [04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-linear-spectral-unmixing-(nnls)-in-chapter-1-md) (~390 words)
-- [04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models.md](#-file-04_knowledge-base-wiki-concepts-lithological-classifier-configurations-&-baseline-models-md) (~372 words)
-- [04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences.md](#-file-04_knowledge-base-wiki-concepts-maastrichtian-eocene-phosphatic-sequences-md) (~311 words)
-- [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
-- [04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-micro-xrf-spectroscopy-md) (~440 words)
-- [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
-- [04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md](#-file-04_knowledge-base-wiki-concepts-minimum-distance-classifier-md) (~310 words)
-- [04_Knowledge Base/wiki/concepts/Muglight Replicate-Stability Gate.md](#-file-04_knowledge-base-wiki-concepts-muglight-replicate-stability-gate-md) (~372 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-band-removal-—-multi-criterion-method-md) (~358 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Bad Bands Removal Protocol.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-bands-removal-protocol-md) (~384 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md](#-file-04_knowledge-base-wiki-concepts-prisma-band-quality-map-—-benguerir-acquisition-md) (~488 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Image Preprocessing & Spectral Optimization.md](#-file-04_knowledge-base-wiki-concepts-prisma-image-preprocessing-&-spectral-optimization-md) (~314 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics.md](#-file-04_knowledge-base-wiki-concepts-prisma-lithological-mapping-performance-metrics-md) (~635 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Satellite.md](#-file-04_knowledge-base-wiki-concepts-prisma-satellite-md) (~382 words)
-- [04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering.md](#-file-04_knowledge-base-wiki-concepts-prisma-spatial-redundancy-filtering-md) (~306 words)
-- [04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign.md](#-file-04_knowledge-base-wiki-concepts-panel-2-linear-sampling-campaign-md) (~334 words)
-- [04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions.md](#-file-04_knowledge-base-wiki-concepts-phd-year-2-progress-and-classifier-decisions-md) (~445 words)
-- [04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC.md](#-file-04_knowledge-base-wiki-concepts-phosphate-geology-and-stratigraphy-moc-md) (~283 words)
-- [04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mine-waste-md) (~492 words)
-- [04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mineral-validation-scheme-md) (~414 words)
-- [04_Knowledge Base/wiki/concepts/Phosphate Mineralization Types and Lithological Components.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mineralization-types-and-lithological-components-md) (~292 words)
-- [04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md](#-file-04_knowledge-base-wiki-concepts-phosphate-waste-rock-piles-sampling-strategy-md) (~369 words)
-- [04_Knowledge Base/wiki/concepts/Phosphatogenesis and Phosphate Deposit Formation.md](#-file-04_knowledge-base-wiki-concepts-phosphatogenesis-and-phosphate-deposit-formation-md) (~397 words)
-- [04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping.md](#-file-04_knowledge-base-wiki-concepts-project-overview-—-shepelife-lithology-mapping-md) (~366 words)
-- [04_Knowledge Base/wiki/concepts/Raunkiaer's Life Forms.md](#-file-04_knowledge-base-wiki-concepts-raunkiaer's-life-forms-md) (~441 words)
-- [04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md](#-file-04_knowledge-base-wiki-concepts-reclamation-monitoring-md) (~664 words)
-- [04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md](#-file-04_knowledge-base-wiki-concepts-reclamation-progress-index-md) (~549 words)
-- [04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis.md](#-file-04_knowledge-base-wiki-concepts-research-note-—-shepelife-classification-accuracy-analysis-md) (~590 words)
-- [04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md](#-file-04_knowledge-base-wiki-concepts-rietveld-refinement-in-xrd-md) (~427 words)
-- [04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria.md](#-file-04_knowledge-base-wiki-concepts-swir-hhxrf-spectral-elemental-validation-criteria-md) (~376 words)
-- [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
-- [04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping.md](#-file-04_knowledge-base-wiki-concepts-spatial-uncertainty-&-posterior-probability-score-mapping-md) (~341 words)
-- [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-in-chapter-2-md) (~354 words)
-- [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~345 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~582 words)
-- [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
-- [04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine.md](#-file-04_knowledge-base-wiki-concepts-stratigraphy-of-the-gantour-basin-and-benguerir-mine-md) (~351 words)
-- [04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md](#-file-04_knowledge-base-wiki-concepts-synthetic-minority-over-sampling-technique-(smote)-md) (~339 words)
-- [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
-- [04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks.md](#-file-04_knowledge-base-wiki-concepts-wd-xrf-chemical-characterization-of-benguerir-waste-rocks-md) (~534 words)
-- [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
-- [04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation.md](#-file-04_knowledge-base-wiki-concepts-workshop-emec-smce-2022-participation-md) (~333 words)
-- [04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus.md](#-file-04_knowledge-base-wiki-concepts-x'pert-highscore-plus-md) (~368 words)
-- [04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy.md](#-file-04_knowledge-base-wiki-concepts-x-ray-diffraction-(xrd)-in-mineralogy-md) (~342 words)
-- [04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels.md](#-file-04_knowledge-base-wiki-concepts-xrd-and-petrographic-validation-of-classification-labels-md) (~346 words)
-- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-carbonates-md) (~331 words)
-- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-chlorite-md) (~332 words)
-- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-granite-md) (~326 words)
-- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-particle-analysis-md) (~437 words)
-- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-pegmatite-md) (~467 words)
-- [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
-- [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
 - [04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-remote-sensing-moc-md) (~447 words)
 - [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~334 words)
+- [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
+- [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/sources/Abdelhak2022Progressive.md](#-file-04_knowledge-base-wiki-sources-abdelhak2022progressive-md) (~634 words)
 - [04_Knowledge Base/wiki/sources/BoardmanJWKruse.md](#-file-04_knowledge-base-wiki-sources-boardmanjwkruse-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataProductsQuality.md](#-file-04_knowledge-base-wiki-sources-dataproductsquality-md) (~50 words)
@@ -441,6 +340,107 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023a.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023a-md) (~73 words)
 - [04_Knowledge Base/wiki/sources/zineNativePlantDiversity2023b.md](#-file-04_knowledge-base-wiki-sources-zinenativeplantdiversity2023b-md) (~72 words)
 - [04_Knowledge Base/wiki/sources/zouhriCretaceousTertiaryPlateaus2008.md](#-file-04_knowledge-base-wiki-sources-zouhricretaceoustertiaryplateaus2008-md) (~59 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-workflow-md) (~499 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-in-phosphate-reclamation-md) (~413 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy.md](#-file-04_knowledge-base-wiki-concepts-amics-automated-mineralogy-md) (~516 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md](#-file-04_knowledge-base-wiki-concepts-amics-spectrum-tree-md) (~441 words)
+- [04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md](#-file-04_knowledge-base-wiki-concepts-amics-target-mineral-quantification-md) (~405 words)
+- [04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability.md](#-file-04_knowledge-base-wiki-concepts-anova-wavelength-ranking-&-selection-stability-md) (~347 words)
+- [04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md](#-file-04_knowledge-base-wiki-concepts-atmospheric-absorption-windows-in-prisma-md) (~373 words)
+- [04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping.md](#-file-04_knowledge-base-wiki-concepts-benguerir-site-scale-oxide-&-mineral-dominance-mapping-md) (~325 words)
+- [04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics.md](#-file-04_knowledge-base-wiki-concepts-chapter-1-cohort-spectral-similarity-metrics-md) (~340 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-benguerir-scene-hdf5-md) (~249 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-false-color-composition-r-md) (~263 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-python-rasterio-display-md) (~212 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-random-forest-classification-r-md) (~341 words)
+- [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-spectral-signature-extraction-r-md) (~253 words)
+- [04_Knowledge Base/wiki/concepts/Code — Bibliometric — Paper Visualizations and ML.md](#-file-04_knowledge-base-wiki-concepts-code-—-bibliometric-—-paper-visualizations-and-ml-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/Code — Hamza Collaboration Biodiversity Plotting.md](#-file-04_knowledge-base-wiki-concepts-code-—-hamza-collaboration-biodiversity-plotting-md) (~480 words)
+- [04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-ensemble-band-selection-md) (~366 words)
+- [04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md](#-file-04_knowledge-base-wiki-concepts-code-—-khalil-—-spectral-derivatives-pipeline-md) (~374 words)
+- [04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-morocco-map-r-script-md) (~185 words)
+- [04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md](#-file-04_knowledge-base-wiki-concepts-code-—-neon-tutorial-dataset-sjer-md) (~216 words)
+- [04_Knowledge Base/wiki/concepts/Code — Pierre Gy's Fundamental Sampling Error R Script.md](#-file-04_knowledge-base-wiki-concepts-code-—-pierre-gy's-fundamental-sampling-error-r-script-md) (~577 words)
+- [04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Clean.md](#-file-04_knowledge-base-wiki-concepts-code-—-r-viz-—-ukraine-wheat-war-trade-clean-md) (~349 words)
+- [04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Step by Step.md](#-file-04_knowledge-base-wiki-concepts-code-—-r-viz-—-ukraine-wheat-war-trade-step-by-step-md) (~367 words)
+- [04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md](#-file-04_knowledge-base-wiki-concepts-code-—-root-—-articles-progress-and-metrics-md) (~350 words)
+- [04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-bad-bands-detection-md) (~379 words)
+- [04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md](#-file-04_knowledge-base-wiki-concepts-code-—-vlc-—-ml-models-classifier-md) (~352 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Benguerir Mine Species and Shapefiles.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-benguerir-mine-species-and-shapefiles-md) (~334 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Books Reference Library.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-books-reference-library-md) (~382 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-chapter-1-supplementary-tables-md) (~546 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Chapter 2 Supplementary Materials.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-chapter-2-supplementary-materials-md) (~699 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-ocp-institutional-documents-md) (~532 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-phd-1st-xrd-reports-md) (~493 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-prisma-khouribga-satellite-scenes-md) (~427 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-shepelife-lithology-datasets-md) (~403 words)
+- [04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md](#-file-04_knowledge-base-wiki-concepts-data-asset-—-um6p-amics-microxrf-training-datasets-md) (~594 words)
+- [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
+- [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
+- [04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md](#-file-04_knowledge-base-wiki-concepts-ecostress-spectral-library-md) (~390 words)
+- [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
+- [04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md](#-file-04_knowledge-base-wiki-concepts-ensemble-spectral-band-selection-—-feilhauer-method-md) (~326 words)
+- [04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md](#-file-04_knowledge-base-wiki-concepts-ensemble-voting-classifier-md) (~334 words)
+- [04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies.md](#-file-04_knowledge-base-wiki-concepts-feature-selection-&-validation-ablation-studies-md) (~799 words)
+- [04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting.md](#-file-04_knowledge-base-wiki-concepts-gantour-basin-and-benguerir-mine-geological-setting-md) (~261 words)
+- [04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class.md](#-file-04_knowledge-base-wiki-concepts-geochemical-summary-statistics-by-lithological-class-md) (~376 words)
+- [04_Knowledge Base/wiki/concepts/GrosFichiers-SAADAOUI Collaboration Dataset.md](#-file-04_knowledge-base-wiki-concepts-grosfichiers-saadaoui-collaboration-dataset-md) (~262 words)
+- [04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC.md](#-file-04_knowledge-base-wiki-concepts-hhxrf-instrument-parameters-&-qa-qc-md) (~265 words)
+- [04_Knowledge Base/wiki/concepts/HHXRF Major-Oxide Concentration Ranges.md](#-file-04_knowledge-base-wiki-concepts-hhxrf-major-oxide-concentration-ranges-md) (~280 words)
+- [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
+- [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
+- [04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles.md](#-file-04_knowledge-base-wiki-concepts-integrated-sample-level-mineralogical-geochemical-profiles-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-linear-spectral-unmixing-(nnls)-in-chapter-1-md) (~390 words)
+- [04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models.md](#-file-04_knowledge-base-wiki-concepts-lithological-classifier-configurations-&-baseline-models-md) (~372 words)
+- [04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences.md](#-file-04_knowledge-base-wiki-concepts-maastrichtian-eocene-phosphatic-sequences-md) (~311 words)
+- [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
+- [04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-micro-xrf-spectroscopy-md) (~440 words)
+- [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
+- [04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md](#-file-04_knowledge-base-wiki-concepts-minimum-distance-classifier-md) (~310 words)
+- [04_Knowledge Base/wiki/concepts/Muglight Replicate-Stability Gate.md](#-file-04_knowledge-base-wiki-concepts-muglight-replicate-stability-gate-md) (~372 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-band-removal-—-multi-criterion-method-md) (~358 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Bad Bands Removal Protocol.md](#-file-04_knowledge-base-wiki-concepts-prisma-bad-bands-removal-protocol-md) (~384 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md](#-file-04_knowledge-base-wiki-concepts-prisma-band-quality-map-—-benguerir-acquisition-md) (~488 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Image Preprocessing & Spectral Optimization.md](#-file-04_knowledge-base-wiki-concepts-prisma-image-preprocessing-&-spectral-optimization-md) (~314 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics.md](#-file-04_knowledge-base-wiki-concepts-prisma-lithological-mapping-performance-metrics-md) (~635 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Satellite.md](#-file-04_knowledge-base-wiki-concepts-prisma-satellite-md) (~382 words)
+- [04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering.md](#-file-04_knowledge-base-wiki-concepts-prisma-spatial-redundancy-filtering-md) (~306 words)
+- [04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign.md](#-file-04_knowledge-base-wiki-concepts-panel-2-linear-sampling-campaign-md) (~334 words)
+- [04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions.md](#-file-04_knowledge-base-wiki-concepts-phd-year-2-progress-and-classifier-decisions-md) (~445 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC.md](#-file-04_knowledge-base-wiki-concepts-phosphate-geology-and-stratigraphy-moc-md) (~283 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mine-waste-md) (~492 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mineral-validation-scheme-md) (~414 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Mineralization Types and Lithological Components.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mineralization-types-and-lithological-components-md) (~292 words)
+- [04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md](#-file-04_knowledge-base-wiki-concepts-phosphate-waste-rock-piles-sampling-strategy-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/Phosphatogenesis and Phosphate Deposit Formation.md](#-file-04_knowledge-base-wiki-concepts-phosphatogenesis-and-phosphate-deposit-formation-md) (~397 words)
+- [04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping.md](#-file-04_knowledge-base-wiki-concepts-project-overview-—-shepelife-lithology-mapping-md) (~366 words)
+- [04_Knowledge Base/wiki/concepts/Raunkiaer's Life Forms.md](#-file-04_knowledge-base-wiki-concepts-raunkiaer's-life-forms-md) (~441 words)
+- [04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md](#-file-04_knowledge-base-wiki-concepts-reclamation-monitoring-md) (~664 words)
+- [04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md](#-file-04_knowledge-base-wiki-concepts-reclamation-progress-index-md) (~549 words)
+- [04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis.md](#-file-04_knowledge-base-wiki-concepts-research-note-—-shepelife-classification-accuracy-analysis-md) (~590 words)
+- [04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md](#-file-04_knowledge-base-wiki-concepts-rietveld-refinement-in-xrd-md) (~427 words)
+- [04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria.md](#-file-04_knowledge-base-wiki-concepts-swir-hhxrf-spectral-elemental-validation-criteria-md) (~376 words)
+- [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
+- [04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping.md](#-file-04_knowledge-base-wiki-concepts-spatial-uncertainty-&-posterior-probability-score-mapping-md) (~341 words)
+- [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-in-chapter-2-md) (~354 words)
+- [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Analysis.md](#-file-04_knowledge-base-wiki-concepts-spectral-analysis-md) (~345 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Library Matching.md](#-file-04_knowledge-base-wiki-concepts-spectral-library-matching-md) (~582 words)
+- [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
+- [04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine.md](#-file-04_knowledge-base-wiki-concepts-stratigraphy-of-the-gantour-basin-and-benguerir-mine-md) (~351 words)
+- [04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md](#-file-04_knowledge-base-wiki-concepts-synthetic-minority-over-sampling-technique-(smote)-md) (~339 words)
+- [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
+- [04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks.md](#-file-04_knowledge-base-wiki-concepts-wd-xrf-chemical-characterization-of-benguerir-waste-rocks-md) (~534 words)
+- [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
+- [04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation.md](#-file-04_knowledge-base-wiki-concepts-workshop-emec-smce-2022-participation-md) (~333 words)
+- [04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus.md](#-file-04_knowledge-base-wiki-concepts-x'pert-highscore-plus-md) (~368 words)
+- [04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy.md](#-file-04_knowledge-base-wiki-concepts-x-ray-diffraction-(xrd)-in-mineralogy-md) (~342 words)
+- [04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels.md](#-file-04_knowledge-base-wiki-concepts-xrd-and-petrographic-validation-of-classification-labels-md) (~346 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-carbonates-md) (~331 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-chlorite-md) (~332 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-granite-md) (~326 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-particle-analysis-md) (~437 words)
+- [04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-pegmatite-md) (~467 words)
 
 
 
@@ -1240,6711 +1240,6 @@ created: '2026-05-24'
 
 
 
-## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow.md
-
----
-date: 2026-06-13
-tags:
-summary: "Technical workflow of Bruker AMICS automated mineralogy, including acquisition, image segmentation, spectrum tree clustering, and mineral library matching."
-aliases:
----
-
-
-# AMICS Automated Mineralogy Workflow
-
-The AMICS automated mineralogy pipeline progresses through three key stages: **Scan (Acquisition) $\rightarrow$ Segmentation (Boundary Detection) $\rightarrow$ Mineral Classification**.
-
-```mermaid
-graph LR
-    A[1. Scan / Acquisition] --> B[2. Segmentation / Boundary]
-    B --> C[3. Classification / Library Match]
-    C --> D[4. Reporting & Touch-Up]
-```
-
----
-
-## 1. Scan / Acquisition (Measurement Modes)
-
-AMICS supports different measurement configurations depending on resolution and time constraints:
-* **Matrix Mapping**: 
-  * Generates a false-color material map at a user-defined step size (e.g., $20\ \mu\text{m}$ or $50\ \mu\text{m}$).
-  * It does not perform high-resolution boundary detection, meaning fine-scale textural details may be missed if the step size is too coarse.
-  * Faster and ideal for block samples.
-* **Segmentation Mapping**:
-  * Superimposes the mineral classification on top of the underlying BSE image at the BSE resolution.
-  * Captures fine-grained boundaries and textures.
-* **Hyper Mapping**:
-  * Acquires BSE data at the same resolution as the X-ray step size.
-  * It is up to four times faster than standard mapping modes while maintaining full spectral information per pixel.
-
----
-
-## 2. Segmentation (Boundary Detection)
-
-Segmentation is the process of grouping contiguous pixels with similar characteristics into discrete segments to reduce spectral collection time:
-* **BSE/Intensity Thresholding**: Used to differentiate the target rock/mineral fragments from the background mounting medium (epoxy resin).
-  * **Particle Mapping**: Relies on BSE thresholding to identify particles against the resin background, making it suitable for granulated samples in epoxy.
-  * **Matrix Mapping**: Does not search for background boundaries, applying a flat grid segment size matching the X-ray step size.
-* **Noise Reduction**: Applies smoothing filters to the BSE image to prevent over-segmentation due to detector noise.
-
----
-
-## 3. Mineral Classification (Spectral Matching)
-
-Once segments are identified, the X-ray spectrum collected from the segment center is matched against a reference mineral library:
-* **Full-Spectrum Matching**: The matching algorithm calculates the absolute difference between the measured spectrum and reference spectra:
-  $$\text{ABS}(\text{Measured} - \text{Reference}) = \text{Difference Spectrum}$$
-  The mineral with the smallest difference is assigned to the segment.
-* **Matching Speed Optimization**:
-  * A larger reference library slows down the classification.
-  * **Priority Levels**: Minerals in the reference library can be assigned a priority (`High`, `Normal`, or `Low`). High-priority minerals are tested first, saving processing time.
-  * **Spectrum Tree Clustering**: Grouping similar unclassified spectra using elemental or intensity filters to classify them in batches rather than individually.
-
----
-
-## 4. Post-Processing & Touch-Up
-
-* **Grain Panel Touch-Up**: Used to clean up classification artifacts, such as misclassified boundary pixels. This can reduce unclassified pixels significantly (e.g., from $5\%$ "Unknown" to $0.08\%$).
-* **Elemental Quantification**: Calculates modal mineralogy ($Wt\%$), grain size distributions, mineral locking, and mineral association curves.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree|AMICS Spectrum Tree]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation.md
-
----
-date: 2026-06-13
-tags:
-summary: "Methodological link explaining how automated mineralogy (AMICS) can be applied to characterize and monitor phosphate mine waste rock reclamation."
-aliases:
----
-
-
-# AMICS Automated Mineralogy in Phosphate Reclamation
-
-## Overview
-Abdelhak's PhD thesis focuses on **multi-scale characterization and reclamation monitoring of phosphate mine waste rocks** at the Benguerir Mine. Applying **automated mineralogy (AMICS)** to this research provides a micro-scale analytical baseline that connects laboratory geochemistry to satellite-based remote sensing models.
-
----
-
-## Key Applications in Phosphate Reclamation
-
-```mermaid
-graph TD
-    A[AMICS Micro-Scale Mineralogy] --> B[Validate VNIR-SWIR Handheld Spectroscopy]
-    B --> C[Calibrate PRISMA & EnMAP Spectral Unmixing]
-    C --> D[Monitor Reclamation Progress Index - RPI]
-```
-
-### 1. Mineralogical Characterization of Waste Rock Dumps
-* ** Francolite (Carbonate-Apatite) Quantification**:
-  * Phosphate mine waste rock piles (WRPs) contain variable amounts of residual phosphate, typically in the form of carbonate-fluorapatite (francolite).
-  * AMICS allows direct quantification of francolite abundance ($Wt\%$) and grain size. This is crucial for evaluating the environmental risk of heavy metal leaching (e.g., Cadmium associated with apatite) and the potential for waste reprocessing/valorization.
-* **Silica (Quartz/Flint) vs. Carbonate Ratio**:
-  * Maps the ratio of silexite/flint ($\text{SiO}_2$) to carbonates (calcite/dolomite). This ratio determines the geomechanical stability of the dumps and their resistance to physical erosion.
-
-### 2. Acid Neutralization Potential & Weathering
-* **Carbonate Neutralization Capacity**:
-  * Carbonates (calcite/dolomite) provide a natural buffer that neutralizes potential acidity. AMICS maps the spatial exposure and liberation state of carbonate grains within clayey matrices.
-  * This allows modelers to predict the long-term geochemical weathering and acid neutralization pathways of the waste dumps.
-
-### 3. Ground-Truth Validation of Remote Sensing Models
-* **Cross-Scale Calibration**:
-  * Satellite sensors like **[[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]]** and **[[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]** map surface mineral abundances across $30\text{ m}$ pixels.
-  * Laboratory AMICS provides the absolute "ground truth" mineralogy ($Wt\%$) of surface samples collected from those pixels.
-  * This ground truth is used to calibrate and validate **spectral unmixing algorithms** (like Vertex Component Analysis - VCA, and Fully Constrained Least Squares - FCLS) and the **[[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]]**.
-  * By verifying the exact mineral compositions under the pixel area (e.g., verifying that a predicted $12\%$ carbonate signal matches a physical mixture of calcite, dolomite, and clays), the satellite models are grounded in geological reality.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
-* [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]]
-* [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy.md
-
----
-date: 2026-06-13
-tags:
-summary: "Bruker's Automated Mineralogy and Image Characterisation Software (AMICS) for SEM and Micro-XRF data processing, classification, and quantification."
-aliases:
----
-
-
-# AMICS Automated Mineralogy
-
-## Definition
-**AMICS** (Automated Mineralogy and Image Characterisation Software) is Bruker's proprietary software suite designed to automate mineral identification and characterization using energy-dispersive X-ray spectroscopy (EDS) data. It operates across both Scanning Electron Microscopy (SEM) and Micro-X-ray Fluorescence (Micro-XRF) instruments.
-
----
-
-## Software Modules
-
-AMICS is divided into three functional modules that cover the entire analytical workflow:
-
-1. **AMICS Tool**: 
-   * Handles instrument control and calibration.
-   * Manages hardware parameters, beam positioning, and API drivers (e.g., Zeiss, Hitachi, Bruker M4).
-   * Used for checking microscope/instrument communication, stage limits, vacuum control (e.g., 2 mbar for light element detection), and EDS count rates (aiming for $>2000$ counts per spot).
-2. **AMICS Investigator**:
-   * Used for project creation, sample holder mapping (using digital templates like 9- or 12-hole grids), and defining measurement areas.
-   * Allows drawing specific measurement shapes (circle, rectangle, polygon) and configuring scan settings (step size, dwell time).
-   * Defines the scan type: Matrix Mapping, Segmentation Mapping, Hyper Mapping, or Bright Phase Search.
-3. **AMICS Process**:
-   * Performs post-scan data processing, spectrum tree clustering, touch-ups, and mineral abundance calculations.
-   * Manages the classification workflow, matching spectra to reference libraries, and exporting results.
-
----
-
-## Data Structure & Layers
-
-AMICS builds a spatial-compositional relational database from the scan. The data is structured into three overlapping layers:
-
-```mermaid
-graph TD
-    A[Image Layer: Grayscale BSE / X-ray Intensity] --> B[Segment Layer: Boundary Detection]
-    B --> C[Matching Layer: Mineral Classification]
-    C --> D[(Relational Database: Pixel X-Y + Segment BSE + Spectrum + Mineral)]
-```
-
-* **Image Layer**: The base layer containing the Backscattered Electron (BSE) grayscale image (for SEM) or the total X-ray intensity map (for Micro-XRF).
-* **Segment Layer**: Adjacent pixels with similar grayscale values or elemental intensities are grouped into segments. Each segment has an average BSE/intensity value and an X-ray spectrum collected at its center or across its area.
-* **Matching Layer**: Every pixel is classified by matching its spectrum against a mineral library.
-
-### Grains vs. Particles
-AMICS distinguishes between these two structures for metallurgical and mineralogical calculations:
-* **Grains**: Contiguous areas of pixels classified as the same mineral.
-* **Particles**: Contiguous grains surrounded by a designated "Background" (typically the epoxy resin in granulated samples). Particle mapping allows for the calculation of mineral liberation, locking, and mineral association data.
-
----
-
-## Current Results vs. Common Library
-
-AMICS manages mineral libraries at two levels:
-* **Current Result Standard (MRE File)**: The reference mineral library is stored directly within the raw measurement file. Any customized spectrum trees, groupings, and touch-up steps travel with the data.
-* **Common Library (UserSTD.db)**: The reference library stored on the local PC. It serves as a master database. Reclassifying with a Common Library will overwrite the MRE's local groupings.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md
-
----
-date: 2026-06-13
-tags:
-summary: "Filtering, clustering, and binning tool within Bruker AMICS for batch classification of unclassified/unknown spectra."
-aliases:
----
-
-
-# AMICS Spectrum Tree
-
-## Definition
-The **Spectrum Tree** is a filtering, binning, and clustering tool in AMICS Process. It allows the mineralogist to group similar spectra—particularly "Unknown" or unclassified spectra—and assign them to mineral definitions in batches. It can augment or completely supersede traditional automated library matching.
-
----
-
-## Filtering and Binning Criteria
-
-The Spectrum Tree operates like a decision tree, splitting a population of spectra (e.g., thousands of unclassified "Unknown" pixels) into sub-bins based on several parameters:
-
-1. **Energy (Elemental) Filter**:
-   * Creates a binary split in the spectra based on X-ray count intensity at a specific energy line (e.g., splitting at the $K\alpha$ peak of Calcium or Phosphorus).
-   * The user sets a count intensity threshold line to divide the spectra.
-2. **Ratio Filter**:
-   * Splits spectra based on the ratio of intensities between two different energy ranges (e.g., the ratio of Silicon to Aluminum peaks to classify feldspars versus clay minerals).
-3. **BSE Filter**:
-   * Groups spectra based on the average Backscattered Electron (BSE) grayscale value of the segment from which they were collected.
-4. **Area (Size) Filter**:
-   * Bins spectra according to the physical size ($\mu\text{m}^2$) of the mineral grain or particle they belong to.
-
----
-
-## Clustering Methods
-
-Once a sub-bin is isolated, AMICS can group the spectra using statistical clustering:
-
-* **Manual Clustering**:
-   * The user selects a representative "seed" spectrum from the bin.
-   * The system automatically searches for all other spectra in the bin that match this seed within a user-defined tolerance.
-* **Automatic Clustering**:
-   * The system automatically groups the spectra into a set number of clusters based on three constraints:
-     1. **Cluster Limit**: Maximum number of clusters allowed (e.g., 4).
-     2. **Tolerance**: The mathematical distance threshold for grouping (e.g., 1.25).
-     3. **Minimum Population**: The minimum number of spectra required to form a cluster (e.g., 5).
-
----
-
-## Technical Value
-By building a structured set of Spectrum Tree filtering and clustering steps, the mineralogist can:
-1. **Reduce Library Size**: Instead of checking every pixel against hundreds of reference spectra, broad categories (e.g., all quartz) are binned and classified first.
-2. **Refine Tolerances**: Set distinct matching tolerances for different mineral sub-classes.
-3. **Export Reclassification Workflows**: The sequence of spectrum tree splits is saved within the MRE file, allowing it to be batch-applied to other samples in the same campaign, ensuring consistent classification.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md
-
----
-date: 2026-06-13
-tags:
-summary: "Analytical module in Bruker AMICS for calculating elemental concentrations, mineral zonation, and deportment of target elements within specific mineral phases."
-aliases:
----
-
-
-# AMICS Target Mineral Quantification
-
-## Definition
-**Target Mineral Quantification** (TMQ) is an advanced post-processing function within the AMICS Grain Panel. It is used to filter, isolate, and quantify specific mineral grains of interest (such as economic or trace-element-bearing phases) for detailed elemental and structural characterization.
-
----
-
-## Filtering Parameters
-
-TMQ utilizes a set of physical and chemical filters to select target minerals from the segmented matching database:
-
-1. **Size and Geometry Filters**:
-   * **Area Range ($\mu\text{m}^2$)**: Minimum and maximum grain area limits.
-   * **Minimum Estimated Grain Radius**: Used to find grains large enough for spot-analysis techniques. This is particularly useful for target selection in **Laser Ablation ICP-MS (LA-ICP-MS)** workflows.
-2. **Backscattered Electron (BSE) Grayscale Limits**:
-   * Restricts analysis to grains within specific density ranges (e.g., selecting bright sulfide phases like pyrite or cobaltite).
-3. **Host Mineral Filter**:
-   * Filters target grains based on the mineral phase they are enclosed in or associated with (e.g., selecting only apatite grains hosted within marly waste rock).
-
----
-
-## Key Outputs and Calculations
-
-When TMQ is executed, it calculates several geometallurgical metrics:
-
-### 1. Elemental Deportment
-Calculates how a specific chemical element is distributed across all mineral phases in the sample. For example, in a lithium pegmatite exploration workflow, TMQ can determine that although the bulk sample contains $1.0\text{ Wt}\%$ Lithium ($\text{Li}$), that Lithium is deported as:
-* **Lepidolite**: $55.2\%$
-* **Spodumene**: $37.4\%$
-* **Petalite**: $4.2\%$
-* **Amblygonite**: $2.7\%$
-* **Eucryptite**: $0.5\%$
-
-### 2. Back-Calculated Bulk Assay
-Calculates the estimated bulk chemical composition of the rock by combining the measured modal mineralogy ($Wt\%$) with the chemical formulas/stoichiometry of the identified minerals. This back-calculated assay is compared with whole-rock chemical assays to validate the accuracy of the automated mineralogy classification.
-
-### 3. Grain Geometry and Spatial Coordinates
-* **X-Y Coordinates**: Exact center positions of target grains for subsequent micro-analysis (e.g., electron microprobe or LA-ICP-MS).
-* **Shape Factor (Roundness)**: Calculated as:
-  $$\text{Shape Factor} = \frac{\text{Perimeter}}{\sqrt{\text{Area}}}$$
-  Used to characterize grain textures, grain weathering, or mineral liberation progress.
-* **X-ray Point & Count Mapping**: Tracks the exact X-ray spot location on the target grain and records the total X-ray counts.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
-* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# ANOVA Wavelength Ranking & Selection Stability
-
-**ANOVA Wavelength Ranking & Selection Stability** represents the feature-selection workflow implemented in Chapter 2 of the thesis to identify the most discriminative spectral bands from the PRISMA image while avoiding information leakage.
-
----
-
-## 1. Feature Selection Workflow
-The high dimensionality of the PRISMA scene (**189** clean bands remaining after masking the atmospheric water-vapor windows at **1300–1500 nm** and **1750–1980 nm**) requires feature selection to prevent the curse of dimensionality. (Source: [section_methods_ch2.txt:L31,L70,L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L31#L70#L72)).
-
-Wavelength selection was structured as a nested **three-stage pipeline**:
-1.  **Stage 1: Spatial Alignment**: Image registration corrected the geocoded PRISMA L2D scene to georeferenced field boundaries using nearest-neighbor resampling. (Source: [section_methods_ch2.txt:L69](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L69)).
-2.  **Stage 2: Denoising**: Water-vapor windows were masked, and a Savitzky–Golay filter (polynomial order = 2, window size = 7) smoothed the remaining reflectance spectra to preserve diagnostic band shapes. (Source: [section_methods_ch2.txt:L70](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L70)).
-3.  **Stage 3: Nested ANOVA F-Test Selection**: 
-    *   Wavelength ranking was computed *exclusively* on the training subset inside each spatial CV fold. (Source: [section_methods_ch2.txt:L71](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L71)).
-    *   The top **60** highest-scoring bands were selected prior to model training. (Source: [section_methods_ch2.txt:L71](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L71); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L52)).
-    *   This nested setup reduces dimensionality by **68%** (from 189 to 60 bands) with zero validation leakage. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); confirmed in [supp_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L174)).
-
----
-
-## 2. Selection Stability & Validation
-*   **Wavelength Contribution**: The mean F-scores across folds showed that the selected features are concentrated in the Short-Wave Infrared (SWIR) region (1000–2500 nm), corresponding to carbonate and clay absorption doublets. (Source: [section_methods_ch2.txt:L71,L73](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L71#L73)).
-*   **ANOVA vs. Mutual Information**: To verify selection robustness, ANOVA was compared against Mutual Information (MI) as a feature ranker (both at $k = 60$). Performance differences across top classifiers were negligible ($|\Delta\text{BA}| \le 0.010$):
-    *   *Extra Trees (ANOVA)*: BA = **0.693 ± 0.032**
-    *   *Extra Trees (MI)*: BA = **0.683 ± 0.031**
-    *   *(Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); values confirmed in [supp_ch2.txt:L180-195 (Table S4)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L180-L195)).*
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2)|Reviewer 1 Response (Chapter 2)]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md
-
----
-date: 2026-06-12
-tags:
-summary: "SWIR wavelength ranges where atmospheric water vapor and CO₂ absorb radiation, making PRISMA bands at those positions unreliable for surface reflectance."
-created: 2026-06-12
-aliases:
----
-
-
-# Atmospheric Absorption Windows in PRISMA
-
-Atmospheric gases — primarily water vapor (H₂O) and carbon dioxide (CO₂) — absorb incoming solar radiation at specific wavelengths. PRISMA bands that fall inside these absorption windows record atmospheric absorption rather than surface reflectance, making them useless for mineralogical analysis. They are flagged as bad bands during preprocessing.
-
----
-
-## Primary Absorption Windows (SWIR)
-
-| Window | Wavelength range | PRISMA band indices | Main absorber |
-|--------|-----------------|---------------------|--------------|
-| First water vapor | ~1350–1460 nm | 140–150 (11 bands) | H₂O |
-| Second water vapor | ~1750–1980 nm | 192–196 (5 bands) | H₂O |
-| CO₂ + H₂O | ~2000–2050 nm | partially overlaps edge | CO₂ / H₂O |
-
-The bands at indices 140–150 are the most heavily affected: they show simultaneously Low Entropy, Extreme Kurtosis, and High Skewness in the Benguerir scene — signature of near-total atmospheric absorption driving all pixels toward a uniform near-zero value.
-
----
-
-## Why These Bands Cannot Be Rescued by Atmospheric Correction
-
-Atmospheric correction algorithms (6SV, ATCOR, PRISMA-L2D) model the atmospheric path radiance and transmittance, but inside an absorption window the surface signal is reduced to near zero — multiplicative correction amplifies noise to infinity. Standard practice is to simply exclude these bands from analysis.
-
----
-
-## Implication for Mineralogy
-
-The 2200 nm clay absorption feature (Al-OH) and the 2150 nm phosphate (PO₄) absorption feature both fall **outside** these windows, in clear-sky transmittance regions. The ECOSTRESS spectral library matching and ML classification in the thesis work on the 173-band clean subset that excludes all three windows above.
-
-The 1000–1300 nm range (short SWIR) is unaffected and is particularly valuable for iron oxide discrimination.
-
----
-
-## Related Concepts
-
-- [[PRISMA Band Quality Map — Benguerir Acquisition]] — specific bad band indices from the Benguerir scene
-- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — how these bands are detected statistically
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — instrument spectral range
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]] — downstream band use for mineralogy
-- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source analysis on D:\
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Benguerir Site-Scale Oxide & Mineral Dominance Mapping
-
-**Benguerir Site-Scale Oxide & Mineral Dominance Mapping** represents the spatial geochemical and mineralogical maps created in Chapter 1 of the thesis (published in *Sensors* 2025) using data collected from all **104** sampling locations across the Benguerir mine.
-
----
-
-## 1. Major Oxide Spatial Distribution Mapping
-Handheld XRF (HHXRF) oxide measurements at **104** stations were plotted to visualize elemental distribution patterns across the mine site. (Source: [section_results.txt:L156](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L156)).
-*   **Mapped Oxides**: **6** major elements/oxides were mapped: $SiO_2$, $P_2O_5$, $CaO$, $K_2O$, $Fe_2O_3$, and $Al_2O_3$. (Source: [section_results.txt:L157](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L157)).
-*   **Significance**: The oxide maps revealed coherent regional domains and local hotspots. They directly validated the spatial consistency of the field classes, confirming that point-based measurements align with broader geochemical zones across the mine boundary. (Source: [section_results.txt:L156](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L156)).
-
----
-
-## 2. Mineralogical Dominance Map
-Building on the chemical trends, a mineralogical dominance map was computed directly from the HHXRF elemental compositions to classify the mine surface into dominant lithological domains. (Source: [section_results.txt:L159](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159)).
-*   **Domains**: Classified the study area into **5** key lithological domains:
-    1.  *Carbonate-rich*: Representing dolomitic and calcitic waste rocks. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
-    2.  *Clay-dominated*: Representing areas rich in illite and kaolinite. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
-    3.  *Phosphate-rich*: Delineating localized residual fluorapatite hotspots. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
-    4.  *Ferruginous*: Identifying iron-oxide (goethite/hematite) enrichment zones. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
-    5.  *Siliceous*: Identifying quartz-dominated/flint-bearing waste layers. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
-*   **Visual Highlights**: Delineated broad carbonate belts, clay/Fe-rich zones, and localized phosphate spots across the mine site. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
-
----
-
-## 3. Practical Value
-The resulting spatial database enables:
-*   Real-time site-level screening of waste dumps. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
-*   Strategic planning for selective cover system design (locating suitable clay and carbonate barrier layers). (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
-*   Targeting high-grade waste spots for secondary phosphate recovery. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
-* [[04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles|Integrated Sample-Level Mineralogical-Geochemical Profiles]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response|Reviewer 1 Response]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Chapter 1 Cohort Spectral Similarity Metrics
-
-This note compiles the cohort-scale similarity metrics evaluated in Chapter 1 of the thesis (published in *Sensors* 2025) across all **104** field-measured reflectance spectra matched against the ECOSTRESS database. (Source: [section_results.txt:L27,L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27#L33)).
-
----
-
-## 1. Summary Statistics (Table 1)
-
-The statistical distribution of the four matching metrics across the cohort is detailed below:
-
-| Metric | Mean | Median | Std. Dev. | Minimum | Maximum |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **RMSE** | **0.15** | **0.145** | **0.053** | **0.085** | **0.350** |
-| **SAM (rad)** | **0.137** | **0.134** | **0.050** | **0.052** | **0.227** |
-| **SID** | **0.029** | **0.029** | **0.017** | **0.008** | **0.080** |
-| **$R^2$** | **0.748** | **0.773** | **0.170** | **0.130** | **0.917** |
-
-*(Source: [section_results.txt:L33-63 (Table 1)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L33-L63)).*
-
-### Key Highlights:
-*   **$R^2 > 0.70$ Frequency**: **84%** of the **104** spectra achieve an $R^2 > 0.70$, verifying the high similarity of the database matches to the physical samples. (Source: [section_results.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L31)).
-*   **Median SAM**: **0.134 rad** corresponds to approximately **7.7°** angular deviation. (Source: [section_results.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27)).
-
----
-
-## 2. ⚠️ Data Discrepancy: Mean RMSE Wording
-During the review of the Chapter 1 files, a numerical contradiction was identified regarding the cohort's mean RMSE value:
-*   **Abstract, Table 1, and Defense Strategy claim**: Mean RMSE = **0.15 ± 0.053**. (Source: [section_results.txt:Table 1](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L33); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L179)).
-*   **Body Text (Results Section 3.3) claims**: *"the mean weighted RMSE is 0.166 ± 0.053"*. (Source: [section_results.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27)).
-*   **Status**: This issue is logged in the [Data Discrepancy Log](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/04_Archives/D-Drive/Data%20Discrepancy%20Log.md#L21) (logged 2026-06-12) and remains flagged for Abdelhak to review the manuscript wording. The canonical thesis value is **0.15 ± 0.053**, while **0.166** is noted here purely for context.
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
-* [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md
-
----
-date: 2026-06-12
-tags:
-summary: "Raw PRISMA Level-2D HDF5 acquisition for Benguerir (2022-02-12), the earliest PRISMA scene used in the PhD."
-aliases:
----
-
-
-# Code — BGimageR — PRISMA Benguerir Scene HDF5
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `PRS_L2D_STD_20220212112444_20220212112448_0001.he5` |
-| Format | HDF5 (PRISMA L2D standard) |
-| Acquisition | 2022-02-12, 11:24:44–11:24:48 UTC |
-| Size | ~2 GB |
-| Location | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
-
-## Derived Files (same folder)
-
-| File | Format | Content |
-|------|--------|---------|
-| `L2DPRISMASpectralCube.tif` | GeoTIFF | Full spectral cube exported from HDF5 (~1.3 GB) |
-| `PRS_L2D_STD_..._Cube` | ENVI binary | Full cube (no extension) |
-| `PRS_L2D_STD_..._SWIR_Cube` | ENVI binary | SWIR sub-cube only |
-| `PRS_L2D_STD_..._VNIR_Cube` | ENVI binary | VNIR sub-cube only |
-| Matching `.hdr` files | ENVI header | Band/wavelength metadata |
-
-## Context
-
-This is the **earliest PRISMA scene** in the D:\\ archive, acquired before the bulk of thesis analysis was conducted. The Feb 2022 acquisition was used for exploratory code development in R (BGimageR scripts). Later analysis likely used scenes from 2023–2024 stored in `PHD-2nd` or `PHD-3rd`.
-
-The scene covers the Benguerir phosphate mining area, OCP Group concession, Youssoufia region, Morocco.
-
-## Links
-
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-- [[Code — BGimageR — PRISMA False Color Composition R]]
-- [[Code — BGimageR — PRISMA Spectral Signature Extraction R]]
-- [[Code — BGimageR — PRISMA Random Forest Classification R]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md
-
----
-date: 2026-06-12
-tags:
-summary: "R script for PRISMA false color composite visualization using raster + randomForest. Early exploratory code."
----
-
-
-# Code — BGimageR — PRISMA False Color Composition R
-
-## Script Info
-
-| Property | Value |
-|----------|-------|
-| File | `false color composition code.R` |
-| Path | [file:///D:/Code/BGimageR/false%20color%20composition%20code.R](file:///D:/Code/BGimageR/false%20color%20composition%20code.R) |
-| Language | R |
-| Packages | `raster`, `randomForest` |
-| Status | Exploratory / incomplete |
-
-## Purpose
-
-Loads the PRISMA spectral cube (`L2DPRISMASpectralCube.tif`) and produces a false color composite visualization with a custom 11-color palette. Also attempts (unsuccessfully) to run Random Forest classification directly on the raster object.
-
-## Code Summary
-
-```r
-# Load hyperspectral image
-data <- raster("...L2DPRISMASpectralCube.tif")
-
-# False color composite
-plot(data, col = colorRampPalette(c("white","brown",...,"black"))(255))
-
-# RF classification (broken — raster object not directly usable as RF input)
-features <- randomForest(x = data, y = data@data$class, ntree = 500)
-```
-
-## Notes & Caveats
-
-- The Random Forest call is **broken** — `raster` objects cannot be fed directly to `randomForest()`; training data must be extracted as a matrix first.
-- This is early-stage exploration code from ~2022–2023, not a finalized pipeline.
-- Output images: `FALSe color compoition map2.png`, `false colors 3.png`, `FLASE COLOR COMPOSITION MAP.png`, `levelplotmap.png`, `map.png`, `map2.png` (all in the same folder).
-
-## Reusable Pattern
-
-The false color composite pattern with `colorRampPalette` on a raster band is valid for quick visualization. The RF workflow was later properly implemented in Python (SCSE-CNN pipeline in thesis Ch.2).
-
-## Links
-
-- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md
-
----
-date: 2026-06-12
-tags:
-summary: "Python script using rasterio to display PRISMA TIF with cartopy projection — early exploratory."
----
-
-
-# Code — BGimageR — PRISMA Python Rasterio Display
-
-## Script Info
-
-| Property | Value |
-|----------|-------|
-| File | `tiffPYTHON.py` |
-| Path | [file:///D:/Code/BGimageR/tiffPYTHON.py](file:///D:/Code/BGimageR/tiffPYTHON.py) |
-| Language | Python |
-| Packages | `rasterio`, `cartopy`, `matplotlib` |
-
-## Purpose
-
-Opens `L2DPRISMASpectralCube.tif` with `rasterio` and attempts to display it with a `PlateCarree` cartopy projection, coastlines, and axis labels.
-
-## Code
-
-```python
-import rasterio
-from rasterio.plot import show
-import matplotlib.pyplot as plt
-
-fp = r'D:\\Code\\BGimageR\\L2DPRISMASpectralCube.tif'
-img = rasterio.open(fp)
-
-projection = ccrs.PlateCarree()  # BUG: ccrs not imported
-fig, ax = plt.subplots(subplot_kw={'projection': projection})
-ax.imshow(img, transform=projection)  # BUG: rasterio dataset ≠ numpy array
-ax.coastlines()
-```
-
-## Bugs
-
-- `ccrs` used without `import cartopy.crs as ccrs`
-- `ax.imshow(img, ...)` — `rasterio.open()` returns a `DatasetReader`, not an array; should use `rasterio.plot.show()` or `img.read(1)` to get an array
-
-## Reusable Pattern (corrected)
-
-```python
-import rasterio
-import cartopy.crs as ccrs
-import matplotlib.pyplot as plt
-
-with rasterio.open('L2DPRISMASpectralCube.tif') as src:
-    band = src.read(1)
-    extent = [src.bounds.left, src.bounds.right, src.bounds.bottom, src.bounds.top]
-
-fig, ax = plt.subplots(subplot_kw={'projection': ccrs.PlateCarree()})
-ax.imshow(band, extent=extent, origin='upper', transform=ccrs.PlateCarree())
-ax.coastlines()
-plt.show()
-```
-
-## Links
-
-- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md
-
----
-date: 2026-06-12
-tags:
-summary: "R scripts attempting Random Forest land cover classification on PRISMA hyperspectral data — early exploratory, not production-grade."
----
-
-
-# Code — BGimageR — PRISMA Random Forest Classification R
-
-## Scripts
-
-| File | Path |
-|------|------|
-| `Testcode2.R` | [file:///D:/Code/BGimageR/Testcode2.R](file:///D:/Code/BGimageR/Testcode2.R) |
-| `Testcode3.R` | [file:///D:/Code/BGimageR/Testcode3.R](file:///D:/Code/BGimageR/Testcode3.R) |
-
-## Purpose
-
-Exploratory attempts to classify PRISMA pixels into land cover categories (water, vegetation, bare soil, urban) using Random Forest regression/classification in R.
-
-## Workflow (Testcode3.R — most complete version)
-
-```r
-# 1. Load PRISMA cube
-image_data <- raster("...PRS_L2D_STD_..._Cube")
-
-# 2. Subset to region of interest
-image_subset <- crop(image_data, extent(760000, 765000, 4625000, 4635000))
-
-# 3. Random sample training pixels
-training_points <- sampleRandom(image_subset, size = 100, na.rm = TRUE)
-
-# 4. Convert to dataframe with wavelengths as column names
-training_data <- as.data.frame(cbind(coordinates(training_points), as.vector(training_points)))
-colnames(training_data) <- c("x", "y", wavelengths)
-
-# 5. Define labels manually (unrealistic for 4 classes over 100 points)
-training_labels <- c("water", "vegetation", "bare soil", "urban")
-
-# 6. RF model
-model <- randomForest(as.factor(training_labels) ~ ., data = training_data)
-
-# 7. Predict + overlay on hillshade
-classified_image <- predict(image_subset, model)
-hillshade <- hillShade(image_data, 45, 315)
-```
-
-## Limitations / Why This Wasn't Used
-
-- Labels are defined manually as a 4-element vector — doesn't match the 100 sampled pixels. **Model would fail at runtime.**
-- `getwavelenght()` is a typo — no such R function. Should be a custom vector from `.hdr` metadata.
-- `classiy()` (Testcode2.R) is a typo for `classify()`, which doesn't exist in `raster` for RF either — `predict()` is the correct function.
-- Hillshade from a hyperspectral multi-band raster is conceptually wrong (`hillShade()` expects elevation/slope/aspect).
-- These scripts were never completed. The actual thesis ML pipeline uses Python (PyTorch SCSE-CNN), not R.
-
-## Historical Context
-
-These represent the **earliest ML experiments** (~2022–2023) before the thesis methodology settled on Python deep learning. They show the evolution from simple RF in R toward the SCSE-CNN approach.
-
-## Links
-
-- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md
-
----
-date: 2026-06-12
-tags:
-summary: "R scripts for extracting and plotting PRISMA spectral signatures from the Benguerir scene — early exploratory code."
----
-
-
-# Code — BGimageR — PRISMA Spectral Signature Extraction R
-
-## Scripts
-
-| File | Path |
-|------|------|
-| `Spectral signature of prisma.R` | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
-| `testcodeforHSI.R` | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
-
-## Purpose
-
-Attempts to:
-1. Load PRISMA scene as a `RasterBrick` (multi-band raster)
-2. Extract spectral signature for individual pixels or spatial subsets
-3. Plot wavelength vs. reflectance curves
-
-## Key Patterns
-
-```r
-# Load multi-band PRISMA TIF as brick
-prisma <- brick("D:/Code/BGimageR/L2DPRISMASpectralCube.tif")
-
-# Plot spectral signature of a pixel [x, band, y]
-plot(prisma[x,,y], xlab = "Wavelength (nm)", ylab = "Reflectance")
-
-# Crop to region of interest
-img_cropped <- crop(img, extent(xmin, xmax, ymin, ymax))
-
-# Median filter (EBImage)
-filtered_img <- medianFilter(img, radius = 3)
-```
-
-## Notes & Caveats
-
-- `testcodeforHSI.R` is a **scratchpad** — contains broken syntax (bare `-----------` lines) and unfilled placeholder variables (`x`, `y`, `xmin`). Not runnable as-is.
-- Uses `ncell()` as a proxy for wavelength vector — incorrect; wavelengths should come from the `.hdr` or HDF5 metadata.
-- `Spectral signature of prisma.R` uses `ggplot(prisma_maps)` incorrectly — `ggplot2` cannot directly accept a `RasterStack`; `as.data.frame(rasterToPoints())` is needed.
-
-## Reusable Technique
-
-The `brick()` + `plot(brick[row,,col])` pattern is valid for quick spectral profile extraction in R. For production use, `extract()` with point coordinates is more reliable.
-
-## Links
-
-- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Bibliometric — Paper Visualizations and ML.md
-
----
-date: 2026-06-13
-tags:
-summary: "Python scripts supporting the co-authored bibliometric paper: author impact visualizations and multi-model machine learning classifications on PRISMA scenes."
-aliases:
----
-
-
-# Code — Bibliometric — Paper Visualizations and ML
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| Files | `Chartcode2paper.py` and `Actualiser/CODE.py` |
-| Format | Python Scripts |
-| Location | [file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/) |
-| Core Libraries | `pandas`, `numpy`, `matplotlib`, `seaborn`, `h5py`, `scikit-learn`, `rasterio` |
-
-## Description & Purpose
-
-These Python scripts support the co-authored bibliometric study:
-* **`Chartcode2paper.py`**: Visualizes author citation metrics, analyzing total citations (TC), h-index, and g-index distribution over time to generate paper figures.
-* **`Actualiser/CODE.py`**: Represents an exploratory script that loads a PRISMA Level-2D HDF5 scene (`PRS_L2D_STD_20220212112444_20220212112448_0001.he5`), plots ground sample coordinates from an Excel sheet (`Randompoints-TEST-Python.xlsx`) over an RGB composite, and benchmarks SVM, KNN, Random Forest, and a custom **Minimum Distance Classifier** to map lithology classes.
-
----
-
-## Technical Implementations
-
-### 1. Author Impact Plots (`Chartcode2paper.py`)
-Loads `Author-Impact.xlsx` and creates a $2 \times 3$ subplot layout visualizing citation trajectories:
-* **h-index Over Time**: Uses `sns.lineplot` to track `h_index` against publication year start (`PY_start`) grouped by author (`Element`).
-* **Total Citations**: Bar plot of total citations (`TC`) per author.
-* **h-index vs. g-index**: Scatter plot showing correlation between these two impact metrics.
-* **Distribution Fills**: Histogram with KDE of the `m_index` parameter, alongside box plots of `g_index`.
-
-### 2. PRISMA Loading and Sample Overlay (`Actualiser/CODE.py`)
-Fuses VNIR/SWIR bands from PRISMA `.he5` structure and overlays ground sample points:
-```python
-with h5py.File(he5_file_path, 'r') as hdf5_file:
-    # Extracts RGB bands (Red, Green, Blue) from standard group paths
-    red_band = np.array(hdf5_file[group_name][red_band_name])
-    green_band = np.array(hdf5_file[group_name][green_band_name])
-    blue_band = np.array(hdf5_file[group_name][blue_band_name])
-    
-    # Scale and display RGB composite
-    rgb_image = np.dstack((red_band, green_band, blue_band)) / 65535.0
-```
-
-### 3. Classification Benchmarking (`Actualiser/CODE.py`)
-Imports lithological points, encodes classes via `LabelEncoder`, splits training/testing datasets ($70/30$), and fits four classifiers:
-* **SVM**: `SVC()`
-* **KNN**: `KNeighborsClassifier(n_neighbors=5)`
-* **Random Forest**: `RandomForestClassifier(n_estimators=100)`
-* **Minimum Distance Classifier**: Custom function using Euclidean distance centroids:
-  ```python
-  def minimum_distance_classifier(train_data, test_point):
-      distances = np.linalg.norm(train_data - test_point, axis=1)
-      min_distance_index = np.argmin(distances)
-      return y_train[min_distance_index]
-  ```
-
----
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
-- [[04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023]]
-- [[04_Knowledge Base/wiki/concepts/Minimum Distance Classifier]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Hamza Collaboration Biodiversity Plotting.md
-
----
-date: 2026-06-13
-summary: "Summary of R and Python scripts used to generate the biodiversity visualizations, heatmaps, and sunburst charts for the 2023 plant diversity paper."
-aliases:
-tags:
----
-
-
-# Code — Hamza Collaboration Biodiversity Plotting
-
-This note summarizes the collection of Python and R data visualization scripts archived in [ArticleHAMZA](file:///D:/ArticleHAMZA/). These scripts were developed to generate published charts (sunbursts, heatmaps, polar radar plots, and histograms) showing taxonomic family distributions and plant life-form proportions across Moroccan phosphate mines.
-
----
-
-## 🛠️ Code Base Directory Structure
-* **Code Folder:** [Figures/Codes/](file:///D:/ArticleHAMZA/Figures/Codes/)
-* **Languages:** Python (Pandas, Plotly Express, Seaborn, Matplotlib) and R.
-
----
-
-## 📊 Script Functionality Breakdown
-
-### 1. Hierarchical Sunburst Visualizations
-* **Purpose:** Render interactive radial plots showing taxonomic family hierarchy or life form proportions relative to different mining sites.
-* **Scripts:**
-  * **[lasttttt.py](file:///D:/ArticleHAMZA/Figures/Codes/lasttttt.py)** & **[codeSUNURSTFINAL.txt](file:///D:/ArticleHAMZA/Figures/Codes/codeSUNURSTFINAL.txt)**: Reads `spectrebiologiquess.xlsx` and calls `px.sunburst(df, path=['Mines', 'Raunkiaers life forms'], values='values')` to structure mine sites nested with their respective Raunkiaer counts.
-  * **[Untitled-1.py](file:///D:/ArticleHAMZA/Figures/Codes/Untitled-1.py)** & **[Code.txt](file:///D:/ArticleHAMZA/Figures/BGM/Code.txt)**: Reads `BGMrichness.xlsx` to render taxonomic classifications, nesting species counts under `Taxonomic family` → `Genus`. Uses the `GnBu` color sequence.
-  * **[ssssssssssssssssssssssssss.py](file:///D:/ArticleHAMZA/Figures/Codes/ssssssssssssssssssssssssss.py)**: A hardcoded structure using `plotly.graph_objects.Sunburst` to test hierarchical mappings directly without reading files.
-
-### 2. Clustered Heatmaps (Ecological Correlation)
-* **Purpose:** Map the distribution of species and evaluate correlations between species richness and local climatic factors.
-* **Scripts:**
-  * **[Clustering heatmap.py](file:///D:/ArticleHAMZA/Figures/Codes/Clustering%20heatmap.py)**: Computes a correlation matrix from `Correlation-Specific-richness-climatic-data.xlsx` and draws a diagonal heatmap with coefficients labeled (`sns.heatmap(corr, annot=True, cmap='RdBu_r')`).
-  * **[import pandas as pddddd.py](file:///D:/ArticleHAMZA/import%20pandas%20as%20pddddd.py)** & **[Pycode](file:///D:/ArticleHAMZA/Pycode)**: Reads `Mineheatmap.xlsx` and calls `sns.clustermap` with the `viridis` color map to execute hierarchical clustering on species distribution across mining zones.
-  * **[plotheatmapCODE.R](file:///D:/ArticleHAMZA/plotheatmapCODE.R)**: An R equivalent script for generating standard clustered heatmaps.
-
-### 3. Polar Radar & Abundance Charts
-* **Purpose:** Compare functional life-form proportions across mines in a radar chart format.
-* **Scripts:**
-  * **[radarCHART.py](file:///D:/ArticleHAMZA/Figures/Codes/radarCHART.py)**: Uses Plotly Express `px.scatter_polar` reading `spectrebiologique.xlsx` to position Raunkiaer's life forms on the angular axis (`theta`) against abundance value ranges (`r`).
-  * **[import pandas as pd.py](file:///D:/ArticleHAMZA/Figures/Codes/import%20pandas%20as%20pd.py)**: Runs basic exploratory data checks, plotting histograms of Ben Guerir Mine abundances, box plots of Bou Craa Mine species counts, and general scatter correlations.
-  * **[TESTPIECHART.py](file:///D:/ArticleHAMZA/Figures/Codes/TESTPIECHART.py)**: A simple Matplotlib test script showing an exploded pie chart layout using dummy data.
-
----
-
-## 💡 Reusable Visualization Template
-Here is a consolidated and cleaned version of the **Plotly Sunburst** pattern used for nesting taxonomic data:
-
-```python
-import pandas as pd
-import plotly.express as px
-
-def plot_taxonomy_sunburst(excel_path, output_html):
-    # Load taxonomy data sheet
-    df = pd.read_excel(excel_path)
-    df.columns = ['Taxonomic family', 'Effectiff', 'Genus']
-    
-    # Generate hierarchical sunburst
-    fig = px.sunburst(
-        df, 
-        path=['Taxonomic family', 'Genus'], 
-        values='Effectiff', 
-        color='Taxonomic family',
-        color_discrete_sequence=px.colors.sequential.GnBu
-    )
-    
-    fig.update_layout(title_text="Taxonomic Distribution", title_x=0.5)
-    fig.write_html(output_html)
-
-# Example call:
-# plot_taxonomy_sunburst("BGMrichness.xlsx", "bgm_sunburst.html")
-```
-
----
-
-## 🕸️ Links
-- [[zineNativePlantDiversity2023]] — Primary paper containing these figure layouts
-- [[04_Archives/D-Drive/D-Drive — ArticleHAMZA]] — Parent D-drive folder
-- [[Data Asset — Benguerir Mine Species and Shapefiles]] — Source Excel files used by these scripts
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md
-
----
-date: 2026-06-12
-tags:
-summary: "Multi-method ensemble spectral band selection function (PLSR + RF + SVM + GPR) by Khalil Misbah — adapted from Feilhauer et al."
-aliases:
----
-
-
-# Code — Khalil — Ensemble Band Selection
-
-## Script Info
-
-| Property | Value |
-|----------|-------|
-| File | `ensembleAlg.R` |
-| Path | [file:///D:/Code/Code-khalil/ensembleAlg.R](file:///D:/Code/Code-khalil/ensembleAlg.R) |
-| Author | Khalil Misbah (khalil.misbah@um6p.ma) |
-| Based on | Feilhauer et al. `rse09382-mmc` codebase |
-| Language | R 4.1.1 |
-| Packages | `pls 2.8.0`, `randomForest 4.7.1`, `e1071 1.7.9`, `caret`, `kernlab` |
-
-## Purpose
-
-Selects the most informative spectral bands from a hyperspectral dataset by running **four regression models** and combining their variable importance scores into a weighted ensemble. Bands above `mean + sd` of the ensemble score are selected.
-
-## Algorithm
-
-```
-Input:
-  x   — spectral matrix (samples × bands)
-  y   — response variable (e.g., mineral content %)
-  wl  — wavelength vector
-
-Models run:
-  1a. PLSop  — Optimized PLSR (automatic LV selection via onesigma rule, jackknife)
-  1b. PLS    — PLSR via caret 10-fold CV
-  2.  RF     — Random Forest (500 trees, %IncMSE variable importance)
-  3.  SVR    — Support Vector Regression (ε-SVR, grid search over C and γ)
-  4.  GPR    — Gaussian Process Regression (caret, radial kernel, 10-fold CV)
-
-Ensemble:
-  ensemblecf = |PLSop_coef|×R²_PLSop + |PLS_coef|×R²_PLS 
-             + |RF_importance|×R²_RF + |SVR_coef|×R²_SVR 
-             + |GPR_coef|×R²_GPR
-
-Selection threshold:
-  th = mean(ensemblecf) + sd(ensemblecf)
-  Selected bands: ensemblecf > th
-```
-
-## Output
-
-Returns a list with:
-- `selection` — matrix of per-model coefficients + ensemble score + binary selection flag (rows × bands)
-- `fits` — R² values for each model
-- `threshold` — the selection threshold value
-- `PLSop`, `PLS`, `RF`, `SVR`, `GPR` — trained model objects
-
-## Visualization
-
-`plot.ensemble()` renders a heatmap of ensemble scores with overlaid model-specific coefficient curves, highlighting selected bands.
-
-## Relevance to Thesis
-
-This ensemble approach to band selection is methodologically related to thesis Ch.1 (field spectroscopy spectral indices) and Ch.2 (PRISMA band optimization). The Feilhauer framework is established in vegetation remote sensing; application to mine waste rock minerals is a direct extension.
-
-## Links
-
-- [[Code — Khalil — Spectral Derivatives Pipeline]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md
-
----
-date: 2026-06-12
-tags:
-summary: "R Markdown pipeline for spectral preprocessing: noise filtering, continuum removal, 1st/2nd derivatives, CWT — by Khalil Misbah."
-aliases:
----
-
-
-# Code — Khalil — Spectral Derivatives Pipeline
-
-## Script Info
-
-| Property | Value |
-|----------|-------|
-| File | `DERIVATIVES.Rmd` |
-| Path | [file:///D:/Code/Code-khalil/DERIVATIVES.Rmd](file:///D:/Code/Code-khalil/DERIVATIVES.Rmd) |
-| Author | Khalil Misbah (UM6P) |
-| Language | R Markdown |
-| Packages | `hsdar`, `car`, `readr`, `wmtsa`, `janitor` |
-
-## Input Data
-
-| File | Description |
-|------|-------------|
-| `fieldSamples.txt` | Raw reflectance matrix (bands × samples) |
-| `wvl.txt` | Wavelength vector |
-| `nutrientSamples.txt` | Soil/mineral response variable |
-
-## Processing Pipeline
-
-```
-1. Load raw reflectance → transpose to (samples × bands) matrix
-2. Build hsdar speclib object with wavelength metadata
-3. Apply atmospheric mask (1349–1459 nm, 1793–1958 nm)
-4. Noise filtering: Savitzky-Golay (sgolay, n=5)
-5. Continuum removal → band depth transformation (method = "ch")
-6. 1st derivative (Savitzky-Golay)
-7. 2nd derivative (Savitzky-Golay)
-8. CWT (Continuous Wavelet Transform): gaussian2 wavelet, 8 scales
-   → sum of scale 2 + scale 3 components
-9. Export all transformed spectra + nutrients to .txt files:
-   rawBind.txt, rawContBind.txt, Der1Bind.txt, Der2Bind.txt
-```
-
-## Key Techniques
-
-**Continuum removal** — Divides spectrum by the convex hull baseline; produces band depth (BD) values emphasizing absorption features. Standard in mineralogical spectroscopy.
-
-**Savitzky-Golay derivative** — Fits local polynomials to compute derivatives while minimizing noise amplification. n=5 window used here.
-
-**CWT with gaussian2** — Second-order Gaussian (= Mexican Hat) wavelet. Effective for locating inflection points in spectral profiles (mineral absorption edge positions). Scales 2+3 sum selected here.
-
-## Atmospheric Mask Applied
-
-- `1349–1459 nm` — water vapor absorption (overlaps PRISMA bad band zone)
-- `1793–1958 nm` — CO₂/H₂O absorption (overlaps PRISMA bad band zone)
-
-These mask ranges are consistent with the bad bands identified in [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]].
-
-## Relevance to Thesis
-
-Spectral derivative preprocessing (1st/2nd order) and continuum removal are standard methods for phosphate mineral identification at field scale (Ch.1). The same preprocessing philosophy (SG filtering + feature extraction) is applied in the thesis hyperspectral pipeline.
-
-## Links
-
-- [[Code — Khalil — Ensemble Band Selection]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]]
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md
-
----
-date: 2026-06-12
-tags:
-summary: "R script to generate a Morocco map with ggplot2 + rnaturalearth — utility visualization script."
----
-
-
-# Code — Morocco Map R Script
-
-## Script Info
-
-| Property | Value |
-|----------|-------|
-| File | `MoroccomapR.R` |
-| Path | [file:///D:/Code/MoroccomapR.R](file:///D:/Code/MoroccomapR.R) |
-| Output | `MoroccanMAP.png` |
-| Language | R |
-| Packages | `ggplot2`, `rnaturalearth`, `rnaturalearthdata` |
-
-## Purpose
-
-Generates a zoomed map of southwestern Morocco centered at lat 28.77, lon -9.5 (Saharan region, not Benguerir). Minor syntax errors present (missing `+` continuation for `coord_sf`).
-
-## Reusable Pattern
-
-```r
-library(ggplot2)
-library(rnaturalearth)
-library(rnaturalearthdata)
-
-morocco_map <- ne_countries(scale = "medium", country = "Morocco", returnclass = "sf")
-
-ggplot() +
-  geom_sf(data = morocco_map) +
-  coord_sf(xlim = c(-18, -1), ylim = c(21, 36))  # full Morocco extent
-```
-
-For a Benguerir-centered map, use `xlim = c(-9, -6.5)`, `ylim = c(32, 33.5)`.
-
-## Notes
-
-The center coordinates in the script (lat 28.77, lon -9.5) point to southern Morocco (Anti-Atlas region), not Benguerir (lat ~32.2, lon ~-7.9). Possibly created for a different visualization.
-
-## Links
-
-- [[04_Archives/D-Drive/D-Drive — Code]]
-- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md
-
----
-date: 2026-06-12
-tags:
-summary: "NEON Field Site Spatial Data for SJER (California) — LiDAR tutorial dataset, no thesis research value."
----
-
-
-# Code — NEON Tutorial Dataset SJER
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| Source | NEON (National Ecological Observatory Network) |
-| Site | SJER — San Joaquin Experimental Range, California, USA |
-| Path | [file:///D:/Code/NEONDSFieldSiteSpatialData/](file:///D:/Code/NEONDSFieldSiteSpatialData/) |
-| Size | ~758 MB (GeoTIFFs + shapefiles) |
-
-## Contents
-
-| Type | Files |
-|------|-------|
-| Digital Surface Model (DSM) | `SJER2013_DSM.tif`, hillshade, overviews |
-| Digital Terrain Model (DTM) | `SJER2013_DTM.tif`, hillshade, overviews |
-| Canopy Height Model (CHM) | `CHM_SJER.tif` |
-| Plot centroids | `SJERPlotCentroids.csv` + buffer shapefiles |
-| Vegetation structure | `D17_2013_vegStr.csv`, `D17_2013_SOAP_vegStr.csv` |
-| Hyperspectral bands | `band19.tif`, `band34.tif`, `band58.tif`, `band90.tif` (NEON AOP) |
-
-## Research Value
-
-**No direct thesis value.** This is a standard NEON Data Skills tutorial dataset used for learning LiDAR processing and CHM extraction workflows in R. Stored in D:\Code because it was downloaded during early-PhD R skill development (~2022–2023).
-
-## Potential Use
-
-The CHM extraction workflow (DSM − DTM = CHM) and plot-based sampling approach could be adapted for structural analysis of Benguerir waste rock dumps, but this is not a thesis objective.
-
-## Links
-
-- [[04_Archives/D-Drive/D-Drive — Code]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Pierre Gy's Fundamental Sampling Error R Script.md
-
----
-date: 2026-06-13
-tags:
-summary: "R script executing Pierre Gy's sampling theory formulas to compute the Fundamental Sampling Error (FSE) at multiple stages of rock preparation."
-aliases:
----
-
-
-# Code — Pierre Gy's Fundamental Sampling Error R Script
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `Gy's error code.R` |
-| Format | R Script |
-| Location | [file:///D:/PHD-2nd/Gy's%20error%20code.R](file:///D:/PHD-2nd/Gy's%20error%20code.R) |
-| Core Libraries | `ramify`, `Hmisc`, `StratigrapheR` |
-
-## Description & Purpose
-
-This R script calculates the **Fundamental Sampling Error (FSE)** based on Pierre Gy's sampling theory at various crushing, grinding, and splitting stages of physical ore preparation for Benguerir phosphate samples. It validates sample mass reductions against fragment size decreases to ensure representativeness, comparing the cumulative variance against the **Gy 10% safety line** (a relative standard deviation threshold of 10%, or relative variance $\sigma_{EF}^2 = 0.01$).
-
----
-
-## Theory & Parameters
-
-The Fundamental Sampling Error relative variance ($\sigma_{EF}^2$) is calculated using:
-$$S_{Fe}^2 = \left(\frac{1}{M_S} - \frac{1}{M_L}\right) \cdot c \cdot f \cdot g \cdot l \cdot d^3$$
-
-Where:
-*   $M_S$: Subsample mass (grams)
-*   $M_L$: Lot mass (grams)
-*   $c$: Mineralogical factor ($g/cm^3$)
-*   $f$: Shape factor (dimensionless, default = 0.5)
-*   $g$: Granulometric distribution factor (dimensionless, default = 0.25)
-*   $l$: Liberation parameter (dimensionless)
-*   $d$: Nominal fragment size (cm)
-
-### Code Parametrization
-*   **Mineral Densities**: Apatite density ($L_m$) = 3.2 $g/cm^3$; Gangue density ($L_g$) = 2.7 $g/cm^3$.
-*   **Mineral Fraction**: Apatite content in pure mineral (`pct_ap`) = 0.4%.
-*   **Phosphorus Conversion**: `aL` (phosphorus to apatite fraction) = `(pct_ap/100)/0.183`, assuming apatite contains 18.3% elemental P.
-*   **Liberation Size**: Liberation grain size ($L_{gs}$) = 0.08 mm; Maximum fragment size ($D_{gs}$) = 80 mm.
-*   **Liberation Parameter**: $l = (L_{gs}/D_{gs})^{0.5} = (0.08/80)^{0.5} = 0.03162$.
-*   **Mineralogical Factor ($c$)**: Calculated as:
-    $$c = \frac{1-a_L}{a_L} \cdot \left((1-a_L)L_m + a_L L_g\right)$$
-*   **Mass & Size Vectors** (representing preparation stages A to G):
-    *   **Mass ($M_S$, kg)**: `[15, 5, 4, 0.1, 0.1, 0.05, 0.05]`
-    *   **Nominal size ($d$, cm)**: `[8, 8, 2, 2, 0.01, 0.01, 0.0075]`
-
----
-
-## Preparation Steps and Relative Variances
-
-The script models the sample preparation flow and computes step-wise relative variances:
-
-1.  **Stage A $\to$ B**: Split 15 kg $\to$ 5 kg (fragments at 8 cm nominal diameter).
-    *   Relative variance: $S_{Fe}^1 = 6.897123 \times 10^{-2}$
-2.  **Stage B $\to$ C**: Crush to 10 mm (nominal size $d$ vector = 2 cm in calculations, mass split to 4 kg).
-    *   Relative variance: $S_{Fe}^2 = 7.711218 \times 10^{-4}$
-3.  **Stage C $\to$ D**: Split 4 kg $\to$ 100 g (fragments at 2 cm nominal diameter).
-    *   Relative variance: $S_{Fe}^3 = 6.897123 \times 10^{-3}$
-4.  **Stage D $\to$ E**: Grind to 0.2 mm (nominal size $d$ vector = 0.01 cm, mass 100 g).
-    *   Relative variance: $S_{Fe}^4 = 7.711218 \times 10^{-5}$
-5.  **Stage E $\to$ F**: Split 100 g $\to$ 50 g (fragments at 0.01 cm).
-    *   Relative variance: $S_{Fe}^5 = 1.090531 \times 10^{-4}$
-6.  **Stage F $\to$ G**: Pulverize to 0.075 mm (nominal size $d$ vector = 0.0075 cm, mass 50 g).
-    *   Relative variance: $S_{Fe}^6 = 7.083206 \times 10^{-5}$
-
-### Visual Output
-The script generates a log-log plot overlaying the preparation stages against the **Gy 10% safety line** ($\sigma^2 = 0.01$), mapping where the protocol risks failing representativeness (particularly in early splitting stages before crushing).
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions]]
-- [[04_Knowledge Base/wiki/concepts/WD-XRF Chemical Analysis of Panel 2 Waste Rocks]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Clean.md
-
----
-date: 2026-06-13
-tags:
-summary: "R script from the AgBS data visualization short course (Frédéric Baudron), plotting the impact of the Russia-Ukraine war on global wheat trade."
-aliases:
----
-
-
-# Code — R Viz — Ukraine Wheat War Trade Clean
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `Data visualization training - 10 June 2022 - clean codes (1).R` |
-| Format | R Script |
-| Location | [file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20clean%20codes%20(1).R](file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20clean%20codes%20(1).R) |
-| Author | Frédéric Baudron (f.baudron@cgiar.org) |
-| Course | AgBS Learning by Doing Short Course #1 (10 June 2022) |
-
----
-
-## Script Overview & Purpose
-This script contains clean, production-ready R code used in a data visualization training session attended by Abdelhak in his first PhD year. The course uses global wheat datasets to teach advanced plotting techniques in R. 
-
-*   **Theme**: Consequence of the Ukraine-Russia war on the global wheat trade.
-*   **Input Data**:
-    *   `wheat prices.csv` (historical prices)
-    *   `wheat imp af.csv` (African wheat imports)
-    *   `export.csv` (wheat exports)
-    *   `cereal compo.csv`
-    *   `wheat gap.csv`
-    *   `trade matrix.csv`
-    *   `wheat import countries.csv`
-    *   `commodity prices.csv`
-*   **Key Libraries**: `ggplot2`, `ggthemes`, `dplyr`, `scales`, `viridis`, `ggalluvial` (flow charts), `sf` (spatial data mapping), `gganimate` (animated timelines), and `patchwork` (arranging subplots).
-
----
-
-## Core Visualizations & R Techniques
-
-### 1. Historical Line Chart
-Plots a monthly line chart of US hard red winter wheat prices in the last 40 years:
-*   Converts date fields via `as.Date(wp$Date, format = "%m/%d/%Y")`.
-*   Uses `geom_line(size = 1.2, color = "#CEFF1A")` for a prominent line color.
-*   Applies `scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%Y"))` for a 4-year grid increment.
-*   Styled with `theme_few()` and a custom dark mode theme (`plot.background = element_rect(fill = "grey10")`).
-
-### 2. Advanced Layouts & Mapping
-*   **Alluvial plots**: Visualizes trade flows from exporters to importers using `ggalluvial`.
-*   **Spatial mapping**: Renders spatial shapefiles using `sf` to map wheat trade matrices.
-*   **Animations**: Employs `gganimate` to transition trade statistics over years.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[Code — R Viz — Ukraine Wheat War Trade Step by Step]]
-- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Step by Step.md
-
----
-date: 2026-06-13
-tags:
-summary: "R script showing step-by-step builds of plots demonstrating incremental adjustments (colors, scale breaks, labels) in ggplot2."
-aliases:
----
-
-
-# Code — R Viz — Ukraine Wheat War Trade Step by Step
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `Data visualization training - 10 June 2022 - step by step.R` |
-| Format | R Script |
-| Location | [file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20step%20by%20step.R](file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20step%20by%20step.R) |
-| Author | Frédéric Baudron (f.baudron@cgiar.org) |
-| Course | AgBS Learning by Doing Short Course #1 (10 June 2022) |
-
----
-
-## Script Overview & Purpose
-This R script serves as the step-by-step tutorial version of the data visualization session. It demonstrates how to build plots incrementally in `ggplot2`, showing the effect of individual formatting parameters.
-
-## Incremental Tutorial Workflow
-
-The script guides the user through the process of building the historical wheat price chart in five steps:
-
-### Step 1: Raw Plot
-Plots a simple default line chart without formatting:
-```R
-ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
-  geom_line()
-```
-
-### Step 2: Line Adjustments
-Modifies line thickness and colors (referencing online color code palettes):
-```R
-ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
-  geom_line(size = 1.2, color = "red")
-```
-
-### Step 3: Axis Labeling
-Removes the empty x-axis label and updates the y-axis title:
-```R
-ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
-  geom_line(size = 1.2, color = "red") + 
-  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)")
-```
-
-### Step 4: Scale Breaks
-Adjusts the scale increment to 4-year breaks to resolve date label overlaps:
-```R
-ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
-  geom_line(size = 1.2, color = "red") + 
-  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)") +
-  scale_x_date(breaks = date_breaks("4 years"))
-```
-
-### Step 5: Date Formatting
-Applies year formatting (`%Y`) to date labels and bounds the axis:
-```R
-ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
-  geom_line(size = 1.2, color = "red") + 
-  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)") +
-  scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%Y"))
-```
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[Code — R Viz — Ukraine Wheat War Trade Clean]]
-- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md
-
----
-date: 2026-06-13
-tags:
-summary: "Jupyter notebook tracking PhD publication progress and analyzing target journal impact factors and quartile statistics."
-aliases:
----
-
-
-# Code — Root — Articles Progress and Metrics
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `artcicles.ipynb` |
-| Format | Jupyter Notebook |
-| Location | [file:///D:/PHD-3rd/artcicles.ipynb](file:///D:/PHD-3rd/artcicles.ipynb) |
-| Core Libraries | `pandas`, `matplotlib`, `plotly.express`, `plotly.graph_objects` |
-
-## Description & Purpose
-
-This notebook is an administrative and tracking asset used by Abdelhak during his third PhD year (mid-2024). It serves two main purposes:
-1. **PhD Publication Tracking**: Visually monitors the writing progress, time investment, and milestones of three planned PhD articles.
-2. **Journal Target Analysis**: Dynamically imports and evaluates a target journal metadata sheet, displaying impact factor statistics by quartile (Q1/Q2/Q3) to help guide publication submissions.
-
----
-
-## Technical Implementations
-
-### 1. Progress and Timeline Plotting (Cell 1)
-Defines dates, progress percentages, and estimated time investments for three papers, generating charts saved to the user's Desktop:
-* **Paper Progress**:
-  * **1er article**: $90\%$ complete (Milestone: 30 July 2024, Time: 180 days)
-  * **2ème article**: $40\%$ complete (Milestone: 20 September 2024, Time: 90 days)
-  * **3ème article**: $25\%$ complete (Milestone: 30 November 2024, Time: 45 days)
-* **Plot Functions**:
-  * `bar_chart()`: Plots relative progress bar chart.
-  * `timeline()`: Renders milestone markers on a horizontal time axis relative to 1 July 2024.
-  * `line_chart()`: Renders cumulative progress rates over time.
-  * `pie_chart()`: Visualizes relative time allocation (in days) per article.
-
-### 2. Target Journal Analytics (Cell 3)
-Reads target journal metadata from `C:/Users/Dell/OneDrive - Université Mohammed VI Polytechnique/Journals-papers.xlsx` and generates interactive tables and plots in a `Desktop/MyPlots/` directory:
-* **Full Dataset Table**: Uses Plotly `go.Table` to output full journal rosters.
-* **Quartile Grouping**: Groups target journals by Quartile (Q1/Q2/Q3) and Journal name to display article distributions.
-* **Sunburst & Treemaps**: Renders hierarchy maps of journals weighted by their Impact Factor (IF).
-* **Quartile Boxplots**: Renders the distribution of Impact Factors across different quartiles to highlight Q1 journals.
-
----
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
-- [[LIFE_TIMELINE_MOC]]
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[03_Digital Life/timeline/Timeline-2023-2026]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md
-
----
-date: 2026-06-13
-tags:
-summary: "Jupyter notebook containing multi-criterion statistical filters (SNR, entropy, correlation, PCA variance) to identify and mask noisy PRISMA bands."
-aliases:
----
-
-
-# Code — VLC — Bad Bands Detection
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `bad bands code.ipynb` |
-| Format | Jupyter Notebook |
-| Location | [file:///D:/PHD-3rd/VLC/bad%20bands%20code.ipynb](file:///D:/PHD-3rd/VLC/bad%20bands%20code.ipynb) |
-| Core Libraries | `h5py`, `numpy`, `scipy.stats`, `scipy.signal`, `matplotlib`, `sklearn.decomposition` |
-
-## Algorithmic Workflow
-
-The notebook develops and refines a custom Python function (`analyze_prisma_bands`) that automates the identification and masking of corrupted or atmospheric absorption channels in PRISMA Level-2D datasets.
-
-```mermaid
-graph TD
-    A["Read PRISMA L2d HDF5"] -->|Load Arrays| B["VNIR Cube & SWIR Cube"]
-    B -->|Fusing| C["Combined Cube (239 bands)"]
-    C -->|Calculate per band| D["SNR, Entropy, Correlation, PCA Variance"]
-    D -->|Apply thresholds| E["Multi-Criterion Bad Band Mask"]
-    E -->|Output| F["Cleaned Hyperspectral Cube & Stats Plots"]
-```
-
-## Key Code Implementations & Metrics
-
-### 1. Fusing VNIR and SWIR Cubes
-Loads the Level-2D HDF5 file structures and concatenates the VNIR and SWIR spectral dimensions:
-```python
-with h5py.File(file_path, 'r') as f:
-    vnir_cube = f['HDFEOS/SWATHS/PRS_L2D_HCO/Data Fields/VNIR_Cube'][:]
-    swir_cube = f['HDFEOS/SWATHS/PRS_L2D_HCO/Data Fields/SWIR_Cube'][:]
-combined_cube = np.concatenate((vnir_cube, swir_cube), axis=1)
-```
-
-### 2. Multi-Criterion Band Filtering Logic
-Iterates through all bands, applying four distinct statistical filters:
-* **SNR Thresholding**: Identifies channels with low signal-to-noise ratio:
-  ```python
-  # Calculate mean and standard deviation across spatial dimensions
-  mean_spectrum = np.nanmean(combined_cube, axis=(0, 2))
-  std_spectrum = np.nanstd(combined_cube, axis=(0, 2))
-  snr = mean_spectrum / (std_spectrum + 1e-6)
-  bad_snr = snr < snr_threshold
-  ```
-* **Entropy Analysis**: Checks data distribution diversity. Low entropy indicates flat line values (edge channels or calibration bands), while extremely high entropy signals random detector noise.
-* **Correlation Thresholding**: Checks adjacent band correlation. Very low correlation highlights sudden spikes or localized detector errors.
-* **PCA Variance Contribution**: Evaluates the cumulative variance contribution. If a band does not align with principal components explaining $99.99\%$ variance, it is potential noise.
-
-### 3. Visualizations
-Generates detailed spectral statistic figures (mean, standard deviation, and min-max fills) across the wavelength spectrum, helping to verify that the water vapor absorption windows (1300–1500 nm and 1750–1980 nm) are correctly masked out.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]]
-- [[04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md
-
----
-date: 2026-06-13
-tags:
-summary: "Jupyter notebook comparing XGBoost, SVM, Random Forest, KNN, and Voting Ensemble models for lithological classification of PRISMA hyperspectral data."
-aliases:
----
-
-
-# Code — VLC — ML Models Classifier
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| File | `ML-MODELS-VLC.ipynb` |
-| Format | Jupyter Notebook |
-| Location | [file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) |
-| Core Libraries | `rasterio`, `geopandas`, `scikit-learn`, `xgboost`, `imbalanced-learn` |
-
-## Pipeline Architecture
-
-The notebook implements a structured supervised machine learning workflow to classify ground lithology (such as limestone, phosphate, chert, and clay classes) using spatial-spectral inputs:
-
-```mermaid
-graph TD
-    A["Raw PRISMA L2d HDF5 Cube"] -->|Extraction & Loading| B["Lithological Sample Coordinates (Excel)"]
-    B -->|Raster Extract| C["Spectral Feature Matrix (StandardScaler)"]
-    C -->|Dimensionality Reduction| D["PCA (Principal Component Analysis)"]
-    D -->|Oversampling| E["SMOTE (Synthesized Minority Balancing)"]
-    E -->|Model Training| F["GridSearchCV / StratifiedKFold"]
-    F -->|Ensemble Fusion| G["Voting Classifier (RF + SVM + XGBoost)"]
-    G -->|Validation & Evaluation| H["Classification Reports & Confusion Matrices"]
-```
-
-## Key Code Implementations & Techniques
-
-### 1. Class Imbalance Remediation (SMOTE)
-Given that waste rock classes are highly imbalanced, the notebook employs `SMOTE` (Synthetic Minority Over-sampling Technique) to synthetically balance the training feature matrix:
-```python
-from imblearn.over_sampling import SMOTE
-smote = SMOTE(random_state=42)
-X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
-```
-
-### 2. Dimensionality Reduction (PCA)
-Hyperspectral data contains highly correlated bands. Principal Component Analysis (PCA) is used to project the normalized bands into a reduced orthogonal feature space:
-```python
-from sklearn.decomposition import PCA
-pca = PCA(n_components=0.99) # Keep components explaining 99% variance
-X_train_pca = pca.fit_transform(X_train_scaled)
-```
-
-### 3. Model Ensemble (Voting Classifier)
-To combine the predictive power of gradient boosting, support vector margins, and bagging trees, a soft voting ensemble is constructed:
-```python
-from sklearn.ensemble import VotingClassifier
-voting_clf = VotingClassifier(
-    estimators=[
-        ('rf', RandomForestClassifier(n_estimators=100, random_state=42)),
-        ('xgb', XGBClassifier(use_label_encoder=False, eval_metric='logloss', random_state=42)),
-        ('svc', SVC(probability=True, kernel='rbf', random_state=42))
-    ],
-    voting='soft'
-)
-```
-
-### 4. Spatially Mapping Predictions
-Uses `rasterio` and a trained model to classify an entire PRISMA scene, exporting the classification result to `lithology_map_xgboost.png`.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
-- [[04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE)]]
-- [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/sources/Delogu2023Using]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Benguerir Mine Species and Shapefiles.md
-
----
-date: 2026-06-13
-summary: "Data asset index containing the species spreadsheets, mine boundary shapefiles, and survey points used for the 2023 biodiversity paper."
-aliases:
-tags:
----
-
-
-# Data Asset — Benguerir Mine Species and Shapefiles
-
-This data asset note indexes the geographic boundary shapefiles, species surveys, and biodiversity data matrices archived in [ArticleHAMZA](file:///D:/ArticleHAMZA/). These datasets were collected and compiled to support the published paper [[zineNativePlantDiversity2023]].
-
----
-
-## 📊 Tabular Datasets (Excel Spreadsheets)
-
-These files contain the raw floristic lists and biodiversity tables compiled from the field campaigns:
-
-1. **[Biodiversityofminingsites.xls](file:///D:/ArticleHAMZA/Biodiversityofminingsites.xls)** (342 KB)
-   * *Description:* Contains the master species inventory across the four mines: Bou Craa (BCM), Ben Guerir (BGM), Youssoufia (YSM), and Khouribga (KHM). 
-   * *Data Fields:* Taxonomic classification (family, genus, species), life-form classification under Raunkiaer's system, and occurrences.
-
-2. **[WIild-flora-of-phosphate-mining-sites.xlsx](file:///D:/ArticleHAMZA/WIild-flora-of-phosphate-mining-sites.xlsx)** (127 KB)
-   * *Description:* Plant occurrence matrices and functional traits of wild species colonizing the waste rock dumps.
-   * *Relevance:* Used to calculate richness indices and dominant botanical families (Compositae, Amaranthaceae, Poaceae).
-
----
-
-## 🗺️ Geographic & Spatial Datasets (Shapefiles)
-
-These folders contain vector shapefiles used in GIS software (e.g. QGIS) to map mining boundaries and sample coordinates:
-
-### 1. Sampling Points Shapefile
-* *Path:* [ShapefileMINE](file:///D:/ArticleHAMZA/ShapefileMINE/)
-* *Primary Dataset:* **[Points-FINAL-BG.dbf](file:///D:/ArticleHAMZA/ShapefileMINE/Points-FINAL-BG.dbf)** (25.5 MB), `.shp`, `.shx`
-* *Details:* High-resolution coordinates of the specific vegetation sampling quadrants across the Ben Guerir Mine (BGM).
-* *Fields:* ID, Easting, Northing, species richness, dominant vegetation cover, and substrate composition.
-
-### 2. Mine Boundaries Shapefiles
-* *Path:* [BENGEURIR MINE](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/)
-* *Vector Files:*
-  * **[Shapefile Bengruir.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/Shapefile%20Bengruir.shp)** — Outlines the spatial extent of the Ben Guerir Mine concession.
-  * **[Shapefile Boucraa.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/Shapefile%20Boucraa.shp)** — Boundary for Bou Craa Mine.
-  * **[shapefile Khouribga.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/shapefile%20Khouribga.shp)** — Boundary for Khouribga Mine.
-  * **[Shapefile Youssoufia.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/Shapefile%20Youssoufia.shp)** — Boundary for Youssoufia Mine.
-* *Relevance:* Crucial for clipping satellite imagery (e.g., Landsat, Sentinel-2, PRISMA) to ensure spectral indicators are calculated strictly within mining concessions.
-
----
-
-## 🕸️ Links
-- [[zineNativePlantDiversity2023]] — The published study supported by these datasets
-- [[04_Archives/D-Drive/D-Drive — ArticleHAMZA]] — Parent D-drive folder
-- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Books Reference Library.md
-
----
-date: 2026-06-13
-tags:
-summary: "Data asset note indexing reference books on mine site rehabilitation, revegetation, and phytoremediation in D:\\ALL\\Books"
----
-
-
-# 📚 Data Asset — Books Reference Library
-
-This note catalogs the reference books located in [D:\ALL\Books\](file:///D:/ALL/Books) used in years 2–3 of the PhD to establish a theoretical foundation for mine site rehabilitation, soil formulation, and vegetation recovery monitoring.
-
----
-
-## 📖 Books Inventory
-
-### 1. Spoil to Soil: Mine Site Rehabilitation and Revegetation
-*   **Filename**: [Spoil to Soil_ Mine Site Rehabilitation and Revegetation.pdf](file:///D:/ALL/Books/Spoil%20to%20Soil_%20Mine%20Site%20Rehabilitation%20and%20Revegetation.pdf)
-*   **Format**: PDF (28.8 MB)
-*   **Subjects Covered**: 
-    *   Soil reconstruction and transformation of raw mine wastes (spoil) into functional soils.
-    *   Physical, chemical, and biological barriers to plant growth on mine spoils.
-    *   Application of organic and inorganic amendments (topsoil, biochar, composts, and by-products like phosphogypsum).
-    *   Ecosystem reconstruction and species selection for mine site revegetation.
-*   **Relevance to Thesis**: Provides baseline concepts for the soil formulation trials at the Benguerir mine (mixing topsoil, sewage sludge, and phosphogypsum).
-
-### 2. Revegetation and Phytoremediation of Tailings from a Lead-Zinc Mine
-*   **Filename**: [Revegetation and phytoremediation of tailings from a lead-zinc mine.pdf](file:///D:/ALL/Books/Revegetation%20and%20phytoremediation%20of%20tailings%20from%20a%20lead-zinc%20mine.pdf)
-*   **Format**: PDF (13.3 MB)
-*   **Subjects Covered**: 
-    *   Phytoremediation strategies (phytoextraction and phytostabilization) for heavy metal-rich mine tailings.
-    *   Use of metal-tolerant plants and accumulator species.
-    *   Rhizosphere interactions and microbial inoculants to support plant survival.
-    *   Long-term monitoring of vegetation cover and soil chemistry.
-*   **Relevance to Thesis**: Although focused on lead-zinc tailings, the ecological monitoring principles and vegetation indicators (fractional vegetation cover, spectral response) align with remote sensing monitoring of mine waste.
-
-### 3. Mine Rehabilitation Handbook (LPSDP)
-*   **Filename**: [lpsdp-mine-rehabilitation-handbook-english.pdf](file:///D:/ALL/Books/lpsdp-mine-rehabilitation-handbook-english.pdf)
-*   **Format**: PDF (10.7 MB)
-*   **Source**: Australian Government — Leading Practice Sustainable Development Program for the Mining Industry.
-*   **Subjects Covered**:
-    *   Leading practice guidelines for sustainable mine rehabilitation.
-    *   Integration of rehabilitation into mine planning and operations (progressive rehabilitation).
-    *   Landform design, stability, and geomorphic erosion modeling.
-    *   Rehabilitation criteria, success indicators, and sign-off protocols.
-*   **Relevance to Thesis**: Directly references progressive mine rehabilitation frameworks, supporting the operational context of OCP's land-shaping and reclamation workflows at Benguerir.
-
----
-
-## 🕸️ Relationships & Connections
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|Phosphate Mine Reclamation]]
-*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
-*   **hub**:: [[04_Archives/D-Drive/D_Drive_Master_Hub]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Data Asset — Chapter 1 Supplementary Tables
-
-This data asset note documents the supplementary tables for Chapter 1 of the thesis (published in *Sensors* 2025, doi: 10.3390/s26010002). These tables contain the complete, raw spectral similarity metrics, raw spectral reflectance curves, and handheld XRF (HHXRF) chemical analyses for all **104** waste-rock samples from the Benguerir mine.
-
----
-
-## 1. Table S1: Spectral Similarity Metrics
-*   **File Link**: [Supplementary materials (Table S1).docx](file:///D:/PHD-4th/PP2/Supplementary%20materials%20(Table%20S1).docx)
-*   **Source Text**: [supp_s1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt)
-*   **Description**: This table contains the calculated similarity metrics for each of the **104** processed spectra when matched against the ECOSTRESS spectral library.
-*   **Columns**:
-    *   `Sample`: Unique sample ID (e.g., VL400, VL401, VL02, VL83).
-    *   `RMSE`: Root Mean Square Error.
-    *   `SAM`: Spectral Angle Mapper (in radians).
-    *   `SID`: Spectral Information Divergence.
-    *   `R2`: Coefficient of determination ($R^2$).
-    *   `Score`: Composite matching score (sum of normalized similarity metrics).
-*   **Exemplar Values (Confirmed from Table S1)**:
-    *   *Sample VL401*: RMSE = 0.1121, SAM = 0.0668 rad, SID = 0.0114, $R^2$ = 0.8653, Score = 0.1903 (Source: [supp_s1.txt:L405-410](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt#L405-L410)).
-    *   *Sample VL14*: RMSE = 0.0854, SAM = 0.0882 rad, SID = 0.0244, $R^2$ = 0.9169, Score = 0.1981 (Source: [supp_s1.txt:L442-446](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt#L442-L446)).
-    *   *Sample VL424*: RMSE = 0.1629, SAM = 0.1484 rad, SID = 0.0336, $R^2$ = 0.7511, Score = 0.3449 (Source: [supp_s1.txt:L21-26](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt#L21-L26)).
-
----
-
-## 2. Table S2: VNIR–SWIR Reflectance Curves
-*   **File Link**: [Supplementary table S2.xlsx](file:///D:/PHD-4th/PP2/Supplementary%20table%20S2.xlsx) (also stored as [Supplementary materials (Table S2).xlsx](file:///D:/PHD-4th/PP2/Supplementary%20materials%20(Table%20S2).xlsx))
-*   **Description**: This sheet contains the raw reflectance spectral curves for the **104** samples, measured under fixed Muglight geometry.
-*   **Structure**: 2,151 rows × 105 columns.
-*   **Columns**:
-    *   `Wavelength`: Spectral bands from **350 nm** to **2500 nm** at **1 nm** spacing.
-    *   `VL400` to `VL410-2`: Complete reflectance spectral profiles for all **104** samples.
-*   **Usage**: Used for continuum removal, Savitzky–Golay smoothing, and linear spectral unmixing.
-
----
-
-## 3. Table S3: HHXRF Geochemical Composition
-*   **File Link**: [Supplemntary table S3.xlsx](file:///D:/PHD-4th/PP2/Supplemntary%20table%20S3.xlsx)
-*   **Description**: Contains the complete chemical composition measurements of major oxides and trace elements acquired by the Olympus Vanta M Series HHXRF.
-*   **Structure**: Consists of two sheets:
-    1.  `Feuil1` (132 rows × 121 columns): Raw instrument log files containing all individual measurement runs, duration (90–180 s), dual-beam settings (40–50 kV/10–15 kV), raw elemental concentrations, and 2-sigma errors.
-    2.  `Analyse XRF P` (104 rows × 53 columns): Finalized, cleaned geochemical database containing sieved `< 2 mm` major oxide concentrations (wt%) and trace elements (ppm) for the **104** representative samples.
-*   **Key Fields**:
-    *   `Sample`: Unique sample ID matching Table S1 and Table S2.
-    *   `SiO2`, `Al2O3`, `CaO`, `MgO`, `K2O`, `P2O5`, `Fe2O3`: Major rock-forming oxides (wt%).
-    *   `Sr`, `U`, `As`, `Cd`: Environmental trace indicators.
-*   **Exemplar Values (Confirmed from Sheet 'Analyse XRF P')**:
-    *   *Sample VL412*: $SiO_2$ = 56.22 wt%, $Al_2O_3$ = 2.01 wt%, $P_2O_5$ = 3.35 wt% (Source: [inspect_sheets.py output](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/.system_generated/tasks/task-106.log)).
-    *   *Sample VL402*: $SiO_2$ = 39.35 wt%, $Al_2O_3$ = 1.40 wt%, $P_2O_5$ = 2.91 wt% (Source: [inspect_sheets.py output](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/.system_generated/tasks/task-106.log)).
-    *   *Sample VL13*: $SiO_2$ = 28.74 wt%, $Al_2O_3$ = 1.81 wt%, $P_2O_5$ = 1.57 wt% (Source: [inspect_sheets.py output](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/.system_generated/tasks/task-106.log)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
-* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Chapter 2 Supplementary Materials.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Data Asset — Chapter 2 Supplementary Materials
-
-This note indexes and summarizes the contents of the supplementary materials for Chapter 2 of the thesis, which contains the tables and figures supporting the PRISMA lithological mapping study.
-
-* **Source File**: [Supplementary materials-minerals-4267637.docx](file:///D:/PHD-4th/Minerals-4267637%20Round%201/Supplementary%20materials-minerals-4267637.docx)
-* **Metadata**: All numerical results are derived from **10** repeated runs of the **30 m** spatially constrained cross-validation framework (**5** folds, **50** total splits) using the **127** spatially independent modeling dataset. (Source: [supp_ch2.txt:L2,L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L2#L4); parameters confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47,L50-L51)).
-
-> [!WARNING]
-> **Data Discrepancy (Row 24 of Discrepancy Log):** Tables S3, S4, and S5 in the supplementary materials report Extra Trees Spatial BA = **0.693 ± 0.032** and Random Forest Spatial BA = **0.666 ± 0.032**. The canonical defense prep files ([Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L53) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L189)) define the canonical Chapter 2 BAC range as **0.60–0.67**. Following the Data Truth Hierarchy, the canonical range of **0.60–0.67** is stated as fact, while the revised supplementary values are presented as context.
-
----
-
-## 1. Summary of Supplementary Tables
-
-* **Table S1: XRF Geochemical Summary Statistics by Lithological Class**
-  * *Description*: Major-oxide composition (wt%) for the **127** modeling samples across the four lithological classes (Marl, Limestone, Phosphate rock, Siliceous facies).
-  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class|Geochemical Summary Statistics by Lithological Class]].
-  * *Source*: [supp_ch2.txt:L3-44](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L3-L44).
-* **Table S2: XRD and Petrographic Sample Mapping to the 127 Modelling Dataset**
-  * *Description*: Cross-references the **20** XRD-analyzed samples and **10** thin-section samples to their respective lithological classes and confirms their inclusion/exclusion in the final modeling dataset based on spatial pixel uniqueness.
-  * *Source*: [supp_ch2.txt:L48-133](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L48-L133).
-* **Table S3: Full-Band vs. ANOVA-60 Feature Selection Ablation**
-  * *Description*: Compares classification accuracies (OA and BA) when using all spectrally clean bands (**189**) vs. the top ANOVA-selected SWIR bands (**60**).
-  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies#1. Feature Selection Ablation: Full-Band vs. ANOVA-60 (Table S3)|Feature Selection & Validation Ablation Studies]].
-  * *Source*: [supp_ch2.txt:L135-172](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L135-L172).
-* **Table S4: ANOVA F-Test vs. Mutual Information Feature Selection**
-  * *Description*: Compares the performance of ANOVA F-test against Mutual Information feature selection criteria (both with $k=60$ features selected) for Random Forest and Extra Trees.
-  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies#2. Feature Selector Comparison: ANOVA F-Test vs. Mutual Information (Table S4)|Feature Selection & Validation Ablation Studies]].
-  * *Source*: [supp_ch2.txt:L180-193](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L180-L193).
-* **Table S5: Spatial vs. Random Cross-Validation**
-  * *Description*: Quantifies the impact of spatial autocorrelation by comparing random stratified k-fold cross-validation (no spatial buffer) against the **30 m** spatially constrained cross-validation for the five original classifiers.
-  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies#3. Spatial vs. Random Cross-Validation: Autocorrelation Quantification (Table S5)|Feature Selection & Validation Ablation Studies]].
-  * *Source*: [supp_ch2.txt:L200-243](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L200-L243).
-
----
-
-## 2. Summary of Supplementary Figures
-
-* **Figure S1: Feature Selection Ablation, Full-Band vs. ANOVA-60**
-  * *Description*: Visual comparison bar plot showing mean overall accuracy and balanced accuracy across the five classifiers for both band configurations. (Source: [supp_ch2.txt:L176-178](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L176-L178)).
-* **Figure S2: Feature Selection Comparison, ANOVA F-Test vs. Mutual Information**
-  * *Description*: Bar plot showing balanced accuracy under both selectors for Random Forest and Extra Trees, demonstrating overlapping standard deviations. (Source: [supp_ch2.txt:L196-198](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L196-L198)).
-* **Figure S3: Quantifying the Overestimation Risk of Random Cross-Validation**
-  * *Description*: Plot comparing performance distributions for random and spatial validation. Overlapping accuracy ranges confirm that pixel deduplication successfully mitigated spatial autocorrelation. (Source: [supp_ch2.txt:L246-251](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L246-L251)).
-* **Figure S4: Class Distribution of the 127 Spatially Independent Samples**
-  * *Description*: Bar chart showing sample counts per class in the modeling set: Marl ($n=49$), Limestone ($n=35$), Phosphate rock ($n=23$), and Siliceous facies ($n=20$). Highlights a slight typo in the original figure label where "Siliceous" was misspelled as "Selicious" (now corrected in text). (Source: [supp_ch2.txt:L253-255](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L253-L255)).
-* **Figure S5: Balanced Accuracy, All Seven Classifiers**
-  * *Description*: Compares balanced accuracy under spatial CV for the five original models plus the LightGBM and SAM baselines, showing performance relative to the **0.25** random chance level for a 4-class problem. (Source: [supp_ch2.txt:L256-258](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L256-L258)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies|Feature Selection & Validation Ablation Studies]]
-* [[04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class|Geochemical Summary Statistics by Lithological Class]]
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents.md
-
----
-date: 2026-06-13
-tags:
-summary: "Data asset note summarizing OCP institutional documents and operational procedures (Modes Opératoires) in D:\\ALL\\ocp"
----
-
-
-# 🏢 Data Asset — OCP Institutional Documents
-
-This note catalogs and summarizes the OCP Group institutional documents and operational procedures (Modes Opératoires) stored in [D:\ALL\ocp\](file:///D:/ALL/ocp). These documents provide crucial industry context on mine operations, safety protocols, and progressive reclamation at the Benguerir mine site.
-
----
-
-## 📝 Folder Summary & Key Content
-
-The OCP folder contains records from a 7-day field internship (stage) completed in the Gantour basin (Benguerir mine) during the early stages of the PhD. It details OCP's official protocols for reclamation and day-to-day mine operations.
-
-### 1. Mine Reclamation & Internship Report
-*   **Filename**: [Report.docx](file:///D:/ALL/ocp/Report.docx)
-*   **Key Information Extracted**:
-    *   **Historical Timeline**: OCP initiated formal mine rehabilitation protocols in **2014**. Prior to this, mined-out panels were left without systemic grading or revegetation.
-    *   **The Two Reclamation Axes**:
-        1.  **Aménagement (Shaping)**: Grading and stabilizing the waste rock piles (cavaliers) to reduce slopes and prevent erosion, executed using heavy machinery (Caterpillar D9 and D11 Bulldozers).
-        2.  **Plantation (Revegetation)**: Implantation of adaptive trees and shrubs on the reshaped land.
-    *   **Soil Formulation Recipe**: Planting is performed by digging pits measuring **$70 \times 70 \times 70\ \text{cm}$**. To overcome the nutrient deficiencies and physical limitations of raw overburden waste rock, a soil formulation mixture is filled into these pits. The mixture blends:
-        *   **Terre végétale** (saved topsoil)
-        *   **Boue de la STEP** (wastewater treatment plant sewage sludge)
-        *   **Boue de lavage** (phosphate washing plant clay byproduct)
-        *   **Phosphogypsum** (industrial byproduct of phosphoric acid production) at varying ratios to regulate pH and structure.
-    *   **Vegetation Species Selection**: OCP utilizes **21 different plant species** categorized into 5 functional classes:
-        *   *Fruit trees* (e.g., olive, fig, pomegranate)
-        *   *Forest trees* (e.g., eucalyptus, acacia)
-        *   *Shrubs* (e.g., Atriplex halimus)
-        *   *Medicinal plants*
-        *   *Ornamental garden plants*
-*   **Relevance to Thesis**: Provides the exact operational parameters (pit size, byproducts used, plant species) for the reclamation monitoring models.
-
-### 2. Operational Procedures (Modes Opératoires)
-Located in [D:\ALL\ocp\MO\](file:///D:/ALL/ocp/MO). These spreadsheets detail standard operating procedures for OCP mining crews:
-*   [MO foration.xlsx](file:///D:/ALL/ocp/MO/MO%20foration.xlsx) (3.18 MB) — Technical procedures and checklists for blasthole drilling rigs.
-*   [MO défuitage.xlsx](file:///D:/ALL/ocp/MO/MO%20défuitage.xlsx) (14.5 MB) — Procedures for dragline stripping, waste rock casting, and phosphate layer extraction (défuitage).
-*   [MOs PH .xlsx](file:///D:/ALL/ocp/MO/MOs%20PH%20.xlsx) (12.6 MB) — Operational modes for hydraulic shovels (Pelle Hydraulique) and haul trucks.
-*   [MOs 7500M .xlsx](file:///D:/ALL/ocp/MO/MOs%207500M%20.xlsx) (2.59 MB) — Operator logs and parameters for OCP's large-scale draglines (e.g., Marion 7500).
-
-### 3. HSE (Health, Safety, & Environment) Protocols
-*   [Réunion.docx](file:///D:/ALL/ocp/Réunion.docx) — Internal minutes regarding HSE policies (ISO 14001 certification goals and paper-reduction initiatives: reducing paper use from 100k sheets to 41k sheets/year, saving 17-20 trees per year).
-*   [DOOC_Checkliste_JCC_OCP 19MAI2017_V01.pdf](file:///D:/ALL/ocp/MO/DOOC_Checkliste_JCC_OCP%2019MAI2017_V01.pdf) — Job Cycle Check (JCC) checklist evaluating operator compliance with safety standards.
-*   [VF HD Affiche  7 principes.pdf](file:///D:/ALL/ocp/MO/VF%20HD%20Affiche%20%207%20principes.pdf) — Graphic design posters outlining OCP's 7 Golden Safety Rules (7 Principes d'Or HSE).
-
----
-
-## 🕸️ Relationships & Connections
-*   **related-entity**:: [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group and Benguerir Mine]]
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|Phosphate Mine Reclamation]]
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
-*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md
-
----
-tags:
-date: 2026-06-13
-summary: "Quantitative mineralogy reports (Rietveld refinement outputs) for early Benguerir waste rock samples, validating the 4-class mineralogy model."
-aliases:
----
-
-
-# Data Asset — PHD-1st XRD Reports
-
-## Description
-This data asset contains the raw X-ray diffraction (XRD) mineralogical reports and quantitative analyses for waste rock samples collected during the first PhD year (2021/2022) at the Benguerir phosphate mine. The quantitative weight percentages were determined using full-pattern Rietveld refinements in PANalytical X'Pert HighScore Plus.
-
-*   **Source Archive**: [XRD_reports.zip](file:///D:/PHD-1st/XRD_reports.zip)
-*   **Active Directory**: [RE__Analyses_DRX/](file:///D:/PHD-1st/RE__Analyses_DRX/) (contains the raw `.raw`, `.xy`, and `.brml` scan files)
-
----
-
-## Quantitative Analysis - Rietveld Refinements
-
-### 1. Sample Z2-1 (`Z21.docx`)
-*   **Raw Data File**: `SA GRPOUPE 2 DM1.raw`
-*   **Fit Parameters**: $R_{\text{exp}} = 11.09\%$, $R_{\text{wp}} = 30.15\%$, $R_{\text{p}} = 23.35\%$, $\text{GOF} = 2.72$
-*   **Mineral Weight Percentages**:
-
-| Mineral Phase | Weight % | Mineral Group |
-|---------------|----------|---------------|
-| **Calcite** | $30.831\%$ | Carbonate |
-| **Dolomite** | $19.348\%$ | Carbonate |
-| **Ankerite** | $1.121\%$ | Carbonate |
-| **Hydroxylapatite** | $21.369\%$ | Phosphate |
-| **Palygorskite** | $11.110\%$ | Clay Silicate |
-| **Montmorillonite** | $3.021\%$ | Clay Silicate |
-| **Quartz** | $13.200\%$ | Silica |
-
-### 2. Sample Z2-5 (`Minerals-Z2-5.docx`)
-*   **Raw Data File**: `SA GRPOUPE 2 DM5.raw`
-*   **Fit Parameters**: $R_{\text{exp}} = 11.27\%$, $R_{\text{wp}} = 34.85\%$, $R_{\text{p}} = 27.39\%$, $\text{GOF} = 3.09$
-*   **Mineral Weight Percentages**:
-
-| Mineral Phase | Weight % | Mineral Group |
-|---------------|----------|---------------|
-| **Calcite** | $54.474\%$ | Carbonate |
-| **Dolomite** | $4.558\%$ | Carbonate |
-| **Ankerite** | $2.854\%$ | Carbonate |
-| **Hydroxylapatite** | $21.524\%$ | Phosphate |
-| **Palygorskite** | $8.546\%$ | Clay Silicate |
-| **Quartz** | $8.043\%$ | Silica |
-
-### 3. Sample Z2-10 (`Z2-10-minerals.docx`)
-*   **Raw Data File**: `SA GRPOUPE 2 DM10.raw`
-*   **Fit Parameters**: $R_{\text{exp}} = 11.71\%$, $R_{\text{wp}} = 37.93\%$, $R_{\text{p}} = 30.13\%$, $\text{GOF} = 3.24$
-*   **Mineral Weight Percentages**:
-
-| Mineral Phase | Weight % | Mineral Group |
-|---------------|----------|---------------|
-| **Calcite** | $38.135\%$ | Carbonate |
-| **Hydroxylapatite** | $57.366\%$ | Phosphate |
-| **Quartz** | $4.500\%$ | Silica |
-
----
-
-## Key Observations
-*   **Phosphate Phase Identification**: HighScore Plus identified the phosphate mineral specifically as **Hydroxylapatite** (Hydroxyapatite, $Ca_5(PO_4)_3(OH)$), which is structurally and spectrally very similar to Fluorapatite ($Ca_5(PO_4)_3F$, the dominant ore mineral in sedimentary deposits). 
-*   **High Carbonate Content**: Samples Z2-1 and Z2-5 show high carbonate concentrations ($>50\,\text{Wt}\%$ combined Calcite, Dolomite, Ankerite), which represent the limestone and dolomite interlayers of the Benguerir geological series.
-*   **Clay Presence**: Palygorskite (up to $11.1\%$) and Montmorillonite (up to $3.0\%$) are the principal clay minerals identified in the raw overburden piles. These clays contain $Al\text{-}OH$ and $O\text{-}H$ vibrational bonds that generate strong absorption features at ~1400 nm, 1900 nm, and 2200 nm, which complicate the spatial unmixing of phosphate features.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
-- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
-- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
-- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes.md
-
----
-date: 2026-06-13
-tags:
-summary: "Data asset note indexing PRISMA Khouribga satellite scenes (L1 HDF5 and L2d geotiff/zip) in D:\\ALL\\PRISMA\\Khouribga"
----
-
-
-# 🛰️ Data Asset — PRISMA Khouribga Satellite Scenes
-
-This note indexes the PRISMA hyperspectral satellite datasets covering the Khouribga phosphate basin, stored in [D:\ALL\PRISMA\Khouribga\](file:///D:/ALL/PRISMA/Khouribga). These datasets were acquired for a transferability study to test if the remote sensing mineral mapping models calibrated for the Benguerir mine can map phosphate waste rocks at other major Moroccan basins.
-
----
-
-## 📅 Dataset Profile
-
-| Metric | Value |
-| :--- | :--- |
-| **Target Site** | Khouribga Phosphate Basin, Morocco |
-| **Acquisition Date** | September 2, 2021 |
-| **Acquisition Time** | 11:11:07 to 11:11:11 UTC |
-| **Satellite Sensor** | PRISMA (Poldiagostico e Tecnologie per Immagini Spettrali), ASI (Italian Space Agency) |
-| **Processing Levels** | L1 (Top-of-Atmosphere Radiance) & L2D (Geocoded Surface Reflectance) |
-| **Total Size** | ~3.0 GB |
-
----
-
-## 🗃️ Files Inventory
-
-### 1. Level-1 Standard OFFL Product (L1)
-*   **Format**: `.he5` (HDF5)
-*   **Path**: [PRS_L1_STD_OFFL_20210902111107_20210902111111_0001.he5](file:///D:/ALL/PRISMA/Khouribga/PRS_L1_STD_OFFL_20210902111107_20210902111111_0001.he5)
-*   **Size**: 959 MB
-*   **Description**: Raw top-of-atmosphere (TOA) spectral radiances, including calibration coefficient metadata and viewing geometries.
-
-### 2. Level-2D Standard Product (L2D)
-*   **Format**: `.zip` containing HDF5/GeoTIFF structures
-*   **Path**: [PRS_L2D_STD_20210902111107_20210902111111_0001.zip](file:///D:/ALL/PRISMA/Khouribga/L2D/PRS_L2D_STD_20210902111107_20210902111111_0001.zip)
-*   **Size**: 1.12 GB
-*   **Description**: Geocoded and orthorectified surface reflectances, corrected for atmospheric effects using PRISMA's standard preprocessing pipeline.
-
----
-
-## 🎛️ PRISMA Sensor Specifications
-
-PRISMA is a push-broom hyperspectral imaging instrument consisting of:
-1.  **Hyperspectral Imager**:
-    *   **VNIR (Visible & Near-Infrared)**: 66 bands covering 400 nm – 1010 nm.
-    *   **SWIR (Short-Wave Infrared)**: 173 bands covering 920 nm – 2505 nm.
-    *   **Spatial Resolution**: 30 meters.
-    *   **Spectral Resolution**: $\le 12\ \text{nm}$ bandwidth.
-2.  **Panchromatic Camera**:
-    *   **Spatial Resolution**: 5 meters.
-    *   **Spectral Range**: 400 nm – 700 nm.
-    *   **Purpose**: Co-registration and pan-sharpening of 30m hyperspectral bands.
-
----
-
-## 🎓 Relevance to Thesis
-*   **Algorithm Transferability**: The primary purpose of this data is to run transferability tests for the VCA-FCLS (Vertex Component Analysis - Fully Constrained Least Squares) spectral unmixing code developed for the Benguerir mine.
-*   **Target Minerals**: Khouribga mine waste piles contain similar mineral suites (calcite, dolomite, gypsum, clays, and apatite). This scene allows testing whether regional spectral libraries (like ECOSTRESS or custom Benguerir libraries) can accurately unmix minerals under different atmospheric and soil conditions without new ground-truth calibration.
-
----
-
-## 🕸️ Relationships & Connections
-*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
-*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP Satellite]]
-*   **related-topic**:: [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
-*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets.md
-
----
-date: 2026-06-13
-tags:
-summary: "Data asset note indexing the CSV, JSON, and GeoJSON datasets in the Shepelife project folder."
----
-
-
-# 📊 Data Asset — Shepelife Lithology Datasets
-
-This data asset note indexes the tabular (`.csv`, `.json`) and spatial (`.geojson`) datasets stored in [D:\Shepelife_Lithology_MasterProject\](file:///D:/Shepelife_Lithology_MasterProject). It catalogs the files used to run the preprocessing, clustering, feature extraction, and model training phases of the lithological classification pipeline.
-
----
-
-## 🗺️ Spatial & Metadata Files
-
-### 1. PRISMA Metadata UTM
-*   **Filename**: [PRISMA_metadata_utm.json](file:///D:/Shepelife_Lithology_MasterProject/01_preprocessing/PRISMA_metadata_utm.json)
-*   **Description**: JSON file containing coordinate boundaries (UTM Zone 29N) and matrix dimensions (1199 rows × 1198 columns) for the PRISMA scene.
-
-### 2. Balanced Lithology Dataset (GeoJSON)
-*   **Filename**: [Balanced_Lithology_Dataset.geojson](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.geojson)
-*   **Description**: Spatial point features mapping sampling locations. Each point includes geochemical oxide concentrations ($\text{SiO}_2$, $\text{Al}_2\text{O}_3$, $\text{P}_2\text{O}_5$, $\text{CaO}$, $\text{MgO}$, and $\text{K}_2\text{O}$), cluster IDs, and lithological classifications (e.g., "Dolomitic Marl").
-
----
-
-## 📊 Feature Extraction & Spectral Libraries
-
-### 1. Extracted Spectra Libraries
-*   **CSV Files**:
-    *   [PRISMA_Spectra_Extracted.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/PRISMA_Spectra_Extracted.csv) (282 KB)
-    *   [PRISMA_Spectra_Extracted_v2.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/PRISMA_Spectra_Extracted_v2.csv) (240 KB)
-*   **Description**: Tabular spectral libraries containing extracted VNIR-SWIR reflectance values corresponding to geological regions of interest.
-
-### 2. Training Sample Validation Lists
-*   **CSV Files**:
-    *   [Valid_PRISMA_samples.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/Valid_PRISMA_samples.csv) (22 KB)
-    *   [Invalid_PRISMA_samples.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/Invalid_PRISMA_samples.csv)
-*   **Description**: Tabular lists separating pixels that passed SNR and quality filters from those that were rejected due to clouds, shadows, or bad band noise.
-
----
-
-## 🤖 Model Input & Classification Ready Tables
-
-### 1. Balanced Lithology CSV
-*   **Filename**: [Balanced_Lithology_Dataset.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.csv)
-*   **Description**: Tabular representation of the GeoJSON spatial point layer, listing spatial coordinates and geochemical oxides.
-
-### 2. Machine Learning Ready Tables
-*   **CSV Files**:
-    *   [Lithology_MLReady_Final.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_Final.csv) (8.6 KB)
-    *   [Lithology_MLReady_AllSamples_Final_FIXED.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_AllSamples_Final_FIXED.csv) (15.6 KB)
-    *   [Lithology_MLReady_AllSamples_Final.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_AllSamples_Final.csv)
-*   **Description**: Cleansed and formatted training arrays merging spectral band reflectances (features) with target lithological class labels, ready to be ingested by classifiers.
-
-### 3. Class Reclassifications & Calibrations
-*   **CSV Files**:
-    *   [Balanced_Lithology_Reclassified.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Reclassified.csv)
-    *   [Balanced_Lithology_Reclassified_v2.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Reclassified_v2.csv)
-    *   [Cluster_XRF_Association.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Cluster_XRF_Association.csv)
-*   **Description**: Mappings linking spectral clusters to distinct geochemical assays and reclassified lithological labels.
-
----
-
-## 📈 Model Performance Logs
-
-These spreadsheets document accuracy comparison results across different model configurations:
-*   [Spectral_ML_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Model_Summary.csv) — Accuracies of classifiers trained on raw spectral reflectances.
-*   [Spectral_ML_Derivative_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Derivative_Model_Summary.csv) — Accuracies of classifiers trained on first-derivative spectra.
-*   [ML_Model_Comparison.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/ML_Model_Comparison.csv) — Overall model parameters log.
-
----
-
-## 🕸️ Relationships & Connections
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Shepelife Project Overview]]
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]]
-*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md
-
----
-date: 2026-06-13
-tags:
-summary: "Inventory of Bruker AMICS Micro-XRF training datasets, file extensions, and instructions for reopening and processing them."
-aliases:
----
-
-
-# Data Asset — UM6P AMICS MicroXRF Training Datasets
-
-## Overview
-The **UM6P AMICS Micro-XRF Training Datasets** represent a collection of calibration files, spectral databases, and raw scans acquired during instrument training sessions held in October 2024. 
-
-* **Source Path**: `file:///D:/XRF training`
-* **Size**: $6.22912\text{ GB}$
-* **Total Files**: $1717$
-
----
-
-## File Type Directory & Purpose
-
-| Extension | Count | Description / Role in Workflow |
-| :--- | :--- | :--- |
-| **`.bcf`** | 14 | **Bruker Raw Hyperspectral Scan**: Large binary files containing the raw spectral data for each mapped pixel (e.g., `LiPegmatite_50kV-600uA-200um-20ms.bcf`, size $354.1\text{ MB}$). |
-| **`.mre`** | — | **AMICS Measurement Result**: Active workspace files converted from `.bcf`. They store the image layer, segment boundaries, and matching results. |
-| **`.spx`** | 39 | **Bruker Spectrum File**: Individual spectra extracted from specific spots (e.g., `Eclogite-Newlands-Cpx (S).spx`). Used to build new mineral standards. |
-| **`.db`** | — | **AMICS Database**: Reference spectrum databases (e.g., `+XRF (+SEP) 50kV 2mbar Chlorite.db`). |
-| **`.lik`** | 21 | **License Key**: Hardware-locked license files enabling AMICS Tool offline processing. |
-| **`.fld`** | 395 | **Field Spatial Coordinates**: Stores spatial reference coordinates for the scanned fields. |
-| **`.fld_xrays`** | 778 | **X-ray Segment Intensities**: Stores integrated X-ray counts per segment. |
-| **`.fld_segData`** | 395 | **Segmentation Boundaries**: Stores polygon coordinates for image segments. |
-
----
-
-## Key Training Datasets
-
-1. **Granite Block mapping**:
-   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part2 Granite/`
-   * Target: Perthitic feldspar and biotite mica.
-2. **Lithium Pegmatite**:
-   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part3 Pegmatite/`
-   * Target: Spodumene, Lepidolite, Petalite, Amblygonite.
-3. **Eclogite Fragments**:
-   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part5 Particle/`
-   * Target: Particle segmentation, epoxy background separation, mineral association.
-4. **Chlorite Database**:
-   * Path: `file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Chlorite.db`
-   * Target: Light element Mg, Al, Si detection under 2 mbar vacuum.
-5. **Carbonates Database**:
-   * Path: `file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Carbonates.db`
-   * Target: Calcite vs. dolomite magnesium-based classification.
-
----
-
-## Workflow: How to Reopen and Process in AMICS
-
-To reopen and re-evaluate these training files in the offline AMICS software suite:
-
-```mermaid
-graph TD
-    A[1. Activate License via AMICS Tool] --> B[2. Convert .bcf to .mre using BcfConverter]
-    B --> C[3. Open .mre in AMICS Process]
-    C --> D[4. Load UserSTD.db Mineral Standards]
-    D --> E[5. Execute Classification & Export Results]
-```
-
-1. **License Activation**:
-   * Open **AMICS Tool**. Click the *License Manager* tab.
-   * Click *Apply*, browse to the active license file (e.g., `[AMICS_License_Key_um6p_abdelaziz_zine.lik](file:///D:/XRF training/AMICS Licences - UM6P/AMICS_License_Key_um6p_abdelaziz_zine(2024_10_07).lik)`), and click *Activate*.
-2. **File Conversion**:
-   * Raw `.bcf` files cannot be processed directly. In **AMICS Tool**, run `BcfConverter` to convert target `.bcf` files to `.mre` format. This will output a `.mre` file and a `.converted` folder containing spatial files.
-3. **Loading Dataset**:
-   * Open **AMICS Process**. Click *Open Result* and select the generated `.mre` file.
-4. **Mineral Standard Setup**:
-   * Click the *Standards* tab. Load the common classification library database (`UserSTD.db`).
-   * Select the target mineral group (e.g., *Au-ore minerals*, *SinoZKHC_V2*, or customize a new group using imported `.spx` files).
-5. **Running Classification**:
-   * Go to *Do Classification Steps*. Set the matching parameters (tolerances, priority lists, and vacuum corrections like *Ignore High KeV*). Click *Classify*.
-6. **Data Exporting**:
-   * Click *Export*. Save the mineral distribution maps as `PNG/BMP/TIF` images, and export the modal mineralogy tables to `XML` (Excel compatible) sheets.
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md
-
----
-tags:
-created: '2026-06-12'
-summary: "Detailed analysis of how the ECOSTRESS Spectral Library was applied in Chapter 1 of the thesis for matching 104 ASD field spectrometer samples."
----
-
-
-# ECOSTRESS Application in Thesis Chapter 1
-
-In Chapter 1 of the thesis (published in *Sensors 2025*), the ECOSTRESS Spectral Library was used as the reference baseline to validate mineralogical identifications of phosphate waste rock samples via reflectance spectroscopy.
-
-## Context and Workflow
-1. **Field Sampling**: Reflectance spectra were measured from **104 representative waste rock samples** from the Benguerir mine using an **ASD FieldSpec 4 spectroradiometer** (spectral range: 350–2500 nm, resampled to a 1 nm step).
-2. **Preprocessing**: Spectra were smoothed using a Savitzky-Golay filter (window size = 7, polynomial order = 2) and min-max normalized to standard range.
-3. **Reference Loading**: Out of the global library, **1,609 ECOSTRESS mineral spectra** representing families relevant to semi-arid phosphate environments were loaded.
-4. **Curation**: A site-specific subset of **15 curated target minerals** was selected for Benguerir:
-   * *Carbonates*: Calcite, Dolomite
-   * *Clays/Silicates*: Illite, Montmorillonite, Kaolinite
-   * *Silica*: Quartz
-   * *Phosphate*: Generic Apatite ($\text{Ca}_5(\text{PO}_4)_3\text{F}$)
-
----
-
-## Spectral Matching Metrics & Performance
-Matching was computed by evaluating similarity between each field-measured spectrum and the reference database across **four distinct metrics**:
-* **RMSE (Root Mean Square Error)**: Measures overall baseline fit and shape similarity (weighted $5\times$ in the $2100-2300\ \text{nm}$ phosphate absorption window).
-* **SAM (Spectral Angle Mapper)**: Measures vector angle deviation, ensuring brightness-invariant shape matching.
-* **SID (Spectral Information Divergence)**: Computes thermodynamic probability divergence to identify subtle band shapes.
-* **$R^2$ (Coefficient of Determination)**: Assesses the proportion of variance explained by the reference spectrum.
-
-### Validation Results (Confirmed against Thesis Manuscript)
-The following matching statistics are confirmed directly by the thesis numbers database in [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy]]:
-* **Mean $R^2$**: $0.748 \pm 0.170$
-* **$R^2 > 0.70$ Frequency**: $84\%$ of measured spectra
-* **Mean RMSE**: $0.15 \pm 0.053$
-* **Median SAM**: $0.134\ \text{rad}$
-* **Median SID**: $0.029$
-
----
-
-## Known Limitations and Mitigations
-1. **Clay Masking**: Strong Al-OH absorption features (~$2200\ \text{nm}$) of clay minerals (illite, montmorillonite) often masked the weaker $\text{PO}_4$ absorption features (~$2150\ \text{nm}$) of apatite, ranking apatite lower in purely spectral rankings (typically 3rd to 7th). This was mitigated by cross-validating with Handheld XRF (HHXRF) elemental assays (P₂O₅ content up to $23.86\ \text{wt}\%$ in apatite-rich samples).
-2. **Library Incompleteness**: The actual phosphate mineral dominant in Benguerir (francolite/carbonate fluorapatite) is absent from the ECOSTRESS library, requiring the use of generic "Apatite" as a spectral proxy.
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming|ECOSTRESS Library File Structure and Naming]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md
-
----
-tags:
-created: '2026-06-12'
-summary: "Description of the directory structure and filename pattern used in the ECOSTRESS Spectral Library."
----
-
-
-# ECOSTRESS Library File Structure and Naming
-
-The physical archive of the ECOSTRESS Spectral Library is structured as a flat folder containing paired spectrum and metadata text files. Understanding this structure is essential for programmatic parsing, filtering, and resampling during preprocessing pipelines.
-
-## Flat Directory Structure
-As registered in the physical drive index note [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib]] at `D:\ecospeclib-1727712223018\`, the library contains **3,105 flat text files** consisting of:
-* **`Manifest.txt`**: A central ledger describing each sample dataset.
-* **Spectrum and Ancillary pairs**: Every specimen is represented by two complementary text files:
-  1. A `.spectrum.txt` file containing the actual numeric measurement data.
-  2. An `.ancillary.txt` file containing metadata about the sample's origin, chemistry, and experimental conditions.
-
----
-
-## Filename Naming Pattern
-The filenames follow a highly structured dot-separated naming convention that encodes key classification hierarchies:
-
-```
-[class].[subclass].[subclass2].[grain_size].[spectral_range].[sample_id].[laboratory].[instrument].[type].txt
-```
-
-### Breakdown of Naming Fields:
-1. **`class`**: Broad taxonomy classification.
-   * *Examples*: `mineral`, `rock`, `soil`, `vegetation`, `nonphotosynthetic`.
-2. **`subclass`**: Geochemical or taxonomy group.
-   * *Examples*: `carbonate`, `silicate`, `phosphate`, `broadleaf`, `conifer`.
-3. **`subclass2`**: Secondary subclass descriptor or `none` if not applicable.
-4. **`grain_size`**: Grain size class.
-   * *Examples*: `coarse`, `medium`, `fine`, `solid`, `none`.
-5. **`spectral_range`**: Wavelength window of the measurement.
-   * *Examples*: 
-     * `vswir`: Visible to Shortwave Infrared ($0.35\ \mu\text{m} - 2.5\ \mu\text{m}$).
-     * `tir`: Thermal Infrared ($2.5\ \mu\text{m} - 15.4\ \mu\text{m}$).
-6. **`sample_id`**: Internal laboratory specimen identifier (e.g., `a-1a`, `t-1a`).
-7. **`laboratory`**: Laboratory of origin.
-   * *Examples*: `jpl` (Jet Propulsion Laboratory), `usgs` (USGS Spectroscopy Lab), `jhu` (Johns Hopkins University).
-8. **`instrument`**: Measuring equipment.
-   * *Examples*: `beckman` (Beckman UV-Vis-NIR spectrometer), `nicolet` (Nicolet FTIR spectrometer), `perkin` (PerkinElmer).
-9. **`type`**: The contents of the text file.
-   * `spectrum.txt`: Contains two columns (typically wavelength/wavenumber in microns and reflectance/emittance as a percentage or fraction).
-   * `ancillary.txt`: Human-readable description, chemical formula, specimen location, and purity assessments.
-
-### Example File Pair:
-* **Spectrum data**: `mineral.phosphate.none.coarse.vswir.a-1a.jpl.beckman.spectrum.txt`
-* **Ancillary metadata**: `mineral.phosphate.none.coarse.vswir.a-1a.jpl.beckman.ancillary.txt`
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md
-
----
-tags:
-created: '2026-06-12'
-summary: "Overview of the ECOSTRESS Spectral Library (formerly ASTER), a comprehensive reference database used for mineral and vegetation spectroscopy."
----
-
-
-# ECOSTRESS Spectral Library
-
-The **ECOSTRESS Spectral Library** is a comprehensive public repository of laboratory-measured reflectance spectra covering a wide spectral range from the Visible to Shortwave Infrared (VSWIR) to the Thermal Infrared (TIR) ($0.35\ \mu\text{m}$ to $15.4\ \mu\text{m}$). It is maintained jointly by NASA's Jet Propulsion Laboratory (JPL) and the USGS.
-
-## Origin and Evolution
-* **ASTER Library roots**: The database evolved from the **ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer) Spectral Library Version 2.0**.
-* **ECOSTRESS expansion**: In support of the ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station) mission launched in June 2018, the library was expanded to include extensive leaf-level and canopy spectra of green vegetation and non-photosynthetic vegetation (NPV). 
-* **Renaming**: With the addition of these biological spectra, the repository was renamed the **ECOSTRESS Spectral Library Version 1.0**.
-
-## Core Content Classes
-The library contains over 3,000 spectra classified into key material types:
-1. **Minerals**: Pure mineral specimens (carbonate, silicate, phosphate, sulfate, etc.) measured under controlled laboratory settings.
-2. **Rocks**: Igneous, metamorphic, and sedimentary rocks.
-3. **Soils**: Various soil types with different moisture and organic contents.
-4. **Vegetation**: Leaf-level spectra (VIS/SWIR and TIR) and non-photosynthetic vegetation (NPV).
-5. **Water, Ice, and Snow**: Reflectance/emittance baselines.
-6. **Man-made Materials**: Concrete, asphalt, paint, and other urban surfaces.
-
-## Significance in the Thesis
-In the context of the thesis (specifically Chapter 1/[[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]), the ECOSTRESS library serves as the master database of reference profiles used to validate and identify mineral groups in physical field samples.
-
-> [!NOTE]
-> * **Thesis Numbers Verification**: The total number of loaded ECOSTRESS spectra for the Chapter 1 pipeline (**1,609 spectra**) has been verified against the thesis numbers database in [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy (Ch.1 ECOSTRESS spectra total loaded)]].
-> * The physical copy of the library on the physical `D:` drive is registered at [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib]] (`D:\ecospeclib-1727712223018`, containing 3,105 files).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming|ECOSTRESS Library File Structure and Naming]]
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
-* [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib Index]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# EnMAP Satellite
-
-## Overview
-EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission operated by the German Aerospace Center (DLR). Used in **Chapter 3** of Abdelhak's thesis for [[Reclamation Monitoring]] at Benguerir mine.
-
----
-
-## Specifications
-
-| Parameter | Value |
-|-----------|-------|
-| Agency | DLR (Germany) |
-| Launch | April 2022 |
-| Orbit | SSO, 653 km altitude |
-| Revisit time | ~27 days (off-pointing: 4 days) |
-| Spectral range | 420–2450 nm (total) |
-| Bands | 242 (total sensor) |
-| Spatial resolution | 30 m |
-| Swath width | 30 km |
-| SNR | >400:1 (VNIR), >150:1 (SWIR) |
-| Data distribution | Free for science users |
-| Data level | L2A surface reflectance |
-
----
-
-## Valid Bands After Preprocessing (from thesis manuscript)
-
-After masking bad bands for the Benguerir scene:
-- **189 valid bands, spanning 418–2445 nm**
-
-| Removed bands | Wavelength | Reason |
-|--------------|-----------|--------|
-| Detector transition | 1342–1391 nm | VNIR/SWIR gap |
-| Water vapor A | 1350–1450 nm | Atmospheric absorption |
-| Water vapor B | 1800–1950 nm | Atmospheric absorption |
-| Structural bad bands | Various | Scene NaN fraction > threshold |
-
-CRS: **EPSG:32629** (WGS84 UTM Zone 29N — Benguerir is ~32°N, 7.8°W)
-
----
-
-## Comparison to PRISMA (Chapter 2)
-
-| Parameter | PRISMA (Ch.2) | EnMAP (Ch.3) |
-|-----------|--------------|--------------|
-| Agency | ASI (Italy) | DLR (Germany) |
-| Launch | 2019 | 2022 |
-| Total bands | ~239 | 242 |
-| Valid bands (thesis) | Used for ML | **189** |
-| Resolution | 30 m | 30 m |
-| SNR | Lower | Higher |
-| Data format | HDF5 | TIF + XML |
-
-**Why EnMAP for Ch.3?** Higher SNR, different acquisition date enabling backfilling impact assessment, dedicated quality masks.
-
----
-
-## Pixel Quality Filtering (from manuscript)
-
-5-step preprocessing:
-1. Spectral masking (189 bands retained)
-2. Pixel flagging: nodata, negative reflectance (<0), saturation (>1.2), EnMAP quality layer
-3. Per-column median destriping (detector striping suppression)
-4. Shapefile alignment to EPSG:32629 via geopandas
-5. Zone pixel balancing: 32 pixels/zone (seed=42), from 49 RZ + 47 RWR valid pixels
-
-**Quality gate (6 criteria):** Valid L2A reflectance, correct wavelength masking, proper nodata/quality processing, ROI-scene overlap, minimum pixel count (both zones > 40 pixels), reflectance in 0–1.2 range. **Both ROI zones contained zero bad pixels.**
-
----
-
-## Role in Thesis (Ch.3) — Summary of Results
-
-**Research question:** Can EnMAP detect and quantify the impact of backfilling on phosphate waste rock surface characteristics?
-
-**Answer from manuscript:**
-- All **189/189** valid bands show statistically significant zone separation (FDR q < 0.05)
-- Median effect size: **r = 0.859** (large)
-- Spatially blocked CV: **BAC = 0.984 ± 0.031; AUC = 1.000**
-- Permutation p = 0.002 (confirms non-random)
-- RPI: RZ=0.896, RWR=0.203, Spearman ρ=0.845
-
-**Conclusion (from thesis):**
-> "EnMAP Level-2A hyperspectral data at 30 m resolution provides sufficient spectral information to reliably discriminate reclaimed from undisturbed phosphate waste rock surfaces."
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[PRISMA Satellite]]
-- [[Reclamation Monitoring]]
-- [[Reclamation Progress Index]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md
-
----
-date: 2026-06-12
-tags:
-summary: "Feilhauer multi-model ensemble method for spectral band importance ranking: combines PLSR, RF, SVM, GPR variable importances weighted by model R²."
-aliases:
----
-
-
-# Ensemble Spectral Band Selection — Feilhauer Method
-
-## What It Is
-
-A model-agnostic band selection framework for hyperspectral data that avoids over-reliance on any single regression method. Published originally by Hannes Feilhauer (Univ. Erlangen-Nürnberg) as supplementary code for a Remote Sensing of Environment paper (`rse09382-mmc`).
-
-## Core Idea
-
-Run multiple regression models on the same spectral dataset, extract their band importance/coefficient profiles, weight each profile by that model's cross-validated R², and sum into a composite "ensemble score." Bands above `mean + sd` of the ensemble score are retained.
-
-## Models Combined
-
-| Model | Variable Importance Source | Typical Strength |
-|-------|---------------------------|-----------------|
-| PLSop | Regression coefficients (jackknife PLSR, onesigma LV selection) | Collinear predictors |
-| PLS | caret PLSR variable importance | Robust cross-validation |
-| RF | %IncMSE (500 trees) | Non-linear interactions |
-| SVR | Pseudo-coefficients from α-vector | SVM decision boundary |
-| GPR | caret Gaussian Process variable importance | Probabilistic uncertainty |
-
-## Ensemble Formula
-
-```
-ensemble_score(b) = Σ_m |coeff_m(b)| × R²_m
-```
-
-All coefficients are first standardized by their standard deviation to make scales comparable across models.
-
-## Output Interpretation
-
-- High ensemble score → band consistently important across multiple model types → robust selection
-- Selected band set is likely to remain stable across different spectral preprocessing choices
-
-## Application Context
-
-Originally developed for vegetation trait mapping from field spectroscopy. Directly applicable to:
-- Mineral abundance prediction from ASD/SVC field spectra
-- PRISMA band subset selection for mineralogical mapping
-- Any hyperspectral regression problem where band redundancy is high
-
-## Implementation
-
-See [[Code — Khalil — Ensemble Band Selection]] for the UM6P-adapted R implementation.
-
-## Links
-
-- [[Code — Khalil — Ensemble Band Selection]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md
-
----
-tags:
-date: 2026-06-13
-summary: "An ensemble machine learning algorithm that trains multiple individual classifiers and predicts labels based on consensus voting."
-aliases:
----
-
-
-# Ensemble Voting Classifier
-
-## Definition
-An **Ensemble Voting Classifier** is a meta-classifier that combines the predictions of multiple individual machine learning models (such as Support Vector Machines, Decision Trees, K-Nearest Neighbors, or Gradient Boosted Trees) to output a single consolidated prediction. By leveraging the consensus of diverse algorithms, it mitigates individual model biases and increases generalization performance.
-
-## How It Works
-Voting classifiers can operate in two primary modes:
-
-### 1. Hard Voting (Majority Rule)
-The meta-classifier counts the predicted class labels from each individual model and predicts the class that receives the majority of votes:
-$$\hat{y} = \arg\max_i \sum_{m=1}^{M} I(C_m(\mathbf{x}) = i)$$
-where $C_m(\mathbf{x})$ is the class predicted by the $m$-th classifier, and $I$ is the indicator function.
-
-### 2. Soft Voting (Weighted Probabilities)
-Each classifier calculates the probability of each class label. The meta-classifier averages these predicted probabilities (optionally with weights $w_m$ per classifier) and assigns the class with the highest average probability:
-$$\hat{y} = \arg\max_i \sum_{m=1}^{M} w_m P(C_m(\mathbf{x}) = i)$$
-Soft voting usually yields better performance than hard voting because it accounts for the models' confidence levels, but it requires that all base classifiers support probability estimation (e.g., `predict_proba`).
-
-```mermaid
-graph TD
-    A["Test Sample (x)"] --> B1["Classifier 1 (SVM)"]
-    A --> B2["Classifier 2 (Random Forest)"]
-    A --> B3["Classifier 3 (XGBoost)"]
-    B1 -->|Probability / Vote| C["Voting Mechanism (Hard/Soft)"]
-    B2 -->|Probability / Vote| C
-    B3 -->|Probability / Vote| C
-    C --> D["Consolidated Prediction (y_hat)"]
-```
-
-## Applications
-In hyperspectral lithological and waste-rock classification, different classifiers have complementary strengths: SVMs handle high-dimensional spaces well, Random Forests are robust to noisy bands, and XGBoost excels at capturing non-linear interactions. An ensemble voting classifier is used in [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) to combine these models, achieving higher classification performance and stability.
-
-## Links
-- [[Code — VLC — ML Models Classifier]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE)]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Feature Selection & Validation Ablation Studies
-
-This note summarizes the ablation studies conducted in Chapter 2 of the thesis to validate the dimensionality reduction framework (ANOVA band selection) and the spatial validation protocol.
-
-> [!WARNING]
-> **Data Discrepancy (Row 24 of Discrepancy Log):** Tables S3, S4, and S5 in the supplementary materials ([supp_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt)) report Extra Trees Spatial BA = **0.693 ± 0.032** and Random Forest Spatial BA = **0.666 ± 0.032**. The canonical defense prep files ([Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L53) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L189)) state that the canonical Chapter 2 BAC range is **0.60–0.67**. Following the Data Truth Hierarchy, the canonical range of **0.60–0.67** is stated as fact, while the revised supplementary values are presented as context.
-
----
-
-## 1. Feature Selection Ablation: Full-Band vs. ANOVA-60 (Table S3)
-
-A comparison was conducted using all spectrally clean bands (**189** bands after atmospheric masking) versus the top **60** ANOVA-selected SWIR bands. Both setups were evaluated under the **30 m** spatially constrained cross-validation (10 repeats × 5 folds = 50 runs).
-
-* **Total Clean Bands**: **189** bands. (Source: [supp_ch2.txt:L136](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L136)).
-* **Selected SWIR Bands**: **60** bands (a **68%** reduction in feature dimensionality). (Source: [supp_ch2.txt:L136,L174](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L136#L174)).
-
-| Model | OA Full-band | OA ANOVA-60 | BA Full-band | BA ANOVA-60 | $\Delta\text{BA}$ (ANOVA - Full) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Random Forest** | 0.628 ± 0.035 | 0.633 ± 0.031 | 0.656 ± 0.036 | 0.666 ± 0.032 | **+0.010** |
-| **Extra Trees** | 0.637 ± 0.033 | 0.653 ± 0.033 | 0.679 ± 0.027 | 0.693 ± 0.032 | **+0.014** |
-| **XGBoost** | 0.609 ± 0.036 | 0.587 ± 0.020 | 0.650 ± 0.035 | 0.637 ± 0.019 | **-0.013** |
-| **SVM** | 0.518 ± 0.049 | 0.576 ± 0.030 | 0.497 ± 0.042 | 0.561 ± 0.029 | **+0.064** |
-| **KNN** | 0.587 ± 0.027 | 0.593 ± 0.028 | 0.610 ± 0.028 | 0.615 ± 0.034 | **+0.005** |
-
-*(Source: [supp_ch2.txt:L143-172 (Table S3)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L143-L172)).*
-
-* **Interpretation**: ANOVA-60 matches or exceeds full-band performance for four out of five classifiers. The most substantial gain occurs for Support Vector Machine ($\Delta\text{BA} = +0.064$), illustrating the sensitivity of margin-based classifiers to the curse of dimensionality. (Source: [supp_ch2.txt:L174](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L174)).
-
----
-
-## 2. Feature Selector Comparison: ANOVA F-Test vs. Mutual Information (Table S4)
-
-To verify the choice of selector, the ANOVA F-test was compared against Mutual Information (MI), both with $k=60$ features selected nested within the cross-validation folds.
-
-| Model | BA (ANOVA F-Test) | BA (Mutual Information) | $\Delta\text{BA}$ (ANOVA - MI) |
-| :--- | :--- | :--- | :--- |
-| **Random Forest** | 0.666 ± 0.032 | 0.668 ± 0.033 | **-0.002** |
-| **Extra Trees** | 0.693 ± 0.032 | 0.683 ± 0.031 | **+0.010** |
-
-*(Source: [supp_ch2.txt:L186-193 (Table S4)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L186-L193)).*
-
-* **Interpretation**: The difference is negligible ($|\Delta\text{BA}| \le 0.010$, within CV standard deviation), validating the use of the ANOVA F-test for its superior computational efficiency and physical interpretability. (Source: [supp_ch2.txt:L195](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L195)).
-
----
-
-## 3. Spatial vs. Random Cross-Validation: Autocorrelation Quantification (Table S5)
-
-A direct comparison evaluated the effect of removing the spatial buffer. All other parameters (5 folds, 10 repeats) were identical.
-
-| Model | OA Random | OA Spatial | BA Random | BA Spatial | $\Delta\text{BA}$ (Random - Spatial) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Random Forest** | 0.635 ± 0.022 | 0.633 ± 0.031 | 0.669 ± 0.021 | 0.666 ± 0.032 | **+0.003** (note: Table S5 text states +0.002 due to rounding) |
-| **Extra Trees** | 0.627 ± 0.039 | 0.653 ± 0.033 | 0.669 ± 0.030 | 0.693 ± 0.032 | **-0.024** (note: Table S5 text states -0.023 due to rounding) |
-| **XGBoost** | 0.580 ± 0.024 | 0.587 ± 0.020 | 0.630 ± 0.027 | 0.637 ± 0.019 | **-0.007** |
-| **SVM** | 0.606 ± 0.013 | 0.576 ± 0.030 | 0.597 ± 0.014 | 0.561 ± 0.029 | **+0.036** (note: Table S5 text states +0.035 due to rounding) |
-| **KNN** | 0.584 ± 0.022 | 0.593 ± 0.028 | 0.616 ± 0.025 | 0.615 ± 0.034 | **+0.001** |
-
-*(Source: [supp_ch2.txt:L209-243 (Table S5)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L209-L243)).*
-
-* **Interpretation**: Unlike typical remote sensing datasets where omitting a spatial buffer causes major optimistic accuracy inflation, the random-minus-spatial gap here is very small ($|\Delta\text{BA}| \le 0.035$) and has no consistent directional bias. This confirms that the **PRISMA Spatial Redundancy Filtering** (deduplication of co-located samples) had already successfully suppressed spatial autocorrelation at the **30 m** pixel scale. (Source: [supp_ch2.txt:L245](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L245)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Gantour Basin and Benguerir Mine Geological Setting
-
-This note describes the geological setting and mining context of the Benguerir mine in the Gantour Basin, which controls the lithological and mineralogical heterogeneity of the phosphate waste rock piles (PWRPs) analyzed in the thesis.
-
----
-
-## 1. Gantour Basin Geological Context
-
-* **Basin Classification**: The Gantour Basin is one of the **four** major phosphatic basins of Morocco. It represents a key component of the North African phosphogenic province. (Source: [section_methods_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L3)).
-* **Location**: Approximately **70 km** northwest of Marrakech. (Source: [section_methods_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L3)).
-* **Depositional Age**: Maastrichtian to Eocene sedimentary sequence. (Source: [section_methods_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L3)).
-* **Lithostratigraphy**: Multiple phosphate beds interbedded with barren limestone, marls, clays, and chert (siliceous horizons), reflecting repetitive marine depositional cycles. (Source: [section_methods_ch2.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L4)).
-
----
-
-## 2. Benguerir Mine Operational Context
-
-* **Operational Area**: The open-pit mine covers approximately **36 km²** and has been in continuous operation since **1976**. (Source: [section_methods_ch2.txt:L5](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L5); area confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L93)).
-* **Stripping Ratio**: An average stripping ratio of **3:1** is reported for the open-pit operations (meaning **3 tons** of waste rock are excavated and stockpiled in piles for every **1 ton** of phosphate ore extracted). (Source: [section_methods_ch2.txt:L5](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L5)).
-* **Production Example (2020)**: Extraction of **4.2 Mt** of phosphate rock corresponded to the generation of approximately **12.3 Mt** of waste rock stored in piles. (Source: [section_methods_ch2.txt:L5](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L5)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
-* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
-* [[04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels|XRD and Petrographic Validation of Classification Labels]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Geochemical Summary Statistics by Lithological Class
-
-This note details the geochemical composition of the four major lithological classes identified in the phosphate waste rock piles (PWRPs) at the Benguerir mine, based on X-ray fluorescence (XRF) analyses of the spatially independent modeling dataset.
-
----
-
-## 1. Geochemical Composition by Class (Table S1)
-
-The following table summarizes the major-oxide concentrations (wt%) obtained from XRF analysis for the **127** spatially independent samples. (Source: [supp_ch2.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L4); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47)).
-
-| Oxide (wt%) | Marl ($n=49$) | Limestone ($n=35$) | Phosphate Rock ($n=23$) | Siliceous Facies ($n=20$) |
-| :--- | :--- | :--- | :--- | :--- |
-| **CaO** | 32.4 ± 8.6 | 47.2 ± 5.3 | 44.8 ± 4.7 | 16.5 ± 8.2 |
-| **SiO₂** | 21.7 ± 11.4 | 9.8 ± 6.1 | 13.2 ± 7.0 | 48.7 ± 12.3 |
-| **P₂O₅** | 5.2 ± 3.9 | 2.4 ± 1.8 | 18.6 ± 4.3 | 4.7 ± 3.2 |
-| **Fe₂O₃** | 2.1 ± 1.0 | 0.9 ± 0.4 | 1.3 ± 0.6 | 2.6 ± 1.2 |
-| **Al₂O₃** | 3.4 ± 1.8 | 1.4 ± 0.8 | 2.0 ± 1.0 | 5.1 ± 2.0 |
-| **MgO** | 1.5 ± 0.6 | 0.8 ± 0.3 | 0.6 ± 0.2 | 1.0 ± 0.5 |
-
-*(Source: [supp_ch2.txt:L13-44 (Table S1)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L13-L44)).*
-
----
-
-## 2. Geological & Mineralogical Interpretation
-
-* **Phosphate Rock**: Characterized by elevated **P₂O₅** content (**18.6 ± 4.3 wt%**), reflecting the dominance of francolite/fluorapatite. (Source: [supp_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L33)).
-* **Limestone**: Distinguished by high **CaO** (**47.2 ± 5.3 wt%**) and low **SiO₂** (**9.8 ± 6.1 wt%**), representing relatively pure carbonate facies. (Source: [supp_ch2.txt:L23-24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L23-L24)).
-* **Siliceous Facies**: Marked by very high **SiO₂** (**48.7 ± 12.3 wt%**) and elevated **Al₂O₃** (**5.1 ± 2.0 wt%**), confirming a high concentration of quartz chert and clay minerals. (Source: [supp_ch2.txt:L40,L43](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L40#L43)).
-* **Marl**: Represents an intermediate clay-carbonate facies, showing moderate **CaO** (**32.4 ± 8.6 wt%**), **SiO₂** (**21.7 ± 11.4 wt%**), and **Al₂O₃** (**3.4 ± 1.8 wt%**). (Source: [supp_ch2.txt:L15-16,L19](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L15-L16#L19)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels|XRD and Petrographic Validation of Classification Labels]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/GrosFichiers-SAADAOUI Collaboration Dataset.md
-
----
-date: 2026-06-13
-tags:
-summary: "Metadata and context for the high-resolution orthophoto and DEM dataset provided by colleague Saadaoui for UM6P Green Park circular economy work."
-aliases:
----
-
-
-# GrosFichiers-SAADAOUI Collaboration Dataset
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| Files | `GrosFichiers - SAADAOUI.zip`, `OrthophotoGreenParc.tif`, `DEM.tif` |
-| Format | Zip archive, GeoTIFF images |
-| Location | [file:///D:/PHD-2nd/GrosFichiers-SAADAOUI/](file:///D:/PHD-2nd/GrosFichiers-SAADAOUI/) |
-| Combined Size | ~15.6 GB |
-| Core Content | High-resolution drone orthophoto and Digital Elevation Model (DEM) |
-
-## Description & Context
-
-This dataset represents a collaboration with colleague **Saadaoui** and was collected in support of the **Green Park** (UM6P experimental site) circular economy and mine reclamation studies, possibly showcased during the EMEC-SMCE Workshop. Due to their large file size, these binary files are kept on the external D-Drive storage and are cataloged here via file links rather than being imported into the active Obsidian vault.
-
----
-
-## Technical Specifications
-
-### 1. High-Resolution Orthophoto (`OrthophotoGreenParc.tif`)
-*   **File Size**: **7.6 GB** (compressed zip copy `GrosFichiers - SAADAOUI.zip` is **7.8 GB**).
-*   **Type**: Multi-spectral/RGB geotagged orthophoto.
-*   **Purpose**: Provides centimetric-scale surface mapping of the Green Park experimental plots to identify vegetation density, soil distribution, and mine waste piles.
-
-### 2. Digital Elevation Model (`DEM.tif`)
-*   **File Size**: **202 MB**
-*   **Description**: Digital Elevation Model extracted from a point cloud (`Nuage de point Sample - 80%_Remove Outliers_DEM.tif`).
-*   **Purpose**: Used to model topographic gradients, erosion patterns, and surface drainage channels across the reclamation trial plots.
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# HHXRF Instrument Parameters & QA-QC
-
-This note documents the instrument parameters and Quality Assurance/Quality Control (QA/QC) protocols established in Chapter 1 of the thesis for elemental analysis using Handheld X-ray Fluorescence (HHXRF).
-
----
-
-## 1. Instrument Specifications & Settings
-*   **Device**: Olympus Vanta M Series Handheld XRF Analyzer. (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
-*   **Sample Setup**: Powdered samples sieved to `< 2 mm` were packed into standard XRF cups and covered with a **4 µm** Prolene® film. (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
-*   **Atmosphere**: Air (no vacuum or helium purging). (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
-*   **Measurement Duration**: Total acquisition time of **90–180 seconds** per sample. (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
-*   **Excitation Conditions**: Dual-beam analysis:
-    *   *Main Beam*: **40–50 kV** (for transition and heavy metals). (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
-    *   *Low-Z Beam*: **10–15 kV** (for light elements like Mg, Al, Si, P, Ca). (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
-
----
-
-## 2. QA/QC & Calibration Protocols
-*   **Calibration Basis**: A user-developed calibration based on matrix types and Certified Reference Materials (CRMs) was employed and regularly verified to correct for potential matrix effects. (Source: [section_methods.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L24)).
-*   **Drift Control**: To mitigate instrument drift and matrix effects during high-throughput analysis, readings and calibrations were verified after approximately every **20** samples. (Source: [section_methods.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L24)).
-*   **Drift Response**: Any deviations were recorded, and the user-developed calibration was adjusted when necessary. This ensured consistency and accuracy across the complete database of **104** samples, particularly for major oxides (CaO, MgO, $P_2O_5$) critical for validating mineral unmixing. (Source: [section_methods.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L24)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response|Reviewer 2 Response]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/HHXRF Major-Oxide Concentration Ranges.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# HHXRF Major-Oxide Concentration Ranges
-
-This note records the major rock-forming oxide concentration ranges measured by handheld XRF (HHXRF) across the **104** waste-rock samples from the Benguerir mine in Chapter 1 of the thesis. (Source: [section_results.txt:L90,L93](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L90#L93)).
-
----
-
-## 1. Major Oxide Ranges Table
-
-The concentration ranges (wt%) measured using the dual-beam Olympus Vanta M Series HHXRF are summarized below:
-
-| Major Oxide | Minimum (wt%) | Maximum (wt%) | Geological Significance in Waste Rock |
-| :--- | :--- | :--- | :--- |
-| **$SiO_2$** | **1.48** | **56.22** | Tracks silica content and flint/chert-bearing horizons. (Source: [section_results.txt:L111,L119](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L111#L119)). |
-| **$Al_2O_3$** | **0.41** | **7.25** | Core indicator of aluminosilicate clay minerals (illite, kaolinite). (Source: [section_results.txt:L112,L120](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L112#L120)). |
-| **$CaO$** | **13.37** | **47.14** | Indicator of carbonate phases (dolomite, calcite) and fluorapatite. (Source: [section_results.txt:L113,L121](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L113#L121)). |
-| **$MgO$** | **1.02** | **28.49** | Core discriminator for dolomite ($CaMg(CO_3)_2$) abundance. (Source: [section_results.txt:L114,L122](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L114#L122)). |
-| **$K_2O$** | **0.082** | **1.379** | Selective proxy for K-bearing dioctahedral clays (primarily illite). (Source: [section_results.txt:L115,L123](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L115#L123)). |
-| **$P_2O_5$** | **0.096** | **23.86** | Tracks residual fluorapatite; maximum reflects rich secondary resource zones. (Source: [section_results.txt:L116,L124](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L116#L124); max value confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L32)). |
-| **$Fe_2O_3$ (total)** | **0.068** | **2.295** | Indicates minor iron oxide/hydroxide accessory phases (goethite/hematite). (Source: [section_results.txt:L117,L125](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L117#L125)). |
-
-These ranges reflect the highly heterogeneous nature of the interbedded waste strata (overburden and interlayers) of the Gantour basin at Benguerir. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
-* [[04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC|HHXRF Instrument Parameters & QA-QC]]
-* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Handheld XRF.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Handheld XRF (HHXRF)
-
-## Definition
-Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quantifies major and trace element concentrations in rocks, soils, and materials by measuring characteristic X-ray fluorescence emission. Combined with [[VNIR-SWIR Spectroscopy]] in Chapter 1, it provides direct elemental chemistry to complement spectral mineralogy.
-
----
-
-## Physical Principle
-
-1. X-ray tube emits primary X-rays → excites atoms in the sample
-2. Each element emits characteristic fluorescence X-rays (unique energy per element)
-3. Energy-dispersive detector records spectrum
-4. Software converts intensities to concentrations using calibration standards
-
-**Key advantage:** Measures elements directly (Ca, P, Fe, Al, Si, K, Mg...) → oxide chemistry (CaO, P₂O₅, Fe₂O₃, etc.)
-
----
-
-## Use in Abdelhak's Thesis
-
-### Chapter 1 (field measurements)
-- Paired with ASD FieldSpec 4 at same sample points
-- 104 samples measured
-- Provides "ground truth" chemistry to validate spectral mineralogy
-- **P₂O₅:** Key indicator of apatite/francolite content
-- **Fe₂O₃:** Iron oxide quantification
-- **Al₂O₃:** Clay mineral content proxy
-- **CaO:** Carbonate content proxy
-
-### Chapter 3 (XRF linkage in EnMAP analysis)
-- XRF data from managed zone (RZ) and unmanaged zone (RWR) samples
-- Linked to EnMAP pixels by GPS coordinates
-- Spearman correlation between VCA endmember abundances and XRF oxides
-- Used to calibrate the RPI ([[Reclamation Progress Index]])
-- Target oxides: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
-
----
-
-## XRF Data Files in Thesis
-- `Analyse XRF P (abdelhak) VL.xlsx` — field XRF data for all samples
-- `Copie de Managed zone.csv` (OneDrive) — XRF for RZ zone
-- `Copie de Unmanaged zone.csv` (OneDrive) — XRF for RWR zone
-
----
-
-## Limitations of HHXRF
-
-| Limitation | Impact |
-|------------|--------|
-| Surface measurement only (~2mm depth) | May not represent bulk mineralogy |
-| Matrix effects | Accuracy lower for light elements (Mg, Al, Na) |
-| No structural info | Cannot distinguish polymorphs (calcite vs. aragonite) |
-| Calibration dependent | Field conditions vs. laboratory calibration |
-| Moisture sensitivity | Wet samples give different readings |
-
-**Why combine with spectroscopy?**
-HHXRF gives chemistry; spectroscopy gives mineralogy. Together: P₂O₅ → confirms phosphate content; Al-OH spectral feature → confirms clay mineralogy. Cross-validation strengthens both.
-
----
-
-## HHXRF vs. Laboratory XRF
-| Feature | HHXRF | Lab XRF |
-|---------|-------|---------|
-| Speed | Seconds per point | Minutes per sample |
-| Portability | Yes | No |
-| Detection limits | Higher (1–10 ppm) | Lower (0.1–1 ppm) |
-| Accuracy | Good for major elements | Excellent |
-| Cost | No sample prep | Fusion bead prep |
-| Use | Field reconnaissance | Laboratory validation |
-
----
-
-## Key Result
-The HHXRF-spectroscopy integration (Chapter 1) demonstrated that:
-- Spectral matching alone underestimates apatite (clay masking effect)
-- HHXRF P₂O₅ directly reveals phosphate content independently of surface spectral response
-- Combined approach achieves better characterization than either method alone
-- Published: Sensors 2025, doi:10.3390/s26010002
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Mineral Assemblages]]
-- [[Phosphate Mine Waste]]
-- [[Reclamation Progress Index]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Hyperspectral Imaging
-
-## Definition
-Hyperspectral imaging (HSI) acquires continuous spectral information across hundreds of narrow, contiguous wavelength bands (typically 5–10 nm bandwidth) across a spatial scene. Unlike multispectral sensors (3–10 wide bands), hyperspectral sensors resolve diagnostic spectral features that identify specific mineral, vegetation, or material compositions.
-
-**Synonym:** Imaging spectroscopy
-
----
-
-## Key Characteristics
-
-| Feature | Multispectral | Hyperspectral |
-|---------|--------------|---------------|
-| Bands | 3–10 | 100–500+ |
-| Bandwidth | 50–200 nm | 5–15 nm |
-| Spectral range | Selective | Contiguous |
-| Data volume | Small | Large (hypercube) |
-| Mineral ID | Indirect | Direct |
-
-**Hypercube:** The data structure is a 3D array (x pixels × y pixels × λ bands). Each pixel contains a full reflectance spectrum.
-
----
-
-## Spectral Range in Abdelhak's Thesis
-
-| Range | Acronym | Wavelength | Key diagnostics |
-|-------|---------|-----------|----------------|
-| Visible | VIS | 400–700 nm | Fe3+ electronic transitions |
-| Near-infrared | NIR | 700–1000 nm | Vegetation red edge, Fe2+ |
-| Shortwave infrared | SWIR | 1000–2500 nm | Molecular overtones: OH, CO3, PO4 |
-| Combined | VNIR+SWIR | 400–2500 nm | Full diagnostic window |
-
----
-
-## Sensors in Abdelhak's Research
-
-| Sensor | Type | Bands | Resolution | Used in |
-|--------|------|-------|-----------|---------|
-| ASD FieldSpec 4 | Field spectrometer | ~2100 bands | 1 nm (resampled) | Ch.1 (104 field samples) |
-| PRISMA | Satellite | 239 bands | 30 m | Ch.2 (mineral mapping) |
-| EnMAP | Satellite | 242 bands | 30 m | Ch.3 ([[Reclamation Monitoring]]) |
-
----
-
-## Why Hyperspectral for Mining?
-
-- **Mineral fingerprinting:** Every mineral has a unique spectral signature driven by electronic and vibrational processes
-- **Non-destructive:** Remote sensing avoids the cost/time of physical sampling
-- **Spatial coverage:** Satellite HSI covers entire mine sites in one pass (36 km² Benguerir = tens of thousands of pixels)
-- **[[Reclamation Monitoring]]:** Multi-temporal analysis tracks vegetation recovery and mineralogical change over time
-
----
-
-## Diagnostic Absorption Features (Benguerir context)
-
-| Feature | Wavelength | Mineral |
-|---------|-----------|---------|
-| CO₃ combination | ~2320 nm | Calcite, dolomite |
-| Al-OH | ~2200 nm | Illite, kaolinite |
-| Mg-OH | ~2330 nm | Dolomite, chlorite |
-| PO₄ | ~2150 nm | Apatite (fluorapatite) |
-| Fe3+ | ~500 nm, ~680 nm | Iron oxides (hematite, goethite) |
-| OH stretch | ~1400, ~1900 nm | Water, hydroxyl minerals |
-
----
-
-## Limitations
-
-- **Mixed pixels:** At 30 m resolution, each pixel averages contributions from multiple minerals/materials → requires spectral unmixing
-- **Atmospheric effects:** Water vapor absorption at ~1350–1450 nm and ~1800–1950 nm blocks parts of SWIR
-- **Detector overlap:** VNIR-SWIR transition zone (~880–1050 nm) has lower SNR in both PRISMA and EnMAP
-- **Spectral library completeness:** Matching requires reference spectra for every expected mineral; fluorapatite/francolite underrepresented in ECOSTRESS
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Spectral Library Matching]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[PRISMA Satellite]]
-- [[EnMAP Satellite]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Integrated Sample-Level Mineralogical-Geochemical Profiles
-
-To validate the VNIR–SWIR linear unmixing model and handheld XRF (HHXRF) database in Chapter 1, **11** representative waste-rock samples were selected for detailed mineralogical-geochemical profiling across four compositional families. (Source: [section_results.txt:L141](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L141)).
-
----
-
-## 1. Carbonate-Rich Profiles (Dolomitic Matrix)
-These samples show high dolomite spectral abundance and elevated alkaline earth oxide chemistry:
-*   **Sample VL401**: **~78%** dolomite spectrally; combined CaO + MgO = **36.5 wt%** (representing a massive dolomitic waste rock). (Source: [section_results.txt:L143](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L143)).
-*   **Sample VL400**: **~85%** dolomite spectrally; combined CaO + MgO = **36.25 wt%**. (Source: [section_results.txt:L143](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L143)).
-*   **Sample VL02**: **>50%** dolomite spectrally; combined CaO + MgO = **34.91 wt%**. (Source: [section_results.txt:L143](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L143)).
-
----
-
-## 2. Clay-Dominated Profiles (Illite-Bearing Clays)
-These profiles demonstrate the correlation of the Al-OH feature (~2200 nm) with potassium concentrations:
-*   **Sample VL83**: **75%** illite spectrally; K₂O = **0.5 wt%**. (Source: [section_results.txt:L145](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L145)).
-*   **Sample VL421/24** (Clay end): **>60%** illite spectrally; K₂O = **1.37 wt%**. (Source: [section_results.txt:L145](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L145)).
-
----
-
-## 3. Phosphate-Rich Profiles (Fluorapatite Enrichment)
-These samples show distinct PO₄ inflections near ~2150 nm, validated by high phosphate chemistry:
-*   **Sample VL421/24** (Phosphate end): **~40%** fluorapatite spectrally; HHXRF P₂O₅ = **23.86 wt%** (representing an extremely rich residual zone). (Source: [section_results.txt:L147](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L147)).
-*   **Sample VL62**: **50%** fluorapatite spectrally; P₂O₅ = **18.19 wt%**. (Source: [section_results.txt:L147](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L147)).
-*   **Sample VL430**: **50%** fluorapatite spectrally; P₂O₅ = **15.72 wt%**. (Source: [section_results.txt:L147](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L147)).
-
----
-
-## 4. Mixed Assemblage Profiles (Balanced Mineralogy)
-These profiles capture multi-phase mixtures with co-occurring dolomite (~40–55% spectrally), illite (~25–40% spectrally), and fluorapatite (~5–15% spectrally):
-*   **Sample VL439**: CaO + MgO = **38.6 wt%**, K₂O = **0.7 wt%**, P₂O₅ = **14.21 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
-*   **Sample VL18**: CaO + MgO = **42.0 wt%**, K₂O = **0.37 wt%**, P₂O₅ = **5.8 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
-*   **Sample VL424**: CaO + MgO = **34.0 wt%**, K₂O = **0.35 wt%**, P₂O₅ = **5.1 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
-*   **Sample VL448**: CaO + MgO = **31.5 wt%**, K₂O = **0.41 wt%**, P₂O₅ = **7.0 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
-* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
-* [[04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1|Linear Spectral Unmixing (NNLS) in Chapter 1]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Linear Spectral Unmixing (NNLS) in Chapter 1
-
-In Chapter 1 of the thesis (published in *Sensors* 2025), **Non-Negative Least Squares (NNLS) Linear Spectral Unmixing** was applied to estimate the relative mineral abundances of the **104** waste-rock samples from their VNIR–SWIR reflectance curves.
-
----
-
-## 1. Model Formulation & Constraints
-The measured reflectance spectrum $R(\lambda)$ is modeled as a linear combination of reference mineral endmember spectra:
-
-$$R(\lambda) = \sum_{i=1}^{n} a_i \cdot E_i(\lambda) + \varepsilon(\lambda)$$
-
-Where:
-*   $R(\lambda)$ is the measured reflectance at wavelength $\lambda$. (Source: [section_results.txt:L69](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L69)).
-*   $E_i(\lambda)$ is the reference spectrum for mineral endmember $i$. (Source: [section_results.txt:L70](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L70)).
-*   $a_i$ is the estimated abundance (fractional share) of mineral $i$. (Source: [section_results.txt:L71](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L71)).
-*   $\varepsilon(\lambda)$ is the residual error. (Source: [section_results.txt:L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L72)).
-*   $n$ is the number of selected endmembers. (Source: [section_results.txt:L73](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L73)).
-
-### Physical Constraints:
-1.  **Non-Negativity Constraint**: $a_i \ge 0$ for all $i$ to prevent negative mineral abundances. (Source: [section_results.txt:L75-76](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L75-L76)).
-2.  **No Sum-to-One Constraint**: A sum-to-one constraint was *not* applied during the regression. This allowed the model to handle the potential presence of unmodeled minor phases without artificially inflating major mineral abundances. (Source: [section_results.txt:L76](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L76)).
-
----
-
-## 2. Abundance Ranges Derived (Cohort-Scale)
-The unmixing model resolved marked mineralogical heterogeneity across the **104** samples:
-*   **Dolomite**: ranged from **<10%** to **>85%** abundance. (Source: [section_results.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L78)).
-*   **Illite**: ranged from **trace** to **~45%** abundance. (Source: [section_results.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L79)).
-*   **Montmorillonite**: resolved up to **25%** abundance. (Source: [section_results.txt:L80](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L80)).
-*   **Kaolinite**: resolved up to **40%** abundance. (Source: [section_results.txt:L81](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L81)).
-*   **Fluorapatite**: resolved up to **20%** abundance. (Source: [section_results.txt:L82](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L82)).
-*   **Quartz**: generally resolved at **<10%** abundance. (Source: [section_results.txt:L83](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L83)).
-
----
-
-## 3. Residual Audits & Validation
-*   **Endmember Curation**: The candidate set was limited to a site-specific mineral library representing expected phases (quartz, calcite/dolomite, illite/kaolinite/montmorillonite/smectite, fluorapatite). (Source: [section_methods.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L34); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
-*   **Candidate Selection**: For each sample, the top **4–5** candidate minerals identified during library matching were selected as endmembers for regression. (Source: [section_methods.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L34); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
-*   **Residual Inspections**: Post-fit residuals $\varepsilon(\lambda)$ were audited. Cases with structured residuals near diagnostic absorption bands (indicating unmodeled phases or non-linear scattering effects) were flagged as approximate and interpreted qualitatively rather than quantitatively. (Source: [section_methods.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L34); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
-* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
-* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Lithological Classifier Configurations & Baseline Models
-
-This note documents the configurations, hyperparameters, and baseline models evaluated in Chapter 2 of the thesis to classify the **127** spatially independent waste rock samples into the **4** lithological classes. (Source: [section_methods_ch2.txt:L77-78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L77-L78)).
-
----
-
-## 1. Class Distribution & Balancing
-Due to moderate class imbalance in the refined dataset:
-*   **Class Distribution**: Marl (**38.6%**, $n = 49$), Limestone (**27.6%**, $n = 35$), Phosphate rock (**18.1%**, $n = 23$), and Siliceous facies (**15.7%**, $n = 20$). (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L40)).
-*   **Balancing Action**: The hyperparameter `class_weight = balanced` was applied to all supporting classifiers to adjust weights inversely proportional to class frequencies. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L43)).
-
----
-
-## 2. Model Parameters
-The model parameters for the five original classifiers and two baseline models are detailed below:
-
-*   **Random Forest (RF)**: `n_estimators = 100`, `class_weight = balanced`, `random_state = 42`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
-*   **Extra Trees (ET)**: `n_estimators = 100`, `class_weight = balanced`, `random_state = 42`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
-*   **XGBoost**: `eval_metric = mlogloss`, `random_state = 42`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
-*   **Support Vector Machine (SVM)**: `C = 10`, `kernel = rbf`, `probability = True`, `class_weight = balanced`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
-*   **K-Nearest Neighbors (KNN)**: `n_neighbors = 5`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
-*   **LightGBM Baseline**: `n_estimators = 200`, `learning_rate = 0.05`, `class_weight = balanced`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
-*   **Spectral Angle Mapper (SAM) Baseline**: A parameter-free classical hyperspectral classifier that assigns pixels based on minimum spectral angle relative to training mean spectra. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_1_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L37)).
-
----
-
-## 3. Deep Learning Exclusion
-Deep learning architectures (e.g., 1D-CNN, transformers) were explicitly excluded from the study. The refined dataset of **127** unique modeling samples yields only **20–49** samples per class. Training deep convolutional networks on this sample size under Spatial CV would produce severe underfitting and validation instability. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_1_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L37)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2)|Reviewer 1 Response (Chapter 2)]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)|Reviewer 3 Response (Chapter 2)]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Maastrichtian-Eocene Phosphatic Sequences
-
-The sedimentary phosphate deposits of Morocco are part of a continuous, mega-sedimentary cycle extending from the late Cretaceous (**Maastrichtian**) to the middle Eocene (**Lutetian**), spanning approximately 35 million years.
-
----
-
-## 1. Paleogeographic Framework
-During the Maastrichtian-Lutetian, Morocco was covered by a shallow, epicontinental sea connected to the southern Tethys Ocean. This sea formed several shallow gulfs (basins) separated by Paleozoic basement highs (such as the Rehamna and Jbilet massifs). 
-
----
-
-## 2. Chronostratigraphic Succession
-The phosphatic series exhibits a distinct vertical succession reflecting repetitive transgressive-regressive marine cycles:
-
-| Geological Stage | Depositional Facies & Lithology | Mining Terminology (Gantour) |
-|------------------|---------------------------------|-----------------------------|
-| **Lutetian** (Middle Eocene) | Dalle carbonatée (dolomitic limestone) marking the regression and cessation of phosphatogenesis. | Dalle à Thersitée |
-| **Ypresian** (Early Eocene) | Marno-siliceous series with thin, high-grade coarse sandy phosphates. | Sillon B |
-| **Thanetian** (Late Paleocene) | Fine silty phosphates, marnes, and clays. | Sillon A (A1, A2, A3) |
-| **Danian** (Early Paleocene) | Massive meuble phosphates, often calcified. | Couche 1-0 |
-| **Maastrichtian** (Late Cretaceous) | Thick, fossiliferous marls, clays, and phosphatic layers with abundant chert (silex) beds. | Couches 6, 5, 4, 3, 2 |
-
----
-
-## 3. Lateral Facies Variations
-The thickness and facies of these sequences vary dramatically across basins:
-* **Gantour Basin**: The Maastrichtian is exceptionally thick and fossiliferous, divided into six distinct mining layers.
-* **Ouled Abdoun Basin**: The Maastrichtian exhibits a lateral thinning from the south (El Borouj, 5 layers) to the north (Khouribga, where it is reduced to a single layer, Couche 3).
-
----
-
-## Related Notes
-- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
-* [[04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting|Gantour Basin and Benguerir Mine Geological Setting]]
-- [[04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015|Badioui & Kalombo (2015)]]
-- [[04_Knowledge Base/wiki/sources/elhaddiSilicificationsSeriePhosphate2014|El Haddi (2014)]]\n
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md
-
----
-tags:
-created: '2026-06-05'
----
-
-
-# Machine Learning for Hyperspectral Classification
-
-## Context in Thesis
-Chapter 2 applies supervised machine learning to [[PRISMA Satellite]] data for lithological mapping of phosphate waste rocks. The goal: classify pixels into lithological classes using field-validated training samples.
-
-**Paper:** Accepted in *Minerals* 2026 (IF 2.2) ✅
-
-> ⚠️ **Source of truth:** All numbers in this file are from the thesis manuscript. Conference abstract metrics (IGARSS 2025, EGU 2025) are from earlier experimental work and are NOT thesis results.
-
----
-
-## Samples and Classes (Chapter 2)
-
-| Step | Count | Details |
-|------|-------|---------|
-| Total field samples | 207 | Collected across Benguerir waste rock piles |
-| Removed (shared pixels) | 80 | Same 30m PRISMA pixel footprint — removed to prevent spectral leakage |
-| **Spatially independent samples** | **127** | Used for machine learning |
-| XRD subset | 20 | Representative subset for mineralogical validation |
-| XRF subset | 207 | All samples measured |
-
-**4 Lithological Classes:**
-1. **Phosphate rock** — carbonate fluorapatite-rich facies
-2. **Siliceous facies** — quartz-dominated
-3. **Marl** — clay-rich carbonate
-4. **Limestone** — calcite/dolomite-dominated
-
----
-
-## Models Tested
-
-| Model | Best performer? | Notes |
-|-------|----------------|-------|
-| **Extra Trees** | ✅ Yes | Most stable; best BAC |
-| **Random Forest** | ✅ Yes | Close second |
-| XGBoost | Competitive | More sensitive to spatially structured data |
-| SVM | Strong AUC | Lower BAC in complex multi-class setting |
-| KNN | Baseline | Instance-based |
-
-All evaluated under identical spatially constrained CV.
-
----
-
-## Feature Selection — ANOVA within CV Folds
-
-**Critical: nested inside each CV fold — no data leakage.**
-
-```
-For each CV fold:
-  1. Fit ANOVA F-test on training split only
-  2. Select top 60 SWIR bands
-  3. Train classifier on selected features
-  4. Evaluate on test split (unseen, spatially isolated data)
-```
-
-- **Why 60 bands?** Empirically selected via nested CV; captures CO₃, Al-OH, Mg-OH, PO₄ features
-- **Why SWIR?** Molecular absorptions for carbonate/clay/phosphate minerals are in SWIR
-
----
-
-## [[Spatially Constrained Cross-Validation]]
-
-- 30m buffer between train and test (= 1 PRISMA pixel)
-- 10 independent replicates
-- Prevents spatial autocorrelation from inflating accuracy
-
----
-
-## Key Results (Thesis Ch.2 — from manuscript)
-
-| Metric | Value |
-|--------|-------|
-| Best models | Extra Trees, Random Forest |
-| **BAC (balanced accuracy)** | **0.60–0.67** |
-| **AUC (carbonate classes: Marl, Limestone)** | **> 0.95** |
-| AUC (Phosphate rock, Siliceous facies) | Lower — spectral overlap at 30m |
-| Spatially independent samples | 127 |
-| CV scheme | Spatially constrained, 30m buffer, 10 replicates |
-| Feature selection | Top 60 SWIR bands (ANOVA, nested in CV) |
-
-**Class discrimination pattern:**
-- Marl and Limestone: excellent discrimination (AUC > 0.95) — carbonate contrast is clear
-- Phosphate rock vs. Siliceous facies: lower discrimination — spectral overlap at 30m scale reflects sub-pixel mixing
-
----
-
-## [[Shannon Entropy Uncertainty]]
-- Uncertainty is spatially structured — concentrated at lithological boundaries and in mixed phosphate-siliceous zones
-- This is geologically meaningful: exactly where sub-pixel mixing is expected
-- Operationally: high-entropy zones = where additional field investigation is warranted
-
----
-
-## The 0.60–0.67 BAC: Context for Defense
-
-This is the correct, peer-reviewed result representing true spatial generalization. The physically constrained upper bound on classification at 30m resolution with spatially clustered training data. The thesis manuscript states:
-
-> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
-
-**Do NOT confuse with:** The OA=0.92 figure in the IGARSS 2025 and EGU 2025 conference abstracts. Those are from earlier experimental work using a different framework (CNN+SHAP) and are not the thesis results submitted for defense.
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[PRISMA Satellite]]
-- [[Spatially Constrained Cross-Validation]]
-- [[Shannon Entropy Uncertainty]]
-- [[Mineral Assemblages]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md
-
----
-date: 2026-06-13
-tags:
-summary: "Micro-X-ray Fluorescence (Micro-XRF) spectroscopy for non-destructive, high-resolution elemental mapping of geological samples."
-aliases:
----
-
-
-# Micro-XRF Spectroscopy
-
-## Definition
-**Micro-XRF** (Micro-X-ray Fluorescence) is a non-destructive elemental analysis technique that utilizes capillary optics to focus primary X-rays onto a small spot on a sample surface (typically $10\text{ to }100\ \mu\text{m}$). It maps major, minor, and trace element abundances down to parts-per-million ($\text{ppm}$) levels.
-
----
-
-## Comparison: Micro-XRF vs. SEM-EDS
-
-Automated mineralogy (AMICS) can be performed on both Micro-XRF and Scanning Electron Microscopy (SEM) platforms. The choice between them represents a trade-off between **analytical scale** and **spatial resolution**:
-
-| Feature | Micro-XRF (e.g., Bruker M4 TORNADO) | SEM-EDS |
-| :--- | :--- | :--- |
-| **Spatial Resolution** | $10\text{ to }100\ \mu\text{m}$ (coarser) | Sub-micron ($<1\ \mu\text{m}$) (extremely fine) |
-| **Sample Preparation** | None or minimal (direct scans on cut cores, hand specimens) | High (requires polished thin sections, carbon coating) |
-| **Sample Size / Area** | Large (decimeter scale, entire drill core trays up to $800 \times 600\text{ mm}^2$) | Small (typically limited to $30 \times 20\text{ mm}^2$ thin sections) |
-| **Destructiveness** | Non-destructive (sample is preserved) | Destructive (requires cutting and grinding) |
-| **Detection Limits** | Down to $10\text{ ppm}$ (excellent for trace element zoning) | Down to $\sim 1000\text{ ppm}$ ($0.1\text{ Wt}\%$) |
-| **Light Element Analysis** | Requires vacuum (e.g., $2\text{ mbar}$ or Helium flush) | Standard under high vacuum |
-
----
-
-## Key Advantages for Mining & Exploration
-
-1. **Multi-Scale In-Situ Core Logging**:
-   * Bridges the gap between geological field mapping (macro-scale) and laboratory thin-section petrography (micro-scale).
-   * Allows continuous scanning of cut drill core sections (e.g., $60\text{ cm}$ sections) directly in core trays to map element distributions (such as cobalt mineralization or iron-magnesium alteration bands).
-2. **Trace Element Deportment**:
-   * Lower detection limits allow mapping of trace elements (like Cobalt or Lithium) within host minerals (e.g., cobalt in pyrite or lithium in pegmatite phases).
-3. **No Charging Effects**:
-   * Unlike SEM, Micro-XRF does not require a conductive carbon coating, allowing raw hand specimens and mineralized veins to be mapped directly.
-
----
-
-## Application in Abdelhak's Thesis
-While Abdelhak's thesis primarily integrates **[[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF (HHXRF)]]** with VNIR-SWIR field spectroscopy to calibrate remote sensing indices, the Micro-XRF calibration datasets (e.g., from the AMICS training sessions) serve as the instrumentation baseline. They demonstrate how micro-scale elemental abundance maps validate the macro-scale spectral predictions of minerals like chlorite, carbonates, and phosphates.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
-* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# Mineral Assemblages — Benguerir Phosphate Waste
-
-## Overview
-The mineral assemblage of Benguerir phosphate waste rock reflects the sedimentary phosphate deposit geology: marine carbonate-fluorapatite (francolite) in a carbonate-siliceous gangue, with secondary clay mineral weathering products.
-
----
-
-## Primary Ore Minerals
-
-### Fluorapatite Ca₅(PO₄)₃F
-- End-member formula; rarely pure in sedimentary phosphates
-- **Spectral signature:** PO₄ combination tone ~2150 nm (weak feature)
-- **Diagnostic use:** Present in library as "Apatite Ca₅(PO₄)₃F"; detected at rank 3–7
-
-### Francolite (Carbonate Fluorapatite)
-- **Formula:** Ca₅[(PO₄)(CO₃)]₃F — partial substitution of CO₃ for PO₄
-- The **actual dominant phosphate mineral** in [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]] deposits
-- Hybrid PO₄ + CO₃ signature → harder to distinguish spectrally from calcite
-- **NOT in ECOSTRESS library** — key limitation of spectroscopy approach
-- Confirmed via XRD
-
----
-
-## Carbonate Gangue
-
-### Calcite CaCO₃
-- Very common in phosphate sequences (marine origin)
-- Strong CO₃ combination at **2320 nm**
-- Often rank 5–7 in spectral matching (weaker than clay Al-OH)
-- Confirmed via XRD peak at 29.4° 2θ
-
-### Dolomite CaMg(CO₃)₂
-- Characteristic Mg-OH feature at **2330 nm**
-- Often rank 3–4 in spectral matching
-- Present in both managed and unmanaged zones
-
----
-
-## Clay Gangue (Surface Dominant)
-
-### Illite (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀[(OH)₂,H₂O]
-- Most spectrally dominant clay
-- **Al-OH doublet: 2160 nm + 2205 nm** (diagnostic, strong)
-- **Rank 1–2 in spectral matching** for most samples
-- Formed by weathering of feldspar and volcanic ash layers
-- Confirmed via XRD
-
-### Kaolinite Al₂Si₂O₅(OH)₄
-- Al-OH at **2200 nm** (sharp doublet at 2163 + 2206 nm distinguishes from illite)
-- Lower abundance than illite at Benguerir
-- Confirmed via XRD
-
-### Montmorillonite (Smectite) (Na,Ca)₀.₃₃(Al,Mg)₂Si₄O₁₀(OH)₂·nH₂O
-- Swelling clay; Al-OH at ~2205 nm
-- Strong water absorption at 1900 nm (water molecules in interlayer)
-- Rank 1–2 alongside illite
-- Problematic for remote sensing: expands/contracts with moisture
-
----
-
-## Silica Gangue
-
-### Quartz SiO₂
-- Essentially featureless in SWIR (no molecular absorptions)
-- Detected via spectral background / contrast
-- Rank 3–4 in some samples
-- Confirmed via XRD sharp peak at 26.6° 2θ
-
----
-
-## Iron Oxide Accessories
-
-### Hematite α-Fe₂O₃ / Goethite α-FeOOH
-- Not major phases but spectrally visible
-- Fe3+ electronic transitions: shoulder ~500 nm, crystal field ~680 nm
-- Source: lateritic weathering of primary minerals
-- Tracked in `enmap_reclamation_engine_v2.py` feature catalogue
-
----
-
-## Spectral Dominance Hierarchy
-At surface expression (field + satellite scale):
-```
-Clays (Illite > Montmorillonite) >
-Carbonates (Dolomite > Calcite) >
-Iron Oxides >
-Silica (Quartz) >
-Phosphates (Apatite/Francolite)
-```
-Phosphates are mineralogically important but spectrally suppressed by surface clay coatings → requires HHXRF + XRD for reliable quantification.
-
----
-
-## XRD Validation
-XRD (X-ray diffraction) provides direct mineralogy:
-- Peak at 29.4° 2θ → calcite
-- Peak at 26.6° 2θ → quartz
-- Peaks at ~7° and ~3.5° → illite/smectite
-- Peaks at ~7.1° → kaolinite
-- Peaks at ~7° broad → fluorapatite (overlaps with clay)
-
-Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative samples.
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Spectral Library Matching]]
-- [[Phosphate Mine Waste]]
-- [[Handheld XRF]]
-- [[Gantour Basin]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md
-
----
-tags:
-date: 2026-06-13
-summary: "A basic supervised classification algorithm that assigns a sample to the class whose mean centroid is closest in feature space."
-aliases:
----
-
-
-# Minimum Distance Classifier
-
-## Definition
-The **Minimum Distance Classifier (MDC)** is a simple, computationally efficient supervised classification algorithm used in pattern recognition and remote sensing. It assigns an unclassified pixel or sample vector to the class whose mean vector (centroid) is closest in the multi-dimensional feature space.
-
-## How It Works
-The algorithm consists of two phases:
-
-### 1. Training Phase
-Compute the mean vector (centroid) $\mathbf{m}_c$ for each class $c$ using its training samples:
-$$\mathbf{m}_c = \frac{1}{N_c} \sum_{i=1}^{N_c} \mathbf{x}_i^{(c)}$$
-where $N_c$ is the number of training samples for class $c$, and $\mathbf{x}_i^{(c)}$ is the $i$-th training vector of class $c$.
-
-### 2. Classification Phase
-For an unknown test sample $\mathbf{x}$, compute the distance to each class centroid $\mathbf{m}_c$. Typically, **Euclidean distance** is used:
-$$d(\mathbf{x}, \mathbf{m}_c) = \|\mathbf{x} - \mathbf{m}_c\|_2 = \sqrt{\sum_{j=1}^{D} (x_j - m_{c,j})^2}$$
-where $D$ is the dimensionality of the feature space.
-
-Assign $\mathbf{x}$ to the class $c^*$ that minimizes this distance:
-$$c^* = \arg\min_c d(\mathbf{x}, \mathbf{m}_c)$$
-
-```mermaid
-graph TD
-    A["Compute Class Centroids (m_c)"] --> B["Compute Distances d(x, m_c) for Test Point"]
-    B --> C["Find Minimum Distance c* = argmin d(x, m_c)"]
-    C --> D["Assign Class label c* to Test Point"]
-```
-
-## Applications
-While MDC lacks the sophisticated boundary optimization of Support Vector Machines (SVM) or Random Forests, it serves as a robust baseline classifier. It performs well when classes are spectrally distinct, compact, and isotropic. 
-
-In the bibliometric study co-authored with Hamza Zine, a Python implementation of the Minimum Distance Classifier is used in [CODE.py](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/Actualiser/CODE.py) alongside SVM, KNN, and Random Forest models to classify lithology based on coordinates.
-
-## Links
-- [[Code — Bibliometric — Paper Visualizations and ML]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Muglight Replicate-Stability Gate.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Muglight Replicate-Stability Gate
-
-The **Muglight Replicate-Stability Gate** is a quality control protocol implemented during VNIR–SWIR spectral data acquisition in Chapter 1 of the thesis to ensure instrument stability, repeatability, and minimize scattering/illumination effects under diffuse reflectance geometry.
-
----
-
-## 1. Protocol Workflow
-Before commencing spectral measurements on mine waste rock samples, a Muglight-specific replicate-stability gate was executed:
-1.  **Reference Standard Replicates**: At the start of each analytical session, the operator acquired **5** replicate spectra of the internal reference standard under identical Muglight conditions. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45)).
-2.  **Acceptance Threshold**: The percent variation across the **5** replicates was computed relative to the replicate mean across the entire spectrum. The session was accepted only if the variation was **≤ 6%**. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45)).
-3.  **System Re-stabilization**: If the variation exceeded **6%**, measurements were halted, and the system was re-stabilized using the following steps:
-    *   Enforce a lamp warm-up period of **≥ 30 min**. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
-    *   Inspect and clean the Muglight window. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
-    *   Calibrate against a fresh Spectralon panel white reference (reflectance **> 99%**). (Source: [section_methods.txt:L15,L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L15#L17)).
-    *   Ensure leveled, tamped packing of the cup. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
-    *   Repeat standard testing until the **≤ 6%** threshold is achieved. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
-
-Only sessions that successfully passed this replicate-stability gate proceeded to waste rock measurements.
-
----
-
-## 2. Replicate Measurement Protocol
-For each individual waste-rock sample:
-*   **Replicate Count**: **5** replicate spectra were collected from slightly different positions on the leveled sample surface. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18)).
-*   **Measurement Averaging**: Each of the **5** replicates was the average of **30** individual internal instrument scans to optimize the signal-to-noise ratio. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18)).
-*   **Lucky Bay Standard**: Spectral measurements were harmonized using the Lucky Bay (LB) internal soil standard. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18)).
-*   **Outlier Removal**: Replicates with detector splice mismatches, saturation, or negative values were immediately discarded. Remaining replicates were checked against the within-sample median and median-averaged to obtain the final representative spectrum. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L40-L42)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response|Reviewer 3 Response]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 4 Response|Reviewer 4 Response]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md
-
----
-date: 2026-06-12
-tags:
-summary: "Five statistical criteria used to flag unusable PRISMA bands before spectral analysis — entropy, SNR, kurtosis, skewness, and regular problem intervals."
-created: 2026-06-12
-aliases:
----
-
-
-# PRISMA Bad Band Removal — Multi-Criterion Method
-
-Bad band removal is the first preprocessing step before any spectral analysis of PRISMA imagery. A band is flagged as bad if it meets one or more of five criteria applied per-band across the full scene.
-
----
-
-## The Five Criteria
-
-| Criterion | What it detects |
-|-----------|----------------|
-| **Low Entropy** | Spectrally homogeneous band — near-zero information (often edge bands, calibration failures) |
-| **High Entropy** | Excessively noisy band — random response, no spectral structure |
-| **Low SNR** | Signal-to-noise ratio below threshold — noise dominates reflectance |
-| **Extreme Kurtosis** | Heavy-tailed pixel distribution — outlier-dominated, sensor artifacts |
-| **High Skewness** | Strongly asymmetric pixel distribution — systematic bias |
-| **Regular Problem Interval** | Systematic periodic bad bands at fixed indices — likely VNIR/SWIR detector boundary or calibration pattern |
-
-Multiple criteria can co-occur on the same band. The Benguerir acquisition analysis shows 19 bands flagged with three simultaneous criteria (Low Entropy + Extreme Kurtosis + High Skewness), indicating corrupted detector elements rather than simple noise.
-
----
-
-## Output
-
-The method produces a binary `Bad_Band` mask (True/False) per band. Only `Bad_Band=False` bands enter downstream analysis (spectral library matching, ML classification, unmixing).
-
-Applied to the Benguerir PRISMA acquisition: **66 of 239 bands removed → 173 usable bands**.
-
----
-
-## Why Multiple Criteria Matter
-
-A single-criterion mask (SNR only) would miss edge bands with decent SNR but zero information content. Conversely, entropy alone would miss genuinely noisy mid-SWIR bands with normal entropy. The composite approach catches four distinct failure modes independently.
-
----
-
-## Related Concepts
-
-- [[PRISMA Band Quality Map — Benguerir Acquisition]] — the actual numbers from applying this method
-- [[Atmospheric Absorption Windows in PRISMA]] — the wavelength-domain explanation for the largest bad band clusters
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — instrument context
-- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source CSVs on D:\
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]] — downstream use of cleaned bands
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Bad Bands Removal Protocol.md
-
----
-date: 2026-06-13
-tags:
-summary: "Hyperspectral band selection and bad bands removal protocol established for PRISMA Level-2D scenes at the Benguerir mine."
-aliases:
----
-
-
-# PRISMA Bad Bands Removal Protocol
-
-## Overview
-
-Hyperspectral sensors capture contiguous spectral bands, but several intervals suffer from low signal-to-noise ratio (SNR), atmospheric water vapor absorption, detector overlap anomalies, or random electronic spikes. To prevent these non-geological signals from distorting machine learning classifications, a **bad bands removal protocol** was established during Year 2 of the PhD.
-
----
-
-## Band Removal Criteria
-
-Based on literature review and visual inspection of raw pixel reflectances from the 12 February 2022 Benguerir PRISMA scene, the following band subsets were excluded from the analysis:
-
-### 1. Ultra-Blue & VNIR Edge Limits
-*   **Bands 1 to 9** (wavelengths **402–464 nm**): Removed due to severe scattering and poor detector sensitivity in the violet-blue range.
-*   **Bands > 222** (wavelengths near the upper limit of the SWIR detector): Removed due to high noise at the spectral margins.
-
-### 2. Water Vapor & Atmospheric Absorption Windows
-The atmosphere is opaque in specific bands due to water vapor and carbon dioxide absorption:
-*   **Bands 101 to 119** (wavelengths **1328–1523 nm**): Excluded to remove the 1.4 $\mu\text{m}$ water absorption window.
-*   **Bands 148 to 175** (wavelengths **1812–2044 nm**): Excluded to remove the 1.9 $\mu\text{m}$ water absorption window.
-
-### 3. Detector Overlap Zone
-PRISMA utilizes two separate spectrometers (VNIR and SWIR) that overlap in the near-infrared:
-*   **Bands 59, 61, and 63 to 70** (wavelengths **930–998 nm**): Removed to resolve mismatch errors and calibration seams between the detectors.
-
-### 4. Random Electronic Spikes
-Certain isolated bands exhibited anomalous high-frequency noise spikes:
-*   **Band 44** (wavelength **770 nm**).
-*   **Bands 85 to 89** (wavelengths **1152–1196 nm**).
-
----
-
-## Evolution toward the Final Thesis
-
-*   **Initial Protocol**: This protocol was implemented in early classification tests (October 2022) to clean up raw Level-2D reflectances.
-*   **Final Chapter 2 Protocol**: In the final thesis, this physical band-filtering step was combined with **ANOVA F-test dimensionality reduction** to select the top **60 SWIR bands** for the lithological classification pipeline, resulting in a Balanced Accuracy range of 0.60–0.67.
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- [[04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md
-
----
-date: 2026-06-12
-tags:
-summary: "Specific bad band index ranges and statistics from the PRISMA scene analysis at Benguerir — 173 good bands retained from 239 total."
-created: 2026-06-12
-aliases:
----
-
-
-# PRISMA Band Quality Map — Benguerir Acquisition
-
-Quantitative output of the [[PRISMA Bad Band Removal — Multi-Criterion Method]] applied to the Benguerir phosphate mine PRISMA scene used in thesis Chapter 2.
-
----
-
-## Summary Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total PRISMA bands | 239 |
-| Bad bands flagged | 66 |
-| **Good bands retained** | **173** |
-| Good band index range | 12–218 (with internal gaps) |
-| SNR range (good bands) | 0.873 – 1.437 |
-| Mean SNR (good bands) | 1.377 |
-
----
-
-## Bad Band Index Map
-
-| Index range | Band count | Primary reason |
-|-------------|-----------|----------------|
-| 0–11 | 12 | Low Entropy (VNIR detector edge — zero / near-zero values) |
-| 14–21 | 8 | Low Entropy (blue-edge calibration zone) |
-| 30 | 1 | Regular Problem Interval |
-| 50 | 1 | Regular Problem Interval |
-| 66–67 | 2 | Low SNR |
-| 100 | 1 | Regular Problem Interval |
-| 140–150 | 11 | Low Entropy + Extreme Kurtosis + High Skewness (water vapor window) |
-| 192–196 | 5 | Low SNR (second water vapor absorption region) |
-| 200 | 1 | Regular Problem Interval |
-| 210–213 | 4 | Low Entropy |
-| 219–238 | 20 | Low Entropy (SWIR detector edge — zero values) |
-
-The largest gap (bands 140–150) corresponds to an atmospheric absorption window in the SWIR. See [[Atmospheric Absorption Windows in PRISMA]].
-
----
-
-## Breakdown by Removal Reason
-
-| Reason | Band count |
-|--------|-----------|
-| Low Entropy | 20 |
-| Low Entropy + Extreme Kurtosis + High Skewness | 19 |
-| Low SNR | 17 |
-| Regular Problem Interval | 4 |
-| High Entropy (noisy) | 1 |
-| Other compound reasons | 5 |
-| **Total bad** | **66** |
-
----
-
-## Interpretation for Thesis
-
-The 173-band subset represents the spectrally valid VNIR+SWIR range for Benguerir. The SWIR edge bands (219–238) are discarded because the PRISMA SWIR detector has a sharp sensitivity rolloff beyond ~2400 nm. The regular problem intervals (30, 50, 100, 200) likely correspond to known PRISMA inter-detector calibration artifacts.
-
-This band mask is the direct input to the ML classification pipeline in Chapter 2 (Extra Trees, Random Forest: BAC = 0.60–0.67 across 4 lithological classes).
-
----
-
-## Related Concepts
-
-- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — the method that produced this map
-- [[Atmospheric Absorption Windows in PRISMA]] — wavelength context for the largest gaps
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — sensor specs
-- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source files on D:\
-- [[02_Academic & Work/thesis/Thesis Overview]] — Chapter 2 results using these 173 bands
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Image Preprocessing & Spectral Optimization.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# PRISMA Image Preprocessing & Spectral Optimization
-
-In Chapter 2, a three-stage preprocessing pipeline is implemented to optimize the spectral signal of spaceborne PRISMA Level-2D (L2D) imagery. This optimization isolates the diagnostic mineral absorption features of phosphate mine waste rocks from atmospheric interference and sensor noise.
-
----
-
-## 1. Preprocessing Pipeline Stages
-
-### Stage 1: Spatial Alignment & Geometric Correction
-* **Objective**: Correct spatial misalignment between the geocoded PRISMA L2D surface reflectance product and vectorized field boundaries.
-* **Method**: Image registration was performed using the **THOR Change Detection** tool in **ENVI 5.5.2**.
-* **Resampling**: A **nearest-neighbor** resampling algorithm was applied to preserve the radiometric and spectral integrity of the pixels.
-* **Source**: [section_methods_ch2.txt:L69](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L69).
-
-### Stage 2: Atmospheric Masking
-* **Objective**: Remove spectral regions characterized by a low Signal-to-Noise Ratio (SNR) due to atmospheric absorption.
-* **Masked Regions**:
-  * **1300–1500 nm** (water-vapor absorption window)
-  * **1750–1980 nm** (water-vapor absorption window)
-* **Source**: [section_methods_ch2.txt:L70,L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L70#L72).
-
-### Stage 3: Savitzky–Golay Denoising & Smoothing
-* **Objective**: Suppress high-frequency noise while preserving the geometry and depth of diagnostic absorption features.
-* **Parameters**:
-  * **Polynomial Order**: **2**
-  * **Window Size**: **7** bands
-* **Physical Basis**: Unlike standard moving-average filters (which smooth out narrow absorption minima), the Savitzky–Golay filter preserves the precise shape of clay (Al-OH at **~2200 nm**) and carbonate ($\text{CO}_3^{2-}$ at **~2330 nm** and **~2500 nm**) doublets essential for lithological differentiation.
-* **Source**: [section_methods_ch2.txt:L70,L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L70#L72).
-
----
-
-## 2. Technical Characteristics of the Image
-
-* **Sensor Bands**: **66** VNIR bands (**400–1010 nm**) and **173** SWIR bands (**920–2500 nm**). (Source: [section_methods_ch2.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L31)).
-* **Spatial Resolution**: **30 m** (pixel footprint: **30 × 30 m**). (Source: [section_methods_ch2.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L32)).
-* **Acquisition Window**: **January 2022** (cloud-free scene over the Benguerir mine). (Source: [section_methods_ch2.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L32)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
-* [[04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability|ANOVA Wavelength Ranking & Selection Stability]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# PRISMA Lithological Mapping Performance Metrics
-
-This note documents the quantitative performance metrics evaluated in Chapter 2 of the thesis for the lithological classification of phosphate mine waste rock piles using PRISMA hyperspectral imagery.
-
-> [!WARNING]
-> **Data Discrepancy (Row 24 of Discrepancy Log):** Table 2 of the final manuscript ([minerals-4267637-2nd proof.docx](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt)) reports an Extra Trees Balanced Accuracy (BA) of **0.693 ± 0.032** and Random Forest BA of **0.666 ± 0.032**. The canonical defense preparation files ([Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L53) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L189)) define the canonical Chapter 2 BAC range as **0.60–0.67**. Following the Data Truth Hierarchy (D-Drive Pipeline Rules in [AGENTS.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/AGENTS.md)), the canonical defense prep value of **0.60–0.67** is treated as the primary fact, while the newly revised manuscript values are presented as context.
-
----
-
-## 1. Classification Performance Summary (Table 2)
-
-All metrics were computed using a spatially constrained cross-validation framework (**5**-folds repeated **10** times, yielding **50** total runs) with a **30 m** spatial buffer. Metrics are reported as mean ± standard deviation across the spatial replicates.
-
-* **Total Samples**: **127** spatially independent samples. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47)).
-* **Bands Selected**: **60** SWIR bands using ANOVA F-test feature selection. (Source: [section_methods_ch2.txt:L76](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L76); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L52)).
-
-| Classifier | Overall Accuracy (OA) | Balanced Accuracy (BA) | Cohen’s Kappa ($\kappa$) | Weighted $F_1$-score | Matthews Correlation (MCC) | Macro-averaged AUC |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Extra Trees** | **0.653 ± 0.033** | **0.693 ± 0.032** | **0.510 ± 0.046** | **0.649 ± 0.032** | **0.513 ± 0.047** | **0.863 ± 0.012** |
-| **Random Forest** | 0.633 ± 0.031 | 0.666 ± 0.032 | 0.480 ± 0.045 | 0.628 ± 0.032 | 0.484 ± 0.045 | 0.858 ± 0.012 |
-| **XGBoost** | 0.587 ± 0.020 | 0.637 ± 0.019 | 0.421 ± 0.029 | 0.584 ± 0.023 | 0.422 ± 0.029 | 0.827 ± 0.011 |
-| **KNN** | 0.593 ± 0.028 | 0.615 ± 0.034 | 0.423 ± 0.040 | 0.590 ± 0.028 | 0.427 ± 0.041 | 0.837 ± 0.014 |
-| **SVM** | 0.576 ± 0.030 | 0.561 ± 0.029 | 0.385 ± 0.042 | 0.517 ± 0.035 | 0.421 ± 0.051 | 0.832 ± 0.011 |
-| **LightGBM** (Baseline) | 0.569 ± 0.040 | 0.626 ± 0.041 | 0.399 ± 0.055 | 0.569 ± 0.042 | 0.400 ± 0.055 | 0.823 ± 0.018 |
-| **SAM** (Baseline) | 0.541 ± 0.032 | 0.536 ± 0.036 | 0.361 ± 0.044 | 0.543 ± 0.032 | 0.362 ± 0.044 | 0.828 ± 0.007 |
-
-*(Source: [section_results_ch2.txt:L73-121 (Table 2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L73-L121)).*
-
----
-
-## 2. Key Performance Observations
-
-* **Ensemble Tree Superiority**: Extra Trees (ET) and Random Forest (RF) outperform all other classifiers, indicating that bagging-based ensemble approaches are particularly resilient to the high dimensionality and spatial constraints of hyperspectral waste rock classification. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64)).
-* **Machine Learning Value-Add**: All supervised machine learning algorithms substantially outperform the parameter-free Spectral Angle Mapper (SAM) baseline ($\Delta\text{BA} = +0.097$ to $+0.157$ for supervised models over SAM), validating the added utility of statistical learning over basic spectral angle similarity metrics. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64)).
-* **Class-Specific Disparity**: Receiver Operating Characteristic (ROC) analysis reveals a clear performance split. Carbonate-dominated lithologies (Marl and Limestone) achieve high Area Under the Curve (AUC) values ($\text{AUC} > 0.95$), whereas Phosphate rock and Siliceous facies exhibit lower values ($\text{AUC} < 0.80$), owing to spectral mixing at the **30 m** spatial scale. (Source: [section_results_ch2.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L24); AUC limits confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L54-L55)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models|Lithological Classifier Configurations & Baseline Models]]
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
-* [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies|Feature Selection & Validation Ablation Studies]]
-* [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# PRISMA Satellite
-
-## What It Is
-PRISMA (PRecursore IperSpettrale della Missione Applicativa) is the Italian Space Agency (ASI) hyperspectral satellite. Launched March 2019. One of the most capable civil hyperspectral satellites currently operating.
-
-## Technical Specs
-| Parameter | Value |
-|-----------|-------|
-| Spectral range | 400–2500 nm (VNIR + SWIR) |
-| Spectral bands | ~250 contiguous bands |
-| Spectral resolution | ~10 nm |
-| Spatial resolution | 30 m |
-| Swath width | 30 km |
-| Data format | **HDF5** |
-| Revisit time | ~29 days (at equator) |
-
-## Why Abdelhak Uses PRISMA
-- Full VNIR + SWIR coverage → essential for phosphate mineralogy in SWIR
-- Available for Moroccan study sites (Benguerir)
-- Relatively new → Abdelhak's thesis is among the first hyperspectral satellite studies of Moroccan phosphate mining
-
-## Data Format: HDF5
-PRISMA delivers data in HDF5 format — requires custom loading scripts.  
-Challenges solved during Abdelhak's thesis:
-- HDF5 indexing script developed
-- VNIR + SWIR cube fusion → NPZ format
-- Bad band removal (water vapor absorption at ~1400nm, ~1900nm)
-- Noisy band identification and removal
-
-→ See `thesis/code-notes/VNIR SWIR Fusion` (code notes not yet in vault)  
-→ See `thesis/code-notes/Bad Band Removal` (code notes not yet in vault)
-
-## Key Spectral Bands for Phosphate Mineralogy
-| Wavelength Region | Relevant Minerals |
-|------------------|------------------|
-| ~900–1000 nm (NIR) | Iron oxides, goethite, hematite |
-| ~2200 nm (SWIR) | Al-OH clays, kaolinite, alunite |
-| ~2300 nm (SWIR) | Carbonates, Mg-OH, dolomite |
-| ~2100–2200 nm | Phosphate minerals (specific features) |
-| ~1400, 1900 nm | Water/OH (remove — atmosphere) |
-
-## PRISMA vs. Other Sensors
-| Sensor | Bands | Resolution | Notes |
-|--------|-------|------------|-------|
-| PRISMA | ~250 | 30m | ✅ Abdelhak's sensor |
-| Sentinel-2 | 13 | 10-60m | Too few bands for mineralogy |
-| EnMAP | 244 | 30m | Higher SNR, newer (2022) |
-| AVIRIS | 224 | variable | Airborne, not satellite |
-| HyMap | 128 | variable | Airborne |
-
-## Related Pages
-- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
-- [[02_Academic & Work/thesis/Thesis Overview]]
-
-## Sources
-*(Add papers about PRISMA applications as you ingest them)*
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# PRISMA Spatial Redundancy Filtering
-
-The **PRISMA Spatial Redundancy Filtering** is a quality-control preprocessing step implemented in Chapter 2 of the thesis to resolve scale mismatches between ground-based point sampling and satellite image pixels, thereby mitigating spatial autocorrelation.
-
----
-
-## 1. Rationale and Scale Mismatch
-During field campaigns, multiple samples are often collected in close proximity. However, the PRISMA hyperspectral sensor has a native spatial resolution of **30 m** (pixel size: **30 × 30 m**). (Source: [section_methods_ch2.txt:L32,L45](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L32#L45)).
-If multiple field samples fall within a single **30 m** pixel footprint:
-*   They carry identical spectral information (the pixel's mixed reflectance profile).
-*   Including them as separate observations in machine learning training causes "spectral leakage" and inflates classification accuracy.
-
----
-
-## 2. Filtering Protocol
-To ensure spectral independence:
-1.  **Initial Dataset**: Abdelhak collected and validated **207** field-validated samples across the Benguerir mine dumps. (Source: [section_methods_ch2.txt:L10](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L10); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L46)).
-2.  **Pixel-by-Pixel Audit**: A spatial overlay of sample coordinates and the georeferenced PRISMA Level-2D grid identified co-located samples. (Source: [section_methods_ch2.txt:L14,L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14#L17)).
-3.  **Deduplication & Conflict Resolution**:
-    *   For pixels containing multiple co-located samples, the sample with the most reliable laboratory characterization (geochemical XRF and/or XRD mineralogy) was retained. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33)).
-    *   If co-located samples within a single pixel footprint displayed conflicting lithological assignments (reflecting sub-pixel geological heterogeneity), the pixel was excluded entirely to avoid training models on ambiguous labels. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33)).
-4.  **Final Dataset**: **80** redundant samples were removed, resulting in a refined dataset of **127** unique, spatially independent modeling samples. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47-L48)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)|Reviewer 3 Response (Chapter 2)]]
-* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign.md
-
----
-date: 2026-06-13
-tags:
-summary: "Linear sampling campaign conducted on Panel 2 of the Benguerir open-pit mine during year 2 of the PhD, serving as the foundation for early mineralogical and geochemical analyses."
-aliases:
----
-
-
-# Panel 2 Linear Sampling Campaign
-
-## Overview
-
-During Year 2 of the PhD (August–October 2022), a **linear sampling campaign** was planned and executed along a profile on **Panel 2** of the Benguerir open-pit phosphate mine. The campaign's goal was to systematically capture the spatial heterogeneity of the phosphate waste rock piles (PWRPs) to validate remote sensing observations.
-
----
-
-## Campaign Details
-
-*   **Location**: Panel 2, Benguerir Mine, Morocco (operated by OCP Group).
-*   **Profile Length**: Stated as **652 m** (in the *October 2022 progress report*) or **662 m** (in the *EMEC-SMCE Workshop abstract*).
-*   **Sampling Step**: Spaced every **5 to 7 meters**.
-*   **Sample Mass**: Approximately **1 kg** per sample.
-*   **Total Samples**: **100 physical samples** collected.
-*   **Sub-cohort Selection**: A subset of **20 samples** was chosen for thin-section mineralogy, X-Ray Diffraction (XRD), and Wavelength Dispersive X-ray Fluorescence (WD-XRF) analysis to represent the primary lithological variations.
-
----
-
-## Lithological Classification
-
-The samples collected during this campaign were categorized into 5 primary lithologies representative of the Gantour Basin stratigraphy:
-1.  **Phosphate Rock** (rich in pelletal fluorapatite)
-2.  **Marl**
-3.  **Limestone**
-4.  **Phosphatic Sand**
-5.  **Clay** (predominantly palygorskite and montmorillonite)
-
----
-
-## Evolution & Thesis Integration
-
-*   **Initial Profile Study**: The Panel 2 linear campaign served as the basis for early conference presentations (EMEC-SMCE 2022) and preliminary classification testing.
-*   **Upscaling to Thesis Databases**: 
-    *   For **Chapter 1** (field spectroscopy), this linear cohort was integrated into a larger database of **104 samples**.
-    *   For **Chapter 2** (PRISMA lithological mapping), the database was expanded to **207 samples** (filtered down to **127 spatially independent samples** to prevent spatial autocorrelation across 30 m pixels).
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks]]
-- [[04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation]]
-- [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions.md
-
----
-date: 2026-06-13
-tags:
-summary: "Decisions and benchmarks from the Year 2 PhD progress report (October 2022), tracing the evolution of PRISMA classification models."
-aliases:
----
-
-
-# PhD Year 2 Progress and Classifier Decisions
-
-## Document Context
-
-*   **Report Date**: October 18, 2022
-*   **Presentation Title**: *Progressive Rehabilitation of Phosphate Mining Site*
-*   **Research Phase**: Year 2 Milestones
-*   **Supervisors**: Pr. Mostafa Benzaazoua, Pr. Ahmed Laamrani, Pr. Rachid Hakkou, Pr. Abdellatif El Ghali
-
----
-
-## Early Research Benchmarks (October 2022)
-
-### 1. PRISMA Hyperspectral Preprocessing
-*   **Image**: Acquired on **12 February 2022** over the Benguerir mine.
-*   **Metadata**: Cloud cover 0–4%, L2D geometric level (orthorectified and geocoded).
-*   **Early Preprocessing Decision**: Removal of bad bands was established based on atmospheric absorption, sensor overlap zones, and random noise spikes (see [[PRISMA Bad Bands Removal Protocol]]).
-
-### 2. Early Classification Attempts
-The research started with highly granular lithological schemes and classic remote sensing classifiers:
-*   **Unsupervised Classification**: Run using 15 spectral classes to map mine surface variance.
-*   **Supervised Classifications**: Run using a detailed **12-lithology scheme** (e.g., separating fine subtypes of limestone, clays, and phosphatic sand). Classifiers evaluated:
-    *   Support Vector Machine (SVM)
-    *   Spectral Angle Mapper (SAM)
-    *   Maximum Likelihood Classifier (MLC)
-    *   Minimum Distance Classifier
-
-### 3. Early Classifier Selection Decision
-*   **2022 Decision**: The progress report concluded that the **Minimum Distance Classifier** was the "best classifier" because it showed the most visually coherent lithological mapping of the 12 classes across the mine site without the severe salt-and-pepper noise generated by SVM or Maximum Likelihood.
-
----
-
-## Evolution toward the Final Thesis
-
-The classification strategy underwent significant maturity between 2022 and the final 2026 defense manuscript:
-
-| Parameter | Early Year 2 Scheme (2022) | Final Thesis Chapter 2 Scheme (2026) |
-|-----------|-----------------------------|--------------------------------------|
-| **Target Classes** | 12 lithologies (highly granular) | **4 lithologies** (Phosphate rock, Siliceous facies, Marl, Limestone) |
-| **Primary Classifier** | Minimum Distance Classifier | **Extra Trees & Random Forest** |
-| **Model Performance** | Qualitative visual assessment | Balanced Accuracy (**BAC**) of **0.60–0.67** |
-| **Validation Method** | Apparent training accuracy | **Spatially constrained cross-validation** (30 m buffer) |
-
-### Rationale for the Shift
-The early 12-class model suffered from low spectral separability and high pixel-scale mixing. Collapsing the classes into 4 primary lithological categories allowed the use of robust ensemble tree-based classifiers (Extra Trees and Random Forest) to capture non-linear spectral features in the SWIR range, leading to the final peer-reviewed article in the *Minerals* journal.
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Knowledge Base/wiki/concepts/Minimum Distance Classifier]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Bands Removal Protocol]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics]]
-- [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC.md
-
----
-tags:
-date: 2026-06-13
-summary: "Map of Content for phosphate geology, stratigraphy, and deposit formation."
----
-
-
-# Phosphate Geology and Stratigraphy MOC
-
-## Literature & Sources
-- [[04_Knowledge Base/wiki/sources/benhassenPetrographieGeochimieComparees2010|Ben Hassen et al. (2010)]] — Comparative petrography and geochemistry of Tunisian pellets vs exogangue
-- [[04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015|Badioui & Kalombo (2015)]] — Stratigraphic study and reserves estimation of Panel 5 (Mine Nord Gantour)
-- [[04_Knowledge Base/wiki/sources/wafikEtudeGeominiereMineSud2017|Wafik (2017)]] — Detailed geological, mineralogical, and petrographical study of Benguerir South Mine
-- [[04_Knowledge Base/wiki/sources/ouabouSynthesePhosphatogeneseBassins2015|Ouabou (2015)]] — Synthesis of phosphatogenesis theories and sequence stratigraphy in the Gantour Basin
-- [[04_Knowledge Base/wiki/sources/achmaniGisementsPhosphatesMaroc2016|Achmani et al. (2016)]] — Regional overview of the four major sedimentary phosphate basins in Morocco
-- [[04_Knowledge Base/wiki/sources/moulouaElaborationProjetRehabilitation2012|Mouloua (2012)]] — M'Zinda open-pit mine waste characterization and rehabilitation project
-- [[04_Knowledge Base/wiki/sources/elhaddiSilicificationsSeriePhosphate2014|El Haddi (2014)]] — Silicification processes and genetic models for silex in Moroccan phosphates
-- [[04_Knowledge Base/wiki/sources/seminaireFssMarrakech2015|OCP Seminar PPT (2015)]] — Catalog reference for the OCP/Semlalia Marrakech seminar presentation
-
-## Geological Concepts
-- [[04_Knowledge Base/wiki/concepts/Phosphatogenesis and Phosphate Deposit Formation|Phosphatogenesis and Phosphate Deposit Formation]] — Upwelling systems, diagenetic CFA precipitation, and pelletal deposition
-- [[04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences|Maastrichtian-Eocene Phosphatic Sequences]] — Chronostratigraphy and paleogeographic cycles of Moroccan phosphates
-- [[04_Knowledge Base/wiki/concepts/Phosphate Mineralization Types and Lithological Components|Phosphate Mineralization Types and Lithological Components]] — CFA/Francolite mineralogy, BPL grade calculation, and waste rock lithologies
-- [[04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine|Stratigraphy of the Gantour Basin and Benguerir Mine]] — Local stratigraphic column (Couches 6 to 2, Sillons X, A, and B) and structural framework
-
-## Related MOCs
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]] — Mine waste characterization and mapping methods
-- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group and Benguerir Mine]] — Operational context for the Benguerir mine
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# Phosphate Mine Waste / Waste Rock
-
-## Definition
-Phosphate mine waste rocks are the non-ore materials excavated to access phosphate ore bodies. At Benguerir (OCP Group), they form large waste rock piles (WRP) requiring environmental management and potential reclamation.
-
----
-
-## Benguerir Mine Context
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group |
-| Basin | [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]], Morocco |
-| Study area | ~36 km² |
-| Stripping ratio | ~3:1 (waste:ore) |
-| Waste production | ~12.3 Mt/year |
-| Pile heights | Up to several tens of meters |
-| Age of dumps | Decades of accumulation |
-
----
-
-## Mineralogical Composition (from thesis Ch.1)
-
-### Primary minerals (host rock)
-| Mineral | Formula | Spectral signature |
-|---------|---------|-------------------|
-| Fluorapatite | Ca₅(PO₄)₃F | PO₄ ~2150 nm (weak) |
-| Francolite | Ca₅(PO₄,CO₃)₃F | Carbonate-phosphate |
-| Calcite | CaCO₃ | CO₃ ~2320 nm |
-| Dolomite | CaMg(CO₃)₂ | Mg-OH ~2330 nm |
-
-### Secondary/gangue minerals
-| Mineral | Formula | Spectral signature |
-|---------|---------|-------------------|
-| Illite | (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀(OH)₂ | Al-OH ~2200 nm |
-| Kaolinite | Al₂Si₂O₅(OH)₄ | Al-OH ~2200 nm |
-| Montmorillonite | (Na,Ca)Al₂Si₄O₁₀(OH)₂·nH₂O | Al-OH ~2200 nm |
-| Quartz | SiO₂ | Featureless in SWIR |
-| Iron oxides | Hematite, Goethite | Fe3+ ~500, 680 nm |
-
-### Why clays dominate spectral response
-Clay minerals (illite, montmorillonite) coat waste rock surfaces due to weathering. Their Al-OH absorptions at ~2200 nm are spectrally stronger than the apatite PO₄ feature at ~2150 nm → clays rank 1–2 in spectral matching despite being secondary minerals.
-
----
-
-## Reclamation Context
-
-**Two zone types in Abdelhak's thesis:**
-- **RWR (Reference Waste Rock):** Unmanaged dump — raw, unvegetated, high phosphate, geochemically unstable
-- **RZ (Reclaimed Zone):** Managed area undergoing vegetation restoration — soil amendment, seeding, water management
-
-**Environmental concerns:**
-- Dust and wind erosion (fine phosphate particles)
-- Leaching of heavy metals and fluorine
-- Landscape rehabilitation compliance (OCP sustainability targets)
-- Acid rock drainage potential (limited for calcareous phosphate gangue)
-
----
-
-## Geochemistry (XRF targets from thesis)
-Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
-
-**P2O5 as reclamation indicator:**
-- High P2O5 → unweathered phosphate waste
-- Decreasing P2O5 over time → mineral weathering, dilution by added topsoil, vegetation biomass accumulation
-- The **[[Reclamation Progress Index]] (RPI)** uses abundance of vegetation/soil endmembers relative to raw waste endmembers, isotonically calibrated against XRF P2O5
-
----
-
-## Field Sampling (Thesis)
-- 104 field samples collected across managed and unmanaged zones
-- GPS locations recorded (used in QGIS maps, plotted in `Samples ppaer 1 + 2 all.csv`)
-- ASD FieldSpec 4 measurement at each sample point
-- HHXRF measurement (same or adjacent point)
-- XRD on subset → mineral quantification
-
----
-
-## Related Concepts
-- [[Mineral Assemblages]]
-- [[VNIR-SWIR Spectroscopy]]
-- [[Handheld XRF]]
-- [[Reclamation Monitoring]]
-- [[OCP Group and Benguerir Mine]]
-- [[Gantour Basin]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md
-
----
-tags:
-date: 2026-06-13
-summary: "A validation framework linking quantitative XRD phase analysis to a simplified 4-class mineralogical scheme for calibrating hyperspectral unmixing algorithms."
-aliases:
----
-
-
-# Phosphate Mineral Validation Scheme
-
-## Definition
-The **Phosphate Mineral Validation Scheme** is a methodological framework designed to translate complex multi-mineral assemblages identified via lab analysis (like X-ray diffraction) into a simplified, robust classification scheme (typically 4 main classes) suitable for calibrating and validating spatial-spectral remote sensing products (such as PRISMA or EnMAP abundance maps).
-
-## The 4-Class Scheme
-
-```mermaid
-graph TD
-    A["Raw Waste Rock XRD Phases"] -->|Group & Map| B["Simplified 4-Class Scheme"]
-    B --> C1["Carbonate Class (Calcite / Dolomite / Ankerite / Siderite)"]
-    B --> C2["Silica Class (Quartz)"]
-    B --> C3["Phosphate Class (Fluorapatite / Hydroxyapatite)"]
-    B --> C4["Clay Class (Palygorskite / Montmorillonite)"]
-    B -->|Calibrate| D["Satellite Hyperspectral unmixing (VNIR-SWIR)"]
-```
-
-Powder XRD analysis is highly detailed, often identifying 5 to 8 distinct mineral phases per sample in Moroccan open-pit phosphate waste rock piles (WRPs). However, satellite sensors with $30\,\text{m}$ spatial resolution cannot resolve such granular mineralogical parameters. HighScore XRD results are therefore grouped into four main diagnostic classes that align with distinct spectral features in the VNIR-SWIR ranges (400–2500 nm):
-
-1.  **Carbonates**: Grouping **Calcite**, **Dolomite**, **Ankerite**, and **Siderite**. These minerals exhibit diagnostic absorption features in the Shortwave Infrared (SWIR) at ~2300–2350 nm (due to $CO_3^{2-}$ vibrational overtones).
-2.  **Silica (Quartz)**: Grouping crystalline **Quartz**. Although featureless in the VSWIR range, quartz acts as a spectrally neutral diluent, altering the depth and shape of adjacent absorption features.
-3.  **Phosphates**: Grouping **Fluorapatite** and **Hydroxyapatite** (Hydroxylapatite). These minerals represent the key secondary resource targeted for recovery.
-4.  **Clays**: Grouping clay silicates like **Palygorskite** and **Montmorillonite**. Clays show strong absorption features at ~1400 nm, 1900 nm (water overtones), and ~2200 nm (Al-OH bending), which can mask the diagnostic signatures of apatite.
-
-## Ground-Truth Validation
-This validation scheme acts as the ground-truth linkage in Abdelhak's Chapter 1 and Chapter 4 work:
-*   **Sample Characterization**: High-resolution Rietveld refinements (from [PHD-1st XRD Reports](file:///D:/PHD-1st/XRD_reports.zip)) provide absolute weight percentages of these minerals.
-*   **Fusing with Spectroscopy**: Ground ASD FieldSpec readings are mapped to these quantitative mineral classes.
-*   **Unmixing Calibration**: The resulting database is used as endmembers to calibrate spatial unmixing algorithms (VCA-FCLS) applied to PRISMA and EnMAP images, allowing for per-pixel resource mapping and reclamation monitoring.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
-- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mineralization Types and Lithological Components.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Phosphate Mineralization Types and Lithological Components
-
-Morphologically and mineralogically, Moroccan phosphate ore is a complex sediment consisting of phosphatic grains (mineralization) embedded in a matrix (gangue) and separated by sterile layers.
-
----
-
-## 1. Phosphate Mineral Phases
-* **Carbonate Fluorapatite (CFA) / Francolite**: The primary economic mineral phase. It is characterized by the substitution of carbonate groups ($CO_3^{2-}$) and fluorine ($F^-$) into the apatite crystal lattice:
-  $$\text{Ca}_{10}[(\text{PO}_4)_{6-x}(\text{CO}_3)_x]\text{F}_{2+x}$$
-* **Dahllite**: A carbonate-hydroxylapatite ($F$-poor phase).
-* **Vivianite**: A secondary hydrated iron phosphate mineral ($Fe_3(PO_4)_2 \cdot 8\text{H}_2\text{O}$), indicating localized iron enrichment.
-
----
-
-## 2. Structural & Textural Components
-* **Phosphatic Pellets**: Rounded, well-sorted grains (100–500 µm) of microcrystalline francolite. They represent the highest concentration of $P_2O_5$ (up to 38%).
-* **Bioclasts & Bonebeds**: Fish teeth, bones, and scales consisting of dense fluorapatite. High concentrations of bones form distinct stratigraphic markers known as **bonebeds** (e.g., in Couche 2).
-* **Exogangue (Matrix)**: The clay-carbonate material surrounding the pellets. It is dominated by dolomite, calcite, illite, kaolinite, and quartz.
-* **Intercalaries (Sterile Wastes)**: Sterile interbeds that must be excavated during mining:
-  * **Silex (Chert)**: Hard siliceous beds or nodules formed by diagenetic replacement.
-  * **Marnes**: Mixed clay-carbonate rock.
-  * **Argiles**: Clay layers (e.g., the yellow clay marker above Couche 3).
-
----
-
-## 3. Economic Quality Parameters
-* **BPL (Bone Phosphate of Lime)**: The historical trade grade unit, calculated as:
-  $$\text{BPL} = 2.1852 \times \text{P}_2\text{O}_5$$
-* **P Grade**: Elemental phosphorus content, calculated as:
-  $$\text{P} = 0.4364 \times \text{P}_2\text{O}_5$$
-* **Impurities**: Grade limits are strictly tracked for $MgO$, $SiO_2$, and toxic $Cd$ (cadmium).
-
----
-
-## Related Notes
-- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
-* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
-- [[04_Knowledge Base/wiki/sources/benhassenPetrographieGeochimieComparees2010|Ben Hassen et al. (2010)]]
-- [[04_Knowledge Base/wiki/sources/moulouaElaborationProjetRehabilitation2012|Mouloua (2012)]]\n
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md
-
----
-tags:
-date: 2026-06-13
-summary: "The linear systematic sampling strategy used during the first year of research to characterize Panel 2 waste rock piles at the Benguerir mine."
-aliases:
----
-
-
-# Phosphate Waste Rock Piles Sampling Strategy
-
-## Definition
-The **Phosphate Waste Rock Piles Sampling Strategy** represents the systematic sampling protocols designed to obtain representative physical samples of heterogeneous waste rock piles (overburden and interlayers) to calibrate chemical, mineralogical, and remote-sensing analyses.
-
-## First-Year Linear Sampling Protocol (Panel 2)
-
-```mermaid
-graph LR
-    A["Panel 2 Transect (662 m)"] -->|Linear Systematic Sampling| B["Target Step: 5 m (slope adjusted)"]
-    B --> C["100 Samples Collected"]
-    C -->|Homogenization & Quartering| D["Sub-samples for XRD, XRF, ICP-AES"]
-```
-
-During his first PhD year (February–March 2022), Abdelhak conducted a 3-week sampling campaign at the Benguerir open-pit mine focused on **Panel 2**:
-*   **Transect length**: Collected samples along a linear transect of **662 meters**.
-*   **Target Step**: The systematic sampling step was designed to be **5 meters** to mirror the linear exploitation direction of the draglines and dragline dumping patterns.
-*   **Adjustments**: The distance was adjusted dynamically due to slope instabilities and the heterogeneous dumping of waste rock piles, resulting in some random spacing.
-*   **Sample Count**: A total of **100 samples** were collected.
-*   **Homogenization**: Samples were crushed, homogenized, and quartered into sub-samples for laboratory characterization:
-    *   **XRD**: 20 representative samples were ground to $<75\,\mu\text{m}$ for crystalline phase analysis.
-    *   **XRF**: Pulverized and mixed with binder (Apex press) for elemental analysis.
-    *   **Thin Sections**: 10 thin sections prepared to inspect grain textures.
-
-## Spatially Constrained Sampling Strategy (Canonical Thesis Method)
-As the PhD research matured (moving into Chapter 1 and Chapter 4), this linear 1D transect approach was replaced by a 2D spatial grid strategy to better capture regional mining dump variations:
-*   **Sample Count**: **103 samples** collected.
-*   **Spatial Extent**: Distributed over a wide area of approximately **60 km²** covering diverse mining sectors (rather than just Panel 2).
-*   **Validation Purpose**: Calibrated the 2D spatial predictions of Explainable Machine Learning (XML) models applied to PRISMA and EnMAP scenes, minimizing spatial autocorrelation effects.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
-- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[Spatially Constrained Cross-Validation]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphatogenesis and Phosphate Deposit Formation.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Phosphatogenesis and Phosphate Deposit Formation
-
-**Phosphatogenesis** refers to the geochemical and sedimentological processes that lead to the accumulation and concentration of phosphorus in marine sediments, eventually forming economically viable **phosphorite** (or **phosphatite**) deposits.
-
----
-
-## 1. Upwelling and Nutrient Supply
-The formation of major sedimentary phosphate deposits (such as the North African phosphogenic province) is primarily driven by **coastal upwelling** systems:
-* **Mechanism**: Wind-driven ocean currents deflect surface waters, forcing deep, nutrient-rich (cold) waters to rise to the photic zone.
-* **Bioproductivity**: These upwelling waters are highly enriched in dissolved phosphate, triggering massive blooms of phytoplankton and zooplankton.
-* **Organic Influx**: The death and deposition of these organisms create a massive flux of organic carbon, nitrogen, and phosphorus to the shallow seafloor.
-
----
-
-## 2. Diagenetic Precipitation of CFA
-The direct precipitation of phosphate from normal seawater is inhibited by magnesium ions ($Mg^{2+}$). Instead, phosphatogenesis occurs as an **early diagenetic process** within the top few centimeters of organic-rich sediments:
-* **Francolite (CFA)**: The primary mineral formed is **Carbonate Fluorapatite (CFA)**, also known as **francolite** (with a simplified formula of $\text{Ca}_{10}[(\text{PO}_4)_{6-x}(\text{CO}_3)_x]\text{F}_{2+x}$).
-* **Phosphorus Release**: Microbial degradation of organic matter, dissolution of biogenic debris (such as fish bones and scales), and the reduction of iron oxides (iron-redox pumping, which desorbs phosphate) release high concentrations of dissolved $PO_4^{3-}$ into the sediment pore waters.
-* **pH and Carbonate Control**: Francolite precipitation occurs under moderately reducing, sub-oxic conditions. In deep, highly anoxic sediments, the rapid accumulation of dissolved alkalinity (carbonates) prevents CFA crystallization. Fluoride ($F^-$) diffusion from the overlying water column is also required to stabilize the CFA structure.
-
----
-
-## 3. Pellet and Particle Formation
-The granular, pelletal texture characteristic of Moroccan phosphates is formed through:
-* **Fecal Pellets**: Marine organisms (specifically fish and benthic invertebrates) ingest organic matter and excrete P-rich fecal pellets. These pellets serve as confined micro-environments where organic decay maintains local reducing conditions, promoting rapid diagenetic replacement by CFA.
-* **Bioclast Epigenesis**: Dissolved phosphate replaces the calcium carbonate shells of microfossiles (foraminifera, bivalves) or fish bones, preserving their structures (epigénie).
-* **Sediment Winnowing**: Dynamic bottom currents winnow away fine clay and carbonate mud, leaving behind concentrates of heavy phosphatic pellets.
-
----
-
-## Related Notes
-- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
-* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
-- [[04_Knowledge Base/wiki/sources/benhassenPetrographieGeochimieComparees2010|Ben Hassen et al. (2010)]]
-- [[04_Knowledge Base/wiki/sources/ouabouSynthesePhosphatogeneseBassins2015|Ouabou (2015)]]\n
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping.md
-
----
-date: 2026-06-13
-tags:
-summary: "Project overview note for the Shepelife Lithology Mapping project, mapping regional formations using PRISMA hyperspectral data and machine learning."
----
-
-
-# 📁 Project Overview — Shepelife Lithology Mapping
-
-This note provides an overview of the **Shepelife Lithology MasterProject**, a structured machine learning pipeline developed in December 2025. It appears to be a supervised student project or an early pipeline prototype designed to map surface geological formations (lithologies) in the Shepelife region using PRISMA hyperspectral satellite data.
-
----
-
-## 🎯 Project Objectives
-
-The primary goal of the Shepelife project is to evaluate the feasibility of utilizing spaceborne hyperspectral remote sensing to classify and map geological units in a semi-arid terrain. 
-Specifically, it attempts to:
-1.  Ingest and preprocess PRISMA VNIR and SWIR bands.
-2.  Extract spectral reflectances from regions of interest (ROIs) corresponding to verified geological field points.
-3.  Evaluate multiple machine learning (ML) classification models to map regional lithologies (e.g., Dolomitic Marl).
-
----
-
-## 🛰️ PRISMA Satellite Data Involved
-
-The project utilizes raw and preprocessed bands from the **PRISMA hyperspectral sensor** (30m spatial resolution), focusing on the concatenated VNIR and SWIR channels:
-*   **01_preprocessing/PRISMA_SWIR_tmp.tif**: SWIR reflectance bands (920–2505 nm) covering key carbonate and clay absorption features.
-*   **01_preprocessing/PRISMA_VNIR_tmp.tif**: VNIR bands (400–1010 nm) covering iron oxide spectral slopes.
-*   **02_vnir_swir_concatenated/PRISMA_VNIR_SWIR_ROI_merged.tif**: The concatenated multi-band GeoTIFF used for training ML feature vectors.
-*   **Spatial Bounds**: Mapped in UTM Zone 29N (EPSG:32629) with coordinates stored in [PRISMA_metadata_utm.json](file:///D:/Shepelife_Lithology_MasterProject/01_preprocessing/PRISMA_metadata_utm.json).
-
----
-
-## 🤖 Machine Learning Classifiers Evaluated
-
-The pipeline runs comparisons across five supervised classifiers:
-1.  **Random Forest (RF)**: Ensemble bagger utilizing decision trees.
-2.  **Support Vector Machine (SVM)**: Kernel-based margin classifier.
-3.  **Gradient Boosting (GB)**: Sequential boosting model.
-4.  **K-Nearest Neighbors (KNN)**: Distance-based instance classifier.
-5.  **Logistic Regression**: Linear statistical classification model.
-
-Models were evaluated on two different feature representations: **raw spectral bands** and **derivative spectra** (first derivatives to resolve overlapping absorption peaks).
-
----
-
-## 🕸️ Relationships & Connections
-*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
-*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]]
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets|Shepelife Datasets]]
-*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
-*   **defense-link**:: [[Thesis_Defense_Preparation|Defense Prep Q9]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Raunkiaer's Life Forms.md
-
----
-date: 2026-06-13
-summary: "Raunkiaer's life-form system categorizes plants based on the position and protection of their perennating buds during adverse seasons."
-aliases:
-tags:
----
-
-
-# Raunkiaer's Life Forms
-
-**Raunkiaer's life-form system** is a standardized ecological classification scheme proposed by Danish botanist Christen C. Raunkiaer. It categorizes plant species based on the position and protection of their perennating (survival) buds or shoot apexes relative to the soil surface during unfavorable seasons (e.g., dry seasons or cold winters).
-
-In arid and semi-arid environments like Moroccan phosphate mine sites, this system provides deep insights into how plant communities adapt to water scarcity, extreme heat, and severe substrate degradation (such as phosphate waste rocks).
-
----
-
-## 🌿 Key Life Form Categories
-
-| Life Form | Abbreviation | Bud Position & Characteristics | Adaptation Strategy in Mining Sites |
-|---|---|---|---|
-| **Therophytes** | `Th` | Annual plants that survive unfavorable seasons solely as **seeds**. They complete their life cycle rapidly during wet periods. | **Pioneer colonizers.** Representing 45.0% of species in Moroccan phosphate mines, they rapidly cover waste rock dumps after rainfall. |
-| **Chamaephytes** | `Ch` | Low-growing perennial plants with buds located on shoots **close to the ground** (less than 25 cm height). | Highly drought-tolerant shrubs/herbs (e.g. *Atriplex nummularia*, *Haloxylon scoparium*) that stabilize waste rock surfaces. |
-| **Hemicryptophytes** | `Hem` | Perennials with perennating buds located **at the soil surface**, often protected by leaf litter or rosette formations. | Grasses and tuft-forming herbs that withstand soil compaction and wind erosion on slopes. |
-| **Phanerophytes** | `Ph` | Woody trees or tall shrubs with buds located **high in the air** (above 25–50 cm). | Rare on raw waste rocks; typical of older, rehabilitated areas or surrounding natural soils. |
-| **Cryptophytes / Geophytes** | `G` | Perennials with buds completely buried **underground** in bulbs, rhizomes, or tubers. | Adapted to survive prolonged drought seasons by storing nutrients and moisture deep in the substrate. |
-
----
-
-## 🛠️ Ecological Reclamation Relevance
-
-* **Soil Stabilization Indicators:** The dominance of Therophytes (annuals) indicates a highly dynamic, rainfall-dependent vegetation cover. A transition toward Hemicryptophytes and Chamaephytes indicates maturing soil profiles and stabilizing environmental conditions.
-* **Microclimate Development:** Chamaephytes form low-lying vegetative canopies, which accumulate organic matter, reduce surface temperatures, and trap windblown seeds (the "nurse plant" effect).
-* **Calibration for Remote Sensing:** Distinguishing these life forms in hyperspectral remote sensing is vital. Annual Therophytes display a brief, intense green-up phase, whereas perennial Chamaephytes show a stable, low-albedo spectral signature throughout the dry season.
-
----
-
-## 🕸️ Links
-- [[zineNativePlantDiversity2023]] — The primary study applying Raunkiaer's classification
-- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Reclamation Monitoring (Chapter 3)
-
-## Definition
-Chapter 3 quantifies the impact of **backfilling** — the primary reclamation strategy at Benguerir — on phosphate waste rock surface characteristics, using EnMAP hyperspectral data and spectral unmixing.
-
-**Exact thesis title:** *"Assessing the impact of backfilling on [[Phosphate Mine Waste]] rock characteristics in Benguerir, Morocco: An integrated field, laboratory, and hyperspectral remote sensing approach"*
-
-> **Important:** The reclamation strategy is specifically **backfilling** (remblayage), not generic revegetation. Backfilling = re-depositing material over waste rock piles to modify surface composition and prepare for revegetation.
-
----
-
-## Two Zone Types
-
-| Zone | Code | Description |
-|------|------|-------------|
-| Reclaimed Zone | **RZ** | Has undergone backfilling, leveling, and preparation for revegetation |
-| Reference Waste Rock Zone | **RWR** | Undisturbed deposited waste — "zero reclamation" reference |
-
----
-
-## Study Design (from manuscript)
-
-| Parameter | Value |
-|-----------|-------|
-| XRF samples per zone | n = 32 (balanced) |
-| EnMAP valid pixels (RZ) | 49 (balanced to 32) |
-| EnMAP valid pixels (RWR) | 47 (balanced to 32) |
-| EnMAP valid bands | **189** (spanning 418–2445 nm) |
-| Balancing seed | 42 (reproducible) |
-| Spectral concordance (full vs. balanced) | Pearson r = 0.990 |
-
----
-
-## What Backfilling Does Spectrally
-
-**XRF evidence:** Statistically significant geochemical contrasts (BH FDR-corrected q < 0.05) in:
-P₂O₅, CaO, SiO₂, Al₂O₃, MgO, K₂O, and Na₂O between RZ and RWR.
-
-Interpretation: Backfilling redistributes and mixes stratigraphically distinct lithological units, changing the surface geochemistry and thus the spectral response.
-
----
-
-## Spectral Separation (Per-Band Analysis)
-
-**Mann-Whitney U test on all 189 valid EnMAP bands:**
-- Significant zone separation across **all 189/189 valid bands** (q < 0.05 after BH FDR correction)
-- **Median effect size: r = 0.859** (large by conventional standards)
-- Spectral autocorrelation ρ₁ ≈ 0.992 → effective independent comparisons ≈ 17 → FDR correction applied
-
-**Key diagnostic features:**
-| Feature | Wavelength | Δ (RZ−RWR) | p-value |
-|---------|-----------|-----------|--------|
-| Carbonate combination | ~2330 nm | −0.019 | 0.0001 |
-| Iron oxide shoulder | ~900 nm | +0.006 | 0.0007 |
-
----
-
-## VCA-FCLS Unmixing Results (4 Endmembers)
-
-| Endmember | Dominant zone | RWR mean | RZ mean | Δ |
-|-----------|--------------|---------|--------|---|
-| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | +0.559 |
-| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | −0.483 |
-
-Bootstrap 95% CI excludes zero for both EM3 and EM4.
-
----
-
-## Statistical Validation
-
-| Test | Result |
-|------|--------|
-| Bootstrap (5,000 iter.) | 95% CI excludes zero for EM3 and EM4 |
-| Permutation test (10,000 iter.) | p = 0.0001 |
-| Spatial holdout | Same-sign fraction = 1.00 across all holdouts |
-| **Spatially blocked CV** | **BAC = 0.984 ± 0.031; AUC = 1.000** |
-| Permutation p (spatial block) | Empirical p = 0.002 |
-
-> The near-perfect BAC (0.984) reflects the strong spectral separation induced by backfilling — confirmed non-spurious by permutation test and spatial blocking. This is very different from the Ch.2 result (BAC=0.60–0.67) because the RZ vs. RWR contrast is a binary comparison at zone scale, not a fine-grained 4-class lithological mapping.
-
----
-
-## [[Reclamation Progress Index]] (RPI)
-
-| Zone | RPI median | 95% CI |
-|------|-----------|--------|
-| **RZ (reclaimed)** | **0.896** | [0.860–0.927] |
-| **RWR (reference)** | **0.203** | [0.161–0.221] |
-
-XRF concordance: Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
-
-→ Full details: [[Reclamation Progress Index]]
-
----
-
-## Implications
-
-1. EnMAP Level-2A at 30m can reliably discriminate reclaimed from undisturbed phosphate waste (all 189 bands significant)
-2. Near-perfect spatial CV accuracy (BAC=0.984) establishes EnMAP as operationally viable for large-scale monitoring
-3. No bespoke airborne campaigns needed — 27-day revisit at no additional cost
-4. RPI provides quarterly progress reporting tool for OCP Group
-
----
-
-## Related Concepts
-- [[EnMAP Satellite]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[Reclamation Progress Index]]
-- [[Phosphate Mine Waste]]
-- [[OCP Group and Benguerir Mine]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Reclamation Progress Index (RPI)
-
-## Definition
-The Reclamation Progress Index (RPI) is a **novel spectral index** developed in Chapter 3 of Abdelhak's thesis. It provides a satellite-derived metric (0–1) of reclamation progress, calibrated isotonically against field XRF geochemical support scores.
-
-**This is the most original methodological contribution of the entire thesis.**
-
----
-
-## Validated Results (from thesis manuscript)
-
-| Zone | RPI median | 95% CI |
-|------|-----------|--------|
-| **RZ (Reclaimed — backfilled)** | **0.896** | [0.860–0.927] |
-| **RWR (Reference Waste Rock)** | **0.203** | [0.161–0.221] |
-
-**XRF concordance:** Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
-
-**Transitional fraction** (RPI 0.35–0.65): characterizes intermediate reclamation states
-
-**RZ-like classification (RPI > threshold):** 90.625% of RZ pixels correctly identified
-
----
-
-## Construction
-
-### Step 1: EnMAP preprocessing
-- 189 valid bands (418–2445 nm after masking)
-- 32 balanced pixels per zone (from 49 RZ + 47 RWR valid pixels, seed=42)
-- Spectral concordance: Pearson r = 0.990 (full vs. balanced subset)
-
-### Step 2: VCA endmember extraction (k=4)
-Four scene-derived endmembers extracted from combined RZ+RWR spectra:
-- **EM3:** Dominant in RWR (raw waste) — mean RWR=0.612, mean RZ=0.053
-- **EM4:** Dominant in RZ (backfilled) — mean RWR=0.032, mean RZ=0.516
-
-### Step 3: FCLS abundance estimation
-- Fully Constrained Least Squares: non-negativity + sum-to-one
-- Parallel implementation per pixel
-- Output: abundance fraction for each endmember per pixel
-
-### Step 4: Abundance ratio → Raw RPI
-```
-Raw_RPI = EM4_abundance / (EM3_abundance + EM4_abundance)
-```
-Higher value = more "reclaimed" endmember relative to "raw waste" endmember.
-
-### Step 5: Isotonic calibration against XRF
-- At matched pixel-XRF locations: relate Raw_RPI to XRF geochemical support score
-- **Isotonic regression:** monotone non-decreasing function, no linearity assumption
-- Calibrated RPI: 0 (no reclamation) → 1 (full target state)
-
-**Why isotonic?** The relationship is monotone but non-linear; isotonic regression is non-parametric and enforces the correct ordering without assuming any functional form.
-
----
-
-## Statistical Validation
-
-| Test | Result |
-|------|--------|
-| Spearman ρ (RPI vs. XRF) | 0.845 |
-| p-value | 1.74 × 10⁻¹² |
-| Zone difference significance | Clearly differentiated (non-overlapping 95% CI) |
-| Spatial holdout fraction | 1.00 (same-sign across all holdouts) |
-
----
-
-## Spatial Application
-- Computed for every valid pixel in EnMAP scene
-- Maps entire 36 km² mine in one pass
-- Repeatable with future EnMAP acquisitions → operational monitoring
-- OCP Group can track reclamation trajectory without additional field campaigns
-
----
-
-## Potential for Operational Use
-
-> "The RPI can be computed automatically from any future EnMAP acquisition, providing OCP with a quarterly reclamation progress report at zero additional field cost."
-
-Generalizable framework: the calibration approach (unmixing → isotonic calibration → XRF) can be applied to any satellite hyperspectral mission for any mine type with geochemical ground truth.
-
----
-
-## Defense Talking Point
-If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS + isotonic XRF calibration can be applied to any HSI sensor (PRISMA, DESIS, future missions) and any mine type where geochemical ground truth exists. This is not specific to EnMAP or Benguerir — it's an operational template for satellite-based mine [[Reclamation Monitoring]]."
-
----
-
-## Related Concepts
-- [[Reclamation Monitoring]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[EnMAP Satellite]]
-- [[Handheld XRF]]
-- [[Phosphate Mine Waste]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis.md
-
----
-date: 2026-06-13
-tags:
-summary: "Research note analyzing the low lithological classification accuracies (15-27%) in the Shepelife model runs and outlining geological/remote-sensing causes."
----
-
-
-# 📊 Research Note — Shepelife Classification Accuracy Analysis
-
-This research note documents and analyzes the low overall accuracies (**15.38% to 26.92%**) observed in the model evaluation summaries of the **Shepelife Lithology MasterProject** (dated December 2025). 
-
----
-
-## 📈 Summary of Classifier Results
-
-Model accuracies were evaluated under two different inputs (raw spectral reflectances vs. derivative reflectances) across five classifiers:
-
-### 1. Raw Spectral Inputs
-*   **Random Forest**: $23.08\%$
-*   **Logistic Regression**: $23.08\%$
-*   **Support Vector Machine (SVM)**: $19.23\%$
-*   **Gradient Boosting**: $17.31\%$
-*   **K-Nearest Neighbors (KNN)**: $15.38\%$
-*   *Source Document*: [Spectral_ML_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Model_Summary.csv)
-
-### 2. Derivative Spectral Inputs (First Derivative)
-*   **Random Forest**: $26.92\%$
-*   **Logistic Regression**: $25.00\%$
-*   **K-Nearest Neighbors (KNN)**: $21.15\%$
-*   **Support Vector Machine (SVM)**: $19.23\%$
-*   **Gradient Boosting**: $19.23\%$
-*   *Source Document*: [Spectral_ML_Derivative_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Derivative_Model_Summary.csv)
-
-*Observations*: Preprocessing spectra via first derivatives yielded a minor performance boost (e.g., Random Forest accuracy improved from $23.08\%$ to $26.92\%$ and KNN from $15.38\%$ to $21.15\%$), but the models still severely underperformed.
-
----
-
-## 🔍 Why the Models Likely Underperformed
-
-These low classification accuracies are symptomatic of common bottlenecks in geological remote sensing. The project likely failed to generalize due to several key factors:
-
-### 1. Severe Class Imbalance & Metric Selection
-Geological formations are naturally imbalanced (e.g., small, rich outcrops vs. massive background dolomite or soil). If the model was evaluated using standard **Overall Accuracy (OA)** on an imbalanced dataset, the score would be highly skewed. As documented in [[Thesis_Defense_Preparation|Defense Prep Q9]], standard metrics fail on geological classes, and models must be evaluated using **Balanced Accuracy (BAC)**.
-
-### 2. Spatial Autocorrelation Bias (Random Splits)
-If the project utilized standard random cross-validation splits (e.g., random train-test splits) on spatial pixel grids, it would suffer from spatial autocorrelation. Pixels close to each other share identical spectral and atmospheric properties. Random splits lead to severe overfitting in training while showing terrible performance when evaluated on truly independent validation sets (requiring **Spatially Blocked Cross-Validation (Block-CV)** to resolve).
-
-### 3. Lack of Bad Band Masking & Atmospheric Preprocessing
-PRISMA satellite scenes contain multiple atmospheric absorption bands (around 1400 nm and 1900 nm) and low signal-to-noise ratio (SNR) channels at the edges of the VNIR/SWIR detectors. If these "bad bands" were not masked prior to training, the ML classifiers would build decision boundaries on atmospheric noise rather than true surface mineral chemistry, resulting in model failure.
-
-### 4. Scale Mismatch: Sub-Pixel Mixing
-Point-scale geochemical samples (such as XRF readings) from [Balanced_Lithology_Dataset.geojson](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.geojson) were matched directly to 30-meter PRISMA pixels. A single 30m pixel is rarely composed of a single, pure lithological unit. It represents an intimate mixture of dolomite, calcite, clay, and vegetative cover. Pure classifiers fail on mixed pixels; sub-pixel **Linear Spectral Unmixing (LSU)** is required to model these fractional abundances.
-
----
-
-## 🛡️ Thesis Context & Validation
-> [!IMPORTANT]
-> These low accuracies (**15–27%**) represent the results of this early prototype/student project and **do not** represent the final classification performance of your PhD thesis models. In your final Chapter 2 workflow, utilizing spatially blocked cross-validation and optimized **Extra Trees** classifiers, you achieved a **Balanced Accuracy (BAC) of 0.60–0.67** and **AUC > 0.95** (validated in [[Thesis_Defense_Preparation|Defense Prep Q6]]).
-
----
-
-## 🕸️ Relationships & Connections
-*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Shepelife Project Overview]]
-*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
-*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
-*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
-*   **discrepancy-log**:: [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md
-
----
-tags:
-date: 2026-06-13
-summary: "A mathematical technique that refines crystallographic structures to fit a measured XRD pattern, enabling quantitative mineral phase analysis."
-aliases:
----
-
-
-# Rietveld Refinement in XRD
-
-## Definition
-**Rietveld Refinement** is a mathematical method developed by Hugo Rietveld in 1969. It uses a least-squares approach to refine structural parameters (such as unit cell dimensions, atomic positions, site occupancies, and temperature factors) and instrumental parameters (such as background, peak shape, and alignment) to fit a simulated diffraction pattern to a measured X-ray powder diffraction (XRD) pattern. It is the standard method for quantitative phase analysis (QPA).
-
-## Mathematical Principle
-The method minimizes the residual sum of squares $S_y$ between the observed intensities $y_i(\text{obs})$ and calculated intensities $y_i(\text{calc})$ at each step $i$ of the diffractogram:
-$$S_y = \sum_{i} w_i \left[ y_i(\text{obs}) - y_i(\text{calc}) \right]^2$$
-where:
-*   $w_i = 1 / y_i(\text{obs})$ is the statistical weight assigned to point $i$,
-*   $y_i(\text{calc})$ is the sum of contributions from all crystalline phases and background.
-
-## Numerical Quality Indicators (R-Values)
-Rietveld software (such as HighScore Plus) outputs several numerical indicators to judge the quality of the fit:
-
-| Parameter | Name | Formula / Description |
-|-----------|------|-----------------------|
-| **$R_{\text{wp}}$** | Weighted Profile R-factor | $\left[ \frac{\sum w_i (y_i(\text{obs}) - y_i(\text{calc}))^2}{\sum w_i y_i(\text{obs})^2} \right]^{1/2}$. Mathematically, the most significant indicator as its numerator is the minimized residual. |
-| **$R_{\text{exp}}$** | Expected R-factor | $\left[ \frac{N - P}{\sum w_i y_i(\text{obs})^2} \right]^{1/2}$ where $N$ is the number of data points and $P$ is the number of refined parameters. Represents the best possible fit based on statistics. |
-| **$R_{\text{p}}$** | Profile R-factor | $\frac{\sum |y_i(\text{obs}) - y_i(\text{calc})|}{\sum y_i(\text{obs})}$. Measures raw profile absolute differences. |
-| **$\text{GOF}$** | Goodness of Fit | $\text{GOF} = \chi^2 = \left( \frac{R_{\text{wp}}}{R_{\text{exp}}} \right)^2$. A value of $1.0$ indicates an ideal fit; values between $1.5$ and $3.0$ are common for geological refinements. |
-
-## Applications
-In the XRD reports compiled in [XRD_reports.zip](file:///D:/PHD-1st/XRD_reports.zip), Rietveld refinement was conducted on raw scans of Benguerir waste rock samples:
-*   **Sample Z2-1** (`Z21.docx`): Refinement converged with $R_{\text{exp}} = 11.09\%$, $R_{\text{wp}} = 30.15\%$, and $\text{GOF} = 2.72$. It identified Palygorskite ($11.110\%$) and Montmorillonite ($3.021\%$) alongside major calcite, dolomite, and quartz.
-*   **Sample Z2-5** (`Minerals-Z2-5.docx`): Converged with $R_{\text{exp}} = 11.27\%$, $R_{\text{wp}} = 34.85\%$, and $\text{GOF} = 3.09$. Identified $21.524\%$ Hydroxylapatite.
-*   **Sample Z2-10** (`Z2-10-minerals.docx`): Converged with $R_{\text{exp}} = 11.71\%$, $R_{\text{wp}} = 37.93\%$, and $\text{GOF} = 3.24$, yielding $57.366\%$ Hydroxylapatite and $38.135\%$ Calcite.
-
-## Links
-- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
-- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
-- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# SWIR-HHXRF Spectral-Elemental Validation Criteria
-
-The **SWIR-HHXRF Spectral-Elemental Validation Criteria** represent the cross-disciplinary integration rules used in Chapter 1 of the thesis to validate mineralogical phases identified by VNIR–SWIR spectroscopy against elemental concentrations measured by Handheld XRF (HHXRF).
-
----
-
-## 1. Validation Criteria Table
-
-| Mineral Phase | Diagnostic SWIR Features | Supporting HHXRF Elemental Signatures |
-| :--- | :--- | :--- |
-| **Dolomite / Calcite** | Carbonate absorption near **2320–2350 nm**. (Source: [section_methods.txt:L28](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L28)). | Elevated CaO and/or MgO. Mg/Ca ratio discriminates dolomite from calcite. (Source: [section_methods.txt:L28](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L28)). |
-| **Illite** | Sharp, symmetric Al-OH absorption band centered at **2200–2208 nm**. (Source: [section_results.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L4)). | Elevated K₂O (up to **1.37 wt%**), Al₂O₃ (up to **7.25 wt%**), and SiO₂ (up to **56.2 wt%**). K/Al ratios support K-bearing clays. (Source: [section_methods.txt:L29](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L29)). |
-| **Montmorillonite** | Broad Al-OH absorption band near **2200 nm**. (Source: [section_results.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L4)). | High Al₂O₃ and SiO₂; variable CaO/Na₂O; consistently low K₂O (**< 1.4 wt%**). (Source: [section_methods.txt:L30,L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L30#L35)). |
-| **Kaolinite** | Al-OH doublet feature near **2165 nm** and **2200 nm**. (Source: [section_methods.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L31)). | High Al₂O₃ and SiO₂; low K₂O, CaO, MgO, and Fe₂O₃; Al/Si ratios distinguish from other silicates. (Source: [section_methods.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L31)). |
-| **Fluorapatite** | Subtle PO₄ absorption feature near **2150 nm** (carbonate fluorapatite). (Source: [section_methods.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L32)). | Elevated P₂O₅ (up to **23.86 wt%**), high CaO, and elevated strontium (Sr). (Source: [section_methods.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L32); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L32)). |
-| **Quartz** | No diagnostic features in VNIR–SWIR; affects continuum shape. (Source: [section_methods.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L33)). | High SiO₂ content in the absence of significant Al₂O₃ or other cation oxides. (Source: [section_methods.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L33)). |
-
----
-
-## 2. Spectral Library Matching Settings
-To help identify the subtle phosphate feature, the ECOSTRESS library matching workflow used:
-*   **Weighted Objective**: A weight of **5** was applied specifically to the phosphate absorption window between **2100 nm** and **2300 nm** during RMSE calculations to resolve the PO₄ band. (Source: [section_methods.txt:L19](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L19)).
-*   **Multi-Metric Matching**: Confidently verified mineral calls by combining RMSE, SAM, SID, and $R^2$, rather than relying on global $R^2$ alone, which can be depressed in intimate mineral mixtures. (Source: [section_results.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L18); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L44)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
-* [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme|Phosphate Mineral Validation Scheme]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Shannon Entropy Uncertainty Mapping
-
-## Definition
-Shannon entropy is an information-theoretic measure of uncertainty applied to probabilistic classifier outputs. In Chapter 2, it maps per-pixel prediction uncertainty across the PRISMA mineral classification map.
-
----
-
-## Formula
-```
-H(x) = −Σᵢ p(cᵢ|x) × log₂[p(cᵢ|x)]
-```
-Where:
-- H(x) = entropy at pixel x (in bits)
-- p(cᵢ|x) = predicted probability of class i at pixel x
-- Sum over all K mineralogical classes
-
-**Bounds:**
-- H = 0 bits: Certain — one class has probability = 1, all others = 0
-- H = log₂(K) bits: Maximum uncertainty — all K classes equally probable
-
----
-
-## Physical Interpretation for Mineralogy
-
-| Entropy level | Meaning |
-|---------------|---------|
-| H ≈ 0 | Pixel is spectrally pure, clear mineral signature |
-| H = 0.5–1.5 | Moderate uncertainty — possible mixed pixel or boundary |
-| H > 2.0 | High uncertainty — mixed pixel, unusual spectrum, or outside training distribution |
-
-**Where high entropy appears:**
-- Pixel boundaries between mineralogical units (transition zones)
-- Mixed pixels combining multiple minerals in equal proportions
-- Pixels with atmospheric artifacts or sensor noise
-- Areas outside the spectral range of training data (extrapolation)
-
----
-
-## Role in Thesis Chapter 2
-
-1. **Diagnostic:** Identify pixels where the model is uncertain
-2. **Priority areas for future fieldwork:** High-entropy zones should be validated first
-3. **Quality control:** Threshold-based masking of uncertain predictions before generating final mineral map
-4. **Honest reporting:** Entropy map alongside classification map shows where the model can and cannot be trusted
-
----
-
-## Connection to Spatially Constrained CV
-
-Both entropy mapping and spatially constrained CV address model reliability:
-- **Spatial CV:** Honest generalization metric during training (removes autocorrelation)
-- **Entropy map:** Honest per-pixel uncertainty during prediction (identifies low-confidence areas)
-
-Together they form a rigorous uncertainty framework for the classification.
-
----
-
-## Calculation in Random Forest / Extra Trees
-
-Random Forest and Extra Trees output class probabilities as the mean of per-tree votes:
-```python
-proba = clf.predict_proba(X)  # shape: (n_pixels, n_classes)
-entropy = -np.sum(proba * np.log2(proba + 1e-10), axis=1)
-```
-This probability vector is what feeds the entropy calculation.
-
----
-
-## Defense Talking Point
-
-"Shannon entropy maps provide the jury with spatial honesty about where our model is confident and where it isn't. Rather than presenting a single classification map as if every pixel were equally reliable, we communicate uncertainty spatially — which is the scientifically rigorous approach."
-
----
-
-## Related Concepts
-- [[Machine Learning for Hyperspectral]]
-- [[Spatially Constrained Cross-Validation]]
-- [[PRISMA Satellite]]
-- [[Hyperspectral Imaging]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Spatial Uncertainty & Posterior Probability Score Mapping
-
-In Chapter 2, prediction reliability for lithological mapping is evaluated at a pixel-by-pixel level across the full PRISMA scene using two complementary metrics: **spatial Shannon entropy** (to quantify overall prediction uncertainty) and **maximum posterior probabilities** (to measure classification confidence).
-
----
-
-## 1. Metrics & Spatial Interpretation
-
-* **Spatial Shannon Entropy ($H$)**: Used to map classification uncertainty across the Benguerir waste rock piles.
-  * *Low Entropy*: Dominates the Marl and Limestone zones, indicating high classification consensus where spectral signatures are well-defined. (Source: [section_results_ch2.txt:L48](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L48)).
-  * *High Entropy*: Concentrated along lithological boundaries and transitional corridors (specifically where Phosphate and Siliceous facies interact). These match physical zones of mineralogical mixing at the **30 m** pixel scale. (Source: [section_results_ch2.txt:L48](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L48); [manuscript_clean_ch2.txt:L251](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L251)).
-* **Maximum Posterior Class Probability**: Used to construct confidence maps.
-  * *High Posterior Probabilities ($> 0.8$)*: Extensive for ensemble tree-based models (Extra Trees and Random Forest), particularly within carbonate-dominated sectors. (Source: [section_results_ch2.txt:L53](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L53)).
-  * *Low Posterior Probabilities*: Concentrated along transitional boundaries and phosphate-siliceous interaction corridors, reflecting sub-pixel spectral mixing rather than simple algorithmic noise. (Source: [section_results_ch2.txt:L54](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L54)).
-
----
-
-## 2. Important Methodological Caveat: Relative vs. Absolute Probabilities
-
-During the defense, examiners may ask if the posterior probabilities are calibrated. The thesis explicitly notes that:
-* **No Formal Calibration**: No probability calibration techniques (such as Platt scaling or Isotonic regression) were applied to the machine learning outputs for Chapter 2. (Source: [manuscript_clean_ch2.txt:L255](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L255)).
-* **Interpretation**: Because the model probabilities are uncalibrated, Shannon entropy and maximum posterior probabilities must be interpreted as **relative indicators of prediction uncertainty** rather than absolute probabilistic estimates of classification likelihood. (Source: [manuscript_clean_ch2.txt:L255](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L255)).
-* **Geological Meaning**: The spatial structuring of these uncertainty fields (concentrating along boundaries and mixing zones) confirms that they correspond to physical geological features (transitional facies) rather than random noise, validating their use as a qualitative decision-support tool. (Source: [manuscript_clean_ch2.txt:L251-252](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L251-L252)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
-* [[04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty|Shannon Entropy Uncertainty]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Spatially Constrained Cross-Validation in Chapter 2
-
-**Spatially Constrained Cross-Validation** (Spatial CV) is the validation framework implemented in Chapter 2 of the thesis to generate honest, unbiased estimates of machine-learning model generalization to spatially independent regions of phosphate waste-rock piles.
-
----
-
-## 1. Protocol Parameters & Spatial Buffer
-To prevent optimistic performance inflation caused by geographic proximity and spatial autocorrelation:
-*   **Spatial Buffer**: A buffer of **30 m** (matching the native resolution of the PRISMA sensor) was enforced between the training and validation subsets. Training samples located within **30 m** of any validation sample were excluded from the training split. (Source: [section_methods_ch2.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L79); confirmed in [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L192)).
-*   **Folds & Repeats**: The validation scheme used **5** folds repeated **10** times, yielding **50** independent train/test splits per classifier. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L51)).
-*   **Effective Fold Sizes**: For the refined **127** modeling dataset, each fold nominally assigned **~25** samples for validation and **~102** samples for training. (Source: [section_methods_ch2.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L79); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L42)).
-*   **Effective Training Size**: Excluding training samples falling within the buffer reduced the effective training set to approximately **85--100** samples per fold. (Source: [section_methods_ch2.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L79); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L42)).
-
----
-
-## 2. Spatial vs. Random Cross-Validation Comparison
-To quantify the impact of spatial autocorrelation, a direct comparison was conducted between random stratified k-fold and spatially constrained cross-validation:
-*   **Performance Gap**: Performance differences across all five original classifiers were extremely small, with $|\Delta\text{BA}| \le 0.035$ and no consistent directional bias (e.g., Random Forest BA Random = **0.669 ± 0.021** vs. BA Spatial = **0.666 ± 0.032**). (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); values confirmed in [supp_ch2.txt:L200-245 (Table S5)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L200-L245)).
-*   **Interpretation**: The lack of a large performance drop indicates that the prior pixel-level spatial redundancy filtering (deduplicating co-located pixels) had already successfully suppressed the dominant spatial autocorrelation at the **30 m** scale. This confirms that the reported spatial CV metrics represent genuine generalization performance rather than optimistic spatial correlation artifacts. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); confirmed in [reviewer_2_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L43)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response (Chapter 2)|Reviewer 2 Response (Chapter 2)]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Spatially Constrained Cross-Validation
-
-## The Problem: Spatial Autocorrelation in Remote Sensing ML
-
-In remote sensing, nearby pixels are spatially correlated — they share similar spectra because they share similar materials, illumination, and atmospheric conditions. Standard k-fold CV randomly assigns pixels to train/test splits, meaning:
-- A pixel at location (x, y) may be in the test set
-- Its neighbor at (x+30m, y) is likely in the training set
-- The model "cheats" by learning from the neighbor → inflated performance
-
-**Tobler's First Law of Geography:** "Everything is related to everything else, but near things are more related than distant things."
-
----
-
-## Abdelhak's Solution: Spatial CV with Buffer (Chapter 2)
-
-```
-For each test sample:
-  Exclude all training samples within 30m buffer
-  (= 1 pixel at 30m PRISMA/EnMAP resolution)
-
-Result:
-  Test pixels have no direct spatial neighbors in training
-  Evaluation is honest about generalization to new locations
-```
-
-**Parameters (from thesis manuscript):**
-- Buffer: 30m (= 1 PRISMA pixel)
-- CV replicates: 10 independent replicates of the 127-sample dataset
-- Metric: BAC (Balanced Accuracy) — handles class imbalance
-- Additional: Spatially blocked CV for Chapter 3 (EnMAP)
-
----
-
-## Chapter 2 Accuracy (from manuscript — single source of truth)
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **BAC (best classifiers)** | **0.60–0.67** | Extra Trees, Random Forest |
-| **AUC (carbonate classes)** | **> 0.95** | Marl, Limestone |
-| AUC (Phosphate, Siliceous) | Lower | Spectral overlap at 30m |
-| Spatially independent samples | 127 | After removing 80 shared-pixel duplicates |
-
-The thesis manuscript states explicitly:
-> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
-
----
-
-## Chapter 3: Spatially Blocked Cross-Validation (EnMAP)
-
-Chapter 3 uses a different, even more conservative spatial validation:
-- Elastic-net logistic regression on 32 balanced pixels per zone
-- **4 spatial groups** + **25 random CV repeats** + **500 permutation replicates**
-- Result: **BAC = 0.984 ± 0.031; AUC = 1.000**
-- Empirical permutation p = 0.002
-
-This near-perfect result (Ch.3) reflects the much stronger spectral separation between RZ and RWR zones under backfilling — NOT overfitting, confirmed by permutation test and spatial blocking.
-
----
-
-## Why This Matters for Defense
-
-"Why is your Ch.2 accuracy only 0.60–0.67?"
-
-> "This is the honest, spatially-aware accuracy. Spatial CV (30m buffer, 10 replicates) prevents autocorrelation from inflating the metric. The 0.60–0.67 BAC represents true generalization performance at new, spatially isolated locations. For geological mapping with 30m pixels and spatially clustered training data, this is the realistic ceiling — the thesis itself states this is a 'physically constrained upper bound' on what any classifier can achieve given sub-pixel mixing. Marl and Limestone, which are spectrally distinct, achieve AUC > 0.95. The lower discrimination is in the Phosphate vs. Siliceous facies, which overlap at 30m scale."
-
----
-
-## Literature Support
-- Roberts et al. (2017) — spatial CV for remote sensing
-- Ploton et al. (2020) — spatial CV for forest mapping
-- Karasiak et al. (2022) — spatial autocorrelation in ML
-- Meyer & Pebesma (2021) — "Predicting into unknown space"
-
----
-
-## Related Concepts
-- [[Machine Learning for Hyperspectral]]
-- [[PRISMA Satellite]]
-- [[EnMAP Satellite]]
-- [[Shannon Entropy Uncertainty]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md
-
----
-tags:
-created: '2026-06-07'
-summary: "Spectral analysis methods used in hyperspectral remote sensing \u2014 library\
----
-
-
-# Spectral Analysis
-
-Quantitative analysis of electromagnetic reflectance spectra to identify and characterize materials based on their spectral signatures.
-
-## Core Methods (used in Abdelhak's Thesis)
-
-### Library Matching
-- Compare measured spectra to reference libraries (e.g., [[ECOSTRESS Spectral Library]])
-- Metrics: RMSE, SAM, SID, $R^2$ (see [[ECOSTRESS Application in Thesis Chapter 1]] for setup)
-- Used in Ch.1 (field spectra) and Ch.2 (PRISMA)
-
-### Spectral Unmixing
-- Decompose a mixed pixel into endmember fractional abundances
-- Methods: VCA (Vertex Component Analysis) for endmember extraction, FCLS (Fully Constrained Least Squares) for abundance mapping
-- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/[[Reclamation Progress Index]]|RPI]]
-
-### Continuum Removal
-- Normalizes spectra to highlight absorption features
-- Convex hull algorithm isolates relative band depths
-- Standard pre-processing step before library matching
-
-## Key Spectral Features for Phosphate Mineralogy
-
-| Wavelength | Feature | Mineral |
-|-----------|---------|---------|
-| ~2150 nm | PO₄ stretch (weak) | Fluorapatite |
-| ~2200–2208 nm | Al-OH (sharp) | Illite/Muscovite |
-| ~2165 + 2200 nm doublet | Al-OH | Kaolinite |
-| ~2320–2350 nm | CO₃ | Dolomite/Calcite |
-| ~500–900 nm | Fe³⁺ | Goethite, Hematite |
-
-## Sensors Used
-
-- **Field:** ASD FieldSpec 4 (350–2500 nm, 1 nm sampling)
-- **Satellite Ch.2:** [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] (~250 bands, 30m)
-- **Satellite Ch.3:** [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] (189 valid bands, 30m)
-
-## Band Selection
-
-- [[04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method]] — PLSR+RF+SVM+GPR ensemble; selects bands by multi-model R²-weighted importance
-- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection]] — UM6P R implementation
-
-## Spectral Preprocessing (Derivatives & Transforms)
-
-- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline]] — SG filter, continuum removal, 1st/2nd derivatives, CWT (gaussian2 wavelet)
-
-## Related
-
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]
-- [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
-- [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Spectral Library Matching
-
-## Definition
-Spectral library matching identifies the mineralogy of an unknown spectrum by comparing it against a reference library of known mineral spectra. For each candidate mineral, a similarity metric (or composite of metrics) is computed; the mineral with the best score is assigned as the match.
-
----
-
-## Libraries Used in Abdelhak's Thesis
-
-### [[ECOSTRESS Spectral Library]]
-- Maintained by USGS / JPL.
-- Over 3,000 reference spectra (VIRS/TIR range) across minerals, vegetation, soils, and man-made materials.
-- For folder structure and filename formatting details, see [[ECOSTRESS Library File Structure and Naming]].
-- For details on how the library was loaded, curated, and matched against field samples, see [[ECOSTRESS Application in Thesis Chapter 1]].
-- Key minerals used: Calcite, Dolomite, Illite, Montmorillonite, Kaolinite, Quartz, Apatite $\text{Ca}_5(\text{PO}_4)_3\text{F}$.
-- Key **absence**: Francolite (carbonate fluorapatite, dominant phosphate in Benguerir) → known library limitation.
-
----
-
-## Metrics
-
-### RMSE (Root Mean Square Error)
-```
-RMSE = √(mean((a−b)²))
-```
-- Overall shape similarity
-- Sensitive to baseline offset differences
-- In thesis: weighted 5× in 2100–2300 nm (PO₄ window)
-
-### SAM (Spectral Angle Mapper)
-```
-SAM = arccos(a·b / (‖a‖ × ‖b‖))
-```
-- Measures angle between spectra in N-dimensional space
-- Insensitive to illumination scaling (brightness-invariant)
-- Result in radians; lower = more similar
-
-### SID (Spectral Information Divergence)
-```
-SID = Σ p(i)·log(p(i)/q(i)) + Σ q(i)·log(q(i)/p(i))
-```
-- Treats spectra as probability distributions (KL divergence, symmetric)
-- Sensitive to subtle shape differences
-- Complementary to SAM
-
-### R² (Coefficient of Determination)
-```
-R² = 1 − SSres/SStot
-```
-- How well the reference explains the unknown spectrum's variance
-- R² near 1 = excellent fit
-
-### Composite Score (in thesis Ch.1)
-```
-score = RMSE + SAM + SID
-```
-- Combined ranking; rank-1 = minimum composite score
-- Top 5–8 matches reported per sample
-
----
-
-## Preprocessing Before Matching
-1. Resampling to common wavelength grid (350–2500 nm, 1 nm step)
-2. Savitzky-Golay smoothing (window=7, poly=2)
-3. Min-max normalization: (x − min) / range
-4. Optional: continuum removal, derivative
-5. Convert ECOSTRESS percent reflectance → fraction (÷100)
-
----
-
-## Challenges for Phosphate Waste Rocks
-
-**Problem: Clay masking of apatite**
-- Illite and montmorillonite have strong Al-OH absorptions (~2200 nm)
-- Apatite PO₄ absorption (~2150 nm) is weaker
-- After normalization, clay features dominate → apatite ranks 3–7, not 1
-- **Solution:** Use HHXRF to directly measure P₂O₅, bypassing spectral dominance issue
-
-**Problem: Library incompleteness**
-- Francolite (carbonate fluorapatite) — the actual phosphate mineral at Benguerir — absent from ECOSTRESS
-- Only generic "Apatite Ca₅(PO₄)₃F" available
-- **Impact:** Phosphate identification less precise spectrally; confirmed via XRD/XRF
-
----
-
-## Key Results from Thesis Ch.1 (104 samples)
-| Rank | Dominant mineral |
-|------|----------------|
-| 1–2 | Illite, Montmorillonite (dominant surface clays) |
-| 3–7 | Apatite (spectrally recessive), Calcite, Quartz, Dolomite, Kaolinite |
-
-This distribution is **mineralogically consistent** with phosphate waste rock: clay gangue coats surfaces; carbonates and silica form the matrix; apatite is the economic mineral beneath.
-
----
-
-## Related Concepts
-- [[VNIR-SWIR Spectroscopy]]
-- [[Hyperspectral Imaging]]
-- [[Mineral Assemblages]]
-- [[Spectral Unmixing VCA-FCLS]]
-- [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib Index]] — full ECOSTRESS library on D:\\ (3,105 spectra, downloaded 2024-10-02)
-- [[ECOSTRESS Spectral Library]] — overview and material classes
-- [[ECOSTRESS Library File Structure and Naming]] — directory and filename naming conventions
-- [[ECOSTRESS Application in Thesis Chapter 1]] — matching setup and results in Chapter 1
-
----
-
-*Related: [[04_Knowledge Base/AI-Generated/thesis-ingestion/Spectroscopy Notebook Ingestion|Spectroscopy Notebook Ingestion]]*
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Spectral Unmixing — NNLS, VCA, FCLS
-
-## Problem Statement
-At 30m pixel resolution, each EnMAP or PRISMA pixel contains contributions from multiple minerals (mixed pixel problem). Spectral unmixing decomposes a mixed pixel spectrum into:
-- **Endmembers:** Pure component spectra
-- **Abundances:** Fractional contribution of each endmember (sum-to-one constraint)
-
-**Linear mixing model:**
-```
-r = Σ(a_i × e_i) + ε
-```
-Where r = observed spectrum, a_i = abundances, e_i = endmember spectra, ε = noise
-
----
-
-## Methods Used in Abdelhak's Thesis
-
-### Chapter 1: NNLS (Non-Negative Least Squares)
-- Endmembers from ECOSTRESS spectral library (top-5 rank-1 matches per sample)
-- NNLS finds non-negative abundances minimizing ||r − E·a||²
-- Applied to 104 field samples
-- Provides relative abundance of dolomite, illite, kaolinite, calcite, apatite
-
-### Chapter 3: VCA + FCLS (primary satellite-scale method)
-
-**VCA (Vertex Component Analysis)** — Endmember extraction
-- Assumes endmembers are at the vertices of the spectral simplex
-- PCA reduction → iterative vertex finding
-- Unsupervised — endmembers extracted from data, no library needed
-- **k = 4 endmembers** (primary)
-
-**FCLS (Fully Constrained Least Squares)** — Abundance estimation
-- Minimizes ||r − E·a||² subject to: a_i ≥ 0 AND Σa_i = 1
-- Implementation: NNLS with augmented sum-to-one equation
-- Parallelized via ThreadPoolExecutor
-
----
-
-## Key Ch.3 Results (from thesis manuscript)
-
-| Endmember | Dominant zone | RWR mean abundance | RZ mean abundance | Δ (RZ−RWR) |
-|-----------|--------------|-------------------|-----------------|-----------|
-| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | −0.559 |
-| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | +0.484 |
-
-Bootstrap (5,000 iterations): 95% CI excludes zero for both EM3 and EM4.
-
-**Spatially blocked CV:** BAC = 0.984 ± 0.031; AUC = 1.000
-
----
-
-## Ch.3 Band Configuration
-
-From the manuscript (not from the Python script — manuscript is source of truth):
-
-| Band category | Wavelength range | Action |
-|--------------|----------------|--------|
-| Valid bands | **189 bands, 418–2445 nm** | Retained |
-| Detector overlap | 1342–1391 nm | Masked |
-| Water vapor A | 1350–1450 nm | Masked |
-| Water vapor B | 1800–1950 nm | Masked |
-| Below valid fraction | Various | Masked |
-
----
-
-## VCA Algorithm
-
-```
-1. Mean-center spectra: R_c = R - mean(R)
-2. SVD: U, S, V = svd(R_c)
-3. Project to k-dimensional subspace: R_w = U[:, :k] × S[:k]
-4. Iterative vertex finding (k iterations):
-   - Random vector w
-   - Orthogonalize against current endmember set
-   - k = argmax|R_w · f|
-   - Add to endmember set
-```
-
----
-
-## FCLS Implementation
-
-```python
-# Augmented system: adds sum-to-one as an additional equation
-A_aug = vstack([endmember_matrix.T, scale × ones])
-b_aug = hstack([pixel, scale])  # scale = 1000.0
-abundances, _ = nnls(A_aug, b_aug)
-abundances = abundances / abundances.sum()  # renormalize
-```
-
----
-
-## Linear Mixing Assumption — Limitation
-Real-world mixing is often non-linear (intimate mixtures, multiple scattering). The thesis acknowledges this:
-> "Structured residuals in the 2150–2300 nm region for samples with overlapping clay-carbonate signatures are flagged as cases requiring qualitative rather than quantitative interpretation."
-
-Linear mixing is used because at 30m satellite pixels, areal (checkerboard) mixing dominates — each component reflects independently. This is the standard model for geological remote sensing at this scale.
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[VNIR-SWIR Spectroscopy]]
-- [[EnMAP Satellite]]
-- [[Reclamation Monitoring]]
-- [[Reclamation Progress Index]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# Stratigraphy of the Gantour Basin and Benguerir Mine
-
-The **Gantour Basin** is one of the four major sedimentary phosphate basins of Morocco, containing a thick Maastrichtian-Lutetian succession that is actively mined at Youssoufia and Benguerir.
-
----
-
-## 1. Basin Geography & Structure
-* **Boundaries**: Delineated by the Paleozoic Rehamna massif (North) and the Jbilet massif (South). It stretches 125 km East-West.
-* **Benguerir Sector**: Divided into two operational pits by the Benguerir-El Kelaa-des-Sraghna road:
-  * **BGI**: Mine Nord (covering Panel 5, etc.)
-  * **BGII**: Mine Sud (covering Panels 3, 4, etc.)
-* **Structural Style**: Flat, sub-horizontal tabulate beds (pendage ~1–2° towards the south) resting on a Paleozoic mica-schist or granitic basement. Local NE-SW fault systems and slumping structures (syn-sédimentaire deformations) are observed.
-
----
-
-## 2. Mining Stratigraphic Column (Mine Sud)
-The exploitation at Benguerir target distinct layers separated by sterile intercalary beds:
-
-* **Ypresian (Eocene)**:
-  * **Sillon B**: Coarse sandy phosphate.
-* **Thanetian (Paleocene)**:
-  * **Sillon A**: Divided into A1 (marney, unexploited), A2 (fossiliferous, exploited), and A3 (calcified, unexploited).
-* **Danian (Paleocene)**:
-  * **Couche 1-0**: Thicker meuble phosphate, often calcified, split locally by a dolomitic limestone slab.
-* **Maastrichtian (Cretaceous)**:
-  * **Sillon X**: Highly calcified, high-BPL meuble phosphate.
-  * **Couche 2**: Split by a distinct **bonebed** layer into Couche 2 sup (marly-clayey) and Couche 2 inf (hard, calcified, low-grade).
-  * **Couche 3**: Split into Couche 3 sup (low-grade marly-meuble) and Couche 3 inf (high-grade meuble with siliceous calcite). Rest underneath the **Argile Jaune** marker clay.
-  * **Couche 4**: Split into upper and lower sub-layers. Rich in chert nodules.
-  * **Couche 4/5**: Thin phosphate bed with chert.
-  * **Couche 5**: Very thick meuble phosphate (up to several meters), divided into upper, middle, and lower divisions. Faciès "nougat" (silicified silex-phosphate) is common at the top.
-  * **Couche 6**: Thin base meuble phosphate resting on yellow basal clays.
-
----
-
-## Related Notes
-- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
-* [[04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting|Gantour Basin and Benguerir Mine Geological Setting]]
-- [[04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015|Badioui & Kalombo (2015)]]
-- [[04_Knowledge Base/wiki/sources/wafikEtudeGeominiereMineSud2017|Wafik (2017)]]\n
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md
-
----
-tags:
-date: 2026-06-13
-summary: "An over-sampling method that resolves class imbalance by generating synthetic minority samples along the lines connecting nearest neighbors."
-aliases:
----
-
-
-# Synthetic Minority Over-sampling Technique (SMOTE)
-
-## Definition
-**Synthetic Minority Over-sampling Technique (SMOTE)** is a popular data augmentation technique designed to address class imbalance in machine learning datasets. Instead of simple over-sampling (which duplicates existing minority instances and often leads to overfitting), SMOTE generates entirely new, synthetic examples of the minority class by interpolating between existing minority class instances and their nearest neighbors.
-
-## How It Works
-SMOTE operates in the feature space rather than data-space:
-1. **Identify Minority Samples**: For each sample $x_i$ belonging to the minority class, compute its $k$-nearest neighbors in the same class (typically using Euclidean distance, with $k=5$).
-2. **Select Neighbor**: Choose one of the $k$-nearest neighbors $x_{zi}$ at random.
-3. **Interpolate**: Create a new synthetic sample $x_{new}$ along the line segment joining $x_i$ and $x_{zi}$ using the formula:
-   $$x_{new} = x_i + \lambda (x_{zi} - x_i)$$
-   where $\lambda$ is a random value drawn from a uniform distribution between $0$ and $1$.
-4. **Repeat**: Repeat the process until the minority class matches the size of the majority class (or a target ratio is achieved).
-
-```mermaid
-graph TD
-    A["Minority Sample (x_i)"] -->|Find k-NN| B["k-Nearest Neighbors"]
-    B -->|Random Select| C["Chosen Neighbor (x_zi)"]
-    C -->|Draw Line Segment| D["Calculate: x_i + lambda * (x_zi - x_i)"]
-    D -->|Create| E["New Synthetic Sample (x_new)"]
-```
-
-## Applications
-In geological and remote sensing datasets, mineral occurrences or specific waste rock lithologies (e.g., low-grade phosphate vs. altered limestone vs. chert) are often highly imbalanced. Standard classifiers (such as Random Forest or XGBoost) trained on such data will exhibit high overall accuracy but poor recall for minority classes. 
-
-SMOTE is applied in the preprocessing phase of [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) to balance waste rock lithology classes before training, resulting in more robust classification boundaries and higher F1-scores for under-represented classes.
-
-## Links
-- [[Code — VLC — ML Models Classifier]]
-- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
-- [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# VNIR-SWIR Spectroscopy
-
-## Definition
-Visible/Near-Infrared + Shortwave Infrared spectroscopy (VNIR-SWIR) covers 350–2500 nm. Combined with [[Handheld XRF]] (HHXRF), it forms the core analytical approach of Chapter 1 of Abdelhak's thesis for field characterization of [[Phosphate Mine Waste]].
-
-**Chapter 1 title:** "Integrating VNIR–SWIR Spectroscopy and [[Handheld XRF]] for Enhanced Mineralogical Characterization of [[Phosphate Mine Waste]] Rocks in Benguerir"  
-**Published:** Sensors (IF 3.5), Dec 2025, doi:10.3390/s26010002
-
----
-
-## Physical Basis
-
-Spectral features in the VNIR-SWIR arise from two processes:
-
-### Electronic transitions (VNIR, 400–1000 nm)
-- **Fe2+/Fe3+ electronic transitions** → broad absorptions at 500 nm, 680 nm, 900 nm
-- Diagnostic for iron oxides: hematite (α-Fe₂O₃), goethite (α-FeOOH)
-- Present in phosphate waste due to oxidized gangue
-
-### Molecular vibrations (SWIR, 1000–2500 nm)
-- **Overtones and combination tones** of fundamental molecular bonds
-- OH⁻ stretch → ~1400 nm, ~1900 nm (clays, hydroxyl minerals)
-- CO₃ combination → ~2320 nm (carbonates)
-- Al-OH combination → ~2200 nm (kaolinite, illite)
-- Mg-OH combination → ~2330 nm (dolomite, chlorite)
-- PO₄ overtone → ~2150 nm (apatite, fluorapatite) — weak but diagnostic
-
----
-
-## Chapter 1 Workflow
-
-```
-104 field samples (ASD FieldSpec 4, 350–2500nm)
-     ↓
-Preprocessing: resampling → 1nm common grid → normalization
-     ↓
-[[Spectral Library Matching]] (ECOSTRESS splib07)
-     Metrics: RMSE, SAM, SID, R² → composite score
-     ↓
-Best-match mineral identification (rank 1–8)
-     ↓
-NNLS spectral unmixing (endmember abundances)
-     ↓
-Integration with HHXRF (elemental chemistry)
-     Results: CaO, SiO2, P2O5, Fe2O3, Al2O3, MgO, K2O, etc.
-     ↓
-Cross-validation with XRD (mineralogy)
-```
-
----
-
-## ECOSTRESS Spectral Library (splib07)
-- ~1,609 spectra total; 15 curated for Benguerir target minerals
-- **Key finding:** Fluorapatite/francolite underrepresented → apatite at rank 3–7, not rank 1
-- Dominant rank-1 matches: Illite, Montmorillonite (clays absorb more strongly than apatite in VNIR-SWIR)
-- This is physically correct: clay surface coatings dominate spectral response; apatite detected beneath clay signal via unmixing + XRF confirmation
-
----
-
-## Matching Metrics
-
-| Metric | Formula | Good value |
-|--------|---------|-----------|
-| RMSE | √(mean((a−b)²)) | Low |
-| SAM | arccos(a·b / ‖a‖‖b‖) | Low (radians) |
-| SID | KL divergence (symmetric) | Low |
-| R² | 1 − SSres/SStot | High |
-| Composite score | RMSE + SAM + SID | Low |
-
-**Phosphate weighting:** RMSE is weighted 5× in the 2100–2300 nm window to emphasize PO₄ diagnostic region.
-
----
-
-## ASD FieldSpec 4 Specifications
-- Range: 350–2500 nm
-- Sampling interval: 1.4 nm (VNIR), 2 nm (SWIR)
-- FWHM: 3 nm (VNIR), 6–10 nm (SWIR)
-- Field of view: ~25° FOV contact probe
-- Calibration: BaSO₄ Spectralon white reference panel before each measurement
-
----
-
-## Key Results (Thesis Ch.1)
-- 104 samples from Benguerir waste rock piles (managed + unmanaged zones)
-- Dominant minerals identified: illite > dolomite > calcite > kaolinite > apatite
-- Clay minerals dominate spectral response → consistent with phosphate gangue mineralogy
-- HHXRF validated: P₂O₅ content correlates with apatite abundance from unmixing
-- Combined VNIR-SWIR + HHXRF outperforms either method alone
-
----
-
-## Related Concepts
-- [[Hyperspectral Imaging]]
-- [[Spectral Library Matching]]
-- [[Handheld XRF]]
-- [[Mineral Assemblages]]
-- [[Phosphate Mine Waste]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks.md
-
----
-date: 2026-06-13
-tags:
-summary: "Geochemical characterization of Benguerir waste rock samples analyzed via Wavelength Dispersive X-ray Fluorescence (WD-XRF)."
-aliases:
----
-
-
-# WD-XRF Chemical Characterization of Benguerir Waste Rocks
-
-## Data Asset
-
-| Property | Value |
-|----------|-------|
-| Files | `Analyse XRF-xxx-2022 Mr ElMANSOUR.xlsx`, `Rapport d'analyse XRF-xxx-22- Mr ELMANSOUR.pdf`, `XRF-prepared.xlsx` |
-| Format | MS Excel Sheets, PDF Analysis Report |
-| Location | [file:///D:/PHD-2nd/XRF/](file:///D:/PHD-2nd/XRF/) |
-| Instrument | Wavelength Dispersive X-ray Fluorescence (WD-XRF) |
-| Preparation | Pressed powder pellets (Pastilles) |
-| Laboratory | EMEC (Mining Environment and Circular Economy), UM6P |
-
-## Description & Purpose
-
-This dataset documents the geochemical characterization of rock samples collected from the Benguerir phosphate mine waste piles during year 2 of the PhD. The chemical assays (specifically major oxides $CaO$, $SiO_2$, $Al_2O_3$, $MgO$, $K_2O$, $Na_2O$, $P_2O_5$, $MnO$, and Loss on Ignition ($LOI$)) serve as the ground-truth elemental database used to validate SWIR field spectroscopy unmixing and calibrate satellite-scale mineral mapping.
-
----
-
-## Geochemical Range & Statistics
-
-The data is split across two primary files representing different phases of preparation and compiling:
-1.  **Raw Lab Report (`Analyse WDXRF` sheet / PDF)**: 20 samples collected for the EMEC-SMCE Workshop (denoted `Z2-1` to `Z2-115` on a linear track).
-2.  **Prepared Database (`XRF-prepared.xlsx`)**: 83 samples (denoted `Z2-2` to `Z2-112`) representing the broader campaign.
-3.  **Total Count**: 102 unique samples (sample `Z2-70` overlaps between the sheets).
-
-### Combined Oxide Ranges (Raw Files)
-
-| Oxide | Minimum (wt%) | Maximum (wt%) | Mean (wt%) |
-|-------|---------------|---------------|------------|
-| **$CaO$** | 9.20 | 54.40 | ~28.01 |
-| **$SiO_2$** | 6.22 | 68.98 | ~30.75 |
-| **$Al_2O_3$** | 0.89 | 3.55 | ~2.10 |
-| **$MgO$** | 1.12 | 7.75 | ~3.82 |
-| **$P_2O_5$** | 0.972 | 23.043 | ~9.79 |
-| **$Na_2O$** | 0.15 | 0.92 | ~0.43 |
-
----
-
-## ⚠️ Data Discrepancies & QA-QC Notes
-
-> [!WARNING]
-> Historical values in these D-Drive files show minor discrepancies compared to the final peer-reviewed thesis manuscript and [[Numbers Arsenal]]. The thesis values are the single source of truth.
-
-### 1. Maximum $P_2O_5$ Concentration
-*   **D-Drive Raw Claim**: The highest $P_2O_5$ concentration in the raw files is **`23.043 wt%`** (found in sample `Z2-13` in `XRF-prepared.xlsx`, followed by `22.985 wt%` in sample `Z2-10` in `Analyse WDXRF`).
-*   **Thesis Canonical Fact**: The maximum $P_2O_5$ concentration is **`23.86 wt%`** (associated with fluorapatite validation in Chapter 1). The discrepancy suggests the thesis used a refined, recalibrated, or extended dataset.
-
-### 2. Overlapping Sample `Z2-70` Discrepancy
-Sample `Z2-70` is present in both raw sets, but shows significant numerical variance:
-*   **Raw Lab Sheet (`Analyse WDXRF`)**: $CaO = 25.50\%$, $SiO_2 = 29.13\%$, $P_2O_5 = 11.55\%$, $MgO = 2.77\%$.
-*   **Prepared Sheet (`XRF-prepared.xlsx`)**: $CaO = 37.28\%$, $SiO_2 = 22.82\%$, $P_2O_5 = 12.94\%$, $MgO = 3.98\%$.
-*   *Interpretation*: `XRF-prepared.xlsx` represents corrected values or a different analytical run post-calibration adjustment.
-
-### 3. Sample Size Cohort
-*   **D-Drive Raw Count**: 102 unique samples are cataloged in these files.
-*   **Thesis Chapter 1 Count**: **104** field samples were used in the final cohort.
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Archives/D-Drive/Data Discrepancy Log]]
-- [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]]
-- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
-- [[04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md
-
----
-tags:
-created: '2026-06-07'
-summary: "Mine waste rock characterization \u2014 mineralogy, spectral properties,\
----
-
-
-# Waste Rock Characterization
-
-The process of identifying and quantifying the mineralogical, geochemical, and physical properties of excavated non-ore material from mining operations.
-
-## Context (Benguerir, Morocco)
-
-At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]), waste rock piles (WRP) require characterization to:
-- Assess environmental risk (leaching, dust, ARD potential)
-- Identify valorization potential (residual phosphate, carbonates)
-- Design reclamation and revegetation strategies
-
-## Key Mineral Classes (from Thesis Ch.1)
-
-| Class | Dominant Minerals | Spectral Signature |
-|-------|------------------|-------------------|
-| Carbonates | Dolomite, Calcite | ~2320–2350 nm |
-| Clays | Illite, Kaolinite, Smectite | Al-OH ~2200 nm |
-| Phosphates | Fluorapatite, Francolite | PO₄ ~2150 nm (weak) |
-| Silicates | Quartz | Featureless SWIR |
-
-## Methods Used in Abdelhak's Thesis
-
-- **Field spectroscopy** (ASD FieldSpec 4, 350–2500 nm) + ECOSTRESS library matching → Ch.1
-- **[[Handheld XRF]]** (Niton XL5) for elemental geochemistry → Ch.1
-- **[[PRISMA Satellite]]** (30m) classification → Ch.2
-- **[[EnMAP Satellite]]** spectral unmixing → Ch.3
-
-## Related
-
-- [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste]]
-- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
-- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation.md
-
----
-date: 2026-06-13
-tags:
-summary: "Participation and abstract details for the 1st edition of the Sustainable Mining and Circular Economy (SMCE) Workshop in August 2022."
-aliases:
----
-
-
-# Workshop EMEC-SMCE 2022 Participation
-
-## Event Details
-
-*   **Conference / Workshop**: Workshop EMEC-SMCE 1st edition
-*   **Theme**: *Sustainable Mining and Circular Economy*
-*   **Date**: August 26, 2022
-*   **Venue**: Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
-*   **Host Laboratory**: EMEC (Mining Environment and Circular Economy)
-
----
-
-## Abstract & Presentation Overview
-
-### Title
-**Phosphate waste rocks characterization for better soil remediation outcomes**
-
-### Authors
-Abdelhak EL MANSOUR, Ahmed LAAMRANI, Rachid HAKKOU, Abdellatif EL GHALI, Mostafa BENZAAZOUA
-
-### Abstract Core Text
-Progressive rehabilitation of phosphate mines is critical as mining production expands. However, the high heterogeneity of phosphate waste rock piles (PWRPs) can disrupt soil remediation during mine reclamation. This work characterizes PWRPs mineralogically and chemically to optimize soil remediation. A hyperspectral study using a PRISMA Level-2D image (acquired 12 February 2022) was used to map elements spatially across waste rock piles. Concurrently, a linear sampling campaign was executed on Panel 2 of the Benguerir mine (spanning 662 m), collecting 100 samples. A subset of 20 samples was analyzed using thin sections and X-Ray Diffraction (XRD).
-
----
-
-## Key Early Results Stated
-
-*   **Mineralogy (XRD)**: 20 representative samples were analyzed, confirming the dominance of **Calcite**, **Quartz**, **Dolomite**, **Fluorapatite**, and **Berlinite** ($AlPO_4$).
-    *   *Note*: The presence of Berlinite represents an early-stage mineralogical assignment that was refined in later thesis chapters (where apatite/clay assemblages were characterized more precisely).
-*   **Petrography / Micrographs**: Petrographic thin sections identified:
-    *   Phosphate pellets and bone fragments.
-    *   Fine-grained calcite and dolomite.
-    *   Phosphatic clasts and bio-fragments.
-*   **Remediation Relevance**: Characterizing these mineral phases is critical to understanding nutrient bioavailability and electrical conductivity (EC) properties of the waste rock substrate, ensuring long-term fertility during progressive soil reclamation.
-
----
-
-## Links
-- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
-- [[04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign]]
-- [[04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus.md
-
----
-tags:
-date: 2026-06-13
-summary: "A software application developed by PANalytical used for mineral phase identification, Rietveld refinement, and crystallographic analysis of XRD data."
-aliases:
----
-
-
-# X'Pert HighScore Plus
-
-## Definition
-**X'Pert HighScore Plus** (developed by PANalytical, now Malvern Panalytical) is a standard desktop application used for analyzing X-ray powder diffraction (XRD) patterns. It integrates phase identification (search/match), profile fitting, pattern treatment, and advanced crystallographic analysis—including quantitative phase analysis using the Rietveld refinement method.
-
-## Key Capabilities & Workflow
-
-```mermaid
-graph TD
-    A["Raw Diffractogram (.raw / .xy / .xrdml)"] --> B["Pattern Treatment: Background & Peak Search"]
-    B --> C["Search/Match Phase Identification"]
-    C -->|JCPDS PDF-2 Database| D["Candidate Phase Selection (Calcite, Quartz, Apatite)"]
-    D --> E["Rietveld Refinement & Profile Matching"]
-    E --> F["Quantitative Analysis (Weight %) & Unit Cell Parameters"]
-```
-
-### 1. Database Integration
-HighScore Plus relies on reference databases to match measured peaks with crystallographic standards. The software in [D:\PHD-1st\Xpert highscore\](file:///D:/PHD-1st/Xpert%20highscore/) uses the **JCPDS PDF-2 database** (Joint Committee on Powder Diffraction Standards / ICDD), containing standard powder diffraction file cards:
-*   `PDF2.DAT`: The primary JCPDS compiled binary database.
-*   `ReferenceDatabase.PDB`: Converted indexes used by the HighScore engine for fast searching and matching.
-
-### 2. Search/Match Algorithm
-Compares the $d$-spacings ($2\theta$ angles) and relative intensities of peaks in the experimental diffractogram against the reference cards in the PDF database. Candidate phases are scored based on the alignment of peak positions and matching chemistry constraints.
-
-### 3. Quantitative Rietveld Refinement
-Performs full-pattern fitting by adjusting crystallographic structures (atomic positions, unit cell dimensions, crystallite size, microstrain, thermal parameters) and instrument parameters to minimize the difference between the observed and simulated XRD patterns. It outputs the relative weight percentages ($\text{Wt}\%$) of the identified mineral phases.
-
-## Applications
-In the first year of the PhD, Abdelhak used HighScore Plus to analyze raw scans (`.raw` and `.xy` files in [RE__Analyses_DRX](file:///D:/PHD-1st/RE__Analyses_DRX/)) of waste rock samples from Panel 2 of the Benguerir mine. This analysis quantitatively verified the mineral components (e.g., Calcite, Dolomite, Palygorskite, Quartz, Fluorapatite) validating the 4-class mineralogy validation scheme of Chapter 1.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
-- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
-- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
-- [[04_Knowledge Base/wiki/sources/NBSAIDS83_Manual]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy.md
-
----
-tags:
-date: 2026-06-13
-summary: "An analytical technique used to identify crystalline mineral phases by measuring standard constructive interference patterns of X-rays."
-aliases:
----
-
-
-# X-Ray Diffraction (XRD) in Mineralogy
-
-## Definition
-**X-Ray Diffraction (XRD)** is a non-destructive analytical technique used to determine the mineralogical composition, crystalline structure, and physical properties of geological materials. It functions by exposing a crystalline powder sample to a monochromatic beam of X-rays, which scatter in directions dictated by the spacing of atoms in the crystal lattice.
-
-## How It Works
-Crystalline minerals act as three-dimensional diffraction gratings for X-rays. When the path difference of scattered X-rays equals an integer number of wavelengths, constructive interference occurs, generating a diffraction peak. This is described by **Bragg's Law**:
-$$n\lambda = 2d \sin\theta$$
-where:
-*   $n$ is the order of reflection (integer),
-*   $\lambda$ is the wavelength of the incident X-ray beam (e.g., $Cu\text{-}K\alpha$ radiation = $1.5406\,\text{Å}$),
-*   $d$ is the interplanar spacing ($d$-spacing) of the crystal lattice planes,
-*   $\theta$ is the angle of incidence.
-
-```mermaid
-graph TD
-    A["Monochromatic X-ray Source"] -->|Incident Beam| B["Crystalline Sample (d-spacing)"]
-    B -->|Diffracted Beam (Bragg's Law)| C["X-ray Detector"]
-    C -->|Measure Angles & Intensities| D["Diffraction Pattern (2-Theta vs Intensity)"]
-```
-
-The resulting diffractogram (plotting $2\theta$ vs. intensity) acts as a unique mineralogical fingerprint. Individual phases are identified by comparing the position and relative intensity of their diffraction peaks against standard reference databases (such as the ICDD Powder Diffraction File).
-
-## Applications
-In phosphate mining environment studies, XRD is essential for:
-*   **Phase Identification**: Distinguishing between different carbonate minerals (Calcite, Dolomite, Ankerite, Siderite) and phosphate-bearing minerals (Fluorapatite, Hydroxyapatite) in waste rock piles.
-*   **Quantitative Mineralogy**: Determining the relative weight percentages of minerals using Rietveld refinement methods, which helps validate satellite remote sensing mineral maps.
-*   **Clay Characterization**: Identifying clay mineral assemblages (such as Palygorskite and Montmorillonite) which impact waste pile stability and soil water-holding capacity.
-
-## Links
-- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
-- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
-- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
-- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
-- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels.md
-
----
-date: 2026-06-13
-tags:
----
-
-
-# XRD and Petrographic Validation of Classification Labels
-
-**XRD and Petrographic Validation of Classification Labels** represents the analytical protocol implemented in Chapter 2 of the thesis to ground the machine learning lithological classes in physical mineralogical and textural evidence rather than field visual descriptions alone.
-
----
-
-## 1. Laboratory Ingestion Protocol
-*   **XRD Analysis**: The mineralogical composition of **20** representative samples was determined using a powder X-ray diffractometer over a $2\theta$ range of **10–70°** (counting time: **46 s** per step). (Source: [section_methods_ch2.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L24)).
-*   **Petrographic Analysis**: Polished thin sections were prepared for **10** representative samples to examine mineral textures under a polarizing microscope. (Source: [section_methods_ch2.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L27)).
-*   **Target Selection**: The **20** XRD samples were selected to cover the full geochemical range of the **207** field dataset. All **20** samples are distributed across the **4** principal lithological classes. (Source: [section_methods_ch2.txt:L25](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L25)).
-*   **Dataset Integration**: Those XRD samples associated with unique PRISMA pixels are included directly in the **127** modeling dataset. (Source: [section_methods_ch2.txt:L25](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L25); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L60)).
-
----
-
-## 2. Crystalline Phase Identifications
-The mineral assemblages verified by powder XRD corroborate the four classification categories:
-*   **Phosphate Rock**: Characterized by dominant peaks of *fluorapatite* associated with calcite and quartz (e.g., Sample ID Z2-1, Z2-5, Z2-10). (Source: [supp_ch2.txt:L50-74 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L50-L74)).
-*   **Siliceous Facies**: Characterized by *quartz* dominant phases with minor illite and fluorapatite (e.g., Sample ID Z2-25, Z2-40, Z2-50). (Source: [supp_ch2.txt:L75-90 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L75-L90)).
-*   **Marl**: Characterized by *calcite* and *illite/dolomite* assemblages (e.g., Sample ID Z2-55, Z2-60, Z2-65, Z2-70). (Source: [supp_ch2.txt:L91-106 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L91-L106)).
-*   **Limestone**: Characterized by dominant *calcite* and *dolomite* with minor clay or quartz (e.g., Sample ID Z2-85, Z2-95, Z2-105). (Source: [supp_ch2.txt:L114-133 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L114-L133)).
-
-Texturally, polarizing microscope observations confirm that the phosphatic components are rounded pelloids and clasts embedded in a fine-grained carbonate-siliceous matrix. (Source: [section_results_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L3)).
-
----
-
-## Related Notes
-* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
-* [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy|X-Ray Diffraction (XRD) in Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
-* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)|Reviewer 3 Response (Chapter 2)]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md
-
----
-date: 2026-06-13
-tags:
-summary: "Micro-XRF database dataset demonstrating carbonate mineral mapping, calcite/dolomite zonation, and vacuum settings."
-aliases:
----
-
-
-# XRF Training Sample — Carbonates
-
-## Overview
-The **Carbonates Training Sample** is a micro-XRF spectral database located in:
-`file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Carbonates.db`
-
-It focuses on mapping and distinguishing carbonate mineral phases (such as calcite, dolomite, and ankerite) using micro-scale elemental zonation.
-
----
-
-## Technical Demonstrations
-
-### 1. Differentiating Calcite from Dolomite
-* **The Challenge**: Both calcite ($\text{CaCO}_3$) and dolomite ($\text{CaMg}(\text{CO}_3)_2$) contain Calcium ($\text{Ca}$), but dolomite also contains Magnesium ($\text{Mg}$). Differentiating them by X-ray fluorescence requires resolving the weak $\text{Mg}$ signal.
-* **The Solution**: By mapping under **$2\text{ mbar}$ vacuum** with **$50\text{ kV}$ voltage**, the detector resolves both the strong $\text{Ca K}\alpha$ ($3.69\text{ keV}$) and the weak $\text{Mg K}\alpha$ ($1.25\text{ keV}$) peaks. The spatial distribution of the $\text{Mg}/\text{Ca}$ ratio is calculated in AMICS to separate dolomite zones from calcite veins.
-
-### 2. Carbonate Zonation
-* Demonstrates how carbonate minerals undergo chemical zonation (e.g., iron or magnesium substitution in calcite) during diagenesis or hydrothermal alteration, mapping the gradational boundaries between calcite ($\text{Ca}$-rich) and ankerite/dolomite ($\text{Fe/Mg}$-bearing).
-
----
-
-## Relevance to Abdelhak's Research
-At the Benguerir phosphate mine, carbonate rocks (limestone, marly limestone, dolomite) constitute the majority of the waste rock overburdens and interburdens.
-* In **Chapter 1** (field spectroscopy), carbonates are identified by their characteristic $\text{C-O}$ vibrational absorption features in the SWIR range (typically around $2.3\ \mu\text{m}$ and $2.5\ \mu\text{m}$).
-* In **Chapter 3**, the $\text{CaO}$ proxy from XRF calibration is a core parameter in calculating the **[[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]]**, where carbonate waste rock represents the background soil geology before revegetation.
-* Resolving calcite versus dolomite is important because dolomite has higher geomechanical strength (higher UCS) and different weathering rates, affecting how the waste piles stabilize over time.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
-* [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md
-
----
-date: 2026-06-13
-tags:
-summary: "Micro-XRF database dataset demonstrating chlorite mineral mapping and scan optimization for light elements."
-aliases:
----
-
-
-# XRF Training Sample — Chlorite
-
-## Overview
-The **Chlorite Training Sample** is a micro-XRF spectral database located in:
-`file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Chlorite.db`
-
-It is designed to train operators on optimizing scan parameters for **light elements** (specifically Magnesium, Aluminum, and Silicon) hosted within hydrous sheet silicates like chlorite ($(\text{Mg,Fe})_5\text{Al}(\text{AlSi}_3\text{O}_{10})(\text{OH})_8$).
-
----
-
-## Technical Demonstrations
-
-### 1. Overcoming Air Absorption of Light Elements
-X-ray fluorescence lines emitted by light elements have very low energies (e.g., $\text{Mg K}\alpha = 1.25\text{ keV}$, $\text{Al K}\alpha = 1.49\text{ keV}$, $\text{Si K}\alpha = 1.74\text{ keV}$). In standard atmospheric conditions, these weak X-rays are absorbed by air molecules before they can reach the detector, preventing their measurement.
-* **The Solution**: The dataset was acquired under a **$2\text{ mbar}$ vacuum** in the Bruker sample chamber. Removing air molecules allows the low-energy X-rays to reach the energy-dispersive detector, enabling the identification and quantification of chlorite's $\text{Mg}$, $\text{Al}$, and $\text{Si}$ peaks.
-
-### 2. High Voltage (50 kV) for Heavy Elements
-While vacuum is necessary for light elements, the X-ray tube must also excite heavier elements like Iron ($\text{Fe K}\alpha = 6.40\text{ keV}$).
-* The dataset demonstrates using a **$50\text{ kV}$ tube voltage** and **$600\ \mu\text{A}$ current** to provide enough energy to excite the heavy $\text{Fe}$ transitions while the vacuum system simultaneously preserves the light $\text{Mg}$ and $\text{Al}$ signals.
-
----
-
-## Relevance to Abdelhak's Research
-In phosphate mine waste rocks, clay minerals (like smectite, illite, chlorite, and kaolinite) indicate weathering and reclamation progress. When using **[[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF (HHXRF)]]** or laboratory XRF to calibrate clay abundance maps:
-* Measuring $\text{Al}_2\text{O}_3$ and $\text{MgO}$ directly provides a chemical proxy for clay content.
-* Operators must calibrate vacuum or helium-flush systems to ensure these light elements are not underestimated due to air absorption.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
-* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
-* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md
-
----
-date: 2026-06-13
-tags:
-summary: "Micro-XRF training dataset demonstrating perthitic feldspar and biotite mapping in granite."
-aliases:
----
-
-
-# XRF Training Sample — Granite
-
-## Overview
-The **Granite Training Sample** is a micro-XRF calibration dataset located in:
-`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part2 Granite/`
-
-It utilizes the raw Bruker scan file **`Nice-Granite.bcf`** (converted to `Nice-Granite.mre`) to demonstrate data processing on an intact rock block (block sample type).
-
----
-
-## Technical Demonstrations
-
-This dataset is specifically designed to train operators on handling coarse-grained plutonic rocks with complex mineral intergrowths:
-
-### 1. Perthitic Feldspar Exsolution
-* **The Challenge**: Perthitic feldspar consists of fine, intergrown lamellae of albite (plagioclase, $\text{NaAlSi}_3\text{O}_8$) exsolved within a host matrix of orthoclase ($\text{K-feldspar}$, $\text{KAlSi}_3\text{O}_8$).
-* **Matrix Mapping vs. Segmentation**:
-  * **Matrix Mapping** (using a standard grid step size like $20\ \mu\text{m}$) fails to resolve the fine, worm-like lamellae. It averages the Sodium ($\text{Na}$) and Potassium ($\text{K}$) signals, resulting in a single misclassified "intermediate" feldspar or noisy pixel classifications.
-  * **Segmentation Mapping** solves this by superimposing the mineral classification onto the high-resolution BSE image. It uses the BSE grayscale variation to segment the fine albite boundaries before collecting or assigning X-ray spectra, successfully resolving the exsolution texture.
-
-### 2. Biotite Mapping
-* Demonstrates the classification of sheet silicates (biotite mica) which contain Iron ($\text{Fe}$) and Magnesium ($\text{Mg}$). It is used to train on setting count thresholds and energy filters to distinguish biotite from secondary chlorite alteration.
-
----
-
-## Relevance to Abdelhak's Research
-Although granite is not present in phosphate waste rock piles, this sample illustrates a key methodological principle: **coarse-step matrix mapping fails on fine-scale mineral intergrowths**. In phosphate waste rocks, flint/silexite and carbonate-apatite (francolite) are often finely intergrown. Understanding when to use Segmentation Mapping over flat Matrix Mapping is essential to avoid underestimating or misclassifying silica and phosphate phases.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
-* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md
-
----
-date: 2026-06-13
-tags:
-summary: "Micro-XRF training dataset demonstrating granulated particle analysis, background thresholding, and mineral association in eclogite fragments."
-aliases:
----
-
-
-# XRF Training Sample — Particle Analysis
-
-## Overview
-The **Particle Analysis Training Sample** is a micro-XRF calibration dataset located in:
-`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part5 Particle/`
-
-It utilizes the raw Bruker scan file **`Eclogite-Fragments-Large.bcf`** to demonstrate the automated mineralogical characterization of granulated samples (rock or ore fragments embedded in epoxy resin).
-
----
-
-## Technical Demonstrations
-
-This dataset is used to train operators in **particle-based automated mineralogy**, which is more complex than mapping solid rock blocks:
-
-### 1. BSE Background Thresholding
-* **The Challenge**: The sample consists of rock fragments suspended in an epoxy resin mount. The resin generates false X-ray signals (mostly carbon and chlorine) that must be ignored.
-* **The Solution**: AMICS uses Backscattered Electron (BSE) grayscale thresholding. Because epoxy is low-density, it has a very low BSE signal (dark). AMICS sets a lower BSE threshold to treat everything below it as "Background" (resin) and excludes those regions from X-ray acquisition and spectral matching, saving time and storage.
-
-### 2. Particle vs. Grain Segmentation
-* **Particles**: The rock fragments isolated from the background.
-* **Grains**: The distinct mineral phases (garnet, pyroxene, K-silicate) within each particle.
-* AMICS performs image segmentation to identify grain boundaries inside each particle, ensuring that mineral association and grain size metrics are calculated relative to their host fragment.
-
-### 3. Grain Panel Touch-Up (Filtering Noise)
-* Shows how to filter out small unclassified pixels (noise) that appear at mineral boundaries.
-* By applying size filters in the Grain Panel, the amount of "Unknown" or unclassified pixels can be reduced from **$5\%$ down to $0.08\%$**, significantly cleaning up the modal mineralogy report.
-
-### 4. Mineral Association & Liberation
-* AMICS calculates the shared boundary lengths between minerals within the particles. It determines whether pyroxene is locked inside garnet, or if the phases are liberated (free-standing grains), which is a key metric in mineral processing.
-
----
-
-## Relevance to Abdelhak's Research
-In the reclamation and valorization of phosphate mine wastes:
-* Overburdens and interburdens are crushed, and tailing piles consist of granulated sand/silt-sized particles.
-* Using **Particle Analysis** helps determine the **liberation state of apatite (francolite)**: is the phosphate mineral free (liberated) and ready for chemical extraction/fertilizer production, or is it locked (encapsulated) within calcite, quartz, or clay matrices?
-* This information is critical for designing recycling flowsheets for phosphate waste rock reprocessing.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
-* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md
-
----
-date: 2026-06-13
-tags:
-summary: "Micro-XRF training dataset demonstrating lithium pegmatite mapping, element deportment, and scan parameter optimization."
-aliases:
----
-
-
-# XRF Training Sample — Pegmatite
-
-## Overview
-The **Pegmatite Training Sample** is a micro-XRF calibration dataset located in:
-`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part3 Pegmatite/`
-
-It utilizes raw Bruker scans (e.g., `LiPegmatite_50kV-600uA-100um-10ms.bcf`, `LiPegmatite_50kV-600uA-200um-20ms.bcf`) from a lithium pegmatite sample from **Gonçalo - Seixo Amarelo, Portugal**. The analytical area is $80\text{ mm} \times 50\text{ mm}$ (mapped at $50\ \mu\text{m}$ resolution, yielding $1600 \times 1000$ pixels).
-
----
-
-## Modal Mineralogy & Lithium Deportment
-
-Using **[[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification (TMQ)]]**, the sample was classified to determine its mineral composition and how Lithium ($\text{Li}$) is distributed among the phases:
-
-### 1. Modal Mineralogy (Wt%)
-* **Albite**: $57.92\%$
-* **Lepidolite**: $15.60\%$
-* **Quartz**: $12.70\%$
-* **Spodumene**: $10.07\%$
-* **Petalite**: $2.02\%$
-* **Topaz**: $0.88\%$
-* **Amblygonite**: $0.57\%$
-* **Eucryptite**: $0.10\%$
-* **Sanidine**: $0.06\%$
-* **Perhamite**: $0.04\%$
-
-### 2. Lithium (Li) Deportment (Total 100%)
-Although the bulk sample's back-calculated assay contains only $1.0\text{ Wt}\%$ Lithium ($\text{Li}$), its deportment is divided as:
-* **Lepidolite** ($\text{Li}_2\text{KAlSi}_4\text{O}_{10}\text{F}(\text{OH})$): $55.2\%$
-* **Spodumene** ($\text{LiAlSi}_2\text{O}_6$): $37.4\%$
-* **Petalite** ($\text{LiAlSi}_4\text{O}_{10}$): $4.2\%$
-* **Amblygonite** ($\text{LiAlPO}_4\text{OH}$): $2.7\%$
-* **Eucryptite**: $0.5\%$
-
----
-
-## Scan Parameter Optimization (Speed vs. Accuracy)
-
-A key metallurgical/geological finding from this dataset is the trade-off between scan resolution, dwell time, and modal mineralogy accuracy. The pegmatite sample was mapped under five different configurations:
-
-| Parameter | Run 1 | Run 2 | Run 3 | Run 4 | Run 5 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Pixel Size ($\mu\text{m}$)** | **50** | **100** | **200** | **200** | **200** |
-| **Dwell Time ($\text{ms}$)** | **20** | **10** | **20** | **10** | **5** |
-| **Scan Time (hh:mm)** | **15:05** | **01:43** | **00:52** | **00:39** | **00:26** |
-| **Spodumene (Wt%)** | $10.1\%$ | $10.5\%$ | $10.6\%$ | $10.5\%$ | $9.5\%$ |
-| **Lepidolite (Wt%)** | $15.6\%$ | $14.5\%$ | $14.4\%$ | $14.2\%$ | $13.4\%$ |
-| **Albite (Wt%)** | $57.9\%$ | $59.3\%$ | $59.4\%$ | $59.7\%$ | $61.5\%$ |
-| **Quartz (Wt%)** | $12.7\%$ | $12.3\%$ | $12.3\%$ | $12.3\%$ | $12.2\%$ |
-
-### Key Conclusion
-Decreasing the pixel resolution from $50\ \mu\text{m}$ to $200\ \mu\text{m}$ and the dwell time from $20\text{ ms}$ to $5\text{ ms}$ reduced the measurement time from **15 hours and 5 minutes to 26 minutes** (a **34x speedup**). 
-
-Remarkably, the modal mineralogy calculations remained stable: Spodumene varied by only $0.6\text{ Wt}\%$, Lepidolite by $2.2\text{ Wt}\%$, and Quartz by $0.5\text{ Wt}\%$. This demonstrates that **coarse-scale, rapid micro-XRF scanning is statistically robust for determining bulk mineral proportions** in coarse-grained rocks.
-
----
-
-## Related Concepts
-* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
-* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
-* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/entities/Gantour Basin.md
-
----
-tags:
-created: '2026-05-24'
----
-
-
-# Gantour Basin
-
-## Overview
-The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
-
----
-
-## Geography
-
-| Parameter | Value |
-|-----------|-------|
-| Location | Central Morocco, Marrakech-Safi region |
-| Approximate coordinates | ~32°N, ~7.5–8°W |
-| Area | ~1,600 km² (basin extent) |
-| Key city | Benguerir (study site) |
-| Distance from Marrakech | ~70 km north |
-
----
-
-## Geological Setting
-
-**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
-
-**Stratigraphy (simplified):**
-```
-Top: Quaternary alluvium + lacustrine deposits
-     └─ Eocene marls and limestones
-     └─ Paleocene phosphate layers (economic horizon)
-          ├─ Phosphate series: francolite in marl/limestone matrix
-          ├─ Interbedded clays (illite, smectite)
-          └─ Carbonate-rich beds (calcite, dolomite)
-Bottom: Cretaceous basement
-```
-
-**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
-
----
-
-## Mineralogy of the Deposit
-
-The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
-
-| Component | Role |
-|-----------|------|
-| Francolite | Economic phosphate mineral (ore) |
-| Calcite/dolomite | Carbonate gangue |
-| Illite/smectite | Clay gangue |
-| Quartz | Silica gangue |
-| Iron oxides | Accessory weathering products |
-
----
-
-## Mining at Benguerir
-
-| Parameter | Value |
-|-----------|-------|
-| Operator | OCP Group (Office Chérifien des Phosphates) |
-| Mining method | Open-pit, strip mining |
-| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
-| Annual ore production | ~4 Mt/year (approx.) |
-| Annual waste generation | ~12.3 Mt/year |
-| Mine area (thesis study zone) | ~36 km² |
-
-**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
-
----
-
-## Environmental Significance
-
-1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
-2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
-3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
-4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
-
----
-
-## Morocco's Strategic Role
-Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
-
----
-
-## Related Concepts
-- [[OCP Group and Benguerir Mine]]
-- [[Phosphate Mine Waste]]
-- [[Mineral Assemblages]]
-- [[Reclamation Monitoring]]
-
-
-
-
-## 📄 File: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# OCP Group & Benguerir Mine
-
-## OCP Group
-- **Full name:** Office Chérifien des Phosphates (OCP Group)
-- **Headquarters:** Casablanca, Morocco
-- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
-- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
-
-## Benguerir Mine
-- **Location:** Benguerir, Marrakech-Safi region, Morocco
-- **Type:** Open-pit phosphate mine
-- **Context:** Active phosphate extraction generating large waste rock dumps
-- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
-
-## Why This Site?
-1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
-2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
-3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
-4. Environmental importance — waste rock management is an OCP priority
-5. Data access — UM6P-OCP relationship facilitates ground truth collection
-
-## Phosphate Mineralogy at Benguerir
-Key minerals to characterize:
-- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
-- **Carbonates:** calcite, dolomite (buffering capacity)
-- **Clay minerals:** kaolinite, smectite, illite
-- **Iron minerals:** goethite, hematite (AMD indicator)
-- **Accessory:** quartz, feldspar
-
-## Reclamation Context
-OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
-Abdelhak's thesis monitors this process using PRISMA time series.
-
-## Related Pages
-- [[02_Academic & Work/thesis/Thesis Overview]]
-- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
-- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
-- UM6P (entity note not yet created)
-
-## Potential Industry Application
-OCP Group is a natural client for remote sensing consulting post-defense.  
-→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
-
-
-
-
 ## 📄 File: 04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md
 
 ---
@@ -8101,6 +1396,158 @@ tags:
 
 ---
 *Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/entities/Gantour Basin.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Gantour Basin
+
+## Overview
+The Gantour Basin is one of Morocco's two major phosphate sedimentary basins (the other being Ouled Abdoun/Khouribga). It hosts the Benguerir and Youssoufia mine sites operated by OCP Group.
+
+---
+
+## Geography
+
+| Parameter | Value |
+|-----------|-------|
+| Location | Central Morocco, Marrakech-Safi region |
+| Approximate coordinates | ~32°N, ~7.5–8°W |
+| Area | ~1,600 km² (basin extent) |
+| Key city | Benguerir (study site) |
+| Distance from Marrakech | ~70 km north |
+
+---
+
+## Geological Setting
+
+**Formation:** Paleocene–Eocene sedimentary sequence (marine phosphate)
+
+**Stratigraphy (simplified):**
+```
+Top: Quaternary alluvium + lacustrine deposits
+     └─ Eocene marls and limestones
+     └─ Paleocene phosphate layers (economic horizon)
+          ├─ Phosphate series: francolite in marl/limestone matrix
+          ├─ Interbedded clays (illite, smectite)
+          └─ Carbonate-rich beds (calcite, dolomite)
+Bottom: Cretaceous basement
+```
+
+**Origin:** Upwelling marine current concentrated biogenic phosphate in shallow tropical sea (Tethys Ocean, Cretaceous-Paleocene). Organic matter decomposition released PO₄, which precipitated as carbonate fluorapatite (francolite).
+
+---
+
+## Mineralogy of the Deposit
+
+The economic mineral is **francolite** (carbonate fluorapatite): Ca₅[(PO₄)(CO₃)]₃F. Unlike pure fluorapatite, francolite has partial CO₃ for PO₄ substitution, giving it a distinctive mixed spectral signature.
+
+| Component | Role |
+|-----------|------|
+| Francolite | Economic phosphate mineral (ore) |
+| Calcite/dolomite | Carbonate gangue |
+| Illite/smectite | Clay gangue |
+| Quartz | Silica gangue |
+| Iron oxides | Accessory weathering products |
+
+---
+
+## Mining at Benguerir
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group (Office Chérifien des Phosphates) |
+| Mining method | Open-pit, strip mining |
+| Stripping ratio | ~3:1 (3 t waste per 1 t ore) |
+| Annual ore production | ~4 Mt/year (approx.) |
+| Annual waste generation | ~12.3 Mt/year |
+| Mine area (thesis study zone) | ~36 km² |
+
+**Waste rock piles:** Accumulated over decades of mining. Form prominent topographic features visible in satellite imagery. Subject of Abdelhak's thesis.
+
+---
+
+## Environmental Significance
+
+1. **Dust and aerosols:** Fine phosphate particles (PM10, PM2.5) from wind erosion of waste piles
+2. **Fluorine leaching:** F⁻ ions from fluorapatite mobilize in rain events → soil and groundwater concerns
+3. **Landscape rehabilitation:** OCP Group's sustainability program targets revegetation of all stable dumps
+4. **Carbon footprint:** Processing and transport of phosphate rock significant CO₂ source
+
+---
+
+## Morocco's Strategic Role
+Morocco holds ~70% of world's known phosphate reserves (primarily Gantour + Ouled Abdoun basins). This makes OCP Group a strategic geopolitical player in global food security (phosphate → fertilizer). Environmental management of waste rock is therefore a high-visibility priority.
+
+---
+
+## Related Concepts
+- [[OCP Group and Benguerir Mine]]
+- [[Phosphate Mine Waste]]
+- [[Mineral Assemblages]]
+- [[Reclamation Monitoring]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# OCP Group & Benguerir Mine
+
+## OCP Group
+- **Full name:** Office Chérifien des Phosphates (OCP Group)
+- **Headquarters:** Casablanca, Morocco
+- **Role:** World's largest phosphate exporter (~70% of global phosphate reserves in Morocco)
+- **Connection to Abdelhak:** Benguerir is an OCP mine. UM6P itself was founded by OCP. The research is directly relevant to their environmental management needs.
+
+## Benguerir Mine
+- **Location:** Benguerir, Marrakech-Safi region, Morocco
+- **Type:** Open-pit phosphate mine
+- **Context:** Active phosphate extraction generating large waste rock dumps
+- **Why it matters for thesis:** The waste rock dumps at Benguerir are the study site for mineralogical characterization and reclamation monitoring
+
+## Why This Site?
+1. Proximity to UM6P (university is literally in Benguerir, created by OCP)
+2. Large waste rock surface area — good for satellite-scale study (PRISMA 30m)
+3. Mineralogical diversity — phosphate ore, carbonates, clays, iron minerals
+4. Environmental importance — waste rock management is an OCP priority
+5. Data access — UM6P-OCP relationship facilitates ground truth collection
+
+## Phosphate Mineralogy at Benguerir
+Key minerals to characterize:
+- **Phosphate minerals:** fluorapatite, carbonate-fluorapatite (francolite)
+- **Carbonates:** calcite, dolomite (buffering capacity)
+- **Clay minerals:** kaolinite, smectite, illite
+- **Iron minerals:** goethite, hematite (AMD indicator)
+- **Accessory:** quartz, feldspar
+
+## Reclamation Context
+OCP is actively rehabilitating waste rock dumps — revegetation programs, capping.  
+Abdelhak's thesis monitors this process using PRISMA time series.
+
+## Related Pages
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- UM6P (entity note not yet created)
+
+## Potential Industry Application
+OCP Group is a natural client for remote sensing consulting post-defense.  
+→ See [[03_Digital Life/money/Money Overview]] (Consulting stream)
 
 
 
@@ -16626,5 +10073,6558 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Technical workflow of Bruker AMICS automated mineralogy, including acquisition, image segmentation, spectrum tree clustering, and mineral library matching."
+aliases:
+---
+
+
+# AMICS Automated Mineralogy Workflow
+
+The AMICS automated mineralogy pipeline progresses through three key stages: **Scan (Acquisition) $\rightarrow$ Segmentation (Boundary Detection) $\rightarrow$ Mineral Classification**.
+
+```mermaid
+graph LR
+    A[1. Scan / Acquisition] --> B[2. Segmentation / Boundary]
+    B --> C[3. Classification / Library Match]
+    C --> D[4. Reporting & Touch-Up]
+```
+
+---
+
+## 1. Scan / Acquisition (Measurement Modes)
+
+AMICS supports different measurement configurations depending on resolution and time constraints:
+* **Matrix Mapping**: 
+  * Generates a false-color material map at a user-defined step size (e.g., $20\ \mu\text{m}$ or $50\ \mu\text{m}$).
+  * It does not perform high-resolution boundary detection, meaning fine-scale textural details may be missed if the step size is too coarse.
+  * Faster and ideal for block samples.
+* **Segmentation Mapping**:
+  * Superimposes the mineral classification on top of the underlying BSE image at the BSE resolution.
+  * Captures fine-grained boundaries and textures.
+* **Hyper Mapping**:
+  * Acquires BSE data at the same resolution as the X-ray step size.
+  * It is up to four times faster than standard mapping modes while maintaining full spectral information per pixel.
+
+---
+
+## 2. Segmentation (Boundary Detection)
+
+Segmentation is the process of grouping contiguous pixels with similar characteristics into discrete segments to reduce spectral collection time:
+* **BSE/Intensity Thresholding**: Used to differentiate the target rock/mineral fragments from the background mounting medium (epoxy resin).
+  * **Particle Mapping**: Relies on BSE thresholding to identify particles against the resin background, making it suitable for granulated samples in epoxy.
+  * **Matrix Mapping**: Does not search for background boundaries, applying a flat grid segment size matching the X-ray step size.
+* **Noise Reduction**: Applies smoothing filters to the BSE image to prevent over-segmentation due to detector noise.
+
+---
+
+## 3. Mineral Classification (Spectral Matching)
+
+Once segments are identified, the X-ray spectrum collected from the segment center is matched against a reference mineral library:
+* **Full-Spectrum Matching**: The matching algorithm calculates the absolute difference between the measured spectrum and reference spectra:
+  $$\text{ABS}(\text{Measured} - \text{Reference}) = \text{Difference Spectrum}$$
+  The mineral with the smallest difference is assigned to the segment.
+* **Matching Speed Optimization**:
+  * A larger reference library slows down the classification.
+  * **Priority Levels**: Minerals in the reference library can be assigned a priority (`High`, `Normal`, or `Low`). High-priority minerals are tested first, saving processing time.
+  * **Spectrum Tree Clustering**: Grouping similar unclassified spectra using elemental or intensity filters to classify them in batches rather than individually.
+
+---
+
+## 4. Post-Processing & Touch-Up
+
+* **Grain Panel Touch-Up**: Used to clean up classification artifacts, such as misclassified boundary pixels. This can reduce unclassified pixels significantly (e.g., from $5\%$ "Unknown" to $0.08\%$).
+* **Elemental Quantification**: Calculates modal mineralogy ($Wt\%$), grain size distributions, mineral locking, and mineral association curves.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree|AMICS Spectrum Tree]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Methodological link explaining how automated mineralogy (AMICS) can be applied to characterize and monitor phosphate mine waste rock reclamation."
+aliases:
+---
+
+
+# AMICS Automated Mineralogy in Phosphate Reclamation
+
+## Overview
+Abdelhak's PhD thesis focuses on **multi-scale characterization and reclamation monitoring of phosphate mine waste rocks** at the Benguerir Mine. Applying **automated mineralogy (AMICS)** to this research provides a micro-scale analytical baseline that connects laboratory geochemistry to satellite-based remote sensing models.
+
+---
+
+## Key Applications in Phosphate Reclamation
+
+```mermaid
+graph TD
+    A[AMICS Micro-Scale Mineralogy] --> B[Validate VNIR-SWIR Handheld Spectroscopy]
+    B --> C[Calibrate PRISMA & EnMAP Spectral Unmixing]
+    C --> D[Monitor Reclamation Progress Index - RPI]
+```
+
+### 1. Mineralogical Characterization of Waste Rock Dumps
+* ** Francolite (Carbonate-Apatite) Quantification**:
+  * Phosphate mine waste rock piles (WRPs) contain variable amounts of residual phosphate, typically in the form of carbonate-fluorapatite (francolite).
+  * AMICS allows direct quantification of francolite abundance ($Wt\%$) and grain size. This is crucial for evaluating the environmental risk of heavy metal leaching (e.g., Cadmium associated with apatite) and the potential for waste reprocessing/valorization.
+* **Silica (Quartz/Flint) vs. Carbonate Ratio**:
+  * Maps the ratio of silexite/flint ($\text{SiO}_2$) to carbonates (calcite/dolomite). This ratio determines the geomechanical stability of the dumps and their resistance to physical erosion.
+
+### 2. Acid Neutralization Potential & Weathering
+* **Carbonate Neutralization Capacity**:
+  * Carbonates (calcite/dolomite) provide a natural buffer that neutralizes potential acidity. AMICS maps the spatial exposure and liberation state of carbonate grains within clayey matrices.
+  * This allows modelers to predict the long-term geochemical weathering and acid neutralization pathways of the waste dumps.
+
+### 3. Ground-Truth Validation of Remote Sensing Models
+* **Cross-Scale Calibration**:
+  * Satellite sensors like **[[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]]** and **[[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]** map surface mineral abundances across $30\text{ m}$ pixels.
+  * Laboratory AMICS provides the absolute "ground truth" mineralogy ($Wt\%$) of surface samples collected from those pixels.
+  * This ground truth is used to calibrate and validate **spectral unmixing algorithms** (like Vertex Component Analysis - VCA, and Fully Constrained Least Squares - FCLS) and the **[[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]]**.
+  * By verifying the exact mineral compositions under the pixel area (e.g., verifying that a predicted $12\%$ carbonate signal matches a physical mixture of calcite, dolomite, and clays), the satellite models are grounded in geological reality.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+* [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]]
+* [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Bruker's Automated Mineralogy and Image Characterisation Software (AMICS) for SEM and Micro-XRF data processing, classification, and quantification."
+aliases:
+---
+
+
+# AMICS Automated Mineralogy
+
+## Definition
+**AMICS** (Automated Mineralogy and Image Characterisation Software) is Bruker's proprietary software suite designed to automate mineral identification and characterization using energy-dispersive X-ray spectroscopy (EDS) data. It operates across both Scanning Electron Microscopy (SEM) and Micro-X-ray Fluorescence (Micro-XRF) instruments.
+
+---
+
+## Software Modules
+
+AMICS is divided into three functional modules that cover the entire analytical workflow:
+
+1. **AMICS Tool**: 
+   * Handles instrument control and calibration.
+   * Manages hardware parameters, beam positioning, and API drivers (e.g., Zeiss, Hitachi, Bruker M4).
+   * Used for checking microscope/instrument communication, stage limits, vacuum control (e.g., 2 mbar for light element detection), and EDS count rates (aiming for $>2000$ counts per spot).
+2. **AMICS Investigator**:
+   * Used for project creation, sample holder mapping (using digital templates like 9- or 12-hole grids), and defining measurement areas.
+   * Allows drawing specific measurement shapes (circle, rectangle, polygon) and configuring scan settings (step size, dwell time).
+   * Defines the scan type: Matrix Mapping, Segmentation Mapping, Hyper Mapping, or Bright Phase Search.
+3. **AMICS Process**:
+   * Performs post-scan data processing, spectrum tree clustering, touch-ups, and mineral abundance calculations.
+   * Manages the classification workflow, matching spectra to reference libraries, and exporting results.
+
+---
+
+## Data Structure & Layers
+
+AMICS builds a spatial-compositional relational database from the scan. The data is structured into three overlapping layers:
+
+```mermaid
+graph TD
+    A[Image Layer: Grayscale BSE / X-ray Intensity] --> B[Segment Layer: Boundary Detection]
+    B --> C[Matching Layer: Mineral Classification]
+    C --> D[(Relational Database: Pixel X-Y + Segment BSE + Spectrum + Mineral)]
+```
+
+* **Image Layer**: The base layer containing the Backscattered Electron (BSE) grayscale image (for SEM) or the total X-ray intensity map (for Micro-XRF).
+* **Segment Layer**: Adjacent pixels with similar grayscale values or elemental intensities are grouped into segments. Each segment has an average BSE/intensity value and an X-ray spectrum collected at its center or across its area.
+* **Matching Layer**: Every pixel is classified by matching its spectrum against a mineral library.
+
+### Grains vs. Particles
+AMICS distinguishes between these two structures for metallurgical and mineralogical calculations:
+* **Grains**: Contiguous areas of pixels classified as the same mineral.
+* **Particles**: Contiguous grains surrounded by a designated "Background" (typically the epoxy resin in granulated samples). Particle mapping allows for the calculation of mineral liberation, locking, and mineral association data.
+
+---
+
+## Current Results vs. Common Library
+
+AMICS manages mineral libraries at two levels:
+* **Current Result Standard (MRE File)**: The reference mineral library is stored directly within the raw measurement file. Any customized spectrum trees, groupings, and touch-up steps travel with the data.
+* **Common Library (UserSTD.db)**: The reference library stored on the local PC. It serves as a master database. Reclassifying with a Common Library will overwrite the MRE's local groupings.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Filtering, clustering, and binning tool within Bruker AMICS for batch classification of unclassified/unknown spectra."
+aliases:
+---
+
+
+# AMICS Spectrum Tree
+
+## Definition
+The **Spectrum Tree** is a filtering, binning, and clustering tool in AMICS Process. It allows the mineralogist to group similar spectra—particularly "Unknown" or unclassified spectra—and assign them to mineral definitions in batches. It can augment or completely supersede traditional automated library matching.
+
+---
+
+## Filtering and Binning Criteria
+
+The Spectrum Tree operates like a decision tree, splitting a population of spectra (e.g., thousands of unclassified "Unknown" pixels) into sub-bins based on several parameters:
+
+1. **Energy (Elemental) Filter**:
+   * Creates a binary split in the spectra based on X-ray count intensity at a specific energy line (e.g., splitting at the $K\alpha$ peak of Calcium or Phosphorus).
+   * The user sets a count intensity threshold line to divide the spectra.
+2. **Ratio Filter**:
+   * Splits spectra based on the ratio of intensities between two different energy ranges (e.g., the ratio of Silicon to Aluminum peaks to classify feldspars versus clay minerals).
+3. **BSE Filter**:
+   * Groups spectra based on the average Backscattered Electron (BSE) grayscale value of the segment from which they were collected.
+4. **Area (Size) Filter**:
+   * Bins spectra according to the physical size ($\mu\text{m}^2$) of the mineral grain or particle they belong to.
+
+---
+
+## Clustering Methods
+
+Once a sub-bin is isolated, AMICS can group the spectra using statistical clustering:
+
+* **Manual Clustering**:
+   * The user selects a representative "seed" spectrum from the bin.
+   * The system automatically searches for all other spectra in the bin that match this seed within a user-defined tolerance.
+* **Automatic Clustering**:
+   * The system automatically groups the spectra into a set number of clusters based on three constraints:
+     1. **Cluster Limit**: Maximum number of clusters allowed (e.g., 4).
+     2. **Tolerance**: The mathematical distance threshold for grouping (e.g., 1.25).
+     3. **Minimum Population**: The minimum number of spectra required to form a cluster (e.g., 5).
+
+---
+
+## Technical Value
+By building a structured set of Spectrum Tree filtering and clustering steps, the mineralogist can:
+1. **Reduce Library Size**: Instead of checking every pixel against hundreds of reference spectra, broad categories (e.g., all quartz) are binned and classified first.
+2. **Refine Tolerances**: Set distinct matching tolerances for different mineral sub-classes.
+3. **Export Reclassification Workflows**: The sequence of spectrum tree splits is saved within the MRE file, allowing it to be batch-applied to other samples in the same campaign, ensuring consistent classification.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Analytical module in Bruker AMICS for calculating elemental concentrations, mineral zonation, and deportment of target elements within specific mineral phases."
+aliases:
+---
+
+
+# AMICS Target Mineral Quantification
+
+## Definition
+**Target Mineral Quantification** (TMQ) is an advanced post-processing function within the AMICS Grain Panel. It is used to filter, isolate, and quantify specific mineral grains of interest (such as economic or trace-element-bearing phases) for detailed elemental and structural characterization.
+
+---
+
+## Filtering Parameters
+
+TMQ utilizes a set of physical and chemical filters to select target minerals from the segmented matching database:
+
+1. **Size and Geometry Filters**:
+   * **Area Range ($\mu\text{m}^2$)**: Minimum and maximum grain area limits.
+   * **Minimum Estimated Grain Radius**: Used to find grains large enough for spot-analysis techniques. This is particularly useful for target selection in **Laser Ablation ICP-MS (LA-ICP-MS)** workflows.
+2. **Backscattered Electron (BSE) Grayscale Limits**:
+   * Restricts analysis to grains within specific density ranges (e.g., selecting bright sulfide phases like pyrite or cobaltite).
+3. **Host Mineral Filter**:
+   * Filters target grains based on the mineral phase they are enclosed in or associated with (e.g., selecting only apatite grains hosted within marly waste rock).
+
+---
+
+## Key Outputs and Calculations
+
+When TMQ is executed, it calculates several geometallurgical metrics:
+
+### 1. Elemental Deportment
+Calculates how a specific chemical element is distributed across all mineral phases in the sample. For example, in a lithium pegmatite exploration workflow, TMQ can determine that although the bulk sample contains $1.0\text{ Wt}\%$ Lithium ($\text{Li}$), that Lithium is deported as:
+* **Lepidolite**: $55.2\%$
+* **Spodumene**: $37.4\%$
+* **Petalite**: $4.2\%$
+* **Amblygonite**: $2.7\%$
+* **Eucryptite**: $0.5\%$
+
+### 2. Back-Calculated Bulk Assay
+Calculates the estimated bulk chemical composition of the rock by combining the measured modal mineralogy ($Wt\%$) with the chemical formulas/stoichiometry of the identified minerals. This back-calculated assay is compared with whole-rock chemical assays to validate the accuracy of the automated mineralogy classification.
+
+### 3. Grain Geometry and Spatial Coordinates
+* **X-Y Coordinates**: Exact center positions of target grains for subsequent micro-analysis (e.g., electron microprobe or LA-ICP-MS).
+* **Shape Factor (Roundness)**: Calculated as:
+  $$\text{Shape Factor} = \frac{\text{Perimeter}}{\sqrt{\text{Area}}}$$
+  Used to characterize grain textures, grain weathering, or mineral liberation progress.
+* **X-ray Point & Count Mapping**: Tracks the exact X-ray spot location on the target grain and records the total X-ray counts.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# ANOVA Wavelength Ranking & Selection Stability
+
+**ANOVA Wavelength Ranking & Selection Stability** represents the feature-selection workflow implemented in Chapter 2 of the thesis to identify the most discriminative spectral bands from the PRISMA image while avoiding information leakage.
+
+---
+
+## 1. Feature Selection Workflow
+The high dimensionality of the PRISMA scene (**189** clean bands remaining after masking the atmospheric water-vapor windows at **1300–1500 nm** and **1750–1980 nm**) requires feature selection to prevent the curse of dimensionality. (Source: [section_methods_ch2.txt:L31,L70,L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L31#L70#L72)).
+
+Wavelength selection was structured as a nested **three-stage pipeline**:
+1.  **Stage 1: Spatial Alignment**: Image registration corrected the geocoded PRISMA L2D scene to georeferenced field boundaries using nearest-neighbor resampling. (Source: [section_methods_ch2.txt:L69](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L69)).
+2.  **Stage 2: Denoising**: Water-vapor windows were masked, and a Savitzky–Golay filter (polynomial order = 2, window size = 7) smoothed the remaining reflectance spectra to preserve diagnostic band shapes. (Source: [section_methods_ch2.txt:L70](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L70)).
+3.  **Stage 3: Nested ANOVA F-Test Selection**: 
+    *   Wavelength ranking was computed *exclusively* on the training subset inside each spatial CV fold. (Source: [section_methods_ch2.txt:L71](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L71)).
+    *   The top **60** highest-scoring bands were selected prior to model training. (Source: [section_methods_ch2.txt:L71](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L71); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L52)).
+    *   This nested setup reduces dimensionality by **68%** (from 189 to 60 bands) with zero validation leakage. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); confirmed in [supp_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L174)).
+
+---
+
+## 2. Selection Stability & Validation
+*   **Wavelength Contribution**: The mean F-scores across folds showed that the selected features are concentrated in the Short-Wave Infrared (SWIR) region (1000–2500 nm), corresponding to carbonate and clay absorption doublets. (Source: [section_methods_ch2.txt:L71,L73](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L71#L73)).
+*   **ANOVA vs. Mutual Information**: To verify selection robustness, ANOVA was compared against Mutual Information (MI) as a feature ranker (both at $k = 60$). Performance differences across top classifiers were negligible ($|\Delta\text{BA}| \le 0.010$):
+    *   *Extra Trees (ANOVA)*: BA = **0.693 ± 0.032**
+    *   *Extra Trees (MI)*: BA = **0.683 ± 0.031**
+    *   *(Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); values confirmed in [supp_ch2.txt:L180-195 (Table S4)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L180-L195)).*
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2)|Reviewer 1 Response (Chapter 2)]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md
+
+---
+date: 2026-06-12
+tags:
+summary: "SWIR wavelength ranges where atmospheric water vapor and CO₂ absorb radiation, making PRISMA bands at those positions unreliable for surface reflectance."
+created: 2026-06-12
+aliases:
+---
+
+
+# Atmospheric Absorption Windows in PRISMA
+
+Atmospheric gases — primarily water vapor (H₂O) and carbon dioxide (CO₂) — absorb incoming solar radiation at specific wavelengths. PRISMA bands that fall inside these absorption windows record atmospheric absorption rather than surface reflectance, making them useless for mineralogical analysis. They are flagged as bad bands during preprocessing.
+
+---
+
+## Primary Absorption Windows (SWIR)
+
+| Window | Wavelength range | PRISMA band indices | Main absorber |
+|--------|-----------------|---------------------|--------------|
+| First water vapor | ~1350–1460 nm | 140–150 (11 bands) | H₂O |
+| Second water vapor | ~1750–1980 nm | 192–196 (5 bands) | H₂O |
+| CO₂ + H₂O | ~2000–2050 nm | partially overlaps edge | CO₂ / H₂O |
+
+The bands at indices 140–150 are the most heavily affected: they show simultaneously Low Entropy, Extreme Kurtosis, and High Skewness in the Benguerir scene — signature of near-total atmospheric absorption driving all pixels toward a uniform near-zero value.
+
+---
+
+## Why These Bands Cannot Be Rescued by Atmospheric Correction
+
+Atmospheric correction algorithms (6SV, ATCOR, PRISMA-L2D) model the atmospheric path radiance and transmittance, but inside an absorption window the surface signal is reduced to near zero — multiplicative correction amplifies noise to infinity. Standard practice is to simply exclude these bands from analysis.
+
+---
+
+## Implication for Mineralogy
+
+The 2200 nm clay absorption feature (Al-OH) and the 2150 nm phosphate (PO₄) absorption feature both fall **outside** these windows, in clear-sky transmittance regions. The ECOSTRESS spectral library matching and ML classification in the thesis work on the 173-band clean subset that excludes all three windows above.
+
+The 1000–1300 nm range (short SWIR) is unaffected and is particularly valuable for iron oxide discrimination.
+
+---
+
+## Related Concepts
+
+- [[PRISMA Band Quality Map — Benguerir Acquisition]] — specific bad band indices from the Benguerir scene
+- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — how these bands are detected statistically
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — instrument spectral range
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]] — downstream band use for mineralogy
+- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source analysis on D:\
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Benguerir Site-Scale Oxide & Mineral Dominance Mapping
+
+**Benguerir Site-Scale Oxide & Mineral Dominance Mapping** represents the spatial geochemical and mineralogical maps created in Chapter 1 of the thesis (published in *Sensors* 2025) using data collected from all **104** sampling locations across the Benguerir mine.
+
+---
+
+## 1. Major Oxide Spatial Distribution Mapping
+Handheld XRF (HHXRF) oxide measurements at **104** stations were plotted to visualize elemental distribution patterns across the mine site. (Source: [section_results.txt:L156](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L156)).
+*   **Mapped Oxides**: **6** major elements/oxides were mapped: $SiO_2$, $P_2O_5$, $CaO$, $K_2O$, $Fe_2O_3$, and $Al_2O_3$. (Source: [section_results.txt:L157](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L157)).
+*   **Significance**: The oxide maps revealed coherent regional domains and local hotspots. They directly validated the spatial consistency of the field classes, confirming that point-based measurements align with broader geochemical zones across the mine boundary. (Source: [section_results.txt:L156](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L156)).
+
+---
+
+## 2. Mineralogical Dominance Map
+Building on the chemical trends, a mineralogical dominance map was computed directly from the HHXRF elemental compositions to classify the mine surface into dominant lithological domains. (Source: [section_results.txt:L159](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159)).
+*   **Domains**: Classified the study area into **5** key lithological domains:
+    1.  *Carbonate-rich*: Representing dolomitic and calcitic waste rocks. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
+    2.  *Clay-dominated*: Representing areas rich in illite and kaolinite. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
+    3.  *Phosphate-rich*: Delineating localized residual fluorapatite hotspots. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
+    4.  *Ferruginous*: Identifying iron-oxide (goethite/hematite) enrichment zones. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
+    5.  *Siliceous*: Identifying quartz-dominated/flint-bearing waste layers. (Source: [section_results.txt:L159,L162](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L159#L162)).
+*   **Visual Highlights**: Delineated broad carbonate belts, clay/Fe-rich zones, and localized phosphate spots across the mine site. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
+
+---
+
+## 3. Practical Value
+The resulting spatial database enables:
+*   Real-time site-level screening of waste dumps. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
+*   Strategic planning for selective cover system design (locating suitable clay and carbonate barrier layers). (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
+*   Targeting high-grade waste spots for secondary phosphate recovery. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
+* [[04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles|Integrated Sample-Level Mineralogical-Geochemical Profiles]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response|Reviewer 1 Response]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Chapter 1 Cohort Spectral Similarity Metrics
+
+This note compiles the cohort-scale similarity metrics evaluated in Chapter 1 of the thesis (published in *Sensors* 2025) across all **104** field-measured reflectance spectra matched against the ECOSTRESS database. (Source: [section_results.txt:L27,L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27#L33)).
+
+---
+
+## 1. Summary Statistics (Table 1)
+
+The statistical distribution of the four matching metrics across the cohort is detailed below:
+
+| Metric | Mean | Median | Std. Dev. | Minimum | Maximum |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **RMSE** | **0.15** | **0.145** | **0.053** | **0.085** | **0.350** |
+| **SAM (rad)** | **0.137** | **0.134** | **0.050** | **0.052** | **0.227** |
+| **SID** | **0.029** | **0.029** | **0.017** | **0.008** | **0.080** |
+| **$R^2$** | **0.748** | **0.773** | **0.170** | **0.130** | **0.917** |
+
+*(Source: [section_results.txt:L33-63 (Table 1)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L33-L63)).*
+
+### Key Highlights:
+*   **$R^2 > 0.70$ Frequency**: **84%** of the **104** spectra achieve an $R^2 > 0.70$, verifying the high similarity of the database matches to the physical samples. (Source: [section_results.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L31)).
+*   **Median SAM**: **0.134 rad** corresponds to approximately **7.7°** angular deviation. (Source: [section_results.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27)).
+
+---
+
+## 2. ⚠️ Data Discrepancy: Mean RMSE Wording
+During the review of the Chapter 1 files, a numerical contradiction was identified regarding the cohort's mean RMSE value:
+*   **Abstract, Table 1, and Defense Strategy claim**: Mean RMSE = **0.15 ± 0.053**. (Source: [section_results.txt:Table 1](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L33); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L179)).
+*   **Body Text (Results Section 3.3) claims**: *"the mean weighted RMSE is 0.166 ± 0.053"*. (Source: [section_results.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L27)).
+*   **Status**: This issue is logged in the [Data Discrepancy Log](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/04_Archives/D-Drive/Data%20Discrepancy%20Log.md#L21) (logged 2026-06-12) and remains flagged for Abdelhak to review the manuscript wording. The canonical thesis value is **0.15 ± 0.053**, while **0.166** is noted here purely for context.
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+* [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Raw PRISMA Level-2D HDF5 acquisition for Benguerir (2022-02-12), the earliest PRISMA scene used in the PhD."
+aliases:
+---
+
+
+# Code — BGimageR — PRISMA Benguerir Scene HDF5
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `PRS_L2D_STD_20220212112444_20220212112448_0001.he5` |
+| Format | HDF5 (PRISMA L2D standard) |
+| Acquisition | 2022-02-12, 11:24:44–11:24:48 UTC |
+| Size | ~2 GB |
+| Location | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
+
+## Derived Files (same folder)
+
+| File | Format | Content |
+|------|--------|---------|
+| `L2DPRISMASpectralCube.tif` | GeoTIFF | Full spectral cube exported from HDF5 (~1.3 GB) |
+| `PRS_L2D_STD_..._Cube` | ENVI binary | Full cube (no extension) |
+| `PRS_L2D_STD_..._SWIR_Cube` | ENVI binary | SWIR sub-cube only |
+| `PRS_L2D_STD_..._VNIR_Cube` | ENVI binary | VNIR sub-cube only |
+| Matching `.hdr` files | ENVI header | Band/wavelength metadata |
+
+## Context
+
+This is the **earliest PRISMA scene** in the D:\\ archive, acquired before the bulk of thesis analysis was conducted. The Feb 2022 acquisition was used for exploratory code development in R (BGimageR scripts). Later analysis likely used scenes from 2023–2024 stored in `PHD-2nd` or `PHD-3rd`.
+
+The scene covers the Benguerir phosphate mining area, OCP Group concession, Youssoufia region, Morocco.
+
+## Links
+
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+- [[Code — BGimageR — PRISMA False Color Composition R]]
+- [[Code — BGimageR — PRISMA Spectral Signature Extraction R]]
+- [[Code — BGimageR — PRISMA Random Forest Classification R]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R script for PRISMA false color composite visualization using raster + randomForest. Early exploratory code."
+---
+
+
+# Code — BGimageR — PRISMA False Color Composition R
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `false color composition code.R` |
+| Path | [file:///D:/Code/BGimageR/false%20color%20composition%20code.R](file:///D:/Code/BGimageR/false%20color%20composition%20code.R) |
+| Language | R |
+| Packages | `raster`, `randomForest` |
+| Status | Exploratory / incomplete |
+
+## Purpose
+
+Loads the PRISMA spectral cube (`L2DPRISMASpectralCube.tif`) and produces a false color composite visualization with a custom 11-color palette. Also attempts (unsuccessfully) to run Random Forest classification directly on the raster object.
+
+## Code Summary
+
+```r
+# Load hyperspectral image
+data <- raster("...L2DPRISMASpectralCube.tif")
+
+# False color composite
+plot(data, col = colorRampPalette(c("white","brown",...,"black"))(255))
+
+# RF classification (broken — raster object not directly usable as RF input)
+features <- randomForest(x = data, y = data@data$class, ntree = 500)
+```
+
+## Notes & Caveats
+
+- The Random Forest call is **broken** — `raster` objects cannot be fed directly to `randomForest()`; training data must be extracted as a matrix first.
+- This is early-stage exploration code from ~2022–2023, not a finalized pipeline.
+- Output images: `FALSe color compoition map2.png`, `false colors 3.png`, `FLASE COLOR COMPOSITION MAP.png`, `levelplotmap.png`, `map.png`, `map2.png` (all in the same folder).
+
+## Reusable Pattern
+
+The false color composite pattern with `colorRampPalette` on a raster band is valid for quick visualization. The RF workflow was later properly implemented in Python (SCSE-CNN pipeline in thesis Ch.2).
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Python script using rasterio to display PRISMA TIF with cartopy projection — early exploratory."
+---
+
+
+# Code — BGimageR — PRISMA Python Rasterio Display
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `tiffPYTHON.py` |
+| Path | [file:///D:/Code/BGimageR/tiffPYTHON.py](file:///D:/Code/BGimageR/tiffPYTHON.py) |
+| Language | Python |
+| Packages | `rasterio`, `cartopy`, `matplotlib` |
+
+## Purpose
+
+Opens `L2DPRISMASpectralCube.tif` with `rasterio` and attempts to display it with a `PlateCarree` cartopy projection, coastlines, and axis labels.
+
+## Code
+
+```python
+import rasterio
+from rasterio.plot import show
+import matplotlib.pyplot as plt
+
+fp = r'D:\\Code\\BGimageR\\L2DPRISMASpectralCube.tif'
+img = rasterio.open(fp)
+
+projection = ccrs.PlateCarree()  # BUG: ccrs not imported
+fig, ax = plt.subplots(subplot_kw={'projection': projection})
+ax.imshow(img, transform=projection)  # BUG: rasterio dataset ≠ numpy array
+ax.coastlines()
+```
+
+## Bugs
+
+- `ccrs` used without `import cartopy.crs as ccrs`
+- `ax.imshow(img, ...)` — `rasterio.open()` returns a `DatasetReader`, not an array; should use `rasterio.plot.show()` or `img.read(1)` to get an array
+
+## Reusable Pattern (corrected)
+
+```python
+import rasterio
+import cartopy.crs as ccrs
+import matplotlib.pyplot as plt
+
+with rasterio.open('L2DPRISMASpectralCube.tif') as src:
+    band = src.read(1)
+    extent = [src.bounds.left, src.bounds.right, src.bounds.bottom, src.bounds.top]
+
+fig, ax = plt.subplots(subplot_kw={'projection': ccrs.PlateCarree()})
+ax.imshow(band, extent=extent, origin='upper', transform=ccrs.PlateCarree())
+ax.coastlines()
+plt.show()
+```
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Random Forest Classification R.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R scripts attempting Random Forest land cover classification on PRISMA hyperspectral data — early exploratory, not production-grade."
+---
+
+
+# Code — BGimageR — PRISMA Random Forest Classification R
+
+## Scripts
+
+| File | Path |
+|------|------|
+| `Testcode2.R` | [file:///D:/Code/BGimageR/Testcode2.R](file:///D:/Code/BGimageR/Testcode2.R) |
+| `Testcode3.R` | [file:///D:/Code/BGimageR/Testcode3.R](file:///D:/Code/BGimageR/Testcode3.R) |
+
+## Purpose
+
+Exploratory attempts to classify PRISMA pixels into land cover categories (water, vegetation, bare soil, urban) using Random Forest regression/classification in R.
+
+## Workflow (Testcode3.R — most complete version)
+
+```r
+# 1. Load PRISMA cube
+image_data <- raster("...PRS_L2D_STD_..._Cube")
+
+# 2. Subset to region of interest
+image_subset <- crop(image_data, extent(760000, 765000, 4625000, 4635000))
+
+# 3. Random sample training pixels
+training_points <- sampleRandom(image_subset, size = 100, na.rm = TRUE)
+
+# 4. Convert to dataframe with wavelengths as column names
+training_data <- as.data.frame(cbind(coordinates(training_points), as.vector(training_points)))
+colnames(training_data) <- c("x", "y", wavelengths)
+
+# 5. Define labels manually (unrealistic for 4 classes over 100 points)
+training_labels <- c("water", "vegetation", "bare soil", "urban")
+
+# 6. RF model
+model <- randomForest(as.factor(training_labels) ~ ., data = training_data)
+
+# 7. Predict + overlay on hillshade
+classified_image <- predict(image_subset, model)
+hillshade <- hillShade(image_data, 45, 315)
+```
+
+## Limitations / Why This Wasn't Used
+
+- Labels are defined manually as a 4-element vector — doesn't match the 100 sampled pixels. **Model would fail at runtime.**
+- `getwavelenght()` is a typo — no such R function. Should be a custom vector from `.hdr` metadata.
+- `classiy()` (Testcode2.R) is a typo for `classify()`, which doesn't exist in `raster` for RF either — `predict()` is the correct function.
+- Hillshade from a hyperspectral multi-band raster is conceptually wrong (`hillShade()` expects elevation/slope/aspect).
+- These scripts were never completed. The actual thesis ML pipeline uses Python (PyTorch SCSE-CNN), not R.
+
+## Historical Context
+
+These represent the **earliest ML experiments** (~2022–2023) before the thesis methodology settled on Python deep learning. They show the evolution from simple RF in R toward the SCSE-CNN approach.
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Spectral Signature Extraction R.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R scripts for extracting and plotting PRISMA spectral signatures from the Benguerir scene — early exploratory code."
+---
+
+
+# Code — BGimageR — PRISMA Spectral Signature Extraction R
+
+## Scripts
+
+| File | Path |
+|------|------|
+| `Spectral signature of prisma.R` | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
+| `testcodeforHSI.R` | [file:///D:/Code/BGimageR/](file:///D:/Code/BGimageR/) |
+
+## Purpose
+
+Attempts to:
+1. Load PRISMA scene as a `RasterBrick` (multi-band raster)
+2. Extract spectral signature for individual pixels or spatial subsets
+3. Plot wavelength vs. reflectance curves
+
+## Key Patterns
+
+```r
+# Load multi-band PRISMA TIF as brick
+prisma <- brick("D:/Code/BGimageR/L2DPRISMASpectralCube.tif")
+
+# Plot spectral signature of a pixel [x, band, y]
+plot(prisma[x,,y], xlab = "Wavelength (nm)", ylab = "Reflectance")
+
+# Crop to region of interest
+img_cropped <- crop(img, extent(xmin, xmax, ymin, ymax))
+
+# Median filter (EBImage)
+filtered_img <- medianFilter(img, radius = 3)
+```
+
+## Notes & Caveats
+
+- `testcodeforHSI.R` is a **scratchpad** — contains broken syntax (bare `-----------` lines) and unfilled placeholder variables (`x`, `y`, `xmin`). Not runnable as-is.
+- Uses `ncell()` as a proxy for wavelength vector — incorrect; wavelengths should come from the `.hdr` or HDF5 metadata.
+- `Spectral signature of prisma.R` uses `ggplot(prisma_maps)` incorrectly — `ggplot2` cannot directly accept a `RasterStack`; `as.data.frame(rasterToPoints())` is needed.
+
+## Reusable Technique
+
+The `brick()` + `plot(brick[row,,col])` pattern is valid for quick spectral profile extraction in R. For production use, `extract()` with point coordinates is more reliable.
+
+## Links
+
+- [[Code — BGimageR — PRISMA Benguerir Scene HDF5]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Bibliometric — Paper Visualizations and ML.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Python scripts supporting the co-authored bibliometric paper: author impact visualizations and multi-model machine learning classifications on PRISMA scenes."
+aliases:
+---
+
+
+# Code — Bibliometric — Paper Visualizations and ML
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| Files | `Chartcode2paper.py` and `Actualiser/CODE.py` |
+| Format | Python Scripts |
+| Location | [file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/) |
+| Core Libraries | `pandas`, `numpy`, `matplotlib`, `seaborn`, `h5py`, `scikit-learn`, `rasterio` |
+
+## Description & Purpose
+
+These Python scripts support the co-authored bibliometric study:
+* **`Chartcode2paper.py`**: Visualizes author citation metrics, analyzing total citations (TC), h-index, and g-index distribution over time to generate paper figures.
+* **`Actualiser/CODE.py`**: Represents an exploratory script that loads a PRISMA Level-2D HDF5 scene (`PRS_L2D_STD_20220212112444_20220212112448_0001.he5`), plots ground sample coordinates from an Excel sheet (`Randompoints-TEST-Python.xlsx`) over an RGB composite, and benchmarks SVM, KNN, Random Forest, and a custom **Minimum Distance Classifier** to map lithology classes.
+
+---
+
+## Technical Implementations
+
+### 1. Author Impact Plots (`Chartcode2paper.py`)
+Loads `Author-Impact.xlsx` and creates a $2 \times 3$ subplot layout visualizing citation trajectories:
+* **h-index Over Time**: Uses `sns.lineplot` to track `h_index` against publication year start (`PY_start`) grouped by author (`Element`).
+* **Total Citations**: Bar plot of total citations (`TC`) per author.
+* **h-index vs. g-index**: Scatter plot showing correlation between these two impact metrics.
+* **Distribution Fills**: Histogram with KDE of the `m_index` parameter, alongside box plots of `g_index`.
+
+### 2. PRISMA Loading and Sample Overlay (`Actualiser/CODE.py`)
+Fuses VNIR/SWIR bands from PRISMA `.he5` structure and overlays ground sample points:
+```python
+with h5py.File(he5_file_path, 'r') as hdf5_file:
+    # Extracts RGB bands (Red, Green, Blue) from standard group paths
+    red_band = np.array(hdf5_file[group_name][red_band_name])
+    green_band = np.array(hdf5_file[group_name][green_band_name])
+    blue_band = np.array(hdf5_file[group_name][blue_band_name])
+    
+    # Scale and display RGB composite
+    rgb_image = np.dstack((red_band, green_band, blue_band)) / 65535.0
+```
+
+### 3. Classification Benchmarking (`Actualiser/CODE.py`)
+Imports lithological points, encodes classes via `LabelEncoder`, splits training/testing datasets ($70/30$), and fits four classifiers:
+* **SVM**: `SVC()`
+* **KNN**: `KNeighborsClassifier(n_neighbors=5)`
+* **Random Forest**: `RandomForestClassifier(n_estimators=100)`
+* **Minimum Distance Classifier**: Custom function using Euclidean distance centroids:
+  ```python
+  def minimum_distance_classifier(train_data, test_point):
+      distances = np.linalg.norm(train_data - test_point, axis=1)
+      min_distance_index = np.argmin(distances)
+      return y_train[min_distance_index]
+  ```
+
+---
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023]]
+- [[04_Knowledge Base/wiki/concepts/Minimum Distance Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Hamza Collaboration Biodiversity Plotting.md
+
+---
+date: 2026-06-13
+summary: "Summary of R and Python scripts used to generate the biodiversity visualizations, heatmaps, and sunburst charts for the 2023 plant diversity paper."
+aliases:
+tags:
+---
+
+
+# Code — Hamza Collaboration Biodiversity Plotting
+
+This note summarizes the collection of Python and R data visualization scripts archived in [ArticleHAMZA](file:///D:/ArticleHAMZA/). These scripts were developed to generate published charts (sunbursts, heatmaps, polar radar plots, and histograms) showing taxonomic family distributions and plant life-form proportions across Moroccan phosphate mines.
+
+---
+
+## 🛠️ Code Base Directory Structure
+* **Code Folder:** [Figures/Codes/](file:///D:/ArticleHAMZA/Figures/Codes/)
+* **Languages:** Python (Pandas, Plotly Express, Seaborn, Matplotlib) and R.
+
+---
+
+## 📊 Script Functionality Breakdown
+
+### 1. Hierarchical Sunburst Visualizations
+* **Purpose:** Render interactive radial plots showing taxonomic family hierarchy or life form proportions relative to different mining sites.
+* **Scripts:**
+  * **[lasttttt.py](file:///D:/ArticleHAMZA/Figures/Codes/lasttttt.py)** & **[codeSUNURSTFINAL.txt](file:///D:/ArticleHAMZA/Figures/Codes/codeSUNURSTFINAL.txt)**: Reads `spectrebiologiquess.xlsx` and calls `px.sunburst(df, path=['Mines', 'Raunkiaers life forms'], values='values')` to structure mine sites nested with their respective Raunkiaer counts.
+  * **[Untitled-1.py](file:///D:/ArticleHAMZA/Figures/Codes/Untitled-1.py)** & **[Code.txt](file:///D:/ArticleHAMZA/Figures/BGM/Code.txt)**: Reads `BGMrichness.xlsx` to render taxonomic classifications, nesting species counts under `Taxonomic family` → `Genus`. Uses the `GnBu` color sequence.
+  * **[ssssssssssssssssssssssssss.py](file:///D:/ArticleHAMZA/Figures/Codes/ssssssssssssssssssssssssss.py)**: A hardcoded structure using `plotly.graph_objects.Sunburst` to test hierarchical mappings directly without reading files.
+
+### 2. Clustered Heatmaps (Ecological Correlation)
+* **Purpose:** Map the distribution of species and evaluate correlations between species richness and local climatic factors.
+* **Scripts:**
+  * **[Clustering heatmap.py](file:///D:/ArticleHAMZA/Figures/Codes/Clustering%20heatmap.py)**: Computes a correlation matrix from `Correlation-Specific-richness-climatic-data.xlsx` and draws a diagonal heatmap with coefficients labeled (`sns.heatmap(corr, annot=True, cmap='RdBu_r')`).
+  * **[import pandas as pddddd.py](file:///D:/ArticleHAMZA/import%20pandas%20as%20pddddd.py)** & **[Pycode](file:///D:/ArticleHAMZA/Pycode)**: Reads `Mineheatmap.xlsx` and calls `sns.clustermap` with the `viridis` color map to execute hierarchical clustering on species distribution across mining zones.
+  * **[plotheatmapCODE.R](file:///D:/ArticleHAMZA/plotheatmapCODE.R)**: An R equivalent script for generating standard clustered heatmaps.
+
+### 3. Polar Radar & Abundance Charts
+* **Purpose:** Compare functional life-form proportions across mines in a radar chart format.
+* **Scripts:**
+  * **[radarCHART.py](file:///D:/ArticleHAMZA/Figures/Codes/radarCHART.py)**: Uses Plotly Express `px.scatter_polar` reading `spectrebiologique.xlsx` to position Raunkiaer's life forms on the angular axis (`theta`) against abundance value ranges (`r`).
+  * **[import pandas as pd.py](file:///D:/ArticleHAMZA/Figures/Codes/import%20pandas%20as%20pd.py)**: Runs basic exploratory data checks, plotting histograms of Ben Guerir Mine abundances, box plots of Bou Craa Mine species counts, and general scatter correlations.
+  * **[TESTPIECHART.py](file:///D:/ArticleHAMZA/Figures/Codes/TESTPIECHART.py)**: A simple Matplotlib test script showing an exploded pie chart layout using dummy data.
+
+---
+
+## 💡 Reusable Visualization Template
+Here is a consolidated and cleaned version of the **Plotly Sunburst** pattern used for nesting taxonomic data:
+
+```python
+import pandas as pd
+import plotly.express as px
+
+def plot_taxonomy_sunburst(excel_path, output_html):
+    # Load taxonomy data sheet
+    df = pd.read_excel(excel_path)
+    df.columns = ['Taxonomic family', 'Effectiff', 'Genus']
+    
+    # Generate hierarchical sunburst
+    fig = px.sunburst(
+        df, 
+        path=['Taxonomic family', 'Genus'], 
+        values='Effectiff', 
+        color='Taxonomic family',
+        color_discrete_sequence=px.colors.sequential.GnBu
+    )
+    
+    fig.update_layout(title_text="Taxonomic Distribution", title_x=0.5)
+    fig.write_html(output_html)
+
+# Example call:
+# plot_taxonomy_sunburst("BGMrichness.xlsx", "bgm_sunburst.html")
+```
+
+---
+
+## 🕸️ Links
+- [[zineNativePlantDiversity2023]] — Primary paper containing these figure layouts
+- [[04_Archives/D-Drive/D-Drive — ArticleHAMZA]] — Parent D-drive folder
+- [[Data Asset — Benguerir Mine Species and Shapefiles]] — Source Excel files used by these scripts
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Multi-method ensemble spectral band selection function (PLSR + RF + SVM + GPR) by Khalil Misbah — adapted from Feilhauer et al."
+aliases:
+---
+
+
+# Code — Khalil — Ensemble Band Selection
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `ensembleAlg.R` |
+| Path | [file:///D:/Code/Code-khalil/ensembleAlg.R](file:///D:/Code/Code-khalil/ensembleAlg.R) |
+| Author | Khalil Misbah (khalil.misbah@um6p.ma) |
+| Based on | Feilhauer et al. `rse09382-mmc` codebase |
+| Language | R 4.1.1 |
+| Packages | `pls 2.8.0`, `randomForest 4.7.1`, `e1071 1.7.9`, `caret`, `kernlab` |
+
+## Purpose
+
+Selects the most informative spectral bands from a hyperspectral dataset by running **four regression models** and combining their variable importance scores into a weighted ensemble. Bands above `mean + sd` of the ensemble score are selected.
+
+## Algorithm
+
+```
+Input:
+  x   — spectral matrix (samples × bands)
+  y   — response variable (e.g., mineral content %)
+  wl  — wavelength vector
+
+Models run:
+  1a. PLSop  — Optimized PLSR (automatic LV selection via onesigma rule, jackknife)
+  1b. PLS    — PLSR via caret 10-fold CV
+  2.  RF     — Random Forest (500 trees, %IncMSE variable importance)
+  3.  SVR    — Support Vector Regression (ε-SVR, grid search over C and γ)
+  4.  GPR    — Gaussian Process Regression (caret, radial kernel, 10-fold CV)
+
+Ensemble:
+  ensemblecf = |PLSop_coef|×R²_PLSop + |PLS_coef|×R²_PLS 
+             + |RF_importance|×R²_RF + |SVR_coef|×R²_SVR 
+             + |GPR_coef|×R²_GPR
+
+Selection threshold:
+  th = mean(ensemblecf) + sd(ensemblecf)
+  Selected bands: ensemblecf > th
+```
+
+## Output
+
+Returns a list with:
+- `selection` — matrix of per-model coefficients + ensemble score + binary selection flag (rows × bands)
+- `fits` — R² values for each model
+- `threshold` — the selection threshold value
+- `PLSop`, `PLS`, `RF`, `SVR`, `GPR` — trained model objects
+
+## Visualization
+
+`plot.ensemble()` renders a heatmap of ensemble scores with overlaid model-specific coefficient curves, highlighting selected bands.
+
+## Relevance to Thesis
+
+This ensemble approach to band selection is methodologically related to thesis Ch.1 (field spectroscopy spectral indices) and Ch.2 (PRISMA band optimization). The Feilhauer framework is established in vegetation remote sensing; application to mine waste rock minerals is a direct extension.
+
+## Links
+
+- [[Code — Khalil — Spectral Derivatives Pipeline]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R Markdown pipeline for spectral preprocessing: noise filtering, continuum removal, 1st/2nd derivatives, CWT — by Khalil Misbah."
+aliases:
+---
+
+
+# Code — Khalil — Spectral Derivatives Pipeline
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `DERIVATIVES.Rmd` |
+| Path | [file:///D:/Code/Code-khalil/DERIVATIVES.Rmd](file:///D:/Code/Code-khalil/DERIVATIVES.Rmd) |
+| Author | Khalil Misbah (UM6P) |
+| Language | R Markdown |
+| Packages | `hsdar`, `car`, `readr`, `wmtsa`, `janitor` |
+
+## Input Data
+
+| File | Description |
+|------|-------------|
+| `fieldSamples.txt` | Raw reflectance matrix (bands × samples) |
+| `wvl.txt` | Wavelength vector |
+| `nutrientSamples.txt` | Soil/mineral response variable |
+
+## Processing Pipeline
+
+```
+1. Load raw reflectance → transpose to (samples × bands) matrix
+2. Build hsdar speclib object with wavelength metadata
+3. Apply atmospheric mask (1349–1459 nm, 1793–1958 nm)
+4. Noise filtering: Savitzky-Golay (sgolay, n=5)
+5. Continuum removal → band depth transformation (method = "ch")
+6. 1st derivative (Savitzky-Golay)
+7. 2nd derivative (Savitzky-Golay)
+8. CWT (Continuous Wavelet Transform): gaussian2 wavelet, 8 scales
+   → sum of scale 2 + scale 3 components
+9. Export all transformed spectra + nutrients to .txt files:
+   rawBind.txt, rawContBind.txt, Der1Bind.txt, Der2Bind.txt
+```
+
+## Key Techniques
+
+**Continuum removal** — Divides spectrum by the convex hull baseline; produces band depth (BD) values emphasizing absorption features. Standard in mineralogical spectroscopy.
+
+**Savitzky-Golay derivative** — Fits local polynomials to compute derivatives while minimizing noise amplification. n=5 window used here.
+
+**CWT with gaussian2** — Second-order Gaussian (= Mexican Hat) wavelet. Effective for locating inflection points in spectral profiles (mineral absorption edge positions). Scales 2+3 sum selected here.
+
+## Atmospheric Mask Applied
+
+- `1349–1459 nm` — water vapor absorption (overlaps PRISMA bad band zone)
+- `1793–1958 nm` — CO₂/H₂O absorption (overlaps PRISMA bad band zone)
+
+These mask ranges are consistent with the bad bands identified in [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]].
+
+## Relevance to Thesis
+
+Spectral derivative preprocessing (1st/2nd order) and continuum removal are standard methods for phosphate mineral identification at field scale (Ch.1). The same preprocessing philosophy (SG filtering + feature extraction) is applied in the thesis hyperspectral pipeline.
+
+## Links
+
+- [[Code — Khalil — Ensemble Band Selection]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]]
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Morocco Map R Script.md
+
+---
+date: 2026-06-12
+tags:
+summary: "R script to generate a Morocco map with ggplot2 + rnaturalearth — utility visualization script."
+---
+
+
+# Code — Morocco Map R Script
+
+## Script Info
+
+| Property | Value |
+|----------|-------|
+| File | `MoroccomapR.R` |
+| Path | [file:///D:/Code/MoroccomapR.R](file:///D:/Code/MoroccomapR.R) |
+| Output | `MoroccanMAP.png` |
+| Language | R |
+| Packages | `ggplot2`, `rnaturalearth`, `rnaturalearthdata` |
+
+## Purpose
+
+Generates a zoomed map of southwestern Morocco centered at lat 28.77, lon -9.5 (Saharan region, not Benguerir). Minor syntax errors present (missing `+` continuation for `coord_sf`).
+
+## Reusable Pattern
+
+```r
+library(ggplot2)
+library(rnaturalearth)
+library(rnaturalearthdata)
+
+morocco_map <- ne_countries(scale = "medium", country = "Morocco", returnclass = "sf")
+
+ggplot() +
+  geom_sf(data = morocco_map) +
+  coord_sf(xlim = c(-18, -1), ylim = c(21, 36))  # full Morocco extent
+```
+
+For a Benguerir-centered map, use `xlim = c(-9, -6.5)`, `ylim = c(32, 33.5)`.
+
+## Notes
+
+The center coordinates in the script (lat 28.77, lon -9.5) point to southern Morocco (Anti-Atlas region), not Benguerir (lat ~32.2, lon ~-7.9). Possibly created for a different visualization.
+
+## Links
+
+- [[04_Archives/D-Drive/D-Drive — Code]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — NEON Tutorial Dataset SJER.md
+
+---
+date: 2026-06-12
+tags:
+summary: "NEON Field Site Spatial Data for SJER (California) — LiDAR tutorial dataset, no thesis research value."
+---
+
+
+# Code — NEON Tutorial Dataset SJER
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| Source | NEON (National Ecological Observatory Network) |
+| Site | SJER — San Joaquin Experimental Range, California, USA |
+| Path | [file:///D:/Code/NEONDSFieldSiteSpatialData/](file:///D:/Code/NEONDSFieldSiteSpatialData/) |
+| Size | ~758 MB (GeoTIFFs + shapefiles) |
+
+## Contents
+
+| Type | Files |
+|------|-------|
+| Digital Surface Model (DSM) | `SJER2013_DSM.tif`, hillshade, overviews |
+| Digital Terrain Model (DTM) | `SJER2013_DTM.tif`, hillshade, overviews |
+| Canopy Height Model (CHM) | `CHM_SJER.tif` |
+| Plot centroids | `SJERPlotCentroids.csv` + buffer shapefiles |
+| Vegetation structure | `D17_2013_vegStr.csv`, `D17_2013_SOAP_vegStr.csv` |
+| Hyperspectral bands | `band19.tif`, `band34.tif`, `band58.tif`, `band90.tif` (NEON AOP) |
+
+## Research Value
+
+**No direct thesis value.** This is a standard NEON Data Skills tutorial dataset used for learning LiDAR processing and CHM extraction workflows in R. Stored in D:\Code because it was downloaded during early-PhD R skill development (~2022–2023).
+
+## Potential Use
+
+The CHM extraction workflow (DSM − DTM = CHM) and plot-based sampling approach could be adapted for structural analysis of Benguerir waste rock dumps, but this is not a thesis objective.
+
+## Links
+
+- [[04_Archives/D-Drive/D-Drive — Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Pierre Gy's Fundamental Sampling Error R Script.md
+
+---
+date: 2026-06-13
+tags:
+summary: "R script executing Pierre Gy's sampling theory formulas to compute the Fundamental Sampling Error (FSE) at multiple stages of rock preparation."
+aliases:
+---
+
+
+# Code — Pierre Gy's Fundamental Sampling Error R Script
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `Gy's error code.R` |
+| Format | R Script |
+| Location | [file:///D:/PHD-2nd/Gy's%20error%20code.R](file:///D:/PHD-2nd/Gy's%20error%20code.R) |
+| Core Libraries | `ramify`, `Hmisc`, `StratigrapheR` |
+
+## Description & Purpose
+
+This R script calculates the **Fundamental Sampling Error (FSE)** based on Pierre Gy's sampling theory at various crushing, grinding, and splitting stages of physical ore preparation for Benguerir phosphate samples. It validates sample mass reductions against fragment size decreases to ensure representativeness, comparing the cumulative variance against the **Gy 10% safety line** (a relative standard deviation threshold of 10%, or relative variance $\sigma_{EF}^2 = 0.01$).
+
+---
+
+## Theory & Parameters
+
+The Fundamental Sampling Error relative variance ($\sigma_{EF}^2$) is calculated using:
+$$S_{Fe}^2 = \left(\frac{1}{M_S} - \frac{1}{M_L}\right) \cdot c \cdot f \cdot g \cdot l \cdot d^3$$
+
+Where:
+*   $M_S$: Subsample mass (grams)
+*   $M_L$: Lot mass (grams)
+*   $c$: Mineralogical factor ($g/cm^3$)
+*   $f$: Shape factor (dimensionless, default = 0.5)
+*   $g$: Granulometric distribution factor (dimensionless, default = 0.25)
+*   $l$: Liberation parameter (dimensionless)
+*   $d$: Nominal fragment size (cm)
+
+### Code Parametrization
+*   **Mineral Densities**: Apatite density ($L_m$) = 3.2 $g/cm^3$; Gangue density ($L_g$) = 2.7 $g/cm^3$.
+*   **Mineral Fraction**: Apatite content in pure mineral (`pct_ap`) = 0.4%.
+*   **Phosphorus Conversion**: `aL` (phosphorus to apatite fraction) = `(pct_ap/100)/0.183`, assuming apatite contains 18.3% elemental P.
+*   **Liberation Size**: Liberation grain size ($L_{gs}$) = 0.08 mm; Maximum fragment size ($D_{gs}$) = 80 mm.
+*   **Liberation Parameter**: $l = (L_{gs}/D_{gs})^{0.5} = (0.08/80)^{0.5} = 0.03162$.
+*   **Mineralogical Factor ($c$)**: Calculated as:
+    $$c = \frac{1-a_L}{a_L} \cdot \left((1-a_L)L_m + a_L L_g\right)$$
+*   **Mass & Size Vectors** (representing preparation stages A to G):
+    *   **Mass ($M_S$, kg)**: `[15, 5, 4, 0.1, 0.1, 0.05, 0.05]`
+    *   **Nominal size ($d$, cm)**: `[8, 8, 2, 2, 0.01, 0.01, 0.0075]`
+
+---
+
+## Preparation Steps and Relative Variances
+
+The script models the sample preparation flow and computes step-wise relative variances:
+
+1.  **Stage A $\to$ B**: Split 15 kg $\to$ 5 kg (fragments at 8 cm nominal diameter).
+    *   Relative variance: $S_{Fe}^1 = 6.897123 \times 10^{-2}$
+2.  **Stage B $\to$ C**: Crush to 10 mm (nominal size $d$ vector = 2 cm in calculations, mass split to 4 kg).
+    *   Relative variance: $S_{Fe}^2 = 7.711218 \times 10^{-4}$
+3.  **Stage C $\to$ D**: Split 4 kg $\to$ 100 g (fragments at 2 cm nominal diameter).
+    *   Relative variance: $S_{Fe}^3 = 6.897123 \times 10^{-3}$
+4.  **Stage D $\to$ E**: Grind to 0.2 mm (nominal size $d$ vector = 0.01 cm, mass 100 g).
+    *   Relative variance: $S_{Fe}^4 = 7.711218 \times 10^{-5}$
+5.  **Stage E $\to$ F**: Split 100 g $\to$ 50 g (fragments at 0.01 cm).
+    *   Relative variance: $S_{Fe}^5 = 1.090531 \times 10^{-4}$
+6.  **Stage F $\to$ G**: Pulverize to 0.075 mm (nominal size $d$ vector = 0.0075 cm, mass 50 g).
+    *   Relative variance: $S_{Fe}^6 = 7.083206 \times 10^{-5}$
+
+### Visual Output
+The script generates a log-log plot overlaying the preparation stages against the **Gy 10% safety line** ($\sigma^2 = 0.01$), mapping where the protocol risks failing representativeness (particularly in early splitting stages before crushing).
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions]]
+- [[04_Knowledge Base/wiki/concepts/WD-XRF Chemical Analysis of Panel 2 Waste Rocks]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Clean.md
+
+---
+date: 2026-06-13
+tags:
+summary: "R script from the AgBS data visualization short course (Frédéric Baudron), plotting the impact of the Russia-Ukraine war on global wheat trade."
+aliases:
+---
+
+
+# Code — R Viz — Ukraine Wheat War Trade Clean
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `Data visualization training - 10 June 2022 - clean codes (1).R` |
+| Format | R Script |
+| Location | [file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20clean%20codes%20(1).R](file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20clean%20codes%20(1).R) |
+| Author | Frédéric Baudron (f.baudron@cgiar.org) |
+| Course | AgBS Learning by Doing Short Course #1 (10 June 2022) |
+
+---
+
+## Script Overview & Purpose
+This script contains clean, production-ready R code used in a data visualization training session attended by Abdelhak in his first PhD year. The course uses global wheat datasets to teach advanced plotting techniques in R. 
+
+*   **Theme**: Consequence of the Ukraine-Russia war on the global wheat trade.
+*   **Input Data**:
+    *   `wheat prices.csv` (historical prices)
+    *   `wheat imp af.csv` (African wheat imports)
+    *   `export.csv` (wheat exports)
+    *   `cereal compo.csv`
+    *   `wheat gap.csv`
+    *   `trade matrix.csv`
+    *   `wheat import countries.csv`
+    *   `commodity prices.csv`
+*   **Key Libraries**: `ggplot2`, `ggthemes`, `dplyr`, `scales`, `viridis`, `ggalluvial` (flow charts), `sf` (spatial data mapping), `gganimate` (animated timelines), and `patchwork` (arranging subplots).
+
+---
+
+## Core Visualizations & R Techniques
+
+### 1. Historical Line Chart
+Plots a monthly line chart of US hard red winter wheat prices in the last 40 years:
+*   Converts date fields via `as.Date(wp$Date, format = "%m/%d/%Y")`.
+*   Uses `geom_line(size = 1.2, color = "#CEFF1A")` for a prominent line color.
+*   Applies `scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%Y"))` for a 4-year grid increment.
+*   Styled with `theme_few()` and a custom dark mode theme (`plot.background = element_rect(fill = "grey10")`).
+
+### 2. Advanced Layouts & Mapping
+*   **Alluvial plots**: Visualizes trade flows from exporters to importers using `ggalluvial`.
+*   **Spatial mapping**: Renders spatial shapefiles using `sf` to map wheat trade matrices.
+*   **Animations**: Employs `gganimate` to transition trade statistics over years.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[Code — R Viz — Ukraine Wheat War Trade Step by Step]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — R Viz — Ukraine Wheat War Trade Step by Step.md
+
+---
+date: 2026-06-13
+tags:
+summary: "R script showing step-by-step builds of plots demonstrating incremental adjustments (colors, scale breaks, labels) in ggplot2."
+aliases:
+---
+
+
+# Code — R Viz — Ukraine Wheat War Trade Step by Step
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `Data visualization training - 10 June 2022 - step by step.R` |
+| Format | R Script |
+| Location | [file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20step%20by%20step.R](file:///D:/PHD-1st/R%20data%20visualization/Info_and_files_for_tomorrow_AgBS_Learning_by_Doing_Short_Course_#1_/Data%20visualization%20training%20-%2010%20June%202022%20-%20step%20by%20step.R) |
+| Author | Frédéric Baudron (f.baudron@cgiar.org) |
+| Course | AgBS Learning by Doing Short Course #1 (10 June 2022) |
+
+---
+
+## Script Overview & Purpose
+This R script serves as the step-by-step tutorial version of the data visualization session. It demonstrates how to build plots incrementally in `ggplot2`, showing the effect of individual formatting parameters.
+
+## Incremental Tutorial Workflow
+
+The script guides the user through the process of building the historical wheat price chart in five steps:
+
+### Step 1: Raw Plot
+Plots a simple default line chart without formatting:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line()
+```
+
+### Step 2: Line Adjustments
+Modifies line thickness and colors (referencing online color code palettes):
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red")
+```
+
+### Step 3: Axis Labeling
+Removes the empty x-axis label and updates the y-axis title:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red") + 
+  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)")
+```
+
+### Step 4: Scale Breaks
+Adjusts the scale increment to 4-year breaks to resolve date label overlaps:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red") + 
+  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)") +
+  scale_x_date(breaks = date_breaks("4 years"))
+```
+
+### Step 5: Date Formatting
+Applies year formatting (`%Y`) to date labels and bounds the axis:
+```R
+ggplot(wp, aes(x = Date, y = WHEAT_US_HRW)) + 
+  geom_line(size = 1.2, color = "red") + 
+  xlab("") + ylab("Price of US  hard red winter wheat (USD/mt)") +
+  scale_x_date(breaks = date_breaks("4 years"), labels = date_format("%Y"))
+```
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[Code — R Viz — Ukraine Wheat War Trade Clean]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — Root — Articles Progress and Metrics.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Jupyter notebook tracking PhD publication progress and analyzing target journal impact factors and quartile statistics."
+aliases:
+---
+
+
+# Code — Root — Articles Progress and Metrics
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `artcicles.ipynb` |
+| Format | Jupyter Notebook |
+| Location | [file:///D:/PHD-3rd/artcicles.ipynb](file:///D:/PHD-3rd/artcicles.ipynb) |
+| Core Libraries | `pandas`, `matplotlib`, `plotly.express`, `plotly.graph_objects` |
+
+## Description & Purpose
+
+This notebook is an administrative and tracking asset used by Abdelhak during his third PhD year (mid-2024). It serves two main purposes:
+1. **PhD Publication Tracking**: Visually monitors the writing progress, time investment, and milestones of three planned PhD articles.
+2. **Journal Target Analysis**: Dynamically imports and evaluates a target journal metadata sheet, displaying impact factor statistics by quartile (Q1/Q2/Q3) to help guide publication submissions.
+
+---
+
+## Technical Implementations
+
+### 1. Progress and Timeline Plotting (Cell 1)
+Defines dates, progress percentages, and estimated time investments for three papers, generating charts saved to the user's Desktop:
+* **Paper Progress**:
+  * **1er article**: $90\%$ complete (Milestone: 30 July 2024, Time: 180 days)
+  * **2ème article**: $40\%$ complete (Milestone: 20 September 2024, Time: 90 days)
+  * **3ème article**: $25\%$ complete (Milestone: 30 November 2024, Time: 45 days)
+* **Plot Functions**:
+  * `bar_chart()`: Plots relative progress bar chart.
+  * `timeline()`: Renders milestone markers on a horizontal time axis relative to 1 July 2024.
+  * `line_chart()`: Renders cumulative progress rates over time.
+  * `pie_chart()`: Visualizes relative time allocation (in days) per article.
+
+### 2. Target Journal Analytics (Cell 3)
+Reads target journal metadata from `C:/Users/Dell/OneDrive - Université Mohammed VI Polytechnique/Journals-papers.xlsx` and generates interactive tables and plots in a `Desktop/MyPlots/` directory:
+* **Full Dataset Table**: Uses Plotly `go.Table` to output full journal rosters.
+* **Quartile Grouping**: Groups target journals by Quartile (Q1/Q2/Q3) and Journal name to display article distributions.
+* **Sunburst & Treemaps**: Renders hierarchy maps of journals weighted by their Impact Factor (IF).
+* **Quartile Boxplots**: Renders the distribution of Impact Factors across different quartiles to highlight Q1 journals.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[LIFE_TIMELINE_MOC]]
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[03_Digital Life/timeline/Timeline-2023-2026]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — VLC — Bad Bands Detection.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Jupyter notebook containing multi-criterion statistical filters (SNR, entropy, correlation, PCA variance) to identify and mask noisy PRISMA bands."
+aliases:
+---
+
+
+# Code — VLC — Bad Bands Detection
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `bad bands code.ipynb` |
+| Format | Jupyter Notebook |
+| Location | [file:///D:/PHD-3rd/VLC/bad%20bands%20code.ipynb](file:///D:/PHD-3rd/VLC/bad%20bands%20code.ipynb) |
+| Core Libraries | `h5py`, `numpy`, `scipy.stats`, `scipy.signal`, `matplotlib`, `sklearn.decomposition` |
+
+## Algorithmic Workflow
+
+The notebook develops and refines a custom Python function (`analyze_prisma_bands`) that automates the identification and masking of corrupted or atmospheric absorption channels in PRISMA Level-2D datasets.
+
+```mermaid
+graph TD
+    A["Read PRISMA L2d HDF5"] -->|Load Arrays| B["VNIR Cube & SWIR Cube"]
+    B -->|Fusing| C["Combined Cube (239 bands)"]
+    C -->|Calculate per band| D["SNR, Entropy, Correlation, PCA Variance"]
+    D -->|Apply thresholds| E["Multi-Criterion Bad Band Mask"]
+    E -->|Output| F["Cleaned Hyperspectral Cube & Stats Plots"]
+```
+
+## Key Code Implementations & Metrics
+
+### 1. Fusing VNIR and SWIR Cubes
+Loads the Level-2D HDF5 file structures and concatenates the VNIR and SWIR spectral dimensions:
+```python
+with h5py.File(file_path, 'r') as f:
+    vnir_cube = f['HDFEOS/SWATHS/PRS_L2D_HCO/Data Fields/VNIR_Cube'][:]
+    swir_cube = f['HDFEOS/SWATHS/PRS_L2D_HCO/Data Fields/SWIR_Cube'][:]
+combined_cube = np.concatenate((vnir_cube, swir_cube), axis=1)
+```
+
+### 2. Multi-Criterion Band Filtering Logic
+Iterates through all bands, applying four distinct statistical filters:
+* **SNR Thresholding**: Identifies channels with low signal-to-noise ratio:
+  ```python
+  # Calculate mean and standard deviation across spatial dimensions
+  mean_spectrum = np.nanmean(combined_cube, axis=(0, 2))
+  std_spectrum = np.nanstd(combined_cube, axis=(0, 2))
+  snr = mean_spectrum / (std_spectrum + 1e-6)
+  bad_snr = snr < snr_threshold
+  ```
+* **Entropy Analysis**: Checks data distribution diversity. Low entropy indicates flat line values (edge channels or calibration bands), while extremely high entropy signals random detector noise.
+* **Correlation Thresholding**: Checks adjacent band correlation. Very low correlation highlights sudden spikes or localized detector errors.
+* **PCA Variance Contribution**: Evaluates the cumulative variance contribution. If a band does not align with principal components explaining $99.99\%$ variance, it is potential noise.
+
+### 3. Visualizations
+Generates detailed spectral statistic figures (mean, standard deviation, and min-max fills) across the wavelength spectrum, helping to verify that the water vapor absorption windows (1300–1500 nm and 1750–1980 nm) are correctly masked out.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method]]
+- [[04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Code — VLC — ML Models Classifier.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Jupyter notebook comparing XGBoost, SVM, Random Forest, KNN, and Voting Ensemble models for lithological classification of PRISMA hyperspectral data."
+aliases:
+---
+
+
+# Code — VLC — ML Models Classifier
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| File | `ML-MODELS-VLC.ipynb` |
+| Format | Jupyter Notebook |
+| Location | [file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) |
+| Core Libraries | `rasterio`, `geopandas`, `scikit-learn`, `xgboost`, `imbalanced-learn` |
+
+## Pipeline Architecture
+
+The notebook implements a structured supervised machine learning workflow to classify ground lithology (such as limestone, phosphate, chert, and clay classes) using spatial-spectral inputs:
+
+```mermaid
+graph TD
+    A["Raw PRISMA L2d HDF5 Cube"] -->|Extraction & Loading| B["Lithological Sample Coordinates (Excel)"]
+    B -->|Raster Extract| C["Spectral Feature Matrix (StandardScaler)"]
+    C -->|Dimensionality Reduction| D["PCA (Principal Component Analysis)"]
+    D -->|Oversampling| E["SMOTE (Synthesized Minority Balancing)"]
+    E -->|Model Training| F["GridSearchCV / StratifiedKFold"]
+    F -->|Ensemble Fusion| G["Voting Classifier (RF + SVM + XGBoost)"]
+    G -->|Validation & Evaluation| H["Classification Reports & Confusion Matrices"]
+```
+
+## Key Code Implementations & Techniques
+
+### 1. Class Imbalance Remediation (SMOTE)
+Given that waste rock classes are highly imbalanced, the notebook employs `SMOTE` (Synthetic Minority Over-sampling Technique) to synthetically balance the training feature matrix:
+```python
+from imblearn.over_sampling import SMOTE
+smote = SMOTE(random_state=42)
+X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
+```
+
+### 2. Dimensionality Reduction (PCA)
+Hyperspectral data contains highly correlated bands. Principal Component Analysis (PCA) is used to project the normalized bands into a reduced orthogonal feature space:
+```python
+from sklearn.decomposition import PCA
+pca = PCA(n_components=0.99) # Keep components explaining 99% variance
+X_train_pca = pca.fit_transform(X_train_scaled)
+```
+
+### 3. Model Ensemble (Voting Classifier)
+To combine the predictive power of gradient boosting, support vector margins, and bagging trees, a soft voting ensemble is constructed:
+```python
+from sklearn.ensemble import VotingClassifier
+voting_clf = VotingClassifier(
+    estimators=[
+        ('rf', RandomForestClassifier(n_estimators=100, random_state=42)),
+        ('xgb', XGBClassifier(use_label_encoder=False, eval_metric='logloss', random_state=42)),
+        ('svc', SVC(probability=True, kernel='rbf', random_state=42))
+    ],
+    voting='soft'
+)
+```
+
+### 4. Spatially Mapping Predictions
+Uses `rasterio` and a trained model to classify an entire PRISMA scene, exporting the classification result to `lithology_map_xgboost.png`.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
+- [[04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE)]]
+- [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/sources/Delogu2023Using]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Benguerir Mine Species and Shapefiles.md
+
+---
+date: 2026-06-13
+summary: "Data asset index containing the species spreadsheets, mine boundary shapefiles, and survey points used for the 2023 biodiversity paper."
+aliases:
+tags:
+---
+
+
+# Data Asset — Benguerir Mine Species and Shapefiles
+
+This data asset note indexes the geographic boundary shapefiles, species surveys, and biodiversity data matrices archived in [ArticleHAMZA](file:///D:/ArticleHAMZA/). These datasets were collected and compiled to support the published paper [[zineNativePlantDiversity2023]].
+
+---
+
+## 📊 Tabular Datasets (Excel Spreadsheets)
+
+These files contain the raw floristic lists and biodiversity tables compiled from the field campaigns:
+
+1. **[Biodiversityofminingsites.xls](file:///D:/ArticleHAMZA/Biodiversityofminingsites.xls)** (342 KB)
+   * *Description:* Contains the master species inventory across the four mines: Bou Craa (BCM), Ben Guerir (BGM), Youssoufia (YSM), and Khouribga (KHM). 
+   * *Data Fields:* Taxonomic classification (family, genus, species), life-form classification under Raunkiaer's system, and occurrences.
+
+2. **[WIild-flora-of-phosphate-mining-sites.xlsx](file:///D:/ArticleHAMZA/WIild-flora-of-phosphate-mining-sites.xlsx)** (127 KB)
+   * *Description:* Plant occurrence matrices and functional traits of wild species colonizing the waste rock dumps.
+   * *Relevance:* Used to calculate richness indices and dominant botanical families (Compositae, Amaranthaceae, Poaceae).
+
+---
+
+## 🗺️ Geographic & Spatial Datasets (Shapefiles)
+
+These folders contain vector shapefiles used in GIS software (e.g. QGIS) to map mining boundaries and sample coordinates:
+
+### 1. Sampling Points Shapefile
+* *Path:* [ShapefileMINE](file:///D:/ArticleHAMZA/ShapefileMINE/)
+* *Primary Dataset:* **[Points-FINAL-BG.dbf](file:///D:/ArticleHAMZA/ShapefileMINE/Points-FINAL-BG.dbf)** (25.5 MB), `.shp`, `.shx`
+* *Details:* High-resolution coordinates of the specific vegetation sampling quadrants across the Ben Guerir Mine (BGM).
+* *Fields:* ID, Easting, Northing, species richness, dominant vegetation cover, and substrate composition.
+
+### 2. Mine Boundaries Shapefiles
+* *Path:* [BENGEURIR MINE](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/)
+* *Vector Files:*
+  * **[Shapefile Bengruir.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/Shapefile%20Bengruir.shp)** — Outlines the spatial extent of the Ben Guerir Mine concession.
+  * **[Shapefile Boucraa.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/Shapefile%20Boucraa.shp)** — Boundary for Bou Craa Mine.
+  * **[shapefile Khouribga.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/shapefile%20Khouribga.shp)** — Boundary for Khouribga Mine.
+  * **[Shapefile Youssoufia.shp](file:///D:/ArticleHAMZA/BENGEURIR%20MINE/Shapefile%20Youssoufia.shp)** — Boundary for Youssoufia Mine.
+* *Relevance:* Crucial for clipping satellite imagery (e.g., Landsat, Sentinel-2, PRISMA) to ensure spectral indicators are calculated strictly within mining concessions.
+
+---
+
+## 🕸️ Links
+- [[zineNativePlantDiversity2023]] — The published study supported by these datasets
+- [[04_Archives/D-Drive/D-Drive — ArticleHAMZA]] — Parent D-drive folder
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Books Reference Library.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note indexing reference books on mine site rehabilitation, revegetation, and phytoremediation in D:\\ALL\\Books"
+---
+
+
+# 📚 Data Asset — Books Reference Library
+
+This note catalogs the reference books located in [D:\ALL\Books\](file:///D:/ALL/Books) used in years 2–3 of the PhD to establish a theoretical foundation for mine site rehabilitation, soil formulation, and vegetation recovery monitoring.
+
+---
+
+## 📖 Books Inventory
+
+### 1. Spoil to Soil: Mine Site Rehabilitation and Revegetation
+*   **Filename**: [Spoil to Soil_ Mine Site Rehabilitation and Revegetation.pdf](file:///D:/ALL/Books/Spoil%20to%20Soil_%20Mine%20Site%20Rehabilitation%20and%20Revegetation.pdf)
+*   **Format**: PDF (28.8 MB)
+*   **Subjects Covered**: 
+    *   Soil reconstruction and transformation of raw mine wastes (spoil) into functional soils.
+    *   Physical, chemical, and biological barriers to plant growth on mine spoils.
+    *   Application of organic and inorganic amendments (topsoil, biochar, composts, and by-products like phosphogypsum).
+    *   Ecosystem reconstruction and species selection for mine site revegetation.
+*   **Relevance to Thesis**: Provides baseline concepts for the soil formulation trials at the Benguerir mine (mixing topsoil, sewage sludge, and phosphogypsum).
+
+### 2. Revegetation and Phytoremediation of Tailings from a Lead-Zinc Mine
+*   **Filename**: [Revegetation and phytoremediation of tailings from a lead-zinc mine.pdf](file:///D:/ALL/Books/Revegetation%20and%20phytoremediation%20of%20tailings%20from%20a%20lead-zinc%20mine.pdf)
+*   **Format**: PDF (13.3 MB)
+*   **Subjects Covered**: 
+    *   Phytoremediation strategies (phytoextraction and phytostabilization) for heavy metal-rich mine tailings.
+    *   Use of metal-tolerant plants and accumulator species.
+    *   Rhizosphere interactions and microbial inoculants to support plant survival.
+    *   Long-term monitoring of vegetation cover and soil chemistry.
+*   **Relevance to Thesis**: Although focused on lead-zinc tailings, the ecological monitoring principles and vegetation indicators (fractional vegetation cover, spectral response) align with remote sensing monitoring of mine waste.
+
+### 3. Mine Rehabilitation Handbook (LPSDP)
+*   **Filename**: [lpsdp-mine-rehabilitation-handbook-english.pdf](file:///D:/ALL/Books/lpsdp-mine-rehabilitation-handbook-english.pdf)
+*   **Format**: PDF (10.7 MB)
+*   **Source**: Australian Government — Leading Practice Sustainable Development Program for the Mining Industry.
+*   **Subjects Covered**:
+    *   Leading practice guidelines for sustainable mine rehabilitation.
+    *   Integration of rehabilitation into mine planning and operations (progressive rehabilitation).
+    *   Landform design, stability, and geomorphic erosion modeling.
+    *   Rehabilitation criteria, success indicators, and sign-off protocols.
+*   **Relevance to Thesis**: Directly references progressive mine rehabilitation frameworks, supporting the operational context of OCP's land-shaping and reclamation workflows at Benguerir.
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|Phosphate Mine Reclamation]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
+*   **hub**:: [[04_Archives/D-Drive/D_Drive_Master_Hub]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Data Asset — Chapter 1 Supplementary Tables
+
+This data asset note documents the supplementary tables for Chapter 1 of the thesis (published in *Sensors* 2025, doi: 10.3390/s26010002). These tables contain the complete, raw spectral similarity metrics, raw spectral reflectance curves, and handheld XRF (HHXRF) chemical analyses for all **104** waste-rock samples from the Benguerir mine.
+
+---
+
+## 1. Table S1: Spectral Similarity Metrics
+*   **File Link**: [Supplementary materials (Table S1).docx](file:///D:/PHD-4th/PP2/Supplementary%20materials%20(Table%20S1).docx)
+*   **Source Text**: [supp_s1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt)
+*   **Description**: This table contains the calculated similarity metrics for each of the **104** processed spectra when matched against the ECOSTRESS spectral library.
+*   **Columns**:
+    *   `Sample`: Unique sample ID (e.g., VL400, VL401, VL02, VL83).
+    *   `RMSE`: Root Mean Square Error.
+    *   `SAM`: Spectral Angle Mapper (in radians).
+    *   `SID`: Spectral Information Divergence.
+    *   `R2`: Coefficient of determination ($R^2$).
+    *   `Score`: Composite matching score (sum of normalized similarity metrics).
+*   **Exemplar Values (Confirmed from Table S1)**:
+    *   *Sample VL401*: RMSE = 0.1121, SAM = 0.0668 rad, SID = 0.0114, $R^2$ = 0.8653, Score = 0.1903 (Source: [supp_s1.txt:L405-410](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt#L405-L410)).
+    *   *Sample VL14*: RMSE = 0.0854, SAM = 0.0882 rad, SID = 0.0244, $R^2$ = 0.9169, Score = 0.1981 (Source: [supp_s1.txt:L442-446](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt#L442-L446)).
+    *   *Sample VL424*: RMSE = 0.1629, SAM = 0.1484 rad, SID = 0.0336, $R^2$ = 0.7511, Score = 0.3449 (Source: [supp_s1.txt:L21-26](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_s1.txt#L21-L26)).
+
+---
+
+## 2. Table S2: VNIR–SWIR Reflectance Curves
+*   **File Link**: [Supplementary table S2.xlsx](file:///D:/PHD-4th/PP2/Supplementary%20table%20S2.xlsx) (also stored as [Supplementary materials (Table S2).xlsx](file:///D:/PHD-4th/PP2/Supplementary%20materials%20(Table%20S2).xlsx))
+*   **Description**: This sheet contains the raw reflectance spectral curves for the **104** samples, measured under fixed Muglight geometry.
+*   **Structure**: 2,151 rows × 105 columns.
+*   **Columns**:
+    *   `Wavelength`: Spectral bands from **350 nm** to **2500 nm** at **1 nm** spacing.
+    *   `VL400` to `VL410-2`: Complete reflectance spectral profiles for all **104** samples.
+*   **Usage**: Used for continuum removal, Savitzky–Golay smoothing, and linear spectral unmixing.
+
+---
+
+## 3. Table S3: HHXRF Geochemical Composition
+*   **File Link**: [Supplemntary table S3.xlsx](file:///D:/PHD-4th/PP2/Supplemntary%20table%20S3.xlsx)
+*   **Description**: Contains the complete chemical composition measurements of major oxides and trace elements acquired by the Olympus Vanta M Series HHXRF.
+*   **Structure**: Consists of two sheets:
+    1.  `Feuil1` (132 rows × 121 columns): Raw instrument log files containing all individual measurement runs, duration (90–180 s), dual-beam settings (40–50 kV/10–15 kV), raw elemental concentrations, and 2-sigma errors.
+    2.  `Analyse XRF P` (104 rows × 53 columns): Finalized, cleaned geochemical database containing sieved `< 2 mm` major oxide concentrations (wt%) and trace elements (ppm) for the **104** representative samples.
+*   **Key Fields**:
+    *   `Sample`: Unique sample ID matching Table S1 and Table S2.
+    *   `SiO2`, `Al2O3`, `CaO`, `MgO`, `K2O`, `P2O5`, `Fe2O3`: Major rock-forming oxides (wt%).
+    *   `Sr`, `U`, `As`, `Cd`: Environmental trace indicators.
+*   **Exemplar Values (Confirmed from Sheet 'Analyse XRF P')**:
+    *   *Sample VL412*: $SiO_2$ = 56.22 wt%, $Al_2O_3$ = 2.01 wt%, $P_2O_5$ = 3.35 wt% (Source: [inspect_sheets.py output](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/.system_generated/tasks/task-106.log)).
+    *   *Sample VL402*: $SiO_2$ = 39.35 wt%, $Al_2O_3$ = 1.40 wt%, $P_2O_5$ = 2.91 wt% (Source: [inspect_sheets.py output](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/.system_generated/tasks/task-106.log)).
+    *   *Sample VL13*: $SiO_2$ = 28.74 wt%, $Al_2O_3$ = 1.81 wt%, $P_2O_5$ = 1.57 wt% (Source: [inspect_sheets.py output](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/.system_generated/tasks/task-106.log)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Chapter 2 Supplementary Materials.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Data Asset — Chapter 2 Supplementary Materials
+
+This note indexes and summarizes the contents of the supplementary materials for Chapter 2 of the thesis, which contains the tables and figures supporting the PRISMA lithological mapping study.
+
+* **Source File**: [Supplementary materials-minerals-4267637.docx](file:///D:/PHD-4th/Minerals-4267637%20Round%201/Supplementary%20materials-minerals-4267637.docx)
+* **Metadata**: All numerical results are derived from **10** repeated runs of the **30 m** spatially constrained cross-validation framework (**5** folds, **50** total splits) using the **127** spatially independent modeling dataset. (Source: [supp_ch2.txt:L2,L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L2#L4); parameters confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47,L50-L51)).
+
+> [!WARNING]
+> **Data Discrepancy (Row 24 of Discrepancy Log):** Tables S3, S4, and S5 in the supplementary materials report Extra Trees Spatial BA = **0.693 ± 0.032** and Random Forest Spatial BA = **0.666 ± 0.032**. The canonical defense prep files ([Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L53) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L189)) define the canonical Chapter 2 BAC range as **0.60–0.67**. Following the Data Truth Hierarchy, the canonical range of **0.60–0.67** is stated as fact, while the revised supplementary values are presented as context.
+
+---
+
+## 1. Summary of Supplementary Tables
+
+* **Table S1: XRF Geochemical Summary Statistics by Lithological Class**
+  * *Description*: Major-oxide composition (wt%) for the **127** modeling samples across the four lithological classes (Marl, Limestone, Phosphate rock, Siliceous facies).
+  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class|Geochemical Summary Statistics by Lithological Class]].
+  * *Source*: [supp_ch2.txt:L3-44](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L3-L44).
+* **Table S2: XRD and Petrographic Sample Mapping to the 127 Modelling Dataset**
+  * *Description*: Cross-references the **20** XRD-analyzed samples and **10** thin-section samples to their respective lithological classes and confirms their inclusion/exclusion in the final modeling dataset based on spatial pixel uniqueness.
+  * *Source*: [supp_ch2.txt:L48-133](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L48-L133).
+* **Table S3: Full-Band vs. ANOVA-60 Feature Selection Ablation**
+  * *Description*: Compares classification accuracies (OA and BA) when using all spectrally clean bands (**189**) vs. the top ANOVA-selected SWIR bands (**60**).
+  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies#1. Feature Selection Ablation: Full-Band vs. ANOVA-60 (Table S3)|Feature Selection & Validation Ablation Studies]].
+  * *Source*: [supp_ch2.txt:L135-172](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L135-L172).
+* **Table S4: ANOVA F-Test vs. Mutual Information Feature Selection**
+  * *Description*: Compares the performance of ANOVA F-test against Mutual Information feature selection criteria (both with $k=60$ features selected) for Random Forest and Extra Trees.
+  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies#2. Feature Selector Comparison: ANOVA F-Test vs. Mutual Information (Table S4)|Feature Selection & Validation Ablation Studies]].
+  * *Source*: [supp_ch2.txt:L180-193](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L180-L193).
+* **Table S5: Spatial vs. Random Cross-Validation**
+  * *Description*: Quantifies the impact of spatial autocorrelation by comparing random stratified k-fold cross-validation (no spatial buffer) against the **30 m** spatially constrained cross-validation for the five original classifiers.
+  * *Details*: Summarized in [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies#3. Spatial vs. Random Cross-Validation: Autocorrelation Quantification (Table S5)|Feature Selection & Validation Ablation Studies]].
+  * *Source*: [supp_ch2.txt:L200-243](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L200-L243).
+
+---
+
+## 2. Summary of Supplementary Figures
+
+* **Figure S1: Feature Selection Ablation, Full-Band vs. ANOVA-60**
+  * *Description*: Visual comparison bar plot showing mean overall accuracy and balanced accuracy across the five classifiers for both band configurations. (Source: [supp_ch2.txt:L176-178](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L176-L178)).
+* **Figure S2: Feature Selection Comparison, ANOVA F-Test vs. Mutual Information**
+  * *Description*: Bar plot showing balanced accuracy under both selectors for Random Forest and Extra Trees, demonstrating overlapping standard deviations. (Source: [supp_ch2.txt:L196-198](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L196-L198)).
+* **Figure S3: Quantifying the Overestimation Risk of Random Cross-Validation**
+  * *Description*: Plot comparing performance distributions for random and spatial validation. Overlapping accuracy ranges confirm that pixel deduplication successfully mitigated spatial autocorrelation. (Source: [supp_ch2.txt:L246-251](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L246-L251)).
+* **Figure S4: Class Distribution of the 127 Spatially Independent Samples**
+  * *Description*: Bar chart showing sample counts per class in the modeling set: Marl ($n=49$), Limestone ($n=35$), Phosphate rock ($n=23$), and Siliceous facies ($n=20$). Highlights a slight typo in the original figure label where "Siliceous" was misspelled as "Selicious" (now corrected in text). (Source: [supp_ch2.txt:L253-255](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L253-L255)).
+* **Figure S5: Balanced Accuracy, All Seven Classifiers**
+  * *Description*: Compares balanced accuracy under spatial CV for the five original models plus the LightGBM and SAM baselines, showing performance relative to the **0.25** random chance level for a 4-class problem. (Source: [supp_ch2.txt:L256-258](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L256-L258)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies|Feature Selection & Validation Ablation Studies]]
+* [[04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class|Geochemical Summary Statistics by Lithological Class]]
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — OCP Institutional Documents.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note summarizing OCP institutional documents and operational procedures (Modes Opératoires) in D:\\ALL\\ocp"
+---
+
+
+# 🏢 Data Asset — OCP Institutional Documents
+
+This note catalogs and summarizes the OCP Group institutional documents and operational procedures (Modes Opératoires) stored in [D:\ALL\ocp\](file:///D:/ALL/ocp). These documents provide crucial industry context on mine operations, safety protocols, and progressive reclamation at the Benguerir mine site.
+
+---
+
+## 📝 Folder Summary & Key Content
+
+The OCP folder contains records from a 7-day field internship (stage) completed in the Gantour basin (Benguerir mine) during the early stages of the PhD. It details OCP's official protocols for reclamation and day-to-day mine operations.
+
+### 1. Mine Reclamation & Internship Report
+*   **Filename**: [Report.docx](file:///D:/ALL/ocp/Report.docx)
+*   **Key Information Extracted**:
+    *   **Historical Timeline**: OCP initiated formal mine rehabilitation protocols in **2014**. Prior to this, mined-out panels were left without systemic grading or revegetation.
+    *   **The Two Reclamation Axes**:
+        1.  **Aménagement (Shaping)**: Grading and stabilizing the waste rock piles (cavaliers) to reduce slopes and prevent erosion, executed using heavy machinery (Caterpillar D9 and D11 Bulldozers).
+        2.  **Plantation (Revegetation)**: Implantation of adaptive trees and shrubs on the reshaped land.
+    *   **Soil Formulation Recipe**: Planting is performed by digging pits measuring **$70 \times 70 \times 70\ \text{cm}$**. To overcome the nutrient deficiencies and physical limitations of raw overburden waste rock, a soil formulation mixture is filled into these pits. The mixture blends:
+        *   **Terre végétale** (saved topsoil)
+        *   **Boue de la STEP** (wastewater treatment plant sewage sludge)
+        *   **Boue de lavage** (phosphate washing plant clay byproduct)
+        *   **Phosphogypsum** (industrial byproduct of phosphoric acid production) at varying ratios to regulate pH and structure.
+    *   **Vegetation Species Selection**: OCP utilizes **21 different plant species** categorized into 5 functional classes:
+        *   *Fruit trees* (e.g., olive, fig, pomegranate)
+        *   *Forest trees* (e.g., eucalyptus, acacia)
+        *   *Shrubs* (e.g., Atriplex halimus)
+        *   *Medicinal plants*
+        *   *Ornamental garden plants*
+*   **Relevance to Thesis**: Provides the exact operational parameters (pit size, byproducts used, plant species) for the reclamation monitoring models.
+
+### 2. Operational Procedures (Modes Opératoires)
+Located in [D:\ALL\ocp\MO\](file:///D:/ALL/ocp/MO). These spreadsheets detail standard operating procedures for OCP mining crews:
+*   [MO foration.xlsx](file:///D:/ALL/ocp/MO/MO%20foration.xlsx) (3.18 MB) — Technical procedures and checklists for blasthole drilling rigs.
+*   [MO défuitage.xlsx](file:///D:/ALL/ocp/MO/MO%20défuitage.xlsx) (14.5 MB) — Procedures for dragline stripping, waste rock casting, and phosphate layer extraction (défuitage).
+*   [MOs PH .xlsx](file:///D:/ALL/ocp/MO/MOs%20PH%20.xlsx) (12.6 MB) — Operational modes for hydraulic shovels (Pelle Hydraulique) and haul trucks.
+*   [MOs 7500M .xlsx](file:///D:/ALL/ocp/MO/MOs%207500M%20.xlsx) (2.59 MB) — Operator logs and parameters for OCP's large-scale draglines (e.g., Marion 7500).
+
+### 3. HSE (Health, Safety, & Environment) Protocols
+*   [Réunion.docx](file:///D:/ALL/ocp/Réunion.docx) — Internal minutes regarding HSE policies (ISO 14001 certification goals and paper-reduction initiatives: reducing paper use from 100k sheets to 41k sheets/year, saving 17-20 trees per year).
+*   [DOOC_Checkliste_JCC_OCP 19MAI2017_V01.pdf](file:///D:/ALL/ocp/MO/DOOC_Checkliste_JCC_OCP%2019MAI2017_V01.pdf) — Job Cycle Check (JCC) checklist evaluating operator compliance with safety standards.
+*   [VF HD Affiche  7 principes.pdf](file:///D:/ALL/ocp/MO/VF%20HD%20Affiche%20%207%20principes.pdf) — Graphic design posters outlining OCP's 7 Golden Safety Rules (7 Principes d'Or HSE).
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-entity**:: [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group and Benguerir Mine]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy in Phosphate Reclamation|Phosphate Mine Reclamation]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports.md
+
+---
+tags:
+date: 2026-06-13
+summary: "Quantitative mineralogy reports (Rietveld refinement outputs) for early Benguerir waste rock samples, validating the 4-class mineralogy model."
+aliases:
+---
+
+
+# Data Asset — PHD-1st XRD Reports
+
+## Description
+This data asset contains the raw X-ray diffraction (XRD) mineralogical reports and quantitative analyses for waste rock samples collected during the first PhD year (2021/2022) at the Benguerir phosphate mine. The quantitative weight percentages were determined using full-pattern Rietveld refinements in PANalytical X'Pert HighScore Plus.
+
+*   **Source Archive**: [XRD_reports.zip](file:///D:/PHD-1st/XRD_reports.zip)
+*   **Active Directory**: [RE__Analyses_DRX/](file:///D:/PHD-1st/RE__Analyses_DRX/) (contains the raw `.raw`, `.xy`, and `.brml` scan files)
+
+---
+
+## Quantitative Analysis - Rietveld Refinements
+
+### 1. Sample Z2-1 (`Z21.docx`)
+*   **Raw Data File**: `SA GRPOUPE 2 DM1.raw`
+*   **Fit Parameters**: $R_{\text{exp}} = 11.09\%$, $R_{\text{wp}} = 30.15\%$, $R_{\text{p}} = 23.35\%$, $\text{GOF} = 2.72$
+*   **Mineral Weight Percentages**:
+
+| Mineral Phase | Weight % | Mineral Group |
+|---------------|----------|---------------|
+| **Calcite** | $30.831\%$ | Carbonate |
+| **Dolomite** | $19.348\%$ | Carbonate |
+| **Ankerite** | $1.121\%$ | Carbonate |
+| **Hydroxylapatite** | $21.369\%$ | Phosphate |
+| **Palygorskite** | $11.110\%$ | Clay Silicate |
+| **Montmorillonite** | $3.021\%$ | Clay Silicate |
+| **Quartz** | $13.200\%$ | Silica |
+
+### 2. Sample Z2-5 (`Minerals-Z2-5.docx`)
+*   **Raw Data File**: `SA GRPOUPE 2 DM5.raw`
+*   **Fit Parameters**: $R_{\text{exp}} = 11.27\%$, $R_{\text{wp}} = 34.85\%$, $R_{\text{p}} = 27.39\%$, $\text{GOF} = 3.09$
+*   **Mineral Weight Percentages**:
+
+| Mineral Phase | Weight % | Mineral Group |
+|---------------|----------|---------------|
+| **Calcite** | $54.474\%$ | Carbonate |
+| **Dolomite** | $4.558\%$ | Carbonate |
+| **Ankerite** | $2.854\%$ | Carbonate |
+| **Hydroxylapatite** | $21.524\%$ | Phosphate |
+| **Palygorskite** | $8.546\%$ | Clay Silicate |
+| **Quartz** | $8.043\%$ | Silica |
+
+### 3. Sample Z2-10 (`Z2-10-minerals.docx`)
+*   **Raw Data File**: `SA GRPOUPE 2 DM10.raw`
+*   **Fit Parameters**: $R_{\text{exp}} = 11.71\%$, $R_{\text{wp}} = 37.93\%$, $R_{\text{p}} = 30.13\%$, $\text{GOF} = 3.24$
+*   **Mineral Weight Percentages**:
+
+| Mineral Phase | Weight % | Mineral Group |
+|---------------|----------|---------------|
+| **Calcite** | $38.135\%$ | Carbonate |
+| **Hydroxylapatite** | $57.366\%$ | Phosphate |
+| **Quartz** | $4.500\%$ | Silica |
+
+---
+
+## Key Observations
+*   **Phosphate Phase Identification**: HighScore Plus identified the phosphate mineral specifically as **Hydroxylapatite** (Hydroxyapatite, $Ca_5(PO_4)_3(OH)$), which is structurally and spectrally very similar to Fluorapatite ($Ca_5(PO_4)_3F$, the dominant ore mineral in sedimentary deposits). 
+*   **High Carbonate Content**: Samples Z2-1 and Z2-5 show high carbonate concentrations ($>50\,\text{Wt}\%$ combined Calcite, Dolomite, Ankerite), which represent the limestone and dolomite interlayers of the Benguerir geological series.
+*   **Clay Presence**: Palygorskite (up to $11.1\%$) and Montmorillonite (up to $3.0\%$) are the principal clay minerals identified in the raw overburden piles. These clays contain $Al\text{-}OH$ and $O\text{-}H$ vibrational bonds that generate strong absorption features at ~1400 nm, 1900 nm, and 2200 nm, which complicate the spatial unmixing of phosphate features.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — PRISMA Khouribga Satellite Scenes.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note indexing PRISMA Khouribga satellite scenes (L1 HDF5 and L2d geotiff/zip) in D:\\ALL\\PRISMA\\Khouribga"
+---
+
+
+# 🛰️ Data Asset — PRISMA Khouribga Satellite Scenes
+
+This note indexes the PRISMA hyperspectral satellite datasets covering the Khouribga phosphate basin, stored in [D:\ALL\PRISMA\Khouribga\](file:///D:/ALL/PRISMA/Khouribga). These datasets were acquired for a transferability study to test if the remote sensing mineral mapping models calibrated for the Benguerir mine can map phosphate waste rocks at other major Moroccan basins.
+
+---
+
+## 📅 Dataset Profile
+
+| Metric | Value |
+| :--- | :--- |
+| **Target Site** | Khouribga Phosphate Basin, Morocco |
+| **Acquisition Date** | September 2, 2021 |
+| **Acquisition Time** | 11:11:07 to 11:11:11 UTC |
+| **Satellite Sensor** | PRISMA (Poldiagostico e Tecnologie per Immagini Spettrali), ASI (Italian Space Agency) |
+| **Processing Levels** | L1 (Top-of-Atmosphere Radiance) & L2D (Geocoded Surface Reflectance) |
+| **Total Size** | ~3.0 GB |
+
+---
+
+## 🗃️ Files Inventory
+
+### 1. Level-1 Standard OFFL Product (L1)
+*   **Format**: `.he5` (HDF5)
+*   **Path**: [PRS_L1_STD_OFFL_20210902111107_20210902111111_0001.he5](file:///D:/ALL/PRISMA/Khouribga/PRS_L1_STD_OFFL_20210902111107_20210902111111_0001.he5)
+*   **Size**: 959 MB
+*   **Description**: Raw top-of-atmosphere (TOA) spectral radiances, including calibration coefficient metadata and viewing geometries.
+
+### 2. Level-2D Standard Product (L2D)
+*   **Format**: `.zip` containing HDF5/GeoTIFF structures
+*   **Path**: [PRS_L2D_STD_20210902111107_20210902111111_0001.zip](file:///D:/ALL/PRISMA/Khouribga/L2D/PRS_L2D_STD_20210902111107_20210902111111_0001.zip)
+*   **Size**: 1.12 GB
+*   **Description**: Geocoded and orthorectified surface reflectances, corrected for atmospheric effects using PRISMA's standard preprocessing pipeline.
+
+---
+
+## 🎛️ PRISMA Sensor Specifications
+
+PRISMA is a push-broom hyperspectral imaging instrument consisting of:
+1.  **Hyperspectral Imager**:
+    *   **VNIR (Visible & Near-Infrared)**: 66 bands covering 400 nm – 1010 nm.
+    *   **SWIR (Short-Wave Infrared)**: 173 bands covering 920 nm – 2505 nm.
+    *   **Spatial Resolution**: 30 meters.
+    *   **Spectral Resolution**: $\le 12\ \text{nm}$ bandwidth.
+2.  **Panchromatic Camera**:
+    *   **Spatial Resolution**: 5 meters.
+    *   **Spectral Range**: 400 nm – 700 nm.
+    *   **Purpose**: Co-registration and pan-sharpening of 30m hyperspectral bands.
+
+---
+
+## 🎓 Relevance to Thesis
+*   **Algorithm Transferability**: The primary purpose of this data is to run transferability tests for the VCA-FCLS (Vertex Component Analysis - Fully Constrained Least Squares) spectral unmixing code developed for the Benguerir mine.
+*   **Target Minerals**: Khouribga mine waste piles contain similar mineral suites (calcite, dolomite, gypsum, clays, and apatite). This scene allows testing whether regional spectral libraries (like ECOSTRESS or custom Benguerir libraries) can accurately unmix minerals under different atmospheric and soil conditions without new ground-truth calibration.
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP Satellite]]
+*   **related-topic**:: [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Data asset note indexing the CSV, JSON, and GeoJSON datasets in the Shepelife project folder."
+---
+
+
+# 📊 Data Asset — Shepelife Lithology Datasets
+
+This data asset note indexes the tabular (`.csv`, `.json`) and spatial (`.geojson`) datasets stored in [D:\Shepelife_Lithology_MasterProject\](file:///D:/Shepelife_Lithology_MasterProject). It catalogs the files used to run the preprocessing, clustering, feature extraction, and model training phases of the lithological classification pipeline.
+
+---
+
+## 🗺️ Spatial & Metadata Files
+
+### 1. PRISMA Metadata UTM
+*   **Filename**: [PRISMA_metadata_utm.json](file:///D:/Shepelife_Lithology_MasterProject/01_preprocessing/PRISMA_metadata_utm.json)
+*   **Description**: JSON file containing coordinate boundaries (UTM Zone 29N) and matrix dimensions (1199 rows × 1198 columns) for the PRISMA scene.
+
+### 2. Balanced Lithology Dataset (GeoJSON)
+*   **Filename**: [Balanced_Lithology_Dataset.geojson](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.geojson)
+*   **Description**: Spatial point features mapping sampling locations. Each point includes geochemical oxide concentrations ($\text{SiO}_2$, $\text{Al}_2\text{O}_3$, $\text{P}_2\text{O}_5$, $\text{CaO}$, $\text{MgO}$, and $\text{K}_2\text{O}$), cluster IDs, and lithological classifications (e.g., "Dolomitic Marl").
+
+---
+
+## 📊 Feature Extraction & Spectral Libraries
+
+### 1. Extracted Spectra Libraries
+*   **CSV Files**:
+    *   [PRISMA_Spectra_Extracted.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/PRISMA_Spectra_Extracted.csv) (282 KB)
+    *   [PRISMA_Spectra_Extracted_v2.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/PRISMA_Spectra_Extracted_v2.csv) (240 KB)
+*   **Description**: Tabular spectral libraries containing extracted VNIR-SWIR reflectance values corresponding to geological regions of interest.
+
+### 2. Training Sample Validation Lists
+*   **CSV Files**:
+    *   [Valid_PRISMA_samples.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/Valid_PRISMA_samples.csv) (22 KB)
+    *   [Invalid_PRISMA_samples.csv](file:///D:/Shepelife_Lithology_MasterProject/03_feature_extraction/Invalid_PRISMA_samples.csv)
+*   **Description**: Tabular lists separating pixels that passed SNR and quality filters from those that were rejected due to clouds, shadows, or bad band noise.
+
+---
+
+## 🤖 Model Input & Classification Ready Tables
+
+### 1. Balanced Lithology CSV
+*   **Filename**: [Balanced_Lithology_Dataset.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.csv)
+*   **Description**: Tabular representation of the GeoJSON spatial point layer, listing spatial coordinates and geochemical oxides.
+
+### 2. Machine Learning Ready Tables
+*   **CSV Files**:
+    *   [Lithology_MLReady_Final.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_Final.csv) (8.6 KB)
+    *   [Lithology_MLReady_AllSamples_Final_FIXED.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_AllSamples_Final_FIXED.csv) (15.6 KB)
+    *   [Lithology_MLReady_AllSamples_Final.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Lithology_MLReady_AllSamples_Final.csv)
+*   **Description**: Cleansed and formatted training arrays merging spectral band reflectances (features) with target lithological class labels, ready to be ingested by classifiers.
+
+### 3. Class Reclassifications & Calibrations
+*   **CSV Files**:
+    *   [Balanced_Lithology_Reclassified.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Reclassified.csv)
+    *   [Balanced_Lithology_Reclassified_v2.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Reclassified_v2.csv)
+    *   [Cluster_XRF_Association.csv](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Cluster_XRF_Association.csv)
+*   **Description**: Mappings linking spectral clusters to distinct geochemical assays and reclassified lithological labels.
+
+---
+
+## 📈 Model Performance Logs
+
+These spreadsheets document accuracy comparison results across different model configurations:
+*   [Spectral_ML_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Model_Summary.csv) — Accuracies of classifiers trained on raw spectral reflectances.
+*   [Spectral_ML_Derivative_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Derivative_Model_Summary.csv) — Accuracies of classifiers trained on first-derivative spectra.
+*   [ML_Model_Comparison.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/ML_Model_Comparison.csv) — Overall model parameters log.
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Shepelife Project Overview]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Data Asset — UM6P AMICS MicroXRF Training Datasets.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Inventory of Bruker AMICS Micro-XRF training datasets, file extensions, and instructions for reopening and processing them."
+aliases:
+---
+
+
+# Data Asset — UM6P AMICS MicroXRF Training Datasets
+
+## Overview
+The **UM6P AMICS Micro-XRF Training Datasets** represent a collection of calibration files, spectral databases, and raw scans acquired during instrument training sessions held in October 2024. 
+
+* **Source Path**: `file:///D:/XRF training`
+* **Size**: $6.22912\text{ GB}$
+* **Total Files**: $1717$
+
+---
+
+## File Type Directory & Purpose
+
+| Extension | Count | Description / Role in Workflow |
+| :--- | :--- | :--- |
+| **`.bcf`** | 14 | **Bruker Raw Hyperspectral Scan**: Large binary files containing the raw spectral data for each mapped pixel (e.g., `LiPegmatite_50kV-600uA-200um-20ms.bcf`, size $354.1\text{ MB}$). |
+| **`.mre`** | — | **AMICS Measurement Result**: Active workspace files converted from `.bcf`. They store the image layer, segment boundaries, and matching results. |
+| **`.spx`** | 39 | **Bruker Spectrum File**: Individual spectra extracted from specific spots (e.g., `Eclogite-Newlands-Cpx (S).spx`). Used to build new mineral standards. |
+| **`.db`** | — | **AMICS Database**: Reference spectrum databases (e.g., `+XRF (+SEP) 50kV 2mbar Chlorite.db`). |
+| **`.lik`** | 21 | **License Key**: Hardware-locked license files enabling AMICS Tool offline processing. |
+| **`.fld`** | 395 | **Field Spatial Coordinates**: Stores spatial reference coordinates for the scanned fields. |
+| **`.fld_xrays`** | 778 | **X-ray Segment Intensities**: Stores integrated X-ray counts per segment. |
+| **`.fld_segData`** | 395 | **Segmentation Boundaries**: Stores polygon coordinates for image segments. |
+
+---
+
+## Key Training Datasets
+
+1. **Granite Block mapping**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part2 Granite/`
+   * Target: Perthitic feldspar and biotite mica.
+2. **Lithium Pegmatite**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part3 Pegmatite/`
+   * Target: Spodumene, Lepidolite, Petalite, Amblygonite.
+3. **Eclogite Fragments**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part5 Particle/`
+   * Target: Particle segmentation, epoxy background separation, mineral association.
+4. **Chlorite Database**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Chlorite.db`
+   * Target: Light element Mg, Al, Si detection under 2 mbar vacuum.
+5. **Carbonates Database**:
+   * Path: `file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Carbonates.db`
+   * Target: Calcite vs. dolomite magnesium-based classification.
+
+---
+
+## Workflow: How to Reopen and Process in AMICS
+
+To reopen and re-evaluate these training files in the offline AMICS software suite:
+
+```mermaid
+graph TD
+    A[1. Activate License via AMICS Tool] --> B[2. Convert .bcf to .mre using BcfConverter]
+    B --> C[3. Open .mre in AMICS Process]
+    C --> D[4. Load UserSTD.db Mineral Standards]
+    D --> E[5. Execute Classification & Export Results]
+```
+
+1. **License Activation**:
+   * Open **AMICS Tool**. Click the *License Manager* tab.
+   * Click *Apply*, browse to the active license file (e.g., `[AMICS_License_Key_um6p_abdelaziz_zine.lik](file:///D:/XRF training/AMICS Licences - UM6P/AMICS_License_Key_um6p_abdelaziz_zine(2024_10_07).lik)`), and click *Activate*.
+2. **File Conversion**:
+   * Raw `.bcf` files cannot be processed directly. In **AMICS Tool**, run `BcfConverter` to convert target `.bcf` files to `.mre` format. This will output a `.mre` file and a `.converted` folder containing spatial files.
+3. **Loading Dataset**:
+   * Open **AMICS Process**. Click *Open Result* and select the generated `.mre` file.
+4. **Mineral Standard Setup**:
+   * Click the *Standards* tab. Load the common classification library database (`UserSTD.db`).
+   * Select the target mineral group (e.g., *Au-ore minerals*, *SinoZKHC_V2*, or customize a new group using imported `.spx` files).
+5. **Running Classification**:
+   * Go to *Do Classification Steps*. Set the matching parameters (tolerances, priority lists, and vacuum corrections like *Ignore High KeV*). Click *Classify*.
+6. **Data Exporting**:
+   * Click *Export*. Save the mineral distribution maps as `PNG/BMP/TIF` images, and export the modal mineralogy tables to `XML` (Excel compatible) sheets.
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md
+
+---
+tags:
+created: '2026-06-12'
+summary: "Detailed analysis of how the ECOSTRESS Spectral Library was applied in Chapter 1 of the thesis for matching 104 ASD field spectrometer samples."
+---
+
+
+# ECOSTRESS Application in Thesis Chapter 1
+
+In Chapter 1 of the thesis (published in *Sensors 2025*), the ECOSTRESS Spectral Library was used as the reference baseline to validate mineralogical identifications of phosphate waste rock samples via reflectance spectroscopy.
+
+## Context and Workflow
+1. **Field Sampling**: Reflectance spectra were measured from **104 representative waste rock samples** from the Benguerir mine using an **ASD FieldSpec 4 spectroradiometer** (spectral range: 350–2500 nm, resampled to a 1 nm step).
+2. **Preprocessing**: Spectra were smoothed using a Savitzky-Golay filter (window size = 7, polynomial order = 2) and min-max normalized to standard range.
+3. **Reference Loading**: Out of the global library, **1,609 ECOSTRESS mineral spectra** representing families relevant to semi-arid phosphate environments were loaded.
+4. **Curation**: A site-specific subset of **15 curated target minerals** was selected for Benguerir:
+   * *Carbonates*: Calcite, Dolomite
+   * *Clays/Silicates*: Illite, Montmorillonite, Kaolinite
+   * *Silica*: Quartz
+   * *Phosphate*: Generic Apatite ($\text{Ca}_5(\text{PO}_4)_3\text{F}$)
+
+---
+
+## Spectral Matching Metrics & Performance
+Matching was computed by evaluating similarity between each field-measured spectrum and the reference database across **four distinct metrics**:
+* **RMSE (Root Mean Square Error)**: Measures overall baseline fit and shape similarity (weighted $5\times$ in the $2100-2300\ \text{nm}$ phosphate absorption window).
+* **SAM (Spectral Angle Mapper)**: Measures vector angle deviation, ensuring brightness-invariant shape matching.
+* **SID (Spectral Information Divergence)**: Computes thermodynamic probability divergence to identify subtle band shapes.
+* **$R^2$ (Coefficient of Determination)**: Assesses the proportion of variance explained by the reference spectrum.
+
+### Validation Results (Confirmed against Thesis Manuscript)
+The following matching statistics are confirmed directly by the thesis numbers database in [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy]]:
+* **Mean $R^2$**: $0.748 \pm 0.170$
+* **$R^2 > 0.70$ Frequency**: $84\%$ of measured spectra
+* **Mean RMSE**: $0.15 \pm 0.053$
+* **Median SAM**: $0.134\ \text{rad}$
+* **Median SID**: $0.029$
+
+---
+
+## Known Limitations and Mitigations
+1. **Clay Masking**: Strong Al-OH absorption features (~$2200\ \text{nm}$) of clay minerals (illite, montmorillonite) often masked the weaker $\text{PO}_4$ absorption features (~$2150\ \text{nm}$) of apatite, ranking apatite lower in purely spectral rankings (typically 3rd to 7th). This was mitigated by cross-validating with Handheld XRF (HHXRF) elemental assays (P₂O₅ content up to $23.86\ \text{wt}\%$ in apatite-rich samples).
+2. **Library Incompleteness**: The actual phosphate mineral dominant in Benguerir (francolite/carbonate fluorapatite) is absent from the ECOSTRESS library, requiring the use of generic "Apatite" as a spectral proxy.
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming|ECOSTRESS Library File Structure and Naming]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md
+
+---
+tags:
+created: '2026-06-12'
+summary: "Description of the directory structure and filename pattern used in the ECOSTRESS Spectral Library."
+---
+
+
+# ECOSTRESS Library File Structure and Naming
+
+The physical archive of the ECOSTRESS Spectral Library is structured as a flat folder containing paired spectrum and metadata text files. Understanding this structure is essential for programmatic parsing, filtering, and resampling during preprocessing pipelines.
+
+## Flat Directory Structure
+As registered in the physical drive index note [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib]] at `D:\ecospeclib-1727712223018\`, the library contains **3,105 flat text files** consisting of:
+* **`Manifest.txt`**: A central ledger describing each sample dataset.
+* **Spectrum and Ancillary pairs**: Every specimen is represented by two complementary text files:
+  1. A `.spectrum.txt` file containing the actual numeric measurement data.
+  2. An `.ancillary.txt` file containing metadata about the sample's origin, chemistry, and experimental conditions.
+
+---
+
+## Filename Naming Pattern
+The filenames follow a highly structured dot-separated naming convention that encodes key classification hierarchies:
+
+```
+[class].[subclass].[subclass2].[grain_size].[spectral_range].[sample_id].[laboratory].[instrument].[type].txt
+```
+
+### Breakdown of Naming Fields:
+1. **`class`**: Broad taxonomy classification.
+   * *Examples*: `mineral`, `rock`, `soil`, `vegetation`, `nonphotosynthetic`.
+2. **`subclass`**: Geochemical or taxonomy group.
+   * *Examples*: `carbonate`, `silicate`, `phosphate`, `broadleaf`, `conifer`.
+3. **`subclass2`**: Secondary subclass descriptor or `none` if not applicable.
+4. **`grain_size`**: Grain size class.
+   * *Examples*: `coarse`, `medium`, `fine`, `solid`, `none`.
+5. **`spectral_range`**: Wavelength window of the measurement.
+   * *Examples*: 
+     * `vswir`: Visible to Shortwave Infrared ($0.35\ \mu\text{m} - 2.5\ \mu\text{m}$).
+     * `tir`: Thermal Infrared ($2.5\ \mu\text{m} - 15.4\ \mu\text{m}$).
+6. **`sample_id`**: Internal laboratory specimen identifier (e.g., `a-1a`, `t-1a`).
+7. **`laboratory`**: Laboratory of origin.
+   * *Examples*: `jpl` (Jet Propulsion Laboratory), `usgs` (USGS Spectroscopy Lab), `jhu` (Johns Hopkins University).
+8. **`instrument`**: Measuring equipment.
+   * *Examples*: `beckman` (Beckman UV-Vis-NIR spectrometer), `nicolet` (Nicolet FTIR spectrometer), `perkin` (PerkinElmer).
+9. **`type`**: The contents of the text file.
+   * `spectrum.txt`: Contains two columns (typically wavelength/wavenumber in microns and reflectance/emittance as a percentage or fraction).
+   * `ancillary.txt`: Human-readable description, chemical formula, specimen location, and purity assessments.
+
+### Example File Pair:
+* **Spectrum data**: `mineral.phosphate.none.coarse.vswir.a-1a.jpl.beckman.spectrum.txt`
+* **Ancillary metadata**: `mineral.phosphate.none.coarse.vswir.a-1a.jpl.beckman.ancillary.txt`
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md
+
+---
+tags:
+created: '2026-06-12'
+summary: "Overview of the ECOSTRESS Spectral Library (formerly ASTER), a comprehensive reference database used for mineral and vegetation spectroscopy."
+---
+
+
+# ECOSTRESS Spectral Library
+
+The **ECOSTRESS Spectral Library** is a comprehensive public repository of laboratory-measured reflectance spectra covering a wide spectral range from the Visible to Shortwave Infrared (VSWIR) to the Thermal Infrared (TIR) ($0.35\ \mu\text{m}$ to $15.4\ \mu\text{m}$). It is maintained jointly by NASA's Jet Propulsion Laboratory (JPL) and the USGS.
+
+## Origin and Evolution
+* **ASTER Library roots**: The database evolved from the **ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer) Spectral Library Version 2.0**.
+* **ECOSTRESS expansion**: In support of the ECOSTRESS (ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station) mission launched in June 2018, the library was expanded to include extensive leaf-level and canopy spectra of green vegetation and non-photosynthetic vegetation (NPV). 
+* **Renaming**: With the addition of these biological spectra, the repository was renamed the **ECOSTRESS Spectral Library Version 1.0**.
+
+## Core Content Classes
+The library contains over 3,000 spectra classified into key material types:
+1. **Minerals**: Pure mineral specimens (carbonate, silicate, phosphate, sulfate, etc.) measured under controlled laboratory settings.
+2. **Rocks**: Igneous, metamorphic, and sedimentary rocks.
+3. **Soils**: Various soil types with different moisture and organic contents.
+4. **Vegetation**: Leaf-level spectra (VIS/SWIR and TIR) and non-photosynthetic vegetation (NPV).
+5. **Water, Ice, and Snow**: Reflectance/emittance baselines.
+6. **Man-made Materials**: Concrete, asphalt, paint, and other urban surfaces.
+
+## Significance in the Thesis
+In the context of the thesis (specifically Chapter 1/[[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]), the ECOSTRESS library serves as the master database of reference profiles used to validate and identify mineral groups in physical field samples.
+
+> [!NOTE]
+> * **Thesis Numbers Verification**: The total number of loaded ECOSTRESS spectra for the Chapter 1 pipeline (**1,609 spectra**) has been verified against the thesis numbers database in [[02_Academic & Work/thesis/defense-prep/Defense Strategy|Defense Strategy (Ch.1 ECOSTRESS spectra total loaded)]].
+> * The physical copy of the library on the physical `D:` drive is registered at [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib]] (`D:\ecospeclib-1727712223018`, containing 3,105 files).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming|ECOSTRESS Library File Structure and Naming]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+* [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# EnMAP Satellite
+
+## Overview
+EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission operated by the German Aerospace Center (DLR). Used in **Chapter 3** of Abdelhak's thesis for [[Reclamation Monitoring]] at Benguerir mine.
+
+---
+
+## Specifications
+
+| Parameter | Value |
+|-----------|-------|
+| Agency | DLR (Germany) |
+| Launch | April 2022 |
+| Orbit | SSO, 653 km altitude |
+| Revisit time | ~27 days (off-pointing: 4 days) |
+| Spectral range | 420–2450 nm (total) |
+| Bands | 242 (total sensor) |
+| Spatial resolution | 30 m |
+| Swath width | 30 km |
+| SNR | >400:1 (VNIR), >150:1 (SWIR) |
+| Data distribution | Free for science users |
+| Data level | L2A surface reflectance |
+
+---
+
+## Valid Bands After Preprocessing (from thesis manuscript)
+
+After masking bad bands for the Benguerir scene:
+- **189 valid bands, spanning 418–2445 nm**
+
+| Removed bands | Wavelength | Reason |
+|--------------|-----------|--------|
+| Detector transition | 1342–1391 nm | VNIR/SWIR gap |
+| Water vapor A | 1350–1450 nm | Atmospheric absorption |
+| Water vapor B | 1800–1950 nm | Atmospheric absorption |
+| Structural bad bands | Various | Scene NaN fraction > threshold |
+
+CRS: **EPSG:32629** (WGS84 UTM Zone 29N — Benguerir is ~32°N, 7.8°W)
+
+---
+
+## Comparison to PRISMA (Chapter 2)
+
+| Parameter | PRISMA (Ch.2) | EnMAP (Ch.3) |
+|-----------|--------------|--------------|
+| Agency | ASI (Italy) | DLR (Germany) |
+| Launch | 2019 | 2022 |
+| Total bands | ~239 | 242 |
+| Valid bands (thesis) | Used for ML | **189** |
+| Resolution | 30 m | 30 m |
+| SNR | Lower | Higher |
+| Data format | HDF5 | TIF + XML |
+
+**Why EnMAP for Ch.3?** Higher SNR, different acquisition date enabling backfilling impact assessment, dedicated quality masks.
+
+---
+
+## Pixel Quality Filtering (from manuscript)
+
+5-step preprocessing:
+1. Spectral masking (189 bands retained)
+2. Pixel flagging: nodata, negative reflectance (<0), saturation (>1.2), EnMAP quality layer
+3. Per-column median destriping (detector striping suppression)
+4. Shapefile alignment to EPSG:32629 via geopandas
+5. Zone pixel balancing: 32 pixels/zone (seed=42), from 49 RZ + 47 RWR valid pixels
+
+**Quality gate (6 criteria):** Valid L2A reflectance, correct wavelength masking, proper nodata/quality processing, ROI-scene overlap, minimum pixel count (both zones > 40 pixels), reflectance in 0–1.2 range. **Both ROI zones contained zero bad pixels.**
+
+---
+
+## Role in Thesis (Ch.3) — Summary of Results
+
+**Research question:** Can EnMAP detect and quantify the impact of backfilling on phosphate waste rock surface characteristics?
+
+**Answer from manuscript:**
+- All **189/189** valid bands show statistically significant zone separation (FDR q < 0.05)
+- Median effect size: **r = 0.859** (large)
+- Spatially blocked CV: **BAC = 0.984 ± 0.031; AUC = 1.000**
+- Permutation p = 0.002 (confirms non-random)
+- RPI: RZ=0.896, RWR=0.203, Spearman ρ=0.845
+
+**Conclusion (from thesis):**
+> "EnMAP Level-2A hyperspectral data at 30 m resolution provides sufficient spectral information to reliably discriminate reclaimed from undisturbed phosphate waste rock surfaces."
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[PRISMA Satellite]]
+- [[Reclamation Monitoring]]
+- [[Reclamation Progress Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Feilhauer multi-model ensemble method for spectral band importance ranking: combines PLSR, RF, SVM, GPR variable importances weighted by model R²."
+aliases:
+---
+
+
+# Ensemble Spectral Band Selection — Feilhauer Method
+
+## What It Is
+
+A model-agnostic band selection framework for hyperspectral data that avoids over-reliance on any single regression method. Published originally by Hannes Feilhauer (Univ. Erlangen-Nürnberg) as supplementary code for a Remote Sensing of Environment paper (`rse09382-mmc`).
+
+## Core Idea
+
+Run multiple regression models on the same spectral dataset, extract their band importance/coefficient profiles, weight each profile by that model's cross-validated R², and sum into a composite "ensemble score." Bands above `mean + sd` of the ensemble score are retained.
+
+## Models Combined
+
+| Model | Variable Importance Source | Typical Strength |
+|-------|---------------------------|-----------------|
+| PLSop | Regression coefficients (jackknife PLSR, onesigma LV selection) | Collinear predictors |
+| PLS | caret PLSR variable importance | Robust cross-validation |
+| RF | %IncMSE (500 trees) | Non-linear interactions |
+| SVR | Pseudo-coefficients from α-vector | SVM decision boundary |
+| GPR | caret Gaussian Process variable importance | Probabilistic uncertainty |
+
+## Ensemble Formula
+
+```
+ensemble_score(b) = Σ_m |coeff_m(b)| × R²_m
+```
+
+All coefficients are first standardized by their standard deviation to make scales comparable across models.
+
+## Output Interpretation
+
+- High ensemble score → band consistently important across multiple model types → robust selection
+- Selected band set is likely to remain stable across different spectral preprocessing choices
+
+## Application Context
+
+Originally developed for vegetation trait mapping from field spectroscopy. Directly applicable to:
+- Mineral abundance prediction from ASD/SVC field spectra
+- PRISMA band subset selection for mineralogical mapping
+- Any hyperspectral regression problem where band redundancy is high
+
+## Implementation
+
+See [[Code — Khalil — Ensemble Band Selection]] for the UM6P-adapted R implementation.
+
+## Links
+
+- [[Code — Khalil — Ensemble Band Selection]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md
+
+---
+tags:
+date: 2026-06-13
+summary: "An ensemble machine learning algorithm that trains multiple individual classifiers and predicts labels based on consensus voting."
+aliases:
+---
+
+
+# Ensemble Voting Classifier
+
+## Definition
+An **Ensemble Voting Classifier** is a meta-classifier that combines the predictions of multiple individual machine learning models (such as Support Vector Machines, Decision Trees, K-Nearest Neighbors, or Gradient Boosted Trees) to output a single consolidated prediction. By leveraging the consensus of diverse algorithms, it mitigates individual model biases and increases generalization performance.
+
+## How It Works
+Voting classifiers can operate in two primary modes:
+
+### 1. Hard Voting (Majority Rule)
+The meta-classifier counts the predicted class labels from each individual model and predicts the class that receives the majority of votes:
+$$\hat{y} = \arg\max_i \sum_{m=1}^{M} I(C_m(\mathbf{x}) = i)$$
+where $C_m(\mathbf{x})$ is the class predicted by the $m$-th classifier, and $I$ is the indicator function.
+
+### 2. Soft Voting (Weighted Probabilities)
+Each classifier calculates the probability of each class label. The meta-classifier averages these predicted probabilities (optionally with weights $w_m$ per classifier) and assigns the class with the highest average probability:
+$$\hat{y} = \arg\max_i \sum_{m=1}^{M} w_m P(C_m(\mathbf{x}) = i)$$
+Soft voting usually yields better performance than hard voting because it accounts for the models' confidence levels, but it requires that all base classifiers support probability estimation (e.g., `predict_proba`).
+
+```mermaid
+graph TD
+    A["Test Sample (x)"] --> B1["Classifier 1 (SVM)"]
+    A --> B2["Classifier 2 (Random Forest)"]
+    A --> B3["Classifier 3 (XGBoost)"]
+    B1 -->|Probability / Vote| C["Voting Mechanism (Hard/Soft)"]
+    B2 -->|Probability / Vote| C
+    B3 -->|Probability / Vote| C
+    C --> D["Consolidated Prediction (y_hat)"]
+```
+
+## Applications
+In hyperspectral lithological and waste-rock classification, different classifiers have complementary strengths: SVMs handle high-dimensional spaces well, Random Forests are robust to noisy bands, and XGBoost excels at capturing non-linear interactions. An ensemble voting classifier is used in [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) to combine these models, achieving higher classification performance and stability.
+
+## Links
+- [[Code — VLC — ML Models Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE)]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Feature Selection & Validation Ablation Studies
+
+This note summarizes the ablation studies conducted in Chapter 2 of the thesis to validate the dimensionality reduction framework (ANOVA band selection) and the spatial validation protocol.
+
+> [!WARNING]
+> **Data Discrepancy (Row 24 of Discrepancy Log):** Tables S3, S4, and S5 in the supplementary materials ([supp_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt)) report Extra Trees Spatial BA = **0.693 ± 0.032** and Random Forest Spatial BA = **0.666 ± 0.032**. The canonical defense prep files ([Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L53) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L189)) state that the canonical Chapter 2 BAC range is **0.60–0.67**. Following the Data Truth Hierarchy, the canonical range of **0.60–0.67** is stated as fact, while the revised supplementary values are presented as context.
+
+---
+
+## 1. Feature Selection Ablation: Full-Band vs. ANOVA-60 (Table S3)
+
+A comparison was conducted using all spectrally clean bands (**189** bands after atmospheric masking) versus the top **60** ANOVA-selected SWIR bands. Both setups were evaluated under the **30 m** spatially constrained cross-validation (10 repeats × 5 folds = 50 runs).
+
+* **Total Clean Bands**: **189** bands. (Source: [supp_ch2.txt:L136](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L136)).
+* **Selected SWIR Bands**: **60** bands (a **68%** reduction in feature dimensionality). (Source: [supp_ch2.txt:L136,L174](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L136#L174)).
+
+| Model | OA Full-band | OA ANOVA-60 | BA Full-band | BA ANOVA-60 | $\Delta\text{BA}$ (ANOVA - Full) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Random Forest** | 0.628 ± 0.035 | 0.633 ± 0.031 | 0.656 ± 0.036 | 0.666 ± 0.032 | **+0.010** |
+| **Extra Trees** | 0.637 ± 0.033 | 0.653 ± 0.033 | 0.679 ± 0.027 | 0.693 ± 0.032 | **+0.014** |
+| **XGBoost** | 0.609 ± 0.036 | 0.587 ± 0.020 | 0.650 ± 0.035 | 0.637 ± 0.019 | **-0.013** |
+| **SVM** | 0.518 ± 0.049 | 0.576 ± 0.030 | 0.497 ± 0.042 | 0.561 ± 0.029 | **+0.064** |
+| **KNN** | 0.587 ± 0.027 | 0.593 ± 0.028 | 0.610 ± 0.028 | 0.615 ± 0.034 | **+0.005** |
+
+*(Source: [supp_ch2.txt:L143-172 (Table S3)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L143-L172)).*
+
+* **Interpretation**: ANOVA-60 matches or exceeds full-band performance for four out of five classifiers. The most substantial gain occurs for Support Vector Machine ($\Delta\text{BA} = +0.064$), illustrating the sensitivity of margin-based classifiers to the curse of dimensionality. (Source: [supp_ch2.txt:L174](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L174)).
+
+---
+
+## 2. Feature Selector Comparison: ANOVA F-Test vs. Mutual Information (Table S4)
+
+To verify the choice of selector, the ANOVA F-test was compared against Mutual Information (MI), both with $k=60$ features selected nested within the cross-validation folds.
+
+| Model | BA (ANOVA F-Test) | BA (Mutual Information) | $\Delta\text{BA}$ (ANOVA - MI) |
+| :--- | :--- | :--- | :--- |
+| **Random Forest** | 0.666 ± 0.032 | 0.668 ± 0.033 | **-0.002** |
+| **Extra Trees** | 0.693 ± 0.032 | 0.683 ± 0.031 | **+0.010** |
+
+*(Source: [supp_ch2.txt:L186-193 (Table S4)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L186-L193)).*
+
+* **Interpretation**: The difference is negligible ($|\Delta\text{BA}| \le 0.010$, within CV standard deviation), validating the use of the ANOVA F-test for its superior computational efficiency and physical interpretability. (Source: [supp_ch2.txt:L195](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L195)).
+
+---
+
+## 3. Spatial vs. Random Cross-Validation: Autocorrelation Quantification (Table S5)
+
+A direct comparison evaluated the effect of removing the spatial buffer. All other parameters (5 folds, 10 repeats) were identical.
+
+| Model | OA Random | OA Spatial | BA Random | BA Spatial | $\Delta\text{BA}$ (Random - Spatial) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Random Forest** | 0.635 ± 0.022 | 0.633 ± 0.031 | 0.669 ± 0.021 | 0.666 ± 0.032 | **+0.003** (note: Table S5 text states +0.002 due to rounding) |
+| **Extra Trees** | 0.627 ± 0.039 | 0.653 ± 0.033 | 0.669 ± 0.030 | 0.693 ± 0.032 | **-0.024** (note: Table S5 text states -0.023 due to rounding) |
+| **XGBoost** | 0.580 ± 0.024 | 0.587 ± 0.020 | 0.630 ± 0.027 | 0.637 ± 0.019 | **-0.007** |
+| **SVM** | 0.606 ± 0.013 | 0.576 ± 0.030 | 0.597 ± 0.014 | 0.561 ± 0.029 | **+0.036** (note: Table S5 text states +0.035 due to rounding) |
+| **KNN** | 0.584 ± 0.022 | 0.593 ± 0.028 | 0.616 ± 0.025 | 0.615 ± 0.034 | **+0.001** |
+
+*(Source: [supp_ch2.txt:L209-243 (Table S5)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L209-L243)).*
+
+* **Interpretation**: Unlike typical remote sensing datasets where omitting a spatial buffer causes major optimistic accuracy inflation, the random-minus-spatial gap here is very small ($|\Delta\text{BA}| \le 0.035$) and has no consistent directional bias. This confirms that the **PRISMA Spatial Redundancy Filtering** (deduplication of co-located samples) had already successfully suppressed spatial autocorrelation at the **30 m** pixel scale. (Source: [supp_ch2.txt:L245](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L245)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Gantour Basin and Benguerir Mine Geological Setting
+
+This note describes the geological setting and mining context of the Benguerir mine in the Gantour Basin, which controls the lithological and mineralogical heterogeneity of the phosphate waste rock piles (PWRPs) analyzed in the thesis.
+
+---
+
+## 1. Gantour Basin Geological Context
+
+* **Basin Classification**: The Gantour Basin is one of the **four** major phosphatic basins of Morocco. It represents a key component of the North African phosphogenic province. (Source: [section_methods_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L3)).
+* **Location**: Approximately **70 km** northwest of Marrakech. (Source: [section_methods_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L3)).
+* **Depositional Age**: Maastrichtian to Eocene sedimentary sequence. (Source: [section_methods_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L3)).
+* **Lithostratigraphy**: Multiple phosphate beds interbedded with barren limestone, marls, clays, and chert (siliceous horizons), reflecting repetitive marine depositional cycles. (Source: [section_methods_ch2.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L4)).
+
+---
+
+## 2. Benguerir Mine Operational Context
+
+* **Operational Area**: The open-pit mine covers approximately **36 km²** and has been in continuous operation since **1976**. (Source: [section_methods_ch2.txt:L5](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L5); area confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L93)).
+* **Stripping Ratio**: An average stripping ratio of **3:1** is reported for the open-pit operations (meaning **3 tons** of waste rock are excavated and stockpiled in piles for every **1 ton** of phosphate ore extracted). (Source: [section_methods_ch2.txt:L5](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L5)).
+* **Production Example (2020)**: Extraction of **4.2 Mt** of phosphate rock corresponded to the generation of approximately **12.3 Mt** of waste rock stored in piles. (Source: [section_methods_ch2.txt:L5](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L5)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+* [[04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels|XRD and Petrographic Validation of Classification Labels]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Geochemical Summary Statistics by Lithological Class
+
+This note details the geochemical composition of the four major lithological classes identified in the phosphate waste rock piles (PWRPs) at the Benguerir mine, based on X-ray fluorescence (XRF) analyses of the spatially independent modeling dataset.
+
+---
+
+## 1. Geochemical Composition by Class (Table S1)
+
+The following table summarizes the major-oxide concentrations (wt%) obtained from XRF analysis for the **127** spatially independent samples. (Source: [supp_ch2.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L4); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47)).
+
+| Oxide (wt%) | Marl ($n=49$) | Limestone ($n=35$) | Phosphate Rock ($n=23$) | Siliceous Facies ($n=20$) |
+| :--- | :--- | :--- | :--- | :--- |
+| **CaO** | 32.4 ± 8.6 | 47.2 ± 5.3 | 44.8 ± 4.7 | 16.5 ± 8.2 |
+| **SiO₂** | 21.7 ± 11.4 | 9.8 ± 6.1 | 13.2 ± 7.0 | 48.7 ± 12.3 |
+| **P₂O₅** | 5.2 ± 3.9 | 2.4 ± 1.8 | 18.6 ± 4.3 | 4.7 ± 3.2 |
+| **Fe₂O₃** | 2.1 ± 1.0 | 0.9 ± 0.4 | 1.3 ± 0.6 | 2.6 ± 1.2 |
+| **Al₂O₃** | 3.4 ± 1.8 | 1.4 ± 0.8 | 2.0 ± 1.0 | 5.1 ± 2.0 |
+| **MgO** | 1.5 ± 0.6 | 0.8 ± 0.3 | 0.6 ± 0.2 | 1.0 ± 0.5 |
+
+*(Source: [supp_ch2.txt:L13-44 (Table S1)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L13-L44)).*
+
+---
+
+## 2. Geological & Mineralogical Interpretation
+
+* **Phosphate Rock**: Characterized by elevated **P₂O₅** content (**18.6 ± 4.3 wt%**), reflecting the dominance of francolite/fluorapatite. (Source: [supp_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L33)).
+* **Limestone**: Distinguished by high **CaO** (**47.2 ± 5.3 wt%**) and low **SiO₂** (**9.8 ± 6.1 wt%**), representing relatively pure carbonate facies. (Source: [supp_ch2.txt:L23-24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L23-L24)).
+* **Siliceous Facies**: Marked by very high **SiO₂** (**48.7 ± 12.3 wt%**) and elevated **Al₂O₃** (**5.1 ± 2.0 wt%**), confirming a high concentration of quartz chert and clay minerals. (Source: [supp_ch2.txt:L40,L43](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L40#L43)).
+* **Marl**: Represents an intermediate clay-carbonate facies, showing moderate **CaO** (**32.4 ± 8.6 wt%**), **SiO₂** (**21.7 ± 11.4 wt%**), and **Al₂O₃** (**3.4 ± 1.8 wt%**). (Source: [supp_ch2.txt:L15-16,L19](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L15-L16#L19)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels|XRD and Petrographic Validation of Classification Labels]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/GrosFichiers-SAADAOUI Collaboration Dataset.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Metadata and context for the high-resolution orthophoto and DEM dataset provided by colleague Saadaoui for UM6P Green Park circular economy work."
+aliases:
+---
+
+
+# GrosFichiers-SAADAOUI Collaboration Dataset
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| Files | `GrosFichiers - SAADAOUI.zip`, `OrthophotoGreenParc.tif`, `DEM.tif` |
+| Format | Zip archive, GeoTIFF images |
+| Location | [file:///D:/PHD-2nd/GrosFichiers-SAADAOUI/](file:///D:/PHD-2nd/GrosFichiers-SAADAOUI/) |
+| Combined Size | ~15.6 GB |
+| Core Content | High-resolution drone orthophoto and Digital Elevation Model (DEM) |
+
+## Description & Context
+
+This dataset represents a collaboration with colleague **Saadaoui** and was collected in support of the **Green Park** (UM6P experimental site) circular economy and mine reclamation studies, possibly showcased during the EMEC-SMCE Workshop. Due to their large file size, these binary files are kept on the external D-Drive storage and are cataloged here via file links rather than being imported into the active Obsidian vault.
+
+---
+
+## Technical Specifications
+
+### 1. High-Resolution Orthophoto (`OrthophotoGreenParc.tif`)
+*   **File Size**: **7.6 GB** (compressed zip copy `GrosFichiers - SAADAOUI.zip` is **7.8 GB**).
+*   **Type**: Multi-spectral/RGB geotagged orthophoto.
+*   **Purpose**: Provides centimetric-scale surface mapping of the Green Park experimental plots to identify vegetation density, soil distribution, and mine waste piles.
+
+### 2. Digital Elevation Model (`DEM.tif`)
+*   **File Size**: **202 MB**
+*   **Description**: Digital Elevation Model extracted from a point cloud (`Nuage de point Sample - 80%_Remove Outliers_DEM.tif`).
+*   **Purpose**: Used to model topographic gradients, erosion patterns, and surface drainage channels across the reclamation trial plots.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# HHXRF Instrument Parameters & QA-QC
+
+This note documents the instrument parameters and Quality Assurance/Quality Control (QA/QC) protocols established in Chapter 1 of the thesis for elemental analysis using Handheld X-ray Fluorescence (HHXRF).
+
+---
+
+## 1. Instrument Specifications & Settings
+*   **Device**: Olympus Vanta M Series Handheld XRF Analyzer. (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
+*   **Sample Setup**: Powdered samples sieved to `< 2 mm` were packed into standard XRF cups and covered with a **4 µm** Prolene® film. (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
+*   **Atmosphere**: Air (no vacuum or helium purging). (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
+*   **Measurement Duration**: Total acquisition time of **90–180 seconds** per sample. (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
+*   **Excitation Conditions**: Dual-beam analysis:
+    *   *Main Beam*: **40–50 kV** (for transition and heavy metals). (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
+    *   *Low-Z Beam*: **10–15 kV** (for light elements like Mg, Al, Si, P, Ca). (Source: [section_methods.txt:L23](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L23)).
+
+---
+
+## 2. QA/QC & Calibration Protocols
+*   **Calibration Basis**: A user-developed calibration based on matrix types and Certified Reference Materials (CRMs) was employed and regularly verified to correct for potential matrix effects. (Source: [section_methods.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L24)).
+*   **Drift Control**: To mitigate instrument drift and matrix effects during high-throughput analysis, readings and calibrations were verified after approximately every **20** samples. (Source: [section_methods.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L24)).
+*   **Drift Response**: Any deviations were recorded, and the user-developed calibration was adjusted when necessary. This ensured consistency and accuracy across the complete database of **104** samples, particularly for major oxides (CaO, MgO, $P_2O_5$) critical for validating mineral unmixing. (Source: [section_methods.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L24)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response|Reviewer 2 Response]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/HHXRF Major-Oxide Concentration Ranges.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# HHXRF Major-Oxide Concentration Ranges
+
+This note records the major rock-forming oxide concentration ranges measured by handheld XRF (HHXRF) across the **104** waste-rock samples from the Benguerir mine in Chapter 1 of the thesis. (Source: [section_results.txt:L90,L93](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L90#L93)).
+
+---
+
+## 1. Major Oxide Ranges Table
+
+The concentration ranges (wt%) measured using the dual-beam Olympus Vanta M Series HHXRF are summarized below:
+
+| Major Oxide | Minimum (wt%) | Maximum (wt%) | Geological Significance in Waste Rock |
+| :--- | :--- | :--- | :--- |
+| **$SiO_2$** | **1.48** | **56.22** | Tracks silica content and flint/chert-bearing horizons. (Source: [section_results.txt:L111,L119](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L111#L119)). |
+| **$Al_2O_3$** | **0.41** | **7.25** | Core indicator of aluminosilicate clay minerals (illite, kaolinite). (Source: [section_results.txt:L112,L120](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L112#L120)). |
+| **$CaO$** | **13.37** | **47.14** | Indicator of carbonate phases (dolomite, calcite) and fluorapatite. (Source: [section_results.txt:L113,L121](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L113#L121)). |
+| **$MgO$** | **1.02** | **28.49** | Core discriminator for dolomite ($CaMg(CO_3)_2$) abundance. (Source: [section_results.txt:L114,L122](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L114#L122)). |
+| **$K_2O$** | **0.082** | **1.379** | Selective proxy for K-bearing dioctahedral clays (primarily illite). (Source: [section_results.txt:L115,L123](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L115#L123)). |
+| **$P_2O_5$** | **0.096** | **23.86** | Tracks residual fluorapatite; maximum reflects rich secondary resource zones. (Source: [section_results.txt:L116,L124](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L116#L124); max value confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L32)). |
+| **$Fe_2O_3$ (total)** | **0.068** | **2.295** | Indicates minor iron oxide/hydroxide accessory phases (goethite/hematite). (Source: [section_results.txt:L117,L125](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L117#L125)). |
+
+These ranges reflect the highly heterogeneous nature of the interbedded waste strata (overburden and interlayers) of the Gantour basin at Benguerir. (Source: [reviewer_1_r2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L37)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
+* [[04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC|HHXRF Instrument Parameters & QA-QC]]
+* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Handheld XRF.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Handheld XRF (HHXRF)
+
+## Definition
+Handheld X-ray Fluorescence (HHXRF) is a portable geochemical analyzer that quantifies major and trace element concentrations in rocks, soils, and materials by measuring characteristic X-ray fluorescence emission. Combined with [[VNIR-SWIR Spectroscopy]] in Chapter 1, it provides direct elemental chemistry to complement spectral mineralogy.
+
+---
+
+## Physical Principle
+
+1. X-ray tube emits primary X-rays → excites atoms in the sample
+2. Each element emits characteristic fluorescence X-rays (unique energy per element)
+3. Energy-dispersive detector records spectrum
+4. Software converts intensities to concentrations using calibration standards
+
+**Key advantage:** Measures elements directly (Ca, P, Fe, Al, Si, K, Mg...) → oxide chemistry (CaO, P₂O₅, Fe₂O₃, etc.)
+
+---
+
+## Use in Abdelhak's Thesis
+
+### Chapter 1 (field measurements)
+- Paired with ASD FieldSpec 4 at same sample points
+- 104 samples measured
+- Provides "ground truth" chemistry to validate spectral mineralogy
+- **P₂O₅:** Key indicator of apatite/francolite content
+- **Fe₂O₃:** Iron oxide quantification
+- **Al₂O₃:** Clay mineral content proxy
+- **CaO:** Carbonate content proxy
+
+### Chapter 3 (XRF linkage in EnMAP analysis)
+- XRF data from managed zone (RZ) and unmanaged zone (RWR) samples
+- Linked to EnMAP pixels by GPS coordinates
+- Spearman correlation between VCA endmember abundances and XRF oxides
+- Used to calibrate the RPI ([[Reclamation Progress Index]])
+- Target oxides: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
+
+---
+
+## XRF Data Files in Thesis
+- `Analyse XRF P (abdelhak) VL.xlsx` — field XRF data for all samples
+- `Copie de Managed zone.csv` (OneDrive) — XRF for RZ zone
+- `Copie de Unmanaged zone.csv` (OneDrive) — XRF for RWR zone
+
+---
+
+## Limitations of HHXRF
+
+| Limitation | Impact |
+|------------|--------|
+| Surface measurement only (~2mm depth) | May not represent bulk mineralogy |
+| Matrix effects | Accuracy lower for light elements (Mg, Al, Na) |
+| No structural info | Cannot distinguish polymorphs (calcite vs. aragonite) |
+| Calibration dependent | Field conditions vs. laboratory calibration |
+| Moisture sensitivity | Wet samples give different readings |
+
+**Why combine with spectroscopy?**
+HHXRF gives chemistry; spectroscopy gives mineralogy. Together: P₂O₅ → confirms phosphate content; Al-OH spectral feature → confirms clay mineralogy. Cross-validation strengthens both.
+
+---
+
+## HHXRF vs. Laboratory XRF
+| Feature | HHXRF | Lab XRF |
+|---------|-------|---------|
+| Speed | Seconds per point | Minutes per sample |
+| Portability | Yes | No |
+| Detection limits | Higher (1–10 ppm) | Lower (0.1–1 ppm) |
+| Accuracy | Good for major elements | Excellent |
+| Cost | No sample prep | Fusion bead prep |
+| Use | Field reconnaissance | Laboratory validation |
+
+---
+
+## Key Result
+The HHXRF-spectroscopy integration (Chapter 1) demonstrated that:
+- Spectral matching alone underestimates apatite (clay masking effect)
+- HHXRF P₂O₅ directly reveals phosphate content independently of surface spectral response
+- Combined approach achieves better characterization than either method alone
+- Published: Sensors 2025, doi:10.3390/s26010002
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Mineral Assemblages]]
+- [[Phosphate Mine Waste]]
+- [[Reclamation Progress Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Hyperspectral Imaging
+
+## Definition
+Hyperspectral imaging (HSI) acquires continuous spectral information across hundreds of narrow, contiguous wavelength bands (typically 5–10 nm bandwidth) across a spatial scene. Unlike multispectral sensors (3–10 wide bands), hyperspectral sensors resolve diagnostic spectral features that identify specific mineral, vegetation, or material compositions.
+
+**Synonym:** Imaging spectroscopy
+
+---
+
+## Key Characteristics
+
+| Feature | Multispectral | Hyperspectral |
+|---------|--------------|---------------|
+| Bands | 3–10 | 100–500+ |
+| Bandwidth | 50–200 nm | 5–15 nm |
+| Spectral range | Selective | Contiguous |
+| Data volume | Small | Large (hypercube) |
+| Mineral ID | Indirect | Direct |
+
+**Hypercube:** The data structure is a 3D array (x pixels × y pixels × λ bands). Each pixel contains a full reflectance spectrum.
+
+---
+
+## Spectral Range in Abdelhak's Thesis
+
+| Range | Acronym | Wavelength | Key diagnostics |
+|-------|---------|-----------|----------------|
+| Visible | VIS | 400–700 nm | Fe3+ electronic transitions |
+| Near-infrared | NIR | 700–1000 nm | Vegetation red edge, Fe2+ |
+| Shortwave infrared | SWIR | 1000–2500 nm | Molecular overtones: OH, CO3, PO4 |
+| Combined | VNIR+SWIR | 400–2500 nm | Full diagnostic window |
+
+---
+
+## Sensors in Abdelhak's Research
+
+| Sensor | Type | Bands | Resolution | Used in |
+|--------|------|-------|-----------|---------|
+| ASD FieldSpec 4 | Field spectrometer | ~2100 bands | 1 nm (resampled) | Ch.1 (104 field samples) |
+| PRISMA | Satellite | 239 bands | 30 m | Ch.2 (mineral mapping) |
+| EnMAP | Satellite | 242 bands | 30 m | Ch.3 ([[Reclamation Monitoring]]) |
+
+---
+
+## Why Hyperspectral for Mining?
+
+- **Mineral fingerprinting:** Every mineral has a unique spectral signature driven by electronic and vibrational processes
+- **Non-destructive:** Remote sensing avoids the cost/time of physical sampling
+- **Spatial coverage:** Satellite HSI covers entire mine sites in one pass (36 km² Benguerir = tens of thousands of pixels)
+- **[[Reclamation Monitoring]]:** Multi-temporal analysis tracks vegetation recovery and mineralogical change over time
+
+---
+
+## Diagnostic Absorption Features (Benguerir context)
+
+| Feature | Wavelength | Mineral |
+|---------|-----------|---------|
+| CO₃ combination | ~2320 nm | Calcite, dolomite |
+| Al-OH | ~2200 nm | Illite, kaolinite |
+| Mg-OH | ~2330 nm | Dolomite, chlorite |
+| PO₄ | ~2150 nm | Apatite (fluorapatite) |
+| Fe3+ | ~500 nm, ~680 nm | Iron oxides (hematite, goethite) |
+| OH stretch | ~1400, ~1900 nm | Water, hydroxyl minerals |
+
+---
+
+## Limitations
+
+- **Mixed pixels:** At 30 m resolution, each pixel averages contributions from multiple minerals/materials → requires spectral unmixing
+- **Atmospheric effects:** Water vapor absorption at ~1350–1450 nm and ~1800–1950 nm blocks parts of SWIR
+- **Detector overlap:** VNIR-SWIR transition zone (~880–1050 nm) has lower SNR in both PRISMA and EnMAP
+- **Spectral library completeness:** Matching requires reference spectra for every expected mineral; fluorapatite/francolite underrepresented in ECOSTRESS
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Spectral Library Matching]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[PRISMA Satellite]]
+- [[EnMAP Satellite]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Integrated Sample-Level Mineralogical-Geochemical Profiles
+
+To validate the VNIR–SWIR linear unmixing model and handheld XRF (HHXRF) database in Chapter 1, **11** representative waste-rock samples were selected for detailed mineralogical-geochemical profiling across four compositional families. (Source: [section_results.txt:L141](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L141)).
+
+---
+
+## 1. Carbonate-Rich Profiles (Dolomitic Matrix)
+These samples show high dolomite spectral abundance and elevated alkaline earth oxide chemistry:
+*   **Sample VL401**: **~78%** dolomite spectrally; combined CaO + MgO = **36.5 wt%** (representing a massive dolomitic waste rock). (Source: [section_results.txt:L143](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L143)).
+*   **Sample VL400**: **~85%** dolomite spectrally; combined CaO + MgO = **36.25 wt%**. (Source: [section_results.txt:L143](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L143)).
+*   **Sample VL02**: **>50%** dolomite spectrally; combined CaO + MgO = **34.91 wt%**. (Source: [section_results.txt:L143](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L143)).
+
+---
+
+## 2. Clay-Dominated Profiles (Illite-Bearing Clays)
+These profiles demonstrate the correlation of the Al-OH feature (~2200 nm) with potassium concentrations:
+*   **Sample VL83**: **75%** illite spectrally; K₂O = **0.5 wt%**. (Source: [section_results.txt:L145](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L145)).
+*   **Sample VL421/24** (Clay end): **>60%** illite spectrally; K₂O = **1.37 wt%**. (Source: [section_results.txt:L145](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L145)).
+
+---
+
+## 3. Phosphate-Rich Profiles (Fluorapatite Enrichment)
+These samples show distinct PO₄ inflections near ~2150 nm, validated by high phosphate chemistry:
+*   **Sample VL421/24** (Phosphate end): **~40%** fluorapatite spectrally; HHXRF P₂O₅ = **23.86 wt%** (representing an extremely rich residual zone). (Source: [section_results.txt:L147](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L147)).
+*   **Sample VL62**: **50%** fluorapatite spectrally; P₂O₅ = **18.19 wt%**. (Source: [section_results.txt:L147](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L147)).
+*   **Sample VL430**: **50%** fluorapatite spectrally; P₂O₅ = **15.72 wt%**. (Source: [section_results.txt:L147](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L147)).
+
+---
+
+## 4. Mixed Assemblage Profiles (Balanced Mineralogy)
+These profiles capture multi-phase mixtures with co-occurring dolomite (~40–55% spectrally), illite (~25–40% spectrally), and fluorapatite (~5–15% spectrally):
+*   **Sample VL439**: CaO + MgO = **38.6 wt%**, K₂O = **0.7 wt%**, P₂O₅ = **14.21 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
+*   **Sample VL18**: CaO + MgO = **42.0 wt%**, K₂O = **0.37 wt%**, P₂O₅ = **5.8 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
+*   **Sample VL424**: CaO + MgO = **34.0 wt%**, K₂O = **0.35 wt%**, P₂O₅ = **5.1 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
+*   **Sample VL448**: CaO + MgO = **31.5 wt%**, K₂O = **0.41 wt%**, P₂O₅ = **7.0 wt%**. (Source: [section_results.txt:L149](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L149)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
+* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
+* [[04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1|Linear Spectral Unmixing (NNLS) in Chapter 1]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Linear Spectral Unmixing (NNLS) in Chapter 1
+
+In Chapter 1 of the thesis (published in *Sensors* 2025), **Non-Negative Least Squares (NNLS) Linear Spectral Unmixing** was applied to estimate the relative mineral abundances of the **104** waste-rock samples from their VNIR–SWIR reflectance curves.
+
+---
+
+## 1. Model Formulation & Constraints
+The measured reflectance spectrum $R(\lambda)$ is modeled as a linear combination of reference mineral endmember spectra:
+
+$$R(\lambda) = \sum_{i=1}^{n} a_i \cdot E_i(\lambda) + \varepsilon(\lambda)$$
+
+Where:
+*   $R(\lambda)$ is the measured reflectance at wavelength $\lambda$. (Source: [section_results.txt:L69](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L69)).
+*   $E_i(\lambda)$ is the reference spectrum for mineral endmember $i$. (Source: [section_results.txt:L70](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L70)).
+*   $a_i$ is the estimated abundance (fractional share) of mineral $i$. (Source: [section_results.txt:L71](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L71)).
+*   $\varepsilon(\lambda)$ is the residual error. (Source: [section_results.txt:L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L72)).
+*   $n$ is the number of selected endmembers. (Source: [section_results.txt:L73](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L73)).
+
+### Physical Constraints:
+1.  **Non-Negativity Constraint**: $a_i \ge 0$ for all $i$ to prevent negative mineral abundances. (Source: [section_results.txt:L75-76](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L75-L76)).
+2.  **No Sum-to-One Constraint**: A sum-to-one constraint was *not* applied during the regression. This allowed the model to handle the potential presence of unmodeled minor phases without artificially inflating major mineral abundances. (Source: [section_results.txt:L76](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L76)).
+
+---
+
+## 2. Abundance Ranges Derived (Cohort-Scale)
+The unmixing model resolved marked mineralogical heterogeneity across the **104** samples:
+*   **Dolomite**: ranged from **<10%** to **>85%** abundance. (Source: [section_results.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L78)).
+*   **Illite**: ranged from **trace** to **~45%** abundance. (Source: [section_results.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L79)).
+*   **Montmorillonite**: resolved up to **25%** abundance. (Source: [section_results.txt:L80](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L80)).
+*   **Kaolinite**: resolved up to **40%** abundance. (Source: [section_results.txt:L81](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L81)).
+*   **Fluorapatite**: resolved up to **20%** abundance. (Source: [section_results.txt:L82](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L82)).
+*   **Quartz**: generally resolved at **<10%** abundance. (Source: [section_results.txt:L83](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L83)).
+
+---
+
+## 3. Residual Audits & Validation
+*   **Endmember Curation**: The candidate set was limited to a site-specific mineral library representing expected phases (quartz, calcite/dolomite, illite/kaolinite/montmorillonite/smectite, fluorapatite). (Source: [section_methods.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L34); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
+*   **Candidate Selection**: For each sample, the top **4–5** candidate minerals identified during library matching were selected as endmembers for regression. (Source: [section_methods.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L34); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
+*   **Residual Inspections**: Post-fit residuals $\varepsilon(\lambda)$ were audited. Cases with structured residuals near diagnostic absorption bands (indicating unmodeled phases or non-linear scattering effects) were flagged as approximate and interpreted qualitatively rather than quantitatively. (Source: [section_methods.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L34); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
+* [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+* [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Lithological Classifier Configurations & Baseline Models
+
+This note documents the configurations, hyperparameters, and baseline models evaluated in Chapter 2 of the thesis to classify the **127** spatially independent waste rock samples into the **4** lithological classes. (Source: [section_methods_ch2.txt:L77-78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L77-L78)).
+
+---
+
+## 1. Class Distribution & Balancing
+Due to moderate class imbalance in the refined dataset:
+*   **Class Distribution**: Marl (**38.6%**, $n = 49$), Limestone (**27.6%**, $n = 35$), Phosphate rock (**18.1%**, $n = 23$), and Siliceous facies (**15.7%**, $n = 20$). (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L40)).
+*   **Balancing Action**: The hyperparameter `class_weight = balanced` was applied to all supporting classifiers to adjust weights inversely proportional to class frequencies. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L43)).
+
+---
+
+## 2. Model Parameters
+The model parameters for the five original classifiers and two baseline models are detailed below:
+
+*   **Random Forest (RF)**: `n_estimators = 100`, `class_weight = balanced`, `random_state = 42`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
+*   **Extra Trees (ET)**: `n_estimators = 100`, `class_weight = balanced`, `random_state = 42`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
+*   **XGBoost**: `eval_metric = mlogloss`, `random_state = 42`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
+*   **Support Vector Machine (SVM)**: `C = 10`, `kernel = rbf`, `probability = True`, `class_weight = balanced`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
+*   **K-Nearest Neighbors (KNN)**: `n_neighbors = 5`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
+*   **LightGBM Baseline**: `n_estimators = 200`, `learning_rate = 0.05`, `class_weight = balanced`. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L41)).
+*   **Spectral Angle Mapper (SAM) Baseline**: A parameter-free classical hyperspectral classifier that assigns pixels based on minimum spectral angle relative to training mean spectra. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_1_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L37)).
+
+---
+
+## 3. Deep Learning Exclusion
+Deep learning architectures (e.g., 1D-CNN, transformers) were explicitly excluded from the study. The refined dataset of **127** unique modeling samples yields only **20–49** samples per class. Training deep convolutional networks on this sample size under Spatial CV would produce severe underfitting and validation instability. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [reviewer_1_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L37)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2)|Reviewer 1 Response (Chapter 2)]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)|Reviewer 3 Response (Chapter 2)]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Maastrichtian-Eocene Phosphatic Sequences
+
+The sedimentary phosphate deposits of Morocco are part of a continuous, mega-sedimentary cycle extending from the late Cretaceous (**Maastrichtian**) to the middle Eocene (**Lutetian**), spanning approximately 35 million years.
+
+---
+
+## 1. Paleogeographic Framework
+During the Maastrichtian-Lutetian, Morocco was covered by a shallow, epicontinental sea connected to the southern Tethys Ocean. This sea formed several shallow gulfs (basins) separated by Paleozoic basement highs (such as the Rehamna and Jbilet massifs). 
+
+---
+
+## 2. Chronostratigraphic Succession
+The phosphatic series exhibits a distinct vertical succession reflecting repetitive transgressive-regressive marine cycles:
+
+| Geological Stage | Depositional Facies & Lithology | Mining Terminology (Gantour) |
+|------------------|---------------------------------|-----------------------------|
+| **Lutetian** (Middle Eocene) | Dalle carbonatée (dolomitic limestone) marking the regression and cessation of phosphatogenesis. | Dalle à Thersitée |
+| **Ypresian** (Early Eocene) | Marno-siliceous series with thin, high-grade coarse sandy phosphates. | Sillon B |
+| **Thanetian** (Late Paleocene) | Fine silty phosphates, marnes, and clays. | Sillon A (A1, A2, A3) |
+| **Danian** (Early Paleocene) | Massive meuble phosphates, often calcified. | Couche 1-0 |
+| **Maastrichtian** (Late Cretaceous) | Thick, fossiliferous marls, clays, and phosphatic layers with abundant chert (silex) beds. | Couches 6, 5, 4, 3, 2 |
+
+---
+
+## 3. Lateral Facies Variations
+The thickness and facies of these sequences vary dramatically across basins:
+* **Gantour Basin**: The Maastrichtian is exceptionally thick and fossiliferous, divided into six distinct mining layers.
+* **Ouled Abdoun Basin**: The Maastrichtian exhibits a lateral thinning from the south (El Borouj, 5 layers) to the north (Khouribga, where it is reduced to a single layer, Couche 3).
+
+---
+
+## Related Notes
+- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
+* [[04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting|Gantour Basin and Benguerir Mine Geological Setting]]
+- [[04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015|Badioui & Kalombo (2015)]]
+- [[04_Knowledge Base/wiki/sources/elhaddiSilicificationsSeriePhosphate2014|El Haddi (2014)]]\n
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md
+
+---
+tags:
+created: '2026-06-05'
+---
+
+
+# Machine Learning for Hyperspectral Classification
+
+## Context in Thesis
+Chapter 2 applies supervised machine learning to [[PRISMA Satellite]] data for lithological mapping of phosphate waste rocks. The goal: classify pixels into lithological classes using field-validated training samples.
+
+**Paper:** Accepted in *Minerals* 2026 (IF 2.2) ✅
+
+> ⚠️ **Source of truth:** All numbers in this file are from the thesis manuscript. Conference abstract metrics (IGARSS 2025, EGU 2025) are from earlier experimental work and are NOT thesis results.
+
+---
+
+## Samples and Classes (Chapter 2)
+
+| Step | Count | Details |
+|------|-------|---------|
+| Total field samples | 207 | Collected across Benguerir waste rock piles |
+| Removed (shared pixels) | 80 | Same 30m PRISMA pixel footprint — removed to prevent spectral leakage |
+| **Spatially independent samples** | **127** | Used for machine learning |
+| XRD subset | 20 | Representative subset for mineralogical validation |
+| XRF subset | 207 | All samples measured |
+
+**4 Lithological Classes:**
+1. **Phosphate rock** — carbonate fluorapatite-rich facies
+2. **Siliceous facies** — quartz-dominated
+3. **Marl** — clay-rich carbonate
+4. **Limestone** — calcite/dolomite-dominated
+
+---
+
+## Models Tested
+
+| Model | Best performer? | Notes |
+|-------|----------------|-------|
+| **Extra Trees** | ✅ Yes | Most stable; best BAC |
+| **Random Forest** | ✅ Yes | Close second |
+| XGBoost | Competitive | More sensitive to spatially structured data |
+| SVM | Strong AUC | Lower BAC in complex multi-class setting |
+| KNN | Baseline | Instance-based |
+
+All evaluated under identical spatially constrained CV.
+
+---
+
+## Feature Selection — ANOVA within CV Folds
+
+**Critical: nested inside each CV fold — no data leakage.**
+
+```
+For each CV fold:
+  1. Fit ANOVA F-test on training split only
+  2. Select top 60 SWIR bands
+  3. Train classifier on selected features
+  4. Evaluate on test split (unseen, spatially isolated data)
+```
+
+- **Why 60 bands?** Empirically selected via nested CV; captures CO₃, Al-OH, Mg-OH, PO₄ features
+- **Why SWIR?** Molecular absorptions for carbonate/clay/phosphate minerals are in SWIR
+
+---
+
+## [[Spatially Constrained Cross-Validation]]
+
+- 30m buffer between train and test (= 1 PRISMA pixel)
+- 10 independent replicates
+- Prevents spatial autocorrelation from inflating accuracy
+
+---
+
+## Key Results (Thesis Ch.2 — from manuscript)
+
+| Metric | Value |
+|--------|-------|
+| Best models | Extra Trees, Random Forest |
+| **BAC (balanced accuracy)** | **0.60–0.67** |
+| **AUC (carbonate classes: Marl, Limestone)** | **> 0.95** |
+| AUC (Phosphate rock, Siliceous facies) | Lower — spectral overlap at 30m |
+| Spatially independent samples | 127 |
+| CV scheme | Spatially constrained, 30m buffer, 10 replicates |
+| Feature selection | Top 60 SWIR bands (ANOVA, nested in CV) |
+
+**Class discrimination pattern:**
+- Marl and Limestone: excellent discrimination (AUC > 0.95) — carbonate contrast is clear
+- Phosphate rock vs. Siliceous facies: lower discrimination — spectral overlap at 30m scale reflects sub-pixel mixing
+
+---
+
+## [[Shannon Entropy Uncertainty]]
+- Uncertainty is spatially structured — concentrated at lithological boundaries and in mixed phosphate-siliceous zones
+- This is geologically meaningful: exactly where sub-pixel mixing is expected
+- Operationally: high-entropy zones = where additional field investigation is warranted
+
+---
+
+## The 0.60–0.67 BAC: Context for Defense
+
+This is the correct, peer-reviewed result representing true spatial generalization. The physically constrained upper bound on classification at 30m resolution with spatially clustered training data. The thesis manuscript states:
+
+> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
+
+**Do NOT confuse with:** The OA=0.92 figure in the IGARSS 2025 and EGU 2025 conference abstracts. Those are from earlier experimental work using a different framework (CNN+SHAP) and are not the thesis results submitted for defense.
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[PRISMA Satellite]]
+- [[Spatially Constrained Cross-Validation]]
+- [[Shannon Entropy Uncertainty]]
+- [[Mineral Assemblages]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-X-ray Fluorescence (Micro-XRF) spectroscopy for non-destructive, high-resolution elemental mapping of geological samples."
+aliases:
+---
+
+
+# Micro-XRF Spectroscopy
+
+## Definition
+**Micro-XRF** (Micro-X-ray Fluorescence) is a non-destructive elemental analysis technique that utilizes capillary optics to focus primary X-rays onto a small spot on a sample surface (typically $10\text{ to }100\ \mu\text{m}$). It maps major, minor, and trace element abundances down to parts-per-million ($\text{ppm}$) levels.
+
+---
+
+## Comparison: Micro-XRF vs. SEM-EDS
+
+Automated mineralogy (AMICS) can be performed on both Micro-XRF and Scanning Electron Microscopy (SEM) platforms. The choice between them represents a trade-off between **analytical scale** and **spatial resolution**:
+
+| Feature | Micro-XRF (e.g., Bruker M4 TORNADO) | SEM-EDS |
+| :--- | :--- | :--- |
+| **Spatial Resolution** | $10\text{ to }100\ \mu\text{m}$ (coarser) | Sub-micron ($<1\ \mu\text{m}$) (extremely fine) |
+| **Sample Preparation** | None or minimal (direct scans on cut cores, hand specimens) | High (requires polished thin sections, carbon coating) |
+| **Sample Size / Area** | Large (decimeter scale, entire drill core trays up to $800 \times 600\text{ mm}^2$) | Small (typically limited to $30 \times 20\text{ mm}^2$ thin sections) |
+| **Destructiveness** | Non-destructive (sample is preserved) | Destructive (requires cutting and grinding) |
+| **Detection Limits** | Down to $10\text{ ppm}$ (excellent for trace element zoning) | Down to $\sim 1000\text{ ppm}$ ($0.1\text{ Wt}\%$) |
+| **Light Element Analysis** | Requires vacuum (e.g., $2\text{ mbar}$ or Helium flush) | Standard under high vacuum |
+
+---
+
+## Key Advantages for Mining & Exploration
+
+1. **Multi-Scale In-Situ Core Logging**:
+   * Bridges the gap between geological field mapping (macro-scale) and laboratory thin-section petrography (micro-scale).
+   * Allows continuous scanning of cut drill core sections (e.g., $60\text{ cm}$ sections) directly in core trays to map element distributions (such as cobalt mineralization or iron-magnesium alteration bands).
+2. **Trace Element Deportment**:
+   * Lower detection limits allow mapping of trace elements (like Cobalt or Lithium) within host minerals (e.g., cobalt in pyrite or lithium in pegmatite phases).
+3. **No Charging Effects**:
+   * Unlike SEM, Micro-XRF does not require a conductive carbon coating, allowing raw hand specimens and mineralized veins to be mapped directly.
+
+---
+
+## Application in Abdelhak's Thesis
+While Abdelhak's thesis primarily integrates **[[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF (HHXRF)]]** with VNIR-SWIR field spectroscopy to calibrate remote sensing indices, the Micro-XRF calibration datasets (e.g., from the AMICS training sessions) serve as the instrumentation baseline. They demonstrate how micro-scale elemental abundance maps validate the macro-scale spectral predictions of minerals like chlorite, carbonates, and phosphates.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Mineral Assemblages.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# Mineral Assemblages — Benguerir Phosphate Waste
+
+## Overview
+The mineral assemblage of Benguerir phosphate waste rock reflects the sedimentary phosphate deposit geology: marine carbonate-fluorapatite (francolite) in a carbonate-siliceous gangue, with secondary clay mineral weathering products.
+
+---
+
+## Primary Ore Minerals
+
+### Fluorapatite Ca₅(PO₄)₃F
+- End-member formula; rarely pure in sedimentary phosphates
+- **Spectral signature:** PO₄ combination tone ~2150 nm (weak feature)
+- **Diagnostic use:** Present in library as "Apatite Ca₅(PO₄)₃F"; detected at rank 3–7
+
+### Francolite (Carbonate Fluorapatite)
+- **Formula:** Ca₅[(PO₄)(CO₃)]₃F — partial substitution of CO₃ for PO₄
+- The **actual dominant phosphate mineral** in [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]] deposits
+- Hybrid PO₄ + CO₃ signature → harder to distinguish spectrally from calcite
+- **NOT in ECOSTRESS library** — key limitation of spectroscopy approach
+- Confirmed via XRD
+
+---
+
+## Carbonate Gangue
+
+### Calcite CaCO₃
+- Very common in phosphate sequences (marine origin)
+- Strong CO₃ combination at **2320 nm**
+- Often rank 5–7 in spectral matching (weaker than clay Al-OH)
+- Confirmed via XRD peak at 29.4° 2θ
+
+### Dolomite CaMg(CO₃)₂
+- Characteristic Mg-OH feature at **2330 nm**
+- Often rank 3–4 in spectral matching
+- Present in both managed and unmanaged zones
+
+---
+
+## Clay Gangue (Surface Dominant)
+
+### Illite (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀[(OH)₂,H₂O]
+- Most spectrally dominant clay
+- **Al-OH doublet: 2160 nm + 2205 nm** (diagnostic, strong)
+- **Rank 1–2 in spectral matching** for most samples
+- Formed by weathering of feldspar and volcanic ash layers
+- Confirmed via XRD
+
+### Kaolinite Al₂Si₂O₅(OH)₄
+- Al-OH at **2200 nm** (sharp doublet at 2163 + 2206 nm distinguishes from illite)
+- Lower abundance than illite at Benguerir
+- Confirmed via XRD
+
+### Montmorillonite (Smectite) (Na,Ca)₀.₃₃(Al,Mg)₂Si₄O₁₀(OH)₂·nH₂O
+- Swelling clay; Al-OH at ~2205 nm
+- Strong water absorption at 1900 nm (water molecules in interlayer)
+- Rank 1–2 alongside illite
+- Problematic for remote sensing: expands/contracts with moisture
+
+---
+
+## Silica Gangue
+
+### Quartz SiO₂
+- Essentially featureless in SWIR (no molecular absorptions)
+- Detected via spectral background / contrast
+- Rank 3–4 in some samples
+- Confirmed via XRD sharp peak at 26.6° 2θ
+
+---
+
+## Iron Oxide Accessories
+
+### Hematite α-Fe₂O₃ / Goethite α-FeOOH
+- Not major phases but spectrally visible
+- Fe3+ electronic transitions: shoulder ~500 nm, crystal field ~680 nm
+- Source: lateritic weathering of primary minerals
+- Tracked in `enmap_reclamation_engine_v2.py` feature catalogue
+
+---
+
+## Spectral Dominance Hierarchy
+At surface expression (field + satellite scale):
+```
+Clays (Illite > Montmorillonite) >
+Carbonates (Dolomite > Calcite) >
+Iron Oxides >
+Silica (Quartz) >
+Phosphates (Apatite/Francolite)
+```
+Phosphates are mineralogically important but spectrally suppressed by surface clay coatings → requires HHXRF + XRD for reliable quantification.
+
+---
+
+## XRD Validation
+XRD (X-ray diffraction) provides direct mineralogy:
+- Peak at 29.4° 2θ → calcite
+- Peak at 26.6° 2θ → quartz
+- Peaks at ~7° and ~3.5° → illite/smectite
+- Peaks at ~7.1° → kaolinite
+- Peaks at ~7° broad → fluorapatite (overlaps with clay)
+
+Published in Sensors 2025 (Ch.1): supplementary XRD patterns for representative samples.
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Spectral Library Matching]]
+- [[Phosphate Mine Waste]]
+- [[Handheld XRF]]
+- [[Gantour Basin]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A basic supervised classification algorithm that assigns a sample to the class whose mean centroid is closest in feature space."
+aliases:
+---
+
+
+# Minimum Distance Classifier
+
+## Definition
+The **Minimum Distance Classifier (MDC)** is a simple, computationally efficient supervised classification algorithm used in pattern recognition and remote sensing. It assigns an unclassified pixel or sample vector to the class whose mean vector (centroid) is closest in the multi-dimensional feature space.
+
+## How It Works
+The algorithm consists of two phases:
+
+### 1. Training Phase
+Compute the mean vector (centroid) $\mathbf{m}_c$ for each class $c$ using its training samples:
+$$\mathbf{m}_c = \frac{1}{N_c} \sum_{i=1}^{N_c} \mathbf{x}_i^{(c)}$$
+where $N_c$ is the number of training samples for class $c$, and $\mathbf{x}_i^{(c)}$ is the $i$-th training vector of class $c$.
+
+### 2. Classification Phase
+For an unknown test sample $\mathbf{x}$, compute the distance to each class centroid $\mathbf{m}_c$. Typically, **Euclidean distance** is used:
+$$d(\mathbf{x}, \mathbf{m}_c) = \|\mathbf{x} - \mathbf{m}_c\|_2 = \sqrt{\sum_{j=1}^{D} (x_j - m_{c,j})^2}$$
+where $D$ is the dimensionality of the feature space.
+
+Assign $\mathbf{x}$ to the class $c^*$ that minimizes this distance:
+$$c^* = \arg\min_c d(\mathbf{x}, \mathbf{m}_c)$$
+
+```mermaid
+graph TD
+    A["Compute Class Centroids (m_c)"] --> B["Compute Distances d(x, m_c) for Test Point"]
+    B --> C["Find Minimum Distance c* = argmin d(x, m_c)"]
+    C --> D["Assign Class label c* to Test Point"]
+```
+
+## Applications
+While MDC lacks the sophisticated boundary optimization of Support Vector Machines (SVM) or Random Forests, it serves as a robust baseline classifier. It performs well when classes are spectrally distinct, compact, and isotropic. 
+
+In the bibliometric study co-authored with Hamza Zine, a Python implementation of the Minimum Distance Classifier is used in [CODE.py](file:///D:/PHD-3rd/Bibliometric%20paper-ZINE/Actualiser/CODE.py) alongside SVM, KNN, and Random Forest models to classify lithology based on coordinates.
+
+## Links
+- [[Code — Bibliometric — Paper Visualizations and ML]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/sources/zineAdvancementsMineClosure2023]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Muglight Replicate-Stability Gate.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Muglight Replicate-Stability Gate
+
+The **Muglight Replicate-Stability Gate** is a quality control protocol implemented during VNIR–SWIR spectral data acquisition in Chapter 1 of the thesis to ensure instrument stability, repeatability, and minimize scattering/illumination effects under diffuse reflectance geometry.
+
+---
+
+## 1. Protocol Workflow
+Before commencing spectral measurements on mine waste rock samples, a Muglight-specific replicate-stability gate was executed:
+1.  **Reference Standard Replicates**: At the start of each analytical session, the operator acquired **5** replicate spectra of the internal reference standard under identical Muglight conditions. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45)).
+2.  **Acceptance Threshold**: The percent variation across the **5** replicates was computed relative to the replicate mean across the entire spectrum. The session was accepted only if the variation was **≤ 6%**. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45)).
+3.  **System Re-stabilization**: If the variation exceeded **6%**, measurements were halted, and the system was re-stabilized using the following steps:
+    *   Enforce a lamp warm-up period of **≥ 30 min**. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
+    *   Inspect and clean the Muglight window. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
+    *   Calibrate against a fresh Spectralon panel white reference (reflectance **> 99%**). (Source: [section_methods.txt:L15,L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L15#L17)).
+    *   Ensure leveled, tamped packing of the cup. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
+    *   Repeat standard testing until the **≤ 6%** threshold is achieved. (Source: [section_methods.txt:L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L17); confirmed in [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
+
+Only sessions that successfully passed this replicate-stability gate proceeded to waste rock measurements.
+
+---
+
+## 2. Replicate Measurement Protocol
+For each individual waste-rock sample:
+*   **Replicate Count**: **5** replicate spectra were collected from slightly different positions on the leveled sample surface. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18)).
+*   **Measurement Averaging**: Each of the **5** replicates was the average of **30** individual internal instrument scans to optimize the signal-to-noise ratio. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18)).
+*   **Lucky Bay Standard**: Spectral measurements were harmonized using the Lucky Bay (LB) internal soil standard. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18)).
+*   **Outlier Removal**: Replicates with detector splice mismatches, saturation, or negative values were immediately discarded. Remaining replicates were checked against the within-sample median and median-averaged to obtain the final representative spectrum. (Source: [section_methods.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L18); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L40-L42)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response|Reviewer 3 Response]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 4 Response|Reviewer 4 Response]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Bad Band Removal — Multi-Criterion Method.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Five statistical criteria used to flag unusable PRISMA bands before spectral analysis — entropy, SNR, kurtosis, skewness, and regular problem intervals."
+created: 2026-06-12
+aliases:
+---
+
+
+# PRISMA Bad Band Removal — Multi-Criterion Method
+
+Bad band removal is the first preprocessing step before any spectral analysis of PRISMA imagery. A band is flagged as bad if it meets one or more of five criteria applied per-band across the full scene.
+
+---
+
+## The Five Criteria
+
+| Criterion | What it detects |
+|-----------|----------------|
+| **Low Entropy** | Spectrally homogeneous band — near-zero information (often edge bands, calibration failures) |
+| **High Entropy** | Excessively noisy band — random response, no spectral structure |
+| **Low SNR** | Signal-to-noise ratio below threshold — noise dominates reflectance |
+| **Extreme Kurtosis** | Heavy-tailed pixel distribution — outlier-dominated, sensor artifacts |
+| **High Skewness** | Strongly asymmetric pixel distribution — systematic bias |
+| **Regular Problem Interval** | Systematic periodic bad bands at fixed indices — likely VNIR/SWIR detector boundary or calibration pattern |
+
+Multiple criteria can co-occur on the same band. The Benguerir acquisition analysis shows 19 bands flagged with three simultaneous criteria (Low Entropy + Extreme Kurtosis + High Skewness), indicating corrupted detector elements rather than simple noise.
+
+---
+
+## Output
+
+The method produces a binary `Bad_Band` mask (True/False) per band. Only `Bad_Band=False` bands enter downstream analysis (spectral library matching, ML classification, unmixing).
+
+Applied to the Benguerir PRISMA acquisition: **66 of 239 bands removed → 173 usable bands**.
+
+---
+
+## Why Multiple Criteria Matter
+
+A single-criterion mask (SNR only) would miss edge bands with decent SNR but zero information content. Conversely, entropy alone would miss genuinely noisy mid-SWIR bands with normal entropy. The composite approach catches four distinct failure modes independently.
+
+---
+
+## Related Concepts
+
+- [[PRISMA Band Quality Map — Benguerir Acquisition]] — the actual numbers from applying this method
+- [[Atmospheric Absorption Windows in PRISMA]] — the wavelength-domain explanation for the largest bad band clusters
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — instrument context
+- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source CSVs on D:\
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]] — downstream use of cleaned bands
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Bad Bands Removal Protocol.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Hyperspectral band selection and bad bands removal protocol established for PRISMA Level-2D scenes at the Benguerir mine."
+aliases:
+---
+
+
+# PRISMA Bad Bands Removal Protocol
+
+## Overview
+
+Hyperspectral sensors capture contiguous spectral bands, but several intervals suffer from low signal-to-noise ratio (SNR), atmospheric water vapor absorption, detector overlap anomalies, or random electronic spikes. To prevent these non-geological signals from distorting machine learning classifications, a **bad bands removal protocol** was established during Year 2 of the PhD.
+
+---
+
+## Band Removal Criteria
+
+Based on literature review and visual inspection of raw pixel reflectances from the 12 February 2022 Benguerir PRISMA scene, the following band subsets were excluded from the analysis:
+
+### 1. Ultra-Blue & VNIR Edge Limits
+*   **Bands 1 to 9** (wavelengths **402–464 nm**): Removed due to severe scattering and poor detector sensitivity in the violet-blue range.
+*   **Bands > 222** (wavelengths near the upper limit of the SWIR detector): Removed due to high noise at the spectral margins.
+
+### 2. Water Vapor & Atmospheric Absorption Windows
+The atmosphere is opaque in specific bands due to water vapor and carbon dioxide absorption:
+*   **Bands 101 to 119** (wavelengths **1328–1523 nm**): Excluded to remove the 1.4 $\mu\text{m}$ water absorption window.
+*   **Bands 148 to 175** (wavelengths **1812–2044 nm**): Excluded to remove the 1.9 $\mu\text{m}$ water absorption window.
+
+### 3. Detector Overlap Zone
+PRISMA utilizes two separate spectrometers (VNIR and SWIR) that overlap in the near-infrared:
+*   **Bands 59, 61, and 63 to 70** (wavelengths **930–998 nm**): Removed to resolve mismatch errors and calibration seams between the detectors.
+
+### 4. Random Electronic Spikes
+Certain isolated bands exhibited anomalous high-frequency noise spikes:
+*   **Band 44** (wavelength **770 nm**).
+*   **Bands 85 to 89** (wavelengths **1152–1196 nm**).
+
+---
+
+## Evolution toward the Final Thesis
+
+*   **Initial Protocol**: This protocol was implemented in early classification tests (October 2022) to clean up raw Level-2D reflectances.
+*   **Final Chapter 2 Protocol**: In the final thesis, this physical band-filtering step was combined with **ANOVA F-test dimensionality reduction** to select the top **60 SWIR bands** for the lithological classification pipeline, resulting in a Balanced Accuracy range of 0.60–0.67.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
+- [[04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Band Quality Map — Benguerir Acquisition.md
+
+---
+date: 2026-06-12
+tags:
+summary: "Specific bad band index ranges and statistics from the PRISMA scene analysis at Benguerir — 173 good bands retained from 239 total."
+created: 2026-06-12
+aliases:
+---
+
+
+# PRISMA Band Quality Map — Benguerir Acquisition
+
+Quantitative output of the [[PRISMA Bad Band Removal — Multi-Criterion Method]] applied to the Benguerir phosphate mine PRISMA scene used in thesis Chapter 2.
+
+---
+
+## Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total PRISMA bands | 239 |
+| Bad bands flagged | 66 |
+| **Good bands retained** | **173** |
+| Good band index range | 12–218 (with internal gaps) |
+| SNR range (good bands) | 0.873 – 1.437 |
+| Mean SNR (good bands) | 1.377 |
+
+---
+
+## Bad Band Index Map
+
+| Index range | Band count | Primary reason |
+|-------------|-----------|----------------|
+| 0–11 | 12 | Low Entropy (VNIR detector edge — zero / near-zero values) |
+| 14–21 | 8 | Low Entropy (blue-edge calibration zone) |
+| 30 | 1 | Regular Problem Interval |
+| 50 | 1 | Regular Problem Interval |
+| 66–67 | 2 | Low SNR |
+| 100 | 1 | Regular Problem Interval |
+| 140–150 | 11 | Low Entropy + Extreme Kurtosis + High Skewness (water vapor window) |
+| 192–196 | 5 | Low SNR (second water vapor absorption region) |
+| 200 | 1 | Regular Problem Interval |
+| 210–213 | 4 | Low Entropy |
+| 219–238 | 20 | Low Entropy (SWIR detector edge — zero values) |
+
+The largest gap (bands 140–150) corresponds to an atmospheric absorption window in the SWIR. See [[Atmospheric Absorption Windows in PRISMA]].
+
+---
+
+## Breakdown by Removal Reason
+
+| Reason | Band count |
+|--------|-----------|
+| Low Entropy | 20 |
+| Low Entropy + Extreme Kurtosis + High Skewness | 19 |
+| Low SNR | 17 |
+| Regular Problem Interval | 4 |
+| High Entropy (noisy) | 1 |
+| Other compound reasons | 5 |
+| **Total bad** | **66** |
+
+---
+
+## Interpretation for Thesis
+
+The 173-band subset represents the spectrally valid VNIR+SWIR range for Benguerir. The SWIR edge bands (219–238) are discarded because the PRISMA SWIR detector has a sharp sensitivity rolloff beyond ~2400 nm. The regular problem intervals (30, 50, 100, 200) likely correspond to known PRISMA inter-detector calibration artifacts.
+
+This band mask is the direct input to the ML classification pipeline in Chapter 2 (Extra Trees, Random Forest: BAC = 0.60–0.67 across 4 lithological classes).
+
+---
+
+## Related Concepts
+
+- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — the method that produced this map
+- [[Atmospheric Absorption Windows in PRISMA]] — wavelength context for the largest gaps
+- [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — sensor specs
+- [[04_Archives/D-Drive/D-Drive — PRISMA Analysis Results]] — source files on D:\
+- [[02_Academic & Work/thesis/Thesis Overview]] — Chapter 2 results using these 173 bands
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Image Preprocessing & Spectral Optimization.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# PRISMA Image Preprocessing & Spectral Optimization
+
+In Chapter 2, a three-stage preprocessing pipeline is implemented to optimize the spectral signal of spaceborne PRISMA Level-2D (L2D) imagery. This optimization isolates the diagnostic mineral absorption features of phosphate mine waste rocks from atmospheric interference and sensor noise.
+
+---
+
+## 1. Preprocessing Pipeline Stages
+
+### Stage 1: Spatial Alignment & Geometric Correction
+* **Objective**: Correct spatial misalignment between the geocoded PRISMA L2D surface reflectance product and vectorized field boundaries.
+* **Method**: Image registration was performed using the **THOR Change Detection** tool in **ENVI 5.5.2**.
+* **Resampling**: A **nearest-neighbor** resampling algorithm was applied to preserve the radiometric and spectral integrity of the pixels.
+* **Source**: [section_methods_ch2.txt:L69](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L69).
+
+### Stage 2: Atmospheric Masking
+* **Objective**: Remove spectral regions characterized by a low Signal-to-Noise Ratio (SNR) due to atmospheric absorption.
+* **Masked Regions**:
+  * **1300–1500 nm** (water-vapor absorption window)
+  * **1750–1980 nm** (water-vapor absorption window)
+* **Source**: [section_methods_ch2.txt:L70,L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L70#L72).
+
+### Stage 3: Savitzky–Golay Denoising & Smoothing
+* **Objective**: Suppress high-frequency noise while preserving the geometry and depth of diagnostic absorption features.
+* **Parameters**:
+  * **Polynomial Order**: **2**
+  * **Window Size**: **7** bands
+* **Physical Basis**: Unlike standard moving-average filters (which smooth out narrow absorption minima), the Savitzky–Golay filter preserves the precise shape of clay (Al-OH at **~2200 nm**) and carbonate ($\text{CO}_3^{2-}$ at **~2330 nm** and **~2500 nm**) doublets essential for lithological differentiation.
+* **Source**: [section_methods_ch2.txt:L70,L72](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L70#L72).
+
+---
+
+## 2. Technical Characteristics of the Image
+
+* **Sensor Bands**: **66** VNIR bands (**400–1010 nm**) and **173** SWIR bands (**920–2500 nm**). (Source: [section_methods_ch2.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L31)).
+* **Spatial Resolution**: **30 m** (pixel footprint: **30 × 30 m**). (Source: [section_methods_ch2.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L32)).
+* **Acquisition Window**: **January 2022** (cloud-free scene over the Benguerir mine). (Source: [section_methods_ch2.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L32)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+* [[04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability|ANOVA Wavelength Ranking & Selection Stability]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# PRISMA Lithological Mapping Performance Metrics
+
+This note documents the quantitative performance metrics evaluated in Chapter 2 of the thesis for the lithological classification of phosphate mine waste rock piles using PRISMA hyperspectral imagery.
+
+> [!WARNING]
+> **Data Discrepancy (Row 24 of Discrepancy Log):** Table 2 of the final manuscript ([minerals-4267637-2nd proof.docx](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt)) reports an Extra Trees Balanced Accuracy (BA) of **0.693 ± 0.032** and Random Forest BA of **0.666 ± 0.032**. The canonical defense preparation files ([Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L53) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L189)) define the canonical Chapter 2 BAC range as **0.60–0.67**. Following the Data Truth Hierarchy (D-Drive Pipeline Rules in [AGENTS.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/AGENTS.md)), the canonical defense prep value of **0.60–0.67** is treated as the primary fact, while the newly revised manuscript values are presented as context.
+
+---
+
+## 1. Classification Performance Summary (Table 2)
+
+All metrics were computed using a spatially constrained cross-validation framework (**5**-folds repeated **10** times, yielding **50** total runs) with a **30 m** spatial buffer. Metrics are reported as mean ± standard deviation across the spatial replicates.
+
+* **Total Samples**: **127** spatially independent samples. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47)).
+* **Bands Selected**: **60** SWIR bands using ANOVA F-test feature selection. (Source: [section_methods_ch2.txt:L76](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L76); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L52)).
+
+| Classifier | Overall Accuracy (OA) | Balanced Accuracy (BA) | Cohen’s Kappa ($\kappa$) | Weighted $F_1$-score | Matthews Correlation (MCC) | Macro-averaged AUC |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Extra Trees** | **0.653 ± 0.033** | **0.693 ± 0.032** | **0.510 ± 0.046** | **0.649 ± 0.032** | **0.513 ± 0.047** | **0.863 ± 0.012** |
+| **Random Forest** | 0.633 ± 0.031 | 0.666 ± 0.032 | 0.480 ± 0.045 | 0.628 ± 0.032 | 0.484 ± 0.045 | 0.858 ± 0.012 |
+| **XGBoost** | 0.587 ± 0.020 | 0.637 ± 0.019 | 0.421 ± 0.029 | 0.584 ± 0.023 | 0.422 ± 0.029 | 0.827 ± 0.011 |
+| **KNN** | 0.593 ± 0.028 | 0.615 ± 0.034 | 0.423 ± 0.040 | 0.590 ± 0.028 | 0.427 ± 0.041 | 0.837 ± 0.014 |
+| **SVM** | 0.576 ± 0.030 | 0.561 ± 0.029 | 0.385 ± 0.042 | 0.517 ± 0.035 | 0.421 ± 0.051 | 0.832 ± 0.011 |
+| **LightGBM** (Baseline) | 0.569 ± 0.040 | 0.626 ± 0.041 | 0.399 ± 0.055 | 0.569 ± 0.042 | 0.400 ± 0.055 | 0.823 ± 0.018 |
+| **SAM** (Baseline) | 0.541 ± 0.032 | 0.536 ± 0.036 | 0.361 ± 0.044 | 0.543 ± 0.032 | 0.362 ± 0.044 | 0.828 ± 0.007 |
+
+*(Source: [section_results_ch2.txt:L73-121 (Table 2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L73-L121)).*
+
+---
+
+## 2. Key Performance Observations
+
+* **Ensemble Tree Superiority**: Extra Trees (ET) and Random Forest (RF) outperform all other classifiers, indicating that bagging-based ensemble approaches are particularly resilient to the high dimensionality and spatial constraints of hyperspectral waste rock classification. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64)).
+* **Machine Learning Value-Add**: All supervised machine learning algorithms substantially outperform the parameter-free Spectral Angle Mapper (SAM) baseline ($\Delta\text{BA} = +0.097$ to $+0.157$ for supervised models over SAM), validating the added utility of statistical learning over basic spectral angle similarity metrics. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64)).
+* **Class-Specific Disparity**: Receiver Operating Characteristic (ROC) analysis reveals a clear performance split. Carbonate-dominated lithologies (Marl and Limestone) achieve high Area Under the Curve (AUC) values ($\text{AUC} > 0.95$), whereas Phosphate rock and Siliceous facies exhibit lower values ($\text{AUC} < 0.80$), owing to spectral mixing at the **30 m** spatial scale. (Source: [section_results_ch2.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L24); AUC limits confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L54-L55)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models|Lithological Classifier Configurations & Baseline Models]]
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
+* [[04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies|Feature Selection & Validation Ablation Studies]]
+* [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Satellite.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# PRISMA Satellite
+
+## What It Is
+PRISMA (PRecursore IperSpettrale della Missione Applicativa) is the Italian Space Agency (ASI) hyperspectral satellite. Launched March 2019. One of the most capable civil hyperspectral satellites currently operating.
+
+## Technical Specs
+| Parameter | Value |
+|-----------|-------|
+| Spectral range | 400–2500 nm (VNIR + SWIR) |
+| Spectral bands | ~250 contiguous bands |
+| Spectral resolution | ~10 nm |
+| Spatial resolution | 30 m |
+| Swath width | 30 km |
+| Data format | **HDF5** |
+| Revisit time | ~29 days (at equator) |
+
+## Why Abdelhak Uses PRISMA
+- Full VNIR + SWIR coverage → essential for phosphate mineralogy in SWIR
+- Available for Moroccan study sites (Benguerir)
+- Relatively new → Abdelhak's thesis is among the first hyperspectral satellite studies of Moroccan phosphate mining
+
+## Data Format: HDF5
+PRISMA delivers data in HDF5 format — requires custom loading scripts.  
+Challenges solved during Abdelhak's thesis:
+- HDF5 indexing script developed
+- VNIR + SWIR cube fusion → NPZ format
+- Bad band removal (water vapor absorption at ~1400nm, ~1900nm)
+- Noisy band identification and removal
+
+→ See `thesis/code-notes/VNIR SWIR Fusion` (code notes not yet in vault)  
+→ See `thesis/code-notes/Bad Band Removal` (code notes not yet in vault)
+
+## Key Spectral Bands for Phosphate Mineralogy
+| Wavelength Region | Relevant Minerals |
+|------------------|------------------|
+| ~900–1000 nm (NIR) | Iron oxides, goethite, hematite |
+| ~2200 nm (SWIR) | Al-OH clays, kaolinite, alunite |
+| ~2300 nm (SWIR) | Carbonates, Mg-OH, dolomite |
+| ~2100–2200 nm | Phosphate minerals (specific features) |
+| ~1400, 1900 nm | Water/OH (remove — atmosphere) |
+
+## PRISMA vs. Other Sensors
+| Sensor | Bands | Resolution | Notes |
+|--------|-------|------------|-------|
+| PRISMA | ~250 | 30m | ✅ Abdelhak's sensor |
+| Sentinel-2 | 13 | 10-60m | Too few bands for mineralogy |
+| EnMAP | 244 | 30m | Higher SNR, newer (2022) |
+| AVIRIS | 224 | variable | Airborne, not satellite |
+| HyMap | 128 | variable | Airborne |
+
+## Related Pages
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Analysis]]
+- [[02_Academic & Work/thesis/Thesis Overview]]
+
+## Sources
+*(Add papers about PRISMA applications as you ingest them)*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# PRISMA Spatial Redundancy Filtering
+
+The **PRISMA Spatial Redundancy Filtering** is a quality-control preprocessing step implemented in Chapter 2 of the thesis to resolve scale mismatches between ground-based point sampling and satellite image pixels, thereby mitigating spatial autocorrelation.
+
+---
+
+## 1. Rationale and Scale Mismatch
+During field campaigns, multiple samples are often collected in close proximity. However, the PRISMA hyperspectral sensor has a native spatial resolution of **30 m** (pixel size: **30 × 30 m**). (Source: [section_methods_ch2.txt:L32,L45](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L32#L45)).
+If multiple field samples fall within a single **30 m** pixel footprint:
+*   They carry identical spectral information (the pixel's mixed reflectance profile).
+*   Including them as separate observations in machine learning training causes "spectral leakage" and inflates classification accuracy.
+
+---
+
+## 2. Filtering Protocol
+To ensure spectral independence:
+1.  **Initial Dataset**: Abdelhak collected and validated **207** field-validated samples across the Benguerir mine dumps. (Source: [section_methods_ch2.txt:L10](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L10); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L46)).
+2.  **Pixel-by-Pixel Audit**: A spatial overlay of sample coordinates and the georeferenced PRISMA Level-2D grid identified co-located samples. (Source: [section_methods_ch2.txt:L14,L17](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14#L17)).
+3.  **Deduplication & Conflict Resolution**:
+    *   For pixels containing multiple co-located samples, the sample with the most reliable laboratory characterization (geochemical XRF and/or XRD mineralogy) was retained. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33)).
+    *   If co-located samples within a single pixel footprint displayed conflicting lithological assignments (reflecting sub-pixel geological heterogeneity), the pixel was excluded entirely to avoid training models on ambiguous labels. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33)).
+4.  **Final Dataset**: **80** redundant samples were removed, resulting in a refined dataset of **127** unique, spatially independent modeling samples. (Source: [section_methods_ch2.txt:L14](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L14); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47-L48)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)|Reviewer 3 Response (Chapter 2)]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Linear sampling campaign conducted on Panel 2 of the Benguerir open-pit mine during year 2 of the PhD, serving as the foundation for early mineralogical and geochemical analyses."
+aliases:
+---
+
+
+# Panel 2 Linear Sampling Campaign
+
+## Overview
+
+During Year 2 of the PhD (August–October 2022), a **linear sampling campaign** was planned and executed along a profile on **Panel 2** of the Benguerir open-pit phosphate mine. The campaign's goal was to systematically capture the spatial heterogeneity of the phosphate waste rock piles (PWRPs) to validate remote sensing observations.
+
+---
+
+## Campaign Details
+
+*   **Location**: Panel 2, Benguerir Mine, Morocco (operated by OCP Group).
+*   **Profile Length**: Stated as **652 m** (in the *October 2022 progress report*) or **662 m** (in the *EMEC-SMCE Workshop abstract*).
+*   **Sampling Step**: Spaced every **5 to 7 meters**.
+*   **Sample Mass**: Approximately **1 kg** per sample.
+*   **Total Samples**: **100 physical samples** collected.
+*   **Sub-cohort Selection**: A subset of **20 samples** was chosen for thin-section mineralogy, X-Ray Diffraction (XRD), and Wavelength Dispersive X-ray Fluorescence (WD-XRF) analysis to represent the primary lithological variations.
+
+---
+
+## Lithological Classification
+
+The samples collected during this campaign were categorized into 5 primary lithologies representative of the Gantour Basin stratigraphy:
+1.  **Phosphate Rock** (rich in pelletal fluorapatite)
+2.  **Marl**
+3.  **Limestone**
+4.  **Phosphatic Sand**
+5.  **Clay** (predominantly palygorskite and montmorillonite)
+
+---
+
+## Evolution & Thesis Integration
+
+*   **Initial Profile Study**: The Panel 2 linear campaign served as the basis for early conference presentations (EMEC-SMCE 2022) and preliminary classification testing.
+*   **Upscaling to Thesis Databases**: 
+    *   For **Chapter 1** (field spectroscopy), this linear cohort was integrated into a larger database of **104 samples**.
+    *   For **Chapter 2** (PRISMA lithological mapping), the database was expanded to **207 samples** (filtered down to **127 spatially independent samples** to prevent spatial autocorrelation across 30 m pixels).
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks]]
+- [[04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation]]
+- [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/PhD Year 2 Progress and Classifier Decisions.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Decisions and benchmarks from the Year 2 PhD progress report (October 2022), tracing the evolution of PRISMA classification models."
+aliases:
+---
+
+
+# PhD Year 2 Progress and Classifier Decisions
+
+## Document Context
+
+*   **Report Date**: October 18, 2022
+*   **Presentation Title**: *Progressive Rehabilitation of Phosphate Mining Site*
+*   **Research Phase**: Year 2 Milestones
+*   **Supervisors**: Pr. Mostafa Benzaazoua, Pr. Ahmed Laamrani, Pr. Rachid Hakkou, Pr. Abdellatif El Ghali
+
+---
+
+## Early Research Benchmarks (October 2022)
+
+### 1. PRISMA Hyperspectral Preprocessing
+*   **Image**: Acquired on **12 February 2022** over the Benguerir mine.
+*   **Metadata**: Cloud cover 0–4%, L2D geometric level (orthorectified and geocoded).
+*   **Early Preprocessing Decision**: Removal of bad bands was established based on atmospheric absorption, sensor overlap zones, and random noise spikes (see [[PRISMA Bad Bands Removal Protocol]]).
+
+### 2. Early Classification Attempts
+The research started with highly granular lithological schemes and classic remote sensing classifiers:
+*   **Unsupervised Classification**: Run using 15 spectral classes to map mine surface variance.
+*   **Supervised Classifications**: Run using a detailed **12-lithology scheme** (e.g., separating fine subtypes of limestone, clays, and phosphatic sand). Classifiers evaluated:
+    *   Support Vector Machine (SVM)
+    *   Spectral Angle Mapper (SAM)
+    *   Maximum Likelihood Classifier (MLC)
+    *   Minimum Distance Classifier
+
+### 3. Early Classifier Selection Decision
+*   **2022 Decision**: The progress report concluded that the **Minimum Distance Classifier** was the "best classifier" because it showed the most visually coherent lithological mapping of the 12 classes across the mine site without the severe salt-and-pepper noise generated by SVM or Maximum Likelihood.
+
+---
+
+## Evolution toward the Final Thesis
+
+The classification strategy underwent significant maturity between 2022 and the final 2026 defense manuscript:
+
+| Parameter | Early Year 2 Scheme (2022) | Final Thesis Chapter 2 Scheme (2026) |
+|-----------|-----------------------------|--------------------------------------|
+| **Target Classes** | 12 lithologies (highly granular) | **4 lithologies** (Phosphate rock, Siliceous facies, Marl, Limestone) |
+| **Primary Classifier** | Minimum Distance Classifier | **Extra Trees & Random Forest** |
+| **Model Performance** | Qualitative visual assessment | Balanced Accuracy (**BAC**) of **0.60–0.67** |
+| **Validation Method** | Apparent training accuracy | **Spatially constrained cross-validation** (30 m buffer) |
+
+### Rationale for the Shift
+The early 12-class model suffered from low spectral separability and high pixel-scale mixing. Collapsing the classes into 4 primary lithological categories allowed the use of robust ensemble tree-based classifiers (Extra Trees and Random Forest) to capture non-linear spectral features in the SWIR range, leading to the final peer-reviewed article in the *Minerals* journal.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Knowledge Base/wiki/concepts/Minimum Distance Classifier]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Bad Bands Removal Protocol]]
+- [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics]]
+- [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC.md
+
+---
+tags:
+date: 2026-06-13
+summary: "Map of Content for phosphate geology, stratigraphy, and deposit formation."
+---
+
+
+# Phosphate Geology and Stratigraphy MOC
+
+## Literature & Sources
+- [[04_Knowledge Base/wiki/sources/benhassenPetrographieGeochimieComparees2010|Ben Hassen et al. (2010)]] — Comparative petrography and geochemistry of Tunisian pellets vs exogangue
+- [[04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015|Badioui & Kalombo (2015)]] — Stratigraphic study and reserves estimation of Panel 5 (Mine Nord Gantour)
+- [[04_Knowledge Base/wiki/sources/wafikEtudeGeominiereMineSud2017|Wafik (2017)]] — Detailed geological, mineralogical, and petrographical study of Benguerir South Mine
+- [[04_Knowledge Base/wiki/sources/ouabouSynthesePhosphatogeneseBassins2015|Ouabou (2015)]] — Synthesis of phosphatogenesis theories and sequence stratigraphy in the Gantour Basin
+- [[04_Knowledge Base/wiki/sources/achmaniGisementsPhosphatesMaroc2016|Achmani et al. (2016)]] — Regional overview of the four major sedimentary phosphate basins in Morocco
+- [[04_Knowledge Base/wiki/sources/moulouaElaborationProjetRehabilitation2012|Mouloua (2012)]] — M'Zinda open-pit mine waste characterization and rehabilitation project
+- [[04_Knowledge Base/wiki/sources/elhaddiSilicificationsSeriePhosphate2014|El Haddi (2014)]] — Silicification processes and genetic models for silex in Moroccan phosphates
+- [[04_Knowledge Base/wiki/sources/seminaireFssMarrakech2015|OCP Seminar PPT (2015)]] — Catalog reference for the OCP/Semlalia Marrakech seminar presentation
+
+## Geological Concepts
+- [[04_Knowledge Base/wiki/concepts/Phosphatogenesis and Phosphate Deposit Formation|Phosphatogenesis and Phosphate Deposit Formation]] — Upwelling systems, diagenetic CFA precipitation, and pelletal deposition
+- [[04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences|Maastrichtian-Eocene Phosphatic Sequences]] — Chronostratigraphy and paleogeographic cycles of Moroccan phosphates
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineralization Types and Lithological Components|Phosphate Mineralization Types and Lithological Components]] — CFA/Francolite mineralogy, BPL grade calculation, and waste rock lithologies
+- [[04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine|Stratigraphy of the Gantour Basin and Benguerir Mine]] — Local stratigraphic column (Couches 6 to 2, Sillons X, A, and B) and structural framework
+
+## Related MOCs
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]] — Mine waste characterization and mapping methods
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group and Benguerir Mine]] — Operational context for the Benguerir mine
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mine Waste.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# Phosphate Mine Waste / Waste Rock
+
+## Definition
+Phosphate mine waste rocks are the non-ore materials excavated to access phosphate ore bodies. At Benguerir (OCP Group), they form large waste rock piles (WRP) requiring environmental management and potential reclamation.
+
+---
+
+## Benguerir Mine Context
+
+| Parameter | Value |
+|-----------|-------|
+| Operator | OCP Group |
+| Basin | [[04_Knowledge Base/wiki/entities/Gantour Basin\|Gantour Basin]], Morocco |
+| Study area | ~36 km² |
+| Stripping ratio | ~3:1 (waste:ore) |
+| Waste production | ~12.3 Mt/year |
+| Pile heights | Up to several tens of meters |
+| Age of dumps | Decades of accumulation |
+
+---
+
+## Mineralogical Composition (from thesis Ch.1)
+
+### Primary minerals (host rock)
+| Mineral | Formula | Spectral signature |
+|---------|---------|-------------------|
+| Fluorapatite | Ca₅(PO₄)₃F | PO₄ ~2150 nm (weak) |
+| Francolite | Ca₅(PO₄,CO₃)₃F | Carbonate-phosphate |
+| Calcite | CaCO₃ | CO₃ ~2320 nm |
+| Dolomite | CaMg(CO₃)₂ | Mg-OH ~2330 nm |
+
+### Secondary/gangue minerals
+| Mineral | Formula | Spectral signature |
+|---------|---------|-------------------|
+| Illite | (K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀(OH)₂ | Al-OH ~2200 nm |
+| Kaolinite | Al₂Si₂O₅(OH)₄ | Al-OH ~2200 nm |
+| Montmorillonite | (Na,Ca)Al₂Si₄O₁₀(OH)₂·nH₂O | Al-OH ~2200 nm |
+| Quartz | SiO₂ | Featureless in SWIR |
+| Iron oxides | Hematite, Goethite | Fe3+ ~500, 680 nm |
+
+### Why clays dominate spectral response
+Clay minerals (illite, montmorillonite) coat waste rock surfaces due to weathering. Their Al-OH absorptions at ~2200 nm are spectrally stronger than the apatite PO₄ feature at ~2150 nm → clays rank 1–2 in spectral matching despite being secondary minerals.
+
+---
+
+## Reclamation Context
+
+**Two zone types in Abdelhak's thesis:**
+- **RWR (Reference Waste Rock):** Unmanaged dump — raw, unvegetated, high phosphate, geochemically unstable
+- **RZ (Reclaimed Zone):** Managed area undergoing vegetation restoration — soil amendment, seeding, water management
+
+**Environmental concerns:**
+- Dust and wind erosion (fine phosphate particles)
+- Leaching of heavy metals and fluorine
+- Landscape rehabilitation compliance (OCP sustainability targets)
+- Acid rock drainage potential (limited for calcareous phosphate gangue)
+
+---
+
+## Geochemistry (XRF targets from thesis)
+Key oxides monitored: CaO, SiO2, Al2O3, MgO, K2O, Na2O, P2O5, TiO2, MnO, Fe2O3
+
+**P2O5 as reclamation indicator:**
+- High P2O5 → unweathered phosphate waste
+- Decreasing P2O5 over time → mineral weathering, dilution by added topsoil, vegetation biomass accumulation
+- The **[[Reclamation Progress Index]] (RPI)** uses abundance of vegetation/soil endmembers relative to raw waste endmembers, isotonically calibrated against XRF P2O5
+
+---
+
+## Field Sampling (Thesis)
+- 104 field samples collected across managed and unmanaged zones
+- GPS locations recorded (used in QGIS maps, plotted in `Samples ppaer 1 + 2 all.csv`)
+- ASD FieldSpec 4 measurement at each sample point
+- HHXRF measurement (same or adjacent point)
+- XRD on subset → mineral quantification
+
+---
+
+## Related Concepts
+- [[Mineral Assemblages]]
+- [[VNIR-SWIR Spectroscopy]]
+- [[Handheld XRF]]
+- [[Reclamation Monitoring]]
+- [[OCP Group and Benguerir Mine]]
+- [[Gantour Basin]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A validation framework linking quantitative XRD phase analysis to a simplified 4-class mineralogical scheme for calibrating hyperspectral unmixing algorithms."
+aliases:
+---
+
+
+# Phosphate Mineral Validation Scheme
+
+## Definition
+The **Phosphate Mineral Validation Scheme** is a methodological framework designed to translate complex multi-mineral assemblages identified via lab analysis (like X-ray diffraction) into a simplified, robust classification scheme (typically 4 main classes) suitable for calibrating and validating spatial-spectral remote sensing products (such as PRISMA or EnMAP abundance maps).
+
+## The 4-Class Scheme
+
+```mermaid
+graph TD
+    A["Raw Waste Rock XRD Phases"] -->|Group & Map| B["Simplified 4-Class Scheme"]
+    B --> C1["Carbonate Class (Calcite / Dolomite / Ankerite / Siderite)"]
+    B --> C2["Silica Class (Quartz)"]
+    B --> C3["Phosphate Class (Fluorapatite / Hydroxyapatite)"]
+    B --> C4["Clay Class (Palygorskite / Montmorillonite)"]
+    B -->|Calibrate| D["Satellite Hyperspectral unmixing (VNIR-SWIR)"]
+```
+
+Powder XRD analysis is highly detailed, often identifying 5 to 8 distinct mineral phases per sample in Moroccan open-pit phosphate waste rock piles (WRPs). However, satellite sensors with $30\,\text{m}$ spatial resolution cannot resolve such granular mineralogical parameters. HighScore XRD results are therefore grouped into four main diagnostic classes that align with distinct spectral features in the VNIR-SWIR ranges (400–2500 nm):
+
+1.  **Carbonates**: Grouping **Calcite**, **Dolomite**, **Ankerite**, and **Siderite**. These minerals exhibit diagnostic absorption features in the Shortwave Infrared (SWIR) at ~2300–2350 nm (due to $CO_3^{2-}$ vibrational overtones).
+2.  **Silica (Quartz)**: Grouping crystalline **Quartz**. Although featureless in the VSWIR range, quartz acts as a spectrally neutral diluent, altering the depth and shape of adjacent absorption features.
+3.  **Phosphates**: Grouping **Fluorapatite** and **Hydroxyapatite** (Hydroxylapatite). These minerals represent the key secondary resource targeted for recovery.
+4.  **Clays**: Grouping clay silicates like **Palygorskite** and **Montmorillonite**. Clays show strong absorption features at ~1400 nm, 1900 nm (water overtones), and ~2200 nm (Al-OH bending), which can mask the diagnostic signatures of apatite.
+
+## Ground-Truth Validation
+This validation scheme acts as the ground-truth linkage in Abdelhak's Chapter 1 and Chapter 4 work:
+*   **Sample Characterization**: High-resolution Rietveld refinements (from [PHD-1st XRD Reports](file:///D:/PHD-1st/XRD_reports.zip)) provide absolute weight percentages of these minerals.
+*   **Fusing with Spectroscopy**: Ground ASD FieldSpec readings are mapped to these quantitative mineral classes.
+*   **Unmixing Calibration**: The resulting database is used as endmembers to calibrate spatial unmixing algorithms (VCA-FCLS) applied to PRISMA and EnMAP images, allowing for per-pixel resource mapping and reclamation monitoring.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Mineralization Types and Lithological Components.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Phosphate Mineralization Types and Lithological Components
+
+Morphologically and mineralogically, Moroccan phosphate ore is a complex sediment consisting of phosphatic grains (mineralization) embedded in a matrix (gangue) and separated by sterile layers.
+
+---
+
+## 1. Phosphate Mineral Phases
+* **Carbonate Fluorapatite (CFA) / Francolite**: The primary economic mineral phase. It is characterized by the substitution of carbonate groups ($CO_3^{2-}$) and fluorine ($F^-$) into the apatite crystal lattice:
+  $$\text{Ca}_{10}[(\text{PO}_4)_{6-x}(\text{CO}_3)_x]\text{F}_{2+x}$$
+* **Dahllite**: A carbonate-hydroxylapatite ($F$-poor phase).
+* **Vivianite**: A secondary hydrated iron phosphate mineral ($Fe_3(PO_4)_2 \cdot 8\text{H}_2\text{O}$), indicating localized iron enrichment.
+
+---
+
+## 2. Structural & Textural Components
+* **Phosphatic Pellets**: Rounded, well-sorted grains (100–500 µm) of microcrystalline francolite. They represent the highest concentration of $P_2O_5$ (up to 38%).
+* **Bioclasts & Bonebeds**: Fish teeth, bones, and scales consisting of dense fluorapatite. High concentrations of bones form distinct stratigraphic markers known as **bonebeds** (e.g., in Couche 2).
+* **Exogangue (Matrix)**: The clay-carbonate material surrounding the pellets. It is dominated by dolomite, calcite, illite, kaolinite, and quartz.
+* **Intercalaries (Sterile Wastes)**: Sterile interbeds that must be excavated during mining:
+  * **Silex (Chert)**: Hard siliceous beds or nodules formed by diagenetic replacement.
+  * **Marnes**: Mixed clay-carbonate rock.
+  * **Argiles**: Clay layers (e.g., the yellow clay marker above Couche 3).
+
+---
+
+## 3. Economic Quality Parameters
+* **BPL (Bone Phosphate of Lime)**: The historical trade grade unit, calculated as:
+  $$\text{BPL} = 2.1852 \times \text{P}_2\text{O}_5$$
+* **P Grade**: Elemental phosphorus content, calculated as:
+  $$\text{P} = 0.4364 \times \text{P}_2\text{O}_5$$
+* **Impurities**: Grade limits are strictly tracked for $MgO$, $SiO_2$, and toxic $Cd$ (cadmium).
+
+---
+
+## Related Notes
+- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
+* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
+- [[04_Knowledge Base/wiki/sources/benhassenPetrographieGeochimieComparees2010|Ben Hassen et al. (2010)]]
+- [[04_Knowledge Base/wiki/sources/moulouaElaborationProjetRehabilitation2012|Mouloua (2012)]]\n
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy.md
+
+---
+tags:
+date: 2026-06-13
+summary: "The linear systematic sampling strategy used during the first year of research to characterize Panel 2 waste rock piles at the Benguerir mine."
+aliases:
+---
+
+
+# Phosphate Waste Rock Piles Sampling Strategy
+
+## Definition
+The **Phosphate Waste Rock Piles Sampling Strategy** represents the systematic sampling protocols designed to obtain representative physical samples of heterogeneous waste rock piles (overburden and interlayers) to calibrate chemical, mineralogical, and remote-sensing analyses.
+
+## First-Year Linear Sampling Protocol (Panel 2)
+
+```mermaid
+graph LR
+    A["Panel 2 Transect (662 m)"] -->|Linear Systematic Sampling| B["Target Step: 5 m (slope adjusted)"]
+    B --> C["100 Samples Collected"]
+    C -->|Homogenization & Quartering| D["Sub-samples for XRD, XRF, ICP-AES"]
+```
+
+During his first PhD year (February–March 2022), Abdelhak conducted a 3-week sampling campaign at the Benguerir open-pit mine focused on **Panel 2**:
+*   **Transect length**: Collected samples along a linear transect of **662 meters**.
+*   **Target Step**: The systematic sampling step was designed to be **5 meters** to mirror the linear exploitation direction of the draglines and dragline dumping patterns.
+*   **Adjustments**: The distance was adjusted dynamically due to slope instabilities and the heterogeneous dumping of waste rock piles, resulting in some random spacing.
+*   **Sample Count**: A total of **100 samples** were collected.
+*   **Homogenization**: Samples were crushed, homogenized, and quartered into sub-samples for laboratory characterization:
+    *   **XRD**: 20 representative samples were ground to $<75\,\mu\text{m}$ for crystalline phase analysis.
+    *   **XRF**: Pulverized and mixed with binder (Apex press) for elemental analysis.
+    *   **Thin Sections**: 10 thin sections prepared to inspect grain textures.
+
+## Spatially Constrained Sampling Strategy (Canonical Thesis Method)
+As the PhD research matured (moving into Chapter 1 and Chapter 4), this linear 1D transect approach was replaced by a 2D spatial grid strategy to better capture regional mining dump variations:
+*   **Sample Count**: **103 samples** collected.
+*   **Spatial Extent**: Distributed over a wide area of approximately **60 km²** covering diverse mining sectors (rather than just Panel 2).
+*   **Validation Purpose**: Calibrated the 2D spatial predictions of Explainable Machine Learning (XML) models applied to PRISMA and EnMAP scenes, minimizing spatial autocorrelation effects.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/sources/Abdelhak2022Progressive]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+- [[Spatially Constrained Cross-Validation]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Phosphatogenesis and Phosphate Deposit Formation.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Phosphatogenesis and Phosphate Deposit Formation
+
+**Phosphatogenesis** refers to the geochemical and sedimentological processes that lead to the accumulation and concentration of phosphorus in marine sediments, eventually forming economically viable **phosphorite** (or **phosphatite**) deposits.
+
+---
+
+## 1. Upwelling and Nutrient Supply
+The formation of major sedimentary phosphate deposits (such as the North African phosphogenic province) is primarily driven by **coastal upwelling** systems:
+* **Mechanism**: Wind-driven ocean currents deflect surface waters, forcing deep, nutrient-rich (cold) waters to rise to the photic zone.
+* **Bioproductivity**: These upwelling waters are highly enriched in dissolved phosphate, triggering massive blooms of phytoplankton and zooplankton.
+* **Organic Influx**: The death and deposition of these organisms create a massive flux of organic carbon, nitrogen, and phosphorus to the shallow seafloor.
+
+---
+
+## 2. Diagenetic Precipitation of CFA
+The direct precipitation of phosphate from normal seawater is inhibited by magnesium ions ($Mg^{2+}$). Instead, phosphatogenesis occurs as an **early diagenetic process** within the top few centimeters of organic-rich sediments:
+* **Francolite (CFA)**: The primary mineral formed is **Carbonate Fluorapatite (CFA)**, also known as **francolite** (with a simplified formula of $\text{Ca}_{10}[(\text{PO}_4)_{6-x}(\text{CO}_3)_x]\text{F}_{2+x}$).
+* **Phosphorus Release**: Microbial degradation of organic matter, dissolution of biogenic debris (such as fish bones and scales), and the reduction of iron oxides (iron-redox pumping, which desorbs phosphate) release high concentrations of dissolved $PO_4^{3-}$ into the sediment pore waters.
+* **pH and Carbonate Control**: Francolite precipitation occurs under moderately reducing, sub-oxic conditions. In deep, highly anoxic sediments, the rapid accumulation of dissolved alkalinity (carbonates) prevents CFA crystallization. Fluoride ($F^-$) diffusion from the overlying water column is also required to stabilize the CFA structure.
+
+---
+
+## 3. Pellet and Particle Formation
+The granular, pelletal texture characteristic of Moroccan phosphates is formed through:
+* **Fecal Pellets**: Marine organisms (specifically fish and benthic invertebrates) ingest organic matter and excrete P-rich fecal pellets. These pellets serve as confined micro-environments where organic decay maintains local reducing conditions, promoting rapid diagenetic replacement by CFA.
+* **Bioclast Epigenesis**: Dissolved phosphate replaces the calcium carbonate shells of microfossiles (foraminifera, bivalves) or fish bones, preserving their structures (epigénie).
+* **Sediment Winnowing**: Dynamic bottom currents winnow away fine clay and carbonate mud, leaving behind concentrates of heavy phosphatic pellets.
+
+---
+
+## Related Notes
+- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
+* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
+- [[04_Knowledge Base/wiki/sources/benhassenPetrographieGeochimieComparees2010|Ben Hassen et al. (2010)]]
+- [[04_Knowledge Base/wiki/sources/ouabouSynthesePhosphatogeneseBassins2015|Ouabou (2015)]]\n
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Project overview note for the Shepelife Lithology Mapping project, mapping regional formations using PRISMA hyperspectral data and machine learning."
+---
+
+
+# 📁 Project Overview — Shepelife Lithology Mapping
+
+This note provides an overview of the **Shepelife Lithology MasterProject**, a structured machine learning pipeline developed in December 2025. It appears to be a supervised student project or an early pipeline prototype designed to map surface geological formations (lithologies) in the Shepelife region using PRISMA hyperspectral satellite data.
+
+---
+
+## 🎯 Project Objectives
+
+The primary goal of the Shepelife project is to evaluate the feasibility of utilizing spaceborne hyperspectral remote sensing to classify and map geological units in a semi-arid terrain. 
+Specifically, it attempts to:
+1.  Ingest and preprocess PRISMA VNIR and SWIR bands.
+2.  Extract spectral reflectances from regions of interest (ROIs) corresponding to verified geological field points.
+3.  Evaluate multiple machine learning (ML) classification models to map regional lithologies (e.g., Dolomitic Marl).
+
+---
+
+## 🛰️ PRISMA Satellite Data Involved
+
+The project utilizes raw and preprocessed bands from the **PRISMA hyperspectral sensor** (30m spatial resolution), focusing on the concatenated VNIR and SWIR channels:
+*   **01_preprocessing/PRISMA_SWIR_tmp.tif**: SWIR reflectance bands (920–2505 nm) covering key carbonate and clay absorption features.
+*   **01_preprocessing/PRISMA_VNIR_tmp.tif**: VNIR bands (400–1010 nm) covering iron oxide spectral slopes.
+*   **02_vnir_swir_concatenated/PRISMA_VNIR_SWIR_ROI_merged.tif**: The concatenated multi-band GeoTIFF used for training ML feature vectors.
+*   **Spatial Bounds**: Mapped in UTM Zone 29N (EPSG:32629) with coordinates stored in [PRISMA_metadata_utm.json](file:///D:/Shepelife_Lithology_MasterProject/01_preprocessing/PRISMA_metadata_utm.json).
+
+---
+
+## 🤖 Machine Learning Classifiers Evaluated
+
+The pipeline runs comparisons across five supervised classifiers:
+1.  **Random Forest (RF)**: Ensemble bagger utilizing decision trees.
+2.  **Support Vector Machine (SVM)**: Kernel-based margin classifier.
+3.  **Gradient Boosting (GB)**: Sequential boosting model.
+4.  **K-Nearest Neighbors (KNN)**: Distance-based instance classifier.
+5.  **Logistic Regression**: Linear statistical classification model.
+
+Models were evaluated on two different feature representations: **raw spectral bands** and **derivative spectra** (first derivatives to resolve overlapping absorption peaks).
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA Satellite]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis|Shepelife Accuracy Analysis]]
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Data Asset — Shepelife Lithology Datasets|Shepelife Datasets]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
+*   **defense-link**:: [[Thesis_Defense_Preparation|Defense Prep Q9]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Raunkiaer's Life Forms.md
+
+---
+date: 2026-06-13
+summary: "Raunkiaer's life-form system categorizes plants based on the position and protection of their perennating buds during adverse seasons."
+aliases:
+tags:
+---
+
+
+# Raunkiaer's Life Forms
+
+**Raunkiaer's life-form system** is a standardized ecological classification scheme proposed by Danish botanist Christen C. Raunkiaer. It categorizes plant species based on the position and protection of their perennating (survival) buds or shoot apexes relative to the soil surface during unfavorable seasons (e.g., dry seasons or cold winters).
+
+In arid and semi-arid environments like Moroccan phosphate mine sites, this system provides deep insights into how plant communities adapt to water scarcity, extreme heat, and severe substrate degradation (such as phosphate waste rocks).
+
+---
+
+## 🌿 Key Life Form Categories
+
+| Life Form | Abbreviation | Bud Position & Characteristics | Adaptation Strategy in Mining Sites |
+|---|---|---|---|
+| **Therophytes** | `Th` | Annual plants that survive unfavorable seasons solely as **seeds**. They complete their life cycle rapidly during wet periods. | **Pioneer colonizers.** Representing 45.0% of species in Moroccan phosphate mines, they rapidly cover waste rock dumps after rainfall. |
+| **Chamaephytes** | `Ch` | Low-growing perennial plants with buds located on shoots **close to the ground** (less than 25 cm height). | Highly drought-tolerant shrubs/herbs (e.g. *Atriplex nummularia*, *Haloxylon scoparium*) that stabilize waste rock surfaces. |
+| **Hemicryptophytes** | `Hem` | Perennials with perennating buds located **at the soil surface**, often protected by leaf litter or rosette formations. | Grasses and tuft-forming herbs that withstand soil compaction and wind erosion on slopes. |
+| **Phanerophytes** | `Ph` | Woody trees or tall shrubs with buds located **high in the air** (above 25–50 cm). | Rare on raw waste rocks; typical of older, rehabilitated areas or surrounding natural soils. |
+| **Cryptophytes / Geophytes** | `G` | Perennials with buds completely buried **underground** in bulbs, rhizomes, or tubers. | Adapted to survive prolonged drought seasons by storing nutrients and moisture deep in the substrate. |
+
+---
+
+## 🛠️ Ecological Reclamation Relevance
+
+* **Soil Stabilization Indicators:** The dominance of Therophytes (annuals) indicates a highly dynamic, rainfall-dependent vegetation cover. A transition toward Hemicryptophytes and Chamaephytes indicates maturing soil profiles and stabilizing environmental conditions.
+* **Microclimate Development:** Chamaephytes form low-lying vegetative canopies, which accumulate organic matter, reduce surface temperatures, and trap windblown seeds (the "nurse plant" effect).
+* **Calibration for Remote Sensing:** Distinguishing these life forms in hyperspectral remote sensing is vital. Annual Therophytes display a brief, intense green-up phase, whereas perennial Chamaephytes show a stable, low-albedo spectral signature throughout the dry season.
+
+---
+
+## 🕸️ Links
+- [[zineNativePlantDiversity2023]] — The primary study applying Raunkiaer's classification
+- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Reclamation Monitoring.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Reclamation Monitoring (Chapter 3)
+
+## Definition
+Chapter 3 quantifies the impact of **backfilling** — the primary reclamation strategy at Benguerir — on phosphate waste rock surface characteristics, using EnMAP hyperspectral data and spectral unmixing.
+
+**Exact thesis title:** *"Assessing the impact of backfilling on [[Phosphate Mine Waste]] rock characteristics in Benguerir, Morocco: An integrated field, laboratory, and hyperspectral remote sensing approach"*
+
+> **Important:** The reclamation strategy is specifically **backfilling** (remblayage), not generic revegetation. Backfilling = re-depositing material over waste rock piles to modify surface composition and prepare for revegetation.
+
+---
+
+## Two Zone Types
+
+| Zone | Code | Description |
+|------|------|-------------|
+| Reclaimed Zone | **RZ** | Has undergone backfilling, leveling, and preparation for revegetation |
+| Reference Waste Rock Zone | **RWR** | Undisturbed deposited waste — "zero reclamation" reference |
+
+---
+
+## Study Design (from manuscript)
+
+| Parameter | Value |
+|-----------|-------|
+| XRF samples per zone | n = 32 (balanced) |
+| EnMAP valid pixels (RZ) | 49 (balanced to 32) |
+| EnMAP valid pixels (RWR) | 47 (balanced to 32) |
+| EnMAP valid bands | **189** (spanning 418–2445 nm) |
+| Balancing seed | 42 (reproducible) |
+| Spectral concordance (full vs. balanced) | Pearson r = 0.990 |
+
+---
+
+## What Backfilling Does Spectrally
+
+**XRF evidence:** Statistically significant geochemical contrasts (BH FDR-corrected q < 0.05) in:
+P₂O₅, CaO, SiO₂, Al₂O₃, MgO, K₂O, and Na₂O between RZ and RWR.
+
+Interpretation: Backfilling redistributes and mixes stratigraphically distinct lithological units, changing the surface geochemistry and thus the spectral response.
+
+---
+
+## Spectral Separation (Per-Band Analysis)
+
+**Mann-Whitney U test on all 189 valid EnMAP bands:**
+- Significant zone separation across **all 189/189 valid bands** (q < 0.05 after BH FDR correction)
+- **Median effect size: r = 0.859** (large by conventional standards)
+- Spectral autocorrelation ρ₁ ≈ 0.992 → effective independent comparisons ≈ 17 → FDR correction applied
+
+**Key diagnostic features:**
+| Feature | Wavelength | Δ (RZ−RWR) | p-value |
+|---------|-----------|-----------|--------|
+| Carbonate combination | ~2330 nm | −0.019 | 0.0001 |
+| Iron oxide shoulder | ~900 nm | +0.006 | 0.0007 |
+
+---
+
+## VCA-FCLS Unmixing Results (4 Endmembers)
+
+| Endmember | Dominant zone | RWR mean | RZ mean | Δ |
+|-----------|--------------|---------|--------|---|
+| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | +0.559 |
+| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | −0.483 |
+
+Bootstrap 95% CI excludes zero for both EM3 and EM4.
+
+---
+
+## Statistical Validation
+
+| Test | Result |
+|------|--------|
+| Bootstrap (5,000 iter.) | 95% CI excludes zero for EM3 and EM4 |
+| Permutation test (10,000 iter.) | p = 0.0001 |
+| Spatial holdout | Same-sign fraction = 1.00 across all holdouts |
+| **Spatially blocked CV** | **BAC = 0.984 ± 0.031; AUC = 1.000** |
+| Permutation p (spatial block) | Empirical p = 0.002 |
+
+> The near-perfect BAC (0.984) reflects the strong spectral separation induced by backfilling — confirmed non-spurious by permutation test and spatial blocking. This is very different from the Ch.2 result (BAC=0.60–0.67) because the RZ vs. RWR contrast is a binary comparison at zone scale, not a fine-grained 4-class lithological mapping.
+
+---
+
+## [[Reclamation Progress Index]] (RPI)
+
+| Zone | RPI median | 95% CI |
+|------|-----------|--------|
+| **RZ (reclaimed)** | **0.896** | [0.860–0.927] |
+| **RWR (reference)** | **0.203** | [0.161–0.221] |
+
+XRF concordance: Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
+
+→ Full details: [[Reclamation Progress Index]]
+
+---
+
+## Implications
+
+1. EnMAP Level-2A at 30m can reliably discriminate reclaimed from undisturbed phosphate waste (all 189 bands significant)
+2. Near-perfect spatial CV accuracy (BAC=0.984) establishes EnMAP as operationally viable for large-scale monitoring
+3. No bespoke airborne campaigns needed — 27-day revisit at no additional cost
+4. RPI provides quarterly progress reporting tool for OCP Group
+
+---
+
+## Related Concepts
+- [[EnMAP Satellite]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[Reclamation Progress Index]]
+- [[Phosphate Mine Waste]]
+- [[OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Reclamation Progress Index.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Reclamation Progress Index (RPI)
+
+## Definition
+The Reclamation Progress Index (RPI) is a **novel spectral index** developed in Chapter 3 of Abdelhak's thesis. It provides a satellite-derived metric (0–1) of reclamation progress, calibrated isotonically against field XRF geochemical support scores.
+
+**This is the most original methodological contribution of the entire thesis.**
+
+---
+
+## Validated Results (from thesis manuscript)
+
+| Zone | RPI median | 95% CI |
+|------|-----------|--------|
+| **RZ (Reclaimed — backfilled)** | **0.896** | [0.860–0.927] |
+| **RWR (Reference Waste Rock)** | **0.203** | [0.161–0.221] |
+
+**XRF concordance:** Spearman ρ = 0.845, p = 1.74 × 10⁻¹²
+
+**Transitional fraction** (RPI 0.35–0.65): characterizes intermediate reclamation states
+
+**RZ-like classification (RPI > threshold):** 90.625% of RZ pixels correctly identified
+
+---
+
+## Construction
+
+### Step 1: EnMAP preprocessing
+- 189 valid bands (418–2445 nm after masking)
+- 32 balanced pixels per zone (from 49 RZ + 47 RWR valid pixels, seed=42)
+- Spectral concordance: Pearson r = 0.990 (full vs. balanced subset)
+
+### Step 2: VCA endmember extraction (k=4)
+Four scene-derived endmembers extracted from combined RZ+RWR spectra:
+- **EM3:** Dominant in RWR (raw waste) — mean RWR=0.612, mean RZ=0.053
+- **EM4:** Dominant in RZ (backfilled) — mean RWR=0.032, mean RZ=0.516
+
+### Step 3: FCLS abundance estimation
+- Fully Constrained Least Squares: non-negativity + sum-to-one
+- Parallel implementation per pixel
+- Output: abundance fraction for each endmember per pixel
+
+### Step 4: Abundance ratio → Raw RPI
+```
+Raw_RPI = EM4_abundance / (EM3_abundance + EM4_abundance)
+```
+Higher value = more "reclaimed" endmember relative to "raw waste" endmember.
+
+### Step 5: Isotonic calibration against XRF
+- At matched pixel-XRF locations: relate Raw_RPI to XRF geochemical support score
+- **Isotonic regression:** monotone non-decreasing function, no linearity assumption
+- Calibrated RPI: 0 (no reclamation) → 1 (full target state)
+
+**Why isotonic?** The relationship is monotone but non-linear; isotonic regression is non-parametric and enforces the correct ordering without assuming any functional form.
+
+---
+
+## Statistical Validation
+
+| Test | Result |
+|------|--------|
+| Spearman ρ (RPI vs. XRF) | 0.845 |
+| p-value | 1.74 × 10⁻¹² |
+| Zone difference significance | Clearly differentiated (non-overlapping 95% CI) |
+| Spatial holdout fraction | 1.00 (same-sign across all holdouts) |
+
+---
+
+## Spatial Application
+- Computed for every valid pixel in EnMAP scene
+- Maps entire 36 km² mine in one pass
+- Repeatable with future EnMAP acquisitions → operational monitoring
+- OCP Group can track reclamation trajectory without additional field campaigns
+
+---
+
+## Potential for Operational Use
+
+> "The RPI can be computed automatically from any future EnMAP acquisition, providing OCP with a quarterly reclamation progress report at zero additional field cost."
+
+Generalizable framework: the calibration approach (unmixing → isotonic calibration → XRF) can be applied to any satellite hyperspectral mission for any mine type with geochemical ground truth.
+
+---
+
+## Defense Talking Point
+If asked about broader impact: "The RPI framework is generalizable — VCA-FCLS + isotonic XRF calibration can be applied to any HSI sensor (PRISMA, DESIS, future missions) and any mine type where geochemical ground truth exists. This is not specific to EnMAP or Benguerir — it's an operational template for satellite-based mine [[Reclamation Monitoring]]."
+
+---
+
+## Related Concepts
+- [[Reclamation Monitoring]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[EnMAP Satellite]]
+- [[Handheld XRF]]
+- [[Phosphate Mine Waste]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Research Note — Shepelife Classification Accuracy Analysis.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Research note analyzing the low lithological classification accuracies (15-27%) in the Shepelife model runs and outlining geological/remote-sensing causes."
+---
+
+
+# 📊 Research Note — Shepelife Classification Accuracy Analysis
+
+This research note documents and analyzes the low overall accuracies (**15.38% to 26.92%**) observed in the model evaluation summaries of the **Shepelife Lithology MasterProject** (dated December 2025). 
+
+---
+
+## 📈 Summary of Classifier Results
+
+Model accuracies were evaluated under two different inputs (raw spectral reflectances vs. derivative reflectances) across five classifiers:
+
+### 1. Raw Spectral Inputs
+*   **Random Forest**: $23.08\%$
+*   **Logistic Regression**: $23.08\%$
+*   **Support Vector Machine (SVM)**: $19.23\%$
+*   **Gradient Boosting**: $17.31\%$
+*   **K-Nearest Neighbors (KNN)**: $15.38\%$
+*   *Source Document*: [Spectral_ML_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Model_Summary.csv)
+
+### 2. Derivative Spectral Inputs (First Derivative)
+*   **Random Forest**: $26.92\%$
+*   **Logistic Regression**: $25.00\%$
+*   **K-Nearest Neighbors (KNN)**: $21.15\%$
+*   **Support Vector Machine (SVM)**: $19.23\%$
+*   **Gradient Boosting**: $19.23\%$
+*   *Source Document*: [Spectral_ML_Derivative_Model_Summary.csv](file:///D:/Shepelife_Lithology_MasterProject/07_results/Spectral_ML_Derivative_Model_Summary.csv)
+
+*Observations*: Preprocessing spectra via first derivatives yielded a minor performance boost (e.g., Random Forest accuracy improved from $23.08\%$ to $26.92\%$ and KNN from $15.38\%$ to $21.15\%$), but the models still severely underperformed.
+
+---
+
+## 🔍 Why the Models Likely Underperformed
+
+These low classification accuracies are symptomatic of common bottlenecks in geological remote sensing. The project likely failed to generalize due to several key factors:
+
+### 1. Severe Class Imbalance & Metric Selection
+Geological formations are naturally imbalanced (e.g., small, rich outcrops vs. massive background dolomite or soil). If the model was evaluated using standard **Overall Accuracy (OA)** on an imbalanced dataset, the score would be highly skewed. As documented in [[Thesis_Defense_Preparation|Defense Prep Q9]], standard metrics fail on geological classes, and models must be evaluated using **Balanced Accuracy (BAC)**.
+
+### 2. Spatial Autocorrelation Bias (Random Splits)
+If the project utilized standard random cross-validation splits (e.g., random train-test splits) on spatial pixel grids, it would suffer from spatial autocorrelation. Pixels close to each other share identical spectral and atmospheric properties. Random splits lead to severe overfitting in training while showing terrible performance when evaluated on truly independent validation sets (requiring **Spatially Blocked Cross-Validation (Block-CV)** to resolve).
+
+### 3. Lack of Bad Band Masking & Atmospheric Preprocessing
+PRISMA satellite scenes contain multiple atmospheric absorption bands (around 1400 nm and 1900 nm) and low signal-to-noise ratio (SNR) channels at the edges of the VNIR/SWIR detectors. If these "bad bands" were not masked prior to training, the ML classifiers would build decision boundaries on atmospheric noise rather than true surface mineral chemistry, resulting in model failure.
+
+### 4. Scale Mismatch: Sub-Pixel Mixing
+Point-scale geochemical samples (such as XRF readings) from [Balanced_Lithology_Dataset.geojson](file:///D:/Shepelife_Lithology_MasterProject/04_clustering/Balanced_Lithology_Dataset.geojson) were matched directly to 30-meter PRISMA pixels. A single 30m pixel is rarely composed of a single, pure lithological unit. It represents an intimate mixture of dolomite, calcite, clay, and vegetative cover. Pure classifiers fail on mixed pixels; sub-pixel **Linear Spectral Unmixing (LSU)** is required to model these fractional abundances.
+
+---
+
+## 🛡️ Thesis Context & Validation
+> [!IMPORTANT]
+> These low accuracies (**15–27%**) represent the results of this early prototype/student project and **do not** represent the final classification performance of your PhD thesis models. In your final Chapter 2 workflow, utilizing spatially blocked cross-validation and optimized **Extra Trees** classifiers, you achieved a **Balanced Accuracy (BAC) of 0.60–0.67** and **AUC > 0.95** (validated in [[Thesis_Defense_Preparation|Defense Prep Q6]]).
+
+---
+
+## 🕸️ Relationships & Connections
+*   **related-topic**:: [[04_Knowledge Base/wiki/concepts/Project Overview — Shepelife Lithology Mapping|Shepelife Project Overview]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
+*   **related-concept**:: [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral|Machine Learning for Hyperspectral]]
+*   **source-index**:: [[04_Archives/D-Drive/D-Drive — Shepelife-Lithology-MasterProject]]
+*   **discrepancy-log**:: [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A mathematical technique that refines crystallographic structures to fit a measured XRD pattern, enabling quantitative mineral phase analysis."
+aliases:
+---
+
+
+# Rietveld Refinement in XRD
+
+## Definition
+**Rietveld Refinement** is a mathematical method developed by Hugo Rietveld in 1969. It uses a least-squares approach to refine structural parameters (such as unit cell dimensions, atomic positions, site occupancies, and temperature factors) and instrumental parameters (such as background, peak shape, and alignment) to fit a simulated diffraction pattern to a measured X-ray powder diffraction (XRD) pattern. It is the standard method for quantitative phase analysis (QPA).
+
+## Mathematical Principle
+The method minimizes the residual sum of squares $S_y$ between the observed intensities $y_i(\text{obs})$ and calculated intensities $y_i(\text{calc})$ at each step $i$ of the diffractogram:
+$$S_y = \sum_{i} w_i \left[ y_i(\text{obs}) - y_i(\text{calc}) \right]^2$$
+where:
+*   $w_i = 1 / y_i(\text{obs})$ is the statistical weight assigned to point $i$,
+*   $y_i(\text{calc})$ is the sum of contributions from all crystalline phases and background.
+
+## Numerical Quality Indicators (R-Values)
+Rietveld software (such as HighScore Plus) outputs several numerical indicators to judge the quality of the fit:
+
+| Parameter | Name | Formula / Description |
+|-----------|------|-----------------------|
+| **$R_{\text{wp}}$** | Weighted Profile R-factor | $\left[ \frac{\sum w_i (y_i(\text{obs}) - y_i(\text{calc}))^2}{\sum w_i y_i(\text{obs})^2} \right]^{1/2}$. Mathematically, the most significant indicator as its numerator is the minimized residual. |
+| **$R_{\text{exp}}$** | Expected R-factor | $\left[ \frac{N - P}{\sum w_i y_i(\text{obs})^2} \right]^{1/2}$ where $N$ is the number of data points and $P$ is the number of refined parameters. Represents the best possible fit based on statistics. |
+| **$R_{\text{p}}$** | Profile R-factor | $\frac{\sum |y_i(\text{obs}) - y_i(\text{calc})|}{\sum y_i(\text{obs})}$. Measures raw profile absolute differences. |
+| **$\text{GOF}$** | Goodness of Fit | $\text{GOF} = \chi^2 = \left( \frac{R_{\text{wp}}}{R_{\text{exp}}} \right)^2$. A value of $1.0$ indicates an ideal fit; values between $1.5$ and $3.0$ are common for geological refinements. |
+
+## Applications
+In the XRD reports compiled in [XRD_reports.zip](file:///D:/PHD-1st/XRD_reports.zip), Rietveld refinement was conducted on raw scans of Benguerir waste rock samples:
+*   **Sample Z2-1** (`Z21.docx`): Refinement converged with $R_{\text{exp}} = 11.09\%$, $R_{\text{wp}} = 30.15\%$, and $\text{GOF} = 2.72$. It identified Palygorskite ($11.110\%$) and Montmorillonite ($3.021\%$) alongside major calcite, dolomite, and quartz.
+*   **Sample Z2-5** (`Minerals-Z2-5.docx`): Converged with $R_{\text{exp}} = 11.27\%$, $R_{\text{wp}} = 34.85\%$, and $\text{GOF} = 3.09$. Identified $21.524\%$ Hydroxylapatite.
+*   **Sample Z2-10** (`Z2-10-minerals.docx`): Converged with $R_{\text{exp}} = 11.71\%$, $R_{\text{wp}} = 37.93\%$, and $\text{GOF} = 3.24$, yielding $57.366\%$ Hydroxylapatite and $38.135\%$ Calcite.
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# SWIR-HHXRF Spectral-Elemental Validation Criteria
+
+The **SWIR-HHXRF Spectral-Elemental Validation Criteria** represent the cross-disciplinary integration rules used in Chapter 1 of the thesis to validate mineralogical phases identified by VNIR–SWIR spectroscopy against elemental concentrations measured by Handheld XRF (HHXRF).
+
+---
+
+## 1. Validation Criteria Table
+
+| Mineral Phase | Diagnostic SWIR Features | Supporting HHXRF Elemental Signatures |
+| :--- | :--- | :--- |
+| **Dolomite / Calcite** | Carbonate absorption near **2320–2350 nm**. (Source: [section_methods.txt:L28](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L28)). | Elevated CaO and/or MgO. Mg/Ca ratio discriminates dolomite from calcite. (Source: [section_methods.txt:L28](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L28)). |
+| **Illite** | Sharp, symmetric Al-OH absorption band centered at **2200–2208 nm**. (Source: [section_results.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L4)). | Elevated K₂O (up to **1.37 wt%**), Al₂O₃ (up to **7.25 wt%**), and SiO₂ (up to **56.2 wt%**). K/Al ratios support K-bearing clays. (Source: [section_methods.txt:L29](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L29)). |
+| **Montmorillonite** | Broad Al-OH absorption band near **2200 nm**. (Source: [section_results.txt:L4](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L4)). | High Al₂O₃ and SiO₂; variable CaO/Na₂O; consistently low K₂O (**< 1.4 wt%**). (Source: [section_methods.txt:L30,L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L30#L35)). |
+| **Kaolinite** | Al-OH doublet feature near **2165 nm** and **2200 nm**. (Source: [section_methods.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L31)). | High Al₂O₃ and SiO₂; low K₂O, CaO, MgO, and Fe₂O₃; Al/Si ratios distinguish from other silicates. (Source: [section_methods.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L31)). |
+| **Fluorapatite** | Subtle PO₄ absorption feature near **2150 nm** (carbonate fluorapatite). (Source: [section_methods.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L32)). | Elevated P₂O₅ (up to **23.86 wt%**), high CaO, and elevated strontium (Sr). (Source: [section_methods.txt:L32](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L32); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L32)). |
+| **Quartz** | No diagnostic features in VNIR–SWIR; affects continuum shape. (Source: [section_methods.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L33)). | High SiO₂ content in the absence of significant Al₂O₃ or other cation oxides. (Source: [section_methods.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L33)). |
+
+---
+
+## 2. Spectral Library Matching Settings
+To help identify the subtle phosphate feature, the ECOSTRESS library matching workflow used:
+*   **Weighted Objective**: A weight of **5** was applied specifically to the phosphate absorption window between **2100 nm** and **2300 nm** during RMSE calculations to resolve the PO₄ band. (Source: [section_methods.txt:L19](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods.txt#L19)).
+*   **Multi-Metric Matching**: Confidently verified mineral calls by combining RMSE, SAM, SID, and $R^2$, rather than relying on global $R^2$ alone, which can be depressed in intimate mineral mixtures. (Source: [section_results.txt:L18](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results.txt#L18); confirmed in [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L44)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme|Phosphate Mineral Validation Scheme]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Shannon Entropy Uncertainty Mapping
+
+## Definition
+Shannon entropy is an information-theoretic measure of uncertainty applied to probabilistic classifier outputs. In Chapter 2, it maps per-pixel prediction uncertainty across the PRISMA mineral classification map.
+
+---
+
+## Formula
+```
+H(x) = −Σᵢ p(cᵢ|x) × log₂[p(cᵢ|x)]
+```
+Where:
+- H(x) = entropy at pixel x (in bits)
+- p(cᵢ|x) = predicted probability of class i at pixel x
+- Sum over all K mineralogical classes
+
+**Bounds:**
+- H = 0 bits: Certain — one class has probability = 1, all others = 0
+- H = log₂(K) bits: Maximum uncertainty — all K classes equally probable
+
+---
+
+## Physical Interpretation for Mineralogy
+
+| Entropy level | Meaning |
+|---------------|---------|
+| H ≈ 0 | Pixel is spectrally pure, clear mineral signature |
+| H = 0.5–1.5 | Moderate uncertainty — possible mixed pixel or boundary |
+| H > 2.0 | High uncertainty — mixed pixel, unusual spectrum, or outside training distribution |
+
+**Where high entropy appears:**
+- Pixel boundaries between mineralogical units (transition zones)
+- Mixed pixels combining multiple minerals in equal proportions
+- Pixels with atmospheric artifacts or sensor noise
+- Areas outside the spectral range of training data (extrapolation)
+
+---
+
+## Role in Thesis Chapter 2
+
+1. **Diagnostic:** Identify pixels where the model is uncertain
+2. **Priority areas for future fieldwork:** High-entropy zones should be validated first
+3. **Quality control:** Threshold-based masking of uncertain predictions before generating final mineral map
+4. **Honest reporting:** Entropy map alongside classification map shows where the model can and cannot be trusted
+
+---
+
+## Connection to Spatially Constrained CV
+
+Both entropy mapping and spatially constrained CV address model reliability:
+- **Spatial CV:** Honest generalization metric during training (removes autocorrelation)
+- **Entropy map:** Honest per-pixel uncertainty during prediction (identifies low-confidence areas)
+
+Together they form a rigorous uncertainty framework for the classification.
+
+---
+
+## Calculation in Random Forest / Extra Trees
+
+Random Forest and Extra Trees output class probabilities as the mean of per-tree votes:
+```python
+proba = clf.predict_proba(X)  # shape: (n_pixels, n_classes)
+entropy = -np.sum(proba * np.log2(proba + 1e-10), axis=1)
+```
+This probability vector is what feeds the entropy calculation.
+
+---
+
+## Defense Talking Point
+
+"Shannon entropy maps provide the jury with spatial honesty about where our model is confident and where it isn't. Rather than presenting a single classification map as if every pixel were equally reliable, we communicate uncertainty spatially — which is the scientifically rigorous approach."
+
+---
+
+## Related Concepts
+- [[Machine Learning for Hyperspectral]]
+- [[Spatially Constrained Cross-Validation]]
+- [[PRISMA Satellite]]
+- [[Hyperspectral Imaging]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Spatial Uncertainty & Posterior Probability Score Mapping
+
+In Chapter 2, prediction reliability for lithological mapping is evaluated at a pixel-by-pixel level across the full PRISMA scene using two complementary metrics: **spatial Shannon entropy** (to quantify overall prediction uncertainty) and **maximum posterior probabilities** (to measure classification confidence).
+
+---
+
+## 1. Metrics & Spatial Interpretation
+
+* **Spatial Shannon Entropy ($H$)**: Used to map classification uncertainty across the Benguerir waste rock piles.
+  * *Low Entropy*: Dominates the Marl and Limestone zones, indicating high classification consensus where spectral signatures are well-defined. (Source: [section_results_ch2.txt:L48](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L48)).
+  * *High Entropy*: Concentrated along lithological boundaries and transitional corridors (specifically where Phosphate and Siliceous facies interact). These match physical zones of mineralogical mixing at the **30 m** pixel scale. (Source: [section_results_ch2.txt:L48](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L48); [manuscript_clean_ch2.txt:L251](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L251)).
+* **Maximum Posterior Class Probability**: Used to construct confidence maps.
+  * *High Posterior Probabilities ($> 0.8$)*: Extensive for ensemble tree-based models (Extra Trees and Random Forest), particularly within carbonate-dominated sectors. (Source: [section_results_ch2.txt:L53](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L53)).
+  * *Low Posterior Probabilities*: Concentrated along transitional boundaries and phosphate-siliceous interaction corridors, reflecting sub-pixel spectral mixing rather than simple algorithmic noise. (Source: [section_results_ch2.txt:L54](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L54)).
+
+---
+
+## 2. Important Methodological Caveat: Relative vs. Absolute Probabilities
+
+During the defense, examiners may ask if the posterior probabilities are calibrated. The thesis explicitly notes that:
+* **No Formal Calibration**: No probability calibration techniques (such as Platt scaling or Isotonic regression) were applied to the machine learning outputs for Chapter 2. (Source: [manuscript_clean_ch2.txt:L255](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L255)).
+* **Interpretation**: Because the model probabilities are uncalibrated, Shannon entropy and maximum posterior probabilities must be interpreted as **relative indicators of prediction uncertainty** rather than absolute probabilistic estimates of classification likelihood. (Source: [manuscript_clean_ch2.txt:L255](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L255)).
+* **Geological Meaning**: The spatial structuring of these uncertainty fields (concentrating along boundaries and mixing zones) confirms that they correspond to physical geological features (transitional facies) rather than random noise, validating their use as a qualitative decision-support tool. (Source: [manuscript_clean_ch2.txt:L251-252](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/manuscript_clean_ch2.txt#L251-L252)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
+* [[04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty|Shannon Entropy Uncertainty]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Spatially Constrained Cross-Validation in Chapter 2
+
+**Spatially Constrained Cross-Validation** (Spatial CV) is the validation framework implemented in Chapter 2 of the thesis to generate honest, unbiased estimates of machine-learning model generalization to spatially independent regions of phosphate waste-rock piles.
+
+---
+
+## 1. Protocol Parameters & Spatial Buffer
+To prevent optimistic performance inflation caused by geographic proximity and spatial autocorrelation:
+*   **Spatial Buffer**: A buffer of **30 m** (matching the native resolution of the PRISMA sensor) was enforced between the training and validation subsets. Training samples located within **30 m** of any validation sample were excluded from the training split. (Source: [section_methods_ch2.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L79); confirmed in [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L192)).
+*   **Folds & Repeats**: The validation scheme used **5** folds repeated **10** times, yielding **50** independent train/test splits per classifier. (Source: [section_methods_ch2.txt:L78](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L78); confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L51)).
+*   **Effective Fold Sizes**: For the refined **127** modeling dataset, each fold nominally assigned **~25** samples for validation and **~102** samples for training. (Source: [section_methods_ch2.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L79); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L42)).
+*   **Effective Training Size**: Excluding training samples falling within the buffer reduced the effective training set to approximately **85--100** samples per fold. (Source: [section_methods_ch2.txt:L79](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L79); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L42)).
+
+---
+
+## 2. Spatial vs. Random Cross-Validation Comparison
+To quantify the impact of spatial autocorrelation, a direct comparison was conducted between random stratified k-fold and spatially constrained cross-validation:
+*   **Performance Gap**: Performance differences across all five original classifiers were extremely small, with $|\Delta\text{BA}| \le 0.035$ and no consistent directional bias (e.g., Random Forest BA Random = **0.669 ± 0.021** vs. BA Spatial = **0.666 ± 0.032**). (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); values confirmed in [supp_ch2.txt:L200-245 (Table S5)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L200-L245)).
+*   **Interpretation**: The lack of a large performance drop indicates that the prior pixel-level spatial redundancy filtering (deduplicating co-located pixels) had already successfully suppressed the dominant spatial autocorrelation at the **30 m** scale. This confirms that the reported spatial CV metrics represent genuine generalization performance rather than optimistic spatial correlation artifacts. (Source: [section_results_ch2.txt:L64](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L64); confirmed in [reviewer_2_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L43)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|Spatially Constrained Cross-Validation]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response (Chapter 2)|Reviewer 2 Response (Chapter 2)]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Spatially Constrained Cross-Validation
+
+## The Problem: Spatial Autocorrelation in Remote Sensing ML
+
+In remote sensing, nearby pixels are spatially correlated — they share similar spectra because they share similar materials, illumination, and atmospheric conditions. Standard k-fold CV randomly assigns pixels to train/test splits, meaning:
+- A pixel at location (x, y) may be in the test set
+- Its neighbor at (x+30m, y) is likely in the training set
+- The model "cheats" by learning from the neighbor → inflated performance
+
+**Tobler's First Law of Geography:** "Everything is related to everything else, but near things are more related than distant things."
+
+---
+
+## Abdelhak's Solution: Spatial CV with Buffer (Chapter 2)
+
+```
+For each test sample:
+  Exclude all training samples within 30m buffer
+  (= 1 pixel at 30m PRISMA/EnMAP resolution)
+
+Result:
+  Test pixels have no direct spatial neighbors in training
+  Evaluation is honest about generalization to new locations
+```
+
+**Parameters (from thesis manuscript):**
+- Buffer: 30m (= 1 PRISMA pixel)
+- CV replicates: 10 independent replicates of the 127-sample dataset
+- Metric: BAC (Balanced Accuracy) — handles class imbalance
+- Additional: Spatially blocked CV for Chapter 3 (EnMAP)
+
+---
+
+## Chapter 2 Accuracy (from manuscript — single source of truth)
+
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **BAC (best classifiers)** | **0.60–0.67** | Extra Trees, Random Forest |
+| **AUC (carbonate classes)** | **> 0.95** | Marl, Limestone |
+| AUC (Phosphate, Siliceous) | Lower | Spectral overlap at 30m |
+| Spatially independent samples | 127 | After removing 80 shared-pixel duplicates |
+
+The thesis manuscript states explicitly:
+> "The resulting moderate but spatially robust classification accuracies (0.60–0.67) should therefore be understood as a physically constrained upper bound on what any classification algorithm can achieve given the inherent spectral mixing at 30 m."
+
+---
+
+## Chapter 3: Spatially Blocked Cross-Validation (EnMAP)
+
+Chapter 3 uses a different, even more conservative spatial validation:
+- Elastic-net logistic regression on 32 balanced pixels per zone
+- **4 spatial groups** + **25 random CV repeats** + **500 permutation replicates**
+- Result: **BAC = 0.984 ± 0.031; AUC = 1.000**
+- Empirical permutation p = 0.002
+
+This near-perfect result (Ch.3) reflects the much stronger spectral separation between RZ and RWR zones under backfilling — NOT overfitting, confirmed by permutation test and spatial blocking.
+
+---
+
+## Why This Matters for Defense
+
+"Why is your Ch.2 accuracy only 0.60–0.67?"
+
+> "This is the honest, spatially-aware accuracy. Spatial CV (30m buffer, 10 replicates) prevents autocorrelation from inflating the metric. The 0.60–0.67 BAC represents true generalization performance at new, spatially isolated locations. For geological mapping with 30m pixels and spatially clustered training data, this is the realistic ceiling — the thesis itself states this is a 'physically constrained upper bound' on what any classifier can achieve given sub-pixel mixing. Marl and Limestone, which are spectrally distinct, achieve AUC > 0.95. The lower discrimination is in the Phosphate vs. Siliceous facies, which overlap at 30m scale."
+
+---
+
+## Literature Support
+- Roberts et al. (2017) — spatial CV for remote sensing
+- Ploton et al. (2020) — spatial CV for forest mapping
+- Karasiak et al. (2022) — spatial autocorrelation in ML
+- Meyer & Pebesma (2021) — "Predicting into unknown space"
+
+---
+
+## Related Concepts
+- [[Machine Learning for Hyperspectral]]
+- [[PRISMA Satellite]]
+- [[EnMAP Satellite]]
+- [[Shannon Entropy Uncertainty]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Spectral Analysis.md
+
+---
+tags:
+created: '2026-06-07'
+summary: "Spectral analysis methods used in hyperspectral remote sensing \u2014 library\
+---
+
+
+# Spectral Analysis
+
+Quantitative analysis of electromagnetic reflectance spectra to identify and characterize materials based on their spectral signatures.
+
+## Core Methods (used in Abdelhak's Thesis)
+
+### Library Matching
+- Compare measured spectra to reference libraries (e.g., [[ECOSTRESS Spectral Library]])
+- Metrics: RMSE, SAM, SID, $R^2$ (see [[ECOSTRESS Application in Thesis Chapter 1]] for setup)
+- Used in Ch.1 (field spectra) and Ch.2 (PRISMA)
+
+### Spectral Unmixing
+- Decompose a mixed pixel into endmember fractional abundances
+- Methods: VCA (Vertex Component Analysis) for endmember extraction, FCLS (Fully Constrained Least Squares) for abundance mapping
+- Used in Ch.3 (EnMAP) → produces the [[04_Knowledge Base/wiki/concepts/[[Reclamation Progress Index]]|RPI]]
+
+### Continuum Removal
+- Normalizes spectra to highlight absorption features
+- Convex hull algorithm isolates relative band depths
+- Standard pre-processing step before library matching
+
+## Key Spectral Features for Phosphate Mineralogy
+
+| Wavelength | Feature | Mineral |
+|-----------|---------|---------|
+| ~2150 nm | PO₄ stretch (weak) | Fluorapatite |
+| ~2200–2208 nm | Al-OH (sharp) | Illite/Muscovite |
+| ~2165 + 2200 nm doublet | Al-OH | Kaolinite |
+| ~2320–2350 nm | CO₃ | Dolomite/Calcite |
+| ~500–900 nm | Fe³⁺ | Goethite, Hematite |
+
+## Sensors Used
+
+- **Field:** ASD FieldSpec 4 (350–2500 nm, 1 nm sampling)
+- **Satellite Ch.2:** [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] (~250 bands, 30m)
+- **Satellite Ch.3:** [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] (189 valid bands, 30m)
+
+## Band Selection
+
+- [[04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method]] — PLSR+RF+SVM+GPR ensemble; selects bands by multi-model R²-weighted importance
+- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection]] — UM6P R implementation
+
+## Spectral Preprocessing (Derivatives & Transforms)
+
+- [[04_Knowledge Base/wiki/concepts/Code — Khalil — Spectral Derivatives Pipeline]] — SG filter, continuum removal, 1st/2nd derivatives, CWT (gaussian2 wavelet)
+
+## Related
+
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching|Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]]
+- [[04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library|ECOSTRESS Spectral Library]]
+- [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Spectral Library Matching.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Spectral Library Matching
+
+## Definition
+Spectral library matching identifies the mineralogy of an unknown spectrum by comparing it against a reference library of known mineral spectra. For each candidate mineral, a similarity metric (or composite of metrics) is computed; the mineral with the best score is assigned as the match.
+
+---
+
+## Libraries Used in Abdelhak's Thesis
+
+### [[ECOSTRESS Spectral Library]]
+- Maintained by USGS / JPL.
+- Over 3,000 reference spectra (VIRS/TIR range) across minerals, vegetation, soils, and man-made materials.
+- For folder structure and filename formatting details, see [[ECOSTRESS Library File Structure and Naming]].
+- For details on how the library was loaded, curated, and matched against field samples, see [[ECOSTRESS Application in Thesis Chapter 1]].
+- Key minerals used: Calcite, Dolomite, Illite, Montmorillonite, Kaolinite, Quartz, Apatite $\text{Ca}_5(\text{PO}_4)_3\text{F}$.
+- Key **absence**: Francolite (carbonate fluorapatite, dominant phosphate in Benguerir) → known library limitation.
+
+---
+
+## Metrics
+
+### RMSE (Root Mean Square Error)
+```
+RMSE = √(mean((a−b)²))
+```
+- Overall shape similarity
+- Sensitive to baseline offset differences
+- In thesis: weighted 5× in 2100–2300 nm (PO₄ window)
+
+### SAM (Spectral Angle Mapper)
+```
+SAM = arccos(a·b / (‖a‖ × ‖b‖))
+```
+- Measures angle between spectra in N-dimensional space
+- Insensitive to illumination scaling (brightness-invariant)
+- Result in radians; lower = more similar
+
+### SID (Spectral Information Divergence)
+```
+SID = Σ p(i)·log(p(i)/q(i)) + Σ q(i)·log(q(i)/p(i))
+```
+- Treats spectra as probability distributions (KL divergence, symmetric)
+- Sensitive to subtle shape differences
+- Complementary to SAM
+
+### R² (Coefficient of Determination)
+```
+R² = 1 − SSres/SStot
+```
+- How well the reference explains the unknown spectrum's variance
+- R² near 1 = excellent fit
+
+### Composite Score (in thesis Ch.1)
+```
+score = RMSE + SAM + SID
+```
+- Combined ranking; rank-1 = minimum composite score
+- Top 5–8 matches reported per sample
+
+---
+
+## Preprocessing Before Matching
+1. Resampling to common wavelength grid (350–2500 nm, 1 nm step)
+2. Savitzky-Golay smoothing (window=7, poly=2)
+3. Min-max normalization: (x − min) / range
+4. Optional: continuum removal, derivative
+5. Convert ECOSTRESS percent reflectance → fraction (÷100)
+
+---
+
+## Challenges for Phosphate Waste Rocks
+
+**Problem: Clay masking of apatite**
+- Illite and montmorillonite have strong Al-OH absorptions (~2200 nm)
+- Apatite PO₄ absorption (~2150 nm) is weaker
+- After normalization, clay features dominate → apatite ranks 3–7, not 1
+- **Solution:** Use HHXRF to directly measure P₂O₅, bypassing spectral dominance issue
+
+**Problem: Library incompleteness**
+- Francolite (carbonate fluorapatite) — the actual phosphate mineral at Benguerir — absent from ECOSTRESS
+- Only generic "Apatite Ca₅(PO₄)₃F" available
+- **Impact:** Phosphate identification less precise spectrally; confirmed via XRD/XRF
+
+---
+
+## Key Results from Thesis Ch.1 (104 samples)
+| Rank | Dominant mineral |
+|------|----------------|
+| 1–2 | Illite, Montmorillonite (dominant surface clays) |
+| 3–7 | Apatite (spectrally recessive), Calcite, Quartz, Dolomite, Kaolinite |
+
+This distribution is **mineralogically consistent** with phosphate waste rock: clay gangue coats surfaces; carbonates and silica form the matrix; apatite is the economic mineral beneath.
+
+---
+
+## Related Concepts
+- [[VNIR-SWIR Spectroscopy]]
+- [[Hyperspectral Imaging]]
+- [[Mineral Assemblages]]
+- [[Spectral Unmixing VCA-FCLS]]
+- [[04_Archives/D-Drive/D-Drive — ecospeclib|D-Drive — ecospeclib Index]] — full ECOSTRESS library on D:\\ (3,105 spectra, downloaded 2024-10-02)
+- [[ECOSTRESS Spectral Library]] — overview and material classes
+- [[ECOSTRESS Library File Structure and Naming]] — directory and filename naming conventions
+- [[ECOSTRESS Application in Thesis Chapter 1]] — matching setup and results in Chapter 1
+
+---
+
+*Related: [[04_Knowledge Base/AI-Generated/thesis-ingestion/Spectroscopy Notebook Ingestion|Spectroscopy Notebook Ingestion]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# Spectral Unmixing — NNLS, VCA, FCLS
+
+## Problem Statement
+At 30m pixel resolution, each EnMAP or PRISMA pixel contains contributions from multiple minerals (mixed pixel problem). Spectral unmixing decomposes a mixed pixel spectrum into:
+- **Endmembers:** Pure component spectra
+- **Abundances:** Fractional contribution of each endmember (sum-to-one constraint)
+
+**Linear mixing model:**
+```
+r = Σ(a_i × e_i) + ε
+```
+Where r = observed spectrum, a_i = abundances, e_i = endmember spectra, ε = noise
+
+---
+
+## Methods Used in Abdelhak's Thesis
+
+### Chapter 1: NNLS (Non-Negative Least Squares)
+- Endmembers from ECOSTRESS spectral library (top-5 rank-1 matches per sample)
+- NNLS finds non-negative abundances minimizing ||r − E·a||²
+- Applied to 104 field samples
+- Provides relative abundance of dolomite, illite, kaolinite, calcite, apatite
+
+### Chapter 3: VCA + FCLS (primary satellite-scale method)
+
+**VCA (Vertex Component Analysis)** — Endmember extraction
+- Assumes endmembers are at the vertices of the spectral simplex
+- PCA reduction → iterative vertex finding
+- Unsupervised — endmembers extracted from data, no library needed
+- **k = 4 endmembers** (primary)
+
+**FCLS (Fully Constrained Least Squares)** — Abundance estimation
+- Minimizes ||r − E·a||² subject to: a_i ≥ 0 AND Σa_i = 1
+- Implementation: NNLS with augmented sum-to-one equation
+- Parallelized via ThreadPoolExecutor
+
+---
+
+## Key Ch.3 Results (from thesis manuscript)
+
+| Endmember | Dominant zone | RWR mean abundance | RZ mean abundance | Δ (RZ−RWR) |
+|-----------|--------------|-------------------|-----------------|-----------|
+| EM3 | **RWR** (raw waste) | 0.612 | 0.053 | −0.559 |
+| EM4 | **RZ** (backfilled) | 0.032 | 0.516 | +0.484 |
+
+Bootstrap (5,000 iterations): 95% CI excludes zero for both EM3 and EM4.
+
+**Spatially blocked CV:** BAC = 0.984 ± 0.031; AUC = 1.000
+
+---
+
+## Ch.3 Band Configuration
+
+From the manuscript (not from the Python script — manuscript is source of truth):
+
+| Band category | Wavelength range | Action |
+|--------------|----------------|--------|
+| Valid bands | **189 bands, 418–2445 nm** | Retained |
+| Detector overlap | 1342–1391 nm | Masked |
+| Water vapor A | 1350–1450 nm | Masked |
+| Water vapor B | 1800–1950 nm | Masked |
+| Below valid fraction | Various | Masked |
+
+---
+
+## VCA Algorithm
+
+```
+1. Mean-center spectra: R_c = R - mean(R)
+2. SVD: U, S, V = svd(R_c)
+3. Project to k-dimensional subspace: R_w = U[:, :k] × S[:k]
+4. Iterative vertex finding (k iterations):
+   - Random vector w
+   - Orthogonalize against current endmember set
+   - k = argmax|R_w · f|
+   - Add to endmember set
+```
+
+---
+
+## FCLS Implementation
+
+```python
+# Augmented system: adds sum-to-one as an additional equation
+A_aug = vstack([endmember_matrix.T, scale × ones])
+b_aug = hstack([pixel, scale])  # scale = 1000.0
+abundances, _ = nnls(A_aug, b_aug)
+abundances = abundances / abundances.sum()  # renormalize
+```
+
+---
+
+## Linear Mixing Assumption — Limitation
+Real-world mixing is often non-linear (intimate mixtures, multiple scattering). The thesis acknowledges this:
+> "Structured residuals in the 2150–2300 nm region for samples with overlapping clay-carbonate signatures are flagged as cases requiring qualitative rather than quantitative interpretation."
+
+Linear mixing is used because at 30m satellite pixels, areal (checkerboard) mixing dominates — each component reflects independently. This is the standard model for geological remote sensing at this scale.
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[VNIR-SWIR Spectroscopy]]
+- [[EnMAP Satellite]]
+- [[Reclamation Monitoring]]
+- [[Reclamation Progress Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Stratigraphy of the Gantour Basin and Benguerir Mine
+
+The **Gantour Basin** is one of the four major sedimentary phosphate basins of Morocco, containing a thick Maastrichtian-Lutetian succession that is actively mined at Youssoufia and Benguerir.
+
+---
+
+## 1. Basin Geography & Structure
+* **Boundaries**: Delineated by the Paleozoic Rehamna massif (North) and the Jbilet massif (South). It stretches 125 km East-West.
+* **Benguerir Sector**: Divided into two operational pits by the Benguerir-El Kelaa-des-Sraghna road:
+  * **BGI**: Mine Nord (covering Panel 5, etc.)
+  * **BGII**: Mine Sud (covering Panels 3, 4, etc.)
+* **Structural Style**: Flat, sub-horizontal tabulate beds (pendage ~1–2° towards the south) resting on a Paleozoic mica-schist or granitic basement. Local NE-SW fault systems and slumping structures (syn-sédimentaire deformations) are observed.
+
+---
+
+## 2. Mining Stratigraphic Column (Mine Sud)
+The exploitation at Benguerir target distinct layers separated by sterile intercalary beds:
+
+* **Ypresian (Eocene)**:
+  * **Sillon B**: Coarse sandy phosphate.
+* **Thanetian (Paleocene)**:
+  * **Sillon A**: Divided into A1 (marney, unexploited), A2 (fossiliferous, exploited), and A3 (calcified, unexploited).
+* **Danian (Paleocene)**:
+  * **Couche 1-0**: Thicker meuble phosphate, often calcified, split locally by a dolomitic limestone slab.
+* **Maastrichtian (Cretaceous)**:
+  * **Sillon X**: Highly calcified, high-BPL meuble phosphate.
+  * **Couche 2**: Split by a distinct **bonebed** layer into Couche 2 sup (marly-clayey) and Couche 2 inf (hard, calcified, low-grade).
+  * **Couche 3**: Split into Couche 3 sup (low-grade marly-meuble) and Couche 3 inf (high-grade meuble with siliceous calcite). Rest underneath the **Argile Jaune** marker clay.
+  * **Couche 4**: Split into upper and lower sub-layers. Rich in chert nodules.
+  * **Couche 4/5**: Thin phosphate bed with chert.
+  * **Couche 5**: Very thick meuble phosphate (up to several meters), divided into upper, middle, and lower divisions. Faciès "nougat" (silicified silex-phosphate) is common at the top.
+  * **Couche 6**: Thin base meuble phosphate resting on yellow basal clays.
+
+---
+
+## Related Notes
+- [[04_Knowledge Base/wiki/concepts/Phosphate Geology and Stratigraphy MOC|Phosphate Geology and Stratigraphy MOC]]
+* [[04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting|Gantour Basin and Benguerir Mine Geological Setting]]
+- [[04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015|Badioui & Kalombo (2015)]]
+- [[04_Knowledge Base/wiki/sources/wafikEtudeGeominiereMineSud2017|Wafik (2017)]]\n
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md
+
+---
+tags:
+date: 2026-06-13
+summary: "An over-sampling method that resolves class imbalance by generating synthetic minority samples along the lines connecting nearest neighbors."
+aliases:
+---
+
+
+# Synthetic Minority Over-sampling Technique (SMOTE)
+
+## Definition
+**Synthetic Minority Over-sampling Technique (SMOTE)** is a popular data augmentation technique designed to address class imbalance in machine learning datasets. Instead of simple over-sampling (which duplicates existing minority instances and often leads to overfitting), SMOTE generates entirely new, synthetic examples of the minority class by interpolating between existing minority class instances and their nearest neighbors.
+
+## How It Works
+SMOTE operates in the feature space rather than data-space:
+1. **Identify Minority Samples**: For each sample $x_i$ belonging to the minority class, compute its $k$-nearest neighbors in the same class (typically using Euclidean distance, with $k=5$).
+2. **Select Neighbor**: Choose one of the $k$-nearest neighbors $x_{zi}$ at random.
+3. **Interpolate**: Create a new synthetic sample $x_{new}$ along the line segment joining $x_i$ and $x_{zi}$ using the formula:
+   $$x_{new} = x_i + \lambda (x_{zi} - x_i)$$
+   where $\lambda$ is a random value drawn from a uniform distribution between $0$ and $1$.
+4. **Repeat**: Repeat the process until the minority class matches the size of the majority class (or a target ratio is achieved).
+
+```mermaid
+graph TD
+    A["Minority Sample (x_i)"] -->|Find k-NN| B["k-Nearest Neighbors"]
+    B -->|Random Select| C["Chosen Neighbor (x_zi)"]
+    C -->|Draw Line Segment| D["Calculate: x_i + lambda * (x_zi - x_i)"]
+    D -->|Create| E["New Synthetic Sample (x_new)"]
+```
+
+## Applications
+In geological and remote sensing datasets, mineral occurrences or specific waste rock lithologies (e.g., low-grade phosphate vs. altered limestone vs. chert) are often highly imbalanced. Standard classifiers (such as Random Forest or XGBoost) trained on such data will exhibit high overall accuracy but poor recall for minority classes. 
+
+SMOTE is applied in the preprocessing phase of [ML-MODELS-VLC.ipynb](file:///D:/PHD-3rd/VLC/ML-MODELS-VLC.ipynb) to balance waste rock lithology classes before training, resulting in more robust classification boundaries and higher F1-scores for under-represented classes.
+
+## Links
+- [[Code — VLC — ML Models Classifier]]
+- [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+- [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md
+
+---
+tags:
+created: '2026-05-24'
+---
+
+
+# VNIR-SWIR Spectroscopy
+
+## Definition
+Visible/Near-Infrared + Shortwave Infrared spectroscopy (VNIR-SWIR) covers 350–2500 nm. Combined with [[Handheld XRF]] (HHXRF), it forms the core analytical approach of Chapter 1 of Abdelhak's thesis for field characterization of [[Phosphate Mine Waste]].
+
+**Chapter 1 title:** "Integrating VNIR–SWIR Spectroscopy and [[Handheld XRF]] for Enhanced Mineralogical Characterization of [[Phosphate Mine Waste]] Rocks in Benguerir"  
+**Published:** Sensors (IF 3.5), Dec 2025, doi:10.3390/s26010002
+
+---
+
+## Physical Basis
+
+Spectral features in the VNIR-SWIR arise from two processes:
+
+### Electronic transitions (VNIR, 400–1000 nm)
+- **Fe2+/Fe3+ electronic transitions** → broad absorptions at 500 nm, 680 nm, 900 nm
+- Diagnostic for iron oxides: hematite (α-Fe₂O₃), goethite (α-FeOOH)
+- Present in phosphate waste due to oxidized gangue
+
+### Molecular vibrations (SWIR, 1000–2500 nm)
+- **Overtones and combination tones** of fundamental molecular bonds
+- OH⁻ stretch → ~1400 nm, ~1900 nm (clays, hydroxyl minerals)
+- CO₃ combination → ~2320 nm (carbonates)
+- Al-OH combination → ~2200 nm (kaolinite, illite)
+- Mg-OH combination → ~2330 nm (dolomite, chlorite)
+- PO₄ overtone → ~2150 nm (apatite, fluorapatite) — weak but diagnostic
+
+---
+
+## Chapter 1 Workflow
+
+```
+104 field samples (ASD FieldSpec 4, 350–2500nm)
+     ↓
+Preprocessing: resampling → 1nm common grid → normalization
+     ↓
+[[Spectral Library Matching]] (ECOSTRESS splib07)
+     Metrics: RMSE, SAM, SID, R² → composite score
+     ↓
+Best-match mineral identification (rank 1–8)
+     ↓
+NNLS spectral unmixing (endmember abundances)
+     ↓
+Integration with HHXRF (elemental chemistry)
+     Results: CaO, SiO2, P2O5, Fe2O3, Al2O3, MgO, K2O, etc.
+     ↓
+Cross-validation with XRD (mineralogy)
+```
+
+---
+
+## ECOSTRESS Spectral Library (splib07)
+- ~1,609 spectra total; 15 curated for Benguerir target minerals
+- **Key finding:** Fluorapatite/francolite underrepresented → apatite at rank 3–7, not rank 1
+- Dominant rank-1 matches: Illite, Montmorillonite (clays absorb more strongly than apatite in VNIR-SWIR)
+- This is physically correct: clay surface coatings dominate spectral response; apatite detected beneath clay signal via unmixing + XRF confirmation
+
+---
+
+## Matching Metrics
+
+| Metric | Formula | Good value |
+|--------|---------|-----------|
+| RMSE | √(mean((a−b)²)) | Low |
+| SAM | arccos(a·b / ‖a‖‖b‖) | Low (radians) |
+| SID | KL divergence (symmetric) | Low |
+| R² | 1 − SSres/SStot | High |
+| Composite score | RMSE + SAM + SID | Low |
+
+**Phosphate weighting:** RMSE is weighted 5× in the 2100–2300 nm window to emphasize PO₄ diagnostic region.
+
+---
+
+## ASD FieldSpec 4 Specifications
+- Range: 350–2500 nm
+- Sampling interval: 1.4 nm (VNIR), 2 nm (SWIR)
+- FWHM: 3 nm (VNIR), 6–10 nm (SWIR)
+- Field of view: ~25° FOV contact probe
+- Calibration: BaSO₄ Spectralon white reference panel before each measurement
+
+---
+
+## Key Results (Thesis Ch.1)
+- 104 samples from Benguerir waste rock piles (managed + unmanaged zones)
+- Dominant minerals identified: illite > dolomite > calcite > kaolinite > apatite
+- Clay minerals dominate spectral response → consistent with phosphate gangue mineralogy
+- HHXRF validated: P₂O₅ content correlates with apatite abundance from unmixing
+- Combined VNIR-SWIR + HHXRF outperforms either method alone
+
+---
+
+## Related Concepts
+- [[Hyperspectral Imaging]]
+- [[Spectral Library Matching]]
+- [[Handheld XRF]]
+- [[Mineral Assemblages]]
+- [[Phosphate Mine Waste]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Geochemical characterization of Benguerir waste rock samples analyzed via Wavelength Dispersive X-ray Fluorescence (WD-XRF)."
+aliases:
+---
+
+
+# WD-XRF Chemical Characterization of Benguerir Waste Rocks
+
+## Data Asset
+
+| Property | Value |
+|----------|-------|
+| Files | `Analyse XRF-xxx-2022 Mr ElMANSOUR.xlsx`, `Rapport d'analyse XRF-xxx-22- Mr ELMANSOUR.pdf`, `XRF-prepared.xlsx` |
+| Format | MS Excel Sheets, PDF Analysis Report |
+| Location | [file:///D:/PHD-2nd/XRF/](file:///D:/PHD-2nd/XRF/) |
+| Instrument | Wavelength Dispersive X-ray Fluorescence (WD-XRF) |
+| Preparation | Pressed powder pellets (Pastilles) |
+| Laboratory | EMEC (Mining Environment and Circular Economy), UM6P |
+
+## Description & Purpose
+
+This dataset documents the geochemical characterization of rock samples collected from the Benguerir phosphate mine waste piles during year 2 of the PhD. The chemical assays (specifically major oxides $CaO$, $SiO_2$, $Al_2O_3$, $MgO$, $K_2O$, $Na_2O$, $P_2O_5$, $MnO$, and Loss on Ignition ($LOI$)) serve as the ground-truth elemental database used to validate SWIR field spectroscopy unmixing and calibrate satellite-scale mineral mapping.
+
+---
+
+## Geochemical Range & Statistics
+
+The data is split across two primary files representing different phases of preparation and compiling:
+1.  **Raw Lab Report (`Analyse WDXRF` sheet / PDF)**: 20 samples collected for the EMEC-SMCE Workshop (denoted `Z2-1` to `Z2-115` on a linear track).
+2.  **Prepared Database (`XRF-prepared.xlsx`)**: 83 samples (denoted `Z2-2` to `Z2-112`) representing the broader campaign.
+3.  **Total Count**: 102 unique samples (sample `Z2-70` overlaps between the sheets).
+
+### Combined Oxide Ranges (Raw Files)
+
+| Oxide | Minimum (wt%) | Maximum (wt%) | Mean (wt%) |
+|-------|---------------|---------------|------------|
+| **$CaO$** | 9.20 | 54.40 | ~28.01 |
+| **$SiO_2$** | 6.22 | 68.98 | ~30.75 |
+| **$Al_2O_3$** | 0.89 | 3.55 | ~2.10 |
+| **$MgO$** | 1.12 | 7.75 | ~3.82 |
+| **$P_2O_5$** | 0.972 | 23.043 | ~9.79 |
+| **$Na_2O$** | 0.15 | 0.92 | ~0.43 |
+
+---
+
+## ⚠️ Data Discrepancies & QA-QC Notes
+
+> [!WARNING]
+> Historical values in these D-Drive files show minor discrepancies compared to the final peer-reviewed thesis manuscript and [[Numbers Arsenal]]. The thesis values are the single source of truth.
+
+### 1. Maximum $P_2O_5$ Concentration
+*   **D-Drive Raw Claim**: The highest $P_2O_5$ concentration in the raw files is **`23.043 wt%`** (found in sample `Z2-13` in `XRF-prepared.xlsx`, followed by `22.985 wt%` in sample `Z2-10` in `Analyse WDXRF`).
+*   **Thesis Canonical Fact**: The maximum $P_2O_5$ concentration is **`23.86 wt%`** (associated with fluorapatite validation in Chapter 1). The discrepancy suggests the thesis used a refined, recalibrated, or extended dataset.
+
+### 2. Overlapping Sample `Z2-70` Discrepancy
+Sample `Z2-70` is present in both raw sets, but shows significant numerical variance:
+*   **Raw Lab Sheet (`Analyse WDXRF`)**: $CaO = 25.50\%$, $SiO_2 = 29.13\%$, $P_2O_5 = 11.55\%$, $MgO = 2.77\%$.
+*   **Prepared Sheet (`XRF-prepared.xlsx`)**: $CaO = 37.28\%$, $SiO_2 = 22.82\%$, $P_2O_5 = 12.94\%$, $MgO = 3.98\%$.
+*   *Interpretation*: `XRF-prepared.xlsx` represents corrected values or a different analytical run post-calibration adjustment.
+
+### 3. Sample Size Cohort
+*   **D-Drive Raw Count**: 102 unique samples are cataloged in these files.
+*   **Thesis Chapter 1 Count**: **104** field samples were used in the final cohort.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Archives/D-Drive/Data Discrepancy Log]]
+- [[02_Academic & Work/thesis/defense-prep/Numbers Arsenal]]
+- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
+- [[04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md
+
+---
+tags:
+created: '2026-06-07'
+summary: "Mine waste rock characterization \u2014 mineralogy, spectral properties,\
+---
+
+
+# Waste Rock Characterization
+
+The process of identifying and quantifying the mineralogical, geochemical, and physical properties of excavated non-ore material from mining operations.
+
+## Context (Benguerir, Morocco)
+
+At the Benguerir phosphate mine ([[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]), waste rock piles (WRP) require characterization to:
+- Assess environmental risk (leaching, dust, ARD potential)
+- Identify valorization potential (residual phosphate, carbonates)
+- Design reclamation and revegetation strategies
+
+## Key Mineral Classes (from Thesis Ch.1)
+
+| Class | Dominant Minerals | Spectral Signature |
+|-------|------------------|-------------------|
+| Carbonates | Dolomite, Calcite | ~2320–2350 nm |
+| Clays | Illite, Kaolinite, Smectite | Al-OH ~2200 nm |
+| Phosphates | Fluorapatite, Francolite | PO₄ ~2150 nm (weak) |
+| Silicates | Quartz | Featureless SWIR |
+
+## Methods Used in Abdelhak's Thesis
+
+- **Field spectroscopy** (ASD FieldSpec 4, 350–2500 nm) + ECOSTRESS library matching → Ch.1
+- **[[Handheld XRF]]** (Niton XL5) for elemental geochemistry → Ch.1
+- **[[PRISMA Satellite]]** (30m) classification → Ch.2
+- **[[EnMAP Satellite]]** spectral unmixing → Ch.3
+
+## Related
+
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste]]
+- [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring]]
+- [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Workshop EMEC-SMCE 2022 Participation.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Participation and abstract details for the 1st edition of the Sustainable Mining and Circular Economy (SMCE) Workshop in August 2022."
+aliases:
+---
+
+
+# Workshop EMEC-SMCE 2022 Participation
+
+## Event Details
+
+*   **Conference / Workshop**: Workshop EMEC-SMCE 1st edition
+*   **Theme**: *Sustainable Mining and Circular Economy*
+*   **Date**: August 26, 2022
+*   **Venue**: Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
+*   **Host Laboratory**: EMEC (Mining Environment and Circular Economy)
+
+---
+
+## Abstract & Presentation Overview
+
+### Title
+**Phosphate waste rocks characterization for better soil remediation outcomes**
+
+### Authors
+Abdelhak EL MANSOUR, Ahmed LAAMRANI, Rachid HAKKOU, Abdellatif EL GHALI, Mostafa BENZAAZOUA
+
+### Abstract Core Text
+Progressive rehabilitation of phosphate mines is critical as mining production expands. However, the high heterogeneity of phosphate waste rock piles (PWRPs) can disrupt soil remediation during mine reclamation. This work characterizes PWRPs mineralogically and chemically to optimize soil remediation. A hyperspectral study using a PRISMA Level-2D image (acquired 12 February 2022) was used to map elements spatially across waste rock piles. Concurrently, a linear sampling campaign was executed on Panel 2 of the Benguerir mine (spanning 662 m), collecting 100 samples. A subset of 20 samples was analyzed using thin sections and X-Ray Diffraction (XRD).
+
+---
+
+## Key Early Results Stated
+
+*   **Mineralogy (XRD)**: 20 representative samples were analyzed, confirming the dominance of **Calcite**, **Quartz**, **Dolomite**, **Fluorapatite**, and **Berlinite** ($AlPO_4$).
+    *   *Note*: The presence of Berlinite represents an early-stage mineralogical assignment that was refined in later thesis chapters (where apatite/clay assemblages were characterized more precisely).
+*   **Petrography / Micrographs**: Petrographic thin sections identified:
+    *   Phosphate pellets and bone fragments.
+    *   Fine-grained calcite and dolomite.
+    *   Phosphatic clasts and bio-fragments.
+*   **Remediation Relevance**: Characterizing these mineral phases is critical to understanding nutrient bioavailability and electrical conductivity (EC) properties of the waste rock substrate, ensuring long-term fertility during progressive soil reclamation.
+
+---
+
+## Links
+- [[04_Archives/D-Drive/Index - D-Drive - PHD-2nd]]
+- [[04_Knowledge Base/wiki/concepts/Panel 2 Linear Sampling Campaign]]
+- [[04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus.md
+
+---
+tags:
+date: 2026-06-13
+summary: "A software application developed by PANalytical used for mineral phase identification, Rietveld refinement, and crystallographic analysis of XRD data."
+aliases:
+---
+
+
+# X'Pert HighScore Plus
+
+## Definition
+**X'Pert HighScore Plus** (developed by PANalytical, now Malvern Panalytical) is a standard desktop application used for analyzing X-ray powder diffraction (XRD) patterns. It integrates phase identification (search/match), profile fitting, pattern treatment, and advanced crystallographic analysis—including quantitative phase analysis using the Rietveld refinement method.
+
+## Key Capabilities & Workflow
+
+```mermaid
+graph TD
+    A["Raw Diffractogram (.raw / .xy / .xrdml)"] --> B["Pattern Treatment: Background & Peak Search"]
+    B --> C["Search/Match Phase Identification"]
+    C -->|JCPDS PDF-2 Database| D["Candidate Phase Selection (Calcite, Quartz, Apatite)"]
+    D --> E["Rietveld Refinement & Profile Matching"]
+    E --> F["Quantitative Analysis (Weight %) & Unit Cell Parameters"]
+```
+
+### 1. Database Integration
+HighScore Plus relies on reference databases to match measured peaks with crystallographic standards. The software in [D:\PHD-1st\Xpert highscore\](file:///D:/PHD-1st/Xpert%20highscore/) uses the **JCPDS PDF-2 database** (Joint Committee on Powder Diffraction Standards / ICDD), containing standard powder diffraction file cards:
+*   `PDF2.DAT`: The primary JCPDS compiled binary database.
+*   `ReferenceDatabase.PDB`: Converted indexes used by the HighScore engine for fast searching and matching.
+
+### 2. Search/Match Algorithm
+Compares the $d$-spacings ($2\theta$ angles) and relative intensities of peaks in the experimental diffractogram against the reference cards in the PDF database. Candidate phases are scored based on the alignment of peak positions and matching chemistry constraints.
+
+### 3. Quantitative Rietveld Refinement
+Performs full-pattern fitting by adjusting crystallographic structures (atomic positions, unit cell dimensions, crystallite size, microstrain, thermal parameters) and instrument parameters to minimize the difference between the observed and simulated XRD patterns. It outputs the relative weight percentages ($\text{Wt}\%$) of the identified mineral phases.
+
+## Applications
+In the first year of the PhD, Abdelhak used HighScore Plus to analyze raw scans (`.raw` and `.xy` files in [RE__Analyses_DRX](file:///D:/PHD-1st/RE__Analyses_DRX/)) of waste rock samples from Panel 2 of the Benguerir mine. This analysis quantitatively verified the mineral components (e.g., Calcite, Dolomite, Palygorskite, Quartz, Fluorapatite) validating the 4-class mineralogy validation scheme of Chapter 1.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
+- [[04_Knowledge Base/wiki/sources/NBSAIDS83_Manual]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy.md
+
+---
+tags:
+date: 2026-06-13
+summary: "An analytical technique used to identify crystalline mineral phases by measuring standard constructive interference patterns of X-rays."
+aliases:
+---
+
+
+# X-Ray Diffraction (XRD) in Mineralogy
+
+## Definition
+**X-Ray Diffraction (XRD)** is a non-destructive analytical technique used to determine the mineralogical composition, crystalline structure, and physical properties of geological materials. It functions by exposing a crystalline powder sample to a monochromatic beam of X-rays, which scatter in directions dictated by the spacing of atoms in the crystal lattice.
+
+## How It Works
+Crystalline minerals act as three-dimensional diffraction gratings for X-rays. When the path difference of scattered X-rays equals an integer number of wavelengths, constructive interference occurs, generating a diffraction peak. This is described by **Bragg's Law**:
+$$n\lambda = 2d \sin\theta$$
+where:
+*   $n$ is the order of reflection (integer),
+*   $\lambda$ is the wavelength of the incident X-ray beam (e.g., $Cu\text{-}K\alpha$ radiation = $1.5406\,\text{Å}$),
+*   $d$ is the interplanar spacing ($d$-spacing) of the crystal lattice planes,
+*   $\theta$ is the angle of incidence.
+
+```mermaid
+graph TD
+    A["Monochromatic X-ray Source"] -->|Incident Beam| B["Crystalline Sample (d-spacing)"]
+    B -->|Diffracted Beam (Bragg's Law)| C["X-ray Detector"]
+    C -->|Measure Angles & Intensities| D["Diffraction Pattern (2-Theta vs Intensity)"]
+```
+
+The resulting diffractogram (plotting $2\theta$ vs. intensity) acts as a unique mineralogical fingerprint. Individual phases are identified by comparing the position and relative intensity of their diffraction peaks against standard reference databases (such as the ICDD Powder Diffraction File).
+
+## Applications
+In phosphate mining environment studies, XRD is essential for:
+*   **Phase Identification**: Distinguishing between different carbonate minerals (Calcite, Dolomite, Ankerite, Siderite) and phosphate-bearing minerals (Fluorapatite, Hydroxyapatite) in waste rock piles.
+*   **Quantitative Mineralogy**: Determining the relative weight percentages of minerals using Rietveld refinement methods, which helps validate satellite remote sensing mineral maps.
+*   **Clay Characterization**: Identifying clay mineral assemblages (such as Palygorskite and Montmorillonite) which impact waste pile stability and soil water-holding capacity.
+
+## Links
+- [[04_Archives/D-Drive/D-Drive — PHD-1st]]
+- [[04_Knowledge Base/wiki/concepts/X'Pert HighScore Plus]]
+- [[04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
+- [[04_Knowledge Base/wiki/concepts/Data Asset — PHD-1st XRD Reports]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRD and Petrographic Validation of Classification Labels.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# XRD and Petrographic Validation of Classification Labels
+
+**XRD and Petrographic Validation of Classification Labels** represents the analytical protocol implemented in Chapter 2 of the thesis to ground the machine learning lithological classes in physical mineralogical and textural evidence rather than field visual descriptions alone.
+
+---
+
+## 1. Laboratory Ingestion Protocol
+*   **XRD Analysis**: The mineralogical composition of **20** representative samples was determined using a powder X-ray diffractometer over a $2\theta$ range of **10–70°** (counting time: **46 s** per step). (Source: [section_methods_ch2.txt:L24](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L24)).
+*   **Petrographic Analysis**: Polished thin sections were prepared for **10** representative samples to examine mineral textures under a polarizing microscope. (Source: [section_methods_ch2.txt:L27](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L27)).
+*   **Target Selection**: The **20** XRD samples were selected to cover the full geochemical range of the **207** field dataset. All **20** samples are distributed across the **4** principal lithological classes. (Source: [section_methods_ch2.txt:L25](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L25)).
+*   **Dataset Integration**: Those XRD samples associated with unique PRISMA pixels are included directly in the **127** modeling dataset. (Source: [section_methods_ch2.txt:L25](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_methods_ch2.txt#L25); confirmed in [reviewer_3_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L60)).
+
+---
+
+## 2. Crystalline Phase Identifications
+The mineral assemblages verified by powder XRD corroborate the four classification categories:
+*   **Phosphate Rock**: Characterized by dominant peaks of *fluorapatite* associated with calcite and quartz (e.g., Sample ID Z2-1, Z2-5, Z2-10). (Source: [supp_ch2.txt:L50-74 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L50-L74)).
+*   **Siliceous Facies**: Characterized by *quartz* dominant phases with minor illite and fluorapatite (e.g., Sample ID Z2-25, Z2-40, Z2-50). (Source: [supp_ch2.txt:L75-90 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L75-L90)).
+*   **Marl**: Characterized by *calcite* and *illite/dolomite* assemblages (e.g., Sample ID Z2-55, Z2-60, Z2-65, Z2-70). (Source: [supp_ch2.txt:L91-106 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L91-L106)).
+*   **Limestone**: Characterized by dominant *calcite* and *dolomite* with minor clay or quartz (e.g., Sample ID Z2-85, Z2-95, Z2-105). (Source: [supp_ch2.txt:L114-133 (Table S2)](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L114-L133)).
+
+Texturally, polarizing microscope observations confirm that the phosphatic components are rounded pelloids and clasts embedded in a fine-grained carbonate-siliceous matrix. (Source: [section_results_ch2.txt:L3](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/section_results_ch2.txt#L3)).
+
+---
+
+## Related Notes
+* [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables|Data Asset — Chapter 1 Supplementary Tables]]
+* [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy|X-Ray Diffraction (XRD) in Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
+* [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2)|Reviewer 3 Response (Chapter 2)]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Carbonates.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF database dataset demonstrating carbonate mineral mapping, calcite/dolomite zonation, and vacuum settings."
+aliases:
+---
+
+
+# XRF Training Sample — Carbonates
+
+## Overview
+The **Carbonates Training Sample** is a micro-XRF spectral database located in:
+`file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Carbonates.db`
+
+It focuses on mapping and distinguishing carbonate mineral phases (such as calcite, dolomite, and ankerite) using micro-scale elemental zonation.
+
+---
+
+## Technical Demonstrations
+
+### 1. Differentiating Calcite from Dolomite
+* **The Challenge**: Both calcite ($\text{CaCO}_3$) and dolomite ($\text{CaMg}(\text{CO}_3)_2$) contain Calcium ($\text{Ca}$), but dolomite also contains Magnesium ($\text{Mg}$). Differentiating them by X-ray fluorescence requires resolving the weak $\text{Mg}$ signal.
+* **The Solution**: By mapping under **$2\text{ mbar}$ vacuum** with **$50\text{ kV}$ voltage**, the detector resolves both the strong $\text{Ca K}\alpha$ ($3.69\text{ keV}$) and the weak $\text{Mg K}\alpha$ ($1.25\text{ keV}$) peaks. The spatial distribution of the $\text{Mg}/\text{Ca}$ ratio is calculated in AMICS to separate dolomite zones from calcite veins.
+
+### 2. Carbonate Zonation
+* Demonstrates how carbonate minerals undergo chemical zonation (e.g., iron or magnesium substitution in calcite) during diagenesis or hydrothermal alteration, mapping the gradational boundaries between calcite ($\text{Ca}$-rich) and ankerite/dolomite ($\text{Fe/Mg}$-bearing).
+
+---
+
+## Relevance to Abdelhak's Research
+At the Benguerir phosphate mine, carbonate rocks (limestone, marly limestone, dolomite) constitute the majority of the waste rock overburdens and interburdens.
+* In **Chapter 1** (field spectroscopy), carbonates are identified by their characteristic $\text{C-O}$ vibrational absorption features in the SWIR range (typically around $2.3\ \mu\text{m}$ and $2.5\ \mu\text{m}$).
+* In **Chapter 3**, the $\text{CaO}$ proxy from XRF calibration is a core parameter in calculating the **[[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]]**, where carbonate waste rock represents the background soil geology before revegetation.
+* Resolving calcite versus dolomite is important because dolomite has higher geomechanical strength (higher UCS) and different weathering rates, affecting how the waste piles stabilize over time.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+* [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Chlorite.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF database dataset demonstrating chlorite mineral mapping and scan optimization for light elements."
+aliases:
+---
+
+
+# XRF Training Sample — Chlorite
+
+## Overview
+The **Chlorite Training Sample** is a micro-XRF spectral database located in:
+`file:///D:/XRF training/UM6P Shared Files/+XRF (+SEP) 50kV 2mbar Chlorite.db`
+
+It is designed to train operators on optimizing scan parameters for **light elements** (specifically Magnesium, Aluminum, and Silicon) hosted within hydrous sheet silicates like chlorite ($(\text{Mg,Fe})_5\text{Al}(\text{AlSi}_3\text{O}_{10})(\text{OH})_8$).
+
+---
+
+## Technical Demonstrations
+
+### 1. Overcoming Air Absorption of Light Elements
+X-ray fluorescence lines emitted by light elements have very low energies (e.g., $\text{Mg K}\alpha = 1.25\text{ keV}$, $\text{Al K}\alpha = 1.49\text{ keV}$, $\text{Si K}\alpha = 1.74\text{ keV}$). In standard atmospheric conditions, these weak X-rays are absorbed by air molecules before they can reach the detector, preventing their measurement.
+* **The Solution**: The dataset was acquired under a **$2\text{ mbar}$ vacuum** in the Bruker sample chamber. Removing air molecules allows the low-energy X-rays to reach the energy-dispersive detector, enabling the identification and quantification of chlorite's $\text{Mg}$, $\text{Al}$, and $\text{Si}$ peaks.
+
+### 2. High Voltage (50 kV) for Heavy Elements
+While vacuum is necessary for light elements, the X-ray tube must also excite heavier elements like Iron ($\text{Fe K}\alpha = 6.40\text{ keV}$).
+* The dataset demonstrates using a **$50\text{ kV}$ tube voltage** and **$600\ \mu\text{A}$ current** to provide enough energy to excite the heavy $\text{Fe}$ transitions while the vacuum system simultaneously preserves the light $\text{Mg}$ and $\text{Al}$ signals.
+
+---
+
+## Relevance to Abdelhak's Research
+In phosphate mine waste rocks, clay minerals (like smectite, illite, chlorite, and kaolinite) indicate weathering and reclamation progress. When using **[[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF (HHXRF)]]** or laboratory XRF to calibrate clay abundance maps:
+* Measuring $\text{Al}_2\text{O}_3$ and $\text{MgO}$ directly provides a chemical proxy for clay content.
+* Operators must calibrate vacuum or helium-flush systems to ensure these light elements are not underestimated due to air absorption.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF training dataset demonstrating perthitic feldspar and biotite mapping in granite."
+aliases:
+---
+
+
+# XRF Training Sample — Granite
+
+## Overview
+The **Granite Training Sample** is a micro-XRF calibration dataset located in:
+`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part2 Granite/`
+
+It utilizes the raw Bruker scan file **`Nice-Granite.bcf`** (converted to `Nice-Granite.mre`) to demonstrate data processing on an intact rock block (block sample type).
+
+---
+
+## Technical Demonstrations
+
+This dataset is specifically designed to train operators on handling coarse-grained plutonic rocks with complex mineral intergrowths:
+
+### 1. Perthitic Feldspar Exsolution
+* **The Challenge**: Perthitic feldspar consists of fine, intergrown lamellae of albite (plagioclase, $\text{NaAlSi}_3\text{O}_8$) exsolved within a host matrix of orthoclase ($\text{K-feldspar}$, $\text{KAlSi}_3\text{O}_8$).
+* **Matrix Mapping vs. Segmentation**:
+  * **Matrix Mapping** (using a standard grid step size like $20\ \mu\text{m}$) fails to resolve the fine, worm-like lamellae. It averages the Sodium ($\text{Na}$) and Potassium ($\text{K}$) signals, resulting in a single misclassified "intermediate" feldspar or noisy pixel classifications.
+  * **Segmentation Mapping** solves this by superimposing the mineral classification onto the high-resolution BSE image. It uses the BSE grayscale variation to segment the fine albite boundaries before collecting or assigning X-ray spectra, successfully resolving the exsolution texture.
+
+### 2. Biotite Mapping
+* Demonstrates the classification of sheet silicates (biotite mica) which contain Iron ($\text{Fe}$) and Magnesium ($\text{Mg}$). It is used to train on setting count thresholds and energy filters to distinguish biotite from secondary chlorite alteration.
+
+---
+
+## Relevance to Abdelhak's Research
+Although granite is not present in phosphate waste rock piles, this sample illustrates a key methodological principle: **coarse-step matrix mapping fails on fine-scale mineral intergrowths**. In phosphate waste rocks, flint/silexite and carbonate-apatite (francolite) are often finely intergrown. Understanding when to use Segmentation Mapping over flat Matrix Mapping is essential to avoid underestimating or misclassifying silica and phosphate phases.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy Workflow|AMICS Automated Mineralogy Workflow]]
+* [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF training dataset demonstrating granulated particle analysis, background thresholding, and mineral association in eclogite fragments."
+aliases:
+---
+
+
+# XRF Training Sample — Particle Analysis
+
+## Overview
+The **Particle Analysis Training Sample** is a micro-XRF calibration dataset located in:
+`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part5 Particle/`
+
+It utilizes the raw Bruker scan file **`Eclogite-Fragments-Large.bcf`** to demonstrate the automated mineralogical characterization of granulated samples (rock or ore fragments embedded in epoxy resin).
+
+---
+
+## Technical Demonstrations
+
+This dataset is used to train operators in **particle-based automated mineralogy**, which is more complex than mapping solid rock blocks:
+
+### 1. BSE Background Thresholding
+* **The Challenge**: The sample consists of rock fragments suspended in an epoxy resin mount. The resin generates false X-ray signals (mostly carbon and chlorine) that must be ignored.
+* **The Solution**: AMICS uses Backscattered Electron (BSE) grayscale thresholding. Because epoxy is low-density, it has a very low BSE signal (dark). AMICS sets a lower BSE threshold to treat everything below it as "Background" (resin) and excludes those regions from X-ray acquisition and spectral matching, saving time and storage.
+
+### 2. Particle vs. Grain Segmentation
+* **Particles**: The rock fragments isolated from the background.
+* **Grains**: The distinct mineral phases (garnet, pyroxene, K-silicate) within each particle.
+* AMICS performs image segmentation to identify grain boundaries inside each particle, ensuring that mineral association and grain size metrics are calculated relative to their host fragment.
+
+### 3. Grain Panel Touch-Up (Filtering Noise)
+* Shows how to filter out small unclassified pixels (noise) that appear at mineral boundaries.
+* By applying size filters in the Grain Panel, the amount of "Unknown" or unclassified pixels can be reduced from **$5\%$ down to $0.08\%$**, significantly cleaning up the modal mineralogy report.
+
+### 4. Mineral Association & Liberation
+* AMICS calculates the shared boundary lengths between minerals within the particles. It determines whether pyroxene is locked inside garnet, or if the phases are liberated (free-standing grains), which is a key metric in mineral processing.
+
+---
+
+## Relevance to Abdelhak's Research
+In the reclamation and valorization of phosphate mine wastes:
+* Overburdens and interburdens are crushed, and tailing piles consist of granulated sand/silt-sized particles.
+* Using **Particle Analysis** helps determine the **liberation state of apatite (francolite)**: is the phosphate mineral free (liberated) and ready for chemical extraction/fertilizer production, or is it locked (encapsulated) within calcite, quartz, or clay matrices?
+* This information is critical for designing recycling flowsheets for phosphate waste rock reprocessing.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/AMICS Automated Mineralogy|AMICS Automated Mineralogy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+* [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md
+
+---
+date: 2026-06-13
+tags:
+summary: "Micro-XRF training dataset demonstrating lithium pegmatite mapping, element deportment, and scan parameter optimization."
+aliases:
+---
+
+
+# XRF Training Sample — Pegmatite
+
+## Overview
+The **Pegmatite Training Sample** is a micro-XRF calibration dataset located in:
+`file:///D:/XRF training/UM6P Shared Files/MicroXRF AMICS Part3 Pegmatite/`
+
+It utilizes raw Bruker scans (e.g., `LiPegmatite_50kV-600uA-100um-10ms.bcf`, `LiPegmatite_50kV-600uA-200um-20ms.bcf`) from a lithium pegmatite sample from **Gonçalo - Seixo Amarelo, Portugal**. The analytical area is $80\text{ mm} \times 50\text{ mm}$ (mapped at $50\ \mu\text{m}$ resolution, yielding $1600 \times 1000$ pixels).
+
+---
+
+## Modal Mineralogy & Lithium Deportment
+
+Using **[[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification (TMQ)]]**, the sample was classified to determine its mineral composition and how Lithium ($\text{Li}$) is distributed among the phases:
+
+### 1. Modal Mineralogy (Wt%)
+* **Albite**: $57.92\%$
+* **Lepidolite**: $15.60\%$
+* **Quartz**: $12.70\%$
+* **Spodumene**: $10.07\%$
+* **Petalite**: $2.02\%$
+* **Topaz**: $0.88\%$
+* **Amblygonite**: $0.57\%$
+* **Eucryptite**: $0.10\%$
+* **Sanidine**: $0.06\%$
+* **Perhamite**: $0.04\%$
+
+### 2. Lithium (Li) Deportment (Total 100%)
+Although the bulk sample's back-calculated assay contains only $1.0\text{ Wt}\%$ Lithium ($\text{Li}$), its deportment is divided as:
+* **Lepidolite** ($\text{Li}_2\text{KAlSi}_4\text{O}_{10}\text{F}(\text{OH})$): $55.2\%$
+* **Spodumene** ($\text{LiAlSi}_2\text{O}_6$): $37.4\%$
+* **Petalite** ($\text{LiAlSi}_4\text{O}_{10}$): $4.2\%$
+* **Amblygonite** ($\text{LiAlPO}_4\text{OH}$): $2.7\%$
+* **Eucryptite**: $0.5\%$
+
+---
+
+## Scan Parameter Optimization (Speed vs. Accuracy)
+
+A key metallurgical/geological finding from this dataset is the trade-off between scan resolution, dwell time, and modal mineralogy accuracy. The pegmatite sample was mapped under five different configurations:
+
+| Parameter | Run 1 | Run 2 | Run 3 | Run 4 | Run 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pixel Size ($\mu\text{m}$)** | **50** | **100** | **200** | **200** | **200** |
+| **Dwell Time ($\text{ms}$)** | **20** | **10** | **20** | **10** | **5** |
+| **Scan Time (hh:mm)** | **15:05** | **01:43** | **00:52** | **00:39** | **00:26** |
+| **Spodumene (Wt%)** | $10.1\%$ | $10.5\%$ | $10.6\%$ | $10.5\%$ | $9.5\%$ |
+| **Lepidolite (Wt%)** | $15.6\%$ | $14.5\%$ | $14.4\%$ | $14.2\%$ | $13.4\%$ |
+| **Albite (Wt%)** | $57.9\%$ | $59.3\%$ | $59.4\%$ | $59.7\%$ | $61.5\%$ |
+| **Quartz (Wt%)** | $12.7\%$ | $12.3\%$ | $12.3\%$ | $12.3\%$ | $12.2\%$ |
+
+### Key Conclusion
+Decreasing the pixel resolution from $50\ \mu\text{m}$ to $200\ \mu\text{m}$ and the dwell time from $20\text{ ms}$ to $5\text{ ms}$ reduced the measurement time from **15 hours and 5 minutes to 26 minutes** (a **34x speedup**). 
+
+Remarkably, the modal mineralogy calculations remained stable: Spodumene varied by only $0.6\text{ Wt}\%$, Lepidolite by $2.2\text{ Wt}\%$, and Quartz by $0.5\text{ Wt}\%$. This demonstrates that **coarse-scale, rapid micro-XRF scanning is statistically robust for determining bulk mineral proportions** in coarse-grained rocks.
+
+---
+
+## Related Concepts
+* [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
+* [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
+* [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
 
 
