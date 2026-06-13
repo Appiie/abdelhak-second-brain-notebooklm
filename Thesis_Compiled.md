@@ -8,13 +8,13 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 22 | **Total Word Count**: ~18091 words
+> **Total Files Compiled**: 29 | **Total Word Count**: ~22672 words
 
 ## 📂 Table of Contents
 
 - [Home.md](#-file-home-md) (~881 words)
 - [02_Academic & Work/thesis/Pipeline_MOC.md](#-file-02_academic-&-work-thesis-pipeline_moc-md) (~232 words)
-- [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~954 words)
+- [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~1218 words)
 - [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-01-12.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-01-12-md) (~206 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-03-07.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-03-07-md) (~173 words)
@@ -32,6 +32,13 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 - [02_Academic & Work/thesis/defense-prep/Jury Questions Prep.md](#-file-02_academic-&-work-thesis-defense-prep-jury-questions-prep-md) (~1856 words)
 - [02_Academic & Work/thesis/defense-prep/Numbers Arsenal.md](#-file-02_academic-&-work-thesis-defense-prep-numbers-arsenal-md) (~706 words)
 - [02_Academic & Work/thesis/defense-prep/Oral Practice Log.md](#-file-02_academic-&-work-thesis-defense-prep-oral-practice-log-md) (~362 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2).md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-1-response-(chapter-2)-md) (~706 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 1 Response.md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-1-response-md) (~431 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 2 Response (Chapter 2).md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-2-response-(chapter-2)-md) (~586 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 2 Response.md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-2-response-md) (~754 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2).md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-3-response-(chapter-2)-md) (~661 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 3 Response.md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-3-response-md) (~529 words)
+- [02_Academic & Work/thesis/defense-prep/Reviewer 4 Response.md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-4-response-md) (~650 words)
 - [02_Academic & Work/thesis/defense-prep/Session 0 — First Run.md](#-file-02_academic-&-work-thesis-defense-prep-session-0-—-first-run-md) (~549 words)
 - [02_Academic & Work/thesis/defense-prep/Victory Speech.md](#-file-02_academic-&-work-thesis-defense-prep-victory-speech-md) (~580 words)
 
@@ -287,6 +294,15 @@ SCALE ────────────────────────�
 | Site mineralogy | [[04_Knowledge Base/wiki/concepts/Mineral Assemblages]] — clays dominate surface, apatite ranks 3–7 |
 | Result | Mean R²=0.748, 84% spectra >0.70 |
 | Paper | Sensors 2025, DOI: 10.3390/s26010002 |
+| QC Gate | [[04_Knowledge Base/wiki/concepts/Muglight Replicate-Stability Gate\|Muglight Replicate-Stability Gate]] — 5 replicates, ≤ 6% variation gate |
+| Validation Rules | [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria\|SWIR-HHXRF Spectral-Elemental Validation Criteria]] — spectral-geochemical correlation rules |
+| Unmixing NNLS | [[04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1\|Linear Spectral Unmixing (NNLS) in Chapter 1]] — NNLS model & constraints |
+| HHXRF QA/QC | [[04_Knowledge Base/wiki/concepts/HHXRF Instrument Parameters & QA-QC\|HHXRF Instrument Parameters & QA-QC]] — Vanta M settings and drift checks |
+| Sample Profiles | [[04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles\|Integrated Sample-Level Mineralogical-Geochemical Profiles]] — 11 representative sample profiles |
+| Spatial Mapping | [[04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping\|Benguerir Site-Scale Oxide & Mineral Dominance Mapping]] — 6 oxide maps & 5 dominance domains |
+| Geochemical Ranges | [[04_Knowledge Base/wiki/concepts/HHXRF Major-Oxide Concentration Ranges\|HHXRF Major-Oxide Concentration Ranges]] — oxide concentration limits across 104 samples |
+| Similarity Statistics | [[04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics\|Chapter 1 Cohort Spectral Similarity Metrics]] — similarity statistics and RMSE warning |
+| Data Asset | [[04_Knowledge Base/wiki/concepts/Data Asset — Chapter 1 Supplementary Tables\|Data Asset — Chapter 1 Supplementary Tables]] — Supplementary Tables S1–S3 index |
 
 ---
 
@@ -362,6 +378,10 @@ SCALE ────────────────────────�
 | [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]] | Daily plan |
 | [[02_Academic & Work/thesis/defense-prep/Defense Quiz — NotebookLM]] | AI-generated quiz practice |
 | [[02_Academic & Work/thesis/defense-prep/Session 0 — First Run]] | First full oral rehearsal log |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response]] | Reviewer 1 objections on spatial mapping & conclusion format |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 2 Response]] | Reviewer 2 objections on sampling, grain size, and XRD/HHXRF QA |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 3 Response]] | Reviewer 3 objections on XRD validation and Muglight stability gate |
+| [[02_Academic & Work/thesis/defense-prep/Reviewer 4 Response]] | Reviewer 4 objections on Kubelka–Munk, outlier detection, and unmixing residuals |
 
 ---
 
@@ -2384,6 +2404,377 @@ if (sessions.length === 0) {
 - If under 40 min: identify exactly which section ate time
 - If confidence < 6: drill that section specifically the next day
 - Defense is June 30 — every session logged is evidence of the sprint
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 1 Response (Chapter 2).md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 1 Feedback & Responses (Chapter 2)
+
+This note summarizes the key objections raised by Reviewer 1 during the peer review of Chapter 2 (accepted in *Minerals* 2026) and how they were resolved. These points are essential for defense preparation, especially on classifier comparative baselines and dataset scaling.
+
+---
+
+## 1. Dataset Generalization (n = 127)
+*   **Reviewer Objection**: Pointed out that the dataset of **127** samples is small, suggesting weak support for the classification results and requesting further verification of model generalization. (Source: [reviewer_1_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L33)).
+*   **Author Response & Actions**:
+    *   Explained that **127** samples represent the physical maximum achievable under a strict one-sample-per-30 m pixel spectral independence filter; **80** redundant samples occupying shared PRISMA pixels were removed to prevent spatial autocorrelation inflation. (Source: [reviewer_1_ch2.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L34); sample count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47-L48)).
+    *   Ensured statistical robustness by running **10** repeated runs of **5**-fold spatially constrained cross-validation (50 independent train/test splits per model). (Source: [reviewer_1_ch2.txt:L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L35); parameters confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L51)).
+
+## 2. Multi-Metric Performance Table
+*   **Reviewer Objection**: Stated that reporting only AUC > 0.95 (which applies only to the carbonate classes, Marl and Limestone) is insufficient to demonstrate model effectiveness. (Source: [reviewer_1_ch2.txt:L39,L42](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L39#L42)).
+*   **Author Response & Actions**:
+    *   Added Table 2 reporting **6** complementary evaluation metrics across all **7** classifiers: Overall Accuracy (OA), Balanced Accuracy (BA), Cohen's Kappa ($\kappa$), weighted F1-score, Matthews Correlation Coefficient (MCC), and macro-averaged OvR AUC. (Source: [reviewer_1_ch2.txt:L41](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L41)).
+    *   Established Balanced Accuracy as the primary performance metric to correct for class imbalance. (Source: [reviewer_1_ch2.txt:L41](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L41)).
+
+## 3. Feature Selection Ablation (Full-Band vs. ANOVA-60)
+*   **Reviewer Objection**: Recommended conducting an ablation study comparing full-band versus selected-band performance. (Source: [reviewer_1_ch2.txt:L44](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L44)).
+*   **Author Response & Actions**:
+    *   Conducted ablation comparing all **189** clean bands to the top **60** ANOVA-selected bands. (Source: [reviewer_1_ch2.txt:L46](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L46)).
+    *   ANOVA-60 matched or exceeded full-band performance for four out of five classifiers, with the most pronounced gain observed for SVM ($\Delta\text{BA} = +0.064$), demonstrating that reducing dimensionality by **68%** successfully mitigates the curse of dimensionality. (Source: [reviewer_1_ch2.txt:L46](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L46)).
+
+## 4. CNN Baseline & Classifier Expansion
+*   **Reviewer Objection**: Questioned why better-performing models (like CNN or LightGBM) or classical spectral classifiers were not compared. (Source: [reviewer_1_ch2.txt:L48](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L48)).
+*   **Author Response & Actions**:
+    *   Justified CNN exclusion: With **127** samples (only **20–49** samples per class), training deep 1D-CNNs under spatial cross-validation would cause severe overfitting. (Source: [reviewer_1_ch2.txt:L37,L50](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L37#L50)).
+    *   Added LightGBM (BA = **0.626 ± 0.041**) and Spectral Angle Mapper (SAM, BA = **0.536 ± 0.036**) as baselines. SAM's underperformance ($\Delta\text{BA} = +0.097$ to $+0.157$ compared to supervised ML) directly quantifies the value of machine learning. (Source: [reviewer_1_ch2.txt:L51-53](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L51-L53)).
+
+## 5. ANOVA vs. PCA and Mutual Information
+*   **Reviewer Objection**: Requested justification for using ANOVA F-test over PCA or Mutual Information (MI). (Source: [reviewer_1_ch2.txt:L54](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L54)).
+*   **Author Response & Actions**:
+    *   Explained that PCA introduces information leakage when calculated across the whole dataset before CV folds. In contrast, ANOVA F-test was nested *inside* each CV fold on training data only. (Source: [reviewer_1_ch2.txt:L55](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L55)).
+    *   Conducted a direct ANOVA vs. Mutual Information feature selection comparison (both at $k = 60$ bands), showing negligible differences ($|\Delta\text{BA}| \le 0.010$), justifying ANOVA for its physical interpretability and computational speed. (Source: [reviewer_1_ch2.txt:L56](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L56)).
+
+## 6. Generalization Limitations & Caveats
+*   **Reviewer Objection**: Demanded a stronger discussion of limitations in the conclusion and methods. (Source: [reviewer_1_ch2.txt:L60](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L60)).
+*   **Author Response & Actions**:
+    *   Added L862–877 explicitly documenting:
+        1.  CNN/deep learning models are outside the scope due to sample size.
+        2.  Model transferability to other basins (e.g., Khouribga, Youssoufia, Boucrâa) has not been empirically validated and requires site-specific retraining.
+        3.  Posterior probabilities used for uncertainty mapping are uncalibrated (no Platt scaling or isotonic regression), and should be treated as relative scores. (Source: [reviewer_1_ch2.txt:L62-63](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L62-L63)).
+
+## 7. Defense Value (Jury Strategy)
+If asked about why we didn't use deep learning or PCA for band selection:
+> *"We restricted the dataset to **127** unique pixels to prevent spatial autocorrelation from inflating accuracies. At this scale (**20--49** samples per class), deep learning models like 1D-CNNs would suffer from severe overfitting. In addition, we chose ANOVA F-test because it is computed nested within each fold (avoiding PCA-based information leakage) and selected a SWIR-dominant feature profile whose performance is statistically equivalent to Mutual Information ($|\Delta\text{BA}| \le 0.010$) while preserving direct physical interpretability."*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 1 Response.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 1 Feedback & Responses (Chapter 1)
+
+This note summarizes the key objections raised by Reviewer 1 during the peer review of Chapter 1 (published in *Sensors* 2025) and how they were resolved. These points are critical for defense preparation, particularly under questioning from **Pr. Jochem Verrelst** or **Pr. Aaron Berg**.
+
+---
+
+## 1. Spatial Context & Site Mapping
+*   **Reviewer Objection**: The study was deemed incomplete because it lacked mapping of spatial variations across the study site. The reviewer requested that the manuscript begin with a sampling map and conclude with a mineralogical map to calibrate and highlight the point-based analyses. (Source: [reviewer_1_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r1.txt#L32)).
+*   **Author Response & Actions**: 
+    *   Added a site sampling-location map as Figure 1 showing the **104** stations and the mine boundary. (Source: [reviewer_1_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r1.txt#L34); sample count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L27)).
+    *   Added **6** HHXRF-based major oxide elemental maps (SiO₂, P₂O₅, CaO, K₂O, Fe₂O₃, Al₂O₃) as Figure 10 to display distribution patterns across the Benguerir mine. (Source: [reviewer_1_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r1.txt#L9-L10)).
+    *   Added a mineralogical dominance map as Figure 11 that classifies and delineates the mine site into **5** dominant lithological domains: carbonate-rich, clay-dominated, phosphate-rich, ferruginous, and siliceous. (Source: [reviewer_1_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r1.txt#L9-L10)).
+    *   Introduced a new subsection **3.8 Site-scale spatial patterns** (lines 526–546) in the manuscript to discuss how these spatial patterns align with field geological observations and sample-scale mineralogical findings. (Source: [reviewer_1_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r1.txt#L35-L40)).
+
+## 2. Conclusion Formatting
+*   **Reviewer Objection**: In Round 2, the reviewer noted that while the scientific content of the conclusions was solid, the format resembled a list of presentation slides (due to a previous formatting request by Reviewer 2 to use bullet points) and lacked the cohesive narrative style expected in a high-quality scientific journal. (Source: [reviewer_1_r2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L33)).
+*   **Author Response & Actions**:
+    *   The entire conclusion section (lines 695–719) was rewritten, replacing the bulleted points with a cohesive, integrated narrative. (Source: [reviewer_1_r2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L36-L37)).
+    *   The narrative conclusion synthesizes:
+        1.  The fast and practical workflow of pairing VNIR–SWIR reflectance spectroscopy with handheld XRF.
+        2.  The validation of spectroscopic mineralogy with qualitative XRD.
+        3.  Compositional heterogeneity reflecting the interbedded geology of the Gantour basin.
+        4.  Practical operational utility for OCP Group (cover design, reclamation, secondary phosphate recovery).
+        5.  Valorization in the framework of Morocco's circular economy.
+
+## 3. Defense Value (Jury Strategy)
+If the jury asks about the site-scale mapping or how point-based measurements generalize:
+> *"We moved from sample-scale spectroscopy to site-scale mapping at Reviewer 1's recommendation. By mapping the **104** locations, we confirmed that localized geochemistry translates into broad, coherent lithological belts (such as carbonate domains and clay/Fe-rich zones) matching the interbedded Gantour stratigraphy."*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 2 Response (Chapter 2).md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 2 Feedback & Responses (Chapter 2)
+
+This note summarizes the key objections raised by Reviewer 2 during the peer review of Chapter 2 (accepted in *Minerals* 2026) and how they were resolved. These points are essential for defense preparation, particularly on spatial autocorrelation and scientific novelty.
+
+---
+
+## 1. Scientific Novelty Statement
+*   **Reviewer Objection**: Argued that the manuscript mainly combines existing methodologies rather than introducing a fundamentally new approach, requesting that the main scientific contribution be clarified. (Source: [reviewer_2_ch2.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L31)).
+*   **Author Response & Actions**:
+    *   Formulated a three-part novelty statement (L113–122):
+        1.  **First application** of PRISMA spaceborne hyperspectral mapping to phosphate mine waste rock piles (a complex geological mixture of calcite, dolomite, illite, and fluorapatite not addressed in existing alteration/coastal PRISMA literature).
+        2.  **Strict spatial validation**: Implementing a fully nested, spatially constrained cross-validation calibrated to PRISMA's **30 m** footprint.
+        3.  **Physical ground truth**: Grounding classification labels in XRD mineralogy and petrography, rather than visual field descriptions alone. (Source: [reviewer_2_ch2.txt:L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L35)).
+
+## 2. Dataset Adequacy & Generalization
+*   **Reviewer Objection**: Questioned whether **127** samples are adequate for machine learning generalization. (Source: [reviewer_2_ch2.txt:L36](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L36)).
+*   **Author Response & Actions**:
+    *   Justified that the **127** samples represent the physical limit of unique spatial footprints after removing **80** redundant co-located samples from the **207** field dataset. (Source: [reviewer_2_ch2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L37)).
+    *   Spatially buffered training sets yielded effective sample sizes of **~85--100** samples per fold, which are operationally sufficient for stable ensemble tree models when evaluated over **50** independent splits. (Source: [reviewer_2_ch2.txt:L37](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L37)).
+
+## 3. Baseline Comparisons
+*   **Reviewer Objection**: Recommended comparing the ML results with classical approaches like Spectral Angle Mapper (SAM) or PCA. (Source: [reviewer_2_ch2.txt:L38](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L38)).
+*   **Author Response & Actions**:
+    *   Added SAM as a parameter-free baseline (BA = **0.536 ± 0.036**). (Source: [reviewer_2_ch2.txt:L39](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L39)).
+    *   Excluded PCA-based classification because applying PCA before CV folds causes information leakage. Mutual Information was evaluated instead as a feature selector baseline. (Source: [reviewer_2_ch2.txt:L40](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L40)).
+
+## 4. Random vs. Spatial Cross-Validation
+*   **Reviewer Objection**: Requested a direct comparison between random cross-validation and spatially constrained cross-validation to demonstrate the impact of spatial autocorrelation. (Source: [reviewer_2_ch2.txt:L41](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L41)).
+*   **Author Response & Actions**:
+    *   Conducted a direct comparison: Performance differences were extremely small ($|\Delta\text{BA}| \le 0.035$) and showed no consistent direction (e.g., Random Forest BA Random = **0.669 ± 0.021** vs. BA Spatial = **0.666 ± 0.032**). (Source: [reviewer_2_ch2.txt:L43](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L43); values confirmed in [supp_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L213-L214)).
+    *   Explained that because co-located pixels had already been deduplicated in the preprocessing step, the spatial autocorrelation at **30 m** had already been mitigated. This confirms that the reported spatial CV accuracies represent genuine generalization estimates and are not inflated by autocorrelation. (Source: [reviewer_2_ch2.txt:L43](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L43)).
+
+## 5. Model Transferability vs. Scalability
+*   **Reviewer Objection**: Challenged the claim of "scalability" given the study was conducted at a single site. (Source: [reviewer_2_ch2.txt:L45](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L45)).
+*   **Author Response & Actions**:
+    *   Replaced all instances of "scalable" with "transferable in principle" to temper the claim. (Source: [reviewer_2_ch2.txt:L46](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L46)).
+    *   Acknowledged that transferability to other major Moroccan basins (e.g., Khouribga, Youssoufia, Boucrâa) requires site-specific retraining due to geochemical variations. (Source: [reviewer_2_ch2.txt:L46-47](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L46#L47)).
+
+## 6. Defense Value (Jury Strategy)
+If asked about why spatial CV didn't show a massive drop in accuracy compared to random CV:
+> *"The spatial-vs-random CV comparison showed very small differences ($|\Delta\text{BA}| \le 0.035$) because our preprocessing step had already filtered out the **80** co-located samples that occupied shared **30 m** pixel footprints. By eliminating spatial redundancy at the pixel scale first, we successfully removed the primary autocorrelation effect, ensuring that both CV schemes evaluated generalization to distinct pixel footprints."*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 2 Response.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 2 Feedback & Responses (Chapter 1)
+
+This note summarizes the key objections raised by Reviewer 2 during the peer review of Chapter 1 (published in *Sensors* 2025) and how they were resolved. These points are essential for defense prep, especially when defending the sampling and sample preparation protocols.
+
+---
+
+## 1. Sampling Methodology & Site Coverage
+*   **Reviewer Objection**: The reviewer requested detailed justification for selecting exactly **104** sample points and the reasons for not pursuing complete, uniform areal coverage of the study site. They also asked if a petrological classification was applied. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L33)).
+*   **Author Response & Actions**:
+    *   Explained that the survey was designed to capture the full distribution of waste-rock piles accumulated since the start of mining operations in **1983** across the Benguerir site. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L34)).
+    *   Explicitly documented road inaccessibility and safety restrictions in abandoned zones as logistical limitations. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L34-L36)).
+    *   Clarified that an on-site macroscopic petrological classification was used to group the samples into **4** lithological classes: carbonate-rich, clay-dominated, phosphate-rich, and a mixed group. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L9)).
+
+## 2. Particle Size & Spectral Fidelity (Critical Methods Point)
+*   **Reviewer Objection**: The reviewer challenged the use of a `< 2 mm` fraction for spectroscopic analysis, arguing that a grain size of **2 mm** could introduce surface roughness, leading to scattering and unreliable spectra. They suggested a conventional finer grind (e.g., `< 150-200 µm`). (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L37)).
+*   **Author Response & Actions**:
+    *   Clarified that all samples were jaw-crushed and pulverized in an agate ring mill to a fine, homogeneous powder, and the `< 2 mm` sieving step was used *only* to exclude coarse chips. Thus, measurements were not conducted on **2 mm** grains. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L38-L39)).
+    *   Explained that spectra were acquired under fixed Muglight geometry on leveled, packed cups with replicate scans and an internal quartz standard to minimize scattering. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L38)).
+    *   Justified the protocol as balancing spectral fidelity with cross-technique comparability, as the same `< 2 mm` powder was required for HHXRF measurements to ensure strict co-registration of mineralogical and elemental data. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L38-L39)).
+
+## 3. SWIR Mineralogical Validation via XRD
+*   **Reviewer Objection**: The reviewer pointed out systematic limitations of SWIR mineral phase analysis and recommended validating the results using powder X-ray diffraction (XRD) on **5 to 10** representative samples. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L40)).
+*   **Author Response & Actions**:
+    *   Performed powder XRD on **8** representative samples spanning the four lithological families. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L41); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L33)).
+    *   Added Figure 5 displaying diffractograms and phase annotations, confirming the primary mineral phases (dolomite/calcite in carbonate-rich, illite/kaolinite in clay-dominated, and fluorapatite in phosphate-rich samples). (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L41-L44)).
+
+## 4. HHXRF Accuracy Verification
+*   **Reviewer Objection**: The reviewer highlighted potential spectral interference and peak overlaps in HHXRF data, suggesting validation against Wavelength-Dispersive XRF (WDXRF) or ICP-MS on **5 to 10** samples. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L47)).
+*   **Author Response & Actions**:
+    *   Strengthened the QA/QC description for HHXRF in the Methods (instrument calibration, repeat analyses, CRM checks, drift control, and internal consistency checks with XRD-validated mineral groups). (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L9,L48)).
+    *   Noted laboratory benchmarking (WDXRF/ICP-MS) as a planned future step rather than performing it immediately. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L9,L48)).
+
+## 5. Data Transparency & Figure Subsets
+*   **Reviewer Objection**: Asked why only an exemplar subset of samples (e.g., VL400, VL401, VL02) was shown in the main figures and suggested archiving the complete dataset. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L49)).
+*   **Author Response & Actions**:
+    *   Explained that showing a small subset was an editorial and pedagogical choice for clarity, not based on performance thresholds. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L50)).
+    *   Provided the complete **104**-sample dataset (spectra, HHXRF chemistry, XRD matches) in Supplementary Tables S2–S3 to ensure full reproducibility. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L9,L50)).
+
+## 6. Spatial and Geostatistical Analysis
+*   **Reviewer Objection**: Stated that a dataset of **n = 104** should go beyond simple plots and include spatial mapping or geostatistical analysis. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L54)).
+*   **Author Response & Actions**:
+    *   Added spatial maps of major oxides (SiO₂, P₂O₅, CaO, K₂O, Fe₂O₃, Al₂O₃) and a mineralogical dominance map based directly on HHXRF compositions, confirming that mapped domains align with field observations. (Source: [reviewer_2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2.txt#L55-L60)).
+
+## 7. Defense Value (Jury Strategy)
+If asked about grain size prep and scattering during the defense:
+> *"The `< 2 mm` sieved fraction was not analyzed as coarse grains. All samples were pulverized to a fine, homogeneous powder, and `< 2 mm` was simply a cutoff to exclude unpulverized rock chips. By utilizing a fixed Muglight geometry, leveled cups, and replicate scans, we controlled for scattering and surface roughness while maintaining sample consistency for coregistered HHXRF measurements."*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 3 Response (Chapter 2).md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 3 Feedback & Responses (Chapter 2)
+
+This note summarizes the key objections raised by Reviewer 3 during the peer review of Chapter 2 (accepted in *Minerals* 2026) and how they were resolved. These points are critical for defense preparation, especially on reproducibility and model validation.
+
+---
+
+## 1. Pixel Conflict Resolution & Sub-Pixel Heterogeneity
+*   **Reviewer Objection**: Requested detailed explanation of the procedure used to handle multiple field samples falling within the same 30 m PRISMA pixel, particularly when co-located samples showed conflicting lithologies. (Source: [reviewer_3_ch2.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L31)).
+*   **Author Response & Actions**:
+    *   Added Section 2.2 L174–179 detailing the conflict resolution protocol:
+        1.  For pixels containing multiple co-located samples, the sample with the most reliable laboratory characterization (XRF and, where available, XRD) was retained. (Source: [reviewer_3_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33)).
+        2.  If co-located samples within a single pixel showed conflicting lithologies (reflecting genuine sub-pixel heterogeneity), the pixel was excluded entirely from the modelling dataset to prevent training on ambiguous labels. (Source: [reviewer_3_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33)).
+    *   This filter resulted in the final refined dataset of **127** spatially independent samples. (Source: [reviewer_3_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L33); count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47)).
+
+## 2. Final Class Distribution (For Reproducibility)
+*   **Reviewer Objection**: Requested the exact final class distribution of the **127** modeling samples to ensure reproducibility. (Source: [reviewer_3_ch2.txt:L38](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L38)).
+*   **Author Response & Actions**:
+    *   Documented the class distribution at Section 2.2 L179–181:
+        *   **Marl**: $n = 49$ (38.6%)
+        *   **Limestone**: $n = 35$ (27.6%)
+        *   **Phosphate rock**: $n = 23$ (18.1%)
+        *   **Siliceous facies**: $n = 20$ (15.7%)
+    *   *(Source: [reviewer_3_ch2.txt:L34,L40](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L34#L40); class counts confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L49) and [Defense Strategy.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Defense%20Strategy.md#L188)).*
+
+## 3. Effective Training Sample Sizes
+*   **Reviewer Objection**: Requested reporting the effective training sample sizes after applying the spatial cross-validation buffer. (Source: [reviewer_3_ch2.txt:L38](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L38)).
+*   **Author Response & Actions**:
+    *   Documented that under the 5-fold cross-validation scheme of the **127** samples, each fold assigns $\sim 25$ samples for validation and $\sim 102$ samples for training. (Source: [reviewer_3_ch2.txt:L42](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L42)).
+    *   After applying the **30 m** spatial buffer (excluding training samples within one pixel width of any validation sample), the effective training set is reduced to **85--100** samples per fold, depending on the spatial clustering of the fold. (Source: [reviewer_3_ch2.txt:L42](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L42)).
+
+## 4. Posterior Probability Caveats
+*   **Reviewer Objection**: Challenged interpreting uncalibrated classifier posterior probabilities as "confidence" and Shannon entropy as "prediction reliability". (Source: [reviewer_3_ch2.txt:L44](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L44)).
+*   **Author Response & Actions**:
+    *   Moderated the terminology throughout Sections 3.2.5, 4.4, and the Conclusion: replaced "confidence" with "posterior probability estimates (relative indicators)" and "high classification scores". (Source: [reviewer_3_ch2.txt:L46-47](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L46#L47)).
+    *   Added a formal caveat (L873–877) stating that because probability calibration (Platt scaling or isotonic regression) was not performed, the Shannon entropy and posterior probabilities represent *relative indicators* of prediction uncertainty rather than absolute probabilistic estimates. (Source: [reviewer_3_ch2.txt:L48-49](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L48#L49)).
+
+## 5. Mapping XRD and Petrographic Samples
+*   **Reviewer Objection**: Asked how the laboratory **20** XRD samples and **10** thin sections relate to the final **127** modeling samples. (Source: [reviewer_3_ch2.txt:L58](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L58)).
+*   **Author Response & Actions**:
+    *   Added Section 2.3.2 L230–241: Clarified that all **20** XRD samples are distributed across the four lithological classes. Those whose PRISMA pixel footprint was unique are included within the **127** modeling samples. The **10** thin sections were prepared from this same mineralogically characterized subset. (Source: [reviewer_3_ch2.txt:L60](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L60)).
+    *   This link ensures that the class labels used for training are geologically and mineralogically validated by laboratory analysis, even though costs prevented extending XRD/petrography to all **127** samples. A mapping of XRD identifiers is provided in Supplementary Table S2. (Source: [reviewer_3_ch2.txt:L60-61](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3_ch2.txt#L60#L61)).
+
+## 6. Defense Value (Jury Strategy)
+If asked about posterior probabilities and uncertainty maps during the defense:
+> *"We explicitly frame the Shannon entropy and maximum posterior probabilities as relative indicators of classification reliability rather than true calibrated probabilities, as no Platt scaling or isotonic regression was applied. This caveat was added to the manuscript at Reviewer 3's recommendation. Geologically, these maps remain highly valuable because they show that prediction uncertainty is not randomly distributed, but is spatially concentrated along lithological contacts where sub-pixel mixing occurs."*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 3 Response.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 3 Feedback & Responses (Chapter 1)
+
+This note summarizes the key objections raised by Reviewer 3 during the peer review of Chapter 1 (published in *Sensors* 2025) and how they were resolved. These points are key for defense preparation, especially on quality control gates and structural choices.
+
+---
+
+## 1. SWIR Interpretation Validation & Tempered Conclusions
+*   **Reviewer Objection**: Recommended validating SWIR interpretations with mineral detection methods (like XRD) on at least some samples, and reformulating the conclusions using less definite claims if validation was not included. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L33)).
+*   **Author Response & Actions**:
+    *   Performed powder XRD validation on **8** representative samples spanning the four field classes (carbonate-rich, clay-dominated, phosphate-rich, mixed). (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L35); sample count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L33)).
+    *   Revised the conclusions to temper over-definite claims, framing the SWIR interpretations as "qualitative confirmation" rather than definite phase detection. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L9,L35)).
+
+## 2. Manuscript Structure & Future Directions
+*   **Reviewer Objection**: Argued that the "Future directions" section should belong in the Discussion rather than the Conclusions, keeping the Conclusions as the final standalone chapter of the manuscript. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L41)).
+*   **Author Response & Actions**:
+    *   Moved "Future directions" into a dedicated final subsection of the Discussion. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L42)).
+    *   Kept the Conclusions section as the final chapter before the references and funding statements. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L42)).
+
+## 3. Removal of Speculative Spatial Mapping Text
+*   **Reviewer Objection**: Questioned lines 139–146 of the original draft, noting that it previewed spatial mapping as a future step without presenting actual mapping results, causing redundancy. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L43)).
+*   **Author Response & Actions**:
+    *   Removed the speculative text at lines 139–146. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L9,L43)).
+    *   Replaced it with a forward reference to the newly implemented spatial maps (Figure 10 and Figure 11) presenting the **6** major oxide elemental maps (SiO₂, P₂O₅, CaO, K₂O, Fe₂O₃, Al₂O₃) and the derived mineralogical dominance map. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L44)).
+
+## 4. Quality Control & Replicate-Stability Gate (Critical Defense Prep)
+*   **Reviewer Objection**: Pointed out that because the paper focused on measurement techniques (SWIR & HHXRF), the quality control details needed to be much more rigorous and explicit. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45)).
+*   **Author Response & Actions**:
+    *   Added a detailed description of the Muglight QC gate to the Methods: 
+        *   Before each session, **5** replicate spectra of the internal reference standard were collected. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45-L46)).
+        *   Calculated percent variation across replicates relative to the replicate mean. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45-L46)).
+        *   Applied a replicate-stability threshold of **≤ 6%** acceptance over the working range. (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L45-L46)).
+        *   If variation exceeded **6%**, measurements were halted, and system re-stabilization was performed (checking window cleanliness, ensuring a leveled/tamped cup, and enforcing a lamp warm-up of **≥ 30 min** with fresh calibration). (Source: [reviewer_3.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_3.txt#L46)).
+
+## 5. Defense Value (Jury Strategy)
+If asked about instrument stability or quality control during the defense:
+> *"We implemented a rigorous stability gate tailored specifically to our Muglight setup. Every measurement session was preceded by **5** replicates of our internal standard, enforcing a strict **≤ 6%** variation threshold across the working range. If the gate failed, we performed a systematic reset—including enforcing a **≥ 30 min** lamp warm-up—before re-testing. Only sessions passing this gate proceeded to soil measurements."*
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/defense-prep/Reviewer 4 Response.md
+
+---
+date: 2026-06-13
+tags:
+---
+
+
+# Reviewer 4 Feedback & Responses (Chapter 1)
+
+This note summarizes the key objections raised by Reviewer 4 during the peer review of Chapter 1 (published in *Sensors* 2025) and how they were resolved. These points are essential for defense preparation, especially on spectral preprocessing, unmixing, and mineral identification thresholds.
+
+---
+
+## 1. Defining "Valorization"
+*   **Reviewer Objection**: Clarify the meaning of the term "valorization" used in the abstract and introduction (Line 24). (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L33)).
+*   **Author Response & Actions**:
+    *   Defined "valorization" at first use as *"beneficial reuse or value recovery from waste materials (e.g., use in cover systems, buffering, or other engineered applications)"*. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L34-L36)).
+
+## 2. Preprocessing & Kubelka–Munk Transformation
+*   **Reviewer Objection**: Asked whether the reflectance experiment measured diffuse reflectance, and if so, why the Kubelka–Munk (K–M) transformation was not applied to the spectra. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L37)).
+*   **Author Response & Actions**:
+    *   Confirmed the Muglight setup measures diffuse reflectance on packed powders. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L38)).
+    *   Explained that K–M assumptions (homogeneous, semi-infinite layer with wavelength-invariant scattering) are violated by granular soils with variable grain size and porosity. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L38)).
+    *   Clarified that standard practice for mineral feature identification works in calibrated reflectance (using continuum removal/derivatives). Physical inversion, if attempted, would require a granular radiative-transfer model (like Hapke) rather than K–M. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L38)).
+
+## 3. Outlier Detection Workflow
+*   **Reviewer Objection**: Stated that the manuscript mentioned outlier removal but did not explain the methodology used to identify these outliers. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L39)).
+*   **Author Response & Actions**:
+    *   Explicitly documented the workflow:
+        *   Collected **5** replicate spectra per sample from different positions under fixed geometry. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L40)).
+        *   Discarded scans with instrumental artefacts (saturation, negative values, detector splice mismatches). (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L40-L42)).
+        *   Assessed remaining replicates against the within-sample median; excluded replicates showing baseline shift or band-shape distortions on visual inspection. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L40-L42)).
+        *   Median-averaged the accepted scans to obtain the final representative spectrum. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L40-L42)).
+
+## 4. Fluorapatite Detection Thresholds (Critical Defense Prep)
+*   **Reviewer Objection**: Argued that the fluorapatite library match in Figure 4 was weak because its R² was only **60%**, compared to dolomite and illite which showed strong matches (**60% to >80%**). (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L43)).
+*   **Author Response & Actions**:
+    *   Acknowledged that the global R² for fluorapatite was moderate (**R² ≈ 60%**) due to the mixed carbonate–clay matrix depressing the fit. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L44-L46)).
+    *   Tempered the claim to "consistent with apatite in a mixed matrix" rather than a "strong match". (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L44-L46)).
+    *   Clarified that mineral identification relies on a multi-metric rule (RMSE, SAM, SID) combined with visual inspection of the diagnostic **2.10–2.30 µm** phosphate absorption feature, further corroborated by elevated HHXRF P₂O₅/Ca and XRD patterns. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L44-L46)).
+
+## 5. Validity of Linear Spectral Unmixing & Residual Audits
+*   **Reviewer Objection**: Questioned whether missing minerals in the classical least squares unmixing affected the validity of the results, as suggested by the regression residuals. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L47)).
+*   **Author Response & Actions**:
+    *   Curated the unmixing candidate set to context-specific minerals expected at Benguerir (dolomite, calcite, quartz, illite, kaolinite, montmorillonite/smectite, fluorapatite). (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
+    *   Conducted constrained least squares (non-negative, sum-to-one) using the top **4-5** library candidates. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
+    *   Audited the post-fit residuals; if residuals showed structured features near diagnostic absorption bands, the unmixing was treated as approximate and interpreted qualitatively. (Source: [reviewer_4_r1.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_4_r1.txt#L48-L50)).
+
+## 6. Defense Value (Jury Strategy)
+If Pr. Verrelst asks about linear unmixing residuals or why fluorapatite has a low global R²:
+> *"The global R² for fluorapatite in Figure 4 was depressed (**R² ≈ 60%**) because of the dominant clay and carbonate matrix. This is why we did not rely on R² alone; we audited the **2.10–2.30 µm** spectral window specifically for the phosphate absorption feature and cross-validated the presence of fluorapatite using direct HHXRF P₂O₅ concentrations and powder XRD. Furthermore, we audited unmixing residuals systematically, treating any fits with structured residuals qualitatively rather than making over-definite quantitative claims."*
 
 
 
