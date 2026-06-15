@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-14
+date: 2026-06-15
 tags: [knowledge, compiled, notebooklm, wiki]
 summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 429 | **Total Word Count**: ~76780 words
+> **Total Files Compiled**: 442 | **Total Word Count**: ~77572 words
 
 ## 📂 Table of Contents
 
@@ -22,8 +22,21 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
+- [04_Knowledge Base/wiki/MOCs/Biodiversity MOC.md](#-file-04_knowledge-base-wiki-mocs-biodiversity-moc-md) (~28 words)
+- [04_Knowledge Base/wiki/MOCs/Botany MOC.md](#-file-04_knowledge-base-wiki-mocs-botany-moc-md) (~28 words)
+- [04_Knowledge Base/wiki/MOCs/Code-Pattern MOC.md](#-file-04_knowledge-base-wiki-mocs-code-pattern-moc-md) (~31 words)
+- [04_Knowledge Base/wiki/MOCs/Data-Asset MOC.md](#-file-04_knowledge-base-wiki-mocs-data-asset-moc-md) (~33 words)
+- [04_Knowledge Base/wiki/MOCs/Geology MOC.md](#-file-04_knowledge-base-wiki-mocs-geology-moc-md) (~30 words)
+- [04_Knowledge Base/wiki/MOCs/Gis MOC.md](#-file-04_knowledge-base-wiki-mocs-gis-moc-md) (~33 words)
+- [04_Knowledge Base/wiki/MOCs/Hyperspectral MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-moc-md) (~30 words)
 - [04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-remote-sensing-moc-md) (~447 words)
-- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~334 words)
+- [04_Knowledge Base/wiki/MOCs/Machine-Learning MOC.md](#-file-04_knowledge-base-wiki-mocs-machine-learning-moc-md) (~44 words)
+- [04_Knowledge Base/wiki/MOCs/Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-mineralogy-moc-md) (~63 words)
+- [04_Knowledge Base/wiki/MOCs/Reclamation MOC.md](#-file-04_knowledge-base-wiki-mocs-reclamation-moc-md) (~50 words)
+- [04_Knowledge Base/wiki/MOCs/Remote-Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-remote-sensing-moc-md) (~43 words)
+- [04_Knowledge Base/wiki/MOCs/Visualization MOC.md](#-file-04_knowledge-base-wiki-mocs-visualization-moc-md) (~31 words)
+- [04_Knowledge Base/wiki/MOCs/Waste-Rock MOC.md](#-file-04_knowledge-base-wiki-mocs-waste-rock-moc-md) (~48 words)
+- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~634 words)
 - [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
 - [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/sources/Abdelhak2022Progressive.md](#-file-04_knowledge-base-wiki-sources-abdelhak2022progressive-md) (~634 words)
@@ -1284,6 +1297,160 @@ summary: "Map of Content for Automated Mineralogy and XRF/Micro-XRF characteriza
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Biodiversity MOC.md
+
+---
+tags:
+---
+
+
+# Biodiversity MOC
+
+> Auto-generated index for biodiversity concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Raunkiaer's Life Forms]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Botany MOC.md
+
+---
+tags:
+---
+
+
+# Botany MOC
+
+> Auto-generated index for botany concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Raunkiaer's Life Forms]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Code-Pattern MOC.md
+
+---
+tags:
+---
+
+
+# Code-Pattern MOC
+
+> Auto-generated index for code-pattern concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Code — Hamza Collaboration Biodiversity Plotting]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Data-Asset MOC.md
+
+---
+tags:
+---
+
+
+# Data-Asset MOC
+
+> Auto-generated index for data-asset concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Data Asset — Benguerir Mine Species and Shapefiles]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Geology MOC.md
+
+---
+tags:
+---
+
+
+# Geology MOC
+
+> Auto-generated index for geology concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Phosphate Geology and Stratigraphy MOC]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Gis MOC.md
+
+---
+tags:
+---
+
+
+# Gis MOC
+
+> Auto-generated index for gis concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Data Asset — Benguerir Mine Species and Shapefiles]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Hyperspectral MOC.md
+
+---
+tags:
+---
+
+
+# Hyperspectral MOC
+
+> Auto-generated index for hyperspectral concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Synthetic Minority Over-sampling Technique (SMOTE)]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md
 
 ---
@@ -1339,6 +1506,150 @@ summary: "Map of Content for Hyperspectral Remote Sensing, Satellite Missions, a
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Machine-Learning MOC.md
+
+---
+tags:
+---
+
+
+# Machine-Learning MOC
+
+> Auto-generated index for machine-learning concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Synthetic Minority Over-sampling Technique (SMOTE)]] — Added automatically.
+- [[Minimum Distance Classifier]] — Added automatically.
+- [[Ensemble Voting Classifier]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Mineralogy MOC.md
+
+---
+tags:
+---
+
+
+# Mineralogy MOC
+
+> Auto-generated index for mineralogy concepts.
+
+---
+
+## 📂 Core Concepts
+- [[X-Ray Diffraction (XRD) in Mineralogy]] — Added automatically.
+- [[X'Pert HighScore Plus]] — Added automatically.
+- [[Rietveld Refinement in XRD]] — Added automatically.
+- [[Phosphate Mineral Validation Scheme]] — Added automatically.
+- [[Data Asset — PHD-1st XRD Reports]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Reclamation MOC.md
+
+---
+tags:
+---
+
+
+# Reclamation MOC
+
+> Auto-generated index for reclamation concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Raunkiaer's Life Forms]] — Added automatically.
+- [[Data Asset — Benguerir Mine Species and Shapefiles]] — Added automatically.
+- [[Code — Hamza Collaboration Biodiversity Plotting]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Remote-Sensing MOC.md
+
+---
+tags:
+---
+
+
+# Remote-Sensing MOC
+
+> Auto-generated index for remote-sensing concepts.
+
+---
+
+## 📂 Core Concepts
+- [[X'Pert HighScore Plus]] — Added automatically.
+- [[Phosphate Mineral Validation Scheme]] — Added automatically.
+- [[Minimum Distance Classifier]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Visualization MOC.md
+
+---
+tags:
+---
+
+
+# Visualization MOC
+
+> Auto-generated index for visualization concepts.
+
+---
+
+## 📂 Core Concepts
+- [[Code — Hamza Collaboration Biodiversity Plotting]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Waste-Rock MOC.md
+
+---
+tags:
+---
+
+
+# Waste-Rock MOC
+
+> Auto-generated index for waste-rock concepts.
+
+---
+
+## 📂 Core Concepts
+- [[X-Ray Diffraction (XRD) in Mineralogy]] — Added automatically.
+- [[Phosphate Waste Rock Piles Sampling Strategy]] — Added automatically.
+- [[Phosphate Mineral Validation Scheme]] — Initial concept.
+
+---
+*Related: [[Home|Mission Control]]*
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md
 
 ---
@@ -1353,6 +1664,37 @@ tags:
 ---
 
 ## 📂 Core Concepts
+- [[XRD and Petrographic Validation of Classification Labels]] — Added automatically.
+- [[SWIR-HHXRF Spectral-Elemental Validation Criteria]] — Added automatically.
+- [[Stratigraphy of the Gantour Basin and Benguerir Mine]] — Added automatically.
+- [[Spatially Constrained Cross-Validation in Chapter 2]] — Added automatically.
+- [[Spatial Uncertainty & Posterior Probability Score Mapping]] — Added automatically.
+- [[PRISMA Spatial Redundancy Filtering]] — Added automatically.
+- [[PRISMA Lithological Mapping Performance Metrics]] — Added automatically.
+- [[PRISMA Image Preprocessing & Spectral Optimization]] — Added automatically.
+- [[PRISMA Band Quality Map — Benguerir Acquisition]] — Added automatically.
+- [[PRISMA Bad Band Removal — Multi-Criterion Method]] — Added automatically.
+- [[Phosphatogenesis and Phosphate Deposit Formation]] — Added automatically.
+- [[Phosphate Mineralization Types and Lithological Components]] — Added automatically.
+- [[Muglight Replicate-Stability Gate]] — Added automatically.
+- [[Maastrichtian-Eocene Phosphatic Sequences]] — Added automatically.
+- [[Lithological Classifier Configurations & Baseline Models]] — Added automatically.
+- [[Linear Spectral Unmixing (NNLS) in Chapter 1]] — Added automatically.
+- [[Integrated Sample-Level Mineralogical-Geochemical Profiles]] — Added automatically.
+- [[HHXRF Major-Oxide Concentration Ranges]] — Added automatically.
+- [[HHXRF Instrument Parameters & QA-QC]] — Added automatically.
+- [[Geochemical Summary Statistics by Lithological Class]] — Added automatically.
+- [[Gantour Basin and Benguerir Mine Geological Setting]] — Added automatically.
+- [[Feature Selection & Validation Ablation Studies]] — Added automatically.
+- [[ECOSTRESS Spectral Library]] — Added automatically.
+- [[ECOSTRESS Library File Structure and Naming]] — Added automatically.
+- [[ECOSTRESS Application in Thesis Chapter 1]] — Added automatically.
+- [[Data Asset — Chapter 2 Supplementary Materials]] — Added automatically.
+- [[Data Asset — Chapter 1 Supplementary Tables]] — Added automatically.
+- [[Chapter 1 Cohort Spectral Similarity Metrics]] — Added automatically.
+- [[Benguerir Site-Scale Oxide & Mineral Dominance Mapping]] — Added automatically.
+- [[Atmospheric Absorption Windows in PRISMA]] — Added automatically.
+- [[ANOVA Wavelength Ranking & Selection Stability]] — Added automatically.
 - [[AMICS Automated Mineralogy]] — Added automatically.
 - [[AMICS Automated Mineralogy Workflow]] — Added automatically.
 - [[AMICS Automated Mineralogy in Phosphate Reclamation]] — Added automatically.
