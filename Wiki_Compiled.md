@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 442 | **Total Word Count**: ~77572 words
+> **Total Files Compiled**: 462 | **Total Word Count**: ~82597 words
 
 ## 📂 Table of Contents
 
@@ -96,12 +96,15 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/alvesRevisitingRamanSpectra2023.md](#-file-04_knowledge-base-wiki-sources-alvesrevisitingramanspectra2023-md) (~66 words)
 - [04_Knowledge Base/wiki/sources/amarMineWasteRock2023.md](#-file-04_knowledge-base-wiki-sources-amarminewasterock2023-md) (~75 words)
 - [04_Knowledge Base/wiki/sources/amarWasteRockReprocessing2022.md](#-file-04_knowledge-base-wiki-sources-amarwasterockreprocessing2022-md) (~73 words)
+- [04_Knowledge Base/wiki/sources/amrani2019.md](#-file-04_knowledge-base-wiki-sources-amrani2019-md) (~211 words)
 - [04_Knowledge Base/wiki/sources/amraniValorizationPhosphateMine2019.md](#-file-04_knowledge-base-wiki-sources-amranivalorizationphosphatemine2019-md) (~65 words)
+- [04_Knowledge Base/wiki/sources/anderson1985.md](#-file-04_knowledge-base-wiki-sources-anderson1985-md) (~102 words)
 - [04_Knowledge Base/wiki/sources/anjjarPhosphateSeriesBenguerir.md](#-file-04_knowledge-base-wiki-sources-anjjarphosphateseriesbenguerir-md) (~67 words)
 - [04_Knowledge Base/wiki/sources/araujoRecyclingReuseMine2022.md](#-file-04_knowledge-base-wiki-sources-araujorecyclingreusemine2022-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/aubineauHighlyVariableContent2022.md](#-file-04_knowledge-base-wiki-sources-aubineauhighlyvariablecontent2022-md) (~54 words)
 - [04_Knowledge Base/wiki/sources/aubineauPhosphateD13CorgChemostratigraphy2024.md](#-file-04_knowledge-base-wiki-sources-aubineauphosphated13corgchemostratigraphy2024-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/audebertDeepLearningClassification2019.md](#-file-04_knowledge-base-wiki-sources-audebertdeeplearningclassification2019-md) (~61 words)
+- [04_Knowledge Base/wiki/sources/bache1971.md](#-file-04_knowledge-base-wiki-sources-bache1971-md) (~98 words)
 - [04_Knowledge Base/wiki/sources/badiouiEtudeStratigraphiqueListing2015.md](#-file-04_knowledge-base-wiki-sources-badiouietudestratigraphiquelisting2015-md) (~415 words)
 - [04_Knowledge Base/wiki/sources/bahhouUsePhosphateMine2021.md](#-file-04_knowledge-base-wiki-sources-bahhouusephosphatemine2021-md) (~77 words)
 - [04_Knowledge Base/wiki/sources/barlowStatisticalInferenceOrder1972.md](#-file-04_knowledge-base-wiki-sources-barlowstatisticalinferenceorder1972-md) (~54 words)
@@ -125,6 +128,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/bradshawRestorationMinedLands1997.md](#-file-04_knowledge-base-wiki-sources-bradshawrestorationminedlands1997-md) (~54 words)
 - [04_Knowledge Base/wiki/sources/breimanRandomForests2001.md](#-file-04_knowledge-base-wiki-sources-breimanrandomforests2001-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/bressanEvaluationMachineLearning2020.md](#-file-04_knowledge-base-wiki-sources-bressanevaluationmachinelearning2020-md) (~74 words)
+- [04_Knowledge Base/wiki/sources/brown2005.md](#-file-04_knowledge-base-wiki-sources-brown2005-md) (~135 words)
 - [04_Knowledge Base/wiki/sources/buzziMappingChangesRecovering2014.md](#-file-04_knowledge-base-wiki-sources-buzzimappingchangesrecovering2014-md) (~52 words)
 - [04_Knowledge Base/wiki/sources/c.heckerSpectralAbsorptionFeature2019.md](#-file-04_knowledge-base-wiki-sources-c-heckerspectralabsorptionfeature2019-md) (~56 words)
 - [04_Knowledge Base/wiki/sources/chabrillatEnMAPSpaceborneImaging2024.md](#-file-04_knowledge-base-wiki-sources-chabrillatenmapspaceborneimaging2024-md) (~123 words)
@@ -192,11 +196,13 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021.md](#-file-04_knowledge-base-wiki-sources-giardinohyperspectralprismaproducts2021-md) (~84 words)
 - [04_Knowledge Base/wiki/sources/giardinoHyperspectralPrismaProducts2021a.md](#-file-04_knowledge-base-wiki-sources-giardinohyperspectralprismaproducts2021a-md) (~84 words)
 - [04_Knowledge Base/wiki/sources/giglioActiveFireDetection2008.md](#-file-04_knowledge-base-wiki-sources-giglioactivefiredetection2008-md) (~70 words)
+- [04_Knowledge Base/wiki/sources/gillespie2015.md](#-file-04_knowledge-base-wiki-sources-gillespie2015-md) (~253 words)
 - [04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985.md](#-file-04_knowledge-base-wiki-sources-goetzimagingspectrometryearth1985-md) (~62 words)
 - [04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985a.md](#-file-04_knowledge-base-wiki-sources-goetzimagingspectrometryearth1985a-md) (~62 words)
 - [04_Knowledge Base/wiki/sources/grewalMachineLearningDeep2023.md](#-file-04_knowledge-base-wiki-sources-grewalmachinelearningdeep2023-md) (~56 words)
 - [04_Knowledge Base/wiki/sources/guanterSpectralCalibrationHyperspectral2006.md](#-file-04_knowledge-base-wiki-sources-guanterspectralcalibrationhyperspectral2006-md) (~63 words)
 - [04_Knowledge Base/wiki/sources/guhaReflectanceSpectroscopyASTER2019.md](#-file-04_knowledge-base-wiki-sources-guhareflectancespectroscopyaster2019-md) (~85 words)
+- [04_Knowledge Base/wiki/sources/hakkou2009.md](#-file-04_knowledge-base-wiki-sources-hakkou2009-md) (~183 words)
 - [04_Knowledge Base/wiki/sources/hakkouValorizationPhosphateWaste2016.md](#-file-04_knowledge-base-wiki-sources-hakkouvalorizationphosphatewaste2016-md) (~58 words)
 - [04_Knowledge Base/wiki/sources/hallEvaluationPortableXray2014.md](#-file-04_knowledge-base-wiki-sources-hallevaluationportablexray2014-md) (~57 words)
 - [04_Knowledge Base/wiki/sources/hapkeBidirectionalReflectanceSpectroscopy1981.md](#-file-04_knowledge-base-wiki-sources-hapkebidirectionalreflectancespectroscopy1981-md) (~57 words)
@@ -271,6 +277,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/notescoApplicationHyperspectralRemote2020.md](#-file-04_knowledge-base-wiki-sources-notescoapplicationhyperspectralremote2020-md) (~58 words)
 - [04_Knowledge Base/wiki/sources/ongPredictingAcidDrainage2003.md](#-file-04_knowledge-base-wiki-sources-ongpredictingaciddrainage2003-md) (~63 words)
 - [04_Knowledge Base/wiki/sources/ouabouSynthesePhosphatogeneseBassins2015.md](#-file-04_knowledge-base-wiki-sources-ouabousynthesephosphatogenesebassins2015-md) (~325 words)
+- [04_Knowledge Base/wiki/sources/ouakibi2014.md](#-file-04_knowledge-base-wiki-sources-ouakibi2014-md) (~157 words)
 - [04_Knowledge Base/wiki/sources/ouzemouIntegratingPostrainfallMultispectral2026.md](#-file-04_knowledge-base-wiki-sources-ouzemouintegratingpostrainfallmultispectral2026-md) (~80 words)
 - [04_Knowledge Base/wiki/sources/ouzemouPredictingSoilSalinity2025.md](#-file-04_knowledge-base-wiki-sources-ouzemoupredictingsoilsalinity2025-md) (~63 words)
 - [04_Knowledge Base/wiki/sources/percivalCustomizedSpectralLibraries2018.md](#-file-04_knowledge-base-wiki-sources-percivalcustomizedspectrallibraries2018-md) (~81 words)
@@ -306,6 +313,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/sayabFinlandCobalt2024.md](#-file-04_knowledge-base-wiki-sources-sayabfinlandcobalt2024-md) (~284 words)
 - [04_Knowledge Base/wiki/sources/schaepmanEarthSystemScience2009.md](#-file-04_knowledge-base-wiki-sources-schaepmanearthsystemscience2009-md) (~75 words)
 - [04_Knowledge Base/wiki/sources/scholzSustainableUsePhosphorus2013.md](#-file-04_knowledge-base-wiki-sources-scholzsustainableusephosphorus2013-md) (~63 words)
+- [04_Knowledge Base/wiki/sources/schoumans2015.md](#-file-04_knowledge-base-wiki-sources-schoumans2015-md) (~102 words)
 - [04_Knowledge Base/wiki/sources/sealProgressGeoenvironmentalModels2002.md](#-file-04_knowledge-base-wiki-sources-sealprogressgeoenvironmentalmodels2002-md) (~57 words)
 - [04_Knowledge Base/wiki/sources/seminaireFssMarrakech2015.md](#-file-04_knowledge-base-wiki-sources-seminairefssmarrakech2015-md) (~120 words)
 - [04_Knowledge Base/wiki/sources/shadmanroodposhtiUncertaintyAssessmentHyperspectral2019.md](#-file-04_knowledge-base-wiki-sources-shadmanroodposhtiuncertaintyassessmenthyperspectral2019-md) (~60 words)
@@ -403,11 +411,13 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
 - [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
 - [04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles.md](#-file-04_knowledge-base-wiki-concepts-integrated-sample-level-mineralogical-geochemical-profiles-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/Landscape-Scale Florida Phosphate Reclamation.md](#-file-04_knowledge-base-wiki-concepts-landscape-scale-florida-phosphate-reclamation-md) (~204 words)
 - [04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-linear-spectral-unmixing-(nnls)-in-chapter-1-md) (~390 words)
 - [04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models.md](#-file-04_knowledge-base-wiki-concepts-lithological-classifier-configurations-&-baseline-models-md) (~372 words)
 - [04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences.md](#-file-04_knowledge-base-wiki-concepts-maastrichtian-eocene-phosphatic-sequences-md) (~311 words)
 - [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
 - [04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-micro-xrf-spectroscopy-md) (~440 words)
+- [04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC.md](#-file-04_knowledge-base-wiki-concepts-mine-rehabilitation-and-reclamation-moc-md) (~342 words)
 - [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
 - [04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md](#-file-04_knowledge-base-wiki-concepts-minimum-distance-classifier-md) (~310 words)
 - [04_Knowledge Base/wiki/concepts/Muglight Replicate-Stability Gate.md](#-file-04_knowledge-base-wiki-concepts-muglight-replicate-stability-gate-md) (~372 words)
@@ -454,6 +464,16 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/XRF Training Sample — Granite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-granite-md) (~326 words)
 - [04_Knowledge Base/wiki/concepts/XRF Training Sample — Particle Analysis.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-particle-analysis-md) (~437 words)
 - [04_Knowledge Base/wiki/concepts/XRF Training Sample — Pegmatite.md](#-file-04_knowledge-base-wiki-concepts-xrf-training-sample-—-pegmatite-md) (~467 words)
+- [04_Knowledge Base/wiki/concepts/amd-prevention-alkaline-phosphate-waste.md](#-file-04_knowledge-base-wiki-concepts-amd-prevention-alkaline-phosphate-waste-md) (~363 words)
+- [04_Knowledge Base/wiki/concepts/el-mansour-phd-entrance-proposal.md](#-file-04_knowledge-base-wiki-concepts-el-mansour-phd-entrance-proposal-md) (~358 words)
+- [04_Knowledge Base/wiki/concepts/mine-rehabilitation-success-criteria.md](#-file-04_knowledge-base-wiki-concepts-mine-rehabilitation-success-criteria-md) (~303 words)
+- [04_Knowledge Base/wiki/concepts/phosphate-hill-mine-rehabilitation.md](#-file-04_knowledge-base-wiki-concepts-phosphate-hill-mine-rehabilitation-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/phosphate-mine-waste-rock-road-construction.md](#-file-04_knowledge-base-wiki-concepts-phosphate-mine-waste-rock-road-construction-md) (~351 words)
+- [04_Knowledge Base/wiki/concepts/phosphate-rock-dissolution-carbonate-substitution.md](#-file-04_knowledge-base-wiki-concepts-phosphate-rock-dissolution-carbonate-substitution-md) (~298 words)
+- [04_Knowledge Base/wiki/concepts/phosphate-saturation-degree-leaching.md](#-file-04_knowledge-base-wiki-concepts-phosphate-saturation-degree-leaching-md) (~259 words)
+- [04_Knowledge Base/wiki/concepts/phosphate-sorption-index-soils.md](#-file-04_knowledge-base-wiki-concepts-phosphate-sorption-index-soils-md) (~276 words)
+- [04_Knowledge Base/wiki/concepts/store-and-release-covers-phosphate-limestone.md](#-file-04_knowledge-base-wiki-concepts-store-and-release-covers-phosphate-limestone-md) (~329 words)
+- [04_Knowledge Base/wiki/concepts/wonarah-phosphate-project-mine-closure.md](#-file-04_knowledge-base-wiki-concepts-wonarah-phosphate-project-mine-closure-md) (~332 words)
 
 
 
@@ -3739,6 +3759,35 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/amrani2019.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Evaluates the physical, chemical, and geotechnical properties of Phosphate Mine Waste Rocks (PMWR) from Benguerir mine, Morocco, for road construction aggregates."
+---
+
+
+# Valorization of Phosphate Mine Waste Rocks as Materials for Road Construction
+
+## Summary
+Characterizes Phosphate Mine Waste Rocks (PMWR) from Benguerir mine for potential reuse as road construction aggregates. Through laboratory tests and in situ trial embankments, the study demonstrates that PMWR behaves as a non-hazardous, geotechnically viable material, with mechanical properties determined by the balance of hard flintstone and sensitive clays.
+
+## Key Findings
+- **Geotechnical Suitability**: Mechanical performance is controlled by **flintstone** content (provides hardness) and **clay** content (increases water sensitivity).
+- **Leaching**: Environmental leaching tests show heavy metals are stable within the mineral matrix; PMWR is classified as non-hazardous.
+- **Embankment Limits**: Recommends restricting PMWR use to road embankments of **height < 15 m** to prevent differential settlement due to clay content.
+
+## Connections to Abdelhak's Thesis
+- Uses the exact same study material (PMWR) and site (Benguerir mine) as Abdelhak's remote sensing classification.
+- Provides direct engineering context: mapping flintstone vs carbonate vs clay ratios via PRISMA/EnMAP is vital for assessing which waste rock dumps are geotechnically suitable for road aggregates.
+
+## Link to File
+- Original PDF: [amrani2019.pdf](file:///D:/DOcuments%20%23/amrani2019.pdf)
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/amraniValorizationPhosphateMine2019.md
 
 ---
@@ -3760,6 +3809,30 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/anderson1985.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Investigates the dissolution rate of rock phosphate (carbonate apatite) in soil, demonstrating that carbonate lattice substitution controls solubility."
+---
+
+
+# Phosphate Rock Dissolution in Soil: Indications from Plant Growth Studies
+
+## Summary
+Evaluates how crystal lattice properties of rock phosphates (specifically carbonate substitution degree, $0.4\%$ to $7.1\%$ $CO_3$) control dissolution and phosphorus availability in agricultural soils.
+
+## Key Findings
+- **Carbonate Effect**: Carbonate substitution distorts the apatite lattice, increasing solubility.
+- **Agronomic Effectiveness**: Direct linear correlation between carbonate substitution and agronomic performance (accounting for up to $84\%$ of P release variance).
+
+## Connections
+- Original PDF: [anderson1985.pdf](file:///D:/DOcuments%20%23/anderson1985.pdf)
 
 
 
@@ -3885,6 +3958,30 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/bache1971.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Establishes a rapid single-point Phosphate Sorption Index (PSI) to characterize phosphorus retention in diverse soil types."
+---
+
+
+# A Phosphate Sorption Index for Soils
+
+## Summary
+Presents the development and validation of the Phosphate Sorption Index (PSI), formulated as $x/\log c$, to estimate maximum soil phosphorus sorption capacity without requiring multi-point adsorption isotherms.
+
+## Key Findings
+- **Index**: PSI = $x/\log c$ correlates strongly ($r = 0.974$) with full multi-point isotherm measurements.
+- **Standardized Method**: Uses 100 g soil with a single addition of 150 mg P.
+
+## Connections
+- Original PDF: [bache1971.pdf](file:///D:/DOcuments%20%23/bache1971.pdf)
 
 
 
@@ -4505,6 +4602,31 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/brown2005.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Reviews 30 years of landscape-scale phosphate mine reclamation in Florida, USA, emphasizing ecological engineering and adaptive management."
+---
+
+
+# Landscape restoration following phosphate mining: 30 years of co-evolution of science, industry and regulation
+
+## Summary
+Reviews the massive landscape-scale restoration of phosphate mined lands in Florida, USA. Over 30 years, restoration shifted from simple wetland replanting to complex, adaptive landscape-scale engineering. The paper advocates for ecological engineering principles that manage the self-organization of ecosystems.
+
+## Key Findings
+- **Scale**: Covers over 121,000 hectares of phosphate-mined lands.
+- **Adaptive Management**: Emphasizes cooperation between government, science, and industry to continuously adjust reclamation targets.
+- **Self-organization**: Stresses that engineers should set the initial landscape conditions (soil, topography) and allow natural ecological processes to drive final vegetation patterns.
+
+## Connections
+- Original PDF: [42-35.pdf](file:///D:/DOcuments%20%23/42-35.pdf)
 
 
 
@@ -6209,6 +6331,35 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/gillespie2015.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Case study evaluating 13 years of waste rock dump rehabilitation at an Australian rock phosphate mine in a semi-arid climate, highlighting topsoil erosion and invasive grass dominance."
+---
+
+
+# Reconciling waste rock rehabilitation goals and practice for a phosphate mine in a semi-arid environment
+
+## Summary
+Evaluates rehabilitation progress on waste rock dumps at the Phosphate Hill mine in semi-arid Queensland, Australia, after 13 years. The study shows that the initial goal of restoring the native woodland ecosystem was not met due to the dominance of the introduced buffel grass (*Cenchrus ciliaris*) and severe erosion on dispersive topsoils. The authors suggest moving towards "novel ecosystem" objectives and using stony surface coverings without topsoil to stabilize landforms.
+
+## Key Findings
+- **Vegetation**: Seeding of introduced buffel grass for rapid erosion control led to its permanent dominance, preventing native tree/shrub establishment.
+- **Erosion**: High erosion occurred on steep slopes covered with dispersive topsoil. Stony surfaces (mesa tops with no topsoil) suffered less erosion due to natural armoring and fast water infiltration.
+- **Water Quality**: Phosphate waste rocks are alkaline and non-acid-forming; drainage water quality is not an environmental hazard.
+
+## Connections to Abdelhak's Thesis
+- Directly comparable to the Benguerir mine context (rock phosphate, semi-arid climate, alkaline carbonate-rich waste rocks).
+- Underlines the necessity of realistic reclamation targets (avoiding monocultures of introduced species) and the value of remote sensing monitoring (e.g., using Abdelhak's Reclamation Progress Index) to evaluate vegetation establishment over time.
+
+## Link to File
+- Original PDF: [gillespie2015.pdf](file:///D:/DOcuments%20%23/gillespie2015.pdf)
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/goetzImagingSpectrometryEarth1985.md
 
 ---
@@ -6330,6 +6481,34 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/hakkou2009.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Investigates the use of alkaline phosphate waste rocks to neutralize acid mine drainage (AMD) from pyrrhotite-rich Kettara mine tailings, Morocco."
+---
+
+
+# Laboratory Evaluation of the Use of Alkaline Phosphate Wastes for the Control of Acidic Mine Drainage
+
+## Summary
+Evaluates the passive prevention of Acid Mine Drainage (AMD) at the abandoned Kettara mine site (Maroc) using Alkaline Phosphate Wastes (APW) from a nearby open-pit phosphate mine. Column tests showed that mixing 15 wt% APW successfully neutralized AMD, raising pH and precipitating heavy metals.
+
+## Key Findings
+- **Neutralization**: 15 wt% APW addition effectively buffers AMD and keeps pH in the range of 6.5–8.0.
+- **Active Mineral**: **Calcite** is the primary active neutralizer. **Dolomite** dissolution kinetics are too slow at near-neutral pH to contribute significantly.
+- **Metal Removal**: Metal leachate concentrations were drastically reduced.
+
+## Connections to Abdelhak's Thesis
+- Provides geochemical validation for the remote sensing mapping of calcite vs dolomite. Differentiating these minerals at landscape scale (PRISMA Chapter 2) is crucial for targeting alkaline wastes for AMD prevention.
+
+## Link to File
+- Original PDF: [Hakkouetal2009_MWE.pdf](file:///D:/DOcuments%20%23/Hakkouetal2009_MWE.pdf)
 
 
 
@@ -8249,6 +8428,34 @@ This memoir provides a synthesis of the mechanisms of phosphatogenesis (formatio
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/ouakibi2014.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Uses phosphate limestone wastes (PLW) as passive alkaline drains for treating heavy metal-rich acid mine drainage."
+---
+
+
+# Phosphate Carbonated Wastes Used as Drains for Acidic Mine Drainage Passive Treatment
+
+## Summary
+Evaluates the use of Phosphate Limestone Wastes (PLW) as alkaline drains to passively treat synthetic acid mine water containing Fe, Al, Cu, Zn, and Mn. Results under both oxic and anoxic column conditions showed a rapid rise in pH and significant metal precipitation.
+
+## Key Findings
+- **pH buffering**: PLW raises AMD pH from 3 to 6.5–8.0.
+- **Metal Precipitation**: Efficiently precipitates Fe, Al, and Cu (Cu goes from 26 mg/L to 0.002 mg/L).
+- **Size range**: Coarse particles (0.8 to 3 cm) remain hydraulically permeable while maintaining chemical reactivity.
+
+## Connections to Abdelhak's Thesis
+- Identifies phosphate limestone wastes (rich in calcite/dolomite) as a valuable secondary resource for passive water treatment.
+
+## Link to File
+- Original PDF: [ouakibi2014.pdf](file:///D:/DOcuments%20%23/ouakibi2014.pdf)
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/ouzemouIntegratingPostrainfallMultispectral2026.md
 
 ---
@@ -9138,6 +9345,30 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/schoumans2015.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Applies the Phosphate Saturation Degree (PSD) methodology to assess phosphorus leaching risks to groundwater in shallow water table soils."
+---
+
+
+# Phosphate saturation degree and accumulation of phosphate in various soil types in The Netherlands
+
+## Summary
+Quantifies phosphorus leaching risk in sandy, peaty, and clay soils using the Phosphate Saturation Degree (PSD). Establishing critical thresholds ($25\%$) to predict P transfer to groundwater.
+
+## Key Findings
+- **PSD Formula**: $PSD = P_{act} / P_{max}$ (based on oxalate-extractable P, Al, and Fe).
+- **Threshold**: Exceeding $25\%$ saturation triggers significant P leaching risk.
+
+## Connections
+- Original PDF: [schoumans2015.pdf](file:///D:/DOcuments%20%23/schoumans2015.pdf)
 
 
 
@@ -13676,6 +13907,40 @@ These profiles capture multi-phase mixtures with co-occurring dolomite (~40–55
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Landscape-Scale Florida Phosphate Reclamation.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Adaptive management and ecological engineering principles applied to landscape-scale phosphate reclamation in Florida, USA."
+---
+
+
+# Landscape-Scale Florida Phosphate Reclamation
+
+> [!NOTE]
+> Based on Mark T. Brown (2005), *Landscape restoration following phosphate mining: 30 years of co-evolution of science, industry and regulation* ([[04_Knowledge Base/wiki/sources/brown2005|brown2005]]).
+
+Florida is one of the world's largest phosphate-producing regions. Over 30 years (1975–2005), phosphate mine reclamation evolved from basic site replanting to highly integrated, landscape-scale ecological engineering.
+
+## Key Restoration Principles
+
+1. **Massive Spatial Scale**:
+   - Florida reclamation projects span over **121,000 hectares** (300,000 acres), rivaling the Florida Everglades restoration in complexity.
+2. **Ecological Engineering & Self-Organization**:
+   - The restoration philosophy relies on **ecological self-organization**. 
+   - Instead of trying to construct a static final ecosystem, engineers establish the initial physical template (correct topography, drainage basins, and soil substrate) and allow natural seed dispersal and successional processes to shape the final communities.
+3. **Adaptive Management**:
+   - Continuous collaboration between regulatory agencies, academic researchers, and industry miners to adjust reclamation standards. 
+   - Regulations evolved from forcing simple monoculture plantings to demanding functional wetland and upland corridors.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/mine-rehabilitation-success-criteria|Mine Rehabilitation Success Criteria (LPSDP)]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md
 
 ---
@@ -14005,6 +14270,54 @@ While Abdelhak's thesis primarily integrates **[[04_Knowledge Base/wiki/concepts
 * [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
 * [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
 * [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Map of Content (MOC) for mine site rehabilitation, reclamation monitoring, and waste rock valorization notes."
+---
+
+
+# Mine Rehabilitation and Reclamation MOC
+
+> The connective tissue for all research notes regarding mine closure planning, revegetation success, waste rock valorization, and passive water treatment.
+
+---
+
+## 📋 Rehabilitation & Closure Planning
+- [[04_Knowledge Base/wiki/concepts/mine-rehabilitation-success-criteria|Mine Rehabilitation Success Criteria (LPSDP)]] — Standard Australian guidelines
+- [[04_Knowledge Base/wiki/concepts/wonarah-phosphate-project-mine-closure|Wonarah Phosphate Project Mine Closure Plan]] — Large-scale Australian phosphate case study
+- [[04_Knowledge Base/wiki/concepts/phosphate-hill-mine-rehabilitation|Phosphate Hill Mine Waste Rock Rehabilitation]] — 13-year semi-arid rangeland monitoring results
+- [[04_Knowledge Base/wiki/concepts/Landscape-Scale Florida Phosphate Reclamation|Landscape-Scale Florida Phosphate Reclamation]] — Florida's 30-year adaptive management overview
+
+## ♻️ Overburden & Waste Rock Valorization
+- [[04_Knowledge Base/wiki/concepts/phosphate-mine-waste-rock-road-construction|Phosphate Mine Waste Rock Valorization for Road Construction]] — Geotechnical use of Benguerir waste rock
+- [[04_Knowledge Base/wiki/concepts/amd-prevention-alkaline-phosphate-waste|Acid Mine Drainage Prevention via Alkaline Phosphate Waste Rock]] — Neutralizing AMD with phosphate wastes
+- [[04_Knowledge Base/wiki/concepts/store-and-release-covers-phosphate-limestone|Store-and-Release Covers using Phosphate Limestone Wastes]] — Water barrier covers in semi-arid zones
+
+## 🌱 Soil Geochemistry & Nutrient Cycling
+- [[04_Knowledge Base/wiki/concepts/phosphate-sorption-index-soils|Phosphate Sorption Index (PSI) in Soils]] — Soil phosphorus binding index
+- [[04_Knowledge Base/wiki/concepts/phosphate-saturation-degree-leaching|Phosphate Saturation Degree (PSD) and Leaching Risk]] — Oxalate P, Fe, Al modeling
+- [[04_Knowledge Base/wiki/concepts/phosphate-rock-dissolution-carbonate-substitution|Phosphate Rock Dissolution and Carbonate Lattice Substitution]] — Carbonate fluorapatite dissolution kinetics
+
+## 🎓 PhD Project Context
+- [[04_Knowledge Base/wiki/concepts/el-mansour-phd-entrance-proposal|Abdelhak EL MANSOUR PhD Entrance Thesis Proposal (March 2021)]] — Origin of the remote sensing reclamation monitoring subject
+
+---
+## 📚 Original Literature Sources
+- [[04_Knowledge Base/wiki/sources/gillespie2015|gillespie2015]] — Gillespie et al. (2015) - Phosphate Hill case study
+- [[04_Knowledge Base/wiki/sources/amrani2019|amrani2019]] — Amrani et al. (2019) - Road construction aggregates
+- [[04_Knowledge Base/wiki/sources/hakkou2009|hakkou2009]] — Hakkou et al. (2009) - APW neutralization of AMD
+- [[04_Knowledge Base/wiki/sources/ouakibi2014|ouakibi2014]] — Ouakibi et al. (2014) - Passive PLW alkaline drains
+- [[04_Knowledge Base/wiki/sources/brown2005|brown2005]] — Brown (2005) - Florida landscape restoration
+- [[04_Knowledge Base/wiki/sources/bache1971|bache1971]] — Bache & Williams (1971) - Phosphate Sorption Index
+- [[04_Knowledge Base/wiki/sources/schoumans2015|schoumans2015]] — Schoumans & Chardon (2015) - Phosphate Saturation Degree
+- [[04_Knowledge Base/wiki/sources/anderson1985|anderson1985]] — Anderson et al. (1985) - Apatite lattice dissolution
 
 
 
@@ -16968,5 +17281,427 @@ Remarkably, the modal mineralogy calculations remained stable: Spodumene varied 
 * [[04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy|Micro-XRF Spectroscopy]]
 * [[04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification|AMICS Target Mineral Quantification]]
 * [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/amd-prevention-alkaline-phosphate-waste.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Neutralization of Acid Mine Drainage (AMD) using alkaline phosphate waste rocks, focusing on laboratory column tests for the Kettara mine site."
+---
+
+
+# Acid Mine Drainage Prevention via Alkaline Phosphate Waste Rock
+
+> [!NOTE]
+> Based on Hakkou et al. (2009) ([[04_Knowledge Base/wiki/sources/hakkou2009|hakkou2009]]) and Ouakibi et al. (2014) ([[04_Knowledge Base/wiki/sources/ouakibi2014|ouakibi2014]]).
+
+Alkaline Phosphate Wastes (APW) or Phosphate Limestone Wastes (PLW) generated as overburden in open-pit phosphate mines can be recycled to prevent and treat Acid Mine Drainage (AMD) from sulfide-rich mining residues.
+
+## Mechanism of AMD Neutralization
+
+Sulfide-rich tailings (containing pyrrhotite, pyrite, etc.) oxidize in the presence of water and oxygen, producing highly acidic leachate (AMD) rich in Fe, Al, SO₄, and toxic heavy metals. 
+Alkaline phosphate wastes contain high concentrations of carbonate minerals (**calcite** and **dolomite**) and apatite:
+$$\text{CaCO}_3 \text{ (calcite)} + \text{H}^+ \rightarrow \text{Ca}^{2+} + \text{HCO}_3^-$$
+The dissolution of carbonates consumes acidity, raising the pH to near-neutral or alkaline values ($6.5 - 8.0$), which triggers the precipitation of dissolved metals as hydroxides and carbonates:
+$$\text{Me}^{2+} + 2\text{OH}^- \rightarrow \text{Me(OH)}_2 \downarrow$$
+
+## Key Experimental Findings (Kettara Tailings Case Study)
+
+1. **Optimum Amendment Ratio**:
+   - Laboratory column leaching tests showed that mixing **15 wt% alkaline phosphate waste** with acidic pyrrhotite tailings from the abandoned Kettara mine (Morocco) was sufficient to neutralize acidic effluents and drastically reduce toxic metal concentrations (e.g., Fe, Al, Cu, Zn, Pb).
+   - Increasing the amendment ratio to 25 wt% did not yield significant additional neutralization benefits.
+2. **Dolomite Inactivity**:
+   - Chemical analysis of column leachates showed very low magnesium concentrations, indicating that **dolomite** ($CaMg(CO_3)_2$) contained in the phosphate wastes **did not play an active role** in the neutralization process. Calcite ($CaCO_3$) was the primary active neutralizing phase.
+   - Dolomite dissolution kinetics are too slow at near-neutral pH to contribute significantly to rapid AMD neutralization under column flow conditions.
+
+## Connections to Thesis
+- This highlights the geochemical importance of mapping calcite vs dolomite in phosphate waste rocks. Abdelhak's remote sensing classification differentiates these carbonate phases, which has direct implications for their AMD neutralization efficiency.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/store-and-release-covers-phosphate-limestone|Store-and-Release Covers using Phosphate Limestone Wastes]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/el-mansour-phd-entrance-proposal.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Historical document analysis of Abdelhak EL MANSOUR's PhD entrance exam and interview presentations (March 2021), tracing the origin of the remote sensing reclamation monitoring subject."
+---
+
+
+# Abdelhak EL MANSOUR PhD Entrance Thesis Proposal (March 2021)
+
+> [!NOTE]
+> Based on the raw doctoral selection files: *Examen écrit EMEC 2021.docx* and *um6p presentation-EN.pptx* (March 26, 2021).
+
+These documents trace the starting point of Abdelhak EL MANSOUR's PhD research at the Geology and Sustainable Mining Institute (GSMI), UM6P, under the supervision of Pr. Ahmed Laamrani.
+
+## Initial Subject Frame & Proposal
+
+In March 2021, Abdelhak proposed a doctoral research topic titled **"Progressive rehabilitation of phosphate mining sites"** (French: *Réhabilitation progressive des sites d’exploitation des phosphates*).
+
+### The Core Remote Sensing Concept
+Even during the entrance examination, the integration of remote sensing with field observation was identified as the primary methodology:
+> *"L'intégration des produits de télédétection spatiale avec l'observation sur le terrain sera essentielle pour une surveillance efficace pendant la phase d'établissement de la réhabilitation, la démonstration de la progression de la réhabilitation et l'interprétation des données des parcelles de surveillance."*
+
+This initial proposal directly evolved into the final thesis framework (2026): **Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks**.
+
+## Candidate Background (March 2021)
+
+Abdelhak's academic and industry experience prior to his PhD selection included:
+- **Junior Geologist** at Baraka Mining Company (2019): Exploration, geological mapping, and sampling across anti-Atlas copper targets.
+- **Master's Thesis** (Cadi Ayyad University): Structural, petrographic, and metallogenic study of copper mineralization at Jbel N'Zourk, Central Anti-Atlas.
+- **Bachelor's Thesis** (FST Errachidia): Metamorphic facies mapping of Filali unit, Beni Bousera Massif (internal Rif).
+
+## Thesis Evolution Context
+- **2021 Proposal**: Focused broadly on progressive rehabilitation monitoring, highlighting open-pit impacts (soil erosion, heavy metal runoff, radon/fluoride dust).
+- **2026 Dissertation**: Concentrates specifically on multi-scale hyperspectral remote sensing (ASD FieldSpec 4, PRISMA satellite, EnMAP satellite) for mapping calcite, dolomite, illite, kaolinite, and apatite (fluorapatite) on waste rock dumps, culminating in the **Reclamation Progress Index (RPI)**.
+
+## Connections
+- [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/mine-rehabilitation-success-criteria.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Framework and success criteria for mine site rehabilitation, drawing from Australia's Leading Practice Sustainable Development Program (LPSDP) guidelines."
+---
+
+
+# Mine Rehabilitation Success Criteria (LPSDP)
+
+> [!NOTE]
+> Based on the Australian Leading Practice Sustainable Development Program (LPSDP) handbook series (*Mine Rehabilitation*, 2016).
+
+Rehabilitation success is defined as the safe, stable, non-polluting, and sustainable return of a disturbed mining site to an agreed post-mining land use. Success is evaluated using quantitative and qualitative completion criteria.
+
+## Core Pillars of Rehabilitation Success
+
+1. **Physical and Geotechnical Stability**:
+   - Reconstructed landforms must be physically stable against landslides, severe erosion, and mass wasting.
+   - Landform design includes batter slopes, berms, contour banks, and drop structures to manage runoff.
+2. **Chemical Stability & Non-Pollution**:
+   - Tailings and waste rock must be managed to prevent acid mine drainage (AMD) and solute transport of toxic trace elements.
+   - Leaching products must not exceed environmental receiving standards for groundwater and surface water.
+3. **Ecological Sustainability**:
+   - Establishment of a resilient, self-sustaining ecosystem comparable to surrounding analogue or reference sites.
+   - Species selection must prioritize local native species and establish appropriate plant growth media.
+
+## Development of Success Criteria
+
+Success criteria are organized hierarchically:
+- **Objectives**: Broad long-term goals (e.g., return site to dry-land grazing or native woodland).
+- **Indicators**: Measurable attributes of the environment (e.g., woody species richness, percent ground cover, water pH, soil erosion depth).
+- **Completion Criteria**: Target values or ranges that must be met to trigger sign-off and lease relinquishment (e.g., "ground cover $\ge 70\%$ of analogue site values after 5 consecutive years").
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/Wonarah Phosphate Project Mine Closure Plan|Wonarah Phosphate Project Mine Closure Plan]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Hill Mine Waste Rock Rehabilitation|Phosphate Hill Mine Waste Rock Rehabilitation]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/phosphate-hill-mine-rehabilitation.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Analysis of 13-year waste rock rehabilitation outcomes at the Phosphate Hill Mine in semi-arid Queensland, Australia."
+---
+
+
+# Phosphate Hill Mine Waste Rock Rehabilitation
+
+> [!NOTE]
+> Based on Gillespie et al. (2015), *Reconciling waste rock rehabilitation goals and practice for a phosphate mine in a semi-arid environment* ([[04_Knowledge Base/wiki/sources/gillespie2015|gillespie2015]]).
+
+Phosphate Hill is a major open-pit rock phosphate mine located in the semi-arid, resource-limited rangelands of north-west Queensland, Australia. A 13-year monitoring study evaluated the progress of waste rock dump rehabilitation against native analogue sites.
+
+## Major Findings & Challenges
+
+1. **Divergence in Ground Cover**:
+   - Significant differences in ground cover composition were observed between rehabilitated and native sites.
+   - Rehabilitated sites were heavily dominated by the introduced perennial pasture grass **Buffel Grass** (*Cenchrus ciliaris*), which was seeded to provide rapid erosion control.
+   - Buffel grass competed aggressively with native species, preventing the reinstatement of the original acacia/eucalypt woodland community.
+2. **Erosion on Dispersive Topsoils**:
+   - The semi-arid climate features long dry seasons followed by intense, high-energy wet season storms.
+   - Erosion was highly prevalent on rehabilitated slopes covered with **dispersive topsoil**.
+   - Stony surfaces with no topsoil application (self-colonized sites) showed significantly less erosion due to natural armoring and rapid water infiltration.
+3. **Concept of "Novel Ecosystems"**:
+   - Complete restoration of the native ecosystem was physically and biologically constrained by landform reconstruction.
+   - The study suggests accepting **novel ecosystems** dominated by introduced grasses if they achieve basic landform stability and soil protection, rather than forcing unachievable native restoration targets.
+4. **Water Quality & Waste Rock Chemistry**:
+   - Unlike metal mines, phosphate waste rocks at Phosphate Hill are **non-acid-forming** (alkaline), meaning drainage water quality does not pose a major toxic risk.
+
+## Connections to Benguerir Mine (Morocco)
+- **Climate Mismatch**: Both sites are semi-arid with erratic rainfall.
+- **Waste Rock Chemistry**: Both sites feature alkaline, non-acid-generating carbonate/siliceous waste rocks.
+- **Rehabilitation Strategy**: Highlights the risk of using aggressive cover crops for short-term erosion control at the cost of long-term native biodiversity.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/mine-rehabilitation-success-criteria|Mine Rehabilitation Success Criteria (LPSDP)]]
+- [[04_Knowledge Base/wiki/concepts/Wonarah Phosphate Project Mine Closure Plan|Wonarah Phosphate Project Mine Closure Plan]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/phosphate-mine-waste-rock-road-construction.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Valorization parameters and geotechnical suitability of Phosphate Mine Waste Rocks (PMWR) from Benguerir, Morocco, for road construction."
+---
+
+
+# Phosphate Mine Waste Rock Valorization for Road Construction
+
+> [!NOTE]
+> Based on Amrani et al. (2019), *Valorization of Phosphate Mine Waste Rocks as Materials for Road Construction* ([[04_Knowledge Base/wiki/sources/amrani2019|amrani2019]]), co-authored by Pr. Ahmed Laamrani, Yassine Taha, and Rachid Hakkou.
+
+Open-pit phosphate mining at Benguerir produces massive quantities of overburden waste rock (Phosphate Mine Waste Rock — PMWR). Valorizing PMWR as aggregate material for road construction offers a sustainable alternative to stockpiling.
+
+## Geotechnical & Mineralogical Characterization
+
+The PMWR from Benguerir is a heterogeneous mixture of carbonates, silicates, and clays. Geotechnical testing evaluated its suitability for road layers (embankments, sub-base, and base layers):
+- **Mechanical Strength**: The strength of the PMWR aggregate depends directly on its **flintstone** (siliceous) and **clay** content. 
+  - High flintstone content provides high hardness and wear resistance (Los Angeles abrasion index).
+  - Clay content limits mechanical strength and increases water sensitivity, leading to potential swelling and settlement if not controlled.
+- **Trace Elements & Leaching Behavior**: Leaching tests (using European standard EN 12457-2) demonstrated that heavy metals and trace elements (e.g., Cd, Cr, Ni, Pb, Zn) remain locked in the mineral matrix. Leaching concentrations were well below environmental regulatory limits, classifying PMWR as a **non-hazardous material**.
+
+## In Situ Embankment Trials
+
+A full-scale in situ trial road section was constructed at the Benguerir mine site:
+- **Compaction**: Optimum moisture content and compaction energy were defined to prevent post-construction settlement.
+- **Embankment Height Limit**: Due to petrographic heterogeneity and clay-induced sensitivity to water, the study recommends limiting PMWR use to **embankments with heights < 15 m**. Embankments taller than 15 m require special base drainage and homogenization to prevent differential settlement.
+
+## Connections to Thesis
+- Abdelhak's thesis maps these exact PMWR lithologies at Benguerir. Understanding their physical valorization potential (flintstone vs clay ratio) adds critical engineering context to the remote sensing mineral mapping.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/phosphate-rock-dissolution-carbonate-substitution.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Influence of carbonate lattice substitution on the dissolution kinetics and agronomic effectiveness of rock phosphate in soils."
+---
+
+
+# Phosphate Rock Dissolution and Carbonate Lattice Substitution
+
+> [!NOTE]
+> Based on Anderson et al. (1985), *Phosphate Rock Dissolution in Soil: Indications from Plant Growth Studies* ([[04_Knowledge Base/wiki/sources/anderson1985|anderson1985]]).
+
+The rate of dissolution of sedimentary rock phosphate (apatite) in soil is governed by the structural characteristics of the apatite crystal lattice, specifically the degree of **carbonate substitution** ($CO_3^{2-}$ substituting for $PO_4^{3-}$).
+
+## Crystal Lattice Distortion Mechanism
+
+Sedimentary rock phosphates are primarily **francolite** (carbonate fluorapatite). 
+- Carbonate ions ($CO_3^{2-}$) and fluorine atoms substitute within the calcium phosphate lattice:
+  $$\text{Ca}_{10-a-b}\text{Na}_a\text{Mg}_b(\text{PO}_4)_{6-x}(\text{CO}_3)_x\text{F}_{2+y}$$
+- The substitution of larger, planar carbonate ions for tetrahedral phosphate ions causes structural distortion and increases lattice strain.
+- This strain **weakens the chemical bonds** in the crystal structure, significantly increasing the solubility and dissolution rate of the mineral in acidic-to-neutral soils.
+
+## Agronomic Effectiveness Relationships
+
+- **Direct Correlation**: Relative Agronomic Effectiveness (RAE) of rock phosphate is directly related to its substituted carbonate ($CO_3$) content.
+- **Variation Explained**: Substituted carbonate content in the apatite lattice accounts for **$71\%$ to $84\%$ of the variation** in rock P released in a given soil. Across diverse soil types, it accounts for nearly $49\%$ of the variation.
+- **Phosphate Rocks Range**: Tested sedimentary phosphate rocks exhibit carbonate substitution ranges from **$0.4\%$ to $7.1\%$ $CO_3$** by weight. Higher substitution leads to faster P release.
+
+## Connections to Thesis
+- This highlights the mineralogical complexity of apatite (fluorapatite) mapped in Abdelhak's Chapter 1 and Chapter 2. Distinguishing high-carbonate fluorapatite from pure fluorapatite via remote sensing has direct implications for assessing the solubility and agronomic potential of waste rock heaps.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/phosphate-saturation-degree-leaching.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Mechanism of the Phosphate Saturation Degree (PSD) for evaluating phosphorus accumulation and leaching risks in agricultural and reclaimed soils."
+---
+
+
+# Phosphate Saturation Degree (PSD) and Leaching Risk
+
+> [!NOTE]
+> Based on Schoumans and Chardon (2015), *Phosphate saturation degree and accumulation of phosphate in various soil types in The Netherlands* ([[04_Knowledge Base/wiki/sources/schoumans2015|schoumans2015]]).
+
+The **Phosphate Saturation Degree (PSD)** is an environmental index used to evaluate the potential risk of phosphorus (P) leaching from agricultural, mined, or reclaimed soils into groundwater. 
+
+## PSD Definition and Formula
+
+The PSD is expressed as the ratio between the accumulated phosphate in the soil ($P_{act}$) and the total phosphate sorption capacity ($P_{max}$):
+
+$$\text{PSD} (\%) = \frac{P_{act}}{P_{max}} \times 100$$
+
+Where:
+- $P_{act}$ = Actual accumulated oxalate-extractable phosphorus ($\text{P}_{ox}$) in the soil (mmol P/kg).
+- $P_{max}$ = Oxalate-extractable aluminum ($\text{Al}_{ox}$) and iron ($\text{Fe}_{ox}$) content (mmol/kg), scaled by a soil-specific reactivity coefficient ($\alpha$, typically $0.5$ for sandy soils):
+  $$P_{max} = \alpha \times (\text{Al}_{ox} + \text{Fe}_{ox})$$
+
+## Environmental Thresholds & Leaching
+
+1. **Critical Saturation Limit ($25\%$)**:
+   - Environmental studies establish a critical PSD threshold of **$25\%$**. 
+   - When a soil exceeds $25\%$ phosphate saturation, the equilibrium concentration of phosphorus in the soil solution rises rapidly, leading to a high risk of phosphorus leaching into groundwater.
+2. **Groundwater Eutrophication**:
+   - In areas with shallow groundwater tables, high PSD values translate directly to high dissolved phosphorus loads discharging into nearby surface waters, driving eutrophication.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/phosphate-sorption-index-soils|Phosphate Sorption Index (PSI) in Soils]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/phosphate-sorption-index-soils.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Definition and formulation of the Phosphate Sorption Index (PSI) for characterizing phosphorus retention capacity in soils."
+---
+
+
+# Phosphate Sorption Index (PSI) in Soils
+
+> [!NOTE]
+> Based on Bache and Williams (1971), *A phosphate sorption index for soils* ([[04_Knowledge Base/wiki/sources/bache1971|bache1971]]).
+
+The **Phosphate Sorption Index (PSI)** is a rapid, single-point index used to estimate the maximum phosphate retention capacity of a soil. It is widely used in soil science and environmental geochemistry to evaluate phosphorus mobility and runoff risk.
+
+## Formulation & Standardized Method
+
+Full phosphate sorption isotherms require complex multi-point laboratory measurements over wide concentration ranges ($10^{-6}$ to $5 \times 10^{-2}\text{ M P}$). 
+Bache and Williams established that a simplified single-point index correlates strongly ($r = 0.974$) with the full isotherm slope:
+
+$$\text{PSI} = \frac{x}{\log c}$$
+
+Where:
+- $x$ = the amount of phosphate sorbed by the soil (mg P/100 g soil) from a single addition of a standard phosphate solution (usually **150 mg P/100 g soil**).
+- $c$ = the equilibrium solution phosphate concentration (M or mg P/L) after a standard shaking period (20 hours at 20 °C).
+
+## Environmental and Agronomic Interpretation
+
+- **High PSI**: Soil has high capacity to bind phosphate (common in iron/aluminum oxide-rich clay soils or highly carbonated soils). Reduces immediate plant availability of phosphorus but lowers phosphorus leaching and surface water eutrophication runoff risk.
+- **Low PSI**: Soil has low capacity to bind phosphate (common in sandy soils). Increases phosphorus mobility, leaching risk to groundwater, and runoff risk to surface water bodies.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/phosphate-saturation-degree-leaching|Phosphate Saturation Degree (PSD) and Leaching Risk]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/store-and-release-covers-phosphate-limestone.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Store-and-Release (SR) cover systems using phosphate limestone waste rocks to prevent water infiltration in semi-arid mine reclamation."
+---
+
+
+# Store-and-Release Covers using Phosphate Limestone Wastes
+
+> [!NOTE]
+> Based on Pr. Rachid Hakkou's presentation at the UM6P Water Conference (October 2017), *Stériles des mines de phosphates pour atténuer la pollution des ressources en eau en climat semi-aride: du laboratoire au pilote*.
+
+In semi-arid climates, preventing water infiltration into reactive, sulfide-rich mine tailings is crucial to control Acid Mine Drainage (AMD). **Store-and-Release (SR) covers** utilizing non-reactive phosphate limestone waste rocks offer a cost-effective, sustainable solution.
+
+## How Store-and-Release Cover Systems Work
+
+An SR cover acts as a sponge to manage water flux:
+1. **Wet Season (Storage)**: The cover layer absorbs and stores rainfall infiltration within its pore space, preventing water from reaching the underlying reactive tailings.
+2. **Dry Season (Release)**: The stored water is released back into the atmosphere via evaporation and plant transpiration (evapotranspiration), drying out the cover layer in preparation for the next wet season.
+
+## Performance of Phosphate Waste Rock in SR Covers
+
+Phosphate limestone waste rock has favorable physical and hydrological properties for SR covers in semi-arid zones:
+- **Hydrological Retention**: The fine-to-medium grained calcareo-phosphate waste matrix exhibits high water retention capacity.
+- **Chemical Buffering**: Any seepage that does bypass the cover is neutralized by the high calcite content of the waste rock before exiting the system.
+- **Oxygen Barrier**: When the cover material remains partially saturated, its gas diffusion coefficient is low, limiting oxygen ingress to the underlying tailings.
+
+## Pilot-Scale Testing
+
+The technology was validated through laboratory trials followed by pilot-scale field lysimeters. The results demonstrated that a cover layer of phosphate waste rock effectively prevented AMD formation by keeping the net percolation to the tailings layer close to zero under Moroccan semi-arid climate cycles.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/amd-prevention-alkaline-phosphate-waste|Acid Mine Drainage Prevention via Alkaline Phosphate Waste Rock]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/wonarah-phosphate-project-mine-closure.md
+
+---
+date: 2026-06-15
+tags:
+summary: "Case study of the Wonarah Phosphate Project Mine Closure and Rehabilitation Plan (2009), illustrating closure domains and progressive backfilling."
+---
+
+
+# Wonarah Phosphate Project Mine Closure Plan
+
+> [!NOTE]
+> Based on the *Wonarah Phosphate Project Mine Closure and Rehabilitation Plan* (Coffey Natural Systems, 2009). Wonarah is a large-scale rock phosphate project in the Northern Territory, Australia.
+
+The Wonarah closure plan provides a structured framework for decommissioning and reclaiming an open-pit phosphate mine in a semi-arid rangeland environment.
+
+## Key Operational & Closure Domains
+
+The project is divided into distinct **Closure Domains** to facilitate domain-specific completion criteria:
+- **Domain 1: Main Zone Pits**: Open extractive pits proposed for progressive backfilling.
+- **Domain 2: Arruwurra Pits**: Smaller satellite pits.
+- **Domain 3: Waste Rock Storages (WRS)**: Permanent surface out-of-pit dumps for non-ore overburden.
+- **Domain 4: Infrastructure**: ROM pads, workshops, aerodrome, borefields, and haul roads.
+
+## Progressive Rehabilitation & Backfilling
+
+The core of the rehabilitation strategy is **progressive backfilling**:
+1. **Strip Mining Process**: Overburden from a new mining strip is directly placed back into the previously mined stope or pit void. This minimizes out-of-pit waste rock storage and reduces overall surface footprint.
+2. **Revegetation from Seed Stock**: Respreading of fresh topsoil immediately after landform grading to utilize the active soil seed bank, combined with supplementary direct seeding of native species.
+3. **Solute and Water Management**: Constructing abandonment bunds and designing final landform heights to prevent water ponding in pits, which would otherwise accelerate salt and nutrient accumulation.
+
+## Validation and Risk Analysis
+
+The closure plan includes a comprehensive **Risk Assessment Matrix** targeting post-closure liabilities:
+- Geotechnical instability of waste rock dumps.
+- Failure of revegetation due to drought or weed invasion.
+- Uncontrolled groundwater release from decommissioned water bores.
+- Residual liability for future generations.
+
+## Connections
+- [[04_Knowledge Base/wiki/concepts/mine-rehabilitation-success-criteria|Mine Rehabilitation Success Criteria (LPSDP)]]
+- [[04_Knowledge Base/wiki/concepts/Phosphate Hill Mine Waste Rock Rehabilitation|Phosphate Hill Mine Waste Rock Rehabilitation]]
+- [[04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC|Mine Rehabilitation and Reclamation MOC]]
 
 
