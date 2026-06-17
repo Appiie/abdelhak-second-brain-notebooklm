@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 52 | **Total Word Count**: ~36751 words
+> **Total Files Compiled**: 53 | **Total Word Count**: ~37037 words
 
 ## 📂 Table of Contents
 
@@ -16,6 +16,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/Flashcards — Career.md](#-file-02_academic-&-work-work-flashcards-—-career-md) (~760 words)
 - [02_Academic & Work/work/Index.md](#-file-02_academic-&-work-work-index-md) (~261 words)
 - [02_Academic & Work/work/Tools Setup.md](#-file-02_academic-&-work-work-tools-setup-md) (~754 words)
+- [02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md](#-file-02_academic-&-work-work-postdoc-contacts-roberto-salzano-(cnr-florence)-md) (~286 words)
 - [02_Academic & Work/work/meetings/README.md](#-file-02_academic-&-work-work-meetings-readme-md) (~146 words)
 - [02_Academic & Work/work/setup/Elite Vault Setup.md](#-file-02_academic-&-work-work-setup-elite-vault-setup-md) (~984 words)
 - [02_Academic & Work/work/setup/External Data Import Guide.md](#-file-02_academic-&-work-work-setup-external-data-import-guide-md) (~761 words)
@@ -667,6 +668,50 @@ Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 ---
 
 *Related: [[02_Academic & Work/work/Index|Work Index]] · [[04_Knowledge Base/wiki/hot|Hot Cache]] · [[02_Academic & Work/work/setup/Elite Vault Setup|Elite Vault Setup]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md
+
+---
+tags: [postdoc/lead, contact/researcher]
+date: 2026-06-17
+---
+
+
+# Roberto Salzano — CNR-IIA Florence
+
+**Corresponding author** of the closest external parallel to your thesis work.
+
+## Contact
+- **Institution:** Institute of Atmospheric Pollution Research, National Research Council (CNR-IIA)
+- **Address:** Via Madonna del Piano 10, 50019 Florence, Italy
+- **Role:** Corresponding author (marked *)
+- **Email:** Find via CNR-IIA directory or ResearchGate
+
+## Why Contact
+Their 2025 paper in *Remote Sensing* — "Hyperspectral Investigation of an Abandoned Waste Mining Site: The Case of Sidi Bou Azzouz (Morocco)" (DOI: [10.3390/rs17111838](https://doi.org/10.3390/rs17111838)) — uses **PRISMA + SAM/LSU on a Moroccan mine waste site**. No CNN, no deep learning. You have the ML layer they're missing.
+
+**Pitch angle:** You did the same thing (PRISMA, Moroccan mine waste, field spectroscopy, XRF) but with SCSE-CNN and a 103-sample labeled dataset. You're the natural next step in their research line.
+
+## Team
+| Name | Affiliation |
+|------|------------|
+| Roberto Salzano | CNR-IIA, Florence ← **correspond with him** |
+| Daniela Guglietta | CNR-IGAG, Rome |
+| Aida M. Conte | CNR-IGAG, Rome |
+| Matteo Paciucci | CNR-IGAG, Rome |
+| Rosalda Punturo | CNR-IGAG, Rome + Università di Catania |
+| Rosamaria Salvatori | CNR-ISP, Rome |
+| Giorgio S. Senesi | CNR-IC, Bari |
+| **Amina Wafik** | **Cadi Ayyad University, Marrakech** ← Moroccan bridge |
+
+## Notes
+- CNR already has a Morocco collaborator (Wafik, Cadi Ayyad). They're clearly active in North Africa.
+- The paper targets CRMs in abandoned mines — different mineral system than phosphate, but same PRISMA + field workflow.
+- Possible angle: propose a joint PRISMA study extending their methodology with ML, or a multi-site Morocco comparison including Benguerir.
+- Check open postdoc calls at bandi.cnr.it.
 
 
 
