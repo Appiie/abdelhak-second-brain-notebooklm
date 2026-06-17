@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-16
+date: 2026-06-17
 tags: [knowledge, compiled, notebooklm, wiki]
 summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 462 | **Total Word Count**: ~82597 words
+> **Total Files Compiled**: 470 | **Total Word Count**: ~86266 words
 
 ## 📂 Table of Contents
 
@@ -24,15 +24,15 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
 - [04_Knowledge Base/wiki/MOCs/Biodiversity MOC.md](#-file-04_knowledge-base-wiki-mocs-biodiversity-moc-md) (~28 words)
 - [04_Knowledge Base/wiki/MOCs/Botany MOC.md](#-file-04_knowledge-base-wiki-mocs-botany-moc-md) (~28 words)
-- [04_Knowledge Base/wiki/MOCs/Code-Pattern MOC.md](#-file-04_knowledge-base-wiki-mocs-code-pattern-moc-md) (~31 words)
-- [04_Knowledge Base/wiki/MOCs/Data-Asset MOC.md](#-file-04_knowledge-base-wiki-mocs-data-asset-moc-md) (~33 words)
+- [04_Knowledge Base/wiki/MOCs/Code-Pattern MOC.md](#-file-04_knowledge-base-wiki-mocs-code-pattern-moc-md) (~71 words)
+- [04_Knowledge Base/wiki/MOCs/Data-Asset MOC.md](#-file-04_knowledge-base-wiki-mocs-data-asset-moc-md) (~72 words)
 - [04_Knowledge Base/wiki/MOCs/Geology MOC.md](#-file-04_knowledge-base-wiki-mocs-geology-moc-md) (~30 words)
 - [04_Knowledge Base/wiki/MOCs/Gis MOC.md](#-file-04_knowledge-base-wiki-mocs-gis-moc-md) (~33 words)
 - [04_Knowledge Base/wiki/MOCs/Hyperspectral MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-moc-md) (~30 words)
 - [04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-remote-sensing-moc-md) (~447 words)
 - [04_Knowledge Base/wiki/MOCs/Machine-Learning MOC.md](#-file-04_knowledge-base-wiki-mocs-machine-learning-moc-md) (~44 words)
-- [04_Knowledge Base/wiki/MOCs/Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-mineralogy-moc-md) (~63 words)
-- [04_Knowledge Base/wiki/MOCs/Reclamation MOC.md](#-file-04_knowledge-base-wiki-mocs-reclamation-moc-md) (~50 words)
+- [04_Knowledge Base/wiki/MOCs/Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-mineralogy-moc-md) (~127 words)
+- [04_Knowledge Base/wiki/MOCs/Reclamation MOC.md](#-file-04_knowledge-base-wiki-mocs-reclamation-moc-md) (~101 words)
 - [04_Knowledge Base/wiki/MOCs/Remote-Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-remote-sensing-moc-md) (~43 words)
 - [04_Knowledge Base/wiki/MOCs/Visualization MOC.md](#-file-04_knowledge-base-wiki-mocs-visualization-moc-md) (~31 words)
 - [04_Knowledge Base/wiki/MOCs/Waste-Rock MOC.md](#-file-04_knowledge-base-wiki-mocs-waste-rock-moc-md) (~48 words)
@@ -40,6 +40,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
 - [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/sources/Abdelhak2022Progressive.md](#-file-04_knowledge-base-wiki-sources-abdelhak2022progressive-md) (~634 words)
+- [04_Knowledge Base/wiki/sources/Aghababaei2022Introducing.md](#-file-04_knowledge-base-wiki-sources-aghababaei2022introducing-md) (~444 words)
 - [04_Knowledge Base/wiki/sources/BoardmanJWKruse.md](#-file-04_knowledge-base-wiki-sources-boardmanjwkruse-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataProductsQuality.md](#-file-04_knowledge-base-wiki-sources-dataproductsquality-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataSeries2017.md](#-file-04_knowledge-base-wiki-sources-dataseries2017-md) (~50 words)
@@ -58,7 +59,10 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/HyperspectralRemoteSensing.md](#-file-04_knowledge-base-wiki-sources-hyperspectralremotesensing-md) (~55 words)
 - [04_Knowledge Base/wiki/sources/ImagingSpectrometryEarth.md](#-file-04_knowledge-base-wiki-sources-imagingspectrometryearth-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/InterlayersGeoenvironmentalAssessment.md](#-file-04_knowledge-base-wiki-sources-interlayersgeoenvironmentalassessment-md) (~60 words)
+- [04_Knowledge Base/wiki/sources/Jacq2022Theoretical.md](#-file-04_knowledge-base-wiki-sources-jacq2022theoretical-md) (~377 words)
+- [04_Knowledge Base/wiki/sources/Kashem2004Phosphorus.md](#-file-04_knowledge-base-wiki-sources-kashem2004phosphorus-md) (~441 words)
 - [04_Knowledge Base/wiki/sources/Liu2018Quantitative.md](#-file-04_knowledge-base-wiki-sources-liu2018quantitative-md) (~458 words)
+- [04_Knowledge Base/wiki/sources/Malainine2021Integrated.md](#-file-04_knowledge-base-wiki-sources-malainine2021integrated-md) (~429 words)
 - [04_Knowledge Base/wiki/sources/MappingHyperspectralAVIRIS.md](#-file-04_knowledge-base-wiki-sources-mappinghyperspectralaviris-md) (~55 words)
 - [04_Knowledge Base/wiki/sources/McHugh2001Simplified.md](#-file-04_knowledge-base-wiki-sources-mchugh2001simplified-md) (~492 words)
 - [04_Knowledge Base/wiki/sources/MineWastesCharacterization.md](#-file-04_knowledge-base-wiki-sources-minewastescharacterization-md) (~50 words)
@@ -78,9 +82,13 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/OpenFileReport2002.md](#-file-04_knowledge-base-wiki-sources-openfilereport2002-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/OpenFileReport2002a.md](#-file-04_knowledge-base-wiki-sources-openfilereport2002a-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/ProgressGeoenvironmentalModels2002.md](#-file-04_knowledge-base-wiki-sources-progressgeoenvironmentalmodels2002-md) (~57 words)
+- [04_Knowledge Base/wiki/sources/Requejo2014Organic.md](#-file-04_knowledge-base-wiki-sources-requejo2014organic-md) (~462 words)
+- [04_Knowledge Base/wiki/sources/Rialland2021Identification.md](#-file-04_knowledge-base-wiki-sources-rialland2021identification-md) (~397 words)
 - [04_Knowledge Base/wiki/sources/Shippert2003Introduction.md](#-file-04_knowledge-base-wiki-sources-shippert2003introduction-md) (~472 words)
 - [04_Knowledge Base/wiki/sources/SpectralReflectanceCarbonate.md](#-file-04_knowledge-base-wiki-sources-spectralreflectancecarbonate-md) (~62 words)
 - [04_Knowledge Base/wiki/sources/TacklingMineWastes.md](#-file-04_knowledge-base-wiki-sources-tacklingminewastes-md) (~52 words)
+- [04_Knowledge Base/wiki/sources/USEPA1999Correct.md](#-file-04_knowledge-base-wiki-sources-usepa1999correct-md) (~437 words)
+- [04_Knowledge Base/wiki/sources/Uddin2012Effect.md](#-file-04_knowledge-base-wiki-sources-uddin2012effect-md) (~488 words)
 - [04_Knowledge Base/wiki/sources/UsingPRISMAHyperspectral.md](#-file-04_knowledge-base-wiki-sources-usingprismahyperspectral-md) (~53 words)
 - [04_Knowledge Base/wiki/sources/Wadoux2020Note.md](#-file-04_knowledge-base-wiki-sources-wadoux2020note-md) (~493 words)
 - [04_Knowledge Base/wiki/sources/WorldFertilizerTrends.md](#-file-04_knowledge-base-wiki-sources-worldfertilizertrends-md) (~55 words)
@@ -1376,6 +1384,8 @@ tags:
 
 ## 📂 Core Concepts
 - [[Code — Hamza Collaboration Biodiversity Plotting]] — Initial concept.
+- [[Code — R Script — Powder XRD Phase Quantification (powdR)]] — R script for automated mineral phase fitting via XRD
+- [[Code — R Script — Pierre Gy Sampling Error Nomogram]] — R script calculating FSE and plotting nomograms
 
 ---
 *Related: [[Home|Mission Control]]*
@@ -1398,6 +1408,8 @@ tags:
 
 ## 📂 Core Concepts
 - [[Data Asset — Benguerir Mine Species and Shapefiles]] — Initial concept.
+- [[Data Asset — DESKTOP-files PCA Reflectance]] — Pixel spectral reflectance values used for PCA validation
+- [[Data Asset — Zone 2 Soil pH and Electrical Conductivity]] — Laboratory measurements of soil pH and EC for Zone 2 samples
 
 ---
 *Related: [[Home|Mission Control]]*
@@ -1569,6 +1581,11 @@ tags:
 - [[Rietveld Refinement in XRD]] — Added automatically.
 - [[Phosphate Mineral Validation Scheme]] — Added automatically.
 - [[Data Asset — PHD-1st XRD Reports]] — Initial concept.
+- [[Pierre Gy's Theory of Sampling]] — Core sampling representativeness theory
+- [[Fundamental Sampling Error]] — Unavoidable physical sampling error calculation
+- [[Powder XRD Quantitative Phase Analysis]] — Quantitative mineralogy methods
+- [[Code — R Script — Powder XRD Phase Quantification (powdR)]] — powdR R implementation
+- [[Code — R Script — Pierre Gy Sampling Error Nomogram]] — Sampling error R script and nomogram
 
 ---
 *Related: [[Home|Mission Control]]*
@@ -1593,6 +1610,10 @@ tags:
 - [[Raunkiaer's Life Forms]] — Added automatically.
 - [[Data Asset — Benguerir Mine Species and Shapefiles]] — Added automatically.
 - [[Code — Hamza Collaboration Biodiversity Plotting]] — Initial concept.
+- [[Ecological Restoration Terminology]] — Technical distinction of remediation, reclamation, rehabilitation, and restoration
+- [[Uddin2012Effect]] — Literature note on soil amendments and corn P phytoavailability
+- [[Kashem2004Phosphorus]] — Literature note on soil P sequential extraction and fractionation
+- [[Requejo2014Organic]] — Literature note on long-term organic P pools and soil enzyme activity
 
 ---
 *Related: [[Home|Mission Control]]*
@@ -1972,6 +1993,44 @@ This activity report summarizes the progress made during the first year of the P
 - [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy]]
 - [[04_Knowledge Base/wiki/concepts/Phosphate Mineral Validation Scheme]]
 - [[04_Knowledge Base/wiki/concepts/X-Ray Diffraction (XRD) in Mineralogy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Aghababaei2022Introducing.md
+
+---
+date: 2026-06-17
+title: "Introducing ARTMO’s Machine-Learning Classification Algorithms Toolbox: Application to Plant-Type Detection in a Semi-Steppe Iranian Landscape"
+tags:
+---
+
+
+# Introducing ARTMO’s Machine-Learning Classification Algorithms Toolbox: Application to Plant-Type Detection in a Semi-Steppe Iranian Landscape
+
+## Abstract
+Accurate plant-type (PT) detection forms an important basis for sustainable land management, maintaining biodiversity, and ecosystem services. This paper introduces the Machine-Learning Classification Algorithms (MLCA) toolbox integrated within the Automated Radiative Transfer Models Operator (ARTMO) framework developed in Matlab. The MLCA toolbox allows systematically training, validating, and applying pixel-based classification models to remote sensing imagery. In a heterogeneous semi-steppe scene in Southwest Iran, 21 supervised MLCAs were evaluated to map four main PTs. The Gaussian Process Classifier (GPC) emerged as the top-performing algorithm with an overall accuracy (OA) of 90%, followed by Random Forests (OA of 86%). The toolbox automates ML model evaluation and thematic mapping.
+
+## Key Points
+*   **ARTMO MLCA Toolbox**: A Matlab-based graphical user interface (GUI) that integrates 21 supervised machine-learning classifiers, facilitating automated data splitting, dimensionality reduction, model cross-validation, and accuracy assessment.
+*   **GPC Performance**: Gaussian Process Classifier (GPC) outperformed traditional methods (Random Forest, SVM, Decision Trees), achieving 90% overall accuracy. GPC provides a probabilistic formulation that gives sub-pixel class probability and predictive variance at the pixel level.
+*   **Data-Driven Dependency**: Since supervised algorithms are heavily data-driven, model performance is highly sensitive to the quality and distribution of training datasets. Hence, multi-model comparison (as enabled by the toolbox) is critical for selecting the best classifier for a specific landscape.
+*   **Ecosystem Management**: Accurately mapping plant communities allows monitoring environmental changes, grazing pressures, and land degradation, supporting sustainable conservation planning.
+
+## Methods Summary
+*   **Toolbox Architecture**: Programmed in Matlab, executing data splitting, cross-validation, hyperparameter tuning, and thematic mapping output.
+*   **Classifiers Evaluated**: 21 algorithms including GPC, Random Forest (RF), Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naive Bayes, Neural Networks, and Ensemble Trees.
+*   **Case Study Data**: Sentinel-2 MSI satellite reflectance bands over Southwest Iran. Four plant classes: shrubland, grassland, semi-shrubland, and mixed shrub-grass vegetation.
+*   **Evaluation Metrics**: Overall Accuracy (OA), Producer's Accuracy, User's Accuracy, and Kappa statistics.
+
+## Relevance to Thesis
+*   **Remote Sensing Classification Parallel**: Abdelhak's work involves assessing various classifiers (SAM, MDC, MLC, Mahalanobis) for mapping waste rocks (mineral classes) and vegetation at the Benguerir mine.
+*   **Revegetation Monitoring**: As the thesis project transitions into monitoring mine reclamation, mapping wild plant colonization (e.g., *Nicotiana glauca*, *Kali soda*) on the waste piles can utilize the machine learning classification protocols described here.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Minimum Distance Classification in Hyperspectral Inversion|Minimum Distance Classification]]
+*   [[04_Knowledge Base/wiki/concepts/Ecological Restoration Terminology|Ecological Restoration Terminology]]
+*   [[Rialland2021Identification|Rialland et al. (2021) — Mineral HSI Fuzzy Logic]]
 
 
 
@@ -2628,6 +2687,82 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/Jacq2022Theoretical.md
+
+---
+date: 2026-06-17
+title: "Theoretical Principles and Perspectives of Hyperspectral Imaging Applied to Sediment Core Analysis"
+tags:
+---
+
+
+# Theoretical Principles and Perspectives of Hyperspectral Imaging Applied to Sediment Core Analysis
+
+## Abstract
+Hyperspectral imaging (HSI) is a non-destructive, highly reproducible, and rapid technique that provides spatial and contiguous spectral information. This review details the theoretical principles of HSI systems, image acquisition recommendations, spectral preprocessing techniques, chemometrics, and paleoenvironmental applications for sediment core logging. HSI bridges the gap between high-precision point spectroscopy and 2D spatial imaging. Preprocessing steps (spatial/spectral reduction, reflectance conversion, smoothing, derivatives, and compression) are crucial to remove noise, light scattering, and sensor artifacts before applying chemometric models.
+
+## Key Points
+*   **Contiguity of Spectra**: HSI registers contiguous bands (typically across VNIR-SWIR ranges), enabling the detection of subtle absorption features associated with minerals and organic molecules, which multispectral systems miss.
+*   **Spectral Preprocessing**: Critical steps to prepare HSI cubes include:
+    *   *Standard Normal Variate (SNV)* and *Multiplicative Scatter Correction (MSC)* to reduce physical light scattering.
+    *   *Savitzky-Golay filtering* for smoothing noise and calculating spectral derivatives (which highlight absorption shoulders and resolve overlapping bands).
+*   **Chemometric Processing**: Emphasizes the role of multivariate regression (e.g., PLSR, PCR) and classification (e.g., Random Forests, SVM, SAM) in converting high-dimensional HSI cubes into thematic mineralogical maps.
+*   **Non-destructive Advantage**: HSI maintains spatial integrity while capturing chemical heterogeneity, making it ideal for core profiling and waste pile characterizations.
+
+## Methods Summary
+*   **Review Focus**: Hyperspectral sensors (pushbroom vs. whiskbroom), calibration protocols (using dark/white reference panels), and HSI data cube manipulation.
+*   **Preprocessing Pipeline**: Light scattering correction, noise filtering, HSI cube compression, and dimension reduction.
+*   **Analysis Workflow**: Development of predictive regressions (PLSR) and supervised classifiers (data-driven models) to map composition.
+
+## Relevance to Thesis
+*   **HSI Pipeline Reference**: Serves as a primary reference for the processing pipeline of PRISMA hyperspectral cubes (calibration, noise reduction, derivative spectroscopy) applied to Benguerir waste rocks.
+*   **Core Profiling Analogy**: The sediment core scanning workflow (high spatial resolution, contiguous profiling) mirrors the transect sampling profiling done on Panel 2.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Minimum Distance Classification in Hyperspectral Inversion|Minimum Distance Classification]]
+*   [[04_Knowledge Base/wiki/concepts/Code — R Script — Powder XRD Phase Quantification (powdR)|XRD powdR Code Note]]
+*   [[Rialland2021Identification|Rialland et al. (2021) — Mineral HSI Fuzzy Logic]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Kashem2004Phosphorus.md
+
+---
+date: 2026-06-17
+title: "Phosphorus fractions in soil amended with organic and inorganic phosphorus sources"
+tags:
+---
+
+
+# Phosphorus fractions in soil amended with organic and inorganic phosphorus sources
+
+## Abstract
+Information on the phosphorus (P) fractions in soils treated with different organic amendments is needed to better manage land application of organic amendments to agricultural soils. This study investigated the forms and distribution of P after 1, 4, and 16 weeks in a Lakeland silty clay loam soil using a sequential fractionation procedure. Phosphorus was added at rates of 0, 123, 307, and 614 mg P kg⁻¹ in the form of biosolids, hog manure, cattle manure, and fertilizer P. The largest difference among the amendments was in the water-extractable P fraction, which was significantly lower in soil amended with biosolids. In the biosolids-amended soil, there was a net increase of H2O-P, NaOH-Pi (inorganic), and HCl-P fractions at the expense of organic P (NaOH-Po) and residual P fractions after 16 weeks of incubation, signifying mineralization.
+
+## Key Points
+*   **Water-Extractable P Contrast**: Biosolids produced a significantly lower water-extractable P fraction ($H_2O-P$) compared to hog manure and mineral fertilizer. The slope of $H_2O-P$ increase as a function of P rate was 4 times lower for biosolids (0.06) than for hog manure (0.24), and 7 times lower than for mineral fertilizer (0.42).
+*   **P Mineralization**: During a 16-week incubation, biosolids showed a net conversion of organic P ($NaOH-P_o$) and residual P into labile inorganic pools ($H_2O-P$, $NaOH-P_i$, and $HCl-P$), demonstrating active mineralizing kinetics.
+*   **Sequential Extraction utility**: The use of sequential extraction chemistry (H2O, NaHCO3, NaOH, HCl) successfully tracks the geochemical transformations and environmental mobility of added P over time.
+
+## Methods Summary
+*   **Substrate**: Lakeland silty clay loam soil.
+*   **Treatments**: Control (0), Biosolids, Hog Manure, Cattle Manure, and Inorganic Fertilizer P.
+*   **P Rates**: 0, 123, 307, and 614 mg P kg⁻¹ soil.
+*   **Timeframes**: Incubation analyzed at 1, 4, and 16 weeks using a modified sequential fractionation procedure to isolate various inorganic and organic P pools.
+
+## Relevance to Thesis
+*   Highlights the geochemical behaviour of organic vs. mineral P sources. In phosphate mine reclamation (Benguerir), understanding the partition of P into water-soluble, carbonate-bound (HCl-extractable), and organic pools is crucial for predicting plant uptake and leaching risk.
+*   Illustrates that phosphorus in complex by-products (like biosolids or washing sludges) is often less immediately soluble than in synthetic fertilizers, which can be advantageous in preventing excessive initial runoff while providing a sustained release through mineralization.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   [[Uddin2012Effect|Uddin et al. (2012) — P Phytoavailability]]
+*   [[Requejo2014Organic|Requejo et al. (2014) — Long-term P Forms]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/Liu2018Quantitative.md
 
 ---
@@ -2682,6 +2817,48 @@ This dissertation investigates the application of laboratory and airborne hypers
 - [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
 - [[02_Academic & Work/thesis/Chapter 2 - Spectral Library|Chapter 2 - Spectral Library]]
 - [[04_Archives/D-Drive/D-Drive — ALL]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Malainine2021Integrated.md
+
+---
+date: 2026-06-17
+title: "An integrated ASTER-based approach for mapping carbonatite and iron oxide-apatite deposits"
+tags:
+---
+
+
+# An integrated ASTER-based approach for mapping carbonatite and iron oxide-apatite deposits
+
+## Abstract
+Mapping carbonatites and related mineral deposits has occupied a prominent place in mineral resource exploration programs given their potential to host critical metals like rare earth elements (REE) and niobium. Based on spectral characteristics of indicative minerals, a mapping approach was developed using Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) data. Band ratioing (TIR and VNIR-SWIR), Principal Component Analysis (PCA), and Minimum Noise Fraction (MNF) techniques were integrated to map carbonatites and iron oxide-apatite deposits. Results were validated using field validation, geochemical portable XRF data, and supervised image classification-based facies mapping.
+
+## Key Points
+*   **Apatite Spectral Detection**: Maps iron oxide-apatite ore bodies using ASTER's VNIR-SWIR and TIR bands, focusing on key absorption features of apatite and associated iron oxides.
+*   **Dimensionality Reduction**: Demonstrates the efficacy of Principal Component Analysis (PCA) and Minimum Noise Fraction (MNF) in isolating subtle mineral spectral signatures from background geology.
+*   **Field-to-Satellite Validation**: Integrates ground-based portable XRF geochemical assays with satellite-derived spectral classification to assess mapping accuracy.
+*   **Mineralogical Associations**: Details carbonatite and apatite spectral characteristics, showing how calcite, dolomite, and apatite can be discriminated using TIR carbonate absorption bands and SWIR vibrational features.
+
+## Methods Summary
+*   **Remote Sensing Platform**: ASTER multispectral satellite data (VNIR, SWIR, and TIR bands).
+*   **Image Processing Methods**:
+    *   Band ratioing (TIR band ratios for carbonates; VNIR-SWIR ratios for iron oxides).
+    *   Principal Component Analysis (PCA) for spectral subsetting.
+    *   Minimum Noise Fraction (MNF) to isolate noise and compress spectral data.
+    *   Supervised classification algorithms to map geological facies.
+*   **Ground Truth Validation**: Field reconnaissance coupled with portable X-Ray Fluorescence (pXRF) measurements and laboratory X-ray analysis (XRD).
+
+## Relevance to Thesis
+*   **Supervisor Collaboration**: Co-authored by [[Ahmed Laamrani]], establishing the institutional and methodological lineage of remote sensing applications for mineral exploration at UM6P.
+*   **Apatite Mapping Parallel**: Apatite ($Ca_5(PO_4)_3(F,Cl,OH)$) is the principal phosphate-bearing mineral in the Benguerir mine. This paper validates the use of multispectral/hyperspectral band ratios and PCA for mapping apatite-rich waste rock piles.
+*   **Multispectral vs. Hyperspectral**: Serves as a direct contrast to Abdelhak's use of high-resolution PRISMA hyperspectral data. While ASTER has broader spectral bands, it has thermal bands (TIR) which are highly sensitive to carbonates (calcite/dolomite), whereas PRISMA offers superior contiguous SWIR spectral resolution.
+
+## Links
+*   [[02_Academic & Work/org/people/Ahmed Laamrani|Ahmed Laamrani]]
+*   [[04_Knowledge Base/wiki/concepts/Data Asset — DESKTOP-files PCA Reflectance|DESKTOP-files PCA Reflectance]]
+*   [[04_Knowledge Base/wiki/concepts/Minimum Distance Classification in Hyperspectral Inversion|Minimum Distance Classification]]
 
 
 
@@ -3221,6 +3398,87 @@ created: '2026-06-09'
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/sources/Requejo2014Organic.md
+
+---
+date: 2026-06-17
+title: "Organic and inorganic phosphorus forms in soil as affected by long-term application of organic amendments"
+tags:
+---
+
+
+# Organic and inorganic phosphorus forms in soil as affected by long-term application of organic amendments
+
+## Abstract
+Organic amendments contribute significantly to the phosphorus (P) supply in agroecosystems. However, their long-term effects on specific P forms in soils are not completely understood. The objective of this study was to investigate the concentration of organic P forms and inorganic P pools in soil and the activity of enzymes involved in P turnover in a long-term field experiment running since 1998 in Northern Germany. Treatments included control (no P), cattle manure, biowaste compost, and biowaste compost in combination with triple-superphosphate (compost + TSP). Classification of organic P forms using enzyme additions to NaOH-EDTA soil extracts showed non-hydrolyzable organic P as the dominant form in soil, followed by inositol hexakisphosphate (Ins6P)-like P. Long-term manure and compost applications enhanced microbial biomass, dehydrogenase activity, and acid/alkaline phosphatase activity compared to unamended soils.
+
+## Key Points
+*   **Dominant Organic P Pools**: Enzyme-assisted NaOH-EDTA soil extraction identified *non-hydrolyzable organic P* as the dominant organic pool, followed by *inositol hexakisphosphate (Ins6P)-like P* (phytate).
+*   **Enzymatic Activity Enhancement**: Long-term applications of compost and cattle manure significantly increased dehydrogenase activity (estimating total microbial activity) and acid/alkaline phosphatase activity (mediating organic P ester hydrolysis).
+*   **Synergistic P Accumulation**: The combined treatment (compost + TSP) resulted in the highest levels of total organic P and bioavailable P pools (water-extractable and double-lactate soluble P), showing that combining organic and mineral sources yields optimal P build-up.
+*   **Alkaline vs. Acid Phosphatase**: Alkaline phosphatase (AlP) is produced by both crops and microorganisms, while acid phosphatase (AcP) is primarily excreted by plant roots. Both activities are crucial for mineralizing recalcitrant organic P.
+
+## Methods Summary
+*   **Study Site**: Long-term field experiment (est. 1998 in Northern Germany), sampled in 2012 (14 years of treatment).
+*   **Treatments**: Control (No P), Cattle Manure, Biowaste Compost, and Compost + TSP.
+*   **Analytical Techniques**: 
+    *   Dehydrogenase and phosphatase enzyme activity assays.
+    *   NaOH-EDTA extraction of soil P.
+    *   Enzymatic incubation assays (using phytase, acid phosphatase, and nuclease) to classify specific organic P species (like phytate-like and monoester P).
+
+## Relevance to Thesis
+*   **Enzymatic Characterization**: In reclaiming phosphate mine waste rocks, establishing a functional soil-plant-microbe system requires monitoring enzyme activities like dehydrogenases and phosphatases. These serve as biochemical indicators of soil health and biological recovery.
+*   **Organic P Recalcitrance**: Identifies phytate-like P (Ins6P) as a key stable organic reservoir. Understanding how native wild plants excrete phytases or acid phosphatases is vital for unlocking this pool.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   [[Uddin2012Effect|Uddin et al. (2012) — P Phytoavailability]]
+*   [[Kashem2004Phosphorus|Kashem et al. (2004) — Soil P Fractionation]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Rialland2021Identification.md
+
+---
+date: 2026-06-17
+title: "Identification of minerals from hyperspectral imaging based on a fuzzy logic approach"
+tags:
+---
+
+
+# Identification of minerals from hyperspectral imaging based on a fuzzy logic approach
+
+## Abstract
+A fuzzy logic approach was developed to automatically identify minerals from reflectance spectra acquired by hyperspectral sensors in the VNIR and SWIR ranges. The fuzzy logic system mimics human expert reasoning, comparing the positions and depths of main and secondary absorption features of an unknown pixel spectrum with a reference mineral database derived from laboratory spectra. The method was successfully validated on laboratory spectra and then applied to airborne HySpex and spaceborne PRISMA satellite images acquired over two quarries in France. This demonstrates the capacity of the algorithm to identify minerals in diverse geological contexts and in the presence of mineral mixtures.
+
+## Key Points
+*   **Expert System Logic**: Instead of purely statistical classifiers, the fuzzy logic approach encodes geological expert knowledge by mapping spectral absorption band positions (centroids, depths, and widths) to membership functions.
+*   **PRISMA Satellite Validation**: Proves the feasibility of retrieving surface mineralogy (including carbonates like calcite and dolomite, and hydroxyl-bearing minerals) using PRISMA spaceborne SWIR data (30 m pixel resolution) despite atmospheric interference.
+*   **Mixture Resolution**: Fuzzy logic membership values provide a proxy for mineral presence/probability, which is highly useful when pixels contain sub-pixel mixtures of carbonates, quartz, and clay minerals.
+*   **VNIR-SWIR Diagnostic Features**: Highlights the diagnostic SWIR absorption features of carbonates (typically around 2300–2350 nm) and clay minerals (around 2200 nm).
+
+## Methods Summary
+*   **Methodology**: Fuzzy Logic membership mapping based on absorption centroids.
+*   **Input Data**: Reflected radiance converted to surface reflectance.
+*   **Reference Database**: Derived from USGS or laboratory mineral libraries.
+*   **Datasets Evaluated**:
+    *   Laboratory spectral measurements.
+    *   Airborne HySpex hyperspectral imagery (high spatial resolution).
+    *   Spaceborne PRISMA HSI (30 m spatial resolution, 239 bands).
+
+## Relevance to Thesis
+*   **PRISMA Mineral Identification**: Direct methodological parallel to the characterization of Benguerir phosphate waste rocks. The Benguerir mine contains calcite, dolomite, quartz, and apatite, which show diagnostic absorption features in the SWIR.
+*   **Mineral Mixture Reference**: Reclaiming waste piles involves heterogeneous mixtures of carbonates (calcite/dolomite) and quartz. This paper provides a framework for resolving these mixtures using spaceborne HSI.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Minimum Distance Classification in Hyperspectral Inversion|Minimum Distance Classification]]
+*   [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   [[Jacq2022Theoretical|Jacq et al. (2022) — HSI Principles]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/sources/Shippert2003Introduction.md
 
 ---
@@ -3329,6 +3587,89 @@ created: '2026-06-09'
 
 ## 🛠️ Methodology & Relevance
 * *How this relates to multi-scale remote sensing / unmixing...*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/USEPA1999Correct.md
+
+---
+date: 2026-06-17
+title: "Correct Sampling Using the Theories of Pierre Gy"
+tags:
+---
+
+
+# Correct Sampling Using the Theories of Pierre Gy
+
+## Abstract
+This U.S. EPA Technology Transfer Note provides an introductory overview of Pierre Gy’s Theory of Sampling (TOS) applied to environmental soil sampling. Gy’s theory addresses seven types of sampling errors and offers proven physical techniques for their minimization. The note categorizes internal sample errors—such as Fundamental Error (FE), Grouping and Segregation Error (GSE), Long-range Heterogeneity Error, and Delimitation/Extraction errors—explaining how to manage them during field sampling and analytical laboratory subsampling. Implementing correct sampling equipment (flat-bottomed, parallel-sided scoops rather than spoon-shaped ones) and splitting protocols (such as alternate shovelling) dramatically improves data quality for little to no added expense.
+
+## Key Points
+*   **Seven Sampling Errors**: Pierre Gy's theory identifies:
+    1.  *Fundamental Error (FE)*: Loss of precision due to chemical/physical heterogeneity; reduced by increasing sample mass or decreasing particle size.
+    2.  *Grouping and Segregation Error (GSE)*: Caused by gravity or spatial segregation; minimized by compositing many random increments or splitting/homogenizing.
+    3.  *Long-range Heterogeneity Error*: Spatial fluctuations; minimized by systematic grid sampling.
+    4.  *Periodic Heterogeneity Error*: Temporal/spatial cycle fluctuations; minimized by composite sampling.
+    5.  *Increment Delimitation Error*: Caused by poor sampling design or incorrect cutter geometries.
+    6.  *Increment Extraction Error*: Occurs when equipment fails to extract the exact delimited volume.
+    7.  *Preparation Error*: Contamination, sample loss, or chemical alteration during handling.
+*   **Correct Sampling Devices**: Pierre Gy recommends scoops and spatulas with flat bottoms and parallel sides. Round, spoon-shaped scoops cause preferential sampling of coarse particles, introducing segregation bias.
+*   **Alternate Shovelling**: A manual subsampling technique where a pile is distributed sequentially into multiple smaller piles, preventing the grouping biases introduced by traditional coning and quartering.
+
+## Methods Summary
+*   **Application**: Guidance for environmental scientists to transition mining industry sampling standards to hazardous waste site soil characterization.
+*   **Protocol Checklist**: Selection of flat-bottomed tools, correct splitters, and systematic increment collection to ensure representative test portions are delivered to analytical instruments (e.g., ICP, XRF, XRD).
+
+## Relevance to Thesis
+*   **Phosphate Ore Sampling QA/QC**: Fundamental to ensuring that the 100 Panel 2 rock samples collected along the 662 m transect are representative of the geological layers.
+*   **Laboratory Subsampling Protocol**: Provides the theoretical justification for the crushing, grinding, and splitting steps executed prior to XRD/XRF mineralogical analysis, ensuring that the final aliquot (typically <1 gram for XRD) represents the bulk sample.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Pierre Gy's Theory of Sampling|Pierre Gy's Theory of Sampling]]
+*   [[04_Knowledge Base/wiki/concepts/Fundamental Sampling Error|Fundamental Sampling Error]]
+*   [[04_Knowledge Base/wiki/concepts/Code — R Script — Pierre Gy Sampling Error Nomogram|Sampling Nomogram Code]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/Uddin2012Effect.md
+
+---
+date: 2026-06-17
+title: "Effect of Organic and Inorganic Amendments on the Phytoavailability of Phosphorus to Corn (Zea mays)"
+tags:
+---
+
+
+# Effect of Organic and Inorganic Amendments on the Phytoavailability of Phosphorus to Corn (Zea mays)
+
+## Abstract
+A pot experiment was conducted to investigate the effect of cow manure, city waste, chicken manure, and triple superphosphate (TSP) on the growth of corn (*Zea mays*) and the phytoavailability of phosphorus (P) in a Pahartoli silty clay loam soil. Soil was mixed with amendments at rates equivalent to 0, 200, 400, and 800 mg P kg⁻¹ soil based on total P. Dry weight of shoots and roots increased with all amendments, with organic manures outperforming TSP at high application rates in biomass production. Phosphorus concentration in plant parts was highest with TSP. Olsen P, measured after plant harvest, increased with P application rates in the order: city waste < chicken manure < cow manure < TSP. Olsen P was strongly correlated with plant shoot and root P concentration (r = 0.910), verifying its suitability for predicting plant-available P.
+
+## Key Points
+*   **Biomass Promotion**: Organic manures (cow and chicken manure) yielded higher shoot and root dry weights than inorganic TSP at equivalent phosphorus rates, likely due to additional macro/micronutrients and soil structural improvements.
+*   **P Phytoavailability**: While organic manures produced more biomass, TSP yielded the highest tissue P concentrations, reflecting its immediate solubility compared to organic P sources.
+*   **Olsen P Suitability**: Olsen P strongly correlates with tissue P concentrations in corn, serving as an effective soil test indicator for reclamation monitoring in phosphate-rich substrates.
+*   **Amendment Ranking**: Soil test phosphorus (Olsen P) extractability followed the sequence: city waste < chicken manure < cow manure < TSP.
+
+## Methods Summary
+*   **Substrate**: Pahartoli silty clay loam (pH 5.1, Organic Carbon 0.88%, CEC 7.12 cmol/kg, 66% sand, 19% clay).
+*   **Treatments**: 13 treatments (4 amendments × 3 rates + 1 control) with 3 replicates arranged in a completely randomized design.
+*   **P Application Rates**: 0, 200, 400, and 800 mg P kg⁻¹ soil.
+*   **Duration & Measurement**: Corn was grown in 5 kg soil pots. Biomass, tissue P content, and post-harvest soil Olsen P were measured.
+
+## Relevance to Thesis
+*   Provides comparative baseline data on the soil-plant system, particularly comparing mineral TSP (similar to phosphate ore/by-products) with organic amendments for mine soil reclamation.
+*   Supports the use of Olsen P as a key chemical assay for mapping nutrient bioavailability in heterogeneous mining soils (relevant to Chapter 4).
+
+## Notes
+*   The soil used was highly acidic (pH 5.1), which differs from the alkaline soils (pH 7.5–8.5) typically found at the Benguerir mine. Thus, P fixation chemistry (iron/aluminum oxides vs. calcium carbonates) will differ.
+
+## Links
+*   [[04_Knowledge Base/wiki/concepts/Data Asset — Zone 2 Soil pH and Electrical Conductivity|Zone 2 pH and EC Data]]
+*   [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]]
+*   [[Kashem2004Phosphorus|Kashem et al. (2004) — Soil P Fractionation]]
 
 
 
