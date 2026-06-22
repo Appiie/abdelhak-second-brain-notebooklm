@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 53 | **Total Word Count**: ~37037 words
+> **Total Files Compiled**: 54 | **Total Word Count**: ~40033 words
 
 ## 📂 Table of Contents
 
@@ -60,6 +60,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-storch-dlr-imf-postdoc-md) (~622 words)
 - [02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-valeria-uqat-postdoc-md) (~579 words)
 - [02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter-—-wageningen-wur-rs-scientist-md) (~592 words)
+- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~2996 words)
 - [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~550 words)
 - [02_Academic & Work/work/applications/UTwente-2026/CV — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv-—-utwente-md) (~647 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter-—-utwente-md) (~482 words)
@@ -4684,6 +4685,393 @@ UM6P, GSMI, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md
+
+---
+date: 2026-06-22
+tags:
+summary: 5 targeted applications for June 22, 2026 — mix of live open positions and high-priority spontaneous emails, all with cover letters and short outreach emails.
+---
+
+
+# Job Applications — June 22, 2026
+
+Defense in **8 days**. Send all 5 of these today.
+
+---
+
+## Overview
+
+| # | Target | Type | Status |
+|---|--------|------|--------|
+| 1 | Pixxel — Hyperspectral Scientist | Live Open Position | Apply via darwinbox |
+| 2 | Barrick Gold — Exploration Remote Sensing Lead | Live Open Position | Apply via company portal |
+| 3 | Dr. Tobias Storch, DLR IMF | Spontaneous cold email | Send to storch@dlr.de |
+| 4 | Prof. Sabine Chabrillat, GFZ Potsdam | Spontaneous cold email | Send to chabri@gfz-potsdam.de |
+| 5 | Dr. Richard Gloaguen, HZDR | Spontaneous cold email | Send to r.gloaguen@hzdr.de |
+
+---
+
+## 1. Pixxel — Hyperspectral Scientist
+
+**Why now:** Pixxel just launched 6 Firefly hyperspectral satellites in 2025, received a US NRO contract in May 2026, and explicitly lists Mining as a vertical. Their careers portal (darwinbox) has an active Hyperspectral Scientist opening. Fit score: 9.5/10.
+
+**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
+
+---
+
+### Short Email (send with CV attached)
+
+```
+To: careers@pixxel.space
+Subject: Hyperspectral Scientist Application — Abdelhak EL MANSOUR
+
+Dear Pixxel Hiring Team,
+
+I am writing to apply for the Hyperspectral Scientist position. I am defending my PhD at UM6P (Morocco) on June 30, with a thesis focused on multi-scale hyperspectral remote sensing for mine waste characterization and reclamation monitoring.
+
+Over the past four years I built operational Python pipelines for EnMAP and PRISMA satellite data, covering atmospheric correction, bad-band removal, spectral unmixing (VCA-FCLS), and spatial-spectral CNN classification. The results are published in four peer-reviewed papers and validated against geochemical ground truth at a real mine site.
+
+Your work on the Firefly constellation and the Aurora platform is exactly the kind of infrastructure I want to build on. I noticed Pixxel is expanding into mining solutions — that is the application domain my thesis addresses directly.
+
+I have attached my CV. Happy to share the thesis abstract and publication list on request.
+
+Best regards,
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing — UM6P, Morocco
+insitazoult@gmail.com
+```
+
+---
+
+### Cover Letter (attach as PDF)
+
+```
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing and Geosciences
+Mohammed VI Polytechnic University (UM6P)
+Benguerir, Morocco
+insitazoult@gmail.com
+
+June 22, 2026
+
+Hiring Team
+Pixxel Space
+Bengaluru, India
+
+Dear Hiring Team,
+
+I am applying for the Hyperspectral Scientist position at Pixxel. I am a PhD candidate at UM6P in Morocco, defending my thesis on June 30, 2026. My research sits at the intersection of satellite hyperspectral imaging, geochemical validation, and machine learning — which maps directly onto what Pixxel is building.
+
+My thesis title is: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine." Over the course of the PhD, I built and validated a full end-to-end Python processing pipeline for EnMAP and PRISMA hyperspectral data. The pipeline handles radiometric calibration, atmospheric correction (ACO-based), bad-band detection, geometric co-registration, spectral unmixing (VCA-FCLS), and mineral classification using both Random Forest and a Squeeze-and-Excitation CNN. Every output was validated against 312 geochemical samples collected in the field.
+
+This is not a theoretical exercise. The pipeline runs on real satellite acquisitions, produces mineralogical maps at 30m resolution, and has been used to monitor the temporal evolution of a reclamation program at the Benguerir mine of OCP Group — one of the world's largest phosphate producers.
+
+I chose to apply to Pixxel because the Firefly constellation represents what I have been preparing for. Working with field-calibrated hyperspectral data at lab and airborne scale was the foundation; satellite-scale operational delivery is the next step. I also noticed that Pixxel explicitly covers mining as an application vertical. My thesis is a proof-of-concept for exactly that use case.
+
+What I bring to the role:
+
+- Python pipeline development for raw hyperspectral satellite data (HDF5 format, EnMAP and PRISMA)
+- Spectral unmixing and supervised mineral classification validated at mine scale
+- 4 peer-reviewed publications in MDPI Remote Sensing and Sensors
+- Geoscience domain knowledge (mineralogy, phosphate geochemistry, mine site dynamics)
+- Trilingual: French, English, Arabic
+
+I would welcome the chance to discuss how my background fits into your current work. I am available from July 1, 2026.
+
+Sincerely,
+Abdelhak EL MANSOUR
+```
+
+---
+
+## 2. Barrick Gold — Exploration Remote Sensing Lead
+
+**Why now:** Live open position on ZipRecruiter (posted June 2026). Salt Lake City, UT — listed as remote-eligible. Job description specifically mentions alteration mineral mapping (white mica, phyllosilicates) — the exact mineralogical classes Abdelhak mapped in his thesis. Fit score: 9/10.
+
+**Apply at:** https://www.ziprecruiter.com/c/Barrick-Gold-Corporation/Job/Exploration-Remote-Sensing-Lead/-in-Salt-Lake-City,UT?jid=4a04188a2f2c51cc
+(Also check barrick.com/careers directly.)
+
+---
+
+### Short Email (for direct outreach if you find a contact)
+
+```
+Subject: Exploration Remote Sensing Lead — Abdelhak EL MANSOUR
+
+Dear Hiring Team,
+
+I am writing about the Exploration Remote Sensing Lead position. I am finishing my PhD (defense June 30) on hyperspectral remote sensing for mineralogical mapping of mine waste, with a specific focus on alteration mineral detection using EnMAP and PRISMA satellite data.
+
+My thesis required mapping carbonate, phyllosilicate, and iron oxide phases across a large mine site using a Python pipeline I built from scratch — covering spectral unmixing, endmember extraction, and spatial-spectral classification. That work was done in direct collaboration with OCP Group at an operational phosphate mine.
+
+I am confident this experience is directly applicable to the exploration workflows Barrick is developing. I have attached my CV and would be glad to walk through the methodology in a short call.
+
+Best regards,
+Abdelhak EL MANSOUR
+insitazoult@gmail.com
+```
+
+---
+
+### Cover Letter (attach as PDF)
+
+```
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing and Geosciences
+Mohammed VI Polytechnic University (UM6P)
+Benguerir, Morocco
+insitazoult@gmail.com
+
+June 22, 2026
+
+Hiring Team
+Barrick Gold Corporation
+Salt Lake City, UT / Remote
+
+Dear Hiring Team,
+
+I am applying for the Exploration Remote Sensing Lead position. My background connects hyperspectral satellite data processing, mineralogical classification, and mine-scale field validation — and that combination is rare enough that I want to make the case directly.
+
+My PhD thesis is titled: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine, Morocco." Four years of work, four publications, one operational Python pipeline, one real mine. The Benguerir site belongs to OCP Group, the world's largest phosphate exporter, and the research was conducted under their data-sharing agreement.
+
+The core technical work: I developed an alteration mineral mapping workflow using PRISMA and EnMAP hyperspectral satellite data. This included preprocessing (atmospheric correction, bad-band removal, geometric alignment), spectral endmember extraction (VCA), constrained unmixing (FCLS), and supervised classification (Random Forest and Squeeze-and-Excitation CNN). I mapped carbonate minerals, clay and phyllosilicate phases, iron oxides, and silicate gangue at 30m satellite resolution, then validated against 312 geochemical samples.
+
+That is the core technical loop the Exploration Remote Sensing Lead role at Barrick requires. Designing and implementing alteration mineral mapping workflows from satellite data is what I spent four years doing.
+
+What I offer:
+
+- End-to-end Python development for hyperspectral data (EnMAP, PRISMA HDF5 format)
+- Operational mineral mapping validated against geochemical ground truth
+- Strong geoscience foundation (mineralogy, geochemistry, mine site geology)
+- 4 publications in peer-reviewed remote sensing journals
+- Willingness to relocate or work remotely
+
+My defense is June 30, 2026. I am available to start July 2026 or later by agreement.
+
+Sincerely,
+Abdelhak EL MANSOUR
+```
+
+---
+
+## 3. Dr. Tobias Storch — DLR IMF, Oberpfaffenhofen
+
+**Why:** DLR Institute of Optical Sensor Systems built and operates EnMAP. Abdelhak built the most operationally complete external EnMAP processing pipeline to date. There is no stronger technical match in Europe. This spontaneous email should go NOW — before defense — with the framing of "defending June 30, available July 1."
+
+**Send to:** tobias.storch@dlr.de (check dlr.de for exact address if needed)
+
+---
+
+### Short Email (send this)
+
+```
+To: tobias.storch@dlr.de
+Subject: Spontaneous application — Postdoctoral researcher, EnMAP data science — Abdelhak EL MANSOUR
+
+Dear Dr. Storch,
+
+I am writing spontaneously to inquire about postdoctoral opportunities in your group at DLR IMF.
+
+I am defending my PhD at UM6P (Morocco) on June 30, 2026. My thesis develops an operational processing chain for EnMAP and PRISMA hyperspectral data for mine waste mineralogical characterization. Over four years I built a 1,776-line Python pipeline handling the full processing stack: ACO atmospheric correction, bad-band detection, VCA endmember extraction, FCLS unmixing, and spatial-spectral CNN classification. The outputs are validated against ground-truth geochemistry at the Benguerir phosphate mine.
+
+I chose to contact you specifically because your group built EnMAP. The technical expertise I developed is directly connected to the instrument your team designed and operates. I would like to bring that operational experience back into the community that made it possible.
+
+I have attached my CV and can provide my thesis abstract and publication list on request. Would you have 20 minutes for a call sometime in July?
+
+With respect,
+Abdelhak EL MANSOUR
+PhD Candidate, UM6P Morocco
+insitazoult@gmail.com
+```
+
+---
+
+### Cover Letter (attach as PDF — keep this tight)
+
+```
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing and Geosciences
+Mohammed VI Polytechnic University (UM6P)
+Benguerir, Morocco
+insitazoult@gmail.com
+
+June 22, 2026
+
+Dr. Tobias Storch
+Head, Hyperspectral Remote Sensing Team
+DLR Institute of Optical Sensor Systems (IMF)
+Oberpfaffenhofen, Germany
+
+Dear Dr. Storch,
+
+I am writing to express my interest in a postdoctoral position within your group at DLR IMF. I will defend my PhD thesis on June 30, 2026, and I am actively looking for a position in hyperspectral remote sensing science and instrumentation.
+
+My thesis — "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks" — was built around EnMAP and PRISMA data. I developed a fully operational Python processing chain for both sensors, going from raw Level-1B HDF5 products to validated mineralogical maps. The pipeline covers atmospheric correction (ACO), spatial co-registration, bad-band masking, spectral unmixing via VCA-FCLS, and machine learning classification (Random Forest and SCSE-CNN). Every classification output was validated against 312 ground-truth geochemical samples.
+
+Four peer-reviewed papers resulted from this work, published in Remote Sensing (MDPI) and Sensors (MDPI).
+
+I am writing to DLR specifically because your group built the instrument that makes this science possible. Working externally with EnMAP data gave me a deep understanding of its spectral properties, calibration quirks, and operational behavior at mine-scale applications. I would like to contribute that user-side knowledge to the team that operates the sensor.
+
+I am open to any postdoctoral format — project-funded positions, fellowship applications, or joint grant proposals — and I am available from July 2026.
+
+I would welcome the opportunity to speak with you or a member of your team.
+
+Sincerely,
+Abdelhak EL MANSOUR
+```
+
+---
+
+## 4. Prof. Sabine Chabrillat — GFZ Potsdam, Section 1.4
+
+**Why:** GFZ Section 1.4 leads the EnMAP science side at GFZ. Prof. Chabrillat is the primary hyperspectral geosciences PI at GFZ and has a recurring pattern of postdoc hires. She is Francophone — this email is in English but note that French works too. GFZ currently has a "Discovery Fellowships 2027-2029" call open — reference it.
+
+**Send to:** chabri@gfz-potsdam.de
+
+---
+
+### Short Email
+
+```
+To: chabri@gfz-potsdam.de
+Subject: Spontaneous postdoctoral inquiry — hyperspectral mineralogy, EnMAP — Abdelhak EL MANSOUR
+
+Dear Prof. Chabrillat,
+
+I am writing to inquire about postdoctoral opportunities in your group at GFZ Section 1.4.
+
+I am a PhD candidate at UM6P (Morocco), defending on June 30, 2026, with a thesis on hyperspectral remote sensing for mineralogical characterization of phosphate mine waste. I built operational Python processing pipelines for EnMAP and PRISMA data, covering atmospheric correction, spectral unmixing (VCA-FCLS), and CNN-based classification. The outputs were validated against geochemical ground truth at the Benguerir mine.
+
+Your group's work on geological and soil hyperspectral applications with EnMAP is the scientific context that frames my thesis. I also noticed that GFZ is running a Discovery Fellowships call for 2027-2029 — I would be glad to discuss a joint proposal if that format fits your current directions.
+
+I have attached my CV. I would appreciate the chance to speak with you at your convenience.
+
+Best regards,
+Abdelhak EL MANSOUR
+PhD Candidate, UM6P Morocco
+insitazoult@gmail.com
+```
+
+---
+
+### Cover Letter (attach as PDF)
+
+```
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing and Geosciences
+Mohammed VI Polytechnic University (UM6P)
+Benguerir, Morocco
+insitazoult@gmail.com
+
+June 22, 2026
+
+Prof. Dr. Sabine Chabrillat
+Section 1.4 — Remote Sensing and Geoinformatics
+GFZ Helmholtz Centre for Geosciences
+Potsdam, Germany
+
+Dear Prof. Chabrillat,
+
+I am writing to express my interest in a postdoctoral position in your group at GFZ Section 1.4. I will defend my PhD at UM6P (Morocco) on June 30, 2026, and I am looking for a research environment where operational hyperspectral geoscience is the core mission.
+
+My thesis, "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine," is built around EnMAP and PRISMA satellite data applied to a real mining environment. The scientific objective was to characterize and monitor the mineral composition of phosphate waste rock piles during their progressive reclamation by OCP Group.
+
+To achieve this, I developed a full Python processing chain. Starting from Level-1B raw HDF5 products, the pipeline performs atmospheric correction (ACO), spatial co-registration, bad-band detection, geometric resampling, spectral endmember extraction (VCA), constrained unmixing (FCLS), and supervised classification using both Random Forest and a spatial-spectral Squeeze-and-Excitation CNN. Classification outputs were validated against 312 geochemical and mineralogical samples collected in four field campaigns.
+
+Four papers were published during the PhD: two focused on field-scale spectroscopy, one on airborne data, and one on satellite-scale integration.
+
+The reason I am writing to your group specifically is the alignment between my work and your section's research program. Your group has advanced the use of EnMAP for geological and soil characterization problems in ways that directly informed my methodological choices. A postdoctoral position in Section 1.4 would allow me to take operational mine-scale hyperspectral mapping into broader environmental and geological applications.
+
+I also noted the GFZ Discovery Fellowships call for 2027-2029. If a joint proposal around hyperspectral geological monitoring fits within your current directions, I would be glad to explore that format.
+
+I am available from July 2026 and would welcome a conversation at your convenience.
+
+Sincerely,
+Abdelhak EL MANSOUR
+```
+
+---
+
+## 5. Dr. Richard Gloaguen — HZDR, Dresden
+
+**Why:** Dr. Gloaguen leads the Computational Data Analysis team at HZDR and is one of Europe's leading researchers on hyperspectral RS for mine and ore characterization. His group works specifically on drill core, mine face, and satellite hyperspectral data for resource estimation — the closest academic match to Abdelhak's thesis outside of GFZ. Not yet contacted.
+
+**Send to:** r.gloaguen@hzdr.de
+
+---
+
+### Short Email
+
+```
+To: r.gloaguen@hzdr.de
+Subject: Postdoctoral inquiry — hyperspectral remote sensing for mine characterization
+
+Dear Dr. Gloaguen,
+
+I am writing to inquire about postdoctoral opportunities in your group at HZDR.
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026. My research applies EnMAP and PRISMA hyperspectral satellite data to mineralogical mapping and reclamation monitoring of phosphate mine waste at the Benguerir mine. I built a complete Python processing pipeline and validated classification outputs against 312 geochemical samples in four field campaigns.
+
+Your group's work on hyperspectral imaging for geological and mining applications is the closest match I have found in Europe to the work I have been doing. I am particularly interested in extending my research toward resource estimation and drill core hyperspectral analysis, directions your group has pioneered.
+
+I have attached my CV. If you have time for a short call in July, I would genuinely welcome the conversation.
+
+Best regards,
+Abdelhak EL MANSOUR
+PhD Candidate, UM6P Morocco
+insitazoult@gmail.com
+```
+
+---
+
+### Cover Letter (attach as PDF)
+
+```
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing and Geosciences
+Mohammed VI Polytechnic University (UM6P)
+Benguerir, Morocco
+insitazoult@gmail.com
+
+June 22, 2026
+
+Dr. Richard Gloaguen
+Head, CODAS Group — Computational Data Analysis for Resource Technology
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
+Dresden, Germany
+
+Dear Dr. Gloaguen,
+
+I am writing to inquire about postdoctoral openings in your group at HZDR. I defend my PhD at UM6P on June 30, 2026, and I am looking for a research position in Europe where mine-focused hyperspectral imaging is the central problem.
+
+My thesis — "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine" — combines field spectroscopy, airborne imaging, and satellite data (EnMAP and PRISMA) to track the mineralogical evolution of waste rock piles across a large phosphate mine. The research was conducted in close collaboration with OCP Group, who provided site access, geochemical data, and logistical support across four field campaigns.
+
+On the technical side, I developed an operational Python pipeline for EnMAP and PRISMA Level-1B HDF5 data: atmospheric correction (ACO), bad-band masking, spatial co-registration, VCA endmember extraction, FCLS constrained unmixing, and classification using both Random Forest and a Squeeze-and-Excitation CNN. The classification results were validated against 312 geochemical samples covering carbonate, phyllosilicate, iron oxide, and silicate phases.
+
+Four papers were published from this work in Remote Sensing and Sensors (MDPI).
+
+What I would bring to HZDR is an operational satellite-scale perspective on the same problem your group addresses at the core and mine-face scale. I am genuinely interested in bridging those two observation scales — using satellite data to contextualize and upscale the finer-resolution characterization work your team does. That cross-scale integration is, to my knowledge, still an open research problem.
+
+I would be glad to discuss how my experience might fit into your current projects. I am available from July 2026.
+
+Sincerely,
+Abdelhak EL MANSOUR
+```
+
+---
+
+## Tracking
+
+- [ ] 1. Pixxel — applied via darwinbox portal
+- [ ] 2. Barrick Gold — applied via company portal / ZipRecruiter
+- [ ] 3. DLR Dr. Storch — email sent
+- [ ] 4. GFZ Prof. Chabrillat — email sent
+- [ ] 5. HZDR Dr. Gloaguen — email sent
 
 
 
