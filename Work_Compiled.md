@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 54 | **Total Word Count**: ~40081 words
+> **Total Files Compiled**: 54 | **Total Word Count**: ~40101 words
 
 ## 📂 Table of Contents
 
@@ -38,34 +38,34 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality).md](#-file-02_academic-&-work-work-active-vito-application-cover-letter-—-scientist-remote-sensing-(water-quality)-md) (~466 words)
 - [02_Academic & Work/work/active/VITO Application/Submission Checklist.md](#-file-02_academic-&-work-work-active-vito-application-submission-checklist-md) (~305 words)
 - [02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md](#-file-02_academic-&-work-work-active-espc6-submission-email-—-espc6-abstract-submission-md) (~221 words)
-- [02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-asadzadeh-gfz-postdoc-md) (~607 words)
-- [02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-asam-dlr-dfd-postdoc-md) (~653 words)
-- [02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-bussiere-uqat-postdoc-md) (~605 words)
-- [02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-chabrillat-gfz-postdoc-md) (~617 words)
-- [02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-esmaeili-uoft-postdoc-md) (~686 words)
-- [02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-fenton-uqat-postdoc-md) (~572 words)
-- [02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-gloaguen-hzdr-postdoc-md) (~648 words)
-- [02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-hecker-itc-postdoc-md) (~668 words)
-- [02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous.md](#-file-02_academic-&-work-work-applications-cover-letter-—-ineris-spontaneous-md) (~652 words)
-- [02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-inrae-melicertes-postdoc-md) (~613 words)
-- [02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-inrae-prepsoil-postdoc-md) (~670 words)
-- [02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-itc-twente-biodiversity-postdoc-md) (~577 words)
-- [02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-khodadadzadeh-itc-postdoc-md) (~696 words)
-- [02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-list-luxembourg-forest-rs-postdoc-md) (~602 words)
-- [02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-lorenz-hzdr-postdoc-md) (~606 words)
-- [02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-martin-uqat-postdoc-md) (~642 words)
-- [02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-mondillo-naples-postdoc-md) (~730 words)
-- [02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-schodlok-bgr-postdoc-md) (~624 words)
-- [02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md](#-file-02_academic-&-work-work-applications-cover-letter-—-sorrentino-naples-inquiry-md) (~593 words)
-- [02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-storch-dlr-imf-postdoc-md) (~622 words)
-- [02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-valeria-uqat-postdoc-md) (~579 words)
-- [02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter-—-wageningen-wur-rs-scientist-md) (~592 words)
-- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3028 words)
-- [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~550 words)
-- [02_Academic & Work/work/applications/UTwente-2026/CV — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv-—-utwente-md) (~647 words)
-- [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter-—-utwente-md) (~482 words)
-- [02_Academic & Work/work/applications/UTwente-2026/Publications List — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-publications-list-—-utwente-md) (~280 words)
-- [02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR.md](#-file-02_academic-&-work-work-applications-dlr-2026-email-—-tobias-storch-dlr-md) (~293 words)
+- [02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asadzadeh-gfz-postdoc-md) (~607 words)
+- [02_Academic & Work/work/applications/Cover Letter - Asam DLR DFD Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asam-dlr-dfd-postdoc-md) (~653 words)
+- [02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---bussiere-uqat-postdoc-md) (~605 words)
+- [02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---chabrillat-gfz-postdoc-md) (~617 words)
+- [02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---esmaeili-uoft-postdoc-md) (~686 words)
+- [02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---fenton-uqat-postdoc-md) (~572 words)
+- [02_Academic & Work/work/applications/Cover Letter - Gloaguen HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---gloaguen-hzdr-postdoc-md) (~648 words)
+- [02_Academic & Work/work/applications/Cover Letter - Hecker ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---hecker-itc-postdoc-md) (~668 words)
+- [02_Academic & Work/work/applications/Cover Letter - INERIS Spontaneous.md](#-file-02_academic-&-work-work-applications-cover-letter---ineris-spontaneous-md) (~652 words)
+- [02_Academic & Work/work/applications/Cover Letter - INRAE MELICERTES Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-melicertes-postdoc-md) (~613 words)
+- [02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-prepsoil-postdoc-md) (~670 words)
+- [02_Academic & Work/work/applications/Cover Letter - ITC Twente Biodiversity Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---itc-twente-biodiversity-postdoc-md) (~577 words)
+- [02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---khodadadzadeh-itc-postdoc-md) (~696 words)
+- [02_Academic & Work/work/applications/Cover Letter - LIST Luxembourg Forest RS Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---list-luxembourg-forest-rs-postdoc-md) (~602 words)
+- [02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---lorenz-hzdr-postdoc-md) (~606 words)
+- [02_Academic & Work/work/applications/Cover Letter - Martin UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---martin-uqat-postdoc-md) (~642 words)
+- [02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---mondillo-naples-postdoc-md) (~730 words)
+- [02_Academic & Work/work/applications/Cover Letter - Schodlok BGR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---schodlok-bgr-postdoc-md) (~624 words)
+- [02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry.md](#-file-02_academic-&-work-work-applications-cover-letter---sorrentino-naples-inquiry-md) (~593 words)
+- [02_Academic & Work/work/applications/Cover Letter - Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---storch-dlr-imf-postdoc-md) (~622 words)
+- [02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---valeria-uqat-postdoc-md) (~579 words)
+- [02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter---wageningen-wur-rs-scientist-md) (~592 words)
+- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3044 words)
+- [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~554 words)
+- [02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv---utwente-md) (~647 words)
+- [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter---utwente-md) (~482 words)
+- [02_Academic & Work/work/applications/UTwente-2026/Publications List - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-publications-list---utwente-md) (~280 words)
+- [02_Academic & Work/work/applications/DLR-2026/Email - Tobias Storch DLR.md](#-file-02_academic-&-work-work-applications-dlr-2026-email---tobias-storch-dlr-md) (~293 words)
 
 
 
@@ -3311,7 +3311,7 @@ abdelhak.elmansour@um6p.ma
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3368,20 +3368,20 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[Thesis Overview]]
 - [[Hyperspectral Imaging]]
 - [[Spectral Analysis]]
 
 ---
 
-*Related: [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Cover Letter — Sorrentino Naples Inquiry]] · [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc|Cover Letter — Mondillo Naples Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry|Cover Letter - Sorrentino Naples Inquiry]] · [[02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc|Cover Letter - Mondillo Naples Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc|Cover Letter - Chabrillat GFZ Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Asam DLR DFD Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3441,8 +3441,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[Thesis Overview]]
 - [[EnMAP Satellite]]
 - [[Hyperspectral Imaging]]
@@ -3450,7 +3450,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3507,20 +3507,20 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
 
 ---
 
-*Related: [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc|Cover Letter — Fenton UQAT Postdoc]]*
+*Related: [[02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc|Cover Letter - Fenton UQAT Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3575,12 +3575,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Cover Letter — Lorenz HZDR Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Cover Letter — Esmaeili UofT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc|Cover Letter - Lorenz HZDR Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc|Cover Letter - Esmaeili UofT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc|Cover Letter - Asadzadeh GFZ Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3635,12 +3635,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc|Cover Letter — Khodadadzadeh ITC Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc|Cover Letter - Khodadadzadeh ITC Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc|Cover Letter - Chabrillat GFZ Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3697,20 +3697,20 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
 
 ---
 
-*Related: [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc|Cover Letter — Bussiere UQAT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Cover Letter — Valeria UQAT Postdoc]]*
+*Related: [[02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc|Cover Letter - Bussiere UQAT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc|Cover Letter - Valeria UQAT Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Gloaguen HZDR Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3765,12 +3765,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Cover Letter — Lorenz HZDR Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc|Cover Letter - Lorenz HZDR Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Hecker ITC Postdoc.md
 
 ---
 date: 2026-06-05
@@ -3826,12 +3826,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - INERIS Spontaneous.md
 
 ---
 date: 2026-06-11
@@ -3859,7 +3859,7 @@ Parc Technologique Alata, BP 2
 
 ---
 
-**Objet : Candidature spontanée — Postdoctorat / Chercheur en Télédétection Hyperspectrale appliquée à l'Après-Mine et aux Risques Environnementaux**
+**Objet : Candidature spontanée - Postdoctorat / Chercheur en Télédétection Hyperspectrale appliquée à l'Après-Mine et aux Risques Environnementaux**
 
 Monsieur Hadadou,
 
@@ -3867,7 +3867,7 @@ Je me permets de vous adresser ma candidature spontanée pour un poste de cherch
 
 Ma thèse, menée sur le site de la mine de phosphate de Benguerir (Groupe OCP) au Maroc, s'articule autour d'une approche multi-sources combinant la spectroscopie de terrain (ASD FieldSpec 4, 350-2500 nm), l'imagerie satellitaire de nouvelle génération (PRISMA et EnMAP) et la validation géochimique (DRX, FRX). 
 
-Dans le cadre de mes travaux, j'ai notamment développé un **Indice de Performance de Réhabilitation (Reclamation Performance Index - RPI)** basé sur les données d'EnMAP (189 bandes spectrales) et calibré sur des mesures géochimiques de terrain. Cet indice permet de cartographier de manière continue l'état des surfaces réhabilitées par rapport aux zones de stockage de stériles non perturbées (Spearman ρ = 0,845, p = 1,74 × 10⁻¹²), offrant ainsi un outil de suivi macro-échelle puissant et automatisé. J'ai également mis en œuvre des modèles de classification avancés (Extra Trees, SVM) utilisant une validation croisée spatialement contrainte (atteignant une exactitude équilibrée — **BAC = 0,984 ± 0,031**) pour cartographier les assemblages minéralogiques de surface (fluorapatite, dolomite, silice, gypse/argiles).
+Dans le cadre de mes travaux, j'ai notamment développé un **Indice de Performance de Réhabilitation (Reclamation Performance Index - RPI)** basé sur les données d'EnMAP (189 bandes spectrales) et calibré sur des mesures géochimiques de terrain. Cet indice permet de cartographier de manière continue l'état des surfaces réhabilitées par rapport aux zones de stockage de stériles non perturbées (Spearman ρ = 0,845, p = 1,74 × 10⁻¹²), offrant ainsi un outil de suivi macro-échelle puissant et automatisé. J'ai également mis en œuvre des modèles de classification avancés (Extra Trees, SVM) utilisant une validation croisée spatialement contrainte (atteignant une exactitude équilibrée - **BAC = 0,984 ± 0,031**) pour cartographier les assemblages minéralogiques de surface (fluorapatite, dolomite, silice, gypse/argiles).
 
 Ce profil s'aligne directement avec les priorités scientifiques de l'INERIS, en particulier dans deux domaines :
 
@@ -3890,12 +3890,12 @@ UM6P, GSMI, Benguerir, Maroc
 
 ---
 
-*Related: [[02_Academic & Work/org/people/INERIS Outreach|INERIS Outreach]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc|Cover Letter — INRAE PREPSOIL Postdoc]]*
+*Related: [[02_Academic & Work/org/people/INERIS Outreach|INERIS Outreach]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc|Cover Letter - Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc|Cover Letter - INRAE PREPSOIL Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - INRAE MELICERTES Postdoc.md
 
 ---
 date: 2026-06-09
@@ -3947,12 +3947,12 @@ elmansour01abdelhak@gmail.com
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc|Cover Letter — INRAE PREPSOIL Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|RPI]] · [[02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc|Cover Letter - INRAE PREPSOIL Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc.md
 
 ---
 date: 2026-06-09
@@ -4002,12 +4002,12 @@ UM6P, GSMI, Benguerir, Maroc
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter — INRAE MELICERTES Postdoc|Cover Letter — INRAE MELICERTES Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - INRAE MELICERTES Postdoc|Cover Letter - INRAE MELICERTES Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - ITC Twente Biodiversity Postdoc.md
 
 ---
 date: 2026-06-09
@@ -4060,12 +4060,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente|Motivation Letter — UTwente]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente|Motivation Letter - UTwente]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4122,12 +4122,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Cover Letter — Esmaeili UofT Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc|Cover Letter - Esmaeili UofT Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - LIST Luxembourg Forest RS Postdoc.md
 
 ---
 date: 2026-06-09
@@ -4180,12 +4180,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4240,12 +4240,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]] · [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Cover Letter — Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc|Cover Letter — Gloaguen HZDR Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Waste Rock Characterization|Waste Rock Characterization]] · [[02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc|Cover Letter - Chabrillat GFZ Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Gloaguen HZDR Postdoc|Cover Letter - Gloaguen HZDR Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Martin UQAT Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4299,12 +4299,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]] · [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Cover Letter — Valeria UQAT Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Phosphate Mine Waste|Phosphate Mine Waste]] · [[02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc|Cover Letter - Valeria UQAT Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4361,12 +4361,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]] · [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Cover Letter — Sorrentino Naples Inquiry]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Mineral Assemblages|Mineral Assemblages]] · [[02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry|Cover Letter - Sorrentino Naples Inquiry]] · [[02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc|Cover Letter - Asadzadeh GFZ Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Schodlok BGR Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4420,12 +4420,12 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry.md
 
 ---
 date: 2026-06-05
@@ -4482,20 +4482,20 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[Thesis Overview]]
 - [[PRISMA Satellite]]
 - [[Waste Rock Characterization]]
 
 ---
 
-*Related: [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc|Cover Letter — Mondillo Naples Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Cover Letter — Asadzadeh GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc|Cover Letter - Mondillo Naples Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc|Cover Letter - Asadzadeh GFZ Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Storch DLR IMF Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4552,8 +4552,8 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[EnMAP Satellite]]
 - [[PRISMA Satellite]]
 - [[Reclamation Progress Index]]
@@ -4562,7 +4562,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc.md
 
 ---
 date: 2026-06-05
@@ -4618,20 +4618,20 @@ UM6P, GSMI, Benguerir, Morocco
 ## Related
 
 - [[Postdoc Outreach Dashboard]]
-- [[Review Brief — Postdoc Applications 2026]]
-- [[Hot Opportunities — May 2026]]
+- [[Review Brief - Postdoc Applications 2026]]
+- [[Hot Opportunities - May 2026]]
 - [[Thesis Overview]]
 - [[Waste Rock Characterization]]
 - [[Hyperspectral Imaging]]
 
 ---
 
-*Related: [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc|Cover Letter — Martin UQAT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc|Cover Letter — Fenton UQAT Postdoc]]*
+*Related: [[02_Academic & Work/work/applications/Cover Letter - Martin UQAT Postdoc|Cover Letter - Martin UQAT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc|Cover Letter - Fenton UQAT Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md
 
 ---
 date: 2026-06-09
@@ -4684,7 +4684,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
 
 
 
@@ -4694,11 +4694,11 @@ UM6P, GSMI, Benguerir, Morocco
 ---
 date: 2026-06-22
 tags:
-summary: 5 targeted applications for June 22, 2026 — mix of live open positions and high-priority spontaneous emails, all with cover letters and short outreach emails.
+summary: 5 targeted applications for June 22, 2026 - mix of live open positions and high-priority spontaneous emails, all with cover letters and short outreach emails.
 ---
 
 
-# Job Applications — June 22, 2026
+# Job Applications - June 22, 2026
 
 Defense in **8 days**. Send all 5 of these today.
 
@@ -4707,16 +4707,16 @@ Defense in **8 days**. Send all 5 of these today.
 ## Overview
 
 | # | Target | Type | Status |
-|---|--------|------|--------|
-| 1 | Pixxel — Hyperspectral Scientist | Live Open Position | Apply via darwinbox |
-| 2 | Barrick Gold — Exploration Remote Sensing Lead | Live Open Position | Apply via company portal |
+| - -| -  -  -  - | -  -  - | -  -  -  - |
+| 1 | Pixxel - Hyperspectral Scientist | Live Open Position | Apply via darwinbox |
+| 2 | Barrick Gold - Exploration Remote Sensing Lead | Live Open Position | Apply via company portal |
 | 3 | Dr. Tobias Storch, DLR IMF | Spontaneous cold email | Send to storch@dlr.de |
 | 4 | Prof. Sabine Chabrillat, GFZ Potsdam | Spontaneous cold email | Send to chabri@gfz-potsdam.de |
 | 5 | Dr. Richard Gloaguen, HZDR | Spontaneous cold email | Send to r.gloaguen@hzdr.de |
 
 ---
 
-## 1. Pixxel — Hyperspectral Scientist
+## 1. Pixxel - Hyperspectral Scientist
 
 **Why now:** Pixxel just launched 6 Firefly hyperspectral satellites in 2025, received a US NRO contract in May 2026, and explicitly lists Mining as a vertical. Their careers portal (darwinbox) has an active Hyperspectral Scientist opening. Fit score: 9.5/10.
 
@@ -4728,7 +4728,7 @@ Defense in **8 days**. Send all 5 of these today.
 
 ```
 To: careers@pixxel.space
-Subject: Hyperspectral Scientist Application — Abdelhak EL MANSOUR
+Subject: Hyperspectral Scientist Application - Abdelhak EL MANSOUR
 
 Dear Pixxel Hiring Team,
 
@@ -4736,13 +4736,13 @@ I am writing to apply for the Hyperspectral Scientist position. I am defending m
 
 Over the past four years I built operational Python pipelines for EnMAP and PRISMA satellite data, covering atmospheric correction, bad-band removal, spectral unmixing (VCA-FCLS), and spatial-spectral CNN classification. The results are published in four peer-reviewed papers and validated against geochemical ground truth at a real mine site.
 
-Your work on the Firefly constellation and the Aurora platform is exactly the kind of infrastructure I want to build on. I noticed Pixxel is expanding into mining solutions — that is the application domain my thesis addresses directly.
+Your work on the Firefly constellation and the Aurora platform is exactly the kind of infrastructure I want to build on. I noticed Pixxel is expanding into mining solutions - that is the application domain my thesis addresses directly.
 
 I have attached my CV. Happy to share the thesis abstract and publication list on request.
 
 Best regards,
 Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing — UM6P, Morocco
+PhD Candidate, Remote Sensing - UM6P, Morocco
 elmansour01abdelhak@gmail.com
 ```
 
@@ -4765,11 +4765,11 @@ Bengaluru, India
 
 Dear Hiring Team,
 
-I am applying for the Hyperspectral Scientist position at Pixxel. I am a PhD candidate at UM6P in Morocco, defending my thesis on June 30, 2026. My research sits at the intersection of satellite hyperspectral imaging, geochemical validation, and machine learning — which maps directly onto what Pixxel is building.
+I am applying for the Hyperspectral Scientist position at Pixxel. I am a PhD candidate at UM6P in Morocco, defending my thesis on June 30, 2026. My research sits at the intersection of satellite hyperspectral imaging, geochemical validation, and machine learning - which maps directly onto what Pixxel is building.
 
 My thesis title is: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine." Over the course of the PhD, I built and validated a full end-to-end Python processing pipeline for EnMAP and PRISMA hyperspectral data. The pipeline handles radiometric calibration, atmospheric correction (ACO-based), bad-band detection, geometric co-registration, spectral unmixing (VCA-FCLS), and mineral classification using both Random Forest and a Squeeze-and-Excitation CNN. Every output was validated against 312 geochemical samples collected in the field.
 
-This is not a theoretical exercise. The pipeline runs on real satellite acquisitions, produces mineralogical maps at 30m resolution, and has been used to monitor the temporal evolution of a reclamation program at the Benguerir mine of OCP Group — one of the world's largest phosphate producers.
+This is not a theoretical exercise. The pipeline runs on real satellite acquisitions, produces mineralogical maps at 30m resolution, and has been used to monitor the temporal evolution of a reclamation program at the Benguerir mine of OCP Group - one of the world's largest phosphate producers.
 
 I chose to apply to Pixxel because the Firefly constellation represents what I have been preparing for. Working with field-calibrated hyperspectral data at lab and airborne scale was the foundation; satellite-scale operational delivery is the next step. I also noticed that Pixxel explicitly covers mining as an application vertical. My thesis is a proof-of-concept for exactly that use case.
 
@@ -4789,9 +4789,9 @@ Abdelhak EL MANSOUR
 
 ---
 
-## 2. Barrick Gold — Exploration Remote Sensing Lead
+## 2. Barrick Gold - Exploration Remote Sensing Lead
 
-**Why now:** Live open position on ZipRecruiter (posted June 2026). Salt Lake City, UT — listed as remote-eligible. Job description specifically mentions alteration mineral mapping (white mica, phyllosilicates) — the exact mineralogical classes Abdelhak mapped in his thesis. Fit score: 9/10.
+**Why now:** Live open position on ZipRecruiter (posted June 2026). Salt Lake City, UT - listed as remote-eligible. Job description specifically mentions alteration mineral mapping (white mica, phyllosilicates) - the exact mineralogical classes Abdelhak mapped in his thesis. Fit score: 9/10.
 
 **Apply at:** https://www.ziprecruiter.com/c/Barrick-Gold-Corporation/Job/Exploration-Remote-Sensing-Lead/-in-Salt-Lake-City,UT?jid=4a04188a2f2c51cc
 (Also check barrick.com/careers directly.)
@@ -4801,13 +4801,13 @@ Abdelhak EL MANSOUR
 ### Short Email (for direct outreach if you find a contact)
 
 ```
-Subject: Exploration Remote Sensing Lead — Abdelhak EL MANSOUR
+Subject: Exploration Remote Sensing Lead - Abdelhak EL MANSOUR
 
 Dear Hiring Team,
 
 I am writing about the Exploration Remote Sensing Lead position. I am finishing my PhD (defense June 30) on hyperspectral remote sensing for mineralogical mapping of mine waste, with a specific focus on alteration mineral detection using EnMAP and PRISMA satellite data.
 
-My thesis required mapping carbonate, phyllosilicate, and iron oxide phases across a large mine site using a Python pipeline I built from scratch — covering spectral unmixing, endmember extraction, and spatial-spectral classification. That work was done in direct collaboration with OCP Group at an operational phosphate mine.
+My thesis required mapping carbonate, phyllosilicate, and iron oxide phases across a large mine site using a Python pipeline I built from scratch - covering spectral unmixing, endmember extraction, and spatial-spectral classification. That work was done in direct collaboration with OCP Group at an operational phosphate mine.
 
 I am confident this experience is directly applicable to the exploration workflows Barrick is developing. I have attached my CV and would be glad to walk through the methodology in a short call.
 
@@ -4835,7 +4835,7 @@ Salt Lake City, UT / Remote
 
 Dear Hiring Team,
 
-I am applying for the Exploration Remote Sensing Lead position. My background connects hyperspectral satellite data processing, mineralogical classification, and mine-scale field validation — and that combination is rare enough that I want to make the case directly.
+I am applying for the Exploration Remote Sensing Lead position. My background connects hyperspectral satellite data processing, mineralogical classification, and mine-scale field validation - and that combination is rare enough that I want to make the case directly.
 
 My PhD thesis is titled: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine, Morocco." Four years of work, four publications, one operational Python pipeline, one real mine. The Benguerir site belongs to OCP Group, the world's largest phosphate exporter, and the research was conducted under their data-sharing agreement.
 
@@ -4859,9 +4859,9 @@ Abdelhak EL MANSOUR
 
 ---
 
-## 3. Dr. Tobias Storch — DLR IMF, Oberpfaffenhofen
+## 3. Dr. Tobias Storch - DLR IMF, Oberpfaffenhofen
 
-**Why:** DLR Institute of Optical Sensor Systems built and operates EnMAP. Abdelhak built the most operationally complete external EnMAP processing pipeline to date. There is no stronger technical match in Europe. This spontaneous email should go NOW — before defense — with the framing of "defending June 30, available July 1."
+**Why:** DLR Institute of Optical Sensor Systems built and operates EnMAP. Abdelhak built the most operationally complete external EnMAP processing pipeline to date. There is no stronger technical match in Europe. This spontaneous email should go NOW - before defense - with the framing of "defending June 30, available July 1."
 
 **Send to:** tobias.storch@dlr.de (check dlr.de for exact address if needed)
 
@@ -4871,7 +4871,7 @@ Abdelhak EL MANSOUR
 
 ```
 To: tobias.storch@dlr.de
-Subject: Spontaneous application — Postdoctoral researcher, EnMAP data science — Abdelhak EL MANSOUR
+Subject: Spontaneous application - Postdoctoral researcher, EnMAP data science - Abdelhak EL MANSOUR
 
 Dear Dr. Storch,
 
@@ -4891,7 +4891,7 @@ elmansour01abdelhak@gmail.com
 
 ---
 
-### Cover Letter (attach as PDF — keep this tight)
+### Cover Letter (attach as PDF - keep this tight)
 
 ```
 Abdelhak EL MANSOUR
@@ -4911,13 +4911,13 @@ Dear Dr. Storch,
 
 I am writing to express my interest in a postdoctoral position within your group at DLR IMF. I will defend my PhD thesis on June 30, 2026, and I am actively looking for a position in hyperspectral remote sensing science and instrumentation.
 
-My thesis — "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks" — was built around EnMAP and PRISMA data. I developed a fully operational Python processing chain for both sensors, going from raw Level-1B HDF5 products to validated mineralogical maps. The pipeline covers atmospheric correction (ACO), spatial co-registration, bad-band masking, spectral unmixing via VCA-FCLS, and machine learning classification (Random Forest and SCSE-CNN). Every classification output was validated against 312 ground-truth geochemical samples.
+My thesis - "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks" - was built around EnMAP and PRISMA data. I developed a fully operational Python processing chain for both sensors, going from raw Level-1B HDF5 products to validated mineralogical maps. The pipeline covers atmospheric correction (ACO), spatial co-registration, bad-band masking, spectral unmixing via VCA-FCLS, and machine learning classification (Random Forest and SCSE-CNN). Every classification output was validated against 312 ground-truth geochemical samples.
 
 I am first author on two papers in Sensors (MDPI, 2025, doi:10.3390/s26010002) and Minerals (MDPI, 2026), and co-author on several additional papers published during my PhD.
 
 I am writing to DLR specifically because your group built the instrument that makes this science possible. Working externally with EnMAP data gave me a deep understanding of its spectral properties, calibration quirks, and operational behavior at mine-scale applications. I would like to contribute that user-side knowledge to the team that operates the sensor.
 
-I am open to any postdoctoral format — project-funded positions, fellowship applications, or joint grant proposals — and I am available from July 2026.
+I am open to any postdoctoral format - project-funded positions, fellowship applications, or joint grant proposals - and I am available from July 2026.
 
 I would welcome the opportunity to speak with you or a member of your team.
 
@@ -4927,9 +4927,9 @@ Abdelhak EL MANSOUR
 
 ---
 
-## 4. Prof. Sabine Chabrillat — GFZ Potsdam, Section 1.4
+## 4. Prof. Sabine Chabrillat - GFZ Potsdam, Section 1.4
 
-**Why:** GFZ Section 1.4 leads the EnMAP science side at GFZ. Prof. Chabrillat is the primary hyperspectral geosciences PI at GFZ and has a recurring pattern of postdoc hires. She is Francophone — this email is in English but note that French works too. GFZ currently has a "Discovery Fellowships 2027-2029" call open — reference it.
+**Why:** GFZ Section 1.4 leads the EnMAP science side at GFZ. Prof. Chabrillat is the primary hyperspectral geosciences PI at GFZ and has a recurring pattern of postdoc hires. She is Francophone - this email is in English but note that French works too. GFZ currently has a "Discovery Fellowships 2027-2029" call open - reference it.
 
 **Send to:** chabri@gfz-potsdam.de
 
@@ -4939,7 +4939,7 @@ Abdelhak EL MANSOUR
 
 ```
 To: chabri@gfz-potsdam.de
-Subject: Spontaneous postdoctoral inquiry — hyperspectral mineralogy, EnMAP — Abdelhak EL MANSOUR
+Subject: Spontaneous postdoctoral inquiry - hyperspectral mineralogy, EnMAP - Abdelhak EL MANSOUR
 
 Dear Prof. Chabrillat,
 
@@ -4947,7 +4947,7 @@ I am writing to inquire about postdoctoral opportunities in your group at GFZ Se
 
 I am a PhD candidate at UM6P (Morocco), defending on June 30, 2026, with a thesis on hyperspectral remote sensing for mineralogical characterization of phosphate mine waste. I built operational Python processing pipelines for EnMAP and PRISMA data, covering atmospheric correction, spectral unmixing (VCA-FCLS), and CNN-based classification. The outputs were validated against geochemical ground truth at the Benguerir mine.
 
-Your group's work on geological and soil hyperspectral applications with EnMAP is the scientific context that frames my thesis. I also noticed that GFZ is running a Discovery Fellowships call for 2027-2029 — I would be glad to discuss a joint proposal if that format fits your current directions.
+Your group's work on geological and soil hyperspectral applications with EnMAP is the scientific context that frames my thesis. I also noticed that GFZ is running a Discovery Fellowships call for 2027-2029 - I would be glad to discuss a joint proposal if that format fits your current directions.
 
 I have attached my CV. I would appreciate the chance to speak with you at your convenience.
 
@@ -4971,7 +4971,7 @@ elmansour01abdelhak@gmail.com
 June 22, 2026
 
 Prof. Dr. Sabine Chabrillat
-Section 1.4 — Remote Sensing and Geoinformatics
+Section 1.4 - Remote Sensing and Geoinformatics
 GFZ Helmholtz Centre for Geosciences
 Potsdam, Germany
 
@@ -4997,9 +4997,9 @@ Abdelhak EL MANSOUR
 
 ---
 
-## 5. Dr. Richard Gloaguen — HZDR, Dresden
+## 5. Dr. Richard Gloaguen - HZDR, Dresden
 
-**Why:** Dr. Gloaguen leads the Computational Data Analysis team at HZDR and is one of Europe's leading researchers on hyperspectral RS for mine and ore characterization. His group works specifically on drill core, mine face, and satellite hyperspectral data for resource estimation — the closest academic match to Abdelhak's thesis outside of GFZ. Not yet contacted.
+**Why:** Dr. Gloaguen leads the Computational Data Analysis team at HZDR and is one of Europe's leading researchers on hyperspectral RS for mine and ore characterization. His group works specifically on drill core, mine face, and satellite hyperspectral data for resource estimation - the closest academic match to Abdelhak's thesis outside of GFZ. Not yet contacted.
 
 **Send to:** r.gloaguen@hzdr.de
 
@@ -5009,7 +5009,7 @@ Abdelhak EL MANSOUR
 
 ```
 To: r.gloaguen@hzdr.de
-Subject: Postdoctoral inquiry — hyperspectral remote sensing for mine characterization
+Subject: Postdoctoral inquiry - hyperspectral remote sensing for mine characterization
 
 Dear Dr. Gloaguen,
 
@@ -5041,7 +5041,7 @@ elmansour01abdelhak@gmail.com
 June 22, 2026
 
 Dr. Richard Gloaguen
-Head, CODAS Group — Computational Data Analysis for Resource Technology
+Head, CODAS Group - Computational Data Analysis for Resource Technology
 Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
 Dresden, Germany
 
@@ -5049,13 +5049,13 @@ Dear Dr. Gloaguen,
 
 I am writing to inquire about postdoctoral openings in your group at HZDR. I defend my PhD at UM6P on June 30, 2026, and I am looking for a research position in Europe where mine-focused hyperspectral imaging is the central problem.
 
-My thesis — "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine" — combines field spectroscopy, airborne imaging, and satellite data (EnMAP and PRISMA) to track the mineralogical evolution of waste rock piles across a large phosphate mine. The research was conducted in close collaboration with OCP Group, who provided site access, geochemical data, and logistical support across four field campaigns.
+My thesis - "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine" - combines field spectroscopy, airborne imaging, and satellite data (EnMAP and PRISMA) to track the mineralogical evolution of waste rock piles across a large phosphate mine. The research was conducted in close collaboration with OCP Group, who provided site access, geochemical data, and logistical support across four field campaigns.
 
 On the technical side, I developed an operational Python pipeline for EnMAP and PRISMA Level-1B HDF5 data: atmospheric correction (ACO), bad-band masking, spatial co-registration, VCA endmember extraction, FCLS constrained unmixing, and classification using both Random Forest and a Squeeze-and-Excitation CNN. The classification results were validated against 312 geochemical samples covering carbonate, phyllosilicate, iron oxide, and silicate phases.
 
 I am first author on two papers in Sensors (MDPI, 2025) and Minerals (MDPI, 2026), and co-author on several additional papers published during my PhD.
 
-What I would bring to HZDR is an operational satellite-scale perspective on the same problem your group addresses at the core and mine-face scale. I am genuinely interested in bridging those two observation scales — using satellite data to contextualize and upscale the finer-resolution characterization work your team does. That cross-scale integration is, to my knowledge, still an open research problem.
+What I would bring to HZDR is an operational satellite-scale perspective on the same problem your group addresses at the core and mine-face scale. I am genuinely interested in bridging those two observation scales - using satellite data to contextualize and upscale the finer-resolution characterization work your team does. That cross-scale integration is, to my knowledge, still an open research problem.
 
 I would be glad to discuss how my experience might fit into your current projects. I am available from July 2026.
 
@@ -5067,11 +5067,11 @@ Abdelhak EL MANSOUR
 
 ## Tracking
 
-- [ ] 1. Pixxel — applied via darwinbox portal
-- [ ] 2. Barrick Gold — applied via company portal / ZipRecruiter
-- [ ] 3. DLR Dr. Storch — email sent
-- [ ] 4. GFZ Prof. Chabrillat — email sent
-- [ ] 5. HZDR Dr. Gloaguen — email sent
+- [ ] 1. Pixxel - applied via darwinbox portal
+- [ ] 2. Barrick Gold - applied via company portal / ZipRecruiter
+- [ ] 3. DLR Dr. Storch - email sent
+- [ ] 4. GFZ Prof. Chabrillat - email sent
+- [ ] 5. HZDR Dr. Gloaguen - email sent
 
 
 
@@ -5120,7 +5120,7 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 ## 2. Email Version (Slightly More Detailed)
 *Use this version for emailing a contact or submitting via an online spontaneous application form.*
 
-> **Subject:** Spontaneous Application — Remote Sensing & Environmental Geosciences Specialist — Abdelhak EL MANSOUR
+> **Subject:** Spontaneous Application - Remote Sensing & Environmental Geosciences Specialist - Abdelhak EL MANSOUR
 > 
 > Dear Egis Qatar Hiring Team,
 > 
@@ -5128,7 +5128,7 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 > 
 > I am a Remote Sensing Scientist and PhD Candidate at UM6P (Morocco), set to defend my thesis on June 30, 2026. My research focuses on developing multi-scale remote sensing frameworks and machine learning pipelines to analyze satellite imagery (including PRISMA and EnMAP) for environmental monitoring and mineralogical characterization. 
 > 
-> Over the course of my research, I have built operational, high-performance Python pipelines that transform raw satellite data into actionable environmental metrics. I am highly motivated to bring this capability—along with my bilingual fluency in English, French, and Arabic—to support Egis's consulting and engineering projects in the GCC region.
+> Over the course of my research, I have built operational, high-performance Python pipelines that transform raw satellite data into actionable environmental metrics. I am highly motivated to bring this capability - along with my bilingual fluency in English, French, and Arabic - to support Egis's consulting and engineering projects in the GCC region.
 > 
 > I would appreciate the opportunity to discuss any current or upcoming openings where my skills could add value to your team. I am happy to share my detailed CV and publications list for your review.
 > 
@@ -5144,12 +5144,12 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Fitted Opportunities & Targets|Opportunities Dashboard]] · [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]*
+*Related: [[02_Academic & Work/work/active/Fitted Opportunities & Targets|Opportunities Dashboard]] · [[02_Academic & Work/work/active/Job Board - Live Tracker|Job Board]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/UTwente-2026/CV — UTwente.md
+## 📄 File: 02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md
 
 ---
 date: 2026-06-04
@@ -5159,7 +5159,7 @@ created: '2026-06-05'
 
 
 # ABDELHAK EL MANSOUR
-**Remote Sensing Scientist — Hyperspectral EO & Ecosystem Monitoring**
+**Remote Sensing Scientist - Hyperspectral EO & Ecosystem Monitoring**
 
 elmansour01abdelhak@gmail.com | +212 117 164 00
 scholar.google.com/citations?user=ysUOZQ0AAAAJ | @AbdelhakElm
@@ -5171,11 +5171,11 @@ Available: from September 2026 | Open to relocation (Netherlands)
 
 **Satellite & EO data:** PRISMA (ASI), EnMAP (DLR/GFZ), VNIR–SWIR hyperspectral, thermal infrared (TIR) data processing, HDF5/NPZ pipelines, atmospheric & radiometric correction, multi-temporal change analysis
 
-**Machine learning:** Random Forest, Extra Trees, SVM, XGBoost, 1D/2D-CNN, class imbalance handling, spatial cross-validation — applied to large-scale EO classification and mapping
+**Machine learning:** Random Forest, Extra Trees, SVM, XGBoost, 1D/2D-CNN, class imbalance handling, spatial cross-validation - applied to large-scale EO classification and mapping
 
 **Spectral analysis:** VCA-FCLS spectral unmixing, USGS/ECOSTRESS spectral library matching, SAM/SID/NNLS, band selection, endmember extraction
 
-**Python stack:** scikit-learn, GDAL, rasterio, spectral, numpy, pandas, matplotlib, Jupyter — end-to-end production pipelines (1,776-line EnMAP processing engine)
+**Python stack:** scikit-learn, GDAL, rasterio, spectral, numpy, pandas, matplotlib, Jupyter - end-to-end production pipelines (1,776-line EnMAP processing engine)
 
 **Ecosystem & environmental monitoring:** Reclamation progress tracking, vegetation/soil spectral signatures, EBV-compatible index design, ground-truth validation (XRD/XRF/HHXRF), ASD FieldSpec 4 field spectroscopy
 
@@ -5185,21 +5185,21 @@ Available: from September 2026 | Open to relocation (Netherlands)
 
 ## Key Results
 
-- Designed **Reclamation Progress Index (RPI)** — novel EO-based proxy for ecosystem recovery from EnMAP hyperspectral data. AUC = 1.000, validated against XRF ground truth: Spearman ρ = 0.845, n = 32/zone, p = 1.74 × 10⁻¹²
-- PRISMA-based land cover classification (127 field samples, 4 classes, 30m) — BAC = 0.60–0.67, AUC > 0.95 for key mineral classes, spatially constrained cross-validation
-- Spectral library matching of 104 field samples (ECOSTRESS/USGS) — mean R² = 0.748, 84% of spectra R² > 0.70
-- **4 peer-reviewed publications** (Sensors IF 3.5, IJEST, Mining, BDJ) + 2 in pipeline — including co-authorship on ecosystem reclamation and revegetation studies
+- Designed **Reclamation Progress Index (RPI)** - novel EO-based proxy for ecosystem recovery from EnMAP hyperspectral data. AUC = 1.000, validated against XRF ground truth: Spearman ρ = 0.845, n = 32/zone, p = 1.74 × 10⁻¹²
+- PRISMA-based land cover classification (127 field samples, 4 classes, 30m) - BAC = 0.60–0.67, AUC > 0.95 for key mineral classes, spatially constrained cross-validation
+- Spectral library matching of 104 field samples (ECOSTRESS/USGS) - mean R² = 0.748, 84% of spectra R² > 0.70
+- **4 peer-reviewed publications** (Sensors IF 3.5, IJEST, Mining, BDJ) + 2 in pipeline - including co-authorship on ecosystem reclamation and revegetation studies
 
 ---
 
 ## Research Experience
 
-**PhD Researcher — Hyperspectral Remote Sensing & Environmental Monitoring**
+**PhD Researcher - Hyperspectral Remote Sensing & Environmental Monitoring**
 University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco | Jul 2021 – Jun 2026 (defense Jun 30, 2026)
 
 Developed end-to-end satellite EO pipelines (PRISMA + EnMAP) to monitor mineralogical composition and ecological reclamation of phosphate mine waste at Benguerir (OCP Group). Designed and validated a novel reclamation progress index (RPI) as an operational EO product for ecosystem recovery tracking. Supervised 2 students (engineering + MSc level). Presented at EGU 2025 (Vienna) and EARSeL 2024 (Barcelona).
 
-**Research Mobility — Hyperspectral EO Applications**
+**Research Mobility - Hyperspectral EO Applications**
 University of Valencia, Spain (Pr. Jochem Verrelst's group) | Mar 2024 – Aug 2024
 
 Developed PRISMA classification workflows for mine-affected land; co-authored EARSeL 2024 conference paper; integrated into an international hyperspectral EO research group focused on biophysical variable retrieval.
@@ -5213,27 +5213,27 @@ Geological exploration and field mapping (Occidental Meseta, Anti-Atlas, High At
 
 ## Education
 
-**PhD in Applied Geosciences** — UM6P, Morocco (defending June 30, 2026)
+**PhD in Applied Geosciences** - UM6P, Morocco (defending June 30, 2026)
 *Thesis: Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks, Benguerir Mine*
 
-**MSc in Applied Geosciences** (Mineral & Energetic Resources) — Cadi Ayyad University, 2017
+**MSc in Applied Geosciences** (Mineral & Energetic Resources) - Cadi Ayyad University, 2017
 
-**BSc in Applied Geosciences** — Moulay Ismail University, 2015
+**BSc in Applied Geosciences** - Moulay Ismail University, 2015
 
 ---
 
 ## Selected Publications
 
 **First author**
-1. EL MANSOUR A et al. — Integrating VNIR–SWIR Spectroscopy and HHXRF for Mineralogical Characterization of Phosphate Mine Waste, Benguerir. **Sensors** 2025 (IF 3.5). doi:10.3390/s26010002
-2. EL MANSOUR A et al. — PRISMA-based lithological mapping of phosphate mine waste rocks. **Minerals** 2026 (accepted) ✅
+1. EL MANSOUR A et al. - Integrating VNIR–SWIR Spectroscopy and HHXRF for Mineralogical Characterization of Phosphate Mine Waste, Benguerir. **Sensors** 2025 (IF 3.5). doi:10.3390/s26010002
+2. EL MANSOUR A et al. - PRISMA-based lithological mapping of phosphate mine waste rocks. **Minerals** 2026 (accepted) ✅
 
 **Co-authored**
-3. Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A** et al. — Revegetation and Ecosystem Reclamation of Post-Mined Land. **IJEST** 2024
-4. Zine H, **EL MANSOUR A**, Hakkou R et al. — Mine Closure and Ecological Reclamation: Bibliometric Overview 1980–2023. **Mining** 2023
+3. Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A** et al. - Revegetation and Ecosystem Reclamation of Post-Mined Land. **IJEST** 2024
+4. Zine H, **EL MANSOUR A**, Hakkou R et al. - Mine Closure and Ecological Reclamation: Bibliometric Overview 1980–2023. **Mining** 2023
 
 **In pipeline**
-5. EL MANSOUR A et al. — EnMAP-based Reclamation Progress Index for ecosystem recovery monitoring (thesis Ch.3, submission post-defense 2026)
+5. EL MANSOUR A et al. - EnMAP-based Reclamation Progress Index for ecosystem recovery monitoring (thesis Ch.3, submission post-defense 2026)
 
 ---
 
@@ -5244,12 +5244,12 @@ English (advanced) | French (fluent) | Arabic/Darija (native) | Tamazight (nativ
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[02_Academic & Work/work/active/VITO Application/CV — Industry (VITO)|CV — Industry (VITO)]] · [[02_Academic & Work/work/applications/UTwente-2026/Publications List — UTwente|Publications List — UTwente]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[02_Academic & Work/work/active/VITO Application/CV - Industry (VITO)|CV - Industry (VITO)]] · [[02_Academic & Work/work/applications/UTwente-2026/Publications List - UTwente|Publications List - UTwente]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente.md
+## 📄 File: 02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente.md
 
 ---
 date: 2026-06-04
@@ -5274,11 +5274,11 @@ Dear Search Committee,
 
 I am applying for the Postdoctoral Researcher position on Biodiversity-Positive Renewable Energy Transitions at ITC, University of Twente. I will defend my PhD at UM6P (Morocco) on June 30, 2026, and I am available to start no later than September 2026.
 
-My PhD research used PRISMA and EnMAP hyperspectral satellite data to monitor ecosystem recovery at a large phosphate mine in Benguerir, Morocco. The core outcome of my thesis is a novel index — the Reclamation Progress Index (RPI) — derived directly from EnMAP spectral signatures, validated against XRF geochemical ground truth (Spearman ρ = 0.845, p = 1.74 × 10⁻¹², AUC = 1.000). The RPI quantifies the degree to which a disturbed landscape is recovering its functional mineral and vegetation composition over time. In essence, it is an EO-based proxy for ecosystem state — closely aligned with the concept of Essential Biodiversity Variables that your project deploys to track biodiversity change under renewable energy infrastructure.
+My PhD research used PRISMA and EnMAP hyperspectral satellite data to monitor ecosystem recovery at a large phosphate mine in Benguerir, Morocco. The core outcome of my thesis is a novel index - the Reclamation Progress Index (RPI) - derived directly from EnMAP spectral signatures, validated against XRF geochemical ground truth (Spearman ρ = 0.845, p = 1.74 × 10⁻¹², AUC = 1.000). The RPI quantifies the degree to which a disturbed landscape is recovering its functional mineral and vegetation composition over time. In essence, it is an EO-based proxy for ecosystem state - closely aligned with the concept of Essential Biodiversity Variables that your project deploys to track biodiversity change under renewable energy infrastructure.
 
-The technical skills this postdoc requires are precisely those I have built: end-to-end processing of spaceborne hyperspectral data (PRISMA, EnMAP), spectral unmixing (VCA-FCLS), spatial machine learning (Random Forest, Extra Trees, spatial cross-validation), and Python production pipelines. I have also worked with thermal infrared spectral data in the context of mineral identification, and I am familiar with multi-temporal EO analysis for change detection. My mobility at the University of Valencia (Prof. Jochem Verrelst's group, 2024) exposed me to biophysical variable retrieval from hyperspectral data — directly relevant to the EBV/ECV monitoring framework your team uses.
+The technical skills this postdoc requires are precisely those I have built: end-to-end processing of spaceborne hyperspectral data (PRISMA, EnMAP), spectral unmixing (VCA-FCLS), spatial machine learning (Random Forest, Extra Trees, spatial cross-validation), and Python production pipelines. I have also worked with thermal infrared spectral data in the context of mineral identification, and I am familiar with multi-temporal EO analysis for change detection. My mobility at the University of Valencia (Prof. Jochem Verrelst's group, 2024) exposed me to biophysical variable retrieval from hyperspectral data - directly relevant to the EBV/ECV monitoring framework your team uses.
 
-What draws me specifically to this position is the scale of the scientific question: quantifying how the physical footprint of renewable energy infrastructure — solar farms, wind installations — reshapes ecosystem functioning at landscape scale. My background in monitoring large-scale land disturbance and recovery gives me a grounded entry point into this problem. I am comfortable working across disciplinary boundaries, as my thesis required bridging geochemistry, spectroscopy, machine learning, and environmental monitoring.
+What draws me specifically to this position is the scale of the scientific question: quantifying how the physical footprint of renewable energy infrastructure - solar farms, wind installations - reshapes ecosystem functioning at landscape scale. My background in monitoring large-scale land disturbance and recovery gives me a grounded entry point into this problem. I am comfortable working across disciplinary boundaries, as my thesis required bridging geochemistry, spectroscopy, machine learning, and environmental monitoring.
 
 ITC is the strongest environment I can think of for this work. Its global reputation in applied EO, its infrastructure, and its culture of combining satellite methods with real-world environmental problems are exactly what I want to be part of at this stage of my career.
 
@@ -5293,12 +5293,12 @@ scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc|Cover Letter — ITC Twente Biodiversity Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[02_Academic & Work/work/applications/Cover Letter - ITC Twente Biodiversity Postdoc|Cover Letter - ITC Twente Biodiversity Postdoc]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/UTwente-2026/Publications List — UTwente.md
+## 📄 File: 02_Academic & Work/work/applications/UTwente-2026/Publications List - UTwente.md
 
 ---
 date: 2026-06-04
@@ -5307,7 +5307,7 @@ created: '2026-06-05'
 ---
 
 
-# Publications List — Abdelhak EL MANSOUR
+# Publications List - Abdelhak EL MANSOUR
 
 scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
@@ -5315,39 +5315,39 @@ scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
 ## Peer-Reviewed Journal Articles
 
-**[1]** **EL MANSOUR A**, Laamrani A, et al. — Integrating VNIR–SWIR Field Spectroscopy and Handheld X-Ray Fluorescence for Mineralogical Characterization of Phosphate Mine Waste Rocks, Benguerir, Morocco. *Sensors* **2025**, 26(1), 2. IF 3.5. doi:10.3390/s26010002
+**[1]** **EL MANSOUR A**, Laamrani A, et al. - Integrating VNIR–SWIR Field Spectroscopy and Handheld X-Ray Fluorescence for Mineralogical Characterization of Phosphate Mine Waste Rocks, Benguerir, Morocco. *Sensors* **2025**, 26(1), 2. IF 3.5. doi:10.3390/s26010002
 
-**[2]** **EL MANSOUR A**, Laamrani A, et al. — PRISMA Hyperspectral Satellite Data for Lithological Mapping and Classification of Phosphate Mine Waste Rocks, Benguerir, Morocco. *Minerals* **2026** (accepted, thesis Chapter 2) ✅
+**[2]** **EL MANSOUR A**, Laamrani A, et al. - PRISMA Hyperspectral Satellite Data for Lithological Mapping and Classification of Phosphate Mine Waste Rocks, Benguerir, Morocco. *Minerals* **2026** (accepted, thesis Chapter 2) ✅
 
-**[3]** Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A**, et al. — Revegetation and Ecosystem Reclamation of Post-Mined Land: A Review. *International Journal of Environmental Science and Technology (IJEST)* **2024**.
+**[3]** Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A**, et al. - Revegetation and Ecosystem Reclamation of Post-Mined Land: A Review. *International Journal of Environmental Science and Technology (IJEST)* **2024**.
 
-**[4]** Zine H, **EL MANSOUR A**, Hakkou R, et al. — Mine Closure and Ecological Reclamation of Phosphate Deposits: A Bibliometric Overview 1980–2023. *Mining* **2023**.
+**[4]** Zine H, **EL MANSOUR A**, Hakkou R, et al. - Mine Closure and Ecological Reclamation of Phosphate Deposits: A Bibliometric Overview 1980–2023. *Mining* **2023**.
 
 ---
 
 ## Articles in Preparation
 
-**[5]** **EL MANSOUR A**, Laamrani A, et al. — EnMAP-Based Reclamation Progress Index (RPI) for Operational Ecosystem Recovery Monitoring at Phosphate Mine Waste Sites. *(Thesis Chapter 3 — submission post-defense, 2026)*
+**[5]** **EL MANSOUR A**, Laamrani A, et al. - EnMAP-Based Reclamation Progress Index (RPI) for Operational Ecosystem Recovery Monitoring at Phosphate Mine Waste Sites. *(Thesis Chapter 3 - submission post-defense, 2026)*
 
 ---
 
 ## Conference Contributions
 
-**[C1]** **EL MANSOUR A** et al. — Hyperspectral Remote Sensing for Reclamation Monitoring at Benguerir Phosphate Mine: EnMAP-Based Approach. *EGU General Assembly 2025*, Vienna, Austria. (Oral/Poster)
+**[C1]** **EL MANSOUR A** et al. - Hyperspectral Remote Sensing for Reclamation Monitoring at Benguerir Phosphate Mine: EnMAP-Based Approach. *EGU General Assembly 2025*, Vienna, Austria. (Oral/Poster)
 
-**[C2]** **EL MANSOUR A** et al. — PRISMA-Based Classification of Phosphate Mine Waste Rocks. *EARSeL Symposium 2024*, Barcelona, Spain. (Co-authored with Verrelst group, University of Valencia)
+**[C2]** **EL MANSOUR A** et al. - PRISMA-Based Classification of Phosphate Mine Waste Rocks. *EARSeL Symposium 2024*, Barcelona, Spain. (Co-authored with Verrelst group, University of Valencia)
 
-**[C3]** **EL MANSOUR A** et al. — Abstract submitted. *ESPC6 2026*, UM6P, Benguerir, Morocco.
+**[C3]** **EL MANSOUR A** et al. - Abstract submitted. *ESPC6 2026*, UM6P, Benguerir, Morocco.
 
 
 ---
 
-*Related: [[02_Academic & Work/perf/Brag Doc|Brag Doc]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[02_Academic & Work/work/applications/UTwente-2026/CV — UTwente|CV — UTwente]] · [[02_Academic & Work/work/active/VITO Application/CV — Industry (VITO)|CV — Industry (VITO)]]*
+*Related: [[02_Academic & Work/perf/Brag Doc|Brag Doc]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[02_Academic & Work/work/applications/UTwente-2026/CV - UTwente|CV - UTwente]] · [[02_Academic & Work/work/active/VITO Application/CV - Industry (VITO)|CV - Industry (VITO)]]*
 
 
 
 
-## 📄 File: 02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR.md
+## 📄 File: 02_Academic & Work/work/applications/DLR-2026/Email - Tobias Storch DLR.md
 
 ---
 date: 2026-06-04
@@ -5356,11 +5356,11 @@ created: '2026-06-04'
 ---
 
 
-# Cold Email — Dr. Tobias Storch, DLR IMF
+# Cold Email - Dr. Tobias Storch, DLR IMF
 
 **To:** tobias.storch@dlr.de
 **CC:** sarah.asam@dlr.de
-**Subject:** Postdoctoral Researcher Inquiry — Hyperspectral EO & EnMAP Applications (PhD defended June 2026)
+**Subject:** Postdoctoral Researcher Inquiry - Hyperspectral EO & EnMAP Applications (PhD defended June 2026)
 
 ---
 
@@ -5368,7 +5368,7 @@ Dear Dr. Storch,
 
 I am writing to inquire about postdoctoral opportunities at DLR IMF in hyperspectral remote sensing and EnMAP applications.
 
-I defended my PhD at UM6P (Morocco) on June 30, 2026. My thesis — *Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks* — was built on PRISMA and EnMAP satellite data, and produced a validated operational product: the Reclamation Progress Index (RPI), derived from EnMAP spectral unmixing (VCA-FCLS), with AUC = 1.000 and Spearman ρ = 0.845 against XRF ground truth (p = 1.74 × 10⁻¹²).
+I defended my PhD at UM6P (Morocco) on June 30, 2026. My thesis - *Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks* - was built on PRISMA and EnMAP satellite data, and produced a validated operational product: the Reclamation Progress Index (RPI), derived from EnMAP spectral unmixing (VCA-FCLS), with AUC = 1.000 and Spearman ρ = 0.845 against XRF ground truth (p = 1.74 × 10⁻¹²).
 
 My technical stack maps directly onto the work of your group:
 
@@ -5377,7 +5377,7 @@ My technical stack maps directly onto the work of your group:
 - Spectral library matching (USGS/ECOSTRESS), SAM/SID/NNLS, VCA-FCLS unmixing
 - 4 peer-reviewed publications during PhD; 2 more in pipeline
 
-I followed the EnMAP mission closely throughout my PhD — it is the satellite that made Chapter 3 of my thesis possible. DLR IMF is the group I most want to be part of.
+I followed the EnMAP mission closely throughout my PhD - it is the satellite that made Chapter 3 of my thesis possible. DLR IMF is the group I most want to be part of.
 
 I am available from July 2026 and open to relocation to Oberpfaffenhofen. I would be glad to share my CV, thesis, or any additional material at your request.
 
@@ -5393,6 +5393,6 @@ UM6P, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
 
 
