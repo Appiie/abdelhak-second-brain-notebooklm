@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-22
+date: 2026-06-23
 tags: [knowledge, compiled, notebooklm, wiki]
 summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 470 | **Total Word Count**: ~86266 words
+> **Total Files Compiled**: 470 | **Total Word Count**: ~86298 words
 
 ## 📂 Table of Contents
 
@@ -19,7 +19,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/Literature MOC - M-R.md](#-file-04_knowledge-base-wiki-literature-moc---m-r-md) (~345 words)
 - [04_Knowledge Base/wiki/Literature MOC - R-Z.md](#-file-04_knowledge-base-wiki-literature-moc---r-z-md) (~355 words)
 - [04_Knowledge Base/wiki/Literature MOC.md](#-file-04_knowledge-base-wiki-literature-moc-md) (~120 words)
-- [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~701 words)
+- [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~733 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
 - [04_Knowledge Base/wiki/MOCs/Biodiversity MOC.md](#-file-04_knowledge-base-wiki-mocs-biodiversity-moc-md) (~28 words)
@@ -1092,7 +1092,7 @@ PhD candidate, UM6P, Benguerir, Morocco. Amazigh/Moroccan, from **Errachidia**. 
 @AbdelhakElm (X/Twitter, ~220 followers — consumer not broadcaster).  
 Instagram: **phddiarymemes** — 70K+ PhD meme page — NOT a research account.  
 Supervisor: Pr. Ahmed LAAMRANI. Department: GSMI.  
-Emails: `insitazoult@gmail.com` (personal) | `abdelhak.elmansour@um6p.ma` (institutional)
+Emails: `elmansour01abdelhak@gmail.com` (personal) | `abdelhak.elmansour@um6p.ma` (institutional)
 
 ---
 
@@ -1137,9 +1137,11 @@ This week: slides complete + first solo oral run (timed, 45 min target). Slides 
 ---
 
 ## Publications
-- **Published (4):** Sensors 2025 (Ch.1, doi:10.3390/s26010002) · IJEST 2024 · Mining 2023 · BDJ 2023
-- **Pipeline (2):** Minerals (Ch.2, **accepted 2026** ✅) · Ch.3 (submission post-defense)
+- **First author (2 published):** Sensors MDPI 2025 (Ch.1, doi:10.3390/s26010002) · Minerals MDPI (**accepted 2026** ✅, Ch.2)
+- **Co-authored (several):** IJEST 2024 · Mining 2023 · BDJ 2023 · (others during PhD)
+- **Pipeline:** Ch.3 (submission post-defense)
 - **Conferences:** EGU 2025 (Austria) · EARSeL 2024 (Spain) · ESPC6 2026 (UM6P, abstract submitted)
+- **CRITICAL — never write:** "Remote Sensing MDPI" — Abdelhak did NOT publish there. First-author journals = Sensors MDPI + Minerals MDPI only.
 
 ---
 
