@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-22
+date: 2026-06-23
 tags: [knowledge, compiled, notebooklm, work]
 summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 54 | **Total Word Count**: ~40033 words
+> **Total Files Compiled**: 54 | **Total Word Count**: ~40081 words
 
 ## 📂 Table of Contents
 
@@ -29,7 +29,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/active/Job Board — Live Tracker.md](#-file-02_academic-&-work-work-active-job-board-—-live-tracker-md) (~1210 words)
 - [02_Academic & Work/work/active/Job Pipeline.md](#-file-02_academic-&-work-work-active-job-pipeline-md) (~481 words)
 - [02_Academic & Work/work/active/Postdoc Applications.md](#-file-02_academic-&-work-work-active-postdoc-applications-md) (~683 words)
-- [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5457 words)
+- [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5473 words)
 - [02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist.md](#-file-02_academic-&-work-work-active-pixxel-application-cover-letter-—-hyperspectral-scientist-md) (~309 words)
 - [02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist.md](#-file-02_academic-&-work-work-active-pixxel-application-cover-letter-—-senior-hyperspectral-scientist-md) (~416 words)
 - [02_Academic & Work/work/active/Pixxel Application/Submission Checklist.md](#-file-02_academic-&-work-work-active-pixxel-application-submission-checklist-md) (~209 words)
@@ -60,7 +60,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-storch-dlr-imf-postdoc-md) (~622 words)
 - [02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter-—-valeria-uqat-postdoc-md) (~579 words)
 - [02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter-—-wageningen-wur-rs-scientist-md) (~592 words)
-- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~2996 words)
+- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3028 words)
 - [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~550 words)
 - [02_Academic & Work/work/applications/UTwente-2026/CV — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv-—-utwente-md) (~647 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter — UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter-—-utwente-md) (~482 words)
@@ -355,7 +355,7 @@ created: '2026-06-07'
 Full name::Abdelhak EL MANSOUR
 Institutional email::abdelhak.elmansour@um6p.ma
 
-Personal email::insitazoult@gmail.com
+Personal email::elmansour01abdelhak@gmail.com
 Twitter/X handle::@AbdelhakElm
 Google Scholar user ID::ysUOZQ0AAAAJ
 Institution::University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
@@ -2238,22 +2238,22 @@ created: '2026-06-09'
 | **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | ✅ Applied 2026-06-09 |
 | **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | ✅ Applied 2026-06-09 |
 | **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | ✅ Applied 2026-06-09 |
-| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc|Dr. Saeid Asadzadeh Letter]] | - [ ] Not Contacted |
-| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc|Dr. Sarah Asam Letter]] | - [ ] Not Contacted |
-| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
-| **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc|Prof. Dr. Sabine Chabrillat Letter]] | - [ ] Not Contacted |
-| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc|Prof. Kamran Esmaeili Letter]] | - [ ] Not Contacted |
-| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc|Pr. Nicole Fenton Letter]] | - [ ] Not Contacted |
-| **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc|Dr. Richard Gloaguen Letter]] | - [ ] Not Contacted |
-| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc|Dr. Chris Hecker Letter]] | - [ ] Not Contacted |
-| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc|Dr. Mahdi Khodadadzadeh Letter]] | - [ ] Not Contacted |
-| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc|Dr. Sandra Lorenz Letter]] | - [ ] Not Contacted |
-| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc|Prof. Maxence Martin Letter]] | - [ ] Not Contacted |
-| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc|Dr. Nicola Mondillo Letter]] | - [ ] Not Contacted |
-| **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc|Dr. Martin Schodlok Letter]] | - [ ] Not Contacted |
-| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry|Dr. Anna Sorrentino Letter]] | - [ ] Not Contacted |
-| **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc|Dr. Tobias Storch Letter]] | - [ ] Not Contacted |
-| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc|Pr. Osvaldo Valeria Letter]] | - [ ] Not Contacted |
+| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc\|Dr. Saeid Asadzadeh Letter]] | - [ ] Draft ready (send post-defense) — email CORRECTED: saeid@gfz-potsdam.de |
+| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc\|Dr. Sarah Asam Letter]] | - [ ] Draft ready (send post-defense) |
+| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc\|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
+| **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc\|Prof. Dr. Sabine Chabrillat Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc\|Prof. Kamran Esmaeili Letter]] | - [ ] Draft ready (send post-defense) |
+| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc\|Pr. Nicole Fenton Letter]] | - [ ] Draft ready (send post-defense) |
+| **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc\|Dr. Richard Gloaguen Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc\|Dr. Chris Hecker Letter]] | - [ ] Not Contacted |
+| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc\|Dr. Mahdi Khodadadzadeh Letter]] | - [ ] Draft ready (send post-defense) |
+| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc\|Dr. Sandra Lorenz Letter]] | - [ ] Draft ready (send post-defense) |
+| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc\|Prof. Maxence Martin Letter]] | - [ ] Not Contacted |
+| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc\|Dr. Nicola Mondillo Letter]] | - [ ] Draft ready (send post-defense) |
+| **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc\|Dr. Martin Schodlok Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry\|Dr. Anna Sorrentino Letter]] | - [ ] Not Contacted |
+| **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc\|Dr. Tobias Storch Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc\|Pr. Osvaldo Valeria Letter]] | - [ ] Draft ready (send post-defense) |
 | **INERIS Spontaneous** | INERIS | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous|INERIS Spontaneous Letter]] | - [ ] Not Contacted |
 
 ---
@@ -4743,7 +4743,7 @@ I have attached my CV. Happy to share the thesis abstract and publication list o
 Best regards,
 Abdelhak EL MANSOUR
 PhD Candidate, Remote Sensing — UM6P, Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 ```
 
 ---
@@ -4755,7 +4755,7 @@ Abdelhak EL MANSOUR
 PhD Candidate, Remote Sensing and Geosciences
 Mohammed VI Polytechnic University (UM6P)
 Benguerir, Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 
 June 22, 2026
 
@@ -4777,7 +4777,7 @@ What I bring to the role:
 
 - Python pipeline development for raw hyperspectral satellite data (HDF5 format, EnMAP and PRISMA)
 - Spectral unmixing and supervised mineral classification validated at mine scale
-- 4 peer-reviewed publications in MDPI Remote Sensing and Sensors
+- 2 first-author papers: Sensors (MDPI, 2025) and Minerals (MDPI, 2026); co-author on several additional papers published during PhD
 - Geoscience domain knowledge (mineralogy, phosphate geochemistry, mine site dynamics)
 - Trilingual: French, English, Arabic
 
@@ -4813,7 +4813,7 @@ I am confident this experience is directly applicable to the exploration workflo
 
 Best regards,
 Abdelhak EL MANSOUR
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 ```
 
 ---
@@ -4825,7 +4825,7 @@ Abdelhak EL MANSOUR
 PhD Candidate, Remote Sensing and Geosciences
 Mohammed VI Polytechnic University (UM6P)
 Benguerir, Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 
 June 22, 2026
 
@@ -4886,7 +4886,7 @@ I have attached my CV and can provide my thesis abstract and publication list on
 With respect,
 Abdelhak EL MANSOUR
 PhD Candidate, UM6P Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 ```
 
 ---
@@ -4898,7 +4898,7 @@ Abdelhak EL MANSOUR
 PhD Candidate, Remote Sensing and Geosciences
 Mohammed VI Polytechnic University (UM6P)
 Benguerir, Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 
 June 22, 2026
 
@@ -4913,7 +4913,7 @@ I am writing to express my interest in a postdoctoral position within your group
 
 My thesis — "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks" — was built around EnMAP and PRISMA data. I developed a fully operational Python processing chain for both sensors, going from raw Level-1B HDF5 products to validated mineralogical maps. The pipeline covers atmospheric correction (ACO), spatial co-registration, bad-band masking, spectral unmixing via VCA-FCLS, and machine learning classification (Random Forest and SCSE-CNN). Every classification output was validated against 312 ground-truth geochemical samples.
 
-Four peer-reviewed papers resulted from this work, published in Remote Sensing (MDPI) and Sensors (MDPI).
+I am first author on two papers in Sensors (MDPI, 2025, doi:10.3390/s26010002) and Minerals (MDPI, 2026), and co-author on several additional papers published during my PhD.
 
 I am writing to DLR specifically because your group built the instrument that makes this science possible. Working externally with EnMAP data gave me a deep understanding of its spectral properties, calibration quirks, and operational behavior at mine-scale applications. I would like to contribute that user-side knowledge to the team that operates the sensor.
 
@@ -4954,7 +4954,7 @@ I have attached my CV. I would appreciate the chance to speak with you at your c
 Best regards,
 Abdelhak EL MANSOUR
 PhD Candidate, UM6P Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 ```
 
 ---
@@ -4966,7 +4966,7 @@ Abdelhak EL MANSOUR
 PhD Candidate, Remote Sensing and Geosciences
 Mohammed VI Polytechnic University (UM6P)
 Benguerir, Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 
 June 22, 2026
 
@@ -5024,7 +5024,7 @@ I have attached my CV. If you have time for a short call in July, I would genuin
 Best regards,
 Abdelhak EL MANSOUR
 PhD Candidate, UM6P Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 ```
 
 ---
@@ -5036,7 +5036,7 @@ Abdelhak EL MANSOUR
 PhD Candidate, Remote Sensing and Geosciences
 Mohammed VI Polytechnic University (UM6P)
 Benguerir, Morocco
-insitazoult@gmail.com
+elmansour01abdelhak@gmail.com
 
 June 22, 2026
 
@@ -5053,7 +5053,7 @@ My thesis — "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Charac
 
 On the technical side, I developed an operational Python pipeline for EnMAP and PRISMA Level-1B HDF5 data: atmospheric correction (ACO), bad-band masking, spatial co-registration, VCA endmember extraction, FCLS constrained unmixing, and classification using both Random Forest and a Squeeze-and-Excitation CNN. The classification results were validated against 312 geochemical samples covering carbonate, phyllosilicate, iron oxide, and silicate phases.
 
-Four papers were published from this work in Remote Sensing and Sensors (MDPI).
+I am first author on two papers in Sensors (MDPI, 2025) and Minerals (MDPI, 2026), and co-author on several additional papers published during my PhD.
 
 What I would bring to HZDR is an operational satellite-scale perspective on the same problem your group addresses at the core and mine-face scale. I am genuinely interested in bridging those two observation scales — using satellite data to contextualize and upscale the finer-resolution characterization work your team does. That cross-scale integration is, to my knowledge, still an open research problem.
 
@@ -5161,7 +5161,7 @@ created: '2026-06-05'
 # ABDELHAK EL MANSOUR
 **Remote Sensing Scientist — Hyperspectral EO & Ecosystem Monitoring**
 
-insitazoult@gmail.com | +212 117 164 00
+elmansour01abdelhak@gmail.com | +212 117 164 00
 scholar.google.com/citations?user=ysUOZQ0AAAAJ | @AbdelhakElm
 Available: from September 2026 | Open to relocation (Netherlands)
 
@@ -5261,7 +5261,7 @@ created: '2026-06-04'
 # Motivation Letter
 
 Abdelhak EL MANSOUR
-insitazoult@gmail.com | +212 117 164 00
+elmansour01abdelhak@gmail.com | +212 117 164 00
 Benguerir, Morocco | June 2026
 
 Faculty of Geo-Information Science and Earth Observation (ITC)
@@ -5287,7 +5287,7 @@ I submit this application with my CV and publications list. I am happy to provid
 Yours sincerely,
 
 **Abdelhak EL MANSOUR**
-insitazoult@gmail.com | +212 117 164 00
+elmansour01abdelhak@gmail.com | +212 117 164 00
 scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
 
@@ -5386,7 +5386,7 @@ Thank you for your time.
 Yours sincerely,
 
 **Abdelhak EL MANSOUR**
-insitazoult@gmail.com | +212 117 164 00
+elmansour01abdelhak@gmail.com | +212 117 164 00
 scholar.google.com/citations?user=ysUOZQ0AAAAJ
 UM6P, Benguerir, Morocco
 
