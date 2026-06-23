@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 54 | **Total Word Count**: ~40101 words
+> **Total Files Compiled**: 54 | **Total Word Count**: ~40127 words
 
 ## 📂 Table of Contents
 
@@ -38,34 +38,34 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality).md](#-file-02_academic-&-work-work-active-vito-application-cover-letter-—-scientist-remote-sensing-(water-quality)-md) (~466 words)
 - [02_Academic & Work/work/active/VITO Application/Submission Checklist.md](#-file-02_academic-&-work-work-active-vito-application-submission-checklist-md) (~305 words)
 - [02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md](#-file-02_academic-&-work-work-active-espc6-submission-email-—-espc6-abstract-submission-md) (~221 words)
-- [02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asadzadeh-gfz-postdoc-md) (~607 words)
-- [02_Academic & Work/work/applications/Cover Letter - Asam DLR DFD Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asam-dlr-dfd-postdoc-md) (~653 words)
-- [02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---bussiere-uqat-postdoc-md) (~605 words)
-- [02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---chabrillat-gfz-postdoc-md) (~617 words)
-- [02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---esmaeili-uoft-postdoc-md) (~686 words)
-- [02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---fenton-uqat-postdoc-md) (~572 words)
-- [02_Academic & Work/work/applications/Cover Letter - Gloaguen HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---gloaguen-hzdr-postdoc-md) (~648 words)
-- [02_Academic & Work/work/applications/Cover Letter - Hecker ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---hecker-itc-postdoc-md) (~668 words)
-- [02_Academic & Work/work/applications/Cover Letter - INERIS Spontaneous.md](#-file-02_academic-&-work-work-applications-cover-letter---ineris-spontaneous-md) (~652 words)
-- [02_Academic & Work/work/applications/Cover Letter - INRAE MELICERTES Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-melicertes-postdoc-md) (~613 words)
-- [02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-prepsoil-postdoc-md) (~670 words)
-- [02_Academic & Work/work/applications/Cover Letter - ITC Twente Biodiversity Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---itc-twente-biodiversity-postdoc-md) (~577 words)
-- [02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---khodadadzadeh-itc-postdoc-md) (~696 words)
-- [02_Academic & Work/work/applications/Cover Letter - LIST Luxembourg Forest RS Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---list-luxembourg-forest-rs-postdoc-md) (~602 words)
-- [02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---lorenz-hzdr-postdoc-md) (~606 words)
-- [02_Academic & Work/work/applications/Cover Letter - Martin UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---martin-uqat-postdoc-md) (~642 words)
-- [02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---mondillo-naples-postdoc-md) (~730 words)
-- [02_Academic & Work/work/applications/Cover Letter - Schodlok BGR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---schodlok-bgr-postdoc-md) (~624 words)
-- [02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry.md](#-file-02_academic-&-work-work-applications-cover-letter---sorrentino-naples-inquiry-md) (~593 words)
-- [02_Academic & Work/work/applications/Cover Letter - Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---storch-dlr-imf-postdoc-md) (~622 words)
-- [02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---valeria-uqat-postdoc-md) (~579 words)
-- [02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter---wageningen-wur-rs-scientist-md) (~592 words)
-- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3044 words)
-- [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~554 words)
-- [02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv---utwente-md) (~647 words)
-- [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter---utwente-md) (~482 words)
+- [02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asadzadeh-gfz-postdoc-md) (~608 words)
+- [02_Academic & Work/work/applications/Cover Letter - Asam DLR DFD Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asam-dlr-dfd-postdoc-md) (~654 words)
+- [02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---bussiere-uqat-postdoc-md) (~606 words)
+- [02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---chabrillat-gfz-postdoc-md) (~618 words)
+- [02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---esmaeili-uoft-postdoc-md) (~687 words)
+- [02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---fenton-uqat-postdoc-md) (~573 words)
+- [02_Academic & Work/work/applications/Cover Letter - Gloaguen HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---gloaguen-hzdr-postdoc-md) (~649 words)
+- [02_Academic & Work/work/applications/Cover Letter - Hecker ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---hecker-itc-postdoc-md) (~669 words)
+- [02_Academic & Work/work/applications/Cover Letter - INERIS Spontaneous.md](#-file-02_academic-&-work-work-applications-cover-letter---ineris-spontaneous-md) (~651 words)
+- [02_Academic & Work/work/applications/Cover Letter - INRAE MELICERTES Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-melicertes-postdoc-md) (~608 words)
+- [02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-prepsoil-postdoc-md) (~665 words)
+- [02_Academic & Work/work/applications/Cover Letter - ITC Twente Biodiversity Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---itc-twente-biodiversity-postdoc-md) (~575 words)
+- [02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---khodadadzadeh-itc-postdoc-md) (~697 words)
+- [02_Academic & Work/work/applications/Cover Letter - LIST Luxembourg Forest RS Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---list-luxembourg-forest-rs-postdoc-md) (~601 words)
+- [02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---lorenz-hzdr-postdoc-md) (~607 words)
+- [02_Academic & Work/work/applications/Cover Letter - Martin UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---martin-uqat-postdoc-md) (~643 words)
+- [02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---mondillo-naples-postdoc-md) (~731 words)
+- [02_Academic & Work/work/applications/Cover Letter - Schodlok BGR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---schodlok-bgr-postdoc-md) (~625 words)
+- [02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry.md](#-file-02_academic-&-work-work-applications-cover-letter---sorrentino-naples-inquiry-md) (~594 words)
+- [02_Academic & Work/work/applications/Cover Letter - Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---storch-dlr-imf-postdoc-md) (~623 words)
+- [02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---valeria-uqat-postdoc-md) (~580 words)
+- [02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter---wageningen-wur-rs-scientist-md) (~589 words)
+- [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3077 words)
+- [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~552 words)
+- [02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv---utwente-md) (~645 words)
+- [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter---utwente-md) (~481 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Publications List - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-publications-list---utwente-md) (~280 words)
-- [02_Academic & Work/work/applications/DLR-2026/Email - Tobias Storch DLR.md](#-file-02_academic-&-work-work-applications-dlr-2026-email---tobias-storch-dlr-md) (~293 words)
+- [02_Academic & Work/work/applications/DLR-2026/Email - Tobias Storch DLR.md](#-file-02_academic-&-work-work-applications-dlr-2026-email---tobias-storch-dlr-md) (~292 words)
 
 
 
@@ -3325,7 +3325,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3340,7 +3340,7 @@ Potsdam, Germany
 
 Dear Dr. Asadzadeh,
 
-I am reaching out following the defense of my PhD thesis in June 2026 to introduce myself and explore whether there may be opportunities to connect, either through a postdoctoral position in Section 4.4 or through research collaboration. My doctoral work applies EnMAP and PRISMA satellite hyperspectral data to mine waste rock characterization and reclamation monitoring, and your recent work on EnMAP for mineral and resource exploration covers ground directly adjacent to mine.
+I am reaching out following the defense of my PhD thesis in mid-July 2026 to introduce myself and explore whether there may be opportunities to connect, either through a postdoctoral position in Section 4.4 or through research collaboration. My doctoral work applies EnMAP and PRISMA satellite hyperspectral data to mine waste rock characterization and reclamation monitoring, and your recent work on EnMAP for mineral and resource exploration covers ground directly adjacent to mine.
 
 I came across your 2024 paper on detecting rare earth elements using EnMAP at Mountain Pass, California, and your work on EnMAP for alteration mineral mapping at the Reko Diq porphyry deposit, and recognized that we are working on the same sensor and the same applied problem from different angles: your group maps mineralogy to locate and characterize resources, my thesis maps mineralogy to characterize and monitor what mining leaves behind. The shared instrument and the shared spectral methodology are the starting point for a natural conversation.
 
@@ -3355,7 +3355,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3395,7 +3395,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3412,7 +3412,7 @@ Oberpfaffenhofen, Germany
 
 Dear Dr. Asam,
 
-I am writing to inquire about postdoctoral opportunities in your Forest Ecosystems team following the defense of my PhD thesis in June 2026. My doctoral work addresses a phase of land surface dynamics that precedes and enables the vegetation recovery your team studies: the spectral and geochemical transformation of a disturbed mineral surface as it is reclaimed and prepared for revegetation. I believe this creates a productive connection between my background and your team's remote sensing monitoring framework.
+I am writing to inquire about postdoctoral opportunities in your Forest Ecosystems team following the defense of my PhD thesis in mid-July 2026. My doctoral work addresses a phase of land surface dynamics that precedes and enables the vegetation recovery your team studies: the spectral and geochemical transformation of a disturbed mineral surface as it is reclaimed and prepared for revegetation. I believe this creates a productive connection between my background and your team's remote sensing monitoring framework.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, where I developed a multi-scale hyperspectral remote sensing framework for characterising phosphate mine waste rock and monitoring reclamation progress. The central applied output is the Reclamation Progress Index (RPI), developed in Chapter 3 using EnMAP satellite data (189 valid bands, 418–2445 nm): a surface transformation metric calibrated against field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) that maps the mineralogical state of a mine surface from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones, across the entire 36 km² mine site. The RPI tracks the pre-vegetation stage of reclamation, backfilling, surface stabilisation, and soil amendment, that determines whether subsequent vegetation establishment succeeds or fails. It captures what spectral vegetation indices (NDVI, EVI) cannot: the mineral surface condition before any green signal is present. This makes it the temporal precursor to the ecosystem recovery monitoring your team performs.
 
@@ -3429,7 +3429,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3464,7 +3464,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3480,7 +3480,7 @@ Rouyn-Noranda, Quebec, Canada
 
 Dear Professor Bussière,
 
-I am writing to inquire about postdoctoral opportunities within your research group following the defense of my PhD thesis in June 2026. My doctoral work at UM6P focuses on satellite hyperspectral remote sensing for mine waste rock characterization and reclamation monitoring, a set of tools that I believe could complement the geotechnical and geochemical monitoring work carried out at RIME, particularly in the area of spatial reclamation assessment at mine sites.
+I am writing to inquire about postdoctoral opportunities within your research group following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P focuses on satellite hyperspectral remote sensing for mine waste rock characterization and reclamation monitoring, a set of tools that I believe could complement the geotechnical and geochemical monitoring work carried out at RIME, particularly in the area of spatial reclamation assessment at mine sites.
 
 My thesis, conducted at the Benguerir phosphate mine of OCP Group (Morocco), developed a multi-scale framework spanning field spectroscopy, PRISMA satellite imagery (239 bands, 30 m), and EnMAP hyperspectral data. The applied output most relevant to your group's work is the Reclamation Progress Index (RPI), developed in Chapter 3: a satellite-derived metric that quantifies the degree of surface transformation in backfilled waste rock zones relative to undisturbed reference areas. The RPI was calibrated and validated against field XRF geochemistry from independent sampling campaigns (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²), producing spatially continuous reclamation state estimates, index values of approximately 0.90 in fully reclaimed zones versus 0.20 in undisturbed waste rock, across the entire 36 km² mine surface. Chapter 2 addressed lithological mapping of waste rock using PRISMA and machine learning under spatially rigorous cross-validation, yielding balanced accuracies of 0.60–0.67 for four mineralogical classes, which I document as the performance ceiling imposed by 30 m sub-pixel mixing rather than a methodological limitation.
 
@@ -3495,7 +3495,7 @@ Thank you for your consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3534,7 +3534,7 @@ created: '2026-06-05'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3550,7 +3550,7 @@ Potsdam, Germany
 
 Dear Professor Chabrillat,
 
-I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in June 2026. My doctoral work at UM6P applies EnMAP and PRISMA hyperspectral data to mine waste rock characterization and reclamation monitoring, a set of problems that sits directly within the multi-scale geoscience applications your group develops for the EnMAP mission.
+I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P applies EnMAP and PRISMA hyperspectral data to mine waste rock characterization and reclamation monitoring, a set of problems that sits directly within the multi-scale geoscience applications your group develops for the EnMAP mission.
 
 My thesis, carried out at the Benguerir phosphate mine of OCP Group in Morocco, developed a three-chapter framework spanning field spectroscopy (ASD FieldSpec 4, 350–2500 nm), PRISMA satellite imagery, and EnMAP data. Chapter 3 is the most directly relevant to your group's work: I used EnMAP (189 valid bands, 418–2445 nm) to detect and quantify the spectral impact of backfilling operations on mine waste rock surfaces, comparing reclaimed zones against undisturbed reference areas. The output is a novel Reclamation Progress Index (RPI), calibrated against independent field XRF geochemistry, a geochemically-anchored, spectrally-derived surface transformation index validated across 64 spatially independent field measurements (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The index produces spatially continuous maps distinguishing reclaimed surface state (RPI ≈ 0.90) from undisturbed waste rock (RPI ≈ 0.20) across the full 36 km² mine site, without additional field campaigns. Chapter 1 built the mineralogical foundation using field and lab spectroscopy validated against XRD and HHXRF, characterizing four mineral assemblages including fluorapatite, dolomite, illite, and kaolinite. Chapter 2 extended this to landscape-scale lithological mapping using PRISMA and spatially constrained machine learning.
 
@@ -3565,7 +3565,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3594,7 +3594,7 @@ created: '2026-06-05'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3609,7 +3609,7 @@ Toronto, Ontario, Canada
 
 Dear Professor Esmaeili,
 
-I am writing to inquire about postdoctoral opportunities in your research group following the defense of my PhD thesis in June 2026. Your group's work on hyperspectral imaging for ore-waste discrimination and ore grade control from drill cuttings addresses the same core problem as my doctoral research, distinguishing mine materials by their spectral-mineralogical signature using machine learning, and I believe my satellite-scale extension of that methodology could add a useful dimension to your group's work.
+I am writing to inquire about postdoctoral opportunities in your research group following the defense of my PhD thesis in mid-July 2026. Your group's work on hyperspectral imaging for ore-waste discrimination and ore grade control from drill cuttings addresses the same core problem as my doctoral research, distinguishing mine materials by their spectral-mineralogical signature using machine learning, and I believe my satellite-scale extension of that methodology could add a useful dimension to your group's work.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, one of the world's largest phosphate operations. The central applied challenge, discriminating waste rock lithologies that are spectrally similar but economically distinct, is structurally identical to the ore-waste discrimination problem your group has addressed using close-range hyperspectral imaging. In Chapter 2, I applied PRISMA satellite imagery (239 bands, 30 m) and spatially constrained machine learning (Extra Trees, Random Forest) to map four waste rock classes across the full mine surface, reporting honest balanced accuracies of 0.60–0.67 under a 30 m buffer cross-validation that enforces geographic separation between training and test sets. Chapter 1 built the mineralogical foundation at sample scale using ASD FieldSpec 4 spectroscopy (350–2500 nm), NNLS spectral unmixing against a curated ECOSTRESS library, and cross-validation against HHXRF elemental data and powder XRD across 104 field samples, a workflow comparable to what your group has demonstrated with close-range hyperspectral systems on drill cuttings, extended to field-portable instruments. Chapter 3 developed a novel Reclamation Progress Index (RPI), a satellite-derived transformation metric calibrated against independent XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) that maps reclamation state continuously across the 36 km² mine site, from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones.
 
@@ -3624,7 +3624,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3654,7 +3654,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3670,7 +3670,7 @@ Rouyn-Noranda, Quebec, Canada
 
 Dear Professor Fenton,
 
-I am writing to inquire about postdoctoral opportunities in your research group following the defense of my PhD thesis in June 2026. My doctoral work at UM6P addresses a problem directly adjacent to the mission of your NSERC Chair: using satellite hyperspectral remote sensing to quantify the spatial footprint of mining operations on surface conditions and to measure reclamation progress at landscape scale, without relying on field campaigns for coverage.
+I am writing to inquire about postdoctoral opportunities in your research group following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P addresses a problem directly adjacent to the mission of your NSERC Chair: using satellite hyperspectral remote sensing to quantify the spatial footprint of mining operations on surface conditions and to measure reclamation progress at landscape scale, without relying on field campaigns for coverage.
 
 My thesis developed a multi-scale framework combining field spectroscopy, PRISMA satellite imagery, and EnMAP data to characterize phosphate mine waste rocks at Benguerir, Morocco (OCP Group). The central output of Chapter 3 is the Reclamation Progress Index (RPI), a novel satellite-derived metric calibrated against independent field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹², n = 64 spatially independent measurements). The core finding, that backfilling induces spectrally detectable surface transformations consistently across the full EnMAP wavelength range (418–2445 nm), confirmed through permutation testing and bootstrap resampling, demonstrates that spaceborne hyperspectral data can monitor reclamation-induced change across an entire 36 km² mine site operationally, with index values ranging from 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones.
 
@@ -3685,7 +3685,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3724,7 +3724,7 @@ created: '2026-06-05'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3740,7 +3740,7 @@ Freiberg, Germany
 
 Dear Dr. Gloaguen,
 
-I am writing to inquire about postdoctoral opportunities in your division following the defense of my PhD thesis in June 2026. My doctoral work at UM6P develops and applies multi-scale hyperspectral remote sensing to mine waste rock characterization and reclamation monitoring, a research programme that maps directly onto the multi-scale spectroscopy and mineral mapping agenda of your Exploration Technology division, with a specific contribution at the satellite scale.
+I am writing to inquire about postdoctoral opportunities in your division following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P develops and applies multi-scale hyperspectral remote sensing to mine waste rock characterization and reclamation monitoring, a research programme that maps directly onto the multi-scale spectroscopy and mineral mapping agenda of your Exploration Technology division, with a specific contribution at the satellite scale.
 
 My thesis covers three complementary scales at the Benguerir phosphate mine of OCP Group in Morocco. Chapter 1 operates at field and sample scale: 104 samples characterized using ASD FieldSpec 4 spectroscopy (350–2500 nm), NNLS unmixing against an ECOSTRESS spectral library curated for the phosphate context, and cross-validation against HHXRF elemental data and powder XRD. This produced a quantitative mineralogical baseline for four assemblages, carbonate-rich, clay-dominated, phosphate-rich, and mixed, that anchors the interpretation at coarser scales. Chapter 2 brings this to landscape scale using PRISMA satellite imagery (239 bands, 30 m) with spatially constrained machine learning (Extra Trees, Random Forest) for lithological mapping of four waste rock classes, reporting honest balanced accuracies of 0.60–0.67 under a 30 m buffer cross-validation that prevents spatial autocorrelation from inflating performance estimates. Chapter 3 shifts from classification to change detection using EnMAP (189 valid bands, 418–2445 nm): I developed a novel Reclamation Progress Index (RPI), a geochemically-calibrated satellite metric that tracks surface transformation in backfilled waste rock zones, validated against independent XRF measurements (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) and mapping reclamation state from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones across the entire 36 km² mine surface.
 
@@ -3755,7 +3755,7 @@ Thank you for your consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3784,7 +3784,7 @@ created: '2026-06-06'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -3800,7 +3800,7 @@ Enschede, The Netherlands
 
 Dear Dr. Hecker,
 
-I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in June 2026. My doctoral work applies VNIR-SWIR satellite hyperspectral data (PRISMA and EnMAP) to mine waste rock mineralogy and reclamation monitoring, and I believe it sits in productive complementarity with your group's work on thermal infrared spectroscopy and field-to-satellite mineral characterization, particularly in the context of critical raw materials and mine site geology.
+I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in mid-July 2026. My doctoral work applies VNIR-SWIR satellite hyperspectral data (PRISMA and EnMAP) to mine waste rock mineralogy and reclamation monitoring, and I believe it sits in productive complementarity with your group's work on thermal infrared spectroscopy and field-to-satellite mineral characterization, particularly in the context of critical raw materials and mine site geology.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, covering three scales. Chapter 1 characterized 104 waste rock samples using ASD FieldSpec 4 spectroscopy (350–2500 nm), resolving the SWIR diagnostic features of clay minerals (~2200 nm), dolomite (~2320 nm), calcite (~2340 nm), and fluorapatite (~2150 nm), with NNLS unmixing against a curated ECOSTRESS library and cross-validation against HHXRF and XRD. Chapter 2 scaled this to landscape mapping using PRISMA (239 bands, 30 m) and spatially constrained machine learning, reporting balanced accuracies of 0.60–0.67 under a rigorous 30 m buffer cross-validation for four lithological classes. Chapter 3 used EnMAP (189 valid bands, 418–2445 nm) to develop a Reclamation Progress Index (RPI), a geochemically-calibrated satellite metric for monitoring backfilling progress, validated against independent XRF measurements (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) across the full 36 km² mine site.
 
@@ -3815,7 +3815,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -3863,7 +3863,7 @@ Parc Technologique Alata, BP 2
 
 Monsieur Hadadou,
 
-Je me permets de vous adresser ma candidature spontanée pour un poste de chercheur postdoctorant au sein de l'INERIS, suite à votre présentation aujourd'hui au GSMI-UM6P et à la soutenance imminente de ma thèse de doctorat le 30 juin 2026. Mes travaux de recherche sur la caractérisation des déchets miniers et le suivi de leur réhabilitation par télédétection hyperspectrale (VNIR-SWIR) multi-échelle s'inscrivent en droite ligne dans la continuité des expertises après-mine et environnementales que vous développez à l'international.
+Je me permets de vous adresser ma candidature spontanée pour un poste de chercheur postdoctorant au sein de l'INERIS, suite à votre présentation aujourd'hui au GSMI-UM6P et à la soutenance imminente de ma thèse de doctorat en mi-juillet 2026. Mes travaux de recherche sur la caractérisation des déchets miniers et le suivi de leur réhabilitation par télédétection hyperspectrale (VNIR-SWIR) multi-échelle s'inscrivent en droite ligne dans la continuité des expertises après-mine et environnementales que vous développez à l'international.
 
 Ma thèse, menée sur le site de la mine de phosphate de Benguerir (Groupe OCP) au Maroc, s'articule autour d'une approche multi-sources combinant la spectroscopie de terrain (ASD FieldSpec 4, 350-2500 nm), l'imagerie satellitaire de nouvelle génération (PRISMA et EnMAP) et la validation géochimique (DRX, FRX). 
 
@@ -3909,7 +3909,7 @@ created: '2026-06-09'
 ---
 
 **Abdelhak EL MANSOUR**
-Docteur, Geology and Sustainable Mining Institute (GSMI)
+Doctorant, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Maroc
 elmansour01abdelhak@gmail.com
 
@@ -3923,11 +3923,11 @@ INRAE, Île-de-France, France
 
 Madame, Monsieur,
 
-Je vous adresse ma candidature au post-doctorat en télédétection des sols dans le cadre du projet MELICERTES (PEPR Agroécologie et Numérique, France 2030 / ANR). Je soutiens ma thèse de doctorat à l'UM6P le 30 juin 2026 et suis disponible dès juillet 2026. Mes travaux doctoraux sur la télédétection hyperspectrale multi-échelle pour la caractérisation minéralogique et le monitoring de surfaces de mine me confèrent les compétences en traitement de données EO, en modélisation spectrale et en programmation Python directement requises par ce poste.
+Je vous adresse ma candidature au post-doctorat en télédétection des sols dans le cadre du projet MELICERTES (PEPR Agroécologie et Numérique, France 2030 / ANR). Je soutiens ma thèse de doctorat à l'UM6P en mi-juillet 2026 et suis disponible dès juillet 2026. Mes travaux doctoraux sur la télédétection hyperspectrale multi-échelle pour la caractérisation minéralogique et le monitoring de surfaces de mine me confèrent les compétences en traitement de données EO, en modélisation spectrale et en programmation Python directement requises par ce poste.
 
 La contribution centrale attendue du post-doctorat, construire des mosaïques temporelles d'images satellitaires et développer des modèles d'estimation de la teneur en carbone organique du sol à partir de ces séries temporelles, s'inscrit dans la continuité directe de ma thèse. Le premier chapitre (publié dans *Sensors* 2026, doi:10.3390/s26010002) a établi une bibliothèque spectrale de terrain sur 104 échantillons de roches stériles phosphatées, avec mesures spectroradiométriques VNIR-SWIR (ASD FieldSpec 4, 350–2500 nm) et validation géochimique par HHXRF. Les assemblages minéralogiques que j'ai quantifiés, carbonates, argiles (illite, kaolinite), oxydes de fer, sont les mêmes qui contrôlent la réflectance spectrale des horizons de surface des sols agricoles. Les caractéristiques d'absorption diagnostiques que j'ai exploitées (Al-OH ~2200 nm, CO₃ ~2320–2350 nm, Fe³⁺ ~500–900 nm) sont celles utilisées pour les estimations de carbone organique et de propriétés pédologiques par télédétection. Le troisième chapitre a produit un indice surfacique continu (Reclamation Progress Index) à partir de données EnMAP (189 bandes valides, 418–2445 nm), calibré par régression isotonique contre les mesures XRF indépendantes sur 64 points spatialement indépendants (ρ de Spearman = 0,845, p = 1,74 × 10⁻¹²). Ce résultat illustre ma capacité à construire un produit EO quantitatif et géochimiquement ancré à partir de données multi-temporelles satellitaires, l'objectif central de MELICERTES.
 
-Mon pipeline Python de traitement (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → mosaïque → correction radiométrique → suppression des bandes défectueuses → classification → validation spatiale) est directement adaptable à l'intégration de séries temporelles Sentinel-2 et futures missions hyperspectrale (CHIME, EnMAP). Je maîtrise les environnements scikit-learn, GDAL, rasterio, spectral et numpy. Je suis également familier des services Copernicus Land Monitoring Service (CLMS) dans leur composante de couverture des sols et de biophysique de surface.
+Mon pipeline Python de traitement (traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → mosaïque → correction radiométrique → suppression des bandes défectueuses → classification → validation spatiale) est directement adaptable à l'intégration de séries temporelles Sentinel-2 et futures missions hyperspectrale (CHIME, EnMAP). Je maîtrise les environnements scikit-learn, GDAL, rasterio, spectral et numpy. Je suis également familier des services Copernicus Land Monitoring Service (CLMS) dans leur composante de couverture des sols et de biophysique de surface.
 
 Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain sur des sites agricoles français. Je suis premier auteur de 2 articles publiés ou acceptés (dont un dans *Sensors* et un dans *Minerals*) et co-auteur de 3 autres articles publiés dans des revues à comité de lecture, avec un autre article actuellement soumis.
 
@@ -3936,7 +3936,7 @@ Je serais heureux de vous présenter mes travaux lors d'un entretien et tiens à
 Je vous remercie pour votre attention et vous prie d'agréer mes salutations distinguées.
 
 **Abdelhak EL MANSOUR**
-Docteur (soutenance 30 juin 2026), Télédétection et Géosciences Environnementales
+Doctorant (soutenance mi-juillet 2026), Télédétection et Géosciences Environnementales
 UM6P, GSMI, Benguerir, Maroc
 elmansour01abdelhak@gmail.com
 
@@ -3966,7 +3966,7 @@ created: '2026-06-09'
 ---
 
 **Abdelhak EL MANSOUR**
-Docteur, Geology and Sustainable Mining Institute (GSMI)
+Doctorant, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Maroc
 elmansour01abdelhak@gmail.com
 
@@ -3979,11 +3979,11 @@ INRAE, Unité de Recherche, Provence-Alpes-Côte d'Azur, France
 
 Madame, Monsieur,
 
-Je vous adresse ma candidature pour le poste post-doctoral en télédétection pour la surveillance des sols dans le cadre du projet européen PREPSOIL. Je soutiens ma thèse de doctorat à l'UM6P le 30 juin 2026 et suis disponible dès juillet 2026. Mon travail doctoral sur la télédétection hyperspectrale multi-échelle pour la caractérisation minéralogique et le monitoring de la reclamation de sites miniers constitue un socle technique directement transférable à la surveillance des propriétés du sol par données satellitaires.
+Je vous adresse ma candidature pour le poste post-doctoral en télédétection pour la surveillance des sols dans le cadre du projet européen PREPSOIL. Je soutiens ma thèse de doctorat à l'UM6P en mi-juillet 2026 et suis disponible dès juillet 2026. Mon travail doctoral sur la télédétection hyperspectrale multi-échelle pour la caractérisation minéralogique et le monitoring de la reclamation de sites miniers constitue un socle technique directement transférable à la surveillance des propriétés du sol par données satellitaires.
 
 Ma thèse repose sur trois contributions complémentaires. Le premier chapitre (publié dans *Sensors* 2026, doi:10.3390/s26010002) a développé une bibliothèque spectrale de terrain à partir de 104 échantillons de roches stériles phosphatées, analysés par spectroscopie de réflectance VNIR-SWIR (ASD FieldSpec 4, 350–2500 nm) et par fluorescence X portable (HHXRF Niton XL5). La comparaison à la bibliothèque ECOSTRESS a permis de résoudre les assemblages carbonatés (dolomite, calcite), argileux (illite, kaolinite, montmorillonite) et phosphatés (fluorapatite) avec un R² moyen de 0,748 sur l'ensemble des 104 spectres. Cette approche, spectroscopie de terrain couplée à la géochimie élémentaire, est exactement celle du projet PREPSOIL pour calibrer et valider les produits de monitoring des sols à partir de données EO. Le deuxième chapitre a étendu ce cadre à l'échelle satellitaire via PRISMA (239 bandes, 30 m) avec une validation par validation croisée à contrainte spatiale (127 échantillons de terrain, 4 classes lithologiques). Le troisième chapitre a produit un Indice de Progression de la Reclamation (RPI) à partir de données EnMAP (189 bandes valides), calibré par régression isotonique contre les mesures XRF indépendantes (ρ de Spearman = 0,845, p = 1,74 × 10⁻¹²), un indicateur surfacique continu et physiquement ancré, produit sans campagne de terrain complémentaire.
 
-Le transfert vers le monitoring des sols européens est direct à deux niveaux. Méthodologiquement, les assemblages minéralogiques qui contrôlent la réflectance spectrale d'une roche stérile phosphatée, carbonates, argiles, oxydes de fer, sont les mêmes que ceux qui structurent la signature spectrale des sols agricoles dégradés ou en cours de restauration. Les caractéristiques diagnostiques que j'ai quantifiées (absorption Al-OH à ~2200 nm, CO₃ à ~2320 nm, Fe³⁺ à ~500–900 nm) sont directement exploitables pour les indicateurs de santé des sols du projet PREPSOIL. Opérationnellement, mon pipeline Python complet (1 776 lignes, traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → correction atmosphérique → suppression des bandes défectueuses → démixage spectral → classification → validation) est immédiatement adaptable à l'intégration de données Sentinel-2, Sentinel-3 et futures missions hyperspectrale (CHIME) pour une surveillance multi-temporelle des sols.
+Le transfert vers le monitoring des sols européens est direct à deux niveaux. Méthodologiquement, les assemblages minéralogiques qui contrôlent la réflectance spectrale d'une roche stérile phosphatée, carbonates, argiles, oxydes de fer, sont les mêmes que ceux qui structurent la signature spectrale des sols agricoles dégradés ou en cours de restauration. Les caractéristiques diagnostiques que j'ai quantifiées (absorption Al-OH à ~2200 nm, CO₃ à ~2320 nm, Fe³⁺ à ~500–900 nm) sont directement exploitables pour les indicateurs de santé des sols du projet PREPSOIL. Opérationnellement, mon pipeline Python complet (traitement bout en bout de données PRISMA et EnMAP : ingestion HDF5 → correction atmosphérique → suppression des bandes défectueuses → démixage spectral → classification → validation) est immédiatement adaptable à l'intégration de données Sentinel-2, Sentinel-3 et futures missions hyperspectrale (CHIME) pour une surveillance multi-temporelle des sols.
 
 Je suis francophone natif (arabe marocain et français), ce qui facilite l'intégration dans un laboratoire INRAE et la participation aux activités terrain en France. Je suis premier auteur de 2 articles publiés ou acceptés (dont l'article du chapitre 1 publié dans *Sensors* 2026 et l'article du chapitre 2 accepté dans *Minerals* 2026) et co-auteur de 3 autres articles publiés dans des revues à comité de lecture, avec un manuscrit supplémentaire en cours de soumission.
 
@@ -3992,7 +3992,7 @@ Je serais ravi de pouvoir discuter de mes travaux lors d'un entretien. Vous trou
 Je vous remercie pour votre attention et vous prie d'agréer mes salutations distinguées.
 
 **Abdelhak EL MANSOUR**
-Docteur (soutenance 30 juin 2026), Télédétection et Géosciences Environnementales
+Doctorant (soutenance mi-juillet 2026), Télédétection et Géosciences Environnementales
 UM6P, GSMI, Benguerir, Maroc
 
 ---
@@ -4021,7 +4021,7 @@ created: '2026-06-09'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4035,13 +4035,13 @@ University of Twente, Enschede, Netherlands
 
 Dear Members of the Hiring Committee,
 
-I am writing to apply for the Postdoctoral Researcher position in the Biodiversity-Positive Renewable Energy project. I will defend my PhD thesis at UM6P on June 30, 2026, and am available from July 2026. My doctoral work on multi-scale hyperspectral remote sensing for surface monitoring at phosphate mine waste sites provides a directly transferable technical foundation for the multi-source EO and biodiversity monitoring framework described in this position.
+I am writing to apply for the Postdoctoral Researcher position in the Biodiversity-Positive Renewable Energy project. I will defend my PhD thesis at UM6P in mid-July 2026, and am available from July 2026. My doctoral work on multi-scale hyperspectral remote sensing for surface monitoring at phosphate mine waste sites provides a directly transferable technical foundation for the multi-source EO and biodiversity monitoring framework described in this position.
 
 My thesis developed three operational systems using hyperspectral satellite data. Chapter 2 produced a spatially-constrained lithological classification pipeline using PRISMA imagery (239 bands, 30 m) with blocked spatial cross-validation (127 field samples, 4 classes, BAC = 0.60–0.67). Chapter 3 built an EnMAP-based (189 valid bands, 418–2445 nm) spectral unmixing pipeline using VCA endmember extraction and FCLS abundance mapping, culminating in a novel Reclamation Progress Index (RPI) that tracks surface transformation through time, validated against independent XRF geochemical measurements at 64 spatially independent points (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The RPI is structurally a change-detection and monitoring instrument: it detects the spectral transition from bare geochemically active waste rock to progressively stabilized, biologically recovering surfaces. This is the same monitoring challenge at the core of biodiversity assessment in disturbed or transformed landscapes.
 
 The bridge to the biodiversity-positive energy context is methodological. Monitoring land surfaces undergoing transformation, whether mine reclamation or renewable energy infrastructure, requires detecting subtle spectral shifts that precede or accompany biological change. My experience resolving vegetation emergence, soil crust formation, and carbonate weathering as endmember-level spectral signals in a 30 m pixel is directly applicable to detecting biodiversity-relevant surface and vegetation changes in energy infrastructure footprints. I have also worked with the ASD FieldSpec 4 (350–2500 nm) for field validation, establishing spectral ground truth for satellite-derived products, a workflow central to any EO-based biodiversity indicator validation.
 
-Technically, I bring a complete Python pipeline for PRISMA and EnMAP data processing (1,776-line production engine: HDF5 ingestion → atmospheric correction → bad-band removal → spectral analysis → classification → accuracy assessment), five peer-reviewed publications (first-author on 2, co-author on 3), and experience presenting results at international conferences (EGU 2025, EARSeL 2024). I am also familiar with the work of ITC's Earth Observation Science department and am aware of the hyperspectral and thermal RS capacity at ITC that would support this research context.
+Technically, I bring a complete Python pipeline for PRISMA and EnMAP data processing (production-ready engine: HDF5 ingestion → atmospheric correction → bad-band removal → spectral analysis → classification → accuracy assessment), five peer-reviewed publications (first-author on 2, co-author on 3), and experience presenting results at international conferences (EGU 2025, EARSeL 2024). I am also familiar with the work of ITC's Earth Observation Science department and am aware of the hyperspectral and thermal RS capacity at ITC that would support this research context.
 
 I would welcome the opportunity to discuss how my EnMAP/PRISMA processing expertise and surface monitoring experience can contribute to the project's EO component. I am available for a video call at short notice and can provide my full CV, thesis abstract, and key publications immediately.
 
@@ -4050,7 +4050,7 @@ Thank you for your consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defending June 30, 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4079,7 +4079,7 @@ created: '2026-06-05'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4095,7 +4095,7 @@ Enschede, The Netherlands
 
 Dear Dr. Khodadadzadeh,
 
-I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in June 2026. Reading your work on integrating hyperspectral and geochemical data in machine learning frameworks for mineral mapping, I recognized a direct methodological parallel with my own thesis, the same fusion logic applied at a different scale, from drill-core to satellite.
+I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in mid-July 2026. Reading your work on integrating hyperspectral and geochemical data in machine learning frameworks for mineral mapping, I recognized a direct methodological parallel with my own thesis, the same fusion logic applied at a different scale, from drill-core to satellite.
 
 Your superpixel-based ML framework for drill-core hyperspectral and geochemical data integration, using spatially structured classification to combine spectral mineral signatures with complementary geochemical information, is structurally identical to what I implemented at the landscape scale. My thesis Chapter 1 built the spectral-geochemical baseline at sample scale: 104 field samples from the Benguerir phosphate mine (OCP Group, Morocco) characterized using ASD FieldSpec 4 VNIR-SWIR spectroscopy, NNLS unmixing against a curated ECOSTRESS library, and cross-validated against HHXRF elemental profiles and powder XRD. The result is a quantitative link between spectral features and geochemical composition across four mineralogical assemblages, the same type of spectral-geochemical concordance your drill-core work establishes, but at field sample scale with portable instruments rather than a core scanner.
 
@@ -4112,7 +4112,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4141,7 +4141,7 @@ created: '2026-06-09'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4155,7 +4155,7 @@ Luxembourg Institute of Science and Technology (LIST), Luxembourg
 
 Dear Members of the Hiring Committee,
 
-I am writing to apply for the DC-26100 postdoctoral position in Forest Remote Sensing, Modelling and Deep Learning. I will defend my PhD thesis on June 30, 2026, and am available from July 2026. My doctoral research, a multi-scale hyperspectral EO framework using PRISMA and EnMAP satellite data, provides the satellite data processing expertise and ML pipeline skills directly required by this position, and the collaborative context with GFZ Potsdam and BOKU Wien described in the posting aligns with my existing network in European hyperspectral research.
+I am writing to apply for the DC-26100 postdoctoral position in Forest Remote Sensing, Modelling and Deep Learning. I will defend my PhD thesis in mid-July 2026, and am available from July 2026. My doctoral research, a multi-scale hyperspectral EO framework using PRISMA and EnMAP satellite data, provides the satellite data processing expertise and ML pipeline skills directly required by this position, and the collaborative context with GFZ Potsdam and BOKU Wien described in the posting aligns with my existing network in European hyperspectral research.
 
 My thesis developed operational processing pipelines for both PRISMA (~239 bands, 30 m, ASI) and EnMAP (189 valid bands, 418–2445 nm, DLR/GFZ). These are precisely the sensors referenced in this position alongside Sentinel-2. Chapter 2 produced a spatially constrained lithological classification pipeline for PRISMA imagery: Random Forest and Extra Trees classifiers trained on 127 field samples across four spectral classes, with blocked spatial cross-validation (10 replicates, 30 m buffer; BAC = 0.60–0.67, AUC > 0.95 for carbonates). Chapter 3 developed an EnMAP spectral unmixing pipeline, VCA endmember extraction (k = 4) → FCLS abundance mapping → isotonic calibration against XRF ground truth, producing a spatially continuous surface state index validated at 64 field points (BAC = 0.984 ± 0.031, AUC = 1.000, Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). I also have experience with hybrid RTM-ML approaches from my research stay at the ARTMO lab (University of Valencia, March–August 2024), where I worked within Prof. Jochem Verrelst's group on hyperspectral vegetation applications, one of the groups most directly relevant to the RTM inversion methods described in this project.
 
@@ -4170,7 +4170,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defending June 30, 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4199,7 +4199,7 @@ created: '2026-06-05'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4215,7 +4215,7 @@ Freiberg, Germany
 
 Dear Dr. Lorenz,
 
-I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in June 2026. My doctoral work at UM6P applies satellite hyperspectral remote sensing to mine waste rock characterization and reclamation monitoring, and I believe it adds a scale your group's multi-platform framework does not currently cover: the spaceborne level.
+I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P applies satellite hyperspectral remote sensing to mine waste rock characterization and reclamation monitoring, and I believe it adds a scale your group's multi-platform framework does not currently cover: the spaceborne level.
 
 Your group's work spans from close-range core scanning to drone-borne hyperspectral acquisition, with a consistent focus on extracting mineralogical and environmental information from mine sites. Your UAS-based monitoring of acid mine drainage, using spectral signatures of secondary iron minerals such as jarosite and goethite to map AMD-affected zones, is methodologically parallel to what I developed at the landscape scale using EnMAP and PRISMA satellite data. My thesis Chapter 3 used 189 valid EnMAP bands (418–2445 nm) to detect and quantify the spectral impact of backfilling operations on phosphate mine waste rock at Benguerir, Morocco (OCP Group), producing a novel Reclamation Progress Index (RPI) calibrated against independent field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The index maps reclamation state continuously across the entire 36 km² mine site, a spatial coverage that UAS campaigns, however detailed, cannot deliver operationally. Chapter 2 addressed satellite-scale lithological mapping of four waste rock classes using PRISMA and spatially constrained machine learning (balanced accuracies of 0.60–0.67 under a 30 m spatial buffer cross-validation, reflecting the honest performance ceiling at satellite resolution). Chapter 1 built the mineralogical foundation from field and laboratory spectroscopy validated against XRD and HHXRF across 104 samples.
 
@@ -4230,7 +4230,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4259,7 +4259,7 @@ created: '2026-06-06'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4274,7 +4274,7 @@ Rouyn-Noranda, Quebec, Canada
 
 Dear Professor Martin,
 
-I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in June 2026. Your work combining airborne LiDAR and satellite indices to predict disturbance-induced structural diversity in boreal forests, and your ongoing project on identifying old-growth habitat quality from airborne LiDAR, aligns with a capability I would bring to your group: satellite hyperspectral data as a spectrally-rich complement to the structural information your LiDAR already captures.
+I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in mid-July 2026. Your work combining airborne LiDAR and satellite indices to predict disturbance-induced structural diversity in boreal forests, and your ongoing project on identifying old-growth habitat quality from airborne LiDAR, aligns with a capability I would bring to your group: satellite hyperspectral data as a spectrally-rich complement to the structural information your LiDAR already captures.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, where I developed a multi-scale framework using field spectroscopy, PRISMA satellite imagery (239 bands, 30 m), and EnMAP hyperspectral data to characterise mine waste rock mineralogy and monitor reclamation progress. The applied problem, detecting and quantifying surface change at landscape scale using satellite data calibrated against field measurements, is structurally analogous to what your forest monitoring work addresses: using remote sensing to track the state and trajectory of a disturbed land surface over time. In Chapter 3, I developed a Reclamation Progress Index (RPI), a satellite-derived metric calibrated against field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) that maps surface transformation continuously across a 36 km² site. The spatially blocked cross-validation design I built, enforcing geographic separation between training and test pixels to prevent autocorrelation from inflating performance, is directly transferable to the boreal landscape classification and habitat quality mapping problems your group works on. Chapter 2 applied this design to PRISMA-based lithological mapping (balanced accuracies of 0.60–0.67), demonstrating the honest performance ceiling that rigorous spatial CV produces in heterogeneous landscapes.
 
@@ -4289,7 +4289,7 @@ Thank you for your time and consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4318,7 +4318,7 @@ created: '2026-06-05'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4333,7 +4333,7 @@ Naples, Italy
 
 Dear Dr. Mondillo,
 
-I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in June 2026. Reading your work on mapping hydrothermal and supergene alteration zones in carbonate-hosted Zn-Pb deposits using PRISMA satellite imagery combined with field hyperspectral data and geochemical analysis, I recognized an almost exact methodological parallel with my own thesis, the same multi-source workflow, the same satellite, and critically the same diagnostic spectral region, applied to a different geological problem one step along the mine life cycle.
+I am writing to inquire about postdoctoral opportunities in your group following the defense of my PhD thesis in mid-July 2026. Reading your work on mapping hydrothermal and supergene alteration zones in carbonate-hosted Zn-Pb deposits using PRISMA satellite imagery combined with field hyperspectral data and geochemical analysis, I recognized an almost exact methodological parallel with my own thesis, the same multi-source workflow, the same satellite, and critically the same diagnostic spectral region, applied to a different geological problem one step along the mine life cycle.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco. Chapter 2 used PRISMA satellite imagery (239 bands, 30 m) to map four lithological classes of phosphate waste rock at landscape scale, Phosphate rock, Siliceous facies, Marl, and Limestone, using spatially constrained machine learning (Extra Trees, Random Forest) with ANOVA-based SWIR band selection embedded within each cross-validation fold to prevent feature-selection leakage. The carbonate classes (Marl and Limestone) were the most reliably discriminated, with AUC values consistently above 0.95 in cross-validation, physically expected, since the dolomite absorption at ~2320 nm and calcite at ~2340 nm produce diagnostic SWIR features that PRISMA resolves cleanly. This is precisely the spectral region your Zn-Pb alteration work exploits for carbonate gangue mapping. Chapter 1 built the sample-scale foundation: 104 field samples characterized using ASD FieldSpec 4 VNIR-SWIR spectroscopy, NNLS unmixing against a curated ECOSTRESS library, and cross-validated against HHXRF elemental data (Mg/Ca ratios for dolomite/calcite discrimination, P₂O₅ up to 23.86 wt% for fluorapatite confirmation) and powder XRD on representative samples. Chapter 3 extended the framework to environmental monitoring using EnMAP, developing a novel Reclamation Progress Index (RPI) calibrated against field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) that tracks surface transformation in backfilled waste zones across the 36 km² mine site.
 
@@ -4350,7 +4350,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4380,7 +4380,7 @@ created: '2026-06-06'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4395,7 +4395,7 @@ Hannover, Germany
 
 Dear Dr. Schodlok,
 
-I am writing to inquire about research opportunities at BGR following the defense of my PhD thesis in June 2026. My doctoral work applies satellite hyperspectral remote sensing, including real EnMAP and PRISMA data, not simulation, to mine waste rock characterization and site monitoring at a major phosphate mine in Morocco. I believe this aligns directly with BGR's ongoing work in the MultiMiner project and your group's broader programme on hyperspectral applications for mine site monitoring and raw materials exploration.
+I am writing to inquire about research opportunities at BGR following the defense of my PhD thesis in mid-July 2026. My doctoral work applies satellite hyperspectral remote sensing, including real EnMAP and PRISMA data, not simulation, to mine waste rock characterization and site monitoring at a major phosphate mine in Morocco. I believe this aligns directly with BGR's ongoing work in the MultiMiner project and your group's broader programme on hyperspectral applications for mine site monitoring and raw materials exploration.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group, one of the world's largest phosphate operations. The three chapters address complementary aspects of a mine site characterization problem. Chapter 1 established the spectral-geochemical baseline at sample scale: 104 waste rock samples characterized using ASD FieldSpec 4 VNIR-SWIR spectroscopy and NNLS unmixing against a curated ECOSTRESS library, with cross-validation against HHXRF elemental data and powder XRD, a multi-source mineral characterization approach consistent with BGR's combined use of μ-EDXRF, LIBS, and hyperspectral imaging for advanced mineral analysis. Chapter 2 extended this to landscape scale using real PRISMA satellite imagery (239 bands, 30 m) and spatially constrained machine learning for lithological mapping of four waste rock classes, with honest balanced accuracies of 0.60–0.67 that reflect the physical resolution limit rather than over-fitted cross-validation. Chapter 3 used real EnMAP data (189 valid bands, 418–2445 nm) to develop a novel Reclamation Progress Index (RPI), a satellite-derived surface transformation metric calibrated against independent field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²), mapping reclamation state from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones across the full 36 km² mine site.
 
@@ -4410,7 +4410,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4439,7 +4439,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4454,7 +4454,7 @@ Naples, Italy
 
 Dear Dr. Sorrentino,
 
-I am writing to introduce myself and to explore whether there may be opportunities for collaboration or a research position in your group. I came across your work on PRISMA hyperspectral imagery for alteration zone mapping in the Chilean Andes copper districts, and your recent EnMAP study of structurally-controlled Zn mineralization in the Flinders Ranges, and recognised a direct methodological parallel with my own doctoral work, which I am defending in June 2026.
+I am writing to introduce myself and to explore whether there may be opportunities for collaboration or a research position in your group. I came across your work on PRISMA hyperspectral imagery for alteration zone mapping in the Chilean Andes copper districts, and your recent EnMAP study of structurally-controlled Zn mineralization in the Flinders Ranges, and recognised a direct methodological parallel with my own doctoral work, which I am defending in mid-July 2026.
 
 My thesis applies PRISMA and EnMAP satellite hyperspectral data to the characterisation and environmental monitoring of phosphate mine waste rocks at Benguerir, Morocco (OCP Group). The three chapters cover field spectroscopy and geochemical baseline (ASD FieldSpec 4, NNLS unmixing, XRD and HHXRF validation, 104 samples), PRISMA-based landscape lithological mapping using spatially constrained machine learning (balanced accuracies of 0.60–0.67 for four waste rock classes under a 30 m buffer cross-validation), and EnMAP-based reclamation monitoring using a novel Reclamation Progress Index calibrated against field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The PRISMA processing pipeline, from raw HDF5 ingestion through atmospheric correction assessment, bad band removal, and spectral unmixing, is the same sensor workflow you use, applied to a different geological context.
 
@@ -4469,7 +4469,7 @@ Thank you for your time.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4509,7 +4509,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4525,7 +4525,7 @@ Oberpfaffenhofen, Germany
 
 Dear Dr. Storch,
 
-I am writing to inquire about postdoctoral opportunities in the Imaging Spectroscopy Department following the defense of my PhD thesis in June 2026. My doctoral work at UM6P is, to my knowledge, one of the first studies to apply actual [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] satellite data, not simulated, to mine waste rock characterisation and [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|reclamation monitoring]] with independent geochemical ground truth validation. I believe this constitutes a relevant applied science contribution to IMF's imaging spectroscopy programme, and I would like to discuss whether there is a fit with your department's current directions.
+I am writing to inquire about postdoctoral opportunities in the Imaging Spectroscopy Department following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P is, to my knowledge, one of the first studies to apply actual [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] satellite data, not simulated, to mine waste rock characterisation and [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|reclamation monitoring]] with independent geochemical ground truth validation. I believe this constitutes a relevant applied science contribution to IMF's imaging spectroscopy programme, and I would like to discuss whether there is a fit with your department's current directions.
 
 My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, a 36 km² open-pit operation that provided a geometrically complex, mineralogically rich, semi-arid test site for EnMAP performance evaluation. Chapter 3 used 189 valid EnMAP bands (418–2445 nm) for two purposes: first, to discriminate reclaimed (backfilled) waste rock zones from undisturbed reference areas using [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|spatially blocked classification]]; second, to develop a novel [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]], an EnMAP-derived surface transformation metric calibrated against 64 independent [[04_Knowledge Base/wiki/concepts/Handheld XRF|XRF]] geochemical measurements from both zones (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The XRF calibration provides a quantitative geoscience benchmark that goes beyond binary classification, it ties each EnMAP pixel's spectral state to a measurable geochemical quantity, mapping reclamation progress from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones. This type of geochemically-anchored EnMAP validation, carried out at an operational mine site in North Africa, extends the sensor's demonstrated application envelope in directions relevant to the critical minerals and environmental monitoring priorities that currently drive imaging spectroscopy science.
 
@@ -4540,7 +4540,7 @@ Thank you for your consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4576,7 +4576,7 @@ created: '2026-06-08'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4591,7 +4591,7 @@ Rouyn-Noranda, Quebec, Canada
 
 Dear Professor Valeria,
 
-I am writing to express my interest in joining your research group as a postdoctoral researcher following the defense of my PhD thesis in June 2026. My doctoral work at UM6P focuses on multi-scale hyperspectral remote sensing for mineralogical characterization and reclamation monitoring of phosphate mine waste rocks, a context that connects directly with your group's work on landscape-scale monitoring and forest dynamics in Abitibi-Témiscamingue, a region where mining and boreal forest ecosystems are in sustained contact.
+I am writing to express my interest in joining your research group as a postdoctoral researcher following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P focuses on multi-scale hyperspectral remote sensing for mineralogical characterization and reclamation monitoring of phosphate mine waste rocks, a context that connects directly with your group's work on landscape-scale monitoring and forest dynamics in Abitibi-Témiscamingue, a region where mining and boreal forest ecosystems are in sustained contact.
 
 My thesis developed a three-chapter multi-scale framework combining field spectroscopy (ASD FieldSpec 4), PRISMA satellite imagery (239 bands, 30 m), and EnMAP data to characterize mine waste rock mineralogy and quantify reclamation progress. The central methodological contribution is the Reclamation Progress Index (RPI), a novel satellite-derived metric calibrated against field XRF geochemistry (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) that tracks the surface transformation of backfilled mine waste at landscape scale. The geochemical concordance and consistency under spatially blocked cross-validation demonstrated that spaceborne hyperspectral data can serve as an operational monitoring tool for environmental reclamation, a capability with direct relevance to post-mining revegetation and ecosystem recovery monitoring in Quebec's mining belt.
 
@@ -4606,7 +4606,7 @@ Thank you for your time and consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defended June 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4645,7 +4645,7 @@ created: '2026-06-09'
 ---
 
 **Abdelhak EL MANSOUR**
-PhD, Geology and Sustainable Mining Institute (GSMI)
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
 Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
 
@@ -4659,11 +4659,11 @@ Wageningen University & Research, Wageningen, Netherlands
 
 Dear Members of the Hiring Committee,
 
-I am writing to apply for the Remote Sensing Scientist position at WUR's Laboratory of Geo-Information Science and Remote Sensing. I will defend my PhD thesis on June 30, 2026, and am available from July 2026. My doctoral research has produced an operational multi-scale hyperspectral remote sensing framework combining field spectroscopy, PRISMA satellite data, and EnMAP satellite data for geoscience applications, a toolkit directly aligned with the requirements described in this role.
+I am writing to apply for the Remote Sensing Scientist position at WUR's Laboratory of Geo-Information Science and Remote Sensing. I will defend my PhD thesis in mid-July 2026, and am available from July 2026. My doctoral research has produced an operational multi-scale hyperspectral remote sensing framework combining field spectroscopy, PRISMA satellite data, and EnMAP satellite data for geoscience applications, a toolkit directly aligned with the requirements described in this role.
 
 My thesis addresses a complex monitoring problem at the Benguerir phosphate mine (OCP Group, Morocco): tracking the surface transformation of waste rock piles from geochemically active, unvegetated states toward progressively reclaimed, biologically stabilizing surfaces. The work required developing and validating EO-derived indicators at multiple spatial and spectral scales. Chapter 1 built the spectral-geochemical foundation: 104 field samples measured with an ASD FieldSpec 4 spectroradiometer (350–2500 nm) and validated with handheld XRF geochemistry, resolving carbonate, clay, and phosphate mineral assemblages (mean R² = 0.748, 84% of spectra R² > 0.70). Chapter 2 scaled this to PRISMA satellite imagery (239 bands, 30 m), developing a spatially constrained classification pipeline for four lithological classes using Random Forest and Extra Trees with blocked spatial cross-validation (10 replicates, 30 m buffer, 127 field samples; BAC = 0.60–0.67, AUC > 0.95 for carbonates). Chapter 3 built an EnMAP-based (189 valid bands, 418–2445 nm) spectral unmixing pipeline, VCA endmember extraction (k = 4) → FCLS abundance mapping → isotonic regression calibration against XRF ground truth, producing a Reclamation Progress Index (RPI) validated at 64 spatially independent field locations (BAC = 0.984 ± 0.031, AUC = 1.000, Spearman ρ = 0.845, p = 1.74 × 10⁻¹²).
 
-WUR's remote sensing group operates at the intersection of multi-source EO data, biophysical variable retrieval, and applied geoscience, the same axis along which my research sits. I am experienced with the full processing chain from raw satellite data (HDF5 format for PRISMA and EnMAP) to validated geoscience products: atmospheric correction, bad-band removal, spectral calibration, classification, and spatial accuracy assessment. My Python production pipeline (1,776 lines) handles this end-to-end and is documented for reproducibility. I am also comfortable with drone and field spectroscopy data, having built a ground-truth database that directly informed satellite model training and validation across both chapters.
+WUR's remote sensing group operates at the intersection of multi-source EO data, biophysical variable retrieval, and applied geoscience, the same axis along which my research sits. I am experienced with the full processing chain from raw satellite data (HDF5 format for PRISMA and EnMAP) to validated geoscience products: atmospheric correction, bad-band removal, spectral calibration, classification, and spatial accuracy assessment. My Python production pipeline handles this end-to-end and is documented for reproducibility. I am also comfortable with drone and field spectroscopy data, having built a ground-truth database that directly informed satellite model training and validation across both chapters.
 
 I have published five peer-reviewed papers (first-author on 2, co-author on 3, including *Sensors* 2026, IJEST 2024, and a first-author paper accepted in *Minerals* 2026), with a sixth targeting ISPRS or Remote Sensing of Environment post-defense. I have presented at EGU 2025 (Vienna) and EARSeL 2024 (Tartu).
 
@@ -4674,7 +4674,7 @@ Thank you for your consideration.
 Sincerely,
 
 **Abdelhak EL MANSOUR**
-PhD (defending June 30, 2026), Remote Sensing and Environmental Geosciences
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
 UM6P, GSMI, Benguerir, Morocco
 
 ---
@@ -4732,7 +4732,7 @@ Subject: Hyperspectral Scientist Application - Abdelhak EL MANSOUR
 
 Dear Pixxel Hiring Team,
 
-I am writing to apply for the Hyperspectral Scientist position. I am defending my PhD at UM6P (Morocco) on June 30, with a thesis focused on multi-scale hyperspectral remote sensing for mine waste characterization and reclamation monitoring.
+I am writing to apply for the Hyperspectral Scientist position. I am defending my PhD at UM6P (Morocco) on mid-July 2026, with a thesis focused on multi-scale hyperspectral remote sensing for mine waste characterization and reclamation monitoring.
 
 Over the past four years I built operational Python pipelines for EnMAP and PRISMA satellite data, covering atmospheric correction, bad-band removal, spectral unmixing (VCA-FCLS), and spatial-spectral CNN classification. The results are published in four peer-reviewed papers and validated against geochemical ground truth at a real mine site.
 
@@ -4765,9 +4765,9 @@ Bengaluru, India
 
 Dear Hiring Team,
 
-I am applying for the Hyperspectral Scientist position at Pixxel. I am a PhD candidate at UM6P in Morocco, defending my thesis on June 30, 2026. My research sits at the intersection of satellite hyperspectral imaging, geochemical validation, and machine learning - which maps directly onto what Pixxel is building.
+I am applying for the Hyperspectral Scientist position at Pixxel. I am a PhD candidate at UM6P in Morocco, defending my thesis in mid-July 2026. My research sits at the intersection of satellite hyperspectral imaging, geochemical validation, and machine learning - which maps directly onto what Pixxel is building.
 
-My thesis title is: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine." Over the course of the PhD, I built and validated a full end-to-end Python processing pipeline for EnMAP and PRISMA hyperspectral data. The pipeline handles radiometric calibration, atmospheric correction (ACO-based), bad-band detection, geometric co-registration, spectral unmixing (VCA-FCLS), and mineral classification using both Random Forest and a Squeeze-and-Excitation CNN. Every output was validated against 312 geochemical samples collected in the field.
+My thesis title is: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine." Over the course of the PhD, I built and validated a full end-to-end Python processing pipeline for EnMAP and PRISMA hyperspectral data. The pipeline handles radiometric calibration, atmospheric correction (ACO-based), bad-band detection, geometric co-registration, spectral unmixing (VCA-FCLS), and mineral classification using both Random Forest and a Squeeze-and-Excitation CNN. Every output was validated against 104 samples for sample-scale calibration and 127 samples for landscape-scale validation collected in the field.
 
 This is not a theoretical exercise. The pipeline runs on real satellite acquisitions, produces mineralogical maps at 30m resolution, and has been used to monitor the temporal evolution of a reclamation program at the Benguerir mine of OCP Group - one of the world's largest phosphate producers.
 
@@ -4791,7 +4791,7 @@ Abdelhak EL MANSOUR
 
 ## 2. Barrick Gold - Exploration Remote Sensing Lead
 
-**Why now:** Live open position on ZipRecruiter (posted June 2026). Salt Lake City, UT - listed as remote-eligible. Job description specifically mentions alteration mineral mapping (white mica, phyllosilicates) - the exact mineralogical classes Abdelhak mapped in his thesis. Fit score: 9/10.
+**Why now:** Live open position on ZipRecruiter (posted mid-July 2026). Salt Lake City, UT - listed as remote-eligible. Job description specifically mentions alteration mineral mapping (white mica, phyllosilicates) - the exact mineralogical classes Abdelhak mapped in his thesis. Fit score: 9/10.
 
 **Apply at:** https://www.ziprecruiter.com/c/Barrick-Gold-Corporation/Job/Exploration-Remote-Sensing-Lead/-in-Salt-Lake-City,UT?jid=4a04188a2f2c51cc
 (Also check barrick.com/careers directly.)
@@ -4805,7 +4805,7 @@ Subject: Exploration Remote Sensing Lead - Abdelhak EL MANSOUR
 
 Dear Hiring Team,
 
-I am writing about the Exploration Remote Sensing Lead position. I am finishing my PhD (defense June 30) on hyperspectral remote sensing for mineralogical mapping of mine waste, with a specific focus on alteration mineral detection using EnMAP and PRISMA satellite data.
+I am writing about the Exploration Remote Sensing Lead position. I am finishing my PhD (defense mid-July 2026) on hyperspectral remote sensing for mineralogical mapping of mine waste, with a specific focus on alteration mineral detection using EnMAP and PRISMA satellite data.
 
 My thesis required mapping carbonate, phyllosilicate, and iron oxide phases across a large mine site using a Python pipeline I built from scratch - covering spectral unmixing, endmember extraction, and spatial-spectral classification. That work was done in direct collaboration with OCP Group at an operational phosphate mine.
 
@@ -4839,7 +4839,7 @@ I am applying for the Exploration Remote Sensing Lead position. My background co
 
 My PhD thesis is titled: "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine, Morocco." Four years of work, four publications, one operational Python pipeline, one real mine. The Benguerir site belongs to OCP Group, the world's largest phosphate exporter, and the research was conducted under their data-sharing agreement.
 
-The core technical work: I developed an alteration mineral mapping workflow using PRISMA and EnMAP hyperspectral satellite data. This included preprocessing (atmospheric correction, bad-band removal, geometric alignment), spectral endmember extraction (VCA), constrained unmixing (FCLS), and supervised classification (Random Forest and Squeeze-and-Excitation CNN). I mapped carbonate minerals, clay and phyllosilicate phases, iron oxides, and silicate gangue at 30m satellite resolution, then validated against 312 geochemical samples.
+The core technical work: I developed an alteration mineral mapping workflow using PRISMA and EnMAP hyperspectral satellite data. This included preprocessing (atmospheric correction, bad-band removal, geometric alignment), spectral endmember extraction (VCA), constrained unmixing (FCLS), and supervised classification (Random Forest and Squeeze-and-Excitation CNN). I mapped carbonate minerals, clay and phyllosilicate phases, iron oxides, and silicate gangue at 30m satellite resolution, then validated against 104 samples for sample-scale calibration and 127 samples for landscape-scale validation.
 
 That is the core technical loop the Exploration Remote Sensing Lead role at Barrick requires. Designing and implementing alteration mineral mapping workflows from satellite data is what I spent four years doing.
 
@@ -4851,7 +4851,7 @@ What I offer:
 - 4 publications in peer-reviewed remote sensing journals
 - Willingness to relocate or work remotely
 
-My defense is June 30, 2026. I am available to start July 2026 or later by agreement.
+My defense is mid-July 2026. I am available to start July 2026 or later by agreement.
 
 Sincerely,
 Abdelhak EL MANSOUR
@@ -4861,7 +4861,7 @@ Abdelhak EL MANSOUR
 
 ## 3. Dr. Tobias Storch - DLR IMF, Oberpfaffenhofen
 
-**Why:** DLR Institute of Optical Sensor Systems built and operates EnMAP. Abdelhak built the most operationally complete external EnMAP processing pipeline to date. There is no stronger technical match in Europe. This spontaneous email should go NOW - before defense - with the framing of "defending June 30, available July 1."
+**Why:** DLR Institute of Optical Sensor Systems built and operates EnMAP. Abdelhak built the most operationally complete external EnMAP processing pipeline to date. There is no stronger technical match in Europe. This spontaneous email should go NOW - before defense - with the framing of "defending mid-July 2026, available July 1."
 
 **Send to:** tobias.storch@dlr.de (check dlr.de for exact address if needed)
 
@@ -4877,7 +4877,7 @@ Dear Dr. Storch,
 
 I am writing spontaneously to inquire about postdoctoral opportunities in your group at DLR IMF.
 
-I am defending my PhD at UM6P (Morocco) on June 30, 2026. My thesis develops an operational processing chain for EnMAP and PRISMA hyperspectral data for mine waste mineralogical characterization. Over four years I built a 1,776-line Python pipeline handling the full processing stack: ACO atmospheric correction, bad-band detection, VCA endmember extraction, FCLS unmixing, and spatial-spectral CNN classification. The outputs are validated against ground-truth geochemistry at the Benguerir phosphate mine.
+I am defending my PhD at UM6P (Morocco) in mid-July 2026. My thesis develops an operational processing chain for EnMAP and PRISMA hyperspectral data for mine waste mineralogical characterization. Over four years I built a Python processing pipeline handling the full processing stack: ACO atmospheric correction, bad-band detection, VCA endmember extraction, FCLS unmixing, and spatial-spectral CNN classification. The outputs are validated against ground-truth geochemistry at the Benguerir phosphate mine.
 
 I chose to contact you specifically because your group built EnMAP. The technical expertise I developed is directly connected to the instrument your team designed and operates. I would like to bring that operational experience back into the community that made it possible.
 
@@ -4909,9 +4909,9 @@ Oberpfaffenhofen, Germany
 
 Dear Dr. Storch,
 
-I am writing to express my interest in a postdoctoral position within your group at DLR IMF. I will defend my PhD thesis on June 30, 2026, and I am actively looking for a position in hyperspectral remote sensing science and instrumentation.
+I am writing to express my interest in a postdoctoral position within your group at DLR IMF. I will defend my PhD thesis in mid-July 2026, and I am actively looking for a position in hyperspectral remote sensing science and instrumentation.
 
-My thesis - "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks" - was built around EnMAP and PRISMA data. I developed a fully operational Python processing chain for both sensors, going from raw Level-1B HDF5 products to validated mineralogical maps. The pipeline covers atmospheric correction (ACO), spatial co-registration, bad-band masking, spectral unmixing via VCA-FCLS, and machine learning classification (Random Forest and SCSE-CNN). Every classification output was validated against 312 ground-truth geochemical samples.
+My thesis - "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks" - was built around EnMAP and PRISMA data. I developed a fully operational Python processing chain for both sensors, going from raw Level-1B HDF5 products to validated mineralogical maps. The pipeline covers atmospheric correction (ACO), spatial co-registration, bad-band masking, spectral unmixing via VCA-FCLS, and machine learning classification (Random Forest and SCSE-CNN). Every classification output was validated against 104 samples for sample-scale calibration and 127 samples for landscape-scale validation.
 
 I am first author on two papers in Sensors (MDPI, 2025, doi:10.3390/s26010002) and Minerals (MDPI, 2026), and co-author on several additional papers published during my PhD.
 
@@ -4945,7 +4945,7 @@ Dear Prof. Chabrillat,
 
 I am writing to inquire about postdoctoral opportunities in your group at GFZ Section 1.4.
 
-I am a PhD candidate at UM6P (Morocco), defending on June 30, 2026, with a thesis on hyperspectral remote sensing for mineralogical characterization of phosphate mine waste. I built operational Python processing pipelines for EnMAP and PRISMA data, covering atmospheric correction, spectral unmixing (VCA-FCLS), and CNN-based classification. The outputs were validated against geochemical ground truth at the Benguerir mine.
+I am a PhD candidate at UM6P (Morocco), defending mid-July 2026, with a thesis on hyperspectral remote sensing for mineralogical characterization of phosphate mine waste. I built operational Python processing pipelines for EnMAP and PRISMA data, covering atmospheric correction, spectral unmixing (VCA-FCLS), and CNN-based classification. The outputs were validated against geochemical ground truth at the Benguerir mine.
 
 Your group's work on geological and soil hyperspectral applications with EnMAP is the scientific context that frames my thesis. I also noticed that GFZ is running a Discovery Fellowships call for 2027-2029 - I would be glad to discuss a joint proposal if that format fits your current directions.
 
@@ -4977,13 +4977,13 @@ Potsdam, Germany
 
 Dear Prof. Chabrillat,
 
-I am writing to express my interest in a postdoctoral position in your group at GFZ Section 1.4. I will defend my PhD at UM6P (Morocco) on June 30, 2026, and I am looking for a research environment where operational hyperspectral geoscience is the core mission.
+I am writing to express my interest in a postdoctoral position in your group at GFZ Section 1.4. I will defend my PhD at UM6P (Morocco) in mid-July 2026, and I am looking for a research environment where operational hyperspectral geoscience is the core mission.
 
 My thesis, "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine," is built around EnMAP and PRISMA satellite data applied to a real mining environment. The scientific objective was to characterize and monitor the mineral composition of phosphate waste rock piles during their progressive reclamation by OCP Group.
 
-To achieve this, I developed a full Python processing chain. Starting from Level-1B raw HDF5 products, the pipeline performs atmospheric correction (ACO), spatial co-registration, bad-band detection, geometric resampling, spectral endmember extraction (VCA), constrained unmixing (FCLS), and supervised classification using both Random Forest and a spatial-spectral Squeeze-and-Excitation CNN. Classification outputs were validated against 312 geochemical and mineralogical samples collected in four field campaigns.
+To achieve this, I developed a full Python processing chain. Starting from Level-1B raw HDF5 products, the pipeline performs atmospheric correction (ACO), spatial co-registration, bad-band detection, geometric resampling, spectral endmember extraction (VCA), constrained unmixing (FCLS), and supervised classification using both Random Forest and a spatial-spectral Squeeze-and-Excitation CNN. Classification outputs were validated against a geochemically-ground-truthed dataset of 104 samples for sample-scale calibration and 127 samples for landscape-scale validation.
 
-Four papers were published during the PhD: two focused on field-scale spectroscopy, one on airborne data, and one on satellite-scale integration.
+My research has resulted in five peer-reviewed publications (two first-author and three co-author) focusing on spectroscopy and satellite-scale integration.
 
 The reason I am writing to your group specifically is the alignment between my work and your section's research program. Your group has advanced the use of EnMAP for geological and soil characterization problems in ways that directly informed my methodological choices. A postdoctoral position in Section 1.4 would allow me to take operational mine-scale hyperspectral mapping into broader environmental and geological applications.
 
@@ -5015,7 +5015,7 @@ Dear Dr. Gloaguen,
 
 I am writing to inquire about postdoctoral opportunities in your group at HZDR.
 
-I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026. My research applies EnMAP and PRISMA hyperspectral satellite data to mineralogical mapping and reclamation monitoring of phosphate mine waste at the Benguerir mine. I built a complete Python processing pipeline and validated classification outputs against 312 geochemical samples in four field campaigns.
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026. My research applies EnMAP and PRISMA hyperspectral satellite data to mineralogical mapping and reclamation monitoring of phosphate mine waste at the Benguerir mine. I built a complete Python processing pipeline and validated classification outputs against 104 samples for sample-scale calibration and 127 samples for landscape-scale validation in four field campaigns.
 
 Your group's work on hyperspectral imaging for geological and mining applications is the closest match I have found in Europe to the work I have been doing. I am particularly interested in extending my research toward resource estimation and drill core hyperspectral analysis, directions your group has pioneered.
 
@@ -5047,11 +5047,11 @@ Dresden, Germany
 
 Dear Dr. Gloaguen,
 
-I am writing to inquire about postdoctoral openings in your group at HZDR. I defend my PhD at UM6P on June 30, 2026, and I am looking for a research position in Europe where mine-focused hyperspectral imaging is the central problem.
+I am writing to inquire about postdoctoral openings in your group at HZDR. I defend my PhD at UM6P in mid-July 2026, and I am looking for a research position in Europe where mine-focused hyperspectral imaging is the central problem.
 
 My thesis - "Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine" - combines field spectroscopy, airborne imaging, and satellite data (EnMAP and PRISMA) to track the mineralogical evolution of waste rock piles across a large phosphate mine. The research was conducted in close collaboration with OCP Group, who provided site access, geochemical data, and logistical support across four field campaigns.
 
-On the technical side, I developed an operational Python pipeline for EnMAP and PRISMA Level-1B HDF5 data: atmospheric correction (ACO), bad-band masking, spatial co-registration, VCA endmember extraction, FCLS constrained unmixing, and classification using both Random Forest and a Squeeze-and-Excitation CNN. The classification results were validated against 312 geochemical samples covering carbonate, phyllosilicate, iron oxide, and silicate phases.
+On the technical side, I developed an operational Python pipeline for EnMAP and PRISMA Level-1B HDF5 data: atmospheric correction (ACO), bad-band masking, spatial co-registration, VCA endmember extraction, FCLS constrained unmixing, and classification using both Random Forest and a Squeeze-and-Excitation CNN. The classification results were validated against 104 samples for sample-scale calibration and 127 samples for landscape-scale validation covering carbonate, phyllosilicate, iron oxide, and silicate phases.
 
 I am first author on two papers in Sensors (MDPI, 2025) and Minerals (MDPI, 2026), and co-author on several additional papers published during my PhD.
 
@@ -5101,7 +5101,7 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 > 
 > I hope this message finds you well. 
 > 
-> I am reaching out spontaneously to express my interest in joining Egis's team in Qatar. I am a Remote Sensing Scientist and PhD Candidate at UM6P (defending June 30, 2026), specializing in satellite earth observation, hyperspectral imaging, and machine learning pipelines for environmental monitoring.
+> I am reaching out spontaneously to express my interest in joining Egis's team in Qatar. I am a Remote Sensing Scientist and PhD Candidate at UM6P (defending mid-July 2026), specializing in satellite earth observation, hyperspectral imaging, and machine learning pipelines for environmental monitoring.
 > 
 > Having followed Egis’s pioneering engineering and consulting projects in the Middle East, I am eager to apply my expertise in scalable remote sensing solutions to your environmental, infrastructure, and sustainability projects in Qatar. Being bilingual (English/French/Arabic) and trained in French-Moroccan academic systems, I align well with Egis's international collaborative work environment.
 > 
@@ -5126,7 +5126,7 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 > 
 > I am writing to spontaneously express my strong interest in joining Egis in Qatar. As a premier global engineering and consulting group, Egis's work in infrastructure and environmental sustainability aligns perfectly with my background and professional goals.
 > 
-> I am a Remote Sensing Scientist and PhD Candidate at UM6P (Morocco), set to defend my thesis on June 30, 2026. My research focuses on developing multi-scale remote sensing frameworks and machine learning pipelines to analyze satellite imagery (including PRISMA and EnMAP) for environmental monitoring and mineralogical characterization. 
+> I am a Remote Sensing Scientist and PhD Candidate at UM6P (Morocco), set to defend my thesis in mid-July 2026. My research focuses on developing multi-scale remote sensing frameworks and machine learning pipelines to analyze satellite imagery (including PRISMA and EnMAP) for environmental monitoring and mineralogical characterization. 
 > 
 > Over the course of my research, I have built operational, high-performance Python pipelines that transform raw satellite data into actionable environmental metrics. I am highly motivated to bring this capability - along with my bilingual fluency in English, French, and Arabic - to support Egis's consulting and engineering projects in the GCC region.
 > 
@@ -5175,7 +5175,7 @@ Available: from September 2026 | Open to relocation (Netherlands)
 
 **Spectral analysis:** VCA-FCLS spectral unmixing, USGS/ECOSTRESS spectral library matching, SAM/SID/NNLS, band selection, endmember extraction
 
-**Python stack:** scikit-learn, GDAL, rasterio, spectral, numpy, pandas, matplotlib, Jupyter - end-to-end production pipelines (1,776-line EnMAP processing engine)
+**Python stack:** scikit-learn, GDAL, rasterio, spectral, numpy, pandas, matplotlib, Jupyter - end-to-end production pipelines (EnMAP processing engine)
 
 **Ecosystem & environmental monitoring:** Reclamation progress tracking, vegetation/soil spectral signatures, EBV-compatible index design, ground-truth validation (XRD/XRF/HHXRF), ASD FieldSpec 4 field spectroscopy
 
@@ -5213,7 +5213,7 @@ Geological exploration and field mapping (Occidental Meseta, Anti-Atlas, High At
 
 ## Education
 
-**PhD in Applied Geosciences** - UM6P, Morocco (defending June 30, 2026)
+**PhD in Applied Geosciences** - UM6P, Morocco (defending mid-July 2026)
 *Thesis: Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks, Benguerir Mine*
 
 **MSc in Applied Geosciences** (Mineral & Energetic Resources) - Cadi Ayyad University, 2017
@@ -5262,7 +5262,7 @@ created: '2026-06-04'
 
 Abdelhak EL MANSOUR
 elmansour01abdelhak@gmail.com | +212 117 164 00
-Benguerir, Morocco | June 2026
+Benguerir, Morocco | mid-July 2026
 
 Faculty of Geo-Information Science and Earth Observation (ITC)
 University of Twente
@@ -5272,7 +5272,7 @@ Enschede, Netherlands
 
 Dear Search Committee,
 
-I am applying for the Postdoctoral Researcher position on Biodiversity-Positive Renewable Energy Transitions at ITC, University of Twente. I will defend my PhD at UM6P (Morocco) on June 30, 2026, and I am available to start no later than September 2026.
+I am applying for the Postdoctoral Researcher position on Biodiversity-Positive Renewable Energy Transitions at ITC, University of Twente. I will defend my PhD at UM6P (Morocco) in mid-July 2026, and I am available to start no later than September 2026.
 
 My PhD research used PRISMA and EnMAP hyperspectral satellite data to monitor ecosystem recovery at a large phosphate mine in Benguerir, Morocco. The core outcome of my thesis is a novel index - the Reclamation Progress Index (RPI) - derived directly from EnMAP spectral signatures, validated against XRF geochemical ground truth (Spearman ρ = 0.845, p = 1.74 × 10⁻¹², AUC = 1.000). The RPI quantifies the degree to which a disturbed landscape is recovering its functional mineral and vegetation composition over time. In essence, it is an EO-based proxy for ecosystem state - closely aligned with the concept of Essential Biodiversity Variables that your project deploys to track biodiversity change under renewable energy infrastructure.
 
@@ -5360,7 +5360,7 @@ created: '2026-06-04'
 
 **To:** tobias.storch@dlr.de
 **CC:** sarah.asam@dlr.de
-**Subject:** Postdoctoral Researcher Inquiry - Hyperspectral EO & EnMAP Applications (PhD defended June 2026)
+**Subject:** Postdoctoral Researcher Inquiry - Hyperspectral EO & EnMAP Applications (PhD defending mid-July 2026)
 
 ---
 
@@ -5368,11 +5368,11 @@ Dear Dr. Storch,
 
 I am writing to inquire about postdoctoral opportunities at DLR IMF in hyperspectral remote sensing and EnMAP applications.
 
-I defended my PhD at UM6P (Morocco) on June 30, 2026. My thesis - *Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks* - was built on PRISMA and EnMAP satellite data, and produced a validated operational product: the Reclamation Progress Index (RPI), derived from EnMAP spectral unmixing (VCA-FCLS), with AUC = 1.000 and Spearman ρ = 0.845 against XRF ground truth (p = 1.74 × 10⁻¹²).
+I defended my PhD at UM6P (Morocco) in mid-July 2026. My thesis - *Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks* - was built on PRISMA and EnMAP satellite data, and produced a validated operational product: the Reclamation Progress Index (RPI), derived from EnMAP spectral unmixing (VCA-FCLS), with AUC = 1.000 and Spearman ρ = 0.845 against XRF ground truth (p = 1.74 × 10⁻¹²).
 
 My technical stack maps directly onto the work of your group:
 
-- End-to-end EnMAP processing pipelines in Python (1,776-line engine: atmospheric correction, bad-band removal, endmember extraction, unmixing, validation)
+- End-to-end EnMAP processing pipelines in Python (processing engine: atmospheric correction, bad-band removal, endmember extraction, unmixing, validation)
 - PRISMA + EnMAP hyperspectral classification (Random Forest, Extra Trees, spatial CV)
 - Spectral library matching (USGS/ECOSTRESS), SAM/SID/NNLS, VCA-FCLS unmixing
 - 4 peer-reviewed publications during PhD; 2 more in pipeline
