@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 470 | **Total Word Count**: ~86298 words
+> **Total Files Compiled**: 485 | **Total Word Count**: ~89942 words
 
 ## 📂 Table of Contents
 
@@ -32,6 +32,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/MOCs/Hyperspectral Remote Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-hyperspectral-remote-sensing-moc-md) (~447 words)
 - [04_Knowledge Base/wiki/MOCs/Machine-Learning MOC.md](#-file-04_knowledge-base-wiki-mocs-machine-learning-moc-md) (~44 words)
 - [04_Knowledge Base/wiki/MOCs/Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-mineralogy-moc-md) (~127 words)
+- [04_Knowledge Base/wiki/MOCs/Pre-PhD Geological Studies MOC.md](#-file-04_knowledge-base-wiki-mocs-pre-phd-geological-studies-moc-md) (~111 words)
 - [04_Knowledge Base/wiki/MOCs/Reclamation MOC.md](#-file-04_knowledge-base-wiki-mocs-reclamation-moc-md) (~101 words)
 - [04_Knowledge Base/wiki/MOCs/Remote-Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-remote-sensing-moc-md) (~43 words)
 - [04_Knowledge Base/wiki/MOCs/Visualization MOC.md](#-file-04_knowledge-base-wiki-mocs-visualization-moc-md) (~31 words)
@@ -375,8 +376,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/AMICS Spectrum Tree.md](#-file-04_knowledge-base-wiki-concepts-amics-spectrum-tree-md) (~441 words)
 - [04_Knowledge Base/wiki/concepts/AMICS Target Mineral Quantification.md](#-file-04_knowledge-base-wiki-concepts-amics-target-mineral-quantification-md) (~405 words)
 - [04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability.md](#-file-04_knowledge-base-wiki-concepts-anova-wavelength-ranking-&-selection-stability-md) (~347 words)
+- [04_Knowledge Base/wiki/concepts/Adoudounian Copper Mineralization.md](#-file-04_knowledge-base-wiki-concepts-adoudounian-copper-mineralization-md) (~255 words)
+- [04_Knowledge Base/wiki/concepts/Anti-Atlas Pluton Geochemical Classification.md](#-file-04_knowledge-base-wiki-concepts-anti-atlas-pluton-geochemical-classification-md) (~253 words)
 - [04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md](#-file-04_knowledge-base-wiki-concepts-atmospheric-absorption-windows-in-prisma-md) (~373 words)
 - [04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping.md](#-file-04_knowledge-base-wiki-concepts-benguerir-site-scale-oxide-&-mineral-dominance-mapping-md) (~325 words)
+- [04_Knowledge Base/wiki/concepts/Beni Bousera Metapelites.md](#-file-04_knowledge-base-wiki-concepts-beni-bousera-metapelites-md) (~198 words)
 - [04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics.md](#-file-04_knowledge-base-wiki-concepts-chapter-1-cohort-spectral-similarity-metrics-md) (~340 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-benguerir-scene-hdf5-md) (~249 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-false-color-composition-r-md) (~263 words)
@@ -407,10 +411,12 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-ecostress-application-in-thesis-chapter-1-md) (~450 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Library File Structure and Naming.md](#-file-04_knowledge-base-wiki-concepts-ecostress-library-file-structure-and-naming-md) (~367 words)
 - [04_Knowledge Base/wiki/concepts/ECOSTRESS Spectral Library.md](#-file-04_knowledge-base-wiki-concepts-ecostress-spectral-library-md) (~390 words)
+- [04_Knowledge Base/wiki/concepts/Electrical Resistivity Tomography (ERT) for Aquifer Studies.md](#-file-04_knowledge-base-wiki-concepts-electrical-resistivity-tomography-(ert)-for-aquifer-studies-md) (~264 words)
 - [04_Knowledge Base/wiki/concepts/EnMAP Satellite.md](#-file-04_knowledge-base-wiki-concepts-enmap-satellite-md) (~532 words)
 - [04_Knowledge Base/wiki/concepts/Ensemble Spectral Band Selection — Feilhauer Method.md](#-file-04_knowledge-base-wiki-concepts-ensemble-spectral-band-selection-—-feilhauer-method-md) (~326 words)
 - [04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier.md](#-file-04_knowledge-base-wiki-concepts-ensemble-voting-classifier-md) (~334 words)
 - [04_Knowledge Base/wiki/concepts/Feature Selection & Validation Ablation Studies.md](#-file-04_knowledge-base-wiki-concepts-feature-selection-&-validation-ablation-studies-md) (~799 words)
+- [04_Knowledge Base/wiki/concepts/Ganntour Basin Phosphatogenesis.md](#-file-04_knowledge-base-wiki-concepts-ganntour-basin-phosphatogenesis-md) (~249 words)
 - [04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting.md](#-file-04_knowledge-base-wiki-concepts-gantour-basin-and-benguerir-mine-geological-setting-md) (~261 words)
 - [04_Knowledge Base/wiki/concepts/Geochemical Summary Statistics by Lithological Class.md](#-file-04_knowledge-base-wiki-concepts-geochemical-summary-statistics-by-lithological-class-md) (~376 words)
 - [04_Knowledge Base/wiki/concepts/GrosFichiers-SAADAOUI Collaboration Dataset.md](#-file-04_knowledge-base-wiki-concepts-grosfichiers-saadaoui-collaboration-dataset-md) (~262 words)
@@ -419,12 +425,15 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Handheld XRF.md](#-file-04_knowledge-base-wiki-concepts-handheld-xrf-md) (~508 words)
 - [04_Knowledge Base/wiki/concepts/Hyperspectral Imaging.md](#-file-04_knowledge-base-wiki-concepts-hyperspectral-imaging-md) (~503 words)
 - [04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles.md](#-file-04_knowledge-base-wiki-concepts-integrated-sample-level-mineralogical-geochemical-profiles-md) (~369 words)
+- [04_Knowledge Base/wiki/concepts/Jbel N'Zourk Copper Deposit.md](#-file-04_knowledge-base-wiki-concepts-jbel-n'zourk-copper-deposit-md) (~236 words)
 - [04_Knowledge Base/wiki/concepts/Landscape-Scale Florida Phosphate Reclamation.md](#-file-04_knowledge-base-wiki-concepts-landscape-scale-florida-phosphate-reclamation-md) (~204 words)
 - [04_Knowledge Base/wiki/concepts/Linear Spectral Unmixing (NNLS) in Chapter 1.md](#-file-04_knowledge-base-wiki-concepts-linear-spectral-unmixing-(nnls)-in-chapter-1-md) (~390 words)
+- [04_Knowledge Base/wiki/concepts/Listing Case Reserve Estimation.md](#-file-04_knowledge-base-wiki-concepts-listing-case-reserve-estimation-md) (~272 words)
 - [04_Knowledge Base/wiki/concepts/Lithological Classifier Configurations & Baseline Models.md](#-file-04_knowledge-base-wiki-concepts-lithological-classifier-configurations-&-baseline-models-md) (~372 words)
 - [04_Knowledge Base/wiki/concepts/Maastrichtian-Eocene Phosphatic Sequences.md](#-file-04_knowledge-base-wiki-concepts-maastrichtian-eocene-phosphatic-sequences-md) (~311 words)
 - [04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral.md](#-file-04_knowledge-base-wiki-concepts-machine-learning-for-hyperspectral-md) (~661 words)
 - [04_Knowledge Base/wiki/concepts/Micro-XRF Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-micro-xrf-spectroscopy-md) (~440 words)
+- [04_Knowledge Base/wiki/concepts/Microscopic Petrography of Copper Stockworks.md](#-file-04_knowledge-base-wiki-concepts-microscopic-petrography-of-copper-stockworks-md) (~247 words)
 - [04_Knowledge Base/wiki/concepts/Mine Rehabilitation and Reclamation MOC.md](#-file-04_knowledge-base-wiki-concepts-mine-rehabilitation-and-reclamation-moc-md) (~342 words)
 - [04_Knowledge Base/wiki/concepts/Mineral Assemblages.md](#-file-04_knowledge-base-wiki-concepts-mineral-assemblages-md) (~521 words)
 - [04_Knowledge Base/wiki/concepts/Minimum Distance Classifier.md](#-file-04_knowledge-base-wiki-concepts-minimum-distance-classifier-md) (~310 words)
@@ -452,6 +461,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Rietveld Refinement in XRD.md](#-file-04_knowledge-base-wiki-concepts-rietveld-refinement-in-xrd-md) (~427 words)
 - [04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria.md](#-file-04_knowledge-base-wiki-concepts-swir-hhxrf-spectral-elemental-validation-criteria-md) (~376 words)
 - [04_Knowledge Base/wiki/concepts/Shannon Entropy Uncertainty.md](#-file-04_knowledge-base-wiki-concepts-shannon-entropy-uncertainty-md) (~428 words)
+- [04_Knowledge Base/wiki/concepts/South Benguerir Phosphate Deposit.md](#-file-04_knowledge-base-wiki-concepts-south-benguerir-phosphate-deposit-md) (~391 words)
 - [04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping.md](#-file-04_knowledge-base-wiki-concepts-spatial-uncertainty-&-posterior-probability-score-mapping-md) (~341 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-in-chapter-2-md) (~354 words)
 - [04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation.md](#-file-04_knowledge-base-wiki-concepts-spatially-constrained-cross-validation-md) (~559 words)
@@ -460,6 +470,11 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS.md](#-file-04_knowledge-base-wiki-concepts-spectral-unmixing-vca-fcls-md) (~560 words)
 - [04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine.md](#-file-04_knowledge-base-wiki-concepts-stratigraphy-of-the-gantour-basin-and-benguerir-mine-md) (~351 words)
 - [04_Knowledge Base/wiki/concepts/Synthetic Minority Over-sampling Technique (SMOTE).md](#-file-04_knowledge-base-wiki-concepts-synthetic-minority-over-sampling-technique-(smote)-md) (~339 words)
+- [04_Knowledge Base/wiki/concepts/Tadla Plain Geophysics.md](#-file-04_knowledge-base-wiki-concepts-tadla-plain-geophysics-md) (~216 words)
+- [04_Knowledge Base/wiki/concepts/Tiouit Gold Deposit.md](#-file-04_knowledge-base-wiki-concepts-tiouit-gold-deposit-md) (~302 words)
+- [04_Knowledge Base/wiki/concepts/Tiouit Hydrothermal Alteration.md](#-file-04_knowledge-base-wiki-concepts-tiouit-hydrothermal-alteration-md) (~223 words)
+- [04_Knowledge Base/wiki/concepts/Touroug Baryte Deposit.md](#-file-04_knowledge-base-wiki-concepts-touroug-baryte-deposit-md) (~211 words)
+- [04_Knowledge Base/wiki/concepts/Triassic Extensional Vein Formation.md](#-file-04_knowledge-base-wiki-concepts-triassic-extensional-vein-formation-md) (~216 words)
 - [04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-vnir-swir-spectroscopy-md) (~520 words)
 - [04_Knowledge Base/wiki/concepts/WD-XRF Chemical Characterization of Benguerir Waste Rocks.md](#-file-04_knowledge-base-wiki-concepts-wd-xrf-chemical-characterization-of-benguerir-waste-rocks-md) (~534 words)
 - [04_Knowledge Base/wiki/concepts/Waste Rock Characterization.md](#-file-04_knowledge-base-wiki-concepts-waste-rock-characterization-md) (~203 words)
@@ -1591,6 +1606,45 @@ tags:
 
 ---
 *Related: [[Home|Mission Control]]*
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/MOCs/Pre-PhD Geological Studies MOC.md
+
+---
+tags:
+---
+
+
+# Pre-PhD Geological Studies MOC
+
+> Index of concepts, studies, and field sites from pre-PhD academic archives (2019-2020).
+
+---
+
+## 📂 Core Concepts & Deposits
+- [[Jbel N'Zourk Copper Deposit]]
+- [[Tiouit Gold Deposit]]
+- [[Touroug Baryte Deposit]]
+- [[South Benguerir Phosphate Deposit]]
+- [[Beni Bousera Metapelites]]
+
+## 🛠️ Geological Methodologies
+- [[Electrical Resistivity Tomography (ERT) for Aquifer Studies]]
+- [[Listing Case Reserve Estimation]]
+- [[Anti-Atlas Pluton Geochemical Classification]]
+- [[Microscopic Petrography of Copper Stockworks]]
+
+## 📖 Mineralization & Alteration Processes
+- [[Adoudounian Copper Mineralization]]
+- [[Tiouit Hydrothermal Alteration]]
+- [[Triassic Extensional Vein Formation]]
+- [[Ganntour Basin Phosphatogenesis]]
+- [[Tadla Plain Geophysics]]
+
+---
+*Related: [[Home|Mission Control]], [[Geology MOC]]*
 
 
 
@@ -11372,6 +11426,76 @@ Wavelength selection was structured as a nested **three-stage pipeline**:
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Adoudounian Copper Mineralization.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Conceptual geological model of copper mineralization in the Adoudounian sedimentary cover of the Anti-Atlas, focusing on late Variscan structural controls."
+---
+
+
+# Adoudounian Copper Mineralization
+
+**Adoudounian Copper Mineralization** represents a specific class of sediment-hosted copper occurrences found within the Adoudounian (uppermost Neoproterozoic to Lower Cambrian) sedimentary cover flanking Proterozoic inliers (boutonnières) in the Anti-Atlas belt of Morocco (e.g., Bou Azzer El Graara, Bleida).
+
+## Geological Characteristics
+* **Stratigraphic Host**: Typically hosted in the "Adoudou Formation" (transgressive dolomites and shales) which directly overlies the Proterozoic basement.
+* **Macroscopic vs. Microscopic Textures**: While these deposits often show a stratabound or stratiform appearance at the regional scale, petrographic analyses show that the mineralization is structurally controlled. It occurs as stockworks, veinlets parallel to bedding planes, and open-space fillings.
+* **Primary Minerals**: Chalcocite ($\text{Cu}_2\text{S}$), bornite ($\text{Cu}_5\text{FeS}_4$), and chalcopyrite ($\text{CuFeS}_2$), with secondary malachite and azurite.
+
+## Metallogenic Genesis Debate
+The origin of these deposits has been a subject of long-standing discussion:
+1. **Syngenetic/Diagenetic Model**: Suggests copper was introduced during deposition or early diagenesis in a calm coastal environment.
+2. **Epigenetic/Reactivation Model**: Proposes that copper was mobilized from basement rocks and concentrated into structural traps during tectonic events.
+* **Evidence from Jbel N'Zourk**: Petrographic and structural mapping at Jbel N'Zourk confirms that the mineralization is trapped in fault zones and anticlinal fold hinges, supporting a **late Variscan (Hercynian) epigenetic reconcentration** model.
+
+---
+
+## Related Notes
+* [[Jbel N'Zourk Copper Deposit]]
+* [[Microscopic Petrography of Copper Stockworks]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Anti-Atlas Pluton Geochemical Classification.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Summary of geochemical and mineralogical classification diagrams used to characterize Neoproterozoic plutonic intrusions in the Moroccan Anti-Atlas."
+---
+
+
+# Anti-Atlas Pluton Geochemical Classification
+
+Characterizing Proterozoic igneous intrusions in the Anti-Atlas belt of Morocco (such as the Tiouit granodiorite in the Jbel Saghro massif) relies on several mineralogical and geochemical classification systems.
+
+## Mineralogical Classification
+* **Streckeisen QAP Diagram (1976)**: Classifies plutonic rocks based on the modal percentages of **Q**uartz, **A**lkali feldspar, and **P**lagioclase. At the Tiouit mine, the core of the pluton is classified as a **granodiorite**, transitioning to a **quartz monzodiorite** border facies at its margins.
+
+## Geochemical Classification Diagrams
+When rocks are altered or fine-grained, geochemical parameters are used:
+1. **Debon & Le Fort (1983)**: A chemical-mineralogical classification that plots parameters such as $Q = \text{Si}/3 - (\text{Na}+\text{K}+2\text{Ca}/3)$ against $P = \text{K} - (\text{Na}+\text{Ca})$. It differentiates peraluminous, metaluminous, and subaluminous magmatic series.
+2. **Irvine & Baragar (1971)**: Used to define the alkaline vs. subalkaline nature of the magma and separate subalkaline suites into **calc-alkaline** and **tholeiitic** trends.
+3. **Pearce et al. (1984) Tectonic Discriminant Plots**: Plots trace elements (e.g., $\text{Rb}$ vs. $\text{Y} + \text{Nb}$) to identify the tectonic setting of granite intrusion:
+   - **VAG** (Volcanic Arc Granites): Subduction zone settings (applied to the Tiouit pluton).
+   - **Syn-COLG** (Syn-Collision Granites): Continental collision.
+   - **WPG** (Within-Plate Granites): Rifting and anorogenic plumes.
+   - **ORG** (Ocean Ridge Granites).
+
+---
+
+## Related Notes
+* [[Tiouit Gold Deposit]]
+* [[Tiouit Hydrothermal Alteration]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Atmospheric Absorption Windows in PRISMA.md
 
 ---
@@ -11471,6 +11595,44 @@ The resulting spatial database enables:
 * [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy|Phosphate Waste Rock Piles Sampling Strategy]]
 * [[04_Knowledge Base/wiki/concepts/Integrated Sample-Level Mineralogical-Geochemical Profiles|Integrated Sample-Level Mineralogical-Geochemical Profiles]]
 * [[02_Academic & Work/thesis/defense-prep/Reviewer 1 Response|Reviewer 1 Response]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Beni Bousera Metapelites.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Overview of high-grade metamorphic metapelite rocks surrounding the Beni Bousera peridotite massif in the internal Rif zone, northern Morocco."
+---
+
+
+# Beni Bousera Metapelites
+
+**Beni Bousera Metapelites** refers to a metamorphic unit of high-grade argillaceous sedimentary rocks (metapelites) flanking the Beni Bousera ultramafic (peridotite) massif in the internal zone of the Rif mountain belt (northern Morocco).
+
+## Geological & Metamorphic Context
+* **Tectonic Emplacement**: The Beni Bousera peridotites represent sub-continental lithospheric mantle tectonically exhumed and emplaced into the continental crust during the Alpine orogeny.
+* **Metamorphic Facies**: The surrounding metapelites underwent intense thermal and structural deformation due to this mantle juxtaposition, recording high-temperature, low-to-medium-pressure metamorphic conditions ranging from upper **amphibolite** to **granulite** facies.
+* **Mineral Assemblages**: Typical mineral compositions in these rocks include:
+  * Garnet
+  * Sillimanite
+  * Biotite
+  * Plagioclase
+  * Cordierite
+  * Quartz
+
+## Research Significance
+The transition zone between the peridotite body and the metapelitic crust provides an excellent natural laboratory for studying shear zones, heat transfer, and devolatilization during mantle exhumation in the western Mediterranean region (Gibraltar Arc).
+
+## Source Reference
+* Pre-PhD document: [PFE_Metapelites_Final_AA.doc](file:///D:/Rapport,%20PFE%20et%20presentation/PFE_Beni%20Bousera/PFE_Metapelites_Final_AA.doc)
+
+---
+
+## Related Notes
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
 
 
 
@@ -13492,6 +13654,42 @@ In the context of the thesis (specifically Chapter 1/[[04_Knowledge Base/wiki/co
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Electrical Resistivity Tomography (ERT) for Aquifer Studies.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Technical overview of Electrical Resistivity Tomography (ERT) and its application in mapping shallow groundwater aquifers and stratigraphic horizons."
+---
+
+
+# Electrical Resistivity Tomography (ERT) for Aquifer Studies
+
+**Electrical Resistivity Tomography (ERT)** is an active geophysical method used to image subsurface structures based on differences in electrical resistivity. It is widely applied in hydrogeology to map shallow aquifers, clay horizons, and water tables.
+
+## Measurement Principle
+* **Electrode Array**: A series of metal electrodes are driven into the ground along a linear profile. Currents are injected through a pair of electrodes, and the resulting potential difference is measured across another pair.
+* **Apparent Resistivity**: The system automatically switches electrode configurations to measure apparent resistivity at varying depths and lateral positions.
+
+## Data Processing Workflow
+1. **Pseudo-section Generation**: Raw data is plotted as a pseudo-section, where the horizontal axis is the profile distance and the vertical axis is the electrode spacing (representing pseudo-depth).
+2. **Inversion Modeling**: Inversion software (e.g., RES2DINV) applies numerical optimization to calculate a 2D resistivity model that matches the observed pseudo-section.
+3. **True Resistivity Section**: The output is a 2D tomogram showing true resistivity ($\Omega\cdot\text{m}$) against actual depth.
+
+## Interpretation in Hydrogeology (e.g. Tadla Plain)
+* **Low Resistivity ($< 20\ \Omega\cdot\text{m}$)**: Typically represents clay-rich formations, silts, or saline aquifers.
+* **Medium Resistivity ($20 - 150\ \Omega\cdot\text{m}$)**: Often represents freshwater-saturated sands, gravels, or fractured marly limestones.
+* **High Resistivity ($> 150\ \Omega\cdot\text{m}$)**: Indicates dry sand, massive limestone, or crystalline basement rocks.
+
+---
+
+## Related Notes
+* [[Tadla Plain Geophysics]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/EnMAP Satellite.md
 
 ---
@@ -13785,6 +13983,40 @@ A direct comparison evaluated the effect of removing the spatial buffer. All oth
 * [[04_Knowledge Base/wiki/concepts/PRISMA Spatial Redundancy Filtering|PRISMA Spatial Redundancy Filtering]]
 * [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation in Chapter 2|Spatially Constrained Cross-Validation in Chapter 2]]
 * [[04_Knowledge Base/wiki/concepts/PRISMA Lithological Mapping Performance Metrics|PRISMA Lithological Mapping Performance Metrics]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Ganntour Basin Phosphatogenesis.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Sedimentological model of marine sedimentary phosphate deposition (phosphatogenesis) in the Gantour Basin, Morocco."
+---
+
+
+# Ganntour Basin Phosphatogenesis
+
+**Ganntour Basin Phosphatogenesis** describes the geological, biological, and chemical processes that led to the deposition of massive sedimentary phosphate layers in the Gantour Basin of central Morocco during the Maastrichtian to Lutetian epochs (approx. 72 to 40 million years ago).
+
+## Depositional Environment
+* **Upwelling Currents**: The deposition was driven by deep, nutrient-rich marine upwelling currents from the Atlantic Ocean entering a shallow epicontinental sea.
+* **Low-Energy Basins**: Marine shelves and restricted basins provided a quiet, low-energy setting, permitting the accumulation and concentration of organic matter and phosphorus.
+* **Climate**: A warm, greenhouse climate promoted high biological productivity.
+
+## Mineral Precipitation & Accumulation
+* **Carbonate Fluorapatite (CFA)**: The primary phosphate mineral is francolite (carbonate fluorapatite). Under sub-oxic to anoxic early diagenetic conditions within sediment pore waters, phosphate precipitated directly as microcrystalline apatite.
+* **Pellets & Intraclasts**: Currents reworked the precipitated phosphate mud into sand-sized pellets, intraclasts, and coated grains, which were then concentrated into distinct layers.
+* **Fossil Accumulation**: The basin supported a rich marine ecosystem, leaving abundant skeletal debris. Vertebrate bones and shark teeth (e.g. *Odonlaspis*, *Cretolamna*) were fossilized and substituted by carbonate fluorapatite.
+
+---
+
+## Related Notes
+* [[South Benguerir Phosphate Deposit]]
+* [[Listing Case Reserve Estimation]]
+* [[04_Knowledge Base/wiki/concepts/Stratigraphy of the Gantour Basin and Benguerir Mine|Stratigraphy of the Gantour Basin and Benguerir Mine]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
 
 
 
@@ -14250,6 +14482,43 @@ These profiles capture multi-phase mixtures with co-occurring dolomite (~40–55
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/Jbel N'Zourk Copper Deposit.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Overview of the Jbel N'Zourk copper deposit located in the Bou Azzer El Graara inlier, Central Anti-Atlas, Morocco."
+---
+
+
+# Jbel N'Zourk Copper Deposit
+
+The **Jbel N'Zourk Copper Deposit** is a copper mineralized district located in the Bou Azzer El Graara inlier of the Central Anti-Atlas, Morocco, approximately 15 km northwest of Alougoum. The mineralization is hosted within the Adoudounian sedimentary cover.
+
+## Geological Setting
+* **Host Rock**: The deposit is hosted in the Adoudounian cover, which consists of carbonate formations (dolomites, calcites).
+* **Structural Control**: The ore bodies correspond to stockworks hosted in the **"folded band"** (bande plissée), generally oriented N160°.
+* **Deformation**: The mineralization is localized along the principal fault of Jbel N'Zourk and in the hinges of anticlinal folds. Trapped structures are attributed to late Variscan (Hercynian) deformation.
+
+## Mineralization Styles & Petrography
+Macroscopically, the copper ore displays a stratabound (stratiforme) appearance. However, microscopic analysis reveals that the ore occurs as mineralized veins parallel to the stratification, creating a stockwork texture.
+* **Fracture & Vein Filling**: Copper-bearing minerals occupy fractures, veinlets, and small karstic cavities.
+* **Disseminations**: Disseminated copper minerals are rarely observed within calcite and dolomite gangue minerals.
+
+## Source Reference
+* Indexed from pre-PhD archives: [PFE-EL MANSOUR.docx](file:///D:/Rapport,%20PFE%20et%20presentation/PFE%20JNZ/PFE-EL%20MANSOUR.docx)
+* Original project: [Abstract-Jbel N'Zourk.docx](file:///D:/Rapport,%20PFE%20et%20presentation/PFE%20JNZ/Abstract-Jbel%20N'Zourk.docx)
+
+---
+
+## Related Notes
+* [[Adoudounian Copper Mineralization]]
+* [[Microscopic Petrography of Copper Stockworks]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Landscape-Scale Florida Phosphate Reclamation.md
 
 ---
@@ -14338,6 +14607,44 @@ The unmixing model resolved marked mineralogical heterogeneity across the **104*
 * [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|Spectral Unmixing VCA-FCLS]]
 * [[04_Knowledge Base/wiki/concepts/ECOSTRESS Application in Thesis Chapter 1|ECOSTRESS Application in Thesis Chapter 1]]
 * [[04_Knowledge Base/wiki/concepts/SWIR-HHXRF Spectral-Elemental Validation Criteria|SWIR-HHXRF Spectral-Elemental Validation Criteria]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Listing Case Reserve Estimation.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Explanation of the 'Listing Case' methodology for calculating mineral reserves using borehole data grids, GIS mapping, and geological database managers."
+---
+
+
+# Listing Case Reserve Estimation
+
+The **Listing Case** method is a classic mining evaluation technique used to estimate geological and exploitable ore reserves from a grid of exploration drill holes (boreholes). It serves as the foundation for database creation and spatial block modeling in mining software.
+
+## Methodology Workflow
+1. **Borehole Database Compilation**: Integrating spatial coordinates (X, Y, Z), lithological logs, and geochemical assays (e.g., % $\text{P}_2\text{O}_5$ or BPL - Bone Phosphate of Lime) for all drill cores.
+2. **Layer Intercept Correlation**: Defining the top and bottom of geological target horizons (such as the phosphate layers SB to C6 at Benguerir).
+3. **Calculations of Volumes**:
+   - Defining a polygon of influence around each borehole (Voronoi/Thiessen polygons) or using kriging interpolation.
+   - Volume ($V$) for each sector is calculated as: $V = \text{Surface Area} \times \text{Thickness of Ore Layer}$.
+4. **Calculations of Tonnage**:
+   - Tonnage ($T$) is calculated using the in-situ bulk density ($\rho$) of the ore: $T = V \times \rho$.
+5. **Reserve Categorization**: Reserves are classified into Proven, Probable, and Possible categories based on borehole spacing and geochemical certainty.
+
+## Software Integration
+Historically, this method has been executed by combining:
+* **GIS Software** (e.g., ArcGIS): For horizontal surface boundary mapping and layer erosion limits.
+* **Geological Data Management (GDM) Tools**: For chemical sorting, applying grade/thickness cut-offs, and compiling tabular listings of reserves.
+
+---
+
+## Related Notes
+* [[South Benguerir Phosphate Deposit]]
+* [[Ganntour Basin Phosphatogenesis]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
 
 
 
@@ -14613,6 +14920,40 @@ While Abdelhak's thesis primarily integrates **[[04_Knowledge Base/wiki/concepts
 * [[04_Knowledge Base/wiki/concepts/Handheld XRF|Handheld XRF]]
 * [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]
 * [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|VNIR-SWIR Spectroscopy]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Microscopic Petrography of Copper Stockworks.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Petrographic analysis method of copper stockwork ore textures using thin and polished sections, highlighting observations from Jbel N'Zourk."
+---
+
+
+# Microscopic Petrography of Copper Stockworks
+
+**Microscopic Petrography of Copper Stockworks** refers to the laboratory investigation of copper ores using polarized transmitted and reflected light microscopy. This method is critical for determining the timing of mineral deposition relative to host rock deformation.
+
+## Macroscopic vs. Microscopic Discrepancy
+In sediment-hosted copper deposits (such as **Jbel N'Zourk** in the Anti-Atlas), field observations can be misleading:
+* **Macroscopically**: The copper minerals appear to form a continuous stratiform layer parallel to the carbonate beds.
+* **Microscopically**: The ore is seen to reside within a dense network of micro-fractures, veinlets, and micro-cavities (karsts). Although some veinlets are parallel to the bedding planes (stratification), they cut across pre-existing carbonate grains and dolomite cements, confirming a **stockwork texture**.
+
+## Diagnostic Petrographic Criteria
+Under the microscope, researchers analyze:
+1. **Mineral Paragenesis**: The sequential order of mineral precipitation. For instance, determining whether chalcopyrite precipitated before or after quartz/carbonate gangue filling.
+2. **Replacement Textures**: Primary sulfides (e.g., chalcopyrite, bornite) being replaced by secondary minerals (e.g., covellite, malachite) along grain edges and cracks.
+3. **Host Rock Relationships**: In Jbel N'Zourk, copper minerals occur within fractures and dissolution cavities (small karsts) in dolomite and calcite, showing that mineralization post-dates host carbonate lithification.
+
+---
+
+## Related Notes
+* [[Jbel N'Zourk Copper Deposit]]
+* [[Adoudounian Copper Mineralization]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
 
 
 
@@ -16347,6 +16688,57 @@ This probability vector is what feeds the entropy calculation.
 
 
 
+## 📄 File: 04_Knowledge Base/wiki/concepts/South Benguerir Phosphate Deposit.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Overview of the South Benguerir phosphate deposit within the Ganntour Basin, detailing its Maastrichtian-Lutetian stratigraphy, mineralogy, and paleontology."
+---
+
+
+# South Benguerir Phosphate Deposit
+
+The **South Benguerir Phosphate Deposit** corresponds to the southern segment of the Benguerir mine, situated in the central portion of the Gantour Basin, Morocco. The sedimentary sequence spans the Maastrichtian to Lutetian ages.
+
+## Stratigraphy & Depositional Environment
+The sedimentary series consists of concordant, slightly undulated strata deposited in a quiet, low-energy marine environment. The main phosphate layers defined in the mining stratigraphy include:
+* **Upper sequence**: SB, SA1, SA2, SA3, DSP, C0, C1, C2, C3, C4
+* **Lower sequence**: C5 (subdivided into Upper and Lower C5) and C6
+The upper levels (SB to C4) are completely eroded in the northwestern portion of the area.
+
+## Mineralogy & Paleontological Content
+Scanning Electron Microscopy (SEM) analyses show that the phosphate ore contains:
+* **Primary Phosphate Minerals**: Apatite, carbonate fluorapatite (francolite), and hydroxyapatite.
+* **Gangue Minerals**: Calcite, dolomite, quartz, iron hydroxides, and various clay minerals.
+* **Fossils**: The layers are highly fossiliferous, characterized by abundant vertebrate bone debris and shark teeth, including:
+  * *Odonlaspis tingilana*
+  * *Cretolamna maroccana*
+  * *Squalicorax pristodontus*
+  * *Eremiasaurus heterodontus*
+
+## Structural Features & Reserve Estimates
+* **Structure**: The layers exhibit a gentle dip to the south with a central flexure.
+* **Local Reserve Calculations**: An early 2017 study estimated localized reserves for this South sector at **over 328 million tons**, using GIS and GDM software database mapping.
+
+> [!WARNING]
+> **Data Discrepancy (Thesis vs. Historical Stage Report)**:
+> The canonical thesis manuscript [[Thesis Manuscript-Abdelhak EL MANSOUR 2026.docx|Thesis Manuscript (2026)]] does not isolate or report the 328 Mt reserve figure for the "South Mine" segment. The thesis instead details Morocco's national reserves (~50 billion tonnes / 70% of global reserves) and describes the broader open-pit mine (covering 36 km²). The 328 Mt figure is preserved here strictly as historical context from the 2017 report. See [[04_Archives/D-Drive/Data Discrepancy Log|Data Discrepancy Log]] for details.
+
+## Source Reference
+* Pre-PhD document: [étude géominiére par le Listing case de la mine Sud de Benguérir Version Final.docx](file:///D:/Rapport,%20PFE%20et%20presentation/%C3%A9tude%20g%C3%A9omini%C3%A8re%20par%20le%20Listing%20case%20de%20la%20mine%20Sud%20de%20Bengu%C3%A9rir%20Version%20Final.docx)
+
+---
+
+## Related Notes
+* [[Ganntour Basin Phosphatogenesis]]
+* [[Listing Case Reserve Estimation]]
+* [[04_Knowledge Base/wiki/concepts/Gantour Basin and Benguerir Mine Geological Setting|Gantour Basin and Benguerir Mine Geological Setting]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
 ## 📄 File: 04_Knowledge Base/wiki/concepts/Spatial Uncertainty & Posterior Probability Score Mapping.md
 
 ---
@@ -16917,6 +17309,188 @@ SMOTE is applied in the preprocessing phase of [ML-MODELS-VLC.ipynb](file:///D:/
 - [[Code — VLC — ML Models Classifier]]
 - [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
 - [[04_Knowledge Base/wiki/concepts/Ensemble Voting Classifier]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Tadla Plain Geophysics.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Overview of the geophysical campaign carried out in the Tadla Plain to evaluate groundwater aquifers using ERT and magnetic methods."
+---
+
+
+# Tadla Plain Geophysics
+
+The **Tadla Plain Geophysics** project refers to a geophysical field survey carried out in the Tadla Plain (Beni Mellal region, Morocco) during Abdelhak's Master's studies (GARME). The survey aimed to evaluate groundwater aquifers and map structural basement controls.
+
+## Geophysical Methods Used
+1. **Electrical Resistivity Tomography (ERT)**:
+   - Used to determine subsurface resistivity profiles.
+   - Involved generating pseudo-sections and running inversion algorithms to build two-dimensional resistivity models of the shallow aquifer.
+   - Identified aquifer depth, clay interfaces, and groundwater table configurations.
+2. **Magnetic Method**:
+   - Used to map basement structures, faults, and variations in magnetic susceptibility in deeper geological units.
+   - Assisted in mapping tectonic lineaments that influence groundwater flow direction and basin compartmentalization.
+
+## Geologic & Hydrogeologic Significance
+The Tadla Plain is a major agricultural basin in Morocco, heavily dependent on groundwater. Geophysics plays a vital role in identifying recharge zones, fault-controlled conduits, and salinity boundaries (indicated by low resistivity zones).
+
+## Source Reference
+* Pre-PhD document: [Rapport de stage  Géophysique (Enregistré automatiquement).docx](file:///D:/Rapport,%20PFE%20et%20presentation/Rapport%20%20de%20stage%20G%C3%A9ophysiaque%20Beni%20Malal/Rapport%20de%20stage%20%20G%C3%A9ophysique%20(Enregistr%C3%A9%20automatiquement).docx)
+
+---
+
+## Related Notes
+* [[Electrical Resistivity Tomography (ERT) for Aquifer Studies]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Tiouit Gold Deposit.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Overview of the Tiouit gold deposit in the Jbel Saghro massif, Anti-Atlas, Morocco, associated with Proterozoic granodioritic plutonism."
+---
+
+
+# Tiouit Gold Deposit
+
+The **Tiouit Gold Deposit** is a gold-copper-silver deposit situated on the southern slope of the northeastern side of the Jbel Saghro massif (Anti-Atlas oriental, Morocco). It is located approximately 35 km southeast of Boumalne Dades and 150 km east-northeast of Ouarzazate. 
+
+Tiouit is historically significant as one of the few Moroccan mines where gold has been the primary commodity produced, with copper and silver as secondary products.
+
+## Geological Setting
+* **Host Rock**: The ore is hosted in an intrusive Proterozoic II (PII) superior pluton, which is primarily granodioritic in composition with quartz monzodiorite border facies. This pluton intrudes a metavolcanosedimentary series.
+* **Structural Control**: The mineralized bodies occur as subhorizontal, lenticular veins within a mylonitized shear zone.
+* **Tectonic Context**: Geochemical analysis indicates the host granodiorite has a calc-alkaline affinity, forming part of a volcanic arc associated with Proterozoic subduction.
+
+## Mineralization Styles & Alteration
+* **Morphology**: Mineralization occurs in various forms: stockworks, veins within quartz veins, lenticular sulphide bands, and disseminations.
+* **Ore Mineralogy**: Sulfide minerals include pyrite and chalcopyrite. Electrum (gold-silver alloy) is microscopically observed in association with chalcopyrite, often enclosed within hematite. Chalcopyrite also occurs as inclusions in sphalerite.
+* **Hydrothermal Alteration**: The ore zones are characterized by prominent alteration halos comprising:
+  * Chlorite zones
+  * Hematite zones
+  * Mixed chlorite-hematite zones
+* **Formation Conditions**: Fluid inclusion studies indicate the mineralizing fluids deposited ore at temperatures ranging from **150°C to 300°C**.
+
+## Source Reference
+* Pre-PhD document: [Tiouit 2016.docx](file:///D:/Rapport,%20PFE%20et%20presentation/TIOUIT%20SUJET/Tiouit%202016.docx) (referencing earlier work by A. Al Ansari, 1997).
+
+---
+
+## Related Notes
+* [[Tiouit Hydrothermal Alteration]]
+* [[Anti-Atlas Pluton Geochemical Classification]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Tiouit Hydrothermal Alteration.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Description of the hydrothermal alteration halos (chloritisation and hematitisation) associated with gold-copper mineralization in the Tiouit granodioritic intrusion."
+---
+
+
+# Tiouit Hydrothermal Alteration
+
+**Tiouit Hydrothermal Alteration** describes the mineralogical changes induced by hot, metal-bearing fluids circulating through the Proterozoic granodioritic pluton of the Tiouit mine (Jbel Saghro, Morocco). This alteration is key to mapping and understanding the gold-copper ore zones.
+
+## Hydrothermal Zonation
+The alteration forms distinct halos around the subhorizontal, mylonitized shear zones that host the ore:
+1. **Chlorite Zone**: Characterized by the intense development of magnesium-iron chlorite, replacing biotite, amphibole, and plagioclase. This indicates hydration and magnesium-iron metasomatism.
+2. **Hematite Zone**: Characterized by a distinctive red staining of plagioclase and micro-fractures due to micro-disseminated hematite ($\text{Fe}_2\text{O}_3$). This reflects oxidizing conditions during fluid-rock interaction.
+3. **Mixed Chlorite-Hematite Zone**: Represents the core transition zone where mineralizing fluids mixed and precipitated sulfosalt and electrum phases.
+
+## Physico-Chemical Implications
+* **Temperature**: Mineral alteration assemblages are consistent with mesothermal to epithermal transition conditions, with fluid inclusion temperatures ranging between **150°C and 300°C**.
+* **pH and Oxidation State**: Plagioclase sericitization and hematite precipitation indicate slightly acidic to neutral fluids with high oxygen fugacity ($f\text{O}_2$) during the main gold-precipitation stage.
+
+---
+
+## Related Notes
+* [[Tiouit Gold Deposit]]
+* [[Anti-Atlas Pluton Geochemical Classification]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Touroug Baryte Deposit.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Overview of the Touroug baryte deposit in the eastern Anti-Atlas, Morocco, detailing its stratigraphy, vein morphology, and Triassic extensional origin."
+---
+
+
+# Touroug Baryte Deposit
+
+The **Touroug Baryte Deposit** is one of the most significant baryte ($\text{BaSO}_4$) mining districts in the eastern Anti-Atlas of Morocco (Tafilalet-Ougnat domain). It is exploited by the MNFGROUPE.
+
+## Geological & Stratigraphic Setting
+The baryte mineralization is hosted in two primary stratigraphic units:
+1. **Socle (Basement)**: Rhyolitic volcanic rocks belonging to the upper Neoproterozoic (PIII) sequence.
+2. **Couverture (Cover)**: Lower Cambrian terminal sandstones (grès terminaux).
+
+## Mineralization Style
+* **Vein Morphology**: The ore bodies correspond to extensive veins (filons) of hydrothermal origin.
+* **Ore Textures**: Massive, banded (rubanées), and brecciated (bréchiques) textures are common, indicating episodic fluid pressure and opening events.
+* **Tectonic Trigger**: Vein opening and mineralization occurred during a major **Triassic extensional phase** related to the opening of the Central Atlantic.
+
+## Fluid Ingress & Deposition
+* Mineralization is attributed to a mixture of deep, warm, barium-rich hydrothermal fluids rising through structural conduits and cool, sulfate-rich superficial waters at low temperatures.
+
+## Source Reference
+* Pre-PhD document: [Barytine de TOUROUG.DOCX](file:///D:/Rapport,%20PFE%20et%20presentation/Barytine%20de%20TOUROUG.DOCX)
+
+---
+
+## Related Notes
+* [[Triassic Extensional Vein Formation]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/concepts/Triassic Extensional Vein Formation.md
+
+---
+tags:
+created: '2026-06-23'
+summary: "Model of vein-type mineralization formed during the Triassic extensional phase associated with Atlantic rifting, using the Touroug baryte deposit as a case study."
+---
+
+
+# Triassic Extensional Vein Formation
+
+**Triassic Extensional Vein Formation** refers to a metallogenic model where hydrothermal mineral veins are deposited in structural spaces created by the Triassic extensional rifting event. This event is linked to the opening of the Central Atlantic Ocean.
+
+## Tectonic Setting
+* **Extension Direction**: The rifting of Pangea in the Triassic created a dominant NW-SE extensional stress field in northern Africa, reactivating older Neoproterozoic and Paleozoic basement faults.
+* **Structural Traps**: Subvertical normal and strike-slip faults opened, acting as pathways for deep hydrothermal fluids.
+
+## Mineralization Mechanism (The Touroug Case Study)
+At the **Touroug Baryte Mine**, this extensional regime drove the formation of massive baryte veins:
+1. **Dilation**: Tectonic extension pulled apart host rocks (Neoproterozoic rhyolites and Cambrian sandstones), creating open fissures.
+2. **Fluid Mixing**: Hot, saline, barium-rich basinal brines rose along the extensional faults. Upon approaching the surface, they mixed with cold, sulfate-rich meteoric waters.
+3. **Deposition**: Rapid cooling and dilution triggered the precipitation of baryte ($\text{BaSO}_4$), forming massive, banded, and brecciated vein textures.
+
+---
+
+## Related Notes
+* [[Touroug Baryte Deposit]]
+* [[04_Archives/D-Drive/D-Drive — Rapport-PFE|D-Drive — Rapport PFE et Presentation Index]]
 
 
 
