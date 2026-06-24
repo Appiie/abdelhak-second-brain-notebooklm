@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 59 | **Total Word Count**: ~42520 words
+> **Total Files Compiled**: 59 | **Total Word Count**: ~42474 words
 
 ## 📂 Table of Contents
 
@@ -29,7 +29,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/active/Job Board — Live Tracker.md](#-file-02_academic-&-work-work-active-job-board-—-live-tracker-md) (~1210 words)
 - [02_Academic & Work/work/active/Job Pipeline.md](#-file-02_academic-&-work-work-active-job-pipeline-md) (~481 words)
 - [02_Academic & Work/work/active/Postdoc Applications.md](#-file-02_academic-&-work-work-active-postdoc-applications-md) (~683 words)
-- [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5473 words)
+- [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5427 words)
 - [02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist.md](#-file-02_academic-&-work-work-active-pixxel-application-cover-letter-—-hyperspectral-scientist-md) (~309 words)
 - [02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist.md](#-file-02_academic-&-work-work-active-pixxel-application-cover-letter-—-senior-hyperspectral-scientist-md) (~416 words)
 - [02_Academic & Work/work/active/Pixxel Application/Submission Checklist.md](#-file-02_academic-&-work-work-active-pixxel-application-submission-checklist-md) (~209 words)
@@ -2243,23 +2243,23 @@ created: '2026-06-09'
 | **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | ✅ Applied 2026-06-09 |
 | **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | ✅ Applied 2026-06-09 |
 | **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | ✅ Applied 2026-06-09 |
-| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc\|Dr. Saeid Asadzadeh Letter]] | - [ ] Draft ready (send post-defense) — email CORRECTED: saeid@gfz-potsdam.de |
-| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc\|Dr. Sarah Asam Letter]] | - [ ] Draft ready (send post-defense) |
-| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc\|Pr. Bruno Bussière Letter]] | - [ ] Not Contacted |
+| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc\|Dr. Saeid Asadzadeh Letter]] | ✅ Sent 2026-06-24 |
+| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc\|Dr. Sarah Asam Letter]] | ✅ Sent 2026-06-24 |
+| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc\|Pr. Bruno Bussière Letter]] | ✅ Sent 2026-06-23 |
 | **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc\|Prof. Dr. Sabine Chabrillat Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc\|Prof. Kamran Esmaeili Letter]] | - [ ] Draft ready (send post-defense) |
-| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc\|Pr. Nicole Fenton Letter]] | - [ ] Draft ready (send post-defense) |
+| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc\|Prof. Kamran Esmaeili Letter]] | ✅ Sent 2026-06-24 |
+| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc\|Pr. Nicole Fenton Letter]] | ✅ Sent 2026-06-23 |
 | **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc\|Dr. Richard Gloaguen Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc\|Dr. Chris Hecker Letter]] | - [ ] Not Contacted |
-| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc\|Dr. Mahdi Khodadadzadeh Letter]] | - [ ] Draft ready (send post-defense) |
-| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc\|Dr. Sandra Lorenz Letter]] | - [ ] Draft ready (send post-defense) |
-| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc\|Prof. Maxence Martin Letter]] | - [ ] Not Contacted |
-| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc\|Dr. Nicola Mondillo Letter]] | - [ ] Draft ready (send post-defense) |
+| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc\|Dr. Chris Hecker Letter]] | ✅ Sent 2026-06-23 |
+| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc\|Dr. Mahdi Khodadadzadeh Letter]] | ✅ Sent 2026-06-24 |
+| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc\|Dr. Sandra Lorenz Letter]] | ✅ Sent 2026-06-24 |
+| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc\|Prof. Maxence Martin Letter]] | ✅ Sent 2026-06-23 |
+| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc\|Dr. Nicola Mondillo Letter]] | ✅ Sent 2026-06-24 |
 | **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc\|Dr. Martin Schodlok Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry\|Dr. Anna Sorrentino Letter]] | - [ ] Not Contacted |
+| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry\|Dr. Anna Sorrentino Letter]] | ✅ Sent 2026-06-23 |
 | **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc\|Dr. Tobias Storch Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc\|Pr. Osvaldo Valeria Letter]] | - [ ] Draft ready (send post-defense) |
-| **INERIS Spontaneous** | INERIS | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous|INERIS Spontaneous Letter]] | - [ ] Not Contacted |
+| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc\|Pr. Osvaldo Valeria Letter]] | ✅ Sent 2026-06-24 |
+| **INERIS Spontaneous** | INERIS | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous|INERIS Spontaneous Letter]] | ✅ Sent 2026-06-23 |
 
 ---
 
