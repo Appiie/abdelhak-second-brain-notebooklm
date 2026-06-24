@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 59 | **Total Word Count**: ~42570 words
+> **Total Files Compiled**: 59 | **Total Word Count**: ~42520 words
 
 ## 📂 Table of Contents
 
@@ -62,11 +62,11 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter---wageningen-wur-rs-scientist-md) (~589 words)
 - [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3077 words)
 - [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~552 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-cv_abdelhak_el_mansour-md) (~674 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~617 words)
+- [02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-cv_abdelhak_el_mansour-md) (~672 words)
+- [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~606 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-identity_of_applicant-md) (~75 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/Motivation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-motivation_letter-md) (~610 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/Recommendation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-recommendation_letter-md) (~467 words)
+- [02_Academic & Work/work/applications/Autumn-School-2026/Motivation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-motivation_letter-md) (~584 words)
+- [02_Academic & Work/work/applications/Autumn-School-2026/Recommendation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-recommendation_letter-md) (~456 words)
 - [02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv---utwente-md) (~645 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter---utwente-md) (~481 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Publications List - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-publications-list---utwente-md) (~280 words)
@@ -5168,7 +5168,7 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 ---
 
 ### EDUCATION
-*   **PhD in Applied Geosciences** (Defending June 30, 2026)  
+*   **PhD in Applied Geosciences** (July 2021 – Present)  
     *Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Morocco*  
     *Thesis*: Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks, Benguerir Mine.
 *   **Research Mobility Program** (March 2024 – August 2024)  
@@ -5183,7 +5183,7 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 
 ### PROFESSIONAL & RESEARCH EXPERIENCE
 *   **PhD Researcher** | *UM6P, Morocco* (July 2021 – Present)  
-    *   Designed and built end-to-end Python processing pipelines (1,776 lines) for raw Level-1B EnMAP and PRISMA hyperspectral satellite data.
+    *   Designed and built end-to-end Python processing pipelines for raw Level-1B EnMAP and PRISMA hyperspectral satellite data.
     *   Developed the **Reclamation Progress Index (RPI)** to monitor mine rehabilitation progress.
     *   Conducted 4 geological field campaigns logging spectral measurements (ASD FieldSpec 4) and geochemical samples.
     *   Validated spaceborne mineral classification maps using 104 sample reflectances and 127 landscape ground-truth locations (XRD/HHXRF).
@@ -5283,9 +5283,9 @@ I hope this email finds you well.
 
 I am writing to formally submit my application to participate in the upcoming Hyperspectral Autumn School 2026 (EXPERT Project), which will take place in Sinaia, Romania on 12-16 October 2026. 
 
-I am a PhD candidate in Applied Geosciences at the Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Morocco, and I will defend my PhD thesis on June 30, 2026. My doctoral research focuses on upscaling geological mapping and mine reclamation monitoring using spaceborne hyperspectral data (specifically PRISMA and EnMAP constellations), calibrated against field spectroradiometry (ASD FieldSpec 4) and geochemical ground truth (XRF/XRD). 
+I am currently a PhD candidate in Applied Geosciences at the Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Morocco. My doctoral research focuses on upscaling geological mapping and mine reclamation monitoring using spaceborne hyperspectral data (specifically PRISMA and EnMAP constellations), calibrated against field spectroradiometry (ASD FieldSpec 4) and geochemical ground truth (XRF/XRD). 
 
-I believe that the school's focus on spectral unmixing, co-registration, and in situ spectroscopy represents a direct match for my research expertise and my future postdoctoral directions.
+I believe that the school's focus on spectral unmixing, co-registration, and in situ spectroscopy represents a direct match for my research expertise and my doctoral directions.
 
 Please find attached my application package, which includes:
 1. Identity of the Applicant and Presentation of Interest (Motivation Letter)
@@ -5348,17 +5348,17 @@ Google Scholar: https://scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
 Dear Selection Committee,
 
-I am writing to express my strong interest in participating in the **Hyperspectral Autumn School 2026** in Sinaia, Romania. As a PhD candidate in Applied Geosciences at Mohammed VI Polytechnic University (UM6P), defending my dissertation on **June 30, 2026**, my doctoral research sits precisely at the intersection of satellite hyperspectral remote sensing, machine learning workflows, and field geochemical validation. 
+I am writing to express my strong interest in participating in the **Hyperspectral Autumn School 2026** in Sinaia, Romania. As a PhD candidate in Applied Geosciences at Mohammed VI Polytechnic University (UM6P), my doctoral research sits precisely at the intersection of satellite hyperspectral remote sensing, machine learning workflows, and field geochemical validation. 
 
-Attending this intensive training program represents a pivotal opportunity to align my practical experience with the expertise of the scientists operating the PRISMA and EnMAP constellations.
+Attending this intensive training program represents a crucial opportunity to align my practical experience with the expertise of the scientists operating the PRISMA and EnMAP constellations.
 
 ### Why I am interested in attending the Autumn School
 My doctoral work focuses on upscaling point-scale mineralogical findings to landscape scales using spaceborne hyperspectral sensors. The EXPERT project’s mission of advancing excellence in hyperspectral remote sensing through coordination between ROSA, ASI, and DLR directly aligns with my scientific ambitions. 
 
-Having spent the last four years working externally with EnMAP (DLR) and PRISMA (ASI) datasets, I am eager to interact with the core research teams who built and operate these instruments (such as Dr. Daniele Cerra and Dr. Deodato Tapete). Furthermore, as I transition into a postdoctoral career, this school offers a premium platform to exchange methodological insights, establish international collaborations, and contribute my user-side pipeline experience back to the European Earth Observation community.
+Having spent my PhD working with EnMAP (DLR) and PRISMA (ASI) datasets, I am eager to interact with the core research teams who built and operate these instruments (such as Dr. Daniele Cerra and Dr. Deodato Tapete). This school offers a premium platform to exchange methodological insights, establish international collaborations, and contribute my user-side pipeline experience to the Earth Observation community.
 
 ### Relation of the Autumn School to my domain of study and expertise
-My PhD thesis is titled *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks in Benguerir Mine, Morocco."* In this work, I designed and implemented an end-to-end Python processing pipeline (1,776 lines of production code) that ingests raw Level-1B hyperspectral acquisitions and outputs a novel, geochemically validated **Reclamation Progress Index (RPI)**. 
+My PhD thesis is titled *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks in Benguerir Mine, Morocco."* In this work, I designed and implemented an end-to-end Python processing pipeline that ingests raw Level-1B hyperspectral acquisitions and outputs a novel, geochemically validated **Reclamation Progress Index (RPI)**. 
 
 My work involves preprocessing (bad-band detection, atmospheric correction, co-registration), spectral endmember extraction (Vertex Component Analysis - VCA), and fully constrained linear unmixing (FCLS) to map dolomite, calcite, illite, kaolinite, and apatite fractions across active mining zones. I validated these satellite classifications against a field database of 104 sample reflectances (ASD FieldSpec 4) and 127 landscape-scale geochemical ground-truth validation locations (HHXRF/XRD). 
 
@@ -5370,7 +5370,7 @@ The training modules offered at the Autumn School are a direct match to my resea
 ### Topics of greatest interest in the curriculum
 I am particularly interested in the **Dimensionality Reduction and Spectral Unmixing** session. Since mine waste dumps are highly heterogeneous, sub-pixel mixing is a physical constraint that limits classification accuracy. Discussing state-of-the-art endmember extraction optimization with DLR and ASI specialists will be invaluable. 
 
-I am also highly motivated by the **In situ Spectroscopic Measurements & Validation** module, as I wish to share and refine protocols for calibrating reflectance data against geochemical assays (like XRF and XRD) under challenging, dust-prone open-pit mine conditions. Lastly, I look forward to the **Team Competition (Day 5)**, which will allow me to collaborate with international peers on resolving real-world hyperspectral challenges.
+I am also highly motivated by the **In situ Spectroscopic Measurements & Validation** module, as I wish to share and refine protocols for calibrating reflectance data against geochemical assays (like XRF and XRD) under challenging open-pit mine conditions. Lastly, I look forward to the **Team Competition (Day 5)**, which will allow me to collaborate with international peers on resolving real-world hyperspectral challenges.
 
 Thank you for considering my application. I am confident that my technical background in EnMAP/PRISMA processing and my passion for geoscience remote sensing will make me an active and contributing participant in the school.
 
@@ -5396,15 +5396,15 @@ elmansour01abdelhak@gmail.com | +212 117 164 00
 
 Dear Selection Committee Members,
 
-It is my pleasure to write this letter of recommendation in support of **Mr. Abdelhak EL MANSOUR**, who is applying to attend the **Hyperspectral Autumn School 2026** within the framework of the Horizon Europe EXPERT Project. Abdelhak has been conducting his doctoral research under my direct supervision at the Geology and Sustainable Mining Institute (GSMI), UM6P, and will defend his PhD dissertation on **June 30, 2026**. I can state without hesitation that he is one of the most technically capable and scientifically driven PhD students I have supervised.
+It is my pleasure to write this letter of recommendation in support of **Mr. Abdelhak EL MANSOUR**, who is applying to attend the **Hyperspectral Autumn School 2026** within the framework of the Horizon Europe EXPERT Project. Abdelhak is currently carrying out his doctoral research under my direct supervision at the Geology and Sustainable Mining Institute (GSMI), UM6P. I can state without hesitation that he is one of the most technically capable and scientifically driven PhD students I have supervised.
 
-Abdelhak's thesis, *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks,"* addresses a highly challenging industrial problem: monitoring open-pit mine reclamation progress across OCP Group’s vast active footprints. To solve this, Abdelhak designed, built, and validated a complete Python processing pipeline for PRISMA (ASI) and EnMAP (DLR) spaceborne hyperspectral data from scratch. His pipeline successfully integrates Vertex Component Analysis (VCA) and Fully Constrained Linear Unmixing (FCLS) to map sub-pixel carbonate, clay, and phosphate mineral fractions. 
+Abdelhak's thesis, *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks,"* addresses a highly challenging industrial problem: monitoring open-pit mine reclamation progress across OCP Group’s vast active footprints. To solve this, Abdelhak designed, built, and validated a complete Python processing pipeline for PRISMA (ASI) and EnMAP (DLR) spaceborne hyperspectral data. His pipeline successfully integrates Vertex Component Analysis (VCA) and Fully Constrained Linear Unmixing (FCLS) to map sub-pixel carbonate, clay, and phosphate mineral fractions. 
 
 What distinguishes Abdelhak is his rigorous approach to validation. He conducted multiple demanding field campaigns, collecting 104 spectral signatures (using the ASD FieldSpec 4 spectroradiometer) and executing XRF and XRD laboratory validations on 127 landscape-scale geochemical samples. His work culminated in the development of a novel **Reclamation Progress Index (RPI)**, which correlates spaceborne unmixed fractions to physical geochemical parameters with a remarkable Spearman correlation coefficient of **0.845 (p-value = 1.74 × 10⁻¹²)**. His results have been published in top-tier journals, including *Sensors* (2025) and *Minerals* (2026).
 
 Beyond his technical capabilities, Abdelhak is a mature researcher who has actively mentored junior engineering and Master's students, demonstrating excellent leadership and communication skills. His experience is also internationally rounded, having completed a highly successful six-month research mobility at the University of Valencia within Pr. Jochem Verrelst's team, where he developed PRISMA mining waste classification models.
 
-The curriculum of the Autumn School—specifically the sessions on **Spectral Unmixing, Co-registration, and In situ Spectroscopy & Validation**—mirrors Abdelhak’s expertise perfectly. This training will allow him to refine his skills, share his custom Python workflow insights with specialists from DLR and ASI, and form postdoctoral connections that are crucial for upscaling his mine monitoring framework. 
+The curriculum of the Autumn School—specifically the sessions on **Spectral Unmixing, Co-registration, and In situ Spectroscopy & Validation**—mirrors Abdelhak’s expertise perfectly. This training will allow him to refine his skills, share his custom Python workflow insights with specialists from DLR and ASI, and form collaborative networks that are crucial for upscaling his mine monitoring framework. 
 
 I strongly recommend Mr. Abdelhak EL MANSOUR for the Hyperspectral Autumn School 2026. He will be an exemplary and highly active participant. Should you require any further information, please do not hesitate to contact me.
 
