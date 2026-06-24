@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 485 | **Total Word Count**: ~89942 words
+> **Total Files Compiled**: 485 | **Total Word Count**: ~90051 words
 
 ## 📂 Table of Contents
 
@@ -37,7 +37,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/MOCs/Remote-Sensing MOC.md](#-file-04_knowledge-base-wiki-mocs-remote-sensing-moc-md) (~43 words)
 - [04_Knowledge Base/wiki/MOCs/Visualization MOC.md](#-file-04_knowledge-base-wiki-mocs-visualization-moc-md) (~31 words)
 - [04_Knowledge Base/wiki/MOCs/Waste-Rock MOC.md](#-file-04_knowledge-base-wiki-mocs-waste-rock-moc-md) (~48 words)
-- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~634 words)
+- [04_Knowledge Base/wiki/MOCs/Wiki-Concept MOC.md](#-file-04_knowledge-base-wiki-mocs-wiki-concept-moc-md) (~743 words)
 - [04_Knowledge Base/wiki/entities/Gantour Basin.md](#-file-04_knowledge-base-wiki-entities-gantour-basin-md) (~448 words)
 - [04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine.md](#-file-04_knowledge-base-wiki-entities-ocp-group-and-benguerir-mine-md) (~278 words)
 - [04_Knowledge Base/wiki/sources/Abdelhak2022Progressive.md](#-file-04_knowledge-base-wiki-sources-abdelhak2022progressive-md) (~634 words)
@@ -1761,6 +1761,20 @@ tags:
 ---
 
 ## 📂 Core Concepts
+- [[Triassic Extensional Vein Formation]] — Added automatically.
+- [[Touroug Baryte Deposit]] — Added automatically.
+- [[Tiouit Hydrothermal Alteration]] — Added automatically.
+- [[Tiouit Gold Deposit]] — Added automatically.
+- [[Tadla Plain Geophysics]] — Added automatically.
+- [[South Benguerir Phosphate Deposit]] — Added automatically.
+- [[Microscopic Petrography of Copper Stockworks]] — Added automatically.
+- [[Listing Case Reserve Estimation]] — Added automatically.
+- [[Jbel N'Zourk Copper Deposit]] — Added automatically.
+- [[Ganntour Basin Phosphatogenesis]] — Added automatically.
+- [[Electrical Resistivity Tomography (ERT) for Aquifer Studies]] — Added automatically.
+- [[Beni Bousera Metapelites]] — Added automatically.
+- [[Anti-Atlas Pluton Geochemical Classification]] — Added automatically.
+- [[Adoudounian Copper Mineralization]] — Added automatically.
 - [[XRD and Petrographic Validation of Classification Labels]] — Added automatically.
 - [[SWIR-HHXRF Spectral-Elemental Validation Criteria]] — Added automatically.
 - [[Stratigraphy of the Gantour Basin and Benguerir Mine]] — Added automatically.
