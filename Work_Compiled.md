@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-24
+date: 2026-06-25
 tags: [knowledge, compiled, notebooklm, work]
 summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 ---
@@ -8,11 +8,11 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 59 | **Total Word Count**: ~42474 words
+> **Total Files Compiled**: 59 | **Total Word Count**: ~42483 words
 
 ## 📂 Table of Contents
 
-- [Dashboard.md](#-file-dashboard-md) (~834 words)
+- [Dashboard.md](#-file-dashboard-md) (~843 words)
 - [02_Academic & Work/work/Flashcards — Career.md](#-file-02_academic-&-work-work-flashcards-—-career-md) (~760 words)
 - [02_Academic & Work/work/Index.md](#-file-02_academic-&-work-work-index-md) (~261 words)
 - [02_Academic & Work/work/Tools Setup.md](#-file-02_academic-&-work-work-tools-setup-md) (~754 words)
@@ -237,7 +237,7 @@ const html = `
 <div class="dash-container">
   <div class="dash-header">
     <h1>🎓 Abdelhak's Mission Control</h1>
-    <p>⚡ <strong>${days} Days to Thesis Defense</strong> (June 30, 2026) — Sprint Progress: ${pct}% (${elapsed}/${total} days elapsed)</p>
+    <p>⚡ <strong>${days} Days to Thesis Defense</strong> (June 30, 2026) — Sprint Progress: ${pct}% (${elapsed}/${total} days elapsed) · <a href="file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/Vault_Intelligence_Portal.html" style="color:#e0f2fe; text-decoration:underline; font-weight:600;">Open Vault Intelligence Portal</a></p>
     <div class="progress-bg">
       <div class="progress-fg" style="width: ${pct}%"></div>
     </div>
