@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 60 | **Total Word Count**: ~42910 words
+> **Total Files Compiled**: 60 | **Total Word Count**: ~42898 words
 
 ## 📂 Table of Contents
 
@@ -65,7 +65,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/applications/Recommendation Letter — Hyperspectral Autumn School 2026.md](#-file-02_academic-&-work-work-applications-recommendation-letter-—-hyperspectral-autumn-school-2026-md) (~427 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-cv_abdelhak_el_mansour-md) (~672 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~606 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-identity_of_applicant-md) (~75 words)
+- [02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-identity_of_applicant-md) (~63 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Motivation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-motivation_letter-md) (~584 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Recommendation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-recommendation_letter-md) (~456 words)
 - [02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv---utwente-md) (~645 words)
@@ -5381,10 +5381,8 @@ Google Scholar: https://scholar.google.com/citations?user=ysUOZQ0AAAAJ
 *   **Affiliation**: Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
 *   **Country of Origin**: Morocco
 *   **Nationality**: Moroccan
-*   **National ID (CIN)**: U180210
 *   **Email**: elmansour01abdelhak@gmail.com
 *   **Phone (Morocco)**: +212 117 164 00
-*   **Phone (Spain)**: +34 722 322 390
 
 
 
