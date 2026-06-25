@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 59 | **Total Word Count**: ~42483 words
+> **Total Files Compiled**: 60 | **Total Word Count**: ~42910 words
 
 ## 📂 Table of Contents
 
@@ -62,6 +62,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter---wageningen-wur-rs-scientist-md) (~589 words)
 - [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3077 words)
 - [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~552 words)
+- [02_Academic & Work/work/applications/Recommendation Letter — Hyperspectral Autumn School 2026.md](#-file-02_academic-&-work-work-applications-recommendation-letter-—-hyperspectral-autumn-school-2026-md) (~427 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-cv_abdelhak_el_mansour-md) (~672 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~606 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-identity_of_applicant-md) (~75 words)
@@ -5150,6 +5151,57 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 ---
 
 *Related: [[02_Academic & Work/work/active/Fitted Opportunities & Targets|Opportunities Dashboard]] · [[02_Academic & Work/work/active/Job Board - Live Tracker|Job Board]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Recommendation Letter — Hyperspectral Autumn School 2026.md
+
+---
+date: 2026-06-25
+tags:
+---
+
+
+# Recommendation Letter — Hyperspectral Autumn School 2026
+
+> **Note for Pr. Laamrani:** Draft prepared for your review. Please adjust your title/affiliation line if needed, add your email/phone, and sign below the closing.
+
+---
+
+**Pr. Ahmed LAAMRANI**  
+Associate Professor — Center of Remote Sensing Applications (CRSA)  
+University Mohammed VI Polytechnic (UM6P)  
+Benguerir, Morocco  
+[Email] | [Phone]
+
+[City, Date]
+
+**To the Organizing Committee,**  
+Hyperspectral Autumn School 2026
+
+---
+
+Dear Members of the Committee,
+
+It is with great confidence that I recommend **Dr. Abdelhak EL MANSOUR** for participation in the Hyperspectral Autumn School 2026. I have supervised Dr. EL MANSOUR throughout his doctoral research at UM6P and am in a strong position to attest to both his scientific depth and his readiness to benefit from — and contribute to — this program.
+
+Dr. EL MANSOUR completed his PhD thesis, *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks in Benguerir Mine, Morocco"*, at the Geology and Sustainable Mining Institute (GSMI), UM6P. His work is one of the first to apply a multi-scale hyperspectral framework — spanning satellite (PRISMA, EnMAP), field (ASD FieldSpec 4), and laboratory scales — to the characterization of mine waste rocks in an industrial phosphate context. The thesis produced three peer-reviewed publications, including papers in *Sensors* (IF 3.5) and *Minerals* (IF 2.2), and introduced a novel Reclamation Progress Index (RPI) validated against independent XRF ground truth (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²).
+
+His technical profile is directly aligned with the school's scope. Dr. EL MANSOUR has hands-on experience with full hyperspectral processing pipelines: HDF5 data ingestion, VNIR-SWIR spectral fusion, bad-band removal, atmospheric correction, spectral library matching (USGS/ECOSTRESS), and machine learning classification (Extra Trees, Random Forest, CNN variants, SCSE). He is equally comfortable at the algorithmic level (spectral unmixing, VCA-FCLS, spatial cross-validation) and at the application level (lithological mapping, reclamation monitoring, mineral detection).
+
+Beyond technical competence, Dr. EL MANSOUR is a motivated and independent researcher who has consistently driven his own work forward under challenging field conditions and with limited institutional resources. He has presented at international conferences including EGU 2025 and EARSeL 2024 (Valencia), demonstrating his engagement with the broader hyperspectral research community.
+
+I am confident that he will engage seriously with the school's content, bring relevant field experience to discussions, and represent our group well. I recommend him without reservation.
+
+Please do not hesitate to contact me should you require any additional information.
+
+Yours sincerely,
+
+**Pr. Ahmed LAAMRANI**  
+Associate Professor, CRSA — UM6P  
+PhD Supervisor of Dr. Abdelhak EL MANSOUR  
+[Email]
 
 
 
