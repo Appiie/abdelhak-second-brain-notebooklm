@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-24
+date: 2026-06-25
 tags: [knowledge, compiled, notebooklm, thesis]
 summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 ---
@@ -8,11 +8,11 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 29 | **Total Word Count**: ~23008 words
+> **Total Files Compiled**: 29 | **Total Word Count**: ~23013 words
 
 ## 📂 Table of Contents
 
-- [Home.md](#-file-home-md) (~881 words)
+- [Home.md](#-file-home-md) (~886 words)
 - [02_Academic & Work/thesis/Pipeline_MOC.md](#-file-02_academic-&-work-thesis-pipeline_moc-md) (~232 words)
 - [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~1554 words)
 - [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
@@ -61,7 +61,7 @@ const days = Math.ceil((defense - today) / (1000 * 60 * 60 * 24));
 const total = 36;
 const elapsed = total - days;
 const bar = "█".repeat(Math.max(0,Math.min(elapsed,total))) + "░".repeat(Math.max(0,total-elapsed));
-dv.paragraph(`> [!danger] **${days} DAYS TO DEFENSE** — June 30, 2026\n> \`${bar}\` ${elapsed}/${total} sprint days elapsed\n> → [[02_Academic & Work/thesis/defense-prep/36-Day Sprint|Open Sprint]] · [[02_Academic & Work/thesis/Thesis MOC|Thesis MOC]] · [[02_Academic & Work/thesis/defense-prep/Oral Practice Log|Practice Log]]`);
+dv.paragraph(`> [!danger] **${days} DAYS TO DEFENSE** — June 30, 2026\n> \`${bar}\` ${elapsed}/${total} sprint days elapsed\n> → [[02_Academic & Work/thesis/defense-prep/36-Day Sprint|Open Sprint]] · [[02_Academic & Work/thesis/Thesis MOC|Thesis MOC]] · [[02_Academic & Work/thesis/defense-prep/Oral Practice Log|Practice Log]] · [🧠 Vault Intelligence Portal](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/Vault_Intelligence_Portal.html)`);
 ```
 
 ---
