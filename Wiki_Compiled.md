@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 485 | **Total Word Count**: ~90051 words
+> **Total Files Compiled**: 487 | **Total Word Count**: ~90609 words
 
 ## 📂 Table of Contents
 
@@ -48,6 +48,8 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/sources/DataSeries2017a.md](#-file-04_knowledge-base-wiki-sources-dataseries2017a-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/DataSeries2017b.md](#-file-04_knowledge-base-wiki-sources-dataseries2017b-md) (~50 words)
 - [04_Knowledge Base/wiki/sources/Delogu2023Using.md](#-file-04_knowledge-base-wiki-sources-delogu2023using-md) (~572 words)
+- [04_Knowledge Base/wiki/sources/EXPERT-Autumn-School-2026-Call.md](#-file-04_knowledge-base-wiki-sources-expert-autumn-school-2026-call-md) (~371 words)
+- [04_Knowledge Base/wiki/sources/EXPERT-Autumn-School-2026-RecLetter-Laamrani.md](#-file-04_knowledge-base-wiki-sources-expert-autumn-school-2026-recletter-laamrani-md) (~187 words)
 - [04_Knowledge Base/wiki/sources/EditorialSpecialIssue.md](#-file-04_knowledge-base-wiki-sources-editorialspecialissue-md) (~53 words)
 - [04_Knowledge Base/wiki/sources/EnMAPSpaceborneImaging.md](#-file-04_knowledge-base-wiki-sources-enmapspaceborneimaging-md) (~54 words)
 - [04_Knowledge Base/wiki/sources/Ewing2020Utilizing.md](#-file-04_knowledge-base-wiki-sources-ewing2020utilizing-md) (~492 words)
@@ -2289,6 +2291,119 @@ Hyperspectral satellite missions, such as PRISMA of the Italian Space Agency (AS
 - [[04_Archives/D-Drive/D-Drive — PHD-3rd]]
 - [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]]
 - [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]]
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/EXPERT-Autumn-School-2026-Call.md
+
+---
+tags:
+date: 2026-06-25
+---
+
+
+# Hyperspectral Autumn School 2026 — EXPERT Project (Call for Participation)
+
+## Key Info
+
+| Item | Detail |
+|------|--------|
+| Event | Hyperspectral Autumn School 2026 |
+| Project | EXPERT (Reaching Excellence in Hyperspectral Remote Sensing) |
+| Horizon Europe Grant | 101160059 / HORIZON-WIDERA-2023-ACCESS-02 |
+| Dates | 12-16 October 2026 |
+| Venue | Sinaia, Romania |
+| Organizer | Romanian Space Agency (ROSA) |
+| Partners | ASI (Italian Space Agency), DLR (German Aerospace Center) |
+| Contact | Mrs. Iulia Dana Negula — iulia.dana@rosa.ro |
+| Deadline | 15 June 2026 (Abdelhak applied late on 25 June 2026) |
+| Cost | Free (no travel/accommodation grant) |
+| Language | English |
+
+## Curriculum
+
+| Day | Date | Topic |
+|-----|------|-------|
+| Day 1 | Oct 12 | Fundamentals of Hyperspectral Remote Sensing |
+| Day 2 | Oct 13 | Dimensionality Reduction and Spectral Unmixing |
+| Day 3 | Oct 14 | Co-registration and Spectral Analysis |
+| Day 4 | Oct 15 | In situ Spectroscopic Measurements and Validation |
+| Day 5 | Oct 16 | Team Competition |
+
+## Lecturers
+
+- **Deodato Tapete** (ASI) — Senior Researcher EO, PRISMA Mission Commissioning Phase, SAR/hyperspectral
+- **Daniele Cerra** (DLR) — Remote Sensing Technology Institute, hyperspectral imaging, data fusion, 150+ publications
+- **Giacomo Lazzeri** (ASI) — Junior Researcher, mineralogical applications, multisource data integration
+
+## Selection Criteria (50/50)
+
+- **Applicant profile (50%)**: PhD/postdoc/early-stage researcher, EO background, study field, diversity
+- **Motivation and career (50%)**: motivation, professional project, career fit
+
+## Required Documents
+
+1. Identity sheet (name, gender, DOB, age, affiliation, country)
+2. One-page motivation letter (3 questions: why, how related, which topics)
+3. CV with photo + explicit consent declaration
+4. PhD student card or official university document
+5. Letter of recommendation (supervisor for PhD students)
+
+## Abdelhak's Application Status
+
+- Applied: 2026-06-25 (10 days late, acknowledged in email)
+- Attachments sent: Motivation Letter PDF, CV (RESUME ELMANSOUR2026 LATT.pdf), PhD Contract, Rec Letter (Laamrani signed)
+- Fit score: near-perfect — PRISMA/EnMAP user, VCA-FCLS practitioner, ASD FieldSpec 4 field campaigns, published in Sensors/Minerals
+- Application folder: [[02_Academic & Work/work/applications/Autumn-School-2026]]
+
+## Links
+
+- Project site: https://expert-project.rosa.ro/
+- Source file: `.raw/Call-for-participants_Autumn-School_2026_EXPERT-Project-1.pdf`
+
+
+
+
+## 📄 File: 04_Knowledge Base/wiki/sources/EXPERT-Autumn-School-2026-RecLetter-Laamrani.md
+
+---
+tags:
+date: 2026-06-25
+---
+
+
+# Recommendation Letter — Laamrani for EXPERT Autumn School 2026
+
+## Metadata
+
+| Item | Detail |
+|------|--------|
+| Author | Dr. Ahmed LAAMRANI, PhD |
+| Title | Professor in Soil Remote Sensing and GIS |
+| Institution | CRSA / CAES, Mohammed VI Polytechnic University (UM6P) |
+| Email | ahmed.laamrani@um6p.ma |
+| Date | June 25, 2026 |
+| Addressed to | Selection Committee, Hyperspectral Autumn School 2026 / EXPERT Project |
+| File | `.raw/Recommendation_Letter Autumn school-al.pdf` |
+
+## Key Statements (for reference)
+
+- "He is among the most talented, motivated, and scientifically rigorous PhD candidates I have had the opportunity to supervise."
+- Thesis described in full: PRISMA/EnMAP pipeline, VCA-FCLS unmixing, ASD FieldSpec 4 campaigns, XRF/XRD validation, novel RPI index
+- "I therefore recommend him without reservation and strongly support his application."
+
+## Notes
+
+- Signed letter (handwritten signature: ahmedLaamrani)
+- On official UM6P/CRSA letterhead
+- Specifically addressed to the EXPERT Autumn School selection committee
+- Used in Abdelhak's application sent 2026-06-25
+
+## Links
+
+- Application tracker: [[02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application]]
+- Supervisor profile: [[02_Academic & Work/org/people/Ahmed Laamrani]]
 
 
 
