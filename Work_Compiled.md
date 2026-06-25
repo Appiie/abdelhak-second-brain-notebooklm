@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 60 | **Total Word Count**: ~42898 words
+> **Total Files Compiled**: 60 | **Total Word Count**: ~42875 words
 
 ## 📂 Table of Contents
 
@@ -64,7 +64,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~552 words)
 - [02_Academic & Work/work/applications/Recommendation Letter — Hyperspectral Autumn School 2026.md](#-file-02_academic-&-work-work-applications-recommendation-letter-—-hyperspectral-autumn-school-2026-md) (~427 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-cv_abdelhak_el_mansour-md) (~672 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~606 words)
+- [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~583 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-identity_of_applicant-md) (~63 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Motivation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-motivation_letter-md) (~584 words)
 - [02_Academic & Work/work/applications/Autumn-School-2026/Recommendation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-recommendation_letter-md) (~456 words)
@@ -5361,11 +5361,11 @@ Google Scholar: https://scholar.google.com/citations?user=ysUOZQ0AAAAJ
 
 ---
 
-## 💡 Recommended Next Steps for Abdelhak:
-1. **Open the documents**: Review the generated Word files in [Autumn-School-2026 Folder](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026) to ensure the formatting matches your standards.
-2. **Obtain Supervisor's Signature**: Print or send the [Recommendation_Letter.docx](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Recommendation_Letter.docx) to Pr. Ahmed Laamrani for his final signature.
-3. **Export as PDF**: Save the CV, Motivation Letter, and signed Recommendation Letter as PDF files.
-4. **Draft the email**: Copy the email template above, attach the PDFs and your photo, and send it to Mrs. Iulia Dana Negula.
+## 💡 Submission Log
+- [x] **Review documents** in [Autumn-School-2026 Folder](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026) ✅
+- [x] **Obtain Supervisor's Signature**: Pr. Ahmed Laamrani signed the recommendation letter on 2026-06-25 ✅
+- [x] **Export as PDF**: CV, Motivation Letter, and signed Recommendation Letter exported to PDF ✅
+- [x] **Email sent**: Application package sent to Mrs. Iulia Dana Negula ([iulia.dana@rosa.ro](mailto:iulia.dana@rosa.ro)) on 2026-06-25 ✅
 
 
 
