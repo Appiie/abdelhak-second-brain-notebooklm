@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-25
+date: 2026-07-15
 tags: [knowledge, compiled, notebooklm, thesis]
 summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 ---
@@ -18,9 +18,6 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 - [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-01-12.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-01-12-md) (~206 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-03-07.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-03-07-md) (~173 words)
-- [02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md](#-file-02_academic-&-work-thesis-literature-notes-@elmansour2025sensors-md) (~193 words)
-- [02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md](#-file-02_academic-&-work-thesis-literature-notes-@roberts2019unmixing-md) (~184 words)
-- [02_Academic & Work/thesis/literature-notes/@verrelst2021review.md](#-file-02_academic-&-work-thesis-literature-notes-@verrelst2021review-md) (~222 words)
 - [02_Academic & Work/thesis/defense-prep/30-Day Countdown.md](#-file-02_academic-&-work-thesis-defense-prep-30-day-countdown-md) (~546 words)
 - [02_Academic & Work/thesis/defense-prep/36-Day Sprint.md](#-file-02_academic-&-work-thesis-defense-prep-36-day-sprint-md) (~806 words)
 - [02_Academic & Work/thesis/defense-prep/Defense Quiz — NotebookLM.md](#-file-02_academic-&-work-thesis-defense-prep-defense-quiz-—-notebooklm-md) (~1178 words)
@@ -41,6 +38,9 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 - [02_Academic & Work/thesis/defense-prep/Reviewer 4 Response.md](#-file-02_academic-&-work-thesis-defense-prep-reviewer-4-response-md) (~650 words)
 - [02_Academic & Work/thesis/defense-prep/Session 0 — First Run.md](#-file-02_academic-&-work-thesis-defense-prep-session-0-—-first-run-md) (~549 words)
 - [02_Academic & Work/thesis/defense-prep/Victory Speech.md](#-file-02_academic-&-work-thesis-defense-prep-victory-speech-md) (~580 words)
+- [02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md](#-file-02_academic-&-work-thesis-literature-notes-@elmansour2025sensors-md) (~193 words)
+- [02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md](#-file-02_academic-&-work-thesis-literature-notes-@roberts2019unmixing-md) (~184 words)
+- [02_Academic & Work/thesis/literature-notes/@verrelst2021review.md](#-file-02_academic-&-work-thesis-literature-notes-@verrelst2021review-md) (~222 words)
 
 
 
@@ -290,7 +290,7 @@ SCALE ────────────────────────�
 | Instrument + data | [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging]] — ASD FieldSpec 4, 350–2500 nm, 104 samples |
 | Method | [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]] — ECOSTRESS, 4 metrics: RMSE/SAM/SID/R² |
 | Unmixing | [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]] — NNLS with library endmembers |
-| Validation | [[04_Knowledge Base/wiki/concepts/Handheld XRF]] — HHXRF elemental cross-check, P₂O₅ up to 23.86 wt% |
+| Validation | [[04_Knowledge Base/wiki/entities/Handheld XRF]] — HHXRF elemental cross-check, P₂O₅ up to 23.86 wt% |
 | Site mineralogy | [[04_Knowledge Base/wiki/concepts/Mineral Assemblages]] — clays dominate surface, apatite ranks 3–7 |
 | Result | Mean R²=0.748, 84% spectra >0.70 |
 | Paper | Sensors 2025, DOI: 10.3390/s26010002 |
@@ -312,7 +312,7 @@ SCALE ────────────────────────�
 
 | Key concept | Link |
 |-------------|------|
-| Sensor | [[04_Knowledge Base/wiki/concepts/PRISMA Satellite]] — ~239 bands, 30m, HDF5, Jan 2022 |
+| Sensor | [[04_Knowledge Base/wiki/entities/PRISMA Satellite]] — ~239 bands, 30m, HDF5, Jan 2022 |
 | ML methods | [[04_Knowledge Base/wiki/concepts/Machine Learning for Hyperspectral]] — Extra Trees + RF best |
 | Feature selection | [[04_Knowledge Base/wiki/concepts/ANOVA Wavelength Ranking & Selection Stability\|ANOVA Wavelength Ranking & Selection Stability]] — ANOVA nested in CV → top 60 SWIR bands |
 | Preprocessing | [[04_Knowledge Base/wiki/concepts/PRISMA Image Preprocessing & Spectral Optimization\|PRISMA Image Preprocessing & Spectral Optimization]] — ENVI spatial alignment, atmospheric masking, Savitzky–Golay smoothing |
@@ -338,7 +338,7 @@ SCALE ────────────────────────�
 
 | Key concept | Link |
 |-------------|------|
-| Sensor | [[04_Knowledge Base/wiki/concepts/EnMAP Satellite]] — 189 valid bands, 418–2445 nm, higher SNR |
+| Sensor | [[04_Knowledge Base/wiki/entities/EnMAP Satellite]] — 189 valid bands, 418–2445 nm, higher SNR |
 | Unmixing | [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]] — VCA (k=4) + FCLS abundance maps |
 | Novel index | [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]] — RPI: RZ=0.896, RWR=0.203 |
 | Calibration | Isotonic regression vs XRF geochemical support scores |
@@ -443,7 +443,7 @@ created: '2026-06-08'
 ---
 
 ## The Research Problem
-Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based characterization (XRD, XRF) is expensive, slow, and spatially limited. **The question:** Can multi-scale hyperspectral remote sensing — from satellite ([[04_Knowledge Base/wiki/concepts/PRISMA Satellite\|PRISMA]]) to field — accurately characterize the mineralogy of these waste rocks AND monitor their reclamation progress over time?
+Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based characterization (XRD, XRF) is expensive, slow, and spatially limited. **The question:** Can multi-scale hyperspectral remote sensing — from satellite ([[04_Knowledge Base/wiki/entities/PRISMA Satellite\|PRISMA]]) to field — accurately characterize the mineralogy of these waste rocks AND monitor their reclamation progress over time?
 
 ## What Makes It Original
 1. **Multi-scale:** satellite (PRISMA) + field spectroscopy + lab validation
@@ -504,7 +504,7 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 - Moderate accuracy = physically constrained upper bound (30 m sub-pixel mixing), not a failure
 - Accepted: *Minerals* 2026 (IF 2.2) ✅
 
-### Chapter 3 — Reclamation Monitoring ([[04_Knowledge Base/wiki/concepts/EnMAP Satellite\|EnMAP]] + XRF, n=32/zone)
+### Chapter 3 — Reclamation Monitoring ([[04_Knowledge Base/wiki/entities/EnMAP Satellite\|EnMAP]] + XRF, n=32/zone)
 - Backfilling detection: **BAC = 0.984 ± 0.031, AUC = 1.000**
 - All 189 valid EnMAP bands significant (Mann-Whitney U), median effect size **r = 0.859**
 - Permutation test: p = 0.0001
@@ -555,7 +555,7 @@ date: 2022-01-12
 ## Meeting Metadata
 *   **Date**: 12 January 2022
 *   **Topic**: Research direction and sampling strategy for progressive rehabilitation of phosphate mining sites.
-*   **Attendees**: Abdelhak El Mansour, Pr. Mostafa Benzaazoua, Pr. Ahmed Laamrani, Pr. Rachid Hakkou, and Pr. Abdellatif El Ghali.
+*   **Attendees**: Abdelhak El Mansour, Pr. Mostafa Benzaazoua, Pr. [[Ahmed Laamrani]], Pr. Rachid Hakkou, and Pr. Abdellatif El Ghali.
 *   **Original File**: [Compte rendu de l'état d'avancement-Abdelhak EL MANSOUR.docx](file:///D:/PHD-1st/Compte%20rendu/Compte%20rendu%20de%20l'état%20d'avancement-Abdelhak%20EL%20MANSOUR.docx)
 
 ---
@@ -590,13 +590,13 @@ date: 2022-03-07
 
 ## Meeting Metadata
 *   **Date**: 7 March 2022 (30-minute duration)
-*   **Supervisor**: Pr. Ahmed Laamrani
+*   **Supervisor**: Pr. [[Ahmed Laamrani]]
 *   **Original File**: [Compte rendu-réunion 07mars2022.docx](file:///D:/PHD-1st/Compte%20rendu/Compte%20rendu-réunion%2007mars2022.docx)
 
 ---
 
 ## Key Decisions & Milestones
-1.  **PRISMA Image Acquisition**: Confirmed plans for acquiring PRISMA satellite hyperspectral data covering the Benguerir mine.
+1.  **PRISMA Image Acquisition**: Confirmed plans for acquiring [[PRISMA Satellite]] hyperspectral data covering the Benguerir mine.
 2.  **Spectral Preprocessing**: Discussed methods for dimensionality reduction of hyperspectral bands (e.g., PCA and MNF in ENVI/R).
 3.  **Ground-Truth Markers**: Emphasized the importance of leaving clear physical markers (signs/stakes) on the ground during Panel 2 sampling to ensure accurate spatial registration with satellite pixels.
 4.  **Target Chemical Parameter**: Confirmed **$P_2O_5$** (phosphorus pentoxide) weight percentage as the primary chemical target to map phosphorus distribution across the mine waste rocks.
@@ -610,109 +610,6 @@ date: 2022-03-07
 - [[04_Knowledge Base/wiki/concepts/Phosphate Waste Rock Piles Sampling Strategy]]
 - [[04_Knowledge Base/wiki/concepts/Code — Khalil — Ensemble Band Selection]]
 - [[02_Academic & Work/org/people/Ahmed Laamrani]]
-
-
-
-
-## 📄 File: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md
-
----
-title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
-tags:
-date: 2026-06-07
-created: '2026-06-07'
----
-
-
-# Your Paper — Chapter 1 (Sensors 2025)
-
-**This is your own published work. Know it cold.**
-
-## What it does
-Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. [[Spectral Library Matching]] against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
-
-## Key Results
-- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
-- 84% of spectra have R² > 0.70
-- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
-- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
-- Apatite spectral rank: 3–7 in field spectra
-
-## Novelty
-First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
-
-## Jury Defense Angle
-*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
-
-## Links
-- [[02_Academic & Work/thesis/Thesis MOC]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
-- [[04_Knowledge Base/wiki/concepts/Handheld XRF]]
-
-
-
-
-## 📄 File: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md
-
----
-title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
-tags:
-date: 2026-06-07
-created: '2026-06-07'
----
-
-
-# Unmixing Foundation Paper — Chapter 3 Justification
-
-**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
-
-## Core Argument
-Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
-
-## How it Supports Your Thesis
-- Justifies linear model at 30m EnMAP resolution
-- VCA as standard for geological endmember extraction without prior knowledge
-- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
-
-## Defense Quote Ready
-*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
-
-## Links
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[02_Academic & Work/thesis/Thesis MOC]]
-
-
-
-
-## 📄 File: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md
-
----
-title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
-tags:
-date: 2026-06-07
-created: '2026-06-07'
----
-
-
-# Verrelst 2021 — RTM & Retrieval Methods Review
-
-**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
-
-## Core Argument
-Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
-
-## Your Defense Angle Against This
-*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
-
-## If Verrelst Pushes Back
-- Acknowledge RTM validity for vegetation/soil systems
-- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
-- Note that SCOPE/PROSAIL are not designed for [[Phosphate Mine Waste]] mineralogy
-
-## Links
-- [[02_Academic & Work/thesis/defense-prep/[[Jury Questions Prep]] — Advanced]]
-- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
-- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
 
 
 
@@ -1231,7 +1128,7 @@ Defense date: June 30, 2026 · Jury: 10 members
 - 104 field samples across waste rock zones
 - ASD FieldSpec 4: 350–2500 nm, 1 nm resolution
 - HHXRF: portable XRF for elemental composition (P₂O₅, Ca, Si, Al, Fe)
-- ECOSTRESS spectral library: 2,400+ mineral spectra (USGS)
+- [[ECOSTRESS Spectral Library]]: 2,400+ mineral spectra (USGS)
 - Visual: field photo + sampling map
 
 **Slide 9 — Spectral matching methods**
@@ -1818,9 +1715,9 @@ tags:
 ### H1 — Permutation p-value Contradiction | Attacker: Berg + Verrelst
 
 **Finding:** Three different values appear across prep files:
-- Numbers Arsenal + Flashcards + Jury Questions Prep Q2: `p = 0.0001`
-- **Jury Questions Prep — Advanced Q2 (the answer you will actually speak): `p = 0.002`**
-- Defense Strategy numbers table: `p = 0.002`
+- [[Numbers Arsenal]] + Flashcards + [[Jury Questions Prep]] Q2: `p = 0.0001`
+- **[[Jury Questions Prep — Advanced]] Q2 (the answer you will actually speak): `p = 0.002`**
+- [[Defense Strategy]] numbers table: `p = 0.002`
 
 **What the jury will ask:** "You report p = 0.0001 — is that exact or a rounded threshold? If exact, how is it possible with only 10,000 permutations? That implies zero permutations produced a result as extreme as observed."
 
@@ -1833,7 +1730,7 @@ tags:
 ### H2 — ECOSTRESS Library Size Inconsistency | Attacker: Verrelst
 
 **Finding:**
-- Defense Strategy numbers table: `1,609 spectra loaded`
+- [[Defense Strategy]] numbers table: `1,609 spectra loaded`
 - Defense Slides Master Plan Slide 8: `2,400+ mineral spectra (USGS)`
 
 Verrelst knows this library. He will notice if your slide says 2,400+ while your thesis says 1,609.
@@ -1850,7 +1747,7 @@ Verrelst knows this library. He will notice if your slide says 2,400+ while your
 
 **What the jury will ask:** "Were those XRF points used to fit the isotonic regression, or were they withheld? If used in fitting, ρ = 0.845 is a training metric, not a validation metric."
 
-**What's needed:** Verify from Chapter 3 whether a held-out split exists. If no split: remove "independent" from all verbal answers and Victory Speech. Replace with: "XRF-calibrated, with calibration fit assessed via leave-one-out cross-validation." You have rehearsed the word "independent" — it must be corrected before it is internalized.
+**What's needed:** Verify from Chapter 3 whether a held-out split exists. If no split: remove "independent" from all verbal answers and [[Victory Speech]]. Replace with: "XRF-calibrated, with calibration fit assessed via leave-one-out cross-validation." You have rehearsed the word "independent" — it must be corrected before it is internalized.
 
 > ⚠️ **Escalate:** Cannot verify without reading Chapter 3 Methods. HIGH risk if not clarified.
 
@@ -1859,7 +1756,7 @@ Verrelst knows this library. He will notice if your slide says 2,400+ while your
 ### H4 — Atmospheric Correction Algorithm Contradiction | Attacker: Verrelst
 
 **Finding:**
-- Jury Questions Prep — Advanced Q1 (your verbal answer): "PRISMA-ATCOR algorithm (L2D product from ASI)"
+- [[Jury Questions Prep — Advanced]] Q1 (your verbal answer): "PRISMA-ATCOR algorithm (L2D product from ASI)"
 - Defense Slides Master Plan Slide 14: "Atmospheric correction applied **(6SV)**"
 
 These are different algorithms. 6SV is a vector radiative transfer code; the PRISMA L2D product uses ATCOR. Verrelst works with atmospheric correction daily.
@@ -1873,7 +1770,7 @@ These are different algorithms. 6SV is a vector radiative transfer code; the PRI
 ### H5 — Paper Count: 4 vs. 5 | Attacker: Any jury member
 
 **Finding:**
-- Numbers Arsenal: 4 published + 2 in pipeline
+- [[Numbers Arsenal]]: 4 published + 2 in pipeline
 - Defense Slides Master Plan Slide 29: "5 published/accepted papers"
 
 **What's needed:** Consistent framing: "4 published (Sensors, IJEST, Mining, BDJ) + 1 accepted in press (Minerals Ch.2) + 1 submitted (Ch.3)." Update Slide 29 accordingly.
@@ -1884,17 +1781,17 @@ These are different algorithms. 6SV is a vector radiative transfer code; the PRI
 
 **Finding:**
 - Thesis Overview (×2): *Sensors* **2026**, doi: 10.3390/s26010002
-- Numbers Arsenal, Defense Strategy, Slides, Flashcards: *Sensors* **2025**
+- [[Numbers Arsenal]], [[Defense Strategy]], Slides, Flashcards: *Sensors* **2025**
 
 The DOI `s26010002` encodes Volume 26 = 2026. One of these is wrong everywhere.
 
-**What's needed:** Verify the official publication date on the journal website. If online-first in late 2025 but Volume 26 = 2026, the citation standard determines which year to use. Pick one, apply consistently to Numbers Arsenal + all prep files + slides.
+**What's needed:** Verify the official publication date on the journal website. If online-first in late 2025 but Volume 26 = 2026, the citation standard determines which year to use. Pick one, apply consistently to [[Numbers Arsenal]] + all prep files + slides.
 
 ---
 
 ### H7 — "Endmember-count sensitivity analysis confirms k=4" — Unverifiable | Attacker: Verrelst
 
-**Finding:** Jury Questions Prep VCA answer states: "endmember-count sensitivity analysis confirms 4 endmembers is the stable solution." No supporting detail anywhere — no k range tested, no criterion stated, no numbers in Numbers Arsenal.
+**Finding:** [[Jury Questions Prep]] VCA answer states: "endmember-count sensitivity analysis confirms 4 endmembers is the stable solution." No supporting detail anywhere — no k range tested, no criterion stated, no numbers in [[Numbers Arsenal]].
 
 **What the jury will ask:** "What criterion did you use? What happened at k=3 and k=5?"
 
@@ -1916,10 +1813,10 @@ The 30 m buffer is justified as "prevents shared pixels" but Berg may push for a
 Derivative of H1. Fix automatically once H1 is resolved.
 
 ### M4 — "Relatively New Satellite" Hedging | Verrelst
-In Jury Questions Prep Q1: "PRISMA is also *relatively new* (launched 2019)." PRISMA is 7 years old by June 2026. **Fix:** "PRISMA has been operational since 2019; mining applications remain severely underrepresented in the literature — this work is among the first systematic phosphate applications."
+In [[Jury Questions Prep]] Q1: "PRISMA is also *relatively new* (launched 2019)." PRISMA is 7 years old by June 2026. **Fix:** "PRISMA has been operational since 2019; mining applications remain severely underrepresented in the literature — this work is among the first systematic phosphate applications."
 
 ### M5 — "I Believe" in Closing Statement | General
-Defense Strategy 30-Second Closing: "I believe this combination... represents a model." **Fix:** "This thesis establishes a model for sustainable mine monitoring that extends well beyond Benguerir."
+[[Defense Strategy]] 30-Second Closing: "I believe this combination... represents a model." **Fix:** "This thesis establishes a model for sustainable mine monitoring that extends well beyond Benguerir."
 
 ### M6 — Heavy Metals Concentration Ranges Uncited | Khalil or Benzaazoua
 Advanced Q5 states Cd (0.1–0.5 ppm) and U (10–50 ppm) ranges without a source. Khalil works in mining geochemistry. **Fix:** Source these numbers — either your HHXRF data or a specific literature reference (not "typically").
@@ -1937,13 +1834,13 @@ Advanced Q5 states Cd (0.1–0.5 ppm) and U (10–50 ppm) ranges without a sourc
 
 ## Number Inconsistencies
 
-| Claim | Prep note value | Numbers Arsenal / source-of-truth | Risk |
+| Claim | Prep note value | [[Numbers Arsenal]] / source-of-truth | Risk |
 |-------|----------------|-----------------------------------|------|
-| Permutation p-value | `p = 0.002` (Advanced Q2, Defense Strategy) | `p = 0.0001` (Numbers Arsenal, Flashcards, Jury Questions Prep Q2) | **HIGH** |
-| ECOSTRESS library size | `2,400+` (Slides, Slide 8) | `1,609 loaded + 15 curated` (Defense Strategy numbers table) | **HIGH** |
-| Sensors year | `2025` (Numbers Arsenal, Defense Strategy, Slides, Flashcards) | `2026` (Thesis Overview ×2, consistent with DOI vol 26) | **HIGH** |
-| Published paper count | `5 published/accepted` (Slide 29) | `4 published + 2 in pipeline` (Numbers Arsenal) | MEDIUM |
-| EnMAP pixels vs. XRF points | "n=32 per zone" used for both EnMAP pixels (actually 49 RZ / 47 RWR) and XRF calibration points (32 per zone) | Numbers Arsenal: 32 = XRF calibration; Defense Strategy: 49+47 = EnMAP pixels | MEDIUM — conflating the two in Berg's power question is misleading |
+| Permutation p-value | `p = 0.002` (Advanced Q2, [[Defense Strategy]]) | `p = 0.0001` ([[Numbers Arsenal]], Flashcards, [[Jury Questions Prep]] Q2) | **HIGH** |
+| ECOSTRESS library size | `2,400+` (Slides, Slide 8) | `1,609 loaded + 15 curated` ([[Defense Strategy]] numbers table) | **HIGH** |
+| Sensors year | `2025` ([[Numbers Arsenal]], [[Defense Strategy]], Slides, Flashcards) | `2026` (Thesis Overview ×2, consistent with DOI vol 26) | **HIGH** |
+| Published paper count | `5 published/accepted` (Slide 29) | `4 published + 2 in pipeline` ([[Numbers Arsenal]]) | MEDIUM |
+| EnMAP pixels vs. XRF points | "n=32 per zone" used for both EnMAP pixels (actually 49 RZ / 47 RWR) and XRF calibration points (32 per zone) | [[Numbers Arsenal]]: 32 = XRF calibration; [[Defense Strategy]]: 49+47 = EnMAP pixels | MEDIUM — conflating the two in Berg's power question is misleading |
 
 ---
 
@@ -1951,10 +1848,10 @@ Advanced Q5 states Cd (0.1–0.5 ppm) and U (10–50 ppm) ranges without a sourc
 
 | Phrase | Location | Hardened replacement |
 |--------|----------|---------------------|
-| "relatively new (launched 2019)" | Jury Questions Prep Q1 | "operational since 2019; mining applications remain severely underrepresented" |
+| "relatively new (launched 2019)" | [[Jury Questions Prep]] Q1 | "operational since 2019; mining applications remain severely underrepresented" |
 | "Cd (typically 0.1–0.5 ppm)" | Advanced Q5 | Replace with sourced value from HHXRF data or specific reference |
-| "I believe this combination... represents a model" | Defense Strategy closing | "This thesis establishes a model for sustainable mine monitoring that extends well beyond Benguerir." |
-| "suggesting a constrained decision boundary" | Jury Questions Prep Q4 | "SVM produced spatially discontinuous maps, consistent with constrained hyperplane geometry under complex spectral gradients — a documented limitation of kernel SVMs in heterogeneous geological scenes." |
+| "I believe this combination... represents a model" | [[Defense Strategy]] closing | "This thesis establishes a model for sustainable mine monitoring that extends well beyond Benguerir." |
+| "suggesting a constrained decision boundary" | [[Jury Questions Prep]] Q4 | "SVM produced spatially discontinuous maps, consistent with constrained hyperplane geometry under complex spectral gradients — a documented limitation of kernel SVMs in heterogeneous geological scenes." |
 
 ---
 
@@ -1965,7 +1862,7 @@ Advanced Q5 states Cd (0.1–0.5 ppm) and U (10–50 ppm) ranges without a sourc
 | VCA endmember extraction | Nascimento & Dias (2005) | Zotero yes; `thesis/literature-notes/` NO. Verbal answers never name Nascimento. |
 | FCLS unmixing | Heinz & Chang (2001) | Zotero yes (3 Heinz entries); NO literature note; NO mention in any verbal answer. If Verrelst asks "original reference for FCLS?", answer is empty. |
 | Isotonic regression | Barlow et al. (1972/1980) | Zotero yes (`barlowStatisticalInferenceOrder1972/1980`); never cited in any verbal answer. |
-| Spatially constrained CV | Karasiak et al. (2022); Ploton et al. (2020) | YES — cited by name in Defense Strategy. **COVERED.** |
+| Spatially constrained CV | Karasiak et al. (2022); Ploton et al. (2020) | YES — cited by name in [[Defense Strategy]]. **COVERED.** |
 | BAC metric | Brodersen et al. (2010) | NO Brodersen entry in Zotero. If Berg asks for the theoretical reference for BAC, the answer is empty. |
 | Nested CV bias prevention | Cawley & Talbot (2010) or Varma & Simon (2006) | Not found. Method is stated but theoretical justification is unsourced. |
 
@@ -1973,7 +1870,7 @@ Advanced Q5 states Cd (0.1–0.5 ppm) and U (10–50 ppm) ranges without a sourc
 
 ## Top 3 — Fix Before June 25
 
-**1. H1 — Permutation p-value.** Open Chapter 3, find the exact value, update Numbers Arsenal and Advanced Q2 to match. This inconsistency sits inside your most-rehearsed answer against Berg and will detonate under pressure.
+**1. H1 — Permutation p-value.** Open Chapter 3, find the exact value, update [[Numbers Arsenal]] and Advanced Q2 to match. This inconsistency sits inside your most-rehearsed answer against Berg and will detonate under pressure.
 
 **2. H4 — Atmospheric correction on slides.** Slides say 6SV; your mouth will say ATCOR. Fix the slide before it goes to Laamrani for review. Verrelst is the highest-threat member and this is the first processing step he will probe.
 
@@ -2438,7 +2335,7 @@ This note summarizes the key objections raised by Reviewer 1 during the peer rev
 *   **Reviewer Objection**: Pointed out that the dataset of **127** samples is small, suggesting weak support for the classification results and requesting further verification of model generalization. (Source: [reviewer_1_ch2.txt:L33](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L33)).
 *   **Author Response & Actions**:
     *   Explained that **127** samples represent the physical maximum achievable under a strict one-sample-per-30 m pixel spectral independence filter; **80** redundant samples occupying shared PRISMA pixels were removed to prevent spatial autocorrelation inflation. (Source: [reviewer_1_ch2.txt:L34](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L34); sample count confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L47-L48)).
-    *   Ensured statistical robustness by running **10** repeated runs of **5**-fold spatially constrained cross-validation (50 independent train/test splits per model). (Source: [reviewer_1_ch2.txt:L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L35); parameters confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L51)).
+    *   Ensured statistical robustness by running **10** repeated runs of **5**-fold [[Spatially Constrained Cross-Validation]] (50 independent train/test splits per model). (Source: [reviewer_1_ch2.txt:L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L35); parameters confirmed in [Numbers Arsenal.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/thesis/defense-prep/Numbers%20Arsenal.md#L51)).
 
 ## 2. Multi-Metric Performance Table
 *   **Reviewer Objection**: Stated that reporting only AUC > 0.95 (which applies only to the carbonate classes, Marl and Limestone) is insufficient to demonstrate model effectiveness. (Source: [reviewer_1_ch2.txt:L39,L42](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_ch2.txt#L39#L42)).
@@ -2506,7 +2403,7 @@ This note summarizes the key objections raised by Reviewer 1 during the peer rev
 *   **Author Response & Actions**:
     *   The entire conclusion section (lines 695–719) was rewritten, replacing the bulleted points with a cohesive, integrated narrative. (Source: [reviewer_1_r2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_1_r2.txt#L36-L37)).
     *   The narrative conclusion synthesizes:
-        1.  The fast and practical workflow of pairing VNIR–SWIR reflectance spectroscopy with handheld XRF.
+        1.  The fast and practical workflow of pairing VNIR–SWIR reflectance spectroscopy with [[Handheld XRF]].
         2.  The validation of spectroscopic mineralogy with qualitative XRD.
         3.  Compositional heterogeneity reflecting the interbedded geology of the Gantour basin.
         4.  Practical operational utility for OCP Group (cover design, reclamation, secondary phosphate recovery).
@@ -2537,8 +2434,8 @@ This note summarizes the key objections raised by Reviewer 2 during the peer rev
 *   **Reviewer Objection**: Argued that the manuscript mainly combines existing methodologies rather than introducing a fundamentally new approach, requesting that the main scientific contribution be clarified. (Source: [reviewer_2_ch2.txt:L31](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L31)).
 *   **Author Response & Actions**:
     *   Formulated a three-part novelty statement (L113–122):
-        1.  **First application** of PRISMA spaceborne hyperspectral mapping to phosphate mine waste rock piles (a complex geological mixture of calcite, dolomite, illite, and fluorapatite not addressed in existing alteration/coastal PRISMA literature).
-        2.  **Strict spatial validation**: Implementing a fully nested, spatially constrained cross-validation calibrated to PRISMA's **30 m** footprint.
+        1.  **First application** of PRISMA spaceborne hyperspectral mapping to [[Phosphate Mine Waste]] rock piles (a complex geological mixture of calcite, dolomite, illite, and fluorapatite not addressed in existing alteration/coastal PRISMA literature).
+        2.  **Strict spatial validation**: Implementing a fully nested, [[Spatially Constrained Cross-Validation]] calibrated to PRISMA's **30 m** footprint.
         3.  **Physical ground truth**: Grounding classification labels in XRD mineralogy and petrography, rather than visual field descriptions alone. (Source: [reviewer_2_ch2.txt:L35](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L35)).
 
 ## 2. Dataset Adequacy & Generalization
@@ -2554,7 +2451,7 @@ This note summarizes the key objections raised by Reviewer 2 during the peer rev
     *   Excluded PCA-based classification because applying PCA before CV folds causes information leakage. Mutual Information was evaluated instead as a feature selector baseline. (Source: [reviewer_2_ch2.txt:L40](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L40)).
 
 ## 4. Random vs. Spatial Cross-Validation
-*   **Reviewer Objection**: Requested a direct comparison between random cross-validation and spatially constrained cross-validation to demonstrate the impact of spatial autocorrelation. (Source: [reviewer_2_ch2.txt:L41](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L41)).
+*   **Reviewer Objection**: Requested a direct comparison between random cross-validation and [[Spatially Constrained Cross-Validation]] to demonstrate the impact of spatial autocorrelation. (Source: [reviewer_2_ch2.txt:L41](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L41)).
 *   **Author Response & Actions**:
     *   Conducted a direct comparison: Performance differences were extremely small ($|\Delta\text{BA}| \le 0.035$) and showed no consistent direction (e.g., Random Forest BA Random = **0.669 ± 0.021** vs. BA Spatial = **0.666 ± 0.032**). (Source: [reviewer_2_ch2.txt:L43](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L43); values confirmed in [supp_ch2.txt](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/supp_ch2.txt#L213-L214)).
     *   Explained that because co-located pixels had already been deduplicated in the preprocessing step, the spatial autocorrelation at **30 m** had already been mitigated. This confirms that the reported spatial CV accuracies represent genuine generalization estimates and are not inflated by autocorrelation. (Source: [reviewer_2_ch2.txt:L43](file:///C:/Users/Dell/.gemini/antigravity-cli/brain/14c76665-a68a-46ee-84ff-8efb1904ff4e/scratch/reviewer_2_ch2.txt#L43)).
@@ -2932,5 +2829,108 @@ I am ready. Over to you.
 - **On "Over to you":** make eye contact with the jury. Do not look down.
 - **Target timing:** 2 min 45 — 3 min 00.
 - **Delivered in French at the actual defense** — practice in French.
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md
+
+---
+title: Field Spectroscopy and Hyperspectral Analysis of Phosphate Mine Waste Rocks
+tags:
+date: 2026-06-07
+created: '2026-06-07'
+---
+
+
+# Your Paper — Chapter 1 (Sensors 2025)
+
+**This is your own published work. Know it cold.**
+
+## What it does
+Field spectroscopy (ASD FieldSpec 4) characterization of 104 phosphate waste rock samples at Benguerir. [[Spectral Library Matching]] against ECOSTRESS. NNLS unmixing. HHXRF cross-validation.
+
+## Key Results
+- Mean R² = 0.748 across 4 metrics (RMSE, SAM, SID, R²)
+- 84% of spectra have R² > 0.70
+- Max P₂O₅ = 23.86 wt% (fluorapatite confirmed)
+- Dominant surface mineral: clay minerals (illite, montmorillonite) — mask apatite signal
+- Apatite spectral rank: 3–7 in field spectra
+
+## Novelty
+First systematic ASD spectral characterization of Moroccan phosphate waste rock with ECOSTRESS library validation + HHXRF geochemical cross-check.
+
+## Jury Defense Angle
+*"Chapter 1 established the spectral fingerprint of the surface mineralogy — confirming that clay minerals dominate and mask the apatite signal — which directly informed the SWIR band selection strategy in Chapter 2 and the endmember interpretation in Chapter 3."*
+
+## Links
+- [[02_Academic & Work/thesis/Thesis MOC]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Library Matching]]
+- [[04_Knowledge Base/wiki/entities/Handheld XRF]]
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/literature-notes/@roberts2019unmixing.md
+
+---
+title: Spectral Mixture Analysis for Remote Sensing of Geological Surfaces
+tags:
+date: 2026-06-07
+created: '2026-06-07'
+---
+
+
+# Unmixing Foundation Paper — Chapter 3 Justification
+
+**Use to justify the VCA-FCLS choice when Verrelst or Berg challenges it.**
+
+## Core Argument
+Linear spectral mixing is the appropriate model for geological surfaces at medium spatial resolution (>10m) where areal mixing dominates over intimate mixing. VCA is a well-validated unsupervised endmember extraction method for geological remote sensing.
+
+## How it Supports Your Thesis
+- Justifies linear model at 30m EnMAP resolution
+- VCA as standard for geological endmember extraction without prior knowledge
+- FCLS abundance constraints (non-neg + sum-to-one) are the standard for physical realism
+
+## Defense Quote Ready
+*"The linear mixing assumption is well-supported in the geological RS literature for medium-resolution data. At 30m, areal mixing dominates — each mineral reflects independently. This is in contrast to intimate mixing (sub-pixel, particle-level) which would require nonlinear models. Roberts et al. (2019) and the broader unmixing literature confirm VCA-FCLS as the standard approach for this scenario."*
+
+## Links
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[02_Academic & Work/thesis/Thesis MOC]]
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/literature-notes/@verrelst2021review.md
+
+---
+title: 'Quantifying Vegetation Biophysical Variables from Imaging Spectroscopy Data:
+tags:
+date: 2026-06-07
+created: '2026-06-07'
+---
+
+
+# Verrelst 2021 — RTM & Retrieval Methods Review
+
+**Why this matters: Verrelst is your highest-threat jury member. He wrote the book on RTM-based retrieval. He will probe why you used VCA-FCLS instead of RTM inversion.**
+
+## Core Argument
+Radiative Transfer Models (RTMs) provide physically interpretable inversion of hyperspectral data — superior to empirical methods when physical parameters are needed. Machine learning emulators of RTMs offer speed + interpretability.
+
+## Your Defense Angle Against This
+*"RTM inversion is designed for biophysical parameter retrieval (LAI, chlorophyll) in vegetated canopies. My target was mineralogical characterization of bare waste rock — a different problem domain. For bare geological surfaces, linear spectral unmixing (VCA-FCLS) is the standard approach because: (1) mineral spectra mix linearly at areal resolution, (2) no validated mineral RTM existed for this specific assemblage, (3) VCA extracts data-driven endmembers rather than assuming prior knowledge of the mineral composition."*
+
+## If Verrelst Pushes Back
+- Acknowledge RTM validity for vegetation/soil systems
+- Point to the XRF validation (ρ=0.845) as empirical proof the linear model is sufficient
+- Note that SCOPE/PROSAIL are not designed for [[Phosphate Mine Waste]] mineralogy
+
+## Links
+- [[02_Academic & Work/thesis/defense-prep/[[Jury Questions Prep]] — Advanced]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
 
 
