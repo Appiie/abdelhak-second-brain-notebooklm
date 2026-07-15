@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-25
+date: 2026-07-15
 tags: [knowledge, compiled, notebooklm, digital_life]
 summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Digital_Life
 
 > **Theme Summary**: Personal identity, domain portfolio, and mindset logs.
-> **Total Files Compiled**: 18 | **Total Word Count**: ~10839 words
+> **Total Files Compiled**: 18 | **Total Word Count**: ~10946 words
 
 ## 📂 Table of Contents
 
@@ -26,7 +26,7 @@ summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 - [03_Digital Life/money/Money Overview.md](#-file-03_digital-life-money-money-overview-md) (~577 words)
 - [03_Digital Life/money/domaining/Domain Outreach Pipeline.md](#-file-03_digital-life-money-domaining-domain-outreach-pipeline-md) (~155 words)
 - [03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md](#-file-03_digital-life-money-domaining-domain-portfolio-analysis-—-top-5-to-market-md) (~1296 words)
-- [03_Digital Life/money/domaining/Domain Portfolio.md](#-file-03_digital-life-money-domaining-domain-portfolio-md) (~821 words)
+- [03_Digital Life/money/domaining/Domain Portfolio.md](#-file-03_digital-life-money-domaining-domain-portfolio-md) (~928 words)
 - [03_Digital Life/money/domaining/Flashcards — Domains.md](#-file-03_digital-life-money-domaining-flashcards-—-domains-md) (~575 words)
 - [03_Digital Life/money/instagram/Instagram Strategy.md](#-file-03_digital-life-money-instagram-instagram-strategy-md) (~371 words)
 - [03_Digital Life/money/instagram/Sponsorship Pipeline.md](#-file-03_digital-life-money-instagram-sponsorship-pipeline-md) (~651 words)
@@ -1500,6 +1500,34 @@ created: '2026-06-08'
 
 ## Reports & Audits
 - **Audit Report (2026-05-28)**: [[04_Knowledge Base/AI-Generated/domain-report-2026-05-28|Domain Portfolio Report — 2026-05-28]]
+
+## Daily Gem Scanner
+Script: `01_System/scripts/dropped_domain_scanner.py`  
+Source: WhoisFreaks free feed (~10K dropped domains/day) + Wayback age check  
+Email: elmansour01abdelhak@gmail.com
+
+**Run manually:**
+```powershell
+python 01_System/scripts/dropped_domain_scanner.py              # full run + email
+python 01_System/scripts/dropped_domain_scanner.py --dry-run   # preview only
+```
+
+**Email setup (one-time):**
+1. Enable 2FA on Gmail → Google Account → Security → App Passwords
+2. Generate an App Password for "Mail"
+3. Set env vars before running:
+```powershell
+$env:SCANNER_FROM_EMAIL = "elmansour01abdelhak@gmail.com"
+$env:SCANNER_APP_PASS   = "xxxx-xxxx-xxxx-xxxx"
+python 01_System/scripts/dropped_domain_scanner.py
+```
+
+**Schedule daily at 08:00 (run once as admin):**
+```powershell
+schtasks /create /tn "DomainGemScanner" /tr "powershell -NonInteractive -Command `$env:SCANNER_FROM_EMAIL='elmansour01abdelhak@gmail.com'; `$env:SCANNER_APP_PASS='YOURPASS'; python 'C:\Users\Dell\Downloads\abdelhak-real-vault\abdelhak-vault\01_System\scripts\dropped_domain_scanner.py'" /sc DAILY /st 08:00 /f
+```
+
+Logs saved to: `04_Knowledge Base/AI-Generated/dropped-domain-scan-YYYY-MM-DD.md`
 
 
 
