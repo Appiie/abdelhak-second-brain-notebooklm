@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-06-25
+date: 2026-07-15
 tags: [knowledge, compiled, notebooklm, work]
 summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 60 | **Total Word Count**: ~42875 words
+> **Total Files Compiled**: 83 | **Total Word Count**: ~53014 words
 
 ## 📂 Table of Contents
 
@@ -16,20 +16,17 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/Flashcards — Career.md](#-file-02_academic-&-work-work-flashcards-—-career-md) (~760 words)
 - [02_Academic & Work/work/Index.md](#-file-02_academic-&-work-work-index-md) (~261 words)
 - [02_Academic & Work/work/Tools Setup.md](#-file-02_academic-&-work-work-tools-setup-md) (~754 words)
-- [02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md](#-file-02_academic-&-work-work-postdoc-contacts-roberto-salzano-(cnr-florence)-md) (~286 words)
-- [02_Academic & Work/work/meetings/README.md](#-file-02_academic-&-work-work-meetings-readme-md) (~146 words)
-- [02_Academic & Work/work/setup/Elite Vault Setup.md](#-file-02_academic-&-work-work-setup-elite-vault-setup-md) (~984 words)
-- [02_Academic & Work/work/setup/External Data Import Guide.md](#-file-02_academic-&-work-work-setup-external-data-import-guide-md) (~761 words)
-- [02_Academic & Work/work/setup/NotebookLM Setup.md](#-file-02_academic-&-work-work-setup-notebooklm-setup-md) (~349 words)
-- [02_Academic & Work/work/setup/Plugin Guide.md](#-file-02_academic-&-work-work-setup-plugin-guide-md) (~657 words)
 - [02_Academic & Work/work/1-1/Laamrani-2026-05-27.md](#-file-02_academic-&-work-work-1-1-laamrani-2026-05-27-md) (~66 words)
 - [02_Academic & Work/work/active/90-Day Plan Post-Defense.md](#-file-02_academic-&-work-work-active-90-day-plan-post-defense-md) (~938 words)
 - [02_Academic & Work/work/active/Fitted Opportunities & Targets.md](#-file-02_academic-&-work-work-active-fitted-opportunities-&-targets-md) (~1561 words)
 - [02_Academic & Work/work/active/Hot Opportunities — May 2026.md](#-file-02_academic-&-work-work-active-hot-opportunities-—-may-2026-md) (~1775 words)
-- [02_Academic & Work/work/active/Job Board — Live Tracker.md](#-file-02_academic-&-work-work-active-job-board-—-live-tracker-md) (~1210 words)
+- [02_Academic & Work/work/active/ISP-UV-Gustau-Email.md](#-file-02_academic-&-work-work-active-isp-uv-gustau-email-md) (~247 words)
+- [02_Academic & Work/work/active/ISP-UV-Jochem-Teams-Message.md](#-file-02_academic-&-work-work-active-isp-uv-jochem-teams-message-md) (~140 words)
+- [02_Academic & Work/work/active/Job Board — Live Tracker.md](#-file-02_academic-&-work-work-active-job-board-—-live-tracker-md) (~2775 words)
 - [02_Academic & Work/work/active/Job Pipeline.md](#-file-02_academic-&-work-work-active-job-pipeline-md) (~481 words)
 - [02_Academic & Work/work/active/Postdoc Applications.md](#-file-02_academic-&-work-work-active-postdoc-applications-md) (~683 words)
-- [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5427 words)
+- [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5592 words)
+- [02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md](#-file-02_academic-&-work-work-active-espc6-submission-email-—-espc6-abstract-submission-md) (~245 words)
 - [02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist.md](#-file-02_academic-&-work-work-active-pixxel-application-cover-letter-—-hyperspectral-scientist-md) (~309 words)
 - [02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist.md](#-file-02_academic-&-work-work-active-pixxel-application-cover-letter-—-senior-hyperspectral-scientist-md) (~416 words)
 - [02_Academic & Work/work/active/Pixxel Application/Submission Checklist.md](#-file-02_academic-&-work-work-active-pixxel-application-submission-checklist-md) (~209 words)
@@ -37,41 +34,67 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/active/VITO Application/Cover Letter — Scientific Expert EO Services.md](#-file-02_academic-&-work-work-active-vito-application-cover-letter-—-scientific-expert-eo-services-md) (~473 words)
 - [02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality).md](#-file-02_academic-&-work-work-active-vito-application-cover-letter-—-scientist-remote-sensing-(water-quality)-md) (~466 words)
 - [02_Academic & Work/work/active/VITO Application/Submission Checklist.md](#-file-02_academic-&-work-work-active-vito-application-submission-checklist-md) (~305 words)
-- [02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md](#-file-02_academic-&-work-work-active-espc6-submission-email-—-espc6-abstract-submission-md) (~221 words)
+- [02_Academic & Work/work/meetings/README.md](#-file-02_academic-&-work-work-meetings-readme-md) (~146 words)
+- [02_Academic & Work/work/setup/Elite Vault Setup.md](#-file-02_academic-&-work-work-setup-elite-vault-setup-md) (~984 words)
+- [02_Academic & Work/work/setup/External Data Import Guide.md](#-file-02_academic-&-work-work-setup-external-data-import-guide-md) (~761 words)
+- [02_Academic & Work/work/setup/NotebookLM Setup.md](#-file-02_academic-&-work-work-setup-notebooklm-setup-md) (~349 words)
+- [02_Academic & Work/work/setup/Plugin Guide.md](#-file-02_academic-&-work-work-setup-plugin-guide-md) (~657 words)
+- [02_Academic & Work/work/applications/Application Emails - Industry Batch 2026-07-06.md](#-file-02_academic-&-work-work-applications-application-emails---industry-batch-2026-07-06-md) (~808 words)
 - [02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asadzadeh-gfz-postdoc-md) (~608 words)
 - [02_Academic & Work/work/applications/Cover Letter - Asam DLR DFD Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---asam-dlr-dfd-postdoc-md) (~654 words)
+- [02_Academic & Work/work/applications/Cover Letter - Barrick Remote Sensing Lead.md](#-file-02_academic-&-work-work-applications-cover-letter---barrick-remote-sensing-lead-md) (~433 words)
+- [02_Academic & Work/work/applications/Cover Letter - Beiranvand Pour UTM Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---beiranvand-pour-utm-postdoc-md) (~353 words)
 - [02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---bussiere-uqat-postdoc-md) (~606 words)
 - [02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---chabrillat-gfz-postdoc-md) (~618 words)
+- [02_Academic & Work/work/applications/Cover Letter - Corescan Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---corescan-speculative-md) (~420 words)
+- [02_Academic & Work/work/applications/Cover Letter - Datarock Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---datarock-speculative-md) (~266 words)
+- [02_Academic & Work/work/applications/Cover Letter - EO Satellite Company Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---eo-satellite-company-speculative-md) (~503 words)
 - [02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---esmaeili-uoft-postdoc-md) (~687 words)
 - [02_Academic & Work/work/applications/Cover Letter - Fenton UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---fenton-uqat-postdoc-md) (~573 words)
+- [02_Academic & Work/work/applications/Cover Letter - Fleet Space Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---fleet-space-speculative-md) (~370 words)
+- [02_Academic & Work/work/applications/Cover Letter - Geospectra Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---geospectra-speculative-md) (~342 words)
+- [02_Academic & Work/work/applications/Cover Letter - Geotek Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---geotek-speculative-md) (~316 words)
+- [02_Academic & Work/work/applications/Cover Letter - Gleeson GFZ Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---gleeson-gfz-postdoc-md) (~355 words)
 - [02_Academic & Work/work/applications/Cover Letter - Gloaguen HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---gloaguen-hzdr-postdoc-md) (~649 words)
 - [02_Academic & Work/work/applications/Cover Letter - Hecker ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---hecker-itc-postdoc-md) (~669 words)
+- [02_Academic & Work/work/applications/Cover Letter - HyVista Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---hyvista-speculative-md) (~371 words)
+- [02_Academic & Work/work/applications/Cover Letter - Hyperspectral Intelligence Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---hyperspectral-intelligence-speculative-md) (~378 words)
 - [02_Academic & Work/work/applications/Cover Letter - INERIS Spontaneous.md](#-file-02_academic-&-work-work-applications-cover-letter---ineris-spontaneous-md) (~651 words)
 - [02_Academic & Work/work/applications/Cover Letter - INRAE MELICERTES Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-melicertes-postdoc-md) (~608 words)
 - [02_Academic & Work/work/applications/Cover Letter - INRAE PREPSOIL Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---inrae-prepsoil-postdoc-md) (~665 words)
 - [02_Academic & Work/work/applications/Cover Letter - ITC Twente Biodiversity Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---itc-twente-biodiversity-postdoc-md) (~575 words)
+- [02_Academic & Work/work/applications/Cover Letter - Ideon Technologies Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---ideon-technologies-speculative-md) (~408 words)
 - [02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---khodadadzadeh-itc-postdoc-md) (~697 words)
+- [02_Academic & Work/work/applications/Cover Letter - Kuva Space Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---kuva-space-speculative-md) (~377 words)
 - [02_Academic & Work/work/applications/Cover Letter - LIST Luxembourg Forest RS Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---list-luxembourg-forest-rs-postdoc-md) (~601 words)
 - [02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---lorenz-hzdr-postdoc-md) (~607 words)
 - [02_Academic & Work/work/applications/Cover Letter - Martin UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---martin-uqat-postdoc-md) (~643 words)
+- [02_Academic & Work/work/applications/Cover Letter - Minalyze Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---minalyze-speculative-md) (~310 words)
+- [02_Academic & Work/work/applications/Cover Letter - Mineral Forecast Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---mineral-forecast-speculative-md) (~355 words)
+- [02_Academic & Work/work/applications/Cover Letter - MinersAI Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---minersai-speculative-md) (~231 words)
+- [02_Academic & Work/work/applications/Cover Letter - Minerva Intelligence Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---minerva-intelligence-speculative-md) (~249 words)
 - [02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---mondillo-naples-postdoc-md) (~731 words)
+- [02_Academic & Work/work/applications/Cover Letter - Orbital Sidekick Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---orbital-sidekick-speculative-md) (~342 words)
+- [02_Academic & Work/work/applications/Cover Letter - SRK Consulting Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---srk-consulting-speculative-md) (~486 words)
 - [02_Academic & Work/work/applications/Cover Letter - Schodlok BGR Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---schodlok-bgr-postdoc-md) (~625 words)
+- [02_Academic & Work/work/applications/Cover Letter - SensOre Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---sensore-speculative-md) (~393 words)
 - [02_Academic & Work/work/applications/Cover Letter - Sorrentino Naples Inquiry.md](#-file-02_academic-&-work-work-applications-cover-letter---sorrentino-naples-inquiry-md) (~594 words)
+- [02_Academic & Work/work/applications/Cover Letter - Specim Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---specim-speculative-md) (~393 words)
 - [02_Academic & Work/work/applications/Cover Letter - Storch DLR IMF Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---storch-dlr-imf-postdoc-md) (~623 words)
+- [02_Academic & Work/work/applications/Cover Letter - UN-FAO Consultant Template.md](#-file-02_academic-&-work-work-applications-cover-letter---un-fao-consultant-template-md) (~440 words)
+- [02_Academic & Work/work/applications/Cover Letter - VITO Image Processing Expert.md](#-file-02_academic-&-work-work-applications-cover-letter---vito-image-processing-expert-md) (~395 words)
 - [02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc.md](#-file-02_academic-&-work-work-applications-cover-letter---valeria-uqat-postdoc-md) (~580 words)
 - [02_Academic & Work/work/applications/Cover Letter - Wageningen WUR RS Scientist.md](#-file-02_academic-&-work-work-applications-cover-letter---wageningen-wur-rs-scientist-md) (~589 words)
+- [02_Academic & Work/work/applications/Cover Letter - Wyvern Speculative.md](#-file-02_academic-&-work-work-applications-cover-letter---wyvern-speculative-md) (~359 words)
 - [02_Academic & Work/work/applications/Daily-Applications-2026-06-22.md](#-file-02_academic-&-work-work-applications-daily-applications-2026-06-22-md) (~3077 words)
 - [02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry.md](#-file-02_academic-&-work-work-applications-egis-qatar-spontaneous-inquiry-md) (~552 words)
+- [02_Academic & Work/work/applications/Gmail Drafts Batch - 2026-07-12.md](#-file-02_academic-&-work-work-applications-gmail-drafts-batch---2026-07-12-md) (~703 words)
 - [02_Academic & Work/work/applications/Recommendation Letter — Hyperspectral Autumn School 2026.md](#-file-02_academic-&-work-work-applications-recommendation-letter-—-hyperspectral-autumn-school-2026-md) (~427 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-cv_abdelhak_el_mansour-md) (~672 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-expert_autumn_school_2026_application-md) (~583 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-identity_of_applicant-md) (~63 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/Motivation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-motivation_letter-md) (~584 words)
-- [02_Academic & Work/work/applications/Autumn-School-2026/Recommendation_Letter.md](#-file-02_academic-&-work-work-applications-autumn-school-2026-recommendation_letter-md) (~456 words)
 - [02_Academic & Work/work/applications/UTwente-2026/CV - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-cv---utwente-md) (~645 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-motivation-letter---utwente-md) (~481 words)
 - [02_Academic & Work/work/applications/UTwente-2026/Publications List - UTwente.md](#-file-02_academic-&-work-work-applications-utwente-2026-publications-list---utwente-md) (~280 words)
 - [02_Academic & Work/work/applications/DLR-2026/Email - Tobias Storch DLR.md](#-file-02_academic-&-work-work-applications-dlr-2026-email---tobias-storch-dlr-md) (~292 words)
+- [02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md](#-file-02_academic-&-work-work-postdoc-contacts-roberto-salzano-(cnr-florence)-md) (~286 words)
 
 
 
@@ -679,46 +702,2065 @@ Ask Claude: "check my inbox"          ← tests gmail (needs OAuth)
 
 
 
-## 📄 File: 02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md
+## 📄 File: 02_Academic & Work/work/1-1/Laamrani-2026-05-27.md
 
 ---
-tags: [postdoc/lead, contact/researcher]
-date: 2026-06-17
+tags:
+date: 2026-05-27
+description: "1-on-1 Laamrani May 27 \u2014 slides to start this week"
+created: '2026-05-27'
 ---
 
 
-# Roberto Salzano — CNR-IIA Florence
+# 1-on-1 Laamrani — 2026-05-27
 
-**Corresponding author** of the closest external parallel to your thesis work.
+## Key Takeaways
 
-## Contact
-- **Institution:** Institute of Atmospheric Pollution Research, National Research Council (CNR-IIA)
-- **Address:** Via Madonna del Piano 10, 50019 Florence, Italy
-- **Role:** Corresponding author (marked *)
-- **Email:** Find via CNR-IIA directory or ResearchGate
+- **Defense slides** — Laamrani confirmed slides must start this week. No delay possible.
 
-## Why Contact
-Their 2025 paper in *Remote Sensing* — "Hyperspectral Investigation of an Abandoned Waste Mining Site: The Case of Sidi Bou Azzouz (Morocco)" (DOI: [10.3390/rs17111838](https://doi.org/10.3390/rs17111838)) — uses **PRISMA + SAM/LSU on a Moroccan mine waste site**. No CNN, no deep learning. You have the ML layer they're missing.
+## Action Items
 
-**Pitch angle:** You did the same thing (PRISMA, Moroccan mine waste, field spectroscopy, XRF) but with SCSE-CNN and a 103-sample labeled dataset. You're the natural next step in their research line.
+- [ ] Start defense slides this week (week of May 27)
 
-## Team
-| Name | Affiliation |
-|------|------------|
-| Roberto Salzano | CNR-IIA, Florence ← **correspond with him** |
-| Daniela Guglietta | CNR-IGAG, Rome |
-| Aida M. Conte | CNR-IGAG, Rome |
-| Matteo Paciucci | CNR-IGAG, Rome |
-| Rosalda Punturo | CNR-IGAG, Rome + Università di Catania |
-| Rosamaria Salvatori | CNR-ISP, Rome |
-| Giorgio S. Senesi | CNR-IC, Bari |
-| **Amina Wafik** | **Cadi Ayyad University, Marrakech** ← Moroccan bridge |
+## Related
+
+- [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]]
+- [[03_Digital Life/brain/Key Decisions]]
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/90-Day Plan Post-Defense.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-06-08'
+---
+
+
+# 90-Day Plan — Post-Defense
+
+**Period:** July 1 → September 30, 2026
+**Starting point:** Dr. Abdelhak EL MANSOUR, 4 publications, operational pipeline, 70K followers, 86 domains, VITO pending.
+
+> [!success] The guiding principle
+> The first 90 days post-defense define the trajectory of the next 5 years.
+> Each week has ONE dominant objective. Not a list. One thing.
+
+---
+
+## JULY — Launch Month
+
+### Week 1 — July 1–7: CELEBRATE AND ANNOUNCE
+**Dominant objective:** Make it known that Dr. EL MANSOUR exists.
+
+- [ ] Announce on X (@AbdelhakElm) — one sentence, the title, the mine
+- [ ] Announce on phddiarymemes (70K PhD students are waiting) — authentic content, not corporate
+- [ ] Update LinkedIn: "Dr." + "Defended June 30, 2026 · UM6P"
+- [ ] Update Google Scholar profile
+- [ ] Update CV (academic + industry) with defense date
+- [ ] **Sleep. Eat. Go outside. You earned it.**
+
+---
+
+### Week 2 — July 8–14: SUBMIT CH.3 + ACTIVATE DLR
+
+**Dominant objective:** Get the Ch.3 paper into the pipeline and send the Storch email.
+
+- [ ] **Submit Ch.3 paper** (EnMAP / RPI) — target journal to confirm (Remote Sensing of Environment? ISPRS?)
+- [ ] **Email Dr. Tobias Storch (DLR IMF)** — one paragraph, one direct subject line:
+  *"I defended my PhD June 30 on EnMAP-based operational reclamation monitoring at phosphate mines. I'm exploring postdoc opportunities in your group."*
+- [ ] Check DLR portal for open positions → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
+- [ ] Reply to VITO if response received (normal timeline: 2–6 weeks after submission)
+
+---
+
+### Week 3 — July 15–21: OCP + DOMAINING
+
+**Dominant objective:** Initiate the OCP consulting conversation and activate the top 5 domains.
+
+- [ ] **Email Laamrani**: open the OCP R&D conversation — "does OCP want to operationalize the RPI?"
+  - Goal: €10–30K consulting contract or R&D digital hire
+  - This is not a cold application — you delivered something they funded
+- [ ] **Top 5 domains** → [[03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market]]
+  - List on Dan.com, Afternic, Sedo
+  - Contact 2–3 potential direct buyers (targeted outreach)
+
+---
+
+### Week 4 — July 22–31: ESPC6 PREP + FOLLOW-UP
+
+**Dominant objective:** Prepare the ESPC6 presentation ahead of time (November comes fast).
+
+- [ ] Check ESPC6 abstract response (submitted May 25)
+- [ ] If accepted: decide oral or poster, create presentation skeleton
+- [ ] Formally apply to ETH Zurich postdoc (if still open) → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
+- [ ] Follow up with VITO if no response
+- [ ] First monthly review: which income streams moved? (Domaining, Instagram, VITO)
+
+---
+
+## AUGUST — Build Month
+
+### Weeks 5–6 — August 1–14: JOB + PAPER
+
+**Dominant objective:** Ch.3 paper in the system, job responses in sight.
+
+- [ ] Track Ch.3 status (under review?)
+- [ ] If DLR or ETH response: prepare interview
+- [ ] If no DLR response: send short follow-up (2 weeks after first email)
+- [ ] Contact CRSA UM6P directly — they regularly hire hyperspectral postdocs
+
+---
+
+### Weeks 7–8 — August 15–31: INSTAGRAM PIVOT + DOMAINS
+
+**Dominant objective:** Monetize the "Dr." on phddiarymemes and accelerate domain sales.
+
+- [ ] **phddiarymemes "Dr." content**: first post with the title — authenticity, not forced celebration
+- [ ] Launch sponsorship outreach: Notion, Overleaf, Researcher.ai, academic publishers
+  - Current followers = 70K, PhD niche engagement rate = 3–5% = ~2,100–3,500 engagements/post
+  - Estimated value per post: €500–1,500 depending on brand
+- [ ] **Domaining**: follow up on listings, lower price on 1–2 domains to accelerate a sale
+- [ ] Domain review: did a sale materialize in July?
+
+---
+
+## SEPTEMBER — Transition Month
+
+### Weeks 9–10 — September 1–14: DECISION POINT
+
+**Dominant objective:** Where do things stand? Postdoc confirmed, pending, or building solo?
+
+**Scenario A — Postdoc offer received (DLR, ETH, VITO):**
+- [ ] Negotiate start date (October/November preferred — leaves 1 month breathing room)
+- [ ] Prepare relocation and logistics
+- [ ] Continue domaining and Instagram in parallel
+
+**Scenario B — No offer yet:**
+- [ ] CRSA UM6P application if role open
+- [ ] OCP consulting: is the proposal moving forward?
+- [ ] Expand search: BRGM France, VITO second unapplied role, Spanish universities
+- [ ] Don't panic — the postdoc market is slow. 4 publications + RPI + EnMAP pipeline = strong profile.
+
+---
+
+### Weeks 11–13 — September 15–30: 90-DAY REVIEW
+
+**Dominant objective:** Assess, adjust, project.
+
+- [ ] Total revenue Jul–Sep: domaining? Sponsorships? OCP consulting?
+- [ ] Papers submitted: Ch.3 + potentially revised Ch.2?
+- [ ] Job: where do things stand? Postdoc, consulting, or both?
+- [ ] ESPC6 ready for November?
+- [ ] Identify the next 3 priorities for the following 90 days (Oct–Dec 2026)
+
+---
+
+## 90-Day Dashboard
+
+| Domain | Jul–Sep Objective | Success Indicator |
+|--------|------------------|------------------|
+| 🎓 Academic | Ch.3 submitted, DLR/ETH contacted | Submission confirmation + response |
+| 💼 Job | 1 postdoc offer or OCP consulting contract | Written offer received |
+| 💰 Domaining | 1 sale among top 5 | Sale completed |
+| 📱 Instagram | 1 sponsorship deal signed | Contract + payment |
+| 📄 ESPC6 | Presentation ready | Slides done before October |
+| 🌍 Network | DLR + ETH + OCP activated | 3 open conversations |
+
+---
+
+*The most important month of your life ended June 30. The 90 days that follow define what it means.*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md
+
+---
+date: 2026-06-07
+tags:
+summary: A structured database of 10 high-potential Earth Observation, hyperspectral,
+created: '2026-06-08'
+---
+
+
+# 🚀 High-Potential Career Opportunities & Targets
+
+> [!TIP]
+> **Your Core Pitch**: You don't just analyze satellite data; you build **operational Python pipelines** that transform raw, complex hyperspectral data ([[EnMAP Satellite|EnMAP]] and [[PRISMA Satellite|PRISMA]]) into geochemically validated environmental and mineralogical metrics. This is a rare skill set in both commercial space-tech and infrastructure engineering.
+>
+> See also: [[Job Board — Live Tracker]] · [[Postdoc Outreach Dashboard]] · [[Hot Opportunities — May 2026]] · [[Review Brief — Postdoc Applications 2026]]
+
+---
+
+## 📋 Industry Opportunities Tracker
+
+| Company/Society               | Sector & Core Focus                     | Location                  | Pitch Angle / Fit                                                                       | Contact Channel / Email                                        | Status                           |
+| :---------------------------- | :-------------------------------------- | :------------------------ | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------- | :------------------------------- |
+| **Space42 / Bayanat**         | AI-powered Space & EO Constellations    | 🇦🇪 Abu Dhabi, UAE       | Building the region's largest EO satellite network. Direct fit for Remote Sensing Lead. | [Space42 Careers Portal](https://space42.ai/)                  | - [ ] Not Contacted              |
+| **Bayanat Engineering Qatar** | Infrastructure GIS & new EO Division    | 🇶🇦 Doha, Qatar          | Recently launched a dedicated Earth Observation and Remote Sensing division.            | `info@bayanatengineering.qa`                                   | - [x] Not Contacted ✅ 2026-06-07 |
+| **Kuva Space**                | Commercial Hyperspectral Constellation  | 🇫🇮 Espoo, Finland       | Launching hyperspectral nanosatellites for climate/agriculture. High technical fit.     | `careers@kuvaspace.com`                                        | - [x] Not Contacted ✅ 2026-06-07 |
+| **Egis Group (Qatar)**        | Global Engineering & Consulting         | 🇶🇦 Doha, Qatar          | Spontaneous outreach for environmental remote sensing in infrastructure projects.       | [Egis Contact Page](https://www.egis-group.com/contact)        | [[02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry|Inquiry Drafted]] |
+| **Taqnia Space**              | Satellite Intelligence & Remote Sensing | 🇸🇦 Riyadh, Saudi Arabia | Major operator for Saudi Space Commission and Vision 2030 Earth Observation.            | [Taqnia Space Contact Portal](https://www.taqniaspace.com.sa/) | - [ ] Not Contacted              |
+| **LYRASENSE**                 | Agentic AI for Geospatial Analytics     | 🇪🇺 Europe (Remote)      | Software analyzing satellite imagery for oil, gas, and environmental monitoring.        | [Lyrasense Careers Page](https://lyrasense.com/)               | - [ ] Not Contacted              |
+| **European Space Imaging**    | High-Res Satellite Imagery & Solutions  | 🇩🇪 Munich, Germany      | Major imagery distributor partnering with Pixxel for hyperspectral analytics.           | [EUSI Careers Portal](https://www.euspaceimaging.com/careers/) | - [ ] Not Contacted              |
+| **Uptoearth**                 | Geospatial Intelligence & Pipelines     | 🇮🇹 Italy                | Processing pipelines for hyperspectral, SAR, and optical satellite data.                | [Uptoearth Contact Portal](https://uptoearth.eu/)              | - [ ] Not Contacted              |
+| **Specim (Spectral Imaging)** | Industrial Hyperspectral Solutions      | 🇫🇮 Oulu, Finland        | World leader in hyperspectral cameras and mineral mapping applications.                 | [Specim Careers Page](https://www.specim.fi/careers/)          | - [ ] Not Contacted              |
+| **Shamal Technologies**       | Geospatial Intelligence & Drone RS      | 🇸🇦 Riyadh, Saudi Arabia | Drone and satellite remote sensing for Saudi mega-projects (NEOM, Red Sea).             | [Shamal Contact Portal](https://shamal.sa/)                    | - [ ] Not Contacted              |
+
+---
+
+## 🔍 Detailed Profile of Top Targets
+
+### 1. Bayanat Engineering Qatar (Doha, Qatar)
+- **The Fit**: Excellent local target in Doha. They recently launched a dedicated Earth Observation and Remote Sensing division for infrastructure and disaster management. Your experience building pipelines for EnMAP and PRISMA, combined with your OCP mine monitoring projects, is highly transferable to their environmental assessment services.
+- **Action**: Send a direct cold email to their general inquiry box, explicitly directed to the HR/Remote Sensing Team.
+- **Email**: `info@bayanatengineering.qa` (Phone: +974 4427 3784)
+
+### 2. Space42 (Bayanat + Yahsat) (Abu Dhabi, UAE)
+- **The Fit**: A regional powerhouse backed by G42. They are actively building and launching Earth Observation satellites (including Synthetic Aperture Radar and optical networks) and have partnerships to deploy hyperspectral capabilities. Your Python skills and experience in processing complex multisource satellite data makes you a prime candidate for a Remote Sensing Scientist role.
+- **Action**: Join their "Talent Community" on the career page and search LinkedIn for "Talent Acquisition Space42" or "Talent Acquisition Bayanat".
+- **Careers Link**: [Space42.ai Careers Portal](https://space42.ai/)
+
+### 3. Kuva Space (Espoo, Finland)
+- **The Fit**: The most prominent European hyperspectral startup. They are launching a constellation of hyperspectral nanosatellites to monitor agriculture, forests, and carbon. You have a ready-made EnMAP/PRISMA processing pipeline and published papers in hyperspectral remote sensing. This is your strongest technical fit in the commercial startup sector.
+- **Action**: Direct speculative application email to their careers address.
+- **Email**: `careers@kuvaspace.com`
+
+---
+
+## 📧 Structured Outreach Templates
+
+> [!success] [✉️ Open Draft in Mail Client (Space42)](mailto:careers@space42.ai?subject=Spontaneous%20Application%20%E2%80%94%20Remote%20Sensing%20%26%20Hyperspectral%20Scientist%20%E2%80%94%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Talent%20Acquisition%20Team%2C%0A%0AI%20hope%20this%20message%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20spontaneously%20express%20my%20strong%20interest%20in%20joining%20your%20team%20as%20a%20Remote%20Sensing%20Scientist%20/%20Earth%20Observation%20Specialist.%20I%20am%20a%20PhD%20Candidate%20at%20University%20Mohammed%20VI%20Polytechnic%20%28UM6P%29%20in%20Morocco%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20motivated%20to%20bring%20my%20expertise%20to%20the%20Middle%20East%27s%20rapidly%20expanding%20space%20and%20geospatial%20sectors.%0A%0AMy%20doctoral%20research%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20frameworks%20and%20machine%20learning%20pipelines%20%28Random%20Forest%2C%20CNNs%29%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20mine%20waste%20rocks.%20A%20key%20technical%20achievement%20of%20my%20thesis%20is%20building%20an%20operational%2C%201%2C776-line%20Python%20processing%20engine%20for%20EnMAP%20and%20PRISMA%20hyperspectral%20satellite%20data%E2%80%94covering%20atmospheric%20correction%2C%20bad-band%20removal%2C%20spectral%20unmixing%20%28VCA-FCLS%29%2C%20and%20classification%2C%20all%20validated%20against%20geochemistry%20ground%20truth.%0A%0AAs%20your%20organization%20builds%20the%20next%20generation%20of%20space%20infrastructure%20and%20location%20intelligence%20applications%20in%20the%20GCC%2C%20I%20am%20eager%20to%20apply%20my%20experience%20in%20processing%20complex%20hyperspectral%20and%20multisource%20satellite%20datasets%20to%20your%20active%20projects.%0A%0AI%20would%20welcome%20the%20opportunity%20to%20discuss%20how%20my%20background%20and%20Python%20pipeline%20capabilities%20can%20add%20value%20to%20your%20team.%20I%20am%20happy%20to%20share%20my%20CV%2C%20thesis%20abstract%2C%20and%20publications%20for%20your%20review.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0ADr.%20Abdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco%0Aelmansour01abdelhak%40gmail.com%20%7C%20%5BPhone%20Number%5D)
+
+### 💼 Template 1: For GCC AI/Space Champions (Space42 / Taqnia Space / Shamal Tech)
+*Best for submitting a spontaneous application to Middle Eastern space technology and AI-powered geospatial groups.*
+
+```text
+Subject: Spontaneous Application — Remote Sensing & Hyperspectral Scientist — Dr. Abdelhak EL MANSOUR
+
+Dear Talent Acquisition Team,
+
+I hope this message finds you well.
+
+I am writing to spontaneously express my strong interest in joining your team as a Remote Sensing Scientist / Earth Observation Specialist. I am a PhD Candidate at University Mohammed VI Polytechnic (UM6P) in Morocco, defending my thesis on June 30, 2026, and I am highly motivated to bring my expertise to the Middle East's rapidly expanding space and geospatial sectors.
+
+My doctoral research focuses on developing multi-scale remote sensing frameworks and machine learning pipelines (Random Forest, CNNs) for mineralogical characterization and environmental monitoring of mine waste rocks. A key technical achievement of my thesis is building an operational, 1,776-line Python processing engine for EnMAP and PRISMA hyperspectral satellite data—covering atmospheric correction, bad-band removal, spectral unmixing (VCA-FCLS), and classification, all validated against geochemistry ground truth.
+
+As your organization builds the next generation of space infrastructure and location intelligence applications in the GCC, I am eager to apply my experience in processing complex hyperspectral and multisource satellite datasets to your active projects.
+
+I would welcome the opportunity to discuss how my background and Python pipeline capabilities can add value to your team. I am happy to share my CV, thesis abstract, and publications for your review.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Dr. Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+elmansour01abdelhak@gmail.com | [Phone Number]
+```
+
+> [!success] [✉️ Open Draft in Mail Client (Bayanat Qatar)](mailto:info@bayanatengineering.qa?subject=Spontaneous%20Inquiry%3A%20Remote%20Sensing%20%26%20Earth%20Observation%20Division%20%E2%80%94%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Bayanat%20Engineering%20Qatar%20Team%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20career%20opportunities%20within%20your%20newly%20established%20Earth%20Observation%20and%20Remote%20Sensing%20division%20in%20Doha.%20I%20am%20a%20Remote%20Sensing%20Scientist%20and%20PhD%20Candidate%20at%20UM6P%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026.%20Having%20followed%20your%20organization%27s%20leadership%20in%20high-value%20engineering%20and%20GIS%20projects%20in%20Qatar%2C%20I%20am%20highly%20interested%20in%20joining%20your%20technical%20team.%0A%0AMy%20doctoral%20research%20consists%20of%20developing%20multi-scale%20remote%20sensing%20frameworks%20to%20monitor%20and%20characterize%20mine%20waste%20reclamation%20surfaces.%20I%20specialize%20in%20building%20operational%20Python%20pipelines%20to%20process%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20translating%20raw%20imagery%20into%20validated%20environmental%20metrics.%20This%20project%20was%20conducted%20in%20direct%20collaboration%20with%20OCP%20Group%20at%20the%20Benguerir%20mine%20site%2C%20giving%20me%20direct%20experience%20in%20managing%20large-scale%20industrial%20and%20environmental%20monitoring%20workflows.%0A%0AGiven%20my%20technical%20background%20and%20bilingual%20fluency%20%28English%2C%20French%2C%20and%20Arabic%29%2C%20I%20am%20eager%20to%20help%20your%20division%20deliver%20high-accuracy%20satellite-derived%20environmental%20assessments%2C%20infrastructure%20monitoring%2C%20and%20natural%20resource%20mapping%20in%20Qatar.%0A%0AI%20would%20appreciate%20the%20opportunity%20for%20a%20brief%20conversation%20to%20explore%20how%20my%20skills%20can%20support%20your%20active%20contracts%20in%20Doha.%20I%20am%20happy%20to%20send%20my%20CV%20and%20detailed%20project%20portfolio%20at%20your%20convenience.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0ADr.%20Abdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco%0Aelmansour01abdelhak%40gmail.com%20%7C%20%5BPhone%20Number%5D)
+
+### 🇶🇦 Template 2: For Local Doha Engineering/GIS Firms (Bayanat Engineering Qatar / Egis Qatar)
+*Best for contacting Qatar-based engineering and GIS providers that have dedicated environmental monitoring or remote sensing divisions.*
+
+```text
+Subject: Spontaneous Inquiry: Remote Sensing & Earth Observation Division — Dr. Abdelhak EL MANSOUR
+
+Dear Bayanat Engineering Qatar Team,
+
+I hope this email finds you well.
+
+I am writing to inquire about career opportunities within your newly established Earth Observation and Remote Sensing division in Doha. I am a Remote Sensing Scientist and PhD Candidate at UM6P, defending my thesis on June 30, 2026. Having followed your organization's leadership in high-value engineering and GIS projects in Qatar, I am highly interested in joining your technical team.
+
+My doctoral research consists of developing multi-scale remote sensing frameworks to monitor and characterize mine waste reclamation surfaces. I specialize in building operational Python pipelines to process satellite hyperspectral data (EnMAP and PRISMA), translating raw imagery into validated environmental metrics. This project was conducted in direct collaboration with OCP Group at the Benguerir mine site, giving me direct experience in managing large-scale industrial and environmental monitoring workflows.
+
+Given my technical background and bilingual fluency (English, French, and Arabic), I am eager to help your division deliver high-accuracy satellite-derived environmental assessments, infrastructure monitoring, and natural resource mapping in Qatar.
+
+I would appreciate the opportunity for a brief conversation to explore how my skills can support your active contracts in Doha. I am happy to send my CV and detailed project portfolio at your convenience.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Dr. Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+elmansour01abdelhak@gmail.com | [Phone Number]
+```
+
+> [!success] [✉️ Open Draft in Mail Client (Kuva Space)](mailto:careers@kuvaspace.com?subject=Spontaneous%20Application%3A%20Remote%20Sensing%20Scientist%20/%20Hyperspectral%20Data%20Engineer%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Hiring%20Team%2C%0A%0AI%20am%20reaching%20out%20spontaneously%20to%20express%20my%20strong%20interest%20in%20joining%20your%20team%20as%20a%20Remote%20Sensing%20Scientist%20or%20Hyperspectral%20Data%20Engineer.%20I%20am%20a%20PhD%20Candidate%20at%20UM6P%20in%20Morocco%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20with%20a%20solid%20track%20record%20in%20hyperspectral%20image%20processing%20and%20machine%20learning.%0A%0AMy%20research%20focuses%20on%20multi-scale%20hyperspectral%20remote%20sensing%20%28field%20spectroscopy%2C%20PRISMA%2C%20and%20EnMAP%20satellite%20data%29%20for%20surface%20geochemistry%20and%20environmental%20monitoring.%20I%20build%20end-to-end%20Python%20processing%20pipelines%20to%20digest%20and%20analyze%20complex%20spectral%20datasets%E2%80%94integrating%20bad-band%20detection%2C%20atmospheric%20correction%2C%20spectral%20unmixing%20%28VCA-FCLS%29%2C%20and%20spatial-spectral%20classification.%0A%0AYour%20work%20in%20developing%20hyperspectral%20satellite%20constellations%20and%20agentic%20AI%20platforms%20represents%20the%20cutting%20edge%20of%20commercial%20earth%20observation.%20I%20bring%20a%20rare%20combination%20of%20academic%20rigor%20%284%20peer-reviewed%20publications%29%20and%20hands-on%2C%20production-grade%20Python%20development%20skills%20that%20align%20directly%20with%20your%20technical%20stack.%0A%0AI%20would%20be%20thrilled%20to%20discuss%20how%20my%20hyperspectral%20processing%20experience%20can%20support%20your%20mission.%20I%20have%20attached%20my%20CV%20and%20would%20welcome%20a%20brief%20introductory%20call.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0ADr.%20Abdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco%0Aelmansour01abdelhak%40gmail.com%20%7C%20%5BPhone%20Number%5D)
+
+### 🇪🇺 Template 3: For European Space & Hyperspectral Startups (Kuva Space / LYRASENSE)
+*Best for cold email outreach to hyperspectral nanosatellite operators and AI geospatial software startups in Europe.*
+
+```text
+Subject: Spontaneous Application: Remote Sensing Scientist / Hyperspectral Data Engineer - Dr. Abdelhak EL MANSOUR
+
+Dear Hiring Team,
+
+I am reaching out spontaneously to express my strong interest in joining your team as a Remote Sensing Scientist or Hyperspectral Data Engineer. I am a PhD Candidate at UM6P in Morocco, defending my thesis on June 30, 2026, with a solid track record in hyperspectral image processing and machine learning.
+
+My research focuses on multi-scale hyperspectral remote sensing (field spectroscopy, PRISMA, and EnMAP satellite data) for surface geochemistry and environmental monitoring. I build end-to-end Python processing pipelines to digest and analyze complex spectral datasets—integrating bad-band detection, atmospheric correction, spectral unmixing (VCA-FCLS), and spatial-spectral classification.
+
+Your work in developing hyperspectral satellite constellations and agentic AI platforms represents the cutting edge of commercial earth observation. I bring a rare combination of academic rigor (4 peer-reviewed publications) and hands-on, production-grade Python development skills that align directly with your technical stack.
+
+I would be thrilled to discuss how my hyperspectral processing experience can support your mission. I have attached my CV and would welcome a brief introductory call.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Dr. Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+elmansour01abdelhak@gmail.com | [Phone Number]
+```
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Hot Opportunities — May 2026.md
+
+---
+date: 2026-05-24
+tags:
+created: '2026-06-08'
+---
+
+
+# Hot Opportunities — May 2026
+
+> Live job pipeline — Abdelhak EL MANSOUR.  
+> Skills: [[PRISMA Satellite|PRISMA]] · [[EnMAP Satellite|EnMAP]] · VCA-FCLS · [[Hyperspectral Imaging|hyperspectral classification]] · XRF validation · Python · phosphate mineralogy · [[Reclamation Progress Index|reclamation monitoring]]  
+> Priority: Europe → International → Morocco (real salary only)
+>
+> See also: [[Job Board — Live Tracker]] · [[Postdoc Outreach Dashboard]] · [[Fitted Opportunities & Targets]] · [[Review Brief — Postdoc Applications 2026]]
+
+> **Searched:** VITO, ESA, ETH Zurich, Pixxel, BRGM, UM6P CRSA, Rio Tinto, DLR, Earthworks, EGU jobs, EURAXESS, jobs.ac.uk, academicpositions.com — 2026-05-24
+
+---
+
+## ✅ DONE — VITO Scientist Remote Sensing (Applied 2026-05-25)
+
+### VITO Belgium — Scientist Remote Sensing (Water Quality)
+- **Status:** ✅ APPLIED — 2026-05-25
+- **Deadline: Friday May 29, 2026**
+- **Location:** Mol, Antwerpen, Belgium (Hybrid)
+- **Focus:** Water quality monitoring and maritime safety via satellite EO
+- **Why apply:** VITO's Remote Sensing Unit is one of Europe's top EO labs. This role is water-focused but the methods (EO data fusion, Python, multi-source satellite) are identical to your toolkit. VITO actively develops hyperspectral products — there will be overlap. Getting in the door matters.
+- **Fit score:** 7/10 (method fit high; topic = water not mining)
+- **Required:** MSc in Sciences/Engineering, EO/RS/GIS background, Python/R/Google Earth Engine, willing to travel internationally
+- **Apply:** [https://jobs.vito.be](https://jobs.vito.be) → search "Scientist Remote Sensing"
+- **Status tracking:** [x] Applied
+
+---
+
+## Category 1 — Industry: EO & Satellite Companies
+
+### Pixxel — Hyperspectral Scientist (Full Remote)
+- **Status:** ✅ CONFIRMED OPEN (as of Mar 2026, 13 openings total)
+- **Deadline:** Not listed (rolling — apply soon)
+- **Location:** Remote (US/India company, distributed team)
+- **Focus:** Hyperspectral data analysis, algorithm development, validation, analytics applications
+- **Why this is your best industry target:** Pixxel launched 6 "Firefly" hyperspectral satellites in 2025 — operational now. They are building their science team. You are one of a small pool of people worldwide who has published operational results using satellite hyperspectral data (EnMAP) in a validated applied context. Their team needs exactly what you do.
+- **Roles:** Hyperspectral Scientist (mid) + Senior/Lead Hyperspectral Scientist (senior)
+- **Fit score: 9/10** — direct skills match
+- **Apply:** [https://pixxel.space/careers](https://pixxel.space/careers) → apply via their Darwinbox portal
+- **Status tracking:** [ ] Applied mid-level [ ] Applied senior level [ ] ❌ Skipped
+
+---
+
+### Pixxel — Senior Scientist / Lead Scientist — Image Processing
+- **Status:** ✅ CONFIRMED OPEN
+- **Location:** Remote
+- **Focus:** Image processing algorithms, spectral calibration, satellite data pipeline
+- **Fit score:** 8/10 — your enmap_reclamation_engine_v2.py (1,776-line production pipeline) directly demonstrates this
+- **Apply:** Same portal as above
+- **Status tracking:** [ ] Applied [ ] ❌ Skipped
+
+---
+
+## Category 2 — Research Agencies (Europe)
+
+### VITO Belgium — Scientific Expert, Earth Observation Services
+- **Status:** ✅ CONFIRMED OPEN (no deadline shown — apply asap)
+- **Location:** Mol, Antwerpen, Belgium (Hybrid ~50% onsite)
+- **Focus:** Design and maintain operational EO services; translate requirements into EO products; validate products; bridge science and operations; write proposals
+- **Why you fit:** This role is closer to what you've done — building an operational product (RPI) that translates satellite data into a usable metric for a client (OCP Group). That is exactly what VITO "Earth Observation Services" does at scale.
+- **Required:** PhD or MSc in EO/Remote Sensing/Environmental Sciences; Python for spatial data; satellite + biophysical variable expertise; English (Dutch a bonus)
+- **Fit score: 8.5/10**
+- **Apply:** [https://jobs.vito.be](https://jobs.vito.be) → "Scientific Expert – Earth Observation Services"
+- **Status tracking:** [ ] Applied [ ] ❌ Skipped
+
+---
+
+### VITO Belgium — Project Lead, Earth Observation Platforms
+- **Status:** ✅ CONFIRMED OPEN (no deadline shown)
+- **Location:** Mol, Belgium (Hybrid)
+- **Focus:** Strategy, ESA/Horizon proposal writing, consortia management, technical oversight of EO platforms
+- **Required:** MSc/PhD + **5+ years PM experience** in EO sector; Copernicus + ESA proposal track record
+- **Fit score:** 5/10 — strong on science side; thin on PM track record. Apply post-defense only if no other VITO role works out.
+- **Apply:** [https://jobs.vito.be](https://jobs.vito.be)
+- **Status tracking:** [ ] Considering [ ] ❌ Skip for now
+
+---
+
+### ETH Zurich — Postdoctoral Researcher / Senior Scientist in Hyperspectral Remote Sensing for Forest Management
+- **Status:** ✅ CONFIRMED OPEN (posted 2025, still active May 2026)
+- **Duration:** Initial 3 years, extendable to 6 years
+- **Location:** Zurich, Switzerland
+- **Focus:** Hyperspectral data for forest resources management — ETH Domain collaboration (WSL, University of Zurich EcoVision Lab)
+- **Required:** PhD in Geomatics or related (Environmental Sciences, Civil Engineering); demonstrable expertise in remote sensing; publication record
+- **Why apply even though it's forest-focused:** ETH postdoc = top-tier European career credential. The hyperspectral methods are identical. Your PRISMA/EnMAP pipeline + publication in Sensors 2025 gives you a strong application. A cover letter explaining "I'm pivoting from mine monitoring to vegetation monitoring — the hyperspectral methods are the same" is a credible case.
+- **Fit score:** 7/10 (method fit = 10/10; topic fit = 5/10)
+- **Apply:** [https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH](https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH)
+- **Status tracking:** [ ] Applied [ ] ❌ Skipped
+
+---
+
+### DLR — Remote Sensing Technology Institute (IMF), Oberpfaffenhofen, Germany
+- **Status:** Jobs exist but listings require direct portal access (couldn't scrape directly)
+- **Why this is your strongest research agency target:** DLR built and operates EnMAP. Their IMF team in Oberpfaffenhofen IS the center for EnMAP science. Head of Hyperspectral Remote Sensing team: **Dr. Tobias Storch**.
+- **The play:** Email Dr. Storch directly. One paragraph. "I defended my PhD June 30 on EnMAP-based operational reclamation monitoring at phosphate mines. Published peer-reviewed results. I'm looking for postdoc opportunities in your group." That email is worth more than a cold application.
+- **Check jobs:** [https://www.dlr.de/en/eoc/careers-education/jobs-at-the-eoc](https://www.dlr.de/en/eoc/careers-education/jobs-at-the-eoc) — then follow links to concludis portal
+- **Typical salary:** TVöD E13 = ~€50,000–58,000/yr (~€4,200–4,800/mo)
+- **Status tracking:** [ ] Checked portal [ ] Emailed Storch [ ] Applied formally
+
+---
+
+### ESA — Hyperspectral Applications Scientist
+- **Status:** ❌ No current openings (confirmed via jobs.esa.int May 24, 2026)
+- **Note:** ESA had this role listed previously (reference 939963901) but it's not currently open. Set a job alert at jobs.esa.int for "hyperspectral" and "remote sensing" — these roles appear periodically.
+- **Check back:** [https://jobs.esa.int](https://jobs.esa.int) — create alert
+
+---
+
+### BRGM France — French Geological Survey
+- **Status:** 34 current positions; no remote sensing roles visible on pages 1–2 (May 24, 2026)
+- **Positions posted:** Hydrogeology, geophysics, sedimentary basin postdoc — not RS
+- **Check manually:** [https://brgm-recrute.talent-soft.com](https://brgm-recrute.talent-soft.com) — search "remote sensing" or "imaging" (site is in French — use "télédétection" or "imagerie")
+- **Contact direct:** Direction Scientifique, BRGM Orléans — French expected
+- **Status tracking:** [ ] Checked [ ] Applied
+
+---
+
+## Category 3 — Mining Industry
+
+### Rio Tinto — Geoscientist (Perth, Australia)
+- **Status:** Geoscientist roles visible but not remote sensing specific
+- **Reality check:** Rio Tinto remote sensing roles exist (they run HyMap airborne hyperspectral for their Pilbara iron ore operations) but they are rare and Australia-based. Not a Europe-first option.
+- **Check:** [https://www.riotinto.com/careers/available-jobs](https://www.riotinto.com/careers/available-jobs) — search "remote sensing" or "spectral"
+- **Status tracking:** [ ] Checked [ ] Applied
+
+---
+
+### OCP Group — Direct Conversation (NOT a cold application)
+- **Status:** Internal network play — highest ROI conversation you can have
+- **The play:** Through Laamrani, open a conversation about whether OCP's R&D or sustainability division wants to operationalize the RPI tool. Your thesis was OCP-funded (Accord-Specific 189: SPGP). You built them something they own. Ask if they want to use it.
+- **Potential:** Consulting contract €10,000–30,000 OR formal hire in R&D digital division
+- **Formal careers:** [https://ocpsa.ma/fr/rejoignez-nous](https://ocpsa.ma/fr/rejoignez-nous)
+- **Status tracking:** [ ] Email sent to Laamrani [ ] Meeting set [ ] Proposal submitted
+
+---
+
+## Category 4 — UM6P / Morocco (Internal)
+
+### UM6P CRSA — Remote Sensing Positions (CRSA hires regularly)
+- **Recently closed (for awareness):**
+  - Post-Doctoral Researcher in Hyperspectral Remote Sensing for Soil Fertility Mapping — closed **Feb 12, 2026** (Benguerir, Morocco)
+  - Postdoctoral Researcher in Remote Sensing for Irrigation Mapping — closed **Dec 17, 2025**
+- **These roles come back.** CRSA is actively building capacity. If you want to stay in Morocco with a real research salary and advance toward faculty, CRSA is the internal track.
+- **Check:** Contact CRSA director directly. UM6P career portal also lists roles.
+- **Status tracking:** [ ] Inquired with CRSA [ ] Applied to open role
+
+---
+
+## Your Application Toolkit (Build Before Sending Anything)
+
+| Document | Status | Notes |
+|----------|--------|-------|
+| Industry CV (1-page) | ❌ Not done | Strip LaTeX academic formatting; lead with skills + tools |
+| Academic CV (updated) | ✅ Exists | `CV_ELMANSOUR_2026_Latex.pdf` — add defense date June 30 |
+| Cover letter (base) | ❌ Not done | Write once; customize opening paragraph per employer |
+| Research statement (1 page) | ❌ Not done | For ETH, DLR, VITO scientific roles |
+| Portfolio slides (3 slides) | ❌ Not done | Best visuals: RPI map, EnMAP scene, confusion matrix |
+| LinkedIn profile | ❓ Unknown | Update to "PhD candidate — defending June 30, 2026" |
+
+---
+
+## Search Platforms to Monitor Weekly
+
+| Platform | URL | Search terms |
+|----------|-----|-------------|
+| VITO jobs | https://jobs.vito.be | Check weekly |
+| ESA jobs | https://jobs.esa.int | Alert: "hyperspectral", "remote sensing" |
+| DLR EOC | https://www.dlr.de/en/eoc/careers-education | Follow concludis link |
+| jobs.ac.uk | https://www.jobs.ac.uk | hyperspectral; remote sensing; geoscience |
+| EURAXESS | https://euraxess.ec.europa.eu/jobs | hyperspectral; mining; spectroscopy |
+| Earthworks Jobs | https://www.earthworks-jobs.com | remote sensing; mineralogy |
+| EGU Job Board | https://www.egu.eu/jobs/ | remote sensing |
+| Pixxel | https://pixxel.space/careers | Check weekly |
+
+---
+
+## Application Tracker
+
+| Employer | Role | Date Applied | Deadline | Status | Contact |
+|----------|------|-------------|----------|--------|---------|
+| VITO | Scientist Remote Sensing | 2026-05-25 | **May 29** | ✅ Applied | jobs.vito.be |
+| Pixxel | Hyperspectral Scientist | | Rolling | ❌ Skipped — India-based company | pixxel.space/careers |
+| Pixxel | Senior/Lead Hyperspectral Scientist | | Rolling | ❌ Skipped — India-based company | pixxel.space/careers |
+| VITO | Scientific Expert EO Services | 2026-05-25 | None shown | ✅ Applied | jobs.vito.be |
+| ETH Zurich | Postdoc Hyperspectral RS | | TBD | | jobs.ethz.ch |
+| DLR IMF | (Portal + Storch email) | | | | Dr. Tobias Storch |
+| OCP Group | RPI consulting (via Laamrani) | | | | Through Laamrani |
+
+---
+
+*Built 2026-05-24 with live web search. All entries verified via direct URL fetch or web search on this date.*  
+*Update status column as applications are sent. Re-search platforms weekly until defense (June 30).*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/ISP-UV-Gustau-Email.md
+
+---
+title: ISP UV — Email to Gustau Camps-Valls
+tags:
+date: 2026-06-29
+---
+
+
+# ISP UV — Email to Gustau Camps-Valls
+
+**Platform:** Email
+**To:** Gustau Camps-Valls (ISP, Universitat de València)
+**Re:** Late application — ISP Postdoc 2026 — Project 1 (DL for Earth Sciences)
+
+---
+
+**Subject:** Late application — ISP Postdoc 2026 — Project 1 (DL for Earth Sciences)
+
+Dear Gustau,
+
+I hope you're doing well. I wanted to let you know that I submitted an application for Project 1 (DL for Earth Sciences / Foundation Models) yesterday — I'm aware the deadline of June 21st had already passed, and I apologize for the late submission.
+
+I spent 5 months at the IPL in 2024 working with Jochem's team, so I'm familiar with the lab's research directions. I'm now finishing my PhD in hyperspectral remote sensing at UM6P (defense scheduled for mid-July 2026) and this project is a natural continuation of that experience.
+
+I completely understand if the selection process is already closed, but I wanted to reach out directly in case there's any flexibility or a future opportunity.
+
+Happy to share more if useful.
+
+Best regards,
+Abdelhak EL MANSOUR
+
+---
+
+**Context:**
+- Applied to ISP-UV postdoc call 2026, Project 1 (DL for Earth sciences / Foundation Models for meteo/climate)
+- Deadline missed by 8 days (original deadline June 21, 2026)
+- Also sent Teams message to Jochem Verrelst on 2026-06-28 → [[ISP-UV-Jochem-Teams-Message]]
+- Did NOT meet Gustau during 2024 stay — only worked with Jochem's team
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/ISP-UV-Jochem-Teams-Message.md
+
+---
+title: ISP UV — Teams Message to Jochem Verrelst
+tags:
+date: 2026-06-28
+---
+
+
+# ISP UV — Teams Message to Jochem Verrelst
+
+**Platform:** Google Teams
+**To:** Jochem Verrelst (ISP, Universitat de València)
+**Re:** Late application — PhD & postdoc positions 2026 — Project 1 (DL for Earth sciences)
+
+---
+
+Hi dear Jochem, I hope you're having a good weekend and sorry for sending this message now. I came across the ISP postdoc call this weekend and just submitted my application for Project 1 (DL for Earth sciences) — I'm aware the deadline was 7 days ago, but wanted to reach out directly in case there's still flexibility. Happy to discuss if useful.
+
+---
+
+**Form submitted:** [[https://docs.google.com/forms/d/e/1FAIpQLSd0LcEH8FvDlXaxOMdq9Cy8n8MMu00VbVaUI46IyDKG9McuYw/viewform]]
+**Project applied:** Project 1 — DL for Earth sciences (Foundation Models for meteo/climate)
+**Deadline missed by:** 7 days (original deadline June 21, 2026)
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Job Board — Live Tracker.md
+
+---
+tags:
+date: 2026-05-28
+created: '2026-06-08'
+---
+
+
+# Job Board — Live Tracker
+
+> One-click access to every open opportunity. Update status as you go.
+> Last searched: **2026-05-28**
+> → Full details: [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
+
+---
+
+## 🔴 Urgent
+
+| Offer | Org | Location | Fit | Deadline | Status |
+|-------|-----|----------|-----|----------|--------|
+| [Scientist Remote Sensing (Water Quality)](https://jobs.vito.be) | VITO | Belgium | 7/10 | **May 29 ⚠️** | ✅ Applied 2026-05-25 |
+
+---
+
+## 🟢 Top Fits — Apply Now
+
+| Offer | Org | Location | Fit | Deadline | Status |
+|-------|-----|----------|-----|----------|--------|
+| [Post-Doctoral Position in Remote Sensing for Soil Monitoring (PREPSOIL)](https://jobs.inrae.fr/en/ot-17203) | INRAE | France | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
+| [Remote Sensing (RS) Scientist](https://www.wur.nl/en/vacancy/remote-sensing-rs-scientist) | WUR | Netherlands | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
+| [Postdoc in Forest Remote Sensing, Modelling and Deep Learning (DC-26100)](https://www.nature.com/naturecareers/job/12857021/dc-26100-postdoc-in-forest-remote-sensing-modelling-and-deep-learning/) | LIST | Luxembourg | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
+| [Scientific Expert — Earth Observation Services](https://jobs.vito.be) | VITO | Belgium (Hybrid) | 8.5/10 | None shown | ✅ Applied 2026-05-25 |
+| [Postdoc — Hyperspectral RS for Forest Management](https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH) | ETH Zurich | Switzerland | 7/10 | TBD | ❌ Not applied |
+| [Postdoc — Hyperspectral Remote Sensing](https://euraxess.ec.europa.eu/jobs/180699) | GFZ / Potsdam | Germany | 8/10 🆕 | Dec 2026 | ❌ Not applied |
+| [Postdoc — Hyperspectral RS](https://professorpositions.com/postdoc-position-in-hyperspectral-remote-sensing,i31029.html) | U. Copenhagen | Denmark | 7.5/10 🆕 | Check | ❌ Not applied |
+
+---
+
+## 🟡 Post-Defense (Email / Network Plays)
+
+| Action | Target | Contact | Fit | Status |
+|--------|--------|---------|-----|--------|
+| Email Pr. Nicole Fenton — postdoc inquiry | UQAT — IRF / NSERC Chair Biodiversity in Mining | nicole.fenton@uqat.ca | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]] |
+| Email Pr. Osvaldo Valeria — postdoc inquiry | UQAT — IRF, Rouyn-Noranda, Canada | osvaldo.valeria@uqat.ca | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]] |
+| Email Pr. Bruno Bussière — postdoc inquiry | UQAT — IRME / NSERC Chair Mine Reclamation | bruno.bussiere@uqat.ca | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]] |
+| Email Pr. Maxence Martin — postdoc inquiry | UQAT — IRF, boreal RS / LiDAR | maxence.martin@uqat.ca | 7/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]] |
+| Email Dr. Tobias Storch directly | DLR IMF — Imaging Spectroscopy Dept., Oberpfaffenhofen | tobias.storch@dlr.de | 10/10 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]] |
+| Email Dr. Sarah Asam | DLR DFD — Forest Ecosystems Team, Oberpfaffenhofen | sarah.asam@dlr.de | 9/10 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]] |
+| Email Prof. Sabine Chabrillat — postdoc inquiry | GFZ Potsdam — Hyperspectral RS group / EnMAP Science PI | sabine.chabrillat@gfz-potsdam.de | 9.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]] |
+| Email Dr. Richard Gloaguen — postdoc inquiry | HZDR / Helmholtz Freiberg — Exploration Technology div. | r.gloaguen@hzdr.de | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]] |
+| Email Dr. Saeid Asadzadeh — postdoc inquiry | GFZ Potsdam — EnMAP science team, mineral RS | saeid.asadzadeh@gfz-potsdam.de | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]] |
+| Email Dr. Sandra Lorenz — postdoc inquiry | HZDR Freiberg — Group Leader Digital Processing, mine RS | s.lorenz@hzdr.de | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]] |
+| Email Dr. Mahdi Khodadadzadeh — postdoc inquiry | ITC Twente — hyperspectral + ML for mining mineralogy | m.khodadadzadeh@utwente.nl | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]] |
+| Email Prof. Kamran Esmaeili — postdoc inquiry | Univ. Toronto — hyperspectral ore-waste discrimination + ML | kamran.esmaeili@utoronto.ca | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]] |
+| Network: Dr. Mehdi Abdolmaleki (postdoc in Esmaeili lab) | Univ. Toronto — peer, hyperspectral mining RS | mehdi.abdolmaleki@utoronto.ca | peer | 🔗 Contact after emailing Esmaeili |
+| Email Dr. Nicola Mondillo — postdoc inquiry | Univ. Naples Federico II — PRISMA + geochemistry for mining mineralogy | nicola.mondillo@unina.it | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]] |
+| Email Dr. Anna Sorrentino — peer inquiry | Univ. Naples Federico II — PRISMA satellite mining geology | anna.sorrentino@unina.it | peer 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry]] |
+| Email Dr. Chris Hecker — postdoc inquiry | ITC Twente — TIR hyperspectral mineralogy, EMIT, GreenMiner | c.a.hecker@utwente.nl | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]] |
+| Email Dr. Martin Schodlok — inquiry | BGR Hannover — mine tailings hyperspectral monitoring | martin.schodlok@bgr.de | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]] |
+| OCP Group — RPI consulting via Laamrani | OCP Group | Through supervisor | High ROI | ❌ Email not sent |
+| ESA — set job alert | [jobs.esa.int](https://jobs.esa.int) | — | — | ❌ Alert not set |
+
+---
+
+## 🔵 Check & Decide
+
+| Offer | Org | Location | Fit | Link | Status |
+|-------|-----|----------|-----|------|--------|
+| Research Scientist / Postdoc RS | Luke (Finland) | Finland | 6/10 🆕 | [Link](https://academicpositions.com/ad/natural-resources-institute-finland-luke/2026/research-scientist-postdoc-remote-sensing/246201) | ❌ Check if open |
+| Project Lead — EO Platforms | VITO | Belgium | 5/10 | [jobs.vito.be](https://jobs.vito.be) | ⏭️ Skip for now |
+| Geoscientist | Rio Tinto | Australia | 4/10 | [riotinto.com/careers](https://www.riotinto.com/careers/available-jobs) | ⏭️ Skip |
+| High Resolution Image Processing Expert | VITO | Belgium (Hybrid) | 6/10 🆕 | [jobs.vito.be/o/high-resolution-image-processing-expert](https://jobs.vito.be/o/high-resolution-image-processing-expert) | ⏭️ Skipped — Abdelhak passed on this one 2026-07-06 |
+| Exploration - Remote Sensing Lead (Req 239544) | Barrick Mining Corporation | United States | 9/10 🆕 | [jobs.barrick.com](https://jobs.barrick.com) (search "Remote Sensing Lead") | ⏸️ Cover letter + PDF ready, portal apply only — Barrick's own site warns off-portal contact isn't legitimate, so no email draft possible. Not yet submitted. |
+
+---
+
+## 🟣 Hyperspectral Industry — Speculative Applications (2026-07-06)
+
+No live req confirmed for any of these six except where noted — all cover letters drafted and ready, none sent. None overlap with anyone already contacted (checked against Postdoc Outreach Dashboard).
+
+| Company | What they do | Country | Fit | Cover Letter | Status |
+|---|---|---|---|---|---|
+| Corescan (Epiroc) | Hyperspectral drill-core scanning for mining exploration | Australia (global offices) | 8/10 | [[02_Academic & Work/work/applications/Cover Letter - Corescan Speculative]] | ✅ Sent 2026-07-06 to sales@corescan.com.au |
+| HyVista Corporation | Airborne hyperspectral (HyMap) for mineral exploration | Australia | 7.5/10 | [[02_Academic & Work/work/applications/Cover Letter - HyVista Speculative]] | ⏸️ No confirmed email — needs LinkedIn message, not sent |
+| Specim | Hyperspectral camera manufacturer | Finland | 6.5/10 | [[02_Academic & Work/work/applications/Cover Letter - Specim Speculative]] | ✅ Sent 2026-07-06 to info@specim.com |
+| Wyvern | Commercial hyperspectral satellite constellation, actively hiring | Canada | 8/10 | [[02_Academic & Work/work/applications/Cover Letter - Wyvern Speculative]] | ✅ Sent 2026-07-06 to hiring@wyvern.space |
+| Kuva Space | Hyperspectral satellite constellation, scaling to 100 sats | 🇫🇮 Finland (Europe) | 8/10 | [[02_Academic & Work/work/applications/Cover Letter - Kuva Space Speculative]] | ⏸️ No confirmed email — needs careers.kuvaspace.com "Open Application" form, not sent |
+| Orbital Sidekick | Hyperspectral EO for pipeline/mining monitoring | United States | 7/10 | [[02_Academic & Work/work/applications/Cover Letter - Orbital Sidekick Speculative]] | ⏸️ No confirmed email — needs jobs.lever.co/orbitalsidekick portal, not sent |
+
+---
+
+## 🟢 Geology + AI Companies (2026-07-06)
+
+Abdelhak asked specifically for companies combining geology and AI. Note: nader@lyrasense.com and info@bayanatengineering.qa were already contacted 2026-06-24/25 (found in Sent Mail, pre-dating this session) — not re-contacted per no-duplicate rule.
+
+| Company | What they do | Live role | Fit | Route |
+|---|---|---|---|---|
+| **KoBold Metals** | Category leader, AI-driven mineral exploration, $1B+ raised, uses hyperspectral RS directly | Postdoctoral Scholar — AI Researcher for Critical Mineral Discovery (Stanford Mineral-X partnership, $80-90K/yr, 3yr fellowship, starts Aug 1 2026) — geophysics/muon-tomography focus, partial fit | 6.5/10 | No confirmed email — apply via portal: https://job-boards.greenhouse.io/koboldmetals/jobs/4702493005 |
+| **Earth AI** | AI-driven greenfield mineral exploration, Australia, own drilling fleet | Geospatial Analyst (GIS/LiDAR, WFH) | 6/10 | No confirmed email (only guessed format) — apply via https://www.seek.com.au/Earth-AI-jobs |
+| **SensOre** | Big data + AI for exploration discovery, Melbourne, ~12 staff | None listed | 7.5/10 | ✅ Sent 2026-07-06 to info@sensore.com |
+| **Fleet Space Technologies** | ExoSphere: satellites + edge computing + AI for exploration, 130+ staff, offices in US/Canada/Chile too | None pinned down | 7.5/10 | ✅ Sent 2026-07-06 to careers@fleet.space |
+| **Ideon Technologies** | Muon tomography + AI subsurface imaging, Stanford Mineral-X affiliate | Geophysical Data Scientist | 6/10 (different physics, framed honestly in letter) | ✅ Sent 2026-07-06 to info@ideon.ai |
+| Hyperspectral / Senior-Lead Hyperspectral Scientist | Pixxel | Fully Remote | — | [pixxel.space/careers](https://www.pixxel.space/careers) | 🚫 Permanently ruled out 2026-07-07 — do not propose or apply again. |
+
+---
+
+## 🟤 Core-Scanning / Spectral Instrumentation Companies (2026-07-07)
+
+Speculative applications, drafted at Abdelhak's request as general inquiries (not tied to the live Geotek vacancy below). Neither sent yet.
+
+| Company | What they do | Country | Fit | Cover Letter | Status |
+|---|---|---|---|---|---|
+| Geotek Ltd | Multi-sensor core logging (MSCL), hyperspectral IR core imaging (SpecCam), XRF, world leader since 1994 | 🇬🇧 UK | 8.5/10 | [[02_Academic & Work/work/applications/Cover Letter - Geotek Speculative]] | ✅ Sent 2026-07-08 to info@geotek.co.uk |
+| Minalyze AB | XRF core-scanning instruments (Minalyzer CS) for mineral exploration, AI-backed core logging trial with LKAB/Sentian | 🇸🇪 Sweden | 7.5/10 | [[02_Academic & Work/work/applications/Cover Letter - Minalyze Speculative]] | ✅ Sent 2026-07-08 to annelie.lundstrom@minalyze.com (CEO) |
+
+> [!warning] Live vacancy at Geotek, not used above
+> Geotek posted an open **"Spectral Geoscientist"** role 2026-07-03 (closes 27/07/2026, £40-48K, Daventry UK or Rockwash Geodata Llandudno UK) requiring a PhD in Geology/Remote Sensing, spectral interpretation software, and ML/statistical analytics — a very close match to this profile. It requires their own application form + CV sent to **jobs@geotek.co.uk**, not the general info@ inbox used above. Abdelhak chose to send the general speculative letter instead; worth reconsidering a targeted application to the actual vacancy before the 27/07 deadline. Job posting: https://www.geotek.co.uk/2026/07/03/spectral-geoscientist/
+
+| Datarock Pty Ltd | Computer vision + ML on drill core/chip imagery, automated geological logging, prospectivity modelling — acquired by IMDEX 2026 | 🇦🇺 Australia | 8/10 | [[02_Academic & Work/work/applications/Cover Letter - Datarock Speculative]] | 📝 Draft created in Gmail 2026-07-08 (info@datarock.com.au) — **ready to send, awaiting review** |
+| Minerva Intelligence Inc. | Cognitive AI (semantic reasoning + knowledge graphs) for mineral exploration, TERRA Mining AI Suite | 🇨🇦 Canada | 7/10 | [[02_Academic & Work/work/applications/Cover Letter - Minerva Intelligence Speculative]] | 📝 Draft created in Gmail 2026-07-08 (info@minervaintelligence.com) — **ready to send, awaiting review** |
+| MinersAI, Inc. | AI platform organizing/analyzing geoscience data for exploration teams, investors, governments | 🇺🇸 USA / 🇧🇪 Belgium | 7/10 | [[02_Academic & Work/work/applications/Cover Letter - MinersAI Speculative]] | 📝 Draft created in Gmail 2026-07-08 (contact@minersai.com) — **ready to send, awaiting review** |
+| Hyperspectral Intelligence Inc. (HII) | World's largest vendor of hyperspectral-based automated rock ID systems (Handheld Scanner) | 🇨🇦 Canada | 8/10 | [[02_Academic & Work/work/applications/Cover Letter - Hyperspectral Intelligence Speculative]] | 📝 Draft created in Gmail 2026-07-08 (hr@hypspectral-intelligence.com) — **ready to send, awaiting review**. Only live req is a logistics/support role, sent as general speculative note instead |
+| Geospectra | Portable XRF/XRD/LIBS/SWIR-NIR field instruments + LithologIQ mobile hyperspectral core-scanning lab | 🇨🇦 Canada | 7/10 | [[02_Academic & Work/work/applications/Cover Letter - Geospectra Speculative]] | 📝 Draft created in Gmail 2026-07-08 (queries@geospectra.ca, general inbox) — **ready to send, awaiting review** |
+| Boart Longyear | Global drilling services; Geological Data Services division runs field XRF, hyperspectral core scanning, has live Geoscientist reqs (Perth, Adelaide) | 🌍 Global (US/AU HQ) | 6.5/10 | — | Portal-only (careers.boartlongyear.com), no direct contact found — not pursued as cold email |
+| Mineral Forecast | AI geosciences platform (Geo AI Advisor) for exploration/drill-site decisions | 🌍 (HQ not localized) | 7/10 | [[02_Academic & Work/work/applications/Cover Letter - Mineral Forecast Speculative]] | ✅ Sent 2026-07-09 to contact@mineralforecast.com |
+
+> [!note] Re-search 2026-07-09 — mostly saturated
+> Checked Solve Geosolutions (Melbourne, Corescan hyperspectral + ML) — company site (solvegeosolutions.com) no longer resolves, likely defunct/rebranded, not pursued. GoldSpot Discoveries — acquired by ALS, now "ALS Geoanalytics," no direct email, only a sales lead-gen form (not a legitimate cold-email target). Albert Mining — renamed to Windfall Geotek years ago, contact info too stale to trust, not pursued. Confirmed rule holding: only send to addresses explicitly confirmed on the company's own site, never scraped/guessed ones.
+
+---
+
+## 🔎 Re-search 2026-07-06 — Result: pipeline is saturated, not empty
+
+Re-searched VITO, ESA, DLR, GFZ, ETH, Pixxel, jobs.ac.uk, Academic Positions, plus corresponding-author trails on 2025-2026 EnMAP/PRISMA mineral-exploration papers. Findings:
+- **ETH Zurich hyperspectral forest postdoc**: no longer listed on the ETH jobs portal — likely filled or closed.
+- **GFZ Potsdam "Hyperspectral Remote Sensing" posting (EURAXESS 180699)**: confirmed **EXPIRED** (deadline was Jan 21, 2024) and required mandatory German fluency anyway. Remove from tracker.
+- **University of Twente ITC "biodiversity-positive renewable energy" postdoc**: deadline was June 14, 2026 — already closed.
+- **VITO**: two roles genuinely open — Scientific Expert EO Services (already applied 2026-05-25) and a new High Resolution Image Processing Expert (Aug 15 deadline, portal-only, agriculture-focused, added above).
+- No new job-board hyperspectral-mineral-exploration postings turned up anywhere. The specialty is too narrow and too small to have regular open reqs — this matches what the last two months of searching already showed.
+- **The 21 PI/lab targets in the Postdoc Outreach Dashboard are essentially the entire reachable European network in this niche** — checked against 3 more recent EnMAP/PRISMA mineral-exploration papers, and the author lists (Sorrentino, Asadzadeh, Chabrillat, Mondillo, Gleeson, Balassone…) overlap almost completely with people already emailed.
+- Found 2 genuinely new, not-yet-contacted names by tracing corresponding authors and section leads: **Prof. Sarah A. Gleeson** (GFZ Potsdam / FU Berlin, ore deposit geochemistry + hyperspectral core imaging) and **Prof. Amin Beiranvand Pour** (Universiti Teknologi Malaysia, prolific ASTER/Landsat/PRISMA alteration-mapping author). Drafts created in Gmail 2026-07-06, both attached with resume + full cover letter PDF — **not sent**, pending review.
+- **Reality check**: 21 emails already sent between 2026-06-22 and 2026-06-24 with zero replies as of today (2 weeks later). That is not unusual for cold academic outreach — funded openings are rare and replies (if any) often take 4-8 weeks — but it does mean the fix isn't "search harder," it's either (a) wait longer, (b) widen scope beyond this specific niche, or (c) lean harder on OCP/Laamrani, which is still marked "email not sent" below.
+
+---
+
+## 📋 Application Toolkit (Blocker for Most Applications)
+
+| Document | Status |
+|----------|--------|
+| Academic CV (updated) | ✅ `CV_ELMANSOUR_2026_Latex.pdf` — add defense date |
+| Resume (used for all industry outreach) | ✅ `02_Academic & Work/work/applications/Resume_ELMANSOUR_2026.pdf` — copied into vault 2026-07-08 (only version, was previously in `.raw/` only) |
+| Cover letter (base) | ❌ Not done |
+| Research statement (1 page) | ❌ Not done — needed for ETH, DLR, VITO |
+| Portfolio slides (3 slides) | ❌ Not done |
+| LinkedIn updated | ❓ Check |
+
+---
+
+## 🔍 Weekly Scan — Job Boards
+
+| Board | Link | Search Terms |
+|-------|------|-------------|
+| VITO | [jobs.vito.be](https://jobs.vito.be) | Check weekly |
+| ESA | [jobs.esa.int](https://jobs.esa.int) | hyperspectral, remote sensing |
+| DLR EOC | [dlr.de/en/eoc/careers-education](https://www.dlr.de/en/eoc/careers-education/jobs-at-the-eoc) | — |
+| EURAXESS | [euraxess.ec.europa.eu/jobs](https://euraxess.ec.europa.eu/jobs) | hyperspectral; mineralogy; mining |
+| space-careers.com | [space-careers.com](https://www.space-careers.com/jobs/remote_sensing_optics_and_gis) | RS, optics, GIS |
+| earthworks-jobs.com | [earthworks-jobs.com](https://www.earthworks-jobs.com/remotesensing) | remote sensing; mineralogy |
+| jobs.ac.uk | [jobs.ac.uk](https://www.jobs.ac.uk) | hyperspectral; remote sensing |
+| Academic Positions | [academicpositions.com](https://academicpositions.com/jobs/field/remote-sensing-geosciences) | remote sensing |
+| LinkedIn Belgium EO | [LinkedIn](https://be.linkedin.com/jobs/earth-observation-jobs) | EO, satellite |
+| Pixxel | [pixxel.space/careers](https://pixxel.space/careers) | Check weekly |
+
+---
+
+> **Rule:** Defense first. Applications post-June 30 except for rolling deadlines already in progress.
+> 🆕 = new find 2026-05-28
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Pipeline|Job Pipeline]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Job Pipeline.md
+
+---
+tags:
+date: 2026-06-07
+created: '2026-06-08'
+---
+
+
+## 🎯 To Apply
+
+- [ ] **ETH Zurich — Postdoc Hyperspectral RS for Forest** #deadline/TBD @{2026-07-15} fit::7/10
+- [ ] **GFZ / Potsdam — Postdoc Hyperspectral RS** #deadline/Dec2026 fit::8/10
+- [ ] **U. Copenhagen — Postdoc Hyperspectral RS** #deadline/check fit::7.5/10
+- [ ] **Luke Finland — Research Scientist/Postdoc RS** #deadline/check fit::6/10
+
+## ✍️ Letter Drafted
+
+- [ ] **DLR IMF — Dr. Tobias Storch** fit::10/10 → [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]]
+- [ ] **DLR DFD — Dr. Sarah Asam** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]]
+- [ ] **GFZ — Pr. Sabine Chabrillat** fit::9.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]]
+- [ ] **HZDR — Dr. Richard Gloaguen** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]]
+- [ ] **GFZ — Dr. Saeid Asadzadeh** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]]
+- [ ] **HZDR — Dr. Sandra Lorenz** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]]
+- [ ] **ITC Twente — Dr. Khodadadzadeh** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]]
+- [ ] **U. Toronto — Pr. Esmaeili** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]]
+- [ ] **UQAT — Pr. Nicole Fenton** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]]
+- [ ] **UQAT — Pr. Osvaldo Valeria** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]]
+- [ ] **UQAT — Pr. Bruno Bussière** fit::7.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]]
+- [ ] **UQAT — Pr. Maxence Martin** fit::7/10 → [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]]
+- [ ] **Naples — Dr. Mondillo** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]]
+- [ ] **ITC Twente — Dr. Hecker** fit::7.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]]
+- [ ] **BGR — Dr. Schodlok** fit::7.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]]
+- [ ] **OCP Group — via Laamrani** fit::High ROI
+
+## 📤 Sent (Post-Defense)
+
+- [x] **INRAE PREPSOIL** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc]] ✅ Applied 2026-06-09
+- [x] **WUR RS Scientist** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist]] ✅ Applied 2026-06-09
+- [x] **LIST Luxembourg — Forest RS** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc]] ✅ Applied 2026-06-09
+
+## 📞 Interview
+
+- [ ] Item placeholder
+
+## ✅ Offer / Closed
+
+- [ ] **VITO — Scientist Water Quality** ✅ Applied 2026-05-25
+- [ ] **VITO — Scientific Expert EO Services** ✅ Applied 2026-05-25
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","hide-tags-in-title":false,"link-date-to-daily-note":false}
+```
+%%
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]] · [[02_Academic & Work/work/Flashcards — Career|Flashcards — Career]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Postdoc Applications.md
+
+---
+tags:
+created: '2026-06-06'
+---
+
+
+# Postdoc Applications
+
+> [!TIP]
+> **Outreach Dashboard**: All 16 cold emails and tracking checkboxes are consolidated in the [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]]. Use it to launch your cold outreach on July 1.
+
+> "Dr." title changes everything. Start blasting July 1.
+> Main tracker: → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
+
+---
+
+## Priority Targets
+
+### 🇩🇪 GFZ Potsdam — Section 1.4 (NEW #1 PRIORITY)
+- **Status:** Spontaneous application — send July 1
+- **Contact:** Dr. Sabine Chabrillat — chabri@gfz-potsdam.de
+- **Pitch:** "I built an EnMAP + PRISMA operational pipeline for mine mineralogy and reclamation monitoring. Your section's work on geological/soil hyperspectral applications is the direct scientific context."
+- **Why it's #1:** Section 1.4 holds the EnMAP science lead at GFZ. Previous postdoc posting (ref. 9937) = recurring pattern. Chabrillat is Francophone — French email works. Thematic overlap is exact: mineralogy, geological hyperspectral, EnMAP.
+- **Portal:** gfz.de/en/career/job-offers (also check for active listings)
+- **Template:** [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 3
+
+### 🇩🇪 DLR IMF — Oberpfaffenhofen
+- **Status:** Direct email to send after defense
+- **Contact:** Dr. Tobias Storch — Head of Hyperspectral RS team, DLR IMF
+- **Pitch:** "I defended my PhD June 30 on EnMAP-based operational reclamation monitoring. I built an operational pipeline. Looking for a postdoc in your group."
+- **Why it's the best fit:** DLR built and operates EnMAP. You built an operational EnMAP pipeline. There is no stronger technical match in Europe.
+- **Salary:** TVöD E13 ~€50,000–58,000/yr
+- **Portal:** https://www.dlr.de/en/eoc/careers-education
+
+### 🇨🇭 ETH Zurich — Postdoc Hyperspectral RS for Forest Management
+- **Status:** Open (posted 2025, still active May 2026)
+- **Fit:** 7/10 — identical methods, different domain (forest vs mine)
+- **Duration:** 3 years, extendable to 6 years
+- **Portal:** → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
+
+### 🇧🇪 VITO — Scientific Expert EO Services
+- **Status:** ✅ Applied 2026-05-25 — awaiting response · **Checklist**: [[02_Academic & Work/work/active/VITO Application/Submission Checklist]]
+- **Fit:** 8.5/10
+- **Typical response time:** 2–6 weeks
+
+### 🇲🇦 UM6P CRSA — Remote Sensing Positions
+- **Status:** Recurring positions — hyperspectral role closed Feb 2026 but comes back
+- **Action:** Contact CRSA director directly post-defense
+- **Advantage:** Stay in Morocco with real research salary + proximity to OCP
+
+---
+
+### 🇫🇷 BRGM — Orléans (Spontaneous)
+- **Status:** Spontaneous application — send July 1
+- **Team:** Télédétection géologique / Géoressources
+- **Why:** French geological survey, active RS team, French-language advantage
+- **Template:** → [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 2
+
+### 🇩🇪 BGR — Hannover (Spontaneous)
+- **Status:** Spontaneous application — send July 1
+- **Team:** Fachbereich B4 Fernerkundung
+- **Why:** German geological survey; mineral + mine RS is their core mission
+- **Template:** → [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 2
+
+### 🇮🇹 ESA ESRIN — Frascati (Spontaneous)
+- **Status:** Spontaneous application — send July 7
+- **Contact:** EO Science & Applications Division (check jobs.esa.int + direct email)
+- **Why:** PRISMA is an ASI/ESA instrument; PRISMA pipeline = direct technical hook
+- **Template:** → [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 2
+
+### 🇫🇮 GTK — Finland (Spontaneous)
+- **Status:** Spontaneous application — send July 7
+- **Why:** Active hyperspectral + mine RS program; open to international profiles
+
+---
+
+## Dropped / Ruled Out
+- ~~NORCE Norway~~ — not an active target
+- ~~NRCan Canada~~ — too far from Europe/Morocco priority
+
+---
+
+## Email Templates
+→ [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]]
+- **Template 1** — Postdoc (cold email to PI)
+- **Template 2** — Industry / EO company / geological survey
+- **Template 3** — DLR Dr. Storch (specific, do not dilute)
+
+---
+
+## Application Checklist (per institution)
+- [ ] CV updated with "Dr." title
+- [ ] Google Scholar + LinkedIn updated with title
+- [ ] Cover letter adapted (focus on operational engineering vs pure academic)
+- [ ] Reference letters (ask Laamrani before defense)
+
+---
+
+## Salary Context
+| Location | Postdoc salary | Note |
+|----------|---------------|------|
+| DLR (Germany) | ~€4,200–4,800/mo | TVöD E13 |
+| ETH Zurich (Switzerland) | ~CHF 5,000–6,000/mo | Very strong |
+| VITO (Belgium) | ~€3,000–4,000/mo | Estimated |
+| CRSA UM6P (Morocco) | ~€1,000–2,000/mo | Local context |
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md
+
+---
+date: 2026-06-07
+tags:
+summary: 'A central tracking dashboard and cold outreach email templates with clickable
+created: '2026-06-09'
+---
+
+
+# 🎓 Postdoc Outreach Dashboard
+
+> [!IMPORTANT]
+> **Strategy Note**: Academic PIs are extremely busy. Do not send a long cover letter as your first cold email. Instead, send a **short, high-impact introductory email** (templates below) introducing yourself, expressing interest in their group's research, and linking your CV/thesis abstract. Offer to discuss further via a video call.
+
+> [!TIP]
+> **One-Click Email Drafts**: Each template has an **`✉️ Open Draft in Mail Client`** button. Clicking it will instantly open your default mail client (Gmail, Outlook, etc.) with the recipient, subject, and body pre-filled. You just need to attach your CV and click send!
+
+## 📋 Outreach Master Tracker
+
+| PI Target Name | Institution | Country | Cover Letter Link | Outreach Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **ITC Twente — Biodiversity EO** | University of Twente ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc\|ITC Biodiversity Letter]] | ✅ Applied 2026-06-09 |
+| **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | ✅ Applied 2026-06-09 |
+| **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | ✅ Applied 2026-06-09 |
+| **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | ✅ Applied 2026-06-09 |
+| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc\|Dr. Saeid Asadzadeh Letter]] | ✅ Sent 2026-06-24 |
+| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc\|Dr. Sarah Asam Letter]] | ✅ Sent 2026-06-24 |
+| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc\|Pr. Bruno Bussière Letter]] | ✅ Sent 2026-06-23 |
+| **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc\|Prof. Dr. Sabine Chabrillat Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc\|Prof. Kamran Esmaeili Letter]] | ✅ Sent 2026-06-24 |
+| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc\|Pr. Nicole Fenton Letter]] | ✅ Sent 2026-06-23 |
+| **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc\|Dr. Richard Gloaguen Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc\|Dr. Chris Hecker Letter]] | ✅ Sent 2026-06-23 |
+| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc\|Dr. Mahdi Khodadadzadeh Letter]] | ✅ Sent 2026-06-24 |
+| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc\|Dr. Sandra Lorenz Letter]] | ✅ Sent 2026-06-24 |
+| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc\|Prof. Maxence Martin Letter]] | ✅ Sent 2026-06-23 |
+| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc\|Dr. Nicola Mondillo Letter]] | ✅ Sent 2026-06-24 |
+| **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc\|Dr. Martin Schodlok Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry\|Dr. Anna Sorrentino Letter]] | ✅ Sent 2026-06-23 |
+| **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc\|Dr. Tobias Storch Letter]] | ✅ Sent 2026-06-22 (pool) |
+| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc\|Pr. Osvaldo Valeria Letter]] | ✅ Sent 2026-06-24 |
+| **INERIS Spontaneous** | INERIS | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous|INERIS Spontaneous Letter]] | ✅ Sent 2026-06-23 |
+| **Prof. Dr. Sarah A. Gleeson** 🆕 | GFZ Potsdam / FU Berlin — Inorganic & Isotope Geochemistry | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter - Gleeson GFZ Postdoc\|Prof. Sarah Gleeson Letter]] | ✅ Sent 2026-07-06 |
+| **Prof. Dr. Amin Beiranvand Pour** 🆕 | Universiti Teknologi Malaysia (INSTeG) | 🇲🇾 Malaysia | [[02_Academic & Work/work/applications/Cover Letter - Beiranvand Pour UTM Postdoc\|Prof. Beiranvand Pour Letter]] | ✅ Sent 2026-07-06 |
+| **Dr. Christiaan van der Tol** 🆕 | University of Twente ITC — FLEX Postdoc | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Gmail Drafts Batch - 2026-07-12\|Batch 2026-07-12]] | ✅ Sent 2026-07-12 |
+| **EUSI Munich (jobs@)** 🆕 | European Space Imaging — Junior EO Specialist | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Gmail Drafts Batch - 2026-07-12\|Batch 2026-07-12]] | ✅ Sent 2026-07-12 |
+| **NASA NPP Program Office** 🆕 | ORAU / NASA Postdoctoral Program (eligibility inquiry) | 🇺🇸 USA | [[02_Academic & Work/work/applications/Gmail Drafts Batch - 2026-07-12\|Batch 2026-07-12]] | ✅ Inquiry sent 2026-07-12 |
+
+---
+
+## 📧 Tailored Cold Email Templates
+
+### 👤 Dr. Saeid Asadzadeh (GFZ Potsdam — 🇩🇪 Germany)
+**Email Address**: `saeid.asadzadeh@gfz-potsdam.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:saeid.asadzadeh@gfz-potsdam.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Asadzadeh%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20GFZ%20Potsdam.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geological%20remote%20sensing%20and%20hyperspectral%20unmixing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineral%20mapping%20and%20PRISMA%20data%20processing%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Asadzadeh,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at GFZ Potsdam. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geological remote sensing and [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|hyperspectral unmixing]].
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in mineral mapping and PRISMA data processing aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Sarah Asam (DLR — 🇩🇪 Germany)
+**Email Address**: `sarah.asam@dlr.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:sarah.asam@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Asam%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20land%20surface%20monitoring%20and%20multi-temporal%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20machine%20learning%20classification%20and%20surface%20analysis%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Asam,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at DLR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|land surface monitoring and reclamation monitoring]].
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in machine learning classification and surface analysis aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Pr. Bruno Bussière (UQAT — 🇨🇦 Canada)
+**Email Address**: `bruno.bussiere@uqat.ca`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:bruno.bussiere@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Bussi%C3%A8re%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20restauration%20et%20la%20gestion%20environnementale%20des%20sites%20miniers.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Bussi%C3%A8re%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
+
+Monsieur le Professeur Bussière,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur la restauration et la gestion environnementale des sites miniers.
+
+Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
+
+J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
+
+Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
+
+Je vous prie d'agréer, Monsieur le Professeur Bussière, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
+
+---
+
+### 👤 Prof. Dr. Sabine Chabrillat (GFZ Helmholtz Centre for Geosciences, Potsdam — 🇩🇪 Germany)
+**Email Address**: `chabri@gfz-potsdam.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:chabri@gfz-potsdam.de?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%20la%20Professeure%20Chabrillat%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20GFZ%20Helmholtz%20Centre%20for%20Geosciences%2C%20Potsdam.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20hyperspectral%20applications%20for%20bare%20soil%20and%20mineral%20mapping.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%20la%20Professeure%20Chabrillat%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
+
+Madame la Professeure Chabrillat,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à GFZ Helmholtz Centre for Geosciences, Potsdam. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur hyperspectral applications for bare soil and mineral mapping.
+
+Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
+
+J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
+
+Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
+
+Je vous prie d'agréer, Madame la Professeure Chabrillat, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
+
+---
+
+### 👤 Prof. Kamran Esmaeili (University of Toronto — 🇨🇦 Canada)
+**Email Address**: `kamran.esmaeili@utoronto.ca`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:kamran.esmaeili@utoronto.ca?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Professor%20Esmaeili%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Toronto.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20mine%20waste%20management%20and%20civil/mineral%20engineering%20remote%20sensing%20applications.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20phosphate%20waste%20rock%20characterization%20and%20multi-scale%20monitoring%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Professor Esmaeili,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at University of Toronto. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on mine waste management and civil/mineral engineering remote sensing applications.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in phosphate waste rock characterization and multi-scale monitoring aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Pr. Nicole Fenton (UQAT — 🇨🇦 Canada)
+**Email Address**: `nicole.fenton@uqat.ca`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:nicole.fenton@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%20la%20Professeure%20Fenton%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20biodiversit%C3%A9%20et%20la%20restauration%20%C3%A9cologique%20en%20contexte%20minier%20nordique.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%20la%20Professeure%20Fenton%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
+
+Madame la Professeure Fenton,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur la biodiversité et la restauration écologique en contexte minier nordique.
+
+Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
+
+J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
+
+Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
+
+Je vous prie d'agréer, Madame la Professeure Fenton, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
+
+---
+
+### 👤 Dr. Richard Gloaguen (HZDR — 🇩🇪 Germany)
+**Email Address**: `r.gloaguen@hzdr.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:r.gloaguen@hzdr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Gloaguen%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20HZDR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20exploration%20technology%20and%20automated%20mineral%20mapping%20using%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20field%20spectroscopy%2C%20PRISMA/EnMAP%20unmixing%2C%20and%20machine%20learning%20classification%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Gloaguen,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at HZDR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on exploration technology and automated mineral mapping using remote sensing.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in field spectroscopy, PRISMA/EnMAP unmixing, and machine learning classification aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Chris Hecker (ITC — 🇳🇱 Netherlands)
+**Email Address**: `c.a.hecker@utwente.nl`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:c.a.hecker@utwente.nl?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Hecker%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20ITC.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20thermal%20and%20reflective%20infrared%20spectroscopy%20for%20mineral%20identification.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineralogical%20characterization%20and%20laboratory/field%20ASD%20spectroscopy%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Hecker,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at ITC. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on thermal and reflective infrared spectroscopy for mineral identification.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in mineralogical characterization and laboratory/field ASD spectroscopy aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Mahdi Khodadadzadeh (ITC — 🇳🇱 Netherlands)
+**Email Address**: `m.khodadadzadeh@utwente.nl`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:m.khodadadzadeh@utwente.nl?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Khodadadzadeh%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20ITC.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geo-information%20processing%20and%20advanced%20machine%20learning%20for%20hyperspectral%20classification.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20spatial-spectral%20CNN%20architectures%20and%20advanced%20classifier%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Khodadadzadeh,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at ITC. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geo-information processing and advanced machine learning for hyperspectral classification.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in spatial-spectral CNN architectures and advanced classifier design aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Sandra Lorenz (HZDR — 🇩🇪 Germany)
+**Email Address**: `s.lorenz@hzdr.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:s.lorenz@hzdr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Lorenz%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20HZDR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20hyperspectral%20sensor%20integration%20and%20mineral%20resource%20exploration%20technology.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20spectral%20unmixing%20and%20multi-source%20geological%20data%20fusion%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Lorenz,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at HZDR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on hyperspectral sensor integration and mineral resource exploration technology.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in spectral unmixing and multi-source geological data fusion aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Prof. Maxence Martin (UQAT — 🇨🇦 Canada)
+**Email Address**: `maxence.martin@uqat.ca`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:maxence.martin@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Martin%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20dynamique%20des%20%C3%A9cosyst%C3%A8mes%20forestiers%20et%20l%27%C3%A9cologie%20foresti%C3%A8re%20quantitative.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Martin%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
+
+Monsieur le Professeur Martin,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur la dynamique des écosystèmes forestiers et l'écologie forestière quantitative.
+
+Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
+
+J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
+
+Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
+
+Je vous prie d'agréer, Monsieur le Professeur Martin, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
+
+---
+
+### 👤 Dr. Nicola Mondillo (University of Naples Federico II — 🇮🇹 Italy)
+**Email Address**: `nicola.mondillo@unina.it`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:nicola.mondillo@unina.it?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Mondillo%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Naples%20Federico%20II.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20supergene%20ore%20deposits%2C%20mineralogy%2C%20and%20geological%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineral%20characterization%20and%20hyperspectral%20field%20spectrometry%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Mondillo,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at University of Naples Federico II. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on supergene ore deposits, mineralogy, and geological remote sensing.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in mineral characterization and hyperspectral field spectrometry aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Martin Schodlok (BGR — 🇩🇪 Germany)
+**Email Address**: `martin.schodlok@bgr.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:martin.schodlok@bgr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Schodlok%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20BGR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20mineral%20resources%20remote%20sensing%20and%20spectral%20libraries%20database%20application.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20USGS/ECOSTRESS%20database%20matching%20and%20EnMAP%20processing%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Schodlok,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at BGR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on mineral resources remote sensing and spectral libraries database application.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in USGS/ECOSTRESS database matching and EnMAP processing aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Anna Sorrentino (University of Naples Federico II — 🇮🇹 Italy)
+**Email Address**: `anna.sorrentino@unina.it`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:anna.sorrentino@unina.it?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Sorrentino%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Naples%20Federico%20II.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geological%20hazards%20and%20environmental%20remote%20sensing%20analysis.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20multi-temporal%20satellite%20data%20analysis%20and%20lithological%20mapping%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Sorrentino,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at University of Naples Federico II. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geological hazards and environmental remote sensing analysis.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in multi-temporal satellite data analysis and lithological mapping aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Dr. Tobias Storch (DLR — 🇩🇪 Germany)
+**Email Address**: `tobias.storch@dlr.de`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]] · **Draft Email**: [[02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:tobias.storch@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Storch%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20imaging%20spectroscopy%20and%20operational%20processing%20chains.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20EnMAP%20pipeline%20development%20and%20algorithm%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
+
+```text
+Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
+
+Dear Dr. Storch,
+
+I hope this email finds you well.
+
+I am writing to inquire about potential postdoctoral research opportunities in your group at DLR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on imaging spectroscopy and operational processing chains.
+
+My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
+
+I have drafted a detailed cover letter for your review, which outlines how my experience in EnMAP pipeline development and algorithm design aligns with your group's research direction:
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Morocco
+```
+
+---
+
+### 👤 Pr. Osvaldo Valeria (UQAT — 🇨🇦 Canada)
+**Email Address**: `osvaldo.valeria@uqat.ca`  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:osvaldo.valeria@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Valeria%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20l%27am%C3%A9nagement%20forestier%20durable%20et%20la%20g%C3%A9omatique%20appliqu%C3%A9e%20%C3%A0%20la%20foresterie.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Valeria%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
+
+Monsieur le Professeur Valeria,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur l'aménagement forestier durable et la géomatique appliquée à la foresterie.
+
+Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
+
+J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
+Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
+
+Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
+
+Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
+
+Je vous prie d'agréer, Monsieur le Professeur Valeria, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
+
+---
+
+---
+
+### 👤 INERIS Spontaneous (Dr. Rafik Hadadou — 🇫🇷 France)
+**Email Address**: `rafik.hadadou@ineris.fr` (CC: `recrutement@ineris.fr`)  
+**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous]]  
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:rafik.hadadou@ineris.fr?cc=recrutement@ineris.fr&subject=Candidature%20spontan%C3%A9e%20postdoctorat%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20hyperspectrale%20et%20apr%C3%A8s-mine%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20Hadadou%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20l%27INERIS.%20Suite%20%C3%A0%20votre%20pr%C3%A9sentation%20aujourd%27hui%20au%20GSMI-UM6P%20et%20%C3%A0%20la%20soutenance%20imminente%20de%20ma%20th%C3%A8se%20de%20doctorat%20le%2030%20juin%202026%2C%20je%20suis%20tr%C3%A8s%20int%C3%A9ress%C3%A9%20par%20vos%20projets%20d%27expertise%20mines%20et%20apr%C3%A8s-mines%20%C3%A0%20l%27international.%0A%0AMes%20travaux%20de%20recherche%20portent%20sur%20la%20caract%C3%A9risation%20des%20d%C3%A9chets%20miniers%20et%20le%20suivi%20de%20leur%20r%C3%A9habilitation%20par%20t%C3%A9l%C3%A9d%C3%A9tection%20hyperspectrale%20%28VNIR-SWIR%29%20satellitaire%20%28PRISMA%2C%20EnMAP%29%20et%20spectroscopie%20de%20terrain%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20%28DRX%2C%20FRX%29.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20un%20Indice%20de%20Performance%20de%20R%C3%A9habilitation%20%28RPI%29%20qui%20s%27aligne%20directement%20avec%20l%27Indice%20%C3%89cologique%20de%20Pr%C3%A9occupation%20%28EIoC%29%20de%20l%27INERIS.%0A%0AJe%20vous%20joins%20mon%20CV%20ainsi%20qu%27une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%20Je%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20par%20visioconf%C3%A9rence.%0A%0AEn%20vous%20remerciant%20pour%20votre%20temps%20et%20l%27intérêt%20que%20vous%20porterez%20à%20ma%20candidature%2C%20je%20vous%20prie%20d%27agréer%2C%20Monsieur%20Hadadou%2C%20l%27expression%20de%20mes%20salutations%20distinguées.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
+
+```text
+Objet : Candidature spontanée postdoctorat — Télédétection hyperspectrale et après-mine — Dr Abdelhak EL MANSOUR
+
+Monsieur Hadadou,
+
+Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de l'INERIS. Suite à votre présentation aujourd'hui au GSMI-UM6P et à la soutenance imminente de ma thèse de doctorat le 30 juin 2026, je suis très intéressé par vos projets d'expertise après-mine à l'international.
+
+Mes travaux de recherche portent sur la caractérisation des déchets miniers et le suivi de leur réhabilitation par télédétection hyperspectrale (VNIR-SWIR) satellitaire (PRISMA, EnMAP) et spectroscopie de terrain, validés par géochimie (DRX, FRX). J'ai développé un Indice de Performance de Réhabilitation (RPI) qui s'aligne directement avec vos modélisations de risques et l'Indice Écologique de Préoccupation (EIoC) de l'INERIS.
+
+Je joins mon CV ainsi qu'une lettre de motivation détaillée au format PDF pour votre considération. Je serais ravi de pouvoir échanger brièvement par visioconférence.
+
+En vous remerciant pour votre temps et l'intérêt que vous porterez à ma candidature, je vous prie d'agréer, Monsieur Hadadou, l'expression de mes salutations distinguées.
+
+Abdelhak EL MANSOUR
+Doctorant en Télédétection et Géosciences de l'Environnement
+UM6P, Maroc
+```
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Pipeline|Job Pipeline]] · [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-05-25'
+---
+
+
+# Email — ESPC6 Abstract Submission
+
+**Conference:** 6th European Sustainable Phosphorus Conference (ESPC6)
+**Date:** November 24–26, 2026
+**Location:** UM6P, Benguerir, Morocco
+**Abstract deadline:** May 31, 2026
+**Contact:** [retrieve from https://www.phosphorusplatform.eu/espc6#registration — email is spam-protected]
+**Abstract file:** `.raw/Abstract-Sustainable phosphorus.docx`
+
+---
+
+**Subject:** Abstract Submission — ESPC6 | Hyperspectral Mapping of Phosphate Mine Waste Rocks
+
+Dear ESPC6 Organizing Committee,
+
+Please find attached my abstract for consideration at the 6th European Sustainable Phosphorus Conference (ESPC6, November 24–26, 2026, UM6P, Benguerir).
+
+**Title:** Spatially Constrained Machine Learning for PRISMA-Based Lithological Mapping of Phosphate Mine Waste Rocks
+
+**Authors:** Abdelhak El Mansour, Jamal-Eddine Ouzemou, Abdellatif Elghali, Malak Elmeknassi, Rachid Hakkou, Mostafa Benzaazoua, Ahmed Laamrani
+
+**Affiliation:** GSMI / CRSA, Mohammed VI Polytechnic University, Benguerir, Morocco
+
+The study presents a spaceborne hyperspectral framework for lithological mapping of phosphate waste rock piles at the Benguerir mine, directly relevant to sustainable phosphate waste management and selective recovery — core themes of ESPC6. I would welcome the opportunity to present as either an oral or poster contribution.
+
+Yours sincerely,
+
+Abdelhak El Mansour
+PhD Candidate, GSMI — UM6P
+abdelhak.elmansour@um6p.ma
+
+---
+
+## Checklist
+- [x] Retrieve contact email from ESPC6 website
+- [x] Attach `.raw/Abstract-Sustainable phosphorus.docx`
+- [x] Sent 2026-05-25
+- [x] Abstract accepted
+- [x] Registered for attendance — Eventbrite Order #15290277093, confirmed 2026-07-13 (source: `.raw/ESPC 6 - European Sustainable Phosphorus Conference 6.pdf`)
+
+
+---
+
+*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-05-25'
+---
+
+
+# Cover Letter — Pixxel Hyperspectral Scientist
+
+**Deadline: Rolling — apply immediately**
+**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
+
+---
+
+Abdelhak EL MANSOUR
+PhD Candidate — Remote Sensing and Environmental Geosciences
+University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+May 25, 2026
+
+Hiring Team
+Pixxel
+
+---
+
+Re: Hyperspectral Scientist
+
+Dear Hiring Team,
+
+I build satellite hyperspectral pipelines that end with a validated product delivered to a client. That is what Pixxel needs, and it is what I do.
+
+My PhD thesis (UM6P, defending June 30, 2026) was built around two operational pipelines — one for PRISMA, one for EnMAP. The EnMAP pipeline runs 1,776 lines of production Python: raw HDF5 ingestion, atmospheric correction, bad-band removal, VCA-FCLS spectral unmixing, ML classification, and XRF ground-truth validation in a single reproducible workflow. The output is a novel metric — the Reclamation Progress Index — achieving AUC = 1.000 for backfilling detection, validated against geochemical measurements (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). Delivered to OCP Group, one of the world's largest phosphate producers. Not a prototype.
+
+The PRISMA pipeline is peer-reviewed and published (Sensors 2026, IF 3.5): 127 field samples, 4 lithological classes, spatially constrained cross-validation, landscape-scale waste rock mapping. Mining is one of Pixxel's target sectors. The methods transfer directly to agriculture, forestry, and environmental monitoring.
+
+I work across the full EO chain — L1 to analytics — in Python (scikit-learn, GDAL, rasterio, spectral, numpy). I am available fully remote, based in Morocco, ready to start July 2026.
+
+I would welcome a technical conversation.
+
+Yours sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, GSMI — UM6P
+elmansour01abdelhak@gmail.com
+scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist|Cover Letter — Senior Hyperspectral Scientist]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-05-25'
+---
+
+
+# Cover Letter — Pixxel Senior/Lead Hyperspectral Scientist
+
+**Deadline: Rolling — apply immediately**
+**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
+
+---
+
+Abdelhak EL MANSOUR
+PhD Candidate — Remote Sensing and Environmental Geosciences
+University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+May 25, 2026
+
+Hiring Team
+Pixxel
+
+---
+
+Re: Senior/Lead Hyperspectral Scientist
+
+Dear Hiring Team,
+
+I am applying for the Senior/Lead Hyperspectral Scientist role at Pixxel. I am a PhD candidate at UM6P, Morocco, defending June 30, 2026, with four peer-reviewed publications and a track record of building end-to-end satellite hyperspectral pipelines that deliver validated, client-facing products.
+
+The senior role at Pixxel is about more than data processing — it is about owning the science pipeline and being accountable for product quality. I have done that. My PhD thesis, conducted in partnership with OCP Group (one of the world's largest phosphate producers), required me to design, implement, and validate an operational Earth observation product from scratch using EnMAP hyperspectral imagery. The pipeline I built handles the full chain: ingestion of raw satellite data, atmospheric correction, bad-band removal (189 valid EnMAP bands selected), spectral unmixing via VCA-FCLS, machine learning classification, and validation against independent geochemical measurements (XRF). The output — the Reclamation Progress Index — achieves AUC = 1.000 and a ground-truth correlation of Spearman ρ = 0.845. It is peer-reviewed, reproducible, and already being considered for operational deployment.
+
+Earlier in my PhD, I built a parallel pipeline for PRISMA imagery: custom HDF5 loader, VNIR+SWIR fusion, Random Forest and Extra Trees classifiers with spatially constrained cross-validation (30m buffer, 10 replicates), published in Sensors 2026. I also supervised two students (engineering and Master's level) through hyperspectral projects — evidence that I can lead technical work, not just execute it.
+
+Pixxel's Firefly constellation is the most exciting hyperspectral asset in orbit right now. The combination of 6 operational satellites and a science team that can turn that data into actionable analytics is exactly the kind of environment where I want to build the next phase of my career. I bring the methods, the track record, and the appetite for the problem.
+
+I am available fully remote, based in Morocco, and ready to start after June 30, 2026.
+
+Yours sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, GSMI — UM6P
+elmansour01abdelhak@gmail.com
+scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist|Cover Letter — Hyperspectral Scientist]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/Pixxel Application/Submission Checklist.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-05-25'
+---
+
+
+# Pixxel Application — Submission Checklist
+
+**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
+**Deadline:** Rolling — apply this week
+
+Apply to BOTH roles separately via the Darwinbox portal.
+
+---
+
+## Role 1 — Hyperspectral Scientist (mid-level)
+
+### What to attach
+- [ ] Cover letter (PDF) → export from `Cover Letter — Hyperspectral Scientist.md`
+- [ ] CV (PDF) → reuse `CV_ELMANSOUR_VITO_2026.docx` — open in Word, Save As PDF
+- [ ] Google Scholar link → scholar.google.com/citations?user=ysUOZQ0AAAAJ
+- [ ] Optional: Sensors 2026 paper PDF (doi: 10.3390/s26010002)
+
+---
+
+## Role 2 — Senior/Lead Hyperspectral Scientist
+
+### What to attach
+- [ ] Cover letter (PDF) → export from `Cover Letter — Senior Hyperspectral Scientist.md`
+- [ ] CV (PDF) → same CV as above
+- [ ] Google Scholar link
+- [ ] Optional: Sensors 2026 paper PDF
+
+---
 
 ## Notes
-- CNR already has a Morocco collaborator (Wafik, Cadi Ayyad). They're clearly active in North Africa.
-- The paper targets CRMs in abandoned mines — different mineral system than phosphate, but same PRISMA + field workflow.
-- Possible angle: propose a joint PRISMA study extending their methodology with ML, or a multi-site Morocco comparison including Benguerir.
-- Check open postdoc calls at bandi.cnr.it.
+- Pixxel is remote-first — your Morocco location is not a problem
+- Both roles go through the same Darwinbox portal — apply separately
+- No deadline listed — do NOT wait, rolling means first-come matters
+- After applying, update the tracker in `Hot Opportunities — May 2026.md`
+
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Outreach Dashboard]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/VITO Application/CV — Industry (VITO).md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-06-05'
+---
+
+
+# CV — Industry Format (VITO-ready)
+
+---
+
+# ABDELHAK EL MANSOUR
+**Remote Sensing Scientist — Hyperspectral EO & Machine Learning**
+
+elmansour01abdelhak@gmail.com | +212 117 164 00
+scholar.google.com/citations?user=ysUOZQ0AAAAJ | @AbdelhakElm
+Available: from July 2026 | Open to relocation (Mol, Belgium)
+
+---
+
+## Technical Skills
+
+**Satellite & EO data:** PRISMA (ASI), EnMAP (DLR/GFZ), VNIR–SWIR hyperspectral, HDF5/NPZ processing, atmospheric & radiometric correction, bad-band removal, multi-temporal analysis
+
+**Machine learning:** Random Forest, Extra Trees, SVM, 1D/2D/3D-CNN, XGBoost, class imbalance handling, spatial cross-validation
+
+**Spectral analysis:** VCA-FCLS spectral unmixing, USGS/ECOSTRESS library matching, SAM/SID/NNLS
+
+**Python stack:** scikit-learn, GDAL, rasterio, spectral, numpy, matplotlib, Jupyter — production pipelines (1,776-line EnMAP engine)
+
+**Field & lab:** ASD FieldSpec 4 field spectroscopy, HHXRF, XRD/XRF interpretation, geological mapping
+
+**Other:** ENVI, Global Mapper, GIS, Git, Google Earth Engine (familiar)
+
+---
+
+## Key Results
+
+- Developed **Reclamation Progress Index (RPI)** from EnMAP data — AUC = 1.000, validated against XRF ground truth (Spearman ρ = 0.845, n = 32/zone, p = 1.74 × 10⁻¹²)
+- PRISMA-based lithological classification (127 field samples, 4 classes) — BAC = 0.60–0.67, AUC > 0.95 for carbonates, spatially constrained CV
+- Spectral library matching (104 samples, ECOSTRESS) — mean R² = 0.748, 84% of spectra R² > 0.70
+- **4 peer-reviewed publications** during PhD (Sensors IF 3.5, IJEST, Mining, BDJ) + 2 in pipeline
+
+---
+
+## Research Experience
+
+**PhD Researcher — Remote Sensing & Environmental Geosciences**
+University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco | Jul 2021 – Jun 2026 (defending Jun 30)
+
+Built end-to-end satellite EO pipelines (PRISMA + EnMAP) for mineralogical mapping and reclamation monitoring at Benguerir phosphate mine (OCP Group). Delivered a validated operational product (RPI) scalable beyond the study site. Supervised 2 students (engineering + Master's level). Presented at EGU 2025 and EARSeL 2024.
+
+**Research Mobility — Hyperspectral EO Applications**
+University of Valencia, Spain (Pr. Jochem Verrelst's group) | Mar 2024 – Aug 2024
+
+Developed PRISMA hyperspectral classification workflow for mining waste; co-authored EARSeL 2024 conference paper; collaborated within an international EO research group.
+
+**Junior Geologist**
+Baraka Mining Company, Morocco | Feb 2019 – Aug 2019
+
+Geological exploration (Occidental Meseta, Anti-Atlas, High Atlas) — mapping, sampling, terrain analysis.
+
+---
+
+## Education
+
+**PhD in Applied Geosciences** — UM6P, Morocco (defending June 30, 2026)
+*Thesis: Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks, Benguerir Mine*
+
+**MSc in Applied Geosciences** (Mineral & Energetic Resources) — Cadi Ayyad University, 2017
+
+**BSc in Applied Geosciences** — Moulay Ismail University, 2015
+
+---
+
+## Selected Publications
+
+**First author**
+1. EL MANSOUR A et al. — Integrating VNIR–SWIR Spectroscopy and HHXRF for Mineralogical Characterization of Phosphate Mine Waste, Benguerir. **Sensors** 2025 (IF 3.5). doi:10.3390/s26010002
+2. EL MANSOUR A et al. — PRISMA-based lithological mapping of phosphate waste rocks (thesis Ch.2). **Minerals** 2026 (accepted) ✅
+
+**Co-authored**
+3. Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A** et al. — Revegetation and Ecosystem Reclamation of Post-Mined Land. **IJEST** 2024
+4. Zine H, **EL MANSOUR A**, Hakkou R et al. — Mine Closure and Ecological Reclamation: Bibliometric Overview 1980–2023. **Mining** 2023
+
+---
+
+## Languages
+French (fluent) | English (advanced) | Arabic/Darija (native) | Tamazight (native) | Spanish (basic)
+
+
+---
+
+*Related: [[02_Academic & Work/perf/Brag Doc|Brag Doc]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[02_Academic & Work/work/applications/UTwente-2026/CV — UTwente|CV — UTwente]] · [[04_Knowledge Base/AI-Generated/CV Ingestion|CV Ingestion]] · [[02_Academic & Work/work/applications/UTwente-2026/Publications List — UTwente|Publications List — UTwente]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/VITO Application/Cover Letter — Scientific Expert EO Services.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-06-05'
+---
+
+
+# Cover Letter — VITO Scientific Expert, Earth Observation Services
+
+**Deadline: None shown — apply as soon as possible**
+
+---
+
+Abdelhak EL MANSOUR
+PhD Candidate — Remote Sensing and Environmental Geosciences
+University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com | twitter.com/AbdelhakElm
+Google Scholar: scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+May 25, 2026
+
+Recruitment Team
+VITO — Flemish Institute for Technological Research
+Mol, Belgium
+
+---
+
+Re: Scientific Expert, Earth Observation Services — jobs.vito.be
+
+Dear Hiring Team,
+
+I am writing to apply for the Scientific Expert position in Earth Observation Services at VITO. I am a PhD candidate at the University Mohammed VI Polytechnic (UM6P), defending on 30 June 2026, with four peer-reviewed publications and direct experience building and validating an operational satellite-derived EO product — which is precisely what this role is about.
+
+My thesis (155 pages, defending June 30) produced exactly the kind of output that VITO's EO Services unit delivers at scale: a validated, satellite-derived indicator that translates raw spectral data into a decision-relevant metric for an end client. The Reclamation Progress Index (RPI), developed using EnMAP hyperspectral imagery, quantifies mine reclamation progress with XRF-validated accuracy (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) and near-perfect detection performance (AUC = 1.000). The client in this case was OCP Group — one of the world's largest phosphate producers — and the product was designed to be operationally scalable, not a one-site academic exercise.
+
+Beyond the RPI, my work spans the full EO product development chain: PRISMA and EnMAP data ingestion (HDF5 format, custom loaders), atmospheric and radiometric correction, bad-band removal, spectral unmixing (VCA-FCLS), machine learning classification (Extra Trees, Random Forest, spatial cross-validation), and geochemical ground-truth validation (XRD, XRF, field spectroscopy). I implement everything in Python — scikit-learn, GDAL, rasterio, spectral, numpy — and write production-quality, documented pipelines.
+
+I have also contributed to the scientific literature: five publications (Sensors 2026, Minerals 2026 accepted, two others), conference presentations at EGU 2025 and EARSeL 2024, and a research stay at the University of Valencia (March–August 2024). I understand both the science and the communication demands of translating EO products to non-specialist stakeholders.
+
+VITO's Earth Observation Services unit sits at the intersection of rigorous remote sensing science and real-world impact — that is exactly where I want to build my career. I am available to relocate to Mol and ready to begin after my defense on June 30, 2026.
+
+I would be glad to share my CV, publications, and code portfolio.
+
+Yours sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, GSMI — UM6P
+elmansour01abdelhak@gmail.com | scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality)|Cover Letter — Scientist Remote Sensing (Water Quality)]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality).md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-05-25'
+---
+
+
+# Cover Letter — VITO Scientist Remote Sensing (Water Quality)
+
+**Deadline: May 29, 2026**
+
+---
+
+Abdelhak EL MANSOUR
+PhD Candidate — Remote Sensing and Environmental Geosciences
+University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com | twitter.com/AbdelhakElm
+Google Scholar: scholar.google.com/citations?user=ysUOZQ0AAAAJ
+
+May 25, 2026
+
+Recruitment Team
+VITO — Flemish Institute for Technological Research
+Mol, Belgium
+
+---
+
+Re: Scientist Remote Sensing (Water Quality) — jobs.vito.be
+
+Dear Hiring Team,
+
+I am writing to apply for the Scientist Remote Sensing position within VITO's Remote Sensing Unit. I am a PhD candidate at the University Mohammed VI Polytechnic (UM6P) in Morocco, defending my thesis on 30 June 2026, with four peer-reviewed publications and hands-on expertise in satellite hyperspectral data processing, machine learning classification, and operational EO product development.
+
+My doctoral research focuses on PRISMA and EnMAP satellite imagery — two of Europe's most advanced hyperspectral missions — applied to mineralogical characterization and environmental monitoring of phosphate mine waste rocks. While my application domain is geoscience rather than water quality, the methodological foundation is identical to what this role requires: multi-source satellite data fusion, radiometric correction, pixel-based and sub-pixel classification, spatially constrained validation against field measurements, and Python-based production pipelines. I built and documented a 1,776-line EnMAP processing pipeline from scratch (atmospheric correction → bad-band removal → spectral unmixing → validated reclamation index), which reflects the kind of rigorous, reproducible EO science VITO is known for.
+
+The results speak to operational readiness. In Chapter 3 of my thesis, I developed the Reclamation Progress Index (RPI) — a novel satellite-derived metric validated against XRF geochemical data (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) and achieving AUC = 1.000 for backfilling detection across the Benguerir mine site. Translating satellite observations into a reliable, field-validated operational product is precisely the challenge at the core of water quality monitoring, and it is a challenge I have already solved in a different but methodologically equivalent context.
+
+I am motivated by VITO's reputation as one of Europe's leading EO research centres and by the opportunity to broaden my expertise into aquatic and maritime applications. I am available to relocate to Mol and to travel internationally as the role requires. My thesis defense on June 30 marks the completion of my PhD — I am ready to transition into a full-time research position immediately thereafter.
+
+My CV, Google Scholar profile, and publications are available on request. I would welcome the opportunity to discuss how my background maps onto your team's needs.
+
+Yours sincerely,
+
+Abdelhak EL MANSOUR
+PhD Candidate, GSMI — UM6P
+
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/active/VITO Application/Cover Letter — Scientific Expert EO Services|Cover Letter — Scientific Expert EO Services]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/active/VITO Application/Submission Checklist.md
+
+---
+date: 2026-05-25
+tags:
+created: '2026-05-25'
+---
+
+
+# VITO Application — Submission Checklist
+
+---
+
+## Role 1 — Scientist Remote Sensing (Water Quality)
+**Deadline: Friday May 29, 2026 — URGENT**
+**Apply at:** https://jobs.vito.be → search "Scientist Remote Sensing"
+
+### What to attach
+- [x] Cover letter (PDF) → export from `Cover Letter — Scientist Remote Sensing (Water Quality).md`
+- [x] CV (PDF) → `CV_ELMANSOUR_2026_Latex.pdf` — add defense date "June 30, 2026" before exporting
+- [x] Publication list or Google Scholar link → scholar.google.com/citations?user=ysUOZQ0AAAAJ
+- [x] Optional: Sensors 2026 paper PDF (doi: 10.3390/s26010002) — strongest published result
+
+### Before submitting
+- [x] Update CV defense date to "June 30, 2026"
+- [x] Export cover letter to PDF
+- [x] Create account on jobs.vito.be if you don't have one
+- [x] Submit via portal (not email)
+
+---
+
+## Role 2 — Scientific Expert, Earth Observation Services
+**Deadline: None shown — apply this week**
+**Apply at:** https://jobs.vito.be → search "Scientific Expert Earth Observation"
+
+### What to attach
+- [x] Cover letter (PDF) → export from `Cover Letter — Scientific Expert EO Services.md`
+- [x] CV (PDF) → same updated CV as above
+- [x] Publication list or Google Scholar link
+- [x] Optional: 1-page research statement (not yet written — see Application Toolkit in Hot Opportunities file)
+- [x] Optional: Sensors 2026 paper PDF
+
+### Before submitting
+- [x] Same CV and PDF prep as Role 1
+- [x] Submit via jobs.vito.be portal
+
+---
+
+## Notes
+- Both applications go through **jobs.vito.be** — one account, two separate submissions
+- Do NOT email HR directly unless the portal fails
+- After submitting, mark the tracker in `Hot Opportunities — May 2026.md`
+- If no confirmation email within 24h, check your spam folder
+
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Outreach Dashboard]]*
 
 
 
@@ -1403,1916 +3445,124 @@ Trigger: `@` followed by a date phrase → `Alt+D` to insert, or just type and i
 
 
 
-## 📄 File: 02_Academic & Work/work/1-1/Laamrani-2026-05-27.md
+## 📄 File: 02_Academic & Work/work/applications/Application Emails - Industry Batch 2026-07-06.md
 
 ---
+date: 2026-07-06
 tags:
-date: 2026-05-27
-description: "1-on-1 Laamrani May 27 \u2014 slides to start this week"
-created: '2026-05-27'
+created: '2026-07-06'
 ---
 
 
-# 1-on-1 Laamrani — 2026-05-27
+# Short Application Emails / Portal Notes — Industry Batch
 
-## Key Takeaways
-
-- **Defense slides** — Laamrani confirmed slides must start this week. No delay possible.
-
-## Action Items
-
-- [ ] Start defense slides this week (week of May 27)
-
-## Related
-
-- [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]]
-- [[03_Digital Life/brain/Key Decisions]]
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/90-Day Plan Post-Defense.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-06-08'
----
-
-
-# 90-Day Plan — Post-Defense
-
-**Period:** July 1 → September 30, 2026
-**Starting point:** Dr. Abdelhak EL MANSOUR, 4 publications, operational pipeline, 70K followers, 86 domains, VITO pending.
-
-> [!success] The guiding principle
-> The first 90 days post-defense define the trajectory of the next 5 years.
-> Each week has ONE dominant objective. Not a list. One thing.
+> Pair each with its matching cover letter PDF/CV in `02_Academic & Work/work/applications/`.
+> None of these have a confirmed contact email — treat as the text for a portal's message
+> field, a LinkedIn message, or a "careers@" address if the site lists one.
 
 ---
 
-## JULY — Launch Month
+## 1. VITO — High Resolution Image Processing Expert
 
-### Week 1 — July 1–7: CELEBRATE AND ANNOUNCE
-**Dominant objective:** Make it known that Dr. EL MANSOUR exists.
+**Subject:** High Resolution Image Processing Expert — application
 
-- [ ] Announce on X (@AbdelhakElm) — one sentence, the title, the mine
-- [ ] Announce on phddiarymemes (70K PhD students are waiting) — authentic content, not corporate
-- [ ] Update LinkedIn: "Dr." + "Defended June 30, 2026 · UM6P"
-- [ ] Update Google Scholar profile
-- [ ] Update CV (academic + industry) with defense date
-- [ ] **Sleep. Eat. Go outside. You earned it.**
+Hi,
 
----
-
-### Week 2 — July 8–14: SUBMIT CH.3 + ACTIVATE DLR
-
-**Dominant objective:** Get the Ch.3 paper into the pipeline and send the Storch email.
-
-- [ ] **Submit Ch.3 paper** (EnMAP / RPI) — target journal to confirm (Remote Sensing of Environment? ISPRS?)
-- [ ] **Email Dr. Tobias Storch (DLR IMF)** — one paragraph, one direct subject line:
-  *"I defended my PhD June 30 on EnMAP-based operational reclamation monitoring at phosphate mines. I'm exploring postdoc opportunities in your group."*
-- [ ] Check DLR portal for open positions → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
-- [ ] Reply to VITO if response received (normal timeline: 2–6 weeks after submission)
-
----
-
-### Week 3 — July 15–21: OCP + DOMAINING
-
-**Dominant objective:** Initiate the OCP consulting conversation and activate the top 5 domains.
-
-- [ ] **Email Laamrani**: open the OCP R&D conversation — "does OCP want to operationalize the RPI?"
-  - Goal: €10–30K consulting contract or R&D digital hire
-  - This is not a cold application — you delivered something they funded
-- [ ] **Top 5 domains** → [[03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market]]
-  - List on Dan.com, Afternic, Sedo
-  - Contact 2–3 potential direct buyers (targeted outreach)
-
----
-
-### Week 4 — July 22–31: ESPC6 PREP + FOLLOW-UP
-
-**Dominant objective:** Prepare the ESPC6 presentation ahead of time (November comes fast).
-
-- [ ] Check ESPC6 abstract response (submitted May 25)
-- [ ] If accepted: decide oral or poster, create presentation skeleton
-- [ ] Formally apply to ETH Zurich postdoc (if still open) → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
-- [ ] Follow up with VITO if no response
-- [ ] First monthly review: which income streams moved? (Domaining, Instagram, VITO)
-
----
-
-## AUGUST — Build Month
-
-### Weeks 5–6 — August 1–14: JOB + PAPER
-
-**Dominant objective:** Ch.3 paper in the system, job responses in sight.
-
-- [ ] Track Ch.3 status (under review?)
-- [ ] If DLR or ETH response: prepare interview
-- [ ] If no DLR response: send short follow-up (2 weeks after first email)
-- [ ] Contact CRSA UM6P directly — they regularly hire hyperspectral postdocs
-
----
-
-### Weeks 7–8 — August 15–31: INSTAGRAM PIVOT + DOMAINS
-
-**Dominant objective:** Monetize the "Dr." on phddiarymemes and accelerate domain sales.
-
-- [ ] **phddiarymemes "Dr." content**: first post with the title — authenticity, not forced celebration
-- [ ] Launch sponsorship outreach: Notion, Overleaf, Researcher.ai, academic publishers
-  - Current followers = 70K, PhD niche engagement rate = 3–5% = ~2,100–3,500 engagements/post
-  - Estimated value per post: €500–1,500 depending on brand
-- [ ] **Domaining**: follow up on listings, lower price on 1–2 domains to accelerate a sale
-- [ ] Domain review: did a sale materialize in July?
-
----
-
-## SEPTEMBER — Transition Month
-
-### Weeks 9–10 — September 1–14: DECISION POINT
-
-**Dominant objective:** Where do things stand? Postdoc confirmed, pending, or building solo?
-
-**Scenario A — Postdoc offer received (DLR, ETH, VITO):**
-- [ ] Negotiate start date (October/November preferred — leaves 1 month breathing room)
-- [ ] Prepare relocation and logistics
-- [ ] Continue domaining and Instagram in parallel
-
-**Scenario B — No offer yet:**
-- [ ] CRSA UM6P application if role open
-- [ ] OCP consulting: is the proposal moving forward?
-- [ ] Expand search: BRGM France, VITO second unapplied role, Spanish universities
-- [ ] Don't panic — the postdoc market is slow. 4 publications + RPI + EnMAP pipeline = strong profile.
-
----
-
-### Weeks 11–13 — September 15–30: 90-DAY REVIEW
-
-**Dominant objective:** Assess, adjust, project.
-
-- [ ] Total revenue Jul–Sep: domaining? Sponsorships? OCP consulting?
-- [ ] Papers submitted: Ch.3 + potentially revised Ch.2?
-- [ ] Job: where do things stand? Postdoc, consulting, or both?
-- [ ] ESPC6 ready for November?
-- [ ] Identify the next 3 priorities for the following 90 days (Oct–Dec 2026)
-
----
-
-## 90-Day Dashboard
-
-| Domain | Jul–Sep Objective | Success Indicator |
-|--------|------------------|------------------|
-| 🎓 Academic | Ch.3 submitted, DLR/ETH contacted | Submission confirmation + response |
-| 💼 Job | 1 postdoc offer or OCP consulting contract | Written offer received |
-| 💰 Domaining | 1 sale among top 5 | Sale completed |
-| 📱 Instagram | 1 sponsorship deal signed | Contract + payment |
-| 📄 ESPC6 | Presentation ready | Slides done before October |
-| 🌍 Network | DLR + ETH + OCP activated | 3 open conversations |
-
----
-
-*The most important month of your life ended June 30. The 90 days that follow define what it means.*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Fitted Opportunities & Targets.md
-
----
-date: 2026-06-07
-tags:
-summary: A structured database of 10 high-potential Earth Observation, hyperspectral,
-created: '2026-06-08'
----
-
-
-# 🚀 High-Potential Career Opportunities & Targets
-
-> [!TIP]
-> **Your Core Pitch**: You don't just analyze satellite data; you build **operational Python pipelines** that transform raw, complex hyperspectral data ([[EnMAP Satellite|EnMAP]] and [[PRISMA Satellite|PRISMA]]) into geochemically validated environmental and mineralogical metrics. This is a rare skill set in both commercial space-tech and infrastructure engineering.
->
-> See also: [[Job Board — Live Tracker]] · [[Postdoc Outreach Dashboard]] · [[Hot Opportunities — May 2026]] · [[Review Brief — Postdoc Applications 2026]]
-
----
-
-## 📋 Industry Opportunities Tracker
-
-| Company/Society               | Sector & Core Focus                     | Location                  | Pitch Angle / Fit                                                                       | Contact Channel / Email                                        | Status                           |
-| :---------------------------- | :-------------------------------------- | :------------------------ | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------- | :------------------------------- |
-| **Space42 / Bayanat**         | AI-powered Space & EO Constellations    | 🇦🇪 Abu Dhabi, UAE       | Building the region's largest EO satellite network. Direct fit for Remote Sensing Lead. | [Space42 Careers Portal](https://space42.ai/)                  | - [ ] Not Contacted              |
-| **Bayanat Engineering Qatar** | Infrastructure GIS & new EO Division    | 🇶🇦 Doha, Qatar          | Recently launched a dedicated Earth Observation and Remote Sensing division.            | `info@bayanatengineering.qa`                                   | - [x] Not Contacted ✅ 2026-06-07 |
-| **Kuva Space**                | Commercial Hyperspectral Constellation  | 🇫🇮 Espoo, Finland       | Launching hyperspectral nanosatellites for climate/agriculture. High technical fit.     | `careers@kuvaspace.com`                                        | - [x] Not Contacted ✅ 2026-06-07 |
-| **Egis Group (Qatar)**        | Global Engineering & Consulting         | 🇶🇦 Doha, Qatar          | Spontaneous outreach for environmental remote sensing in infrastructure projects.       | [Egis Contact Page](https://www.egis-group.com/contact)        | [[02_Academic & Work/work/applications/Egis Qatar Spontaneous Inquiry|Inquiry Drafted]] |
-| **Taqnia Space**              | Satellite Intelligence & Remote Sensing | 🇸🇦 Riyadh, Saudi Arabia | Major operator for Saudi Space Commission and Vision 2030 Earth Observation.            | [Taqnia Space Contact Portal](https://www.taqniaspace.com.sa/) | - [ ] Not Contacted              |
-| **LYRASENSE**                 | Agentic AI for Geospatial Analytics     | 🇪🇺 Europe (Remote)      | Software analyzing satellite imagery for oil, gas, and environmental monitoring.        | [Lyrasense Careers Page](https://lyrasense.com/)               | - [ ] Not Contacted              |
-| **European Space Imaging**    | High-Res Satellite Imagery & Solutions  | 🇩🇪 Munich, Germany      | Major imagery distributor partnering with Pixxel for hyperspectral analytics.           | [EUSI Careers Portal](https://www.euspaceimaging.com/careers/) | - [ ] Not Contacted              |
-| **Uptoearth**                 | Geospatial Intelligence & Pipelines     | 🇮🇹 Italy                | Processing pipelines for hyperspectral, SAR, and optical satellite data.                | [Uptoearth Contact Portal](https://uptoearth.eu/)              | - [ ] Not Contacted              |
-| **Specim (Spectral Imaging)** | Industrial Hyperspectral Solutions      | 🇫🇮 Oulu, Finland        | World leader in hyperspectral cameras and mineral mapping applications.                 | [Specim Careers Page](https://www.specim.fi/careers/)          | - [ ] Not Contacted              |
-| **Shamal Technologies**       | Geospatial Intelligence & Drone RS      | 🇸🇦 Riyadh, Saudi Arabia | Drone and satellite remote sensing for Saudi mega-projects (NEOM, Red Sea).             | [Shamal Contact Portal](https://shamal.sa/)                    | - [ ] Not Contacted              |
-
----
-
-## 🔍 Detailed Profile of Top Targets
-
-### 1. Bayanat Engineering Qatar (Doha, Qatar)
-- **The Fit**: Excellent local target in Doha. They recently launched a dedicated Earth Observation and Remote Sensing division for infrastructure and disaster management. Your experience building pipelines for EnMAP and PRISMA, combined with your OCP mine monitoring projects, is highly transferable to their environmental assessment services.
-- **Action**: Send a direct cold email to their general inquiry box, explicitly directed to the HR/Remote Sensing Team.
-- **Email**: `info@bayanatengineering.qa` (Phone: +974 4427 3784)
-
-### 2. Space42 (Bayanat + Yahsat) (Abu Dhabi, UAE)
-- **The Fit**: A regional powerhouse backed by G42. They are actively building and launching Earth Observation satellites (including Synthetic Aperture Radar and optical networks) and have partnerships to deploy hyperspectral capabilities. Your Python skills and experience in processing complex multisource satellite data makes you a prime candidate for a Remote Sensing Scientist role.
-- **Action**: Join their "Talent Community" on the career page and search LinkedIn for "Talent Acquisition Space42" or "Talent Acquisition Bayanat".
-- **Careers Link**: [Space42.ai Careers Portal](https://space42.ai/)
-
-### 3. Kuva Space (Espoo, Finland)
-- **The Fit**: The most prominent European hyperspectral startup. They are launching a constellation of hyperspectral nanosatellites to monitor agriculture, forests, and carbon. You have a ready-made EnMAP/PRISMA processing pipeline and published papers in hyperspectral remote sensing. This is your strongest technical fit in the commercial startup sector.
-- **Action**: Direct speculative application email to their careers address.
-- **Email**: `careers@kuvaspace.com`
-
----
-
-## 📧 Structured Outreach Templates
-
-> [!success] [✉️ Open Draft in Mail Client (Space42)](mailto:careers@space42.ai?subject=Spontaneous%20Application%20%E2%80%94%20Remote%20Sensing%20%26%20Hyperspectral%20Scientist%20%E2%80%94%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Talent%20Acquisition%20Team%2C%0A%0AI%20hope%20this%20message%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20spontaneously%20express%20my%20strong%20interest%20in%20joining%20your%20team%20as%20a%20Remote%20Sensing%20Scientist%20/%20Earth%20Observation%20Specialist.%20I%20am%20a%20PhD%20Candidate%20at%20University%20Mohammed%20VI%20Polytechnic%20%28UM6P%29%20in%20Morocco%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20motivated%20to%20bring%20my%20expertise%20to%20the%20Middle%20East%27s%20rapidly%20expanding%20space%20and%20geospatial%20sectors.%0A%0AMy%20doctoral%20research%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20frameworks%20and%20machine%20learning%20pipelines%20%28Random%20Forest%2C%20CNNs%29%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20mine%20waste%20rocks.%20A%20key%20technical%20achievement%20of%20my%20thesis%20is%20building%20an%20operational%2C%201%2C776-line%20Python%20processing%20engine%20for%20EnMAP%20and%20PRISMA%20hyperspectral%20satellite%20data%E2%80%94covering%20atmospheric%20correction%2C%20bad-band%20removal%2C%20spectral%20unmixing%20%28VCA-FCLS%29%2C%20and%20classification%2C%20all%20validated%20against%20geochemistry%20ground%20truth.%0A%0AAs%20your%20organization%20builds%20the%20next%20generation%20of%20space%20infrastructure%20and%20location%20intelligence%20applications%20in%20the%20GCC%2C%20I%20am%20eager%20to%20apply%20my%20experience%20in%20processing%20complex%20hyperspectral%20and%20multisource%20satellite%20datasets%20to%20your%20active%20projects.%0A%0AI%20would%20welcome%20the%20opportunity%20to%20discuss%20how%20my%20background%20and%20Python%20pipeline%20capabilities%20can%20add%20value%20to%20your%20team.%20I%20am%20happy%20to%20share%20my%20CV%2C%20thesis%20abstract%2C%20and%20publications%20for%20your%20review.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0ADr.%20Abdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco%0Aelmansour01abdelhak%40gmail.com%20%7C%20%5BPhone%20Number%5D)
-
-### 💼 Template 1: For GCC AI/Space Champions (Space42 / Taqnia Space / Shamal Tech)
-*Best for submitting a spontaneous application to Middle Eastern space technology and AI-powered geospatial groups.*
-
-```text
-Subject: Spontaneous Application — Remote Sensing & Hyperspectral Scientist — Dr. Abdelhak EL MANSOUR
-
-Dear Talent Acquisition Team,
-
-I hope this message finds you well.
-
-I am writing to spontaneously express my strong interest in joining your team as a Remote Sensing Scientist / Earth Observation Specialist. I am a PhD Candidate at University Mohammed VI Polytechnic (UM6P) in Morocco, defending my thesis on June 30, 2026, and I am highly motivated to bring my expertise to the Middle East's rapidly expanding space and geospatial sectors.
-
-My doctoral research focuses on developing multi-scale remote sensing frameworks and machine learning pipelines (Random Forest, CNNs) for mineralogical characterization and environmental monitoring of mine waste rocks. A key technical achievement of my thesis is building an operational, 1,776-line Python processing engine for EnMAP and PRISMA hyperspectral satellite data—covering atmospheric correction, bad-band removal, spectral unmixing (VCA-FCLS), and classification, all validated against geochemistry ground truth.
-
-As your organization builds the next generation of space infrastructure and location intelligence applications in the GCC, I am eager to apply my experience in processing complex hyperspectral and multisource satellite datasets to your active projects.
-
-I would welcome the opportunity to discuss how my background and Python pipeline capabilities can add value to your team. I am happy to share my CV, thesis abstract, and publications for your review.
-
-Thank you for your time and consideration.
-
-Sincerely,
-
-Dr. Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-elmansour01abdelhak@gmail.com | [Phone Number]
-```
-
-> [!success] [✉️ Open Draft in Mail Client (Bayanat Qatar)](mailto:info@bayanatengineering.qa?subject=Spontaneous%20Inquiry%3A%20Remote%20Sensing%20%26%20Earth%20Observation%20Division%20%E2%80%94%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Bayanat%20Engineering%20Qatar%20Team%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20career%20opportunities%20within%20your%20newly%20established%20Earth%20Observation%20and%20Remote%20Sensing%20division%20in%20Doha.%20I%20am%20a%20Remote%20Sensing%20Scientist%20and%20PhD%20Candidate%20at%20UM6P%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026.%20Having%20followed%20your%20organization%27s%20leadership%20in%20high-value%20engineering%20and%20GIS%20projects%20in%20Qatar%2C%20I%20am%20highly%20interested%20in%20joining%20your%20technical%20team.%0A%0AMy%20doctoral%20research%20consists%20of%20developing%20multi-scale%20remote%20sensing%20frameworks%20to%20monitor%20and%20characterize%20mine%20waste%20reclamation%20surfaces.%20I%20specialize%20in%20building%20operational%20Python%20pipelines%20to%20process%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20translating%20raw%20imagery%20into%20validated%20environmental%20metrics.%20This%20project%20was%20conducted%20in%20direct%20collaboration%20with%20OCP%20Group%20at%20the%20Benguerir%20mine%20site%2C%20giving%20me%20direct%20experience%20in%20managing%20large-scale%20industrial%20and%20environmental%20monitoring%20workflows.%0A%0AGiven%20my%20technical%20background%20and%20bilingual%20fluency%20%28English%2C%20French%2C%20and%20Arabic%29%2C%20I%20am%20eager%20to%20help%20your%20division%20deliver%20high-accuracy%20satellite-derived%20environmental%20assessments%2C%20infrastructure%20monitoring%2C%20and%20natural%20resource%20mapping%20in%20Qatar.%0A%0AI%20would%20appreciate%20the%20opportunity%20for%20a%20brief%20conversation%20to%20explore%20how%20my%20skills%20can%20support%20your%20active%20contracts%20in%20Doha.%20I%20am%20happy%20to%20send%20my%20CV%20and%20detailed%20project%20portfolio%20at%20your%20convenience.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0ADr.%20Abdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco%0Aelmansour01abdelhak%40gmail.com%20%7C%20%5BPhone%20Number%5D)
-
-### 🇶🇦 Template 2: For Local Doha Engineering/GIS Firms (Bayanat Engineering Qatar / Egis Qatar)
-*Best for contacting Qatar-based engineering and GIS providers that have dedicated environmental monitoring or remote sensing divisions.*
-
-```text
-Subject: Spontaneous Inquiry: Remote Sensing & Earth Observation Division — Dr. Abdelhak EL MANSOUR
-
-Dear Bayanat Engineering Qatar Team,
-
-I hope this email finds you well.
-
-I am writing to inquire about career opportunities within your newly established Earth Observation and Remote Sensing division in Doha. I am a Remote Sensing Scientist and PhD Candidate at UM6P, defending my thesis on June 30, 2026. Having followed your organization's leadership in high-value engineering and GIS projects in Qatar, I am highly interested in joining your technical team.
-
-My doctoral research consists of developing multi-scale remote sensing frameworks to monitor and characterize mine waste reclamation surfaces. I specialize in building operational Python pipelines to process satellite hyperspectral data (EnMAP and PRISMA), translating raw imagery into validated environmental metrics. This project was conducted in direct collaboration with OCP Group at the Benguerir mine site, giving me direct experience in managing large-scale industrial and environmental monitoring workflows.
-
-Given my technical background and bilingual fluency (English, French, and Arabic), I am eager to help your division deliver high-accuracy satellite-derived environmental assessments, infrastructure monitoring, and natural resource mapping in Qatar.
-
-I would appreciate the opportunity for a brief conversation to explore how my skills can support your active contracts in Doha. I am happy to send my CV and detailed project portfolio at your convenience.
-
-Thank you for your time and consideration.
-
-Sincerely,
-
-Dr. Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-elmansour01abdelhak@gmail.com | [Phone Number]
-```
-
-> [!success] [✉️ Open Draft in Mail Client (Kuva Space)](mailto:careers@kuvaspace.com?subject=Spontaneous%20Application%3A%20Remote%20Sensing%20Scientist%20/%20Hyperspectral%20Data%20Engineer%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Hiring%20Team%2C%0A%0AI%20am%20reaching%20out%20spontaneously%20to%20express%20my%20strong%20interest%20in%20joining%20your%20team%20as%20a%20Remote%20Sensing%20Scientist%20or%20Hyperspectral%20Data%20Engineer.%20I%20am%20a%20PhD%20Candidate%20at%20UM6P%20in%20Morocco%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20with%20a%20solid%20track%20record%20in%20hyperspectral%20image%20processing%20and%20machine%20learning.%0A%0AMy%20research%20focuses%20on%20multi-scale%20hyperspectral%20remote%20sensing%20%28field%20spectroscopy%2C%20PRISMA%2C%20and%20EnMAP%20satellite%20data%29%20for%20surface%20geochemistry%20and%20environmental%20monitoring.%20I%20build%20end-to-end%20Python%20processing%20pipelines%20to%20digest%20and%20analyze%20complex%20spectral%20datasets%E2%80%94integrating%20bad-band%20detection%2C%20atmospheric%20correction%2C%20spectral%20unmixing%20%28VCA-FCLS%29%2C%20and%20spatial-spectral%20classification.%0A%0AYour%20work%20in%20developing%20hyperspectral%20satellite%20constellations%20and%20agentic%20AI%20platforms%20represents%20the%20cutting%20edge%20of%20commercial%20earth%20observation.%20I%20bring%20a%20rare%20combination%20of%20academic%20rigor%20%284%20peer-reviewed%20publications%29%20and%20hands-on%2C%20production-grade%20Python%20development%20skills%20that%20align%20directly%20with%20your%20technical%20stack.%0A%0AI%20would%20be%20thrilled%20to%20discuss%20how%20my%20hyperspectral%20processing%20experience%20can%20support%20your%20mission.%20I%20have%20attached%20my%20CV%20and%20would%20welcome%20a%20brief%20introductory%20call.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0ADr.%20Abdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco%0Aelmansour01abdelhak%40gmail.com%20%7C%20%5BPhone%20Number%5D)
-
-### 🇪🇺 Template 3: For European Space & Hyperspectral Startups (Kuva Space / LYRASENSE)
-*Best for cold email outreach to hyperspectral nanosatellite operators and AI geospatial software startups in Europe.*
-
-```text
-Subject: Spontaneous Application: Remote Sensing Scientist / Hyperspectral Data Engineer - Dr. Abdelhak EL MANSOUR
-
-Dear Hiring Team,
-
-I am reaching out spontaneously to express my strong interest in joining your team as a Remote Sensing Scientist or Hyperspectral Data Engineer. I am a PhD Candidate at UM6P in Morocco, defending my thesis on June 30, 2026, with a solid track record in hyperspectral image processing and machine learning.
-
-My research focuses on multi-scale hyperspectral remote sensing (field spectroscopy, PRISMA, and EnMAP satellite data) for surface geochemistry and environmental monitoring. I build end-to-end Python processing pipelines to digest and analyze complex spectral datasets—integrating bad-band detection, atmospheric correction, spectral unmixing (VCA-FCLS), and spatial-spectral classification.
-
-Your work in developing hyperspectral satellite constellations and agentic AI platforms represents the cutting edge of commercial earth observation. I bring a rare combination of academic rigor (4 peer-reviewed publications) and hands-on, production-grade Python development skills that align directly with your technical stack.
-
-I would be thrilled to discuss how my hyperspectral processing experience can support your mission. I have attached my CV and would welcome a brief introductory call.
-
-Thank you for your time and consideration.
-
-Sincerely,
-
-Dr. Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-elmansour01abdelhak@gmail.com | [Phone Number]
-```
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Hot Opportunities — May 2026.md
-
----
-date: 2026-05-24
-tags:
-created: '2026-06-08'
----
-
-
-# Hot Opportunities — May 2026
-
-> Live job pipeline — Abdelhak EL MANSOUR.  
-> Skills: [[PRISMA Satellite|PRISMA]] · [[EnMAP Satellite|EnMAP]] · VCA-FCLS · [[Hyperspectral Imaging|hyperspectral classification]] · XRF validation · Python · phosphate mineralogy · [[Reclamation Progress Index|reclamation monitoring]]  
-> Priority: Europe → International → Morocco (real salary only)
->
-> See also: [[Job Board — Live Tracker]] · [[Postdoc Outreach Dashboard]] · [[Fitted Opportunities & Targets]] · [[Review Brief — Postdoc Applications 2026]]
-
-> **Searched:** VITO, ESA, ETH Zurich, Pixxel, BRGM, UM6P CRSA, Rio Tinto, DLR, Earthworks, EGU jobs, EURAXESS, jobs.ac.uk, academicpositions.com — 2026-05-24
-
----
-
-## ✅ DONE — VITO Scientist Remote Sensing (Applied 2026-05-25)
-
-### VITO Belgium — Scientist Remote Sensing (Water Quality)
-- **Status:** ✅ APPLIED — 2026-05-25
-- **Deadline: Friday May 29, 2026**
-- **Location:** Mol, Antwerpen, Belgium (Hybrid)
-- **Focus:** Water quality monitoring and maritime safety via satellite EO
-- **Why apply:** VITO's Remote Sensing Unit is one of Europe's top EO labs. This role is water-focused but the methods (EO data fusion, Python, multi-source satellite) are identical to your toolkit. VITO actively develops hyperspectral products — there will be overlap. Getting in the door matters.
-- **Fit score:** 7/10 (method fit high; topic = water not mining)
-- **Required:** MSc in Sciences/Engineering, EO/RS/GIS background, Python/R/Google Earth Engine, willing to travel internationally
-- **Apply:** [https://jobs.vito.be](https://jobs.vito.be) → search "Scientist Remote Sensing"
-- **Status tracking:** [x] Applied
-
----
-
-## Category 1 — Industry: EO & Satellite Companies
-
-### Pixxel — Hyperspectral Scientist (Full Remote)
-- **Status:** ✅ CONFIRMED OPEN (as of Mar 2026, 13 openings total)
-- **Deadline:** Not listed (rolling — apply soon)
-- **Location:** Remote (US/India company, distributed team)
-- **Focus:** Hyperspectral data analysis, algorithm development, validation, analytics applications
-- **Why this is your best industry target:** Pixxel launched 6 "Firefly" hyperspectral satellites in 2025 — operational now. They are building their science team. You are one of a small pool of people worldwide who has published operational results using satellite hyperspectral data (EnMAP) in a validated applied context. Their team needs exactly what you do.
-- **Roles:** Hyperspectral Scientist (mid) + Senior/Lead Hyperspectral Scientist (senior)
-- **Fit score: 9/10** — direct skills match
-- **Apply:** [https://pixxel.space/careers](https://pixxel.space/careers) → apply via their Darwinbox portal
-- **Status tracking:** [ ] Applied mid-level [ ] Applied senior level [ ] ❌ Skipped
-
----
-
-### Pixxel — Senior Scientist / Lead Scientist — Image Processing
-- **Status:** ✅ CONFIRMED OPEN
-- **Location:** Remote
-- **Focus:** Image processing algorithms, spectral calibration, satellite data pipeline
-- **Fit score:** 8/10 — your enmap_reclamation_engine_v2.py (1,776-line production pipeline) directly demonstrates this
-- **Apply:** Same portal as above
-- **Status tracking:** [ ] Applied [ ] ❌ Skipped
-
----
-
-## Category 2 — Research Agencies (Europe)
-
-### VITO Belgium — Scientific Expert, Earth Observation Services
-- **Status:** ✅ CONFIRMED OPEN (no deadline shown — apply asap)
-- **Location:** Mol, Antwerpen, Belgium (Hybrid ~50% onsite)
-- **Focus:** Design and maintain operational EO services; translate requirements into EO products; validate products; bridge science and operations; write proposals
-- **Why you fit:** This role is closer to what you've done — building an operational product (RPI) that translates satellite data into a usable metric for a client (OCP Group). That is exactly what VITO "Earth Observation Services" does at scale.
-- **Required:** PhD or MSc in EO/Remote Sensing/Environmental Sciences; Python for spatial data; satellite + biophysical variable expertise; English (Dutch a bonus)
-- **Fit score: 8.5/10**
-- **Apply:** [https://jobs.vito.be](https://jobs.vito.be) → "Scientific Expert – Earth Observation Services"
-- **Status tracking:** [ ] Applied [ ] ❌ Skipped
-
----
-
-### VITO Belgium — Project Lead, Earth Observation Platforms
-- **Status:** ✅ CONFIRMED OPEN (no deadline shown)
-- **Location:** Mol, Belgium (Hybrid)
-- **Focus:** Strategy, ESA/Horizon proposal writing, consortia management, technical oversight of EO platforms
-- **Required:** MSc/PhD + **5+ years PM experience** in EO sector; Copernicus + ESA proposal track record
-- **Fit score:** 5/10 — strong on science side; thin on PM track record. Apply post-defense only if no other VITO role works out.
-- **Apply:** [https://jobs.vito.be](https://jobs.vito.be)
-- **Status tracking:** [ ] Considering [ ] ❌ Skip for now
-
----
-
-### ETH Zurich — Postdoctoral Researcher / Senior Scientist in Hyperspectral Remote Sensing for Forest Management
-- **Status:** ✅ CONFIRMED OPEN (posted 2025, still active May 2026)
-- **Duration:** Initial 3 years, extendable to 6 years
-- **Location:** Zurich, Switzerland
-- **Focus:** Hyperspectral data for forest resources management — ETH Domain collaboration (WSL, University of Zurich EcoVision Lab)
-- **Required:** PhD in Geomatics or related (Environmental Sciences, Civil Engineering); demonstrable expertise in remote sensing; publication record
-- **Why apply even though it's forest-focused:** ETH postdoc = top-tier European career credential. The hyperspectral methods are identical. Your PRISMA/EnMAP pipeline + publication in Sensors 2025 gives you a strong application. A cover letter explaining "I'm pivoting from mine monitoring to vegetation monitoring — the hyperspectral methods are the same" is a credible case.
-- **Fit score:** 7/10 (method fit = 10/10; topic fit = 5/10)
-- **Apply:** [https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH](https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH)
-- **Status tracking:** [ ] Applied [ ] ❌ Skipped
-
----
-
-### DLR — Remote Sensing Technology Institute (IMF), Oberpfaffenhofen, Germany
-- **Status:** Jobs exist but listings require direct portal access (couldn't scrape directly)
-- **Why this is your strongest research agency target:** DLR built and operates EnMAP. Their IMF team in Oberpfaffenhofen IS the center for EnMAP science. Head of Hyperspectral Remote Sensing team: **Dr. Tobias Storch**.
-- **The play:** Email Dr. Storch directly. One paragraph. "I defended my PhD June 30 on EnMAP-based operational reclamation monitoring at phosphate mines. Published peer-reviewed results. I'm looking for postdoc opportunities in your group." That email is worth more than a cold application.
-- **Check jobs:** [https://www.dlr.de/en/eoc/careers-education/jobs-at-the-eoc](https://www.dlr.de/en/eoc/careers-education/jobs-at-the-eoc) — then follow links to concludis portal
-- **Typical salary:** TVöD E13 = ~€50,000–58,000/yr (~€4,200–4,800/mo)
-- **Status tracking:** [ ] Checked portal [ ] Emailed Storch [ ] Applied formally
-
----
-
-### ESA — Hyperspectral Applications Scientist
-- **Status:** ❌ No current openings (confirmed via jobs.esa.int May 24, 2026)
-- **Note:** ESA had this role listed previously (reference 939963901) but it's not currently open. Set a job alert at jobs.esa.int for "hyperspectral" and "remote sensing" — these roles appear periodically.
-- **Check back:** [https://jobs.esa.int](https://jobs.esa.int) — create alert
-
----
-
-### BRGM France — French Geological Survey
-- **Status:** 34 current positions; no remote sensing roles visible on pages 1–2 (May 24, 2026)
-- **Positions posted:** Hydrogeology, geophysics, sedimentary basin postdoc — not RS
-- **Check manually:** [https://brgm-recrute.talent-soft.com](https://brgm-recrute.talent-soft.com) — search "remote sensing" or "imaging" (site is in French — use "télédétection" or "imagerie")
-- **Contact direct:** Direction Scientifique, BRGM Orléans — French expected
-- **Status tracking:** [ ] Checked [ ] Applied
-
----
-
-## Category 3 — Mining Industry
-
-### Rio Tinto — Geoscientist (Perth, Australia)
-- **Status:** Geoscientist roles visible but not remote sensing specific
-- **Reality check:** Rio Tinto remote sensing roles exist (they run HyMap airborne hyperspectral for their Pilbara iron ore operations) but they are rare and Australia-based. Not a Europe-first option.
-- **Check:** [https://www.riotinto.com/careers/available-jobs](https://www.riotinto.com/careers/available-jobs) — search "remote sensing" or "spectral"
-- **Status tracking:** [ ] Checked [ ] Applied
-
----
-
-### OCP Group — Direct Conversation (NOT a cold application)
-- **Status:** Internal network play — highest ROI conversation you can have
-- **The play:** Through Laamrani, open a conversation about whether OCP's R&D or sustainability division wants to operationalize the RPI tool. Your thesis was OCP-funded (Accord-Specific 189: SPGP). You built them something they own. Ask if they want to use it.
-- **Potential:** Consulting contract €10,000–30,000 OR formal hire in R&D digital division
-- **Formal careers:** [https://ocpsa.ma/fr/rejoignez-nous](https://ocpsa.ma/fr/rejoignez-nous)
-- **Status tracking:** [ ] Email sent to Laamrani [ ] Meeting set [ ] Proposal submitted
-
----
-
-## Category 4 — UM6P / Morocco (Internal)
-
-### UM6P CRSA — Remote Sensing Positions (CRSA hires regularly)
-- **Recently closed (for awareness):**
-  - Post-Doctoral Researcher in Hyperspectral Remote Sensing for Soil Fertility Mapping — closed **Feb 12, 2026** (Benguerir, Morocco)
-  - Postdoctoral Researcher in Remote Sensing for Irrigation Mapping — closed **Dec 17, 2025**
-- **These roles come back.** CRSA is actively building capacity. If you want to stay in Morocco with a real research salary and advance toward faculty, CRSA is the internal track.
-- **Check:** Contact CRSA director directly. UM6P career portal also lists roles.
-- **Status tracking:** [ ] Inquired with CRSA [ ] Applied to open role
-
----
-
-## Your Application Toolkit (Build Before Sending Anything)
-
-| Document | Status | Notes |
-|----------|--------|-------|
-| Industry CV (1-page) | ❌ Not done | Strip LaTeX academic formatting; lead with skills + tools |
-| Academic CV (updated) | ✅ Exists | `CV_ELMANSOUR_2026_Latex.pdf` — add defense date June 30 |
-| Cover letter (base) | ❌ Not done | Write once; customize opening paragraph per employer |
-| Research statement (1 page) | ❌ Not done | For ETH, DLR, VITO scientific roles |
-| Portfolio slides (3 slides) | ❌ Not done | Best visuals: RPI map, EnMAP scene, confusion matrix |
-| LinkedIn profile | ❓ Unknown | Update to "PhD candidate — defending June 30, 2026" |
-
----
-
-## Search Platforms to Monitor Weekly
-
-| Platform | URL | Search terms |
-|----------|-----|-------------|
-| VITO jobs | https://jobs.vito.be | Check weekly |
-| ESA jobs | https://jobs.esa.int | Alert: "hyperspectral", "remote sensing" |
-| DLR EOC | https://www.dlr.de/en/eoc/careers-education | Follow concludis link |
-| jobs.ac.uk | https://www.jobs.ac.uk | hyperspectral; remote sensing; geoscience |
-| EURAXESS | https://euraxess.ec.europa.eu/jobs | hyperspectral; mining; spectroscopy |
-| Earthworks Jobs | https://www.earthworks-jobs.com | remote sensing; mineralogy |
-| EGU Job Board | https://www.egu.eu/jobs/ | remote sensing |
-| Pixxel | https://pixxel.space/careers | Check weekly |
-
----
-
-## Application Tracker
-
-| Employer | Role | Date Applied | Deadline | Status | Contact |
-|----------|------|-------------|----------|--------|---------|
-| VITO | Scientist Remote Sensing | 2026-05-25 | **May 29** | ✅ Applied | jobs.vito.be |
-| Pixxel | Hyperspectral Scientist | | Rolling | ❌ Skipped — India-based company | pixxel.space/careers |
-| Pixxel | Senior/Lead Hyperspectral Scientist | | Rolling | ❌ Skipped — India-based company | pixxel.space/careers |
-| VITO | Scientific Expert EO Services | 2026-05-25 | None shown | ✅ Applied | jobs.vito.be |
-| ETH Zurich | Postdoc Hyperspectral RS | | TBD | | jobs.ethz.ch |
-| DLR IMF | (Portal + Storch email) | | | | Dr. Tobias Storch |
-| OCP Group | RPI consulting (via Laamrani) | | | | Through Laamrani |
-
----
-
-*Built 2026-05-24 with live web search. All entries verified via direct URL fetch or web search on this date.*  
-*Update status column as applications are sent. Re-search platforms weekly until defense (June 30).*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Job Board — Live Tracker.md
-
----
-tags:
-date: 2026-05-28
-created: '2026-06-08'
----
-
-
-# Job Board — Live Tracker
-
-> One-click access to every open opportunity. Update status as you go.
-> Last searched: **2026-05-28**
-> → Full details: [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
-
----
-
-## 🔴 Urgent
-
-| Offer | Org | Location | Fit | Deadline | Status |
-|-------|-----|----------|-----|----------|--------|
-| [Scientist Remote Sensing (Water Quality)](https://jobs.vito.be) | VITO | Belgium | 7/10 | **May 29 ⚠️** | ✅ Applied 2026-05-25 |
-
----
-
-## 🟢 Top Fits — Apply Now
-
-| Offer | Org | Location | Fit | Deadline | Status |
-|-------|-----|----------|-----|----------|--------|
-| [Post-Doctoral Position in Remote Sensing for Soil Monitoring (PREPSOIL)](https://jobs.inrae.fr/en/ot-17203) | INRAE | France | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
-| [Remote Sensing (RS) Scientist](https://www.wur.nl/en/vacancy/remote-sensing-rs-scientist) | WUR | Netherlands | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
-| [Postdoc in Forest Remote Sensing, Modelling and Deep Learning (DC-26100)](https://www.nature.com/naturecareers/job/12857021/dc-26100-postdoc-in-forest-remote-sensing-modelling-and-deep-learning/) | LIST | Luxembourg | 8.5/10 | Rolling | ✅ Applied 2026-06-09 |
-| [Scientific Expert — Earth Observation Services](https://jobs.vito.be) | VITO | Belgium (Hybrid) | 8.5/10 | None shown | ✅ Applied 2026-05-25 |
-| [Postdoc — Hyperspectral RS for Forest Management](https://jobs.ethz.ch/job/view/JOPG_ethz_fsZJ7zNmhF9rd4vTnH) | ETH Zurich | Switzerland | 7/10 | TBD | ❌ Not applied |
-| [Postdoc — Hyperspectral Remote Sensing](https://euraxess.ec.europa.eu/jobs/180699) | GFZ / Potsdam | Germany | 8/10 🆕 | Dec 2026 | ❌ Not applied |
-| [Postdoc — Hyperspectral RS](https://professorpositions.com/postdoc-position-in-hyperspectral-remote-sensing,i31029.html) | U. Copenhagen | Denmark | 7.5/10 🆕 | Check | ❌ Not applied |
-
----
-
-## 🟡 Post-Defense (Email / Network Plays)
-
-| Action | Target | Contact | Fit | Status |
-|--------|--------|---------|-----|--------|
-| Email Pr. Nicole Fenton — postdoc inquiry | UQAT — IRF / NSERC Chair Biodiversity in Mining | nicole.fenton@uqat.ca | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]] |
-| Email Pr. Osvaldo Valeria — postdoc inquiry | UQAT — IRF, Rouyn-Noranda, Canada | osvaldo.valeria@uqat.ca | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]] |
-| Email Pr. Bruno Bussière — postdoc inquiry | UQAT — IRME / NSERC Chair Mine Reclamation | bruno.bussiere@uqat.ca | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]] |
-| Email Pr. Maxence Martin — postdoc inquiry | UQAT — IRF, boreal RS / LiDAR | maxence.martin@uqat.ca | 7/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]] |
-| Email Dr. Tobias Storch directly | DLR IMF — Imaging Spectroscopy Dept., Oberpfaffenhofen | tobias.storch@dlr.de | 10/10 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]] |
-| Email Dr. Sarah Asam | DLR DFD — Forest Ecosystems Team, Oberpfaffenhofen | sarah.asam@dlr.de | 9/10 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]] |
-| Email Prof. Sabine Chabrillat — postdoc inquiry | GFZ Potsdam — Hyperspectral RS group / EnMAP Science PI | sabine.chabrillat@gfz-potsdam.de | 9.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]] |
-| Email Dr. Richard Gloaguen — postdoc inquiry | HZDR / Helmholtz Freiberg — Exploration Technology div. | r.gloaguen@hzdr.de | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]] |
-| Email Dr. Saeid Asadzadeh — postdoc inquiry | GFZ Potsdam — EnMAP science team, mineral RS | saeid.asadzadeh@gfz-potsdam.de | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]] |
-| Email Dr. Sandra Lorenz — postdoc inquiry | HZDR Freiberg — Group Leader Digital Processing, mine RS | s.lorenz@hzdr.de | 9/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]] |
-| Email Dr. Mahdi Khodadadzadeh — postdoc inquiry | ITC Twente — hyperspectral + ML for mining mineralogy | m.khodadadzadeh@utwente.nl | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]] |
-| Email Prof. Kamran Esmaeili — postdoc inquiry | Univ. Toronto — hyperspectral ore-waste discrimination + ML | kamran.esmaeili@utoronto.ca | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]] |
-| Network: Dr. Mehdi Abdolmaleki (postdoc in Esmaeili lab) | Univ. Toronto — peer, hyperspectral mining RS | mehdi.abdolmaleki@utoronto.ca | peer | 🔗 Contact after emailing Esmaeili |
-| Email Dr. Nicola Mondillo — postdoc inquiry | Univ. Naples Federico II — PRISMA + geochemistry for mining mineralogy | nicola.mondillo@unina.it | 8.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]] |
-| Email Dr. Anna Sorrentino — peer inquiry | Univ. Naples Federico II — PRISMA satellite mining geology | anna.sorrentino@unina.it | peer 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry]] |
-| Email Dr. Chris Hecker — postdoc inquiry | ITC Twente — TIR hyperspectral mineralogy, EMIT, GreenMiner | c.a.hecker@utwente.nl | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]] |
-| Email Dr. Martin Schodlok — inquiry | BGR Hannover — mine tailings hyperspectral monitoring | martin.schodlok@bgr.de | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]] |
-| OCP Group — RPI consulting via Laamrani | OCP Group | Through supervisor | High ROI | ❌ Email not sent |
-| ESA — set job alert | [jobs.esa.int](https://jobs.esa.int) | — | — | ❌ Alert not set |
-
----
-
-## 🔵 Check & Decide
-
-| Offer | Org | Location | Fit | Link | Status |
-|-------|-----|----------|-----|------|--------|
-| Research Scientist / Postdoc RS | Luke (Finland) | Finland | 6/10 🆕 | [Link](https://academicpositions.com/ad/natural-resources-institute-finland-luke/2026/research-scientist-postdoc-remote-sensing/246201) | ❌ Check if open |
-| Project Lead — EO Platforms | VITO | Belgium | 5/10 | [jobs.vito.be](https://jobs.vito.be) | ⏭️ Skip for now |
-| Geoscientist | Rio Tinto | Australia | 4/10 | [riotinto.com/careers](https://www.riotinto.com/careers/available-jobs) | ⏭️ Skip |
-
----
-
-## 📋 Application Toolkit (Blocker for Most Applications)
-
-| Document | Status |
-|----------|--------|
-| Academic CV (updated) | ✅ `CV_ELMANSOUR_2026_Latex.pdf` — add defense date |
-| Industry CV (1-page) | ❌ Not done |
-| Cover letter (base) | ❌ Not done |
-| Research statement (1 page) | ❌ Not done — needed for ETH, DLR, VITO |
-| Portfolio slides (3 slides) | ❌ Not done |
-| LinkedIn updated | ❓ Check |
-
----
-
-## 🔍 Weekly Scan — Job Boards
-
-| Board | Link | Search Terms |
-|-------|------|-------------|
-| VITO | [jobs.vito.be](https://jobs.vito.be) | Check weekly |
-| ESA | [jobs.esa.int](https://jobs.esa.int) | hyperspectral, remote sensing |
-| DLR EOC | [dlr.de/en/eoc/careers-education](https://www.dlr.de/en/eoc/careers-education/jobs-at-the-eoc) | — |
-| EURAXESS | [euraxess.ec.europa.eu/jobs](https://euraxess.ec.europa.eu/jobs) | hyperspectral; mineralogy; mining |
-| space-careers.com | [space-careers.com](https://www.space-careers.com/jobs/remote_sensing_optics_and_gis) | RS, optics, GIS |
-| earthworks-jobs.com | [earthworks-jobs.com](https://www.earthworks-jobs.com/remotesensing) | remote sensing; mineralogy |
-| jobs.ac.uk | [jobs.ac.uk](https://www.jobs.ac.uk) | hyperspectral; remote sensing |
-| Academic Positions | [academicpositions.com](https://academicpositions.com/jobs/field/remote-sensing-geosciences) | remote sensing |
-| LinkedIn Belgium EO | [LinkedIn](https://be.linkedin.com/jobs/earth-observation-jobs) | EO, satellite |
-| Pixxel | [pixxel.space/careers](https://pixxel.space/careers) | Check weekly |
-
----
-
-> **Rule:** Defense first. Applications post-June 30 except for rolling deadlines already in progress.
-> 🆕 = new find 2026-05-28
-
----
-
-*Related: [[02_Academic & Work/work/active/Job Pipeline|Job Pipeline]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Job Pipeline.md
-
----
-tags:
-date: 2026-06-07
-created: '2026-06-08'
----
-
-
-## 🎯 To Apply
-
-- [ ] **ETH Zurich — Postdoc Hyperspectral RS for Forest** #deadline/TBD @{2026-07-15} fit::7/10
-- [ ] **GFZ / Potsdam — Postdoc Hyperspectral RS** #deadline/Dec2026 fit::8/10
-- [ ] **U. Copenhagen — Postdoc Hyperspectral RS** #deadline/check fit::7.5/10
-- [ ] **Luke Finland — Research Scientist/Postdoc RS** #deadline/check fit::6/10
-
-## ✍️ Letter Drafted
-
-- [ ] **DLR IMF — Dr. Tobias Storch** fit::10/10 → [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]]
-- [ ] **DLR DFD — Dr. Sarah Asam** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]]
-- [ ] **GFZ — Pr. Sabine Chabrillat** fit::9.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]]
-- [ ] **HZDR — Dr. Richard Gloaguen** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]]
-- [ ] **GFZ — Dr. Saeid Asadzadeh** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]]
-- [ ] **HZDR — Dr. Sandra Lorenz** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]]
-- [ ] **ITC Twente — Dr. Khodadadzadeh** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]]
-- [ ] **U. Toronto — Pr. Esmaeili** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]]
-- [ ] **UQAT — Pr. Nicole Fenton** fit::9/10 → [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]]
-- [ ] **UQAT — Pr. Osvaldo Valeria** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]]
-- [ ] **UQAT — Pr. Bruno Bussière** fit::7.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]]
-- [ ] **UQAT — Pr. Maxence Martin** fit::7/10 → [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]]
-- [ ] **Naples — Dr. Mondillo** fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]]
-- [ ] **ITC Twente — Dr. Hecker** fit::7.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]]
-- [ ] **BGR — Dr. Schodlok** fit::7.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]]
-- [ ] **OCP Group — via Laamrani** fit::High ROI
-
-## 📤 Sent (Post-Defense)
-
-- [x] **INRAE PREPSOIL** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc]] ✅ Applied 2026-06-09
-- [x] **WUR RS Scientist** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist]] ✅ Applied 2026-06-09
-- [x] **LIST Luxembourg — Forest RS** #deadline/rolling fit::8.5/10 → [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc]] ✅ Applied 2026-06-09
-
-## 📞 Interview
-
-- [ ] Item placeholder
-
-## ✅ Offer / Closed
-
-- [ ] **VITO — Scientist Water Quality** ✅ Applied 2026-05-25
-- [ ] **VITO — Scientific Expert EO Services** ✅ Applied 2026-05-25
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic","hide-tags-in-title":false,"link-date-to-daily-note":false}
-```
-%%
-
----
-
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]] · [[02_Academic & Work/work/Flashcards — Career|Flashcards — Career]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Postdoc Applications.md
-
----
-tags:
-created: '2026-06-06'
----
-
-
-# Postdoc Applications
-
-> [!TIP]
-> **Outreach Dashboard**: All 16 cold emails and tracking checkboxes are consolidated in the [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]]. Use it to launch your cold outreach on July 1.
-
-> "Dr." title changes everything. Start blasting July 1.
-> Main tracker: → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
-
----
-
-## Priority Targets
-
-### 🇩🇪 GFZ Potsdam — Section 1.4 (NEW #1 PRIORITY)
-- **Status:** Spontaneous application — send July 1
-- **Contact:** Dr. Sabine Chabrillat — chabri@gfz-potsdam.de
-- **Pitch:** "I built an EnMAP + PRISMA operational pipeline for mine mineralogy and reclamation monitoring. Your section's work on geological/soil hyperspectral applications is the direct scientific context."
-- **Why it's #1:** Section 1.4 holds the EnMAP science lead at GFZ. Previous postdoc posting (ref. 9937) = recurring pattern. Chabrillat is Francophone — French email works. Thematic overlap is exact: mineralogy, geological hyperspectral, EnMAP.
-- **Portal:** gfz.de/en/career/job-offers (also check for active listings)
-- **Template:** [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 3
-
-### 🇩🇪 DLR IMF — Oberpfaffenhofen
-- **Status:** Direct email to send after defense
-- **Contact:** Dr. Tobias Storch — Head of Hyperspectral RS team, DLR IMF
-- **Pitch:** "I defended my PhD June 30 on EnMAP-based operational reclamation monitoring. I built an operational pipeline. Looking for a postdoc in your group."
-- **Why it's the best fit:** DLR built and operates EnMAP. You built an operational EnMAP pipeline. There is no stronger technical match in Europe.
-- **Salary:** TVöD E13 ~€50,000–58,000/yr
-- **Portal:** https://www.dlr.de/en/eoc/careers-education
-
-### 🇨🇭 ETH Zurich — Postdoc Hyperspectral RS for Forest Management
-- **Status:** Open (posted 2025, still active May 2026)
-- **Fit:** 7/10 — identical methods, different domain (forest vs mine)
-- **Duration:** 3 years, extendable to 6 years
-- **Portal:** → [[02_Academic & Work/work/active/Hot Opportunities — May 2026]]
-
-### 🇧🇪 VITO — Scientific Expert EO Services
-- **Status:** ✅ Applied 2026-05-25 — awaiting response · **Checklist**: [[02_Academic & Work/work/active/VITO Application/Submission Checklist]]
-- **Fit:** 8.5/10
-- **Typical response time:** 2–6 weeks
-
-### 🇲🇦 UM6P CRSA — Remote Sensing Positions
-- **Status:** Recurring positions — hyperspectral role closed Feb 2026 but comes back
-- **Action:** Contact CRSA director directly post-defense
-- **Advantage:** Stay in Morocco with real research salary + proximity to OCP
-
----
-
-### 🇫🇷 BRGM — Orléans (Spontaneous)
-- **Status:** Spontaneous application — send July 1
-- **Team:** Télédétection géologique / Géoressources
-- **Why:** French geological survey, active RS team, French-language advantage
-- **Template:** → [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 2
-
-### 🇩🇪 BGR — Hannover (Spontaneous)
-- **Status:** Spontaneous application — send July 1
-- **Team:** Fachbereich B4 Fernerkundung
-- **Why:** German geological survey; mineral + mine RS is their core mission
-- **Template:** → [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 2
-
-### 🇮🇹 ESA ESRIN — Frascati (Spontaneous)
-- **Status:** Spontaneous application — send July 7
-- **Contact:** EO Science & Applications Division (check jobs.esa.int + direct email)
-- **Why:** PRISMA is an ASI/ESA instrument; PRISMA pipeline = direct technical hook
-- **Template:** → [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]] Template 2
-
-### 🇫🇮 GTK — Finland (Spontaneous)
-- **Status:** Spontaneous application — send July 7
-- **Why:** Active hyperspectral + mine RS program; open to international profiles
-
----
-
-## Dropped / Ruled Out
-- ~~NORCE Norway~~ — not an active target
-- ~~NRCan Canada~~ — too far from Europe/Morocco priority
-
----
-
-## Email Templates
-→ [[04_Knowledge Base/AI-Generated/drafts/spontaneous-application-kit-2026-06-03]]
-- **Template 1** — Postdoc (cold email to PI)
-- **Template 2** — Industry / EO company / geological survey
-- **Template 3** — DLR Dr. Storch (specific, do not dilute)
-
----
-
-## Application Checklist (per institution)
-- [ ] CV updated with "Dr." title
-- [ ] Google Scholar + LinkedIn updated with title
-- [ ] Cover letter adapted (focus on operational engineering vs pure academic)
-- [ ] Reference letters (ask Laamrani before defense)
-
----
-
-## Salary Context
-| Location | Postdoc salary | Note |
-|----------|---------------|------|
-| DLR (Germany) | ~€4,200–4,800/mo | TVöD E13 |
-| ETH Zurich (Switzerland) | ~CHF 5,000–6,000/mo | Very strong |
-| VITO (Belgium) | ~€3,000–4,000/mo | Estimated |
-| CRSA UM6P (Morocco) | ~€1,000–2,000/mo | Local context |
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Postdoc Outreach Dashboard.md
-
----
-date: 2026-06-07
-tags:
-summary: 'A central tracking dashboard and cold outreach email templates with clickable
-created: '2026-06-09'
----
-
-
-# 🎓 Postdoc Outreach Dashboard
-
-> [!IMPORTANT]
-> **Strategy Note**: Academic PIs are extremely busy. Do not send a long cover letter as your first cold email. Instead, send a **short, high-impact introductory email** (templates below) introducing yourself, expressing interest in their group's research, and linking your CV/thesis abstract. Offer to discuss further via a video call.
-
-> [!TIP]
-> **One-Click Email Drafts**: Each template has an **`✉️ Open Draft in Mail Client`** button. Clicking it will instantly open your default mail client (Gmail, Outlook, etc.) with the recipient, subject, and body pre-filled. You just need to attach your CV and click send!
-
-## 📋 Outreach Master Tracker
-
-| PI Target Name | Institution | Country | Cover Letter Link | Outreach Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **ITC Twente — Biodiversity EO** | University of Twente ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — ITC Twente Biodiversity Postdoc\|ITC Biodiversity Letter]] | ✅ Applied 2026-06-09 |
-| **INRAE PREPSOIL** | INRAE, Provence-Alpes-Côte d'Azur | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INRAE PREPSOIL Postdoc\|INRAE PREPSOIL Letter]] | ✅ Applied 2026-06-09 |
-| **WUR RS Scientist** | Wageningen University & Research | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Wageningen WUR RS Scientist\|WUR Letter]] | ✅ Applied 2026-06-09 |
-| **LIST Luxembourg — Forest RS** | Luxembourg Institute of Science and Technology | 🇱🇺 Luxembourg | [[02_Academic & Work/work/applications/Cover Letter — LIST Luxembourg Forest RS Postdoc\|LIST Letter]] | ✅ Applied 2026-06-09 |
-| **Dr. Saeid Asadzadeh** | GFZ Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc\|Dr. Saeid Asadzadeh Letter]] | ✅ Sent 2026-06-24 |
-| **Dr. Sarah Asam** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc\|Dr. Sarah Asam Letter]] | ✅ Sent 2026-06-24 |
-| **Pr. Bruno Bussière** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc\|Pr. Bruno Bussière Letter]] | ✅ Sent 2026-06-23 |
-| **Prof. Dr. Sabine Chabrillat** | GFZ Helmholtz Centre for Geosciences, Potsdam | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc\|Prof. Dr. Sabine Chabrillat Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Prof. Kamran Esmaeili** | University of Toronto | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc\|Prof. Kamran Esmaeili Letter]] | ✅ Sent 2026-06-24 |
-| **Pr. Nicole Fenton** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc\|Pr. Nicole Fenton Letter]] | ✅ Sent 2026-06-23 |
-| **Dr. Richard Gloaguen** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc\|Dr. Richard Gloaguen Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Dr. Chris Hecker** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc\|Dr. Chris Hecker Letter]] | ✅ Sent 2026-06-23 |
-| **Dr. Mahdi Khodadadzadeh** | ITC | 🇳🇱 Netherlands | [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc\|Dr. Mahdi Khodadadzadeh Letter]] | ✅ Sent 2026-06-24 |
-| **Dr. Sandra Lorenz** | HZDR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc\|Dr. Sandra Lorenz Letter]] | ✅ Sent 2026-06-24 |
-| **Prof. Maxence Martin** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc\|Prof. Maxence Martin Letter]] | ✅ Sent 2026-06-23 |
-| **Dr. Nicola Mondillo** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc\|Dr. Nicola Mondillo Letter]] | ✅ Sent 2026-06-24 |
-| **Dr. Martin Schodlok** | BGR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc\|Dr. Martin Schodlok Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Dr. Anna Sorrentino** | University of Naples Federico II | 🇮🇹 Italy | [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry\|Dr. Anna Sorrentino Letter]] | ✅ Sent 2026-06-23 |
-| **Dr. Tobias Storch** | DLR | 🇩🇪 Germany | [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc\|Dr. Tobias Storch Letter]] | ✅ Sent 2026-06-22 (pool) |
-| **Pr. Osvaldo Valeria** | UQAT | 🇨🇦 Canada | [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc\|Pr. Osvaldo Valeria Letter]] | ✅ Sent 2026-06-24 |
-| **INERIS Spontaneous** | INERIS | 🇫🇷 France | [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous|INERIS Spontaneous Letter]] | ✅ Sent 2026-06-23 |
-
----
-
-## 📧 Tailored Cold Email Templates
-
-### 👤 Dr. Saeid Asadzadeh (GFZ Potsdam — 🇩🇪 Germany)
-**Email Address**: `saeid.asadzadeh@gfz-potsdam.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asadzadeh GFZ Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:saeid.asadzadeh@gfz-potsdam.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Asadzadeh%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20GFZ%20Potsdam.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geological%20remote%20sensing%20and%20hyperspectral%20unmixing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineral%20mapping%20and%20PRISMA%20data%20processing%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Asadzadeh,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at GFZ Potsdam. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geological remote sensing and [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS|hyperspectral unmixing]].
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in mineral mapping and PRISMA data processing aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
+I'm finishing a PhD at UM6P in Morocco (defense mid-July) where I've spent three years turning messy high-resolution satellite and field imagery into something a mining partner could actually trust and use. Your image processing role for agriculture is a different domain but the same job: get reliable signal out of noisy high-res data at scale. I've attached my CV and a cover letter that goes into the specifics.
 
 Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Sarah Asam (DLR — 🇩🇪 Germany)
-**Email Address**: `sarah.asam@dlr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Asam DLR DFD Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:sarah.asam@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Asam%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20land%20surface%20monitoring%20and%20multi-temporal%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20machine%20learning%20classification%20and%20surface%20analysis%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Asam,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at DLR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|land surface monitoring and reclamation monitoring]].
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in machine learning classification and surface analysis aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Pr. Bruno Bussière (UQAT — 🇨🇦 Canada)
-**Email Address**: `bruno.bussiere@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Bussiere UQAT Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:bruno.bussiere@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Bussi%C3%A8re%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20restauration%20et%20la%20gestion%20environnementale%20des%20sites%20miniers.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Bussi%C3%A8re%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
-
-```text
-Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
-
-Monsieur le Professeur Bussière,
-
-Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur la restauration et la gestion environnementale des sites miniers.
-
-Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
-
-J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
-
-Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
-
-Je vous prie d'agréer, Monsieur le Professeur Bussière, l'expression de mes salutations distinguées.
-
-Abdelhak EL MANSOUR
-Doctorant en Télédétection et Géosciences de l'Environnement
-UM6P, Maroc
-```
-
----
-
-### 👤 Prof. Dr. Sabine Chabrillat (GFZ Helmholtz Centre for Geosciences, Potsdam — 🇩🇪 Germany)
-**Email Address**: `chabri@gfz-potsdam.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Chabrillat GFZ Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:chabri@gfz-potsdam.de?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%20la%20Professeure%20Chabrillat%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20GFZ%20Helmholtz%20Centre%20for%20Geosciences%2C%20Potsdam.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20hyperspectral%20applications%20for%20bare%20soil%20and%20mineral%20mapping.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%20la%20Professeure%20Chabrillat%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
-
-```text
-Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
-
-Madame la Professeure Chabrillat,
-
-Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à GFZ Helmholtz Centre for Geosciences, Potsdam. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur hyperspectral applications for bare soil and mineral mapping.
-
-Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
-
-J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
-
-Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
-
-Je vous prie d'agréer, Madame la Professeure Chabrillat, l'expression de mes salutations distinguées.
-
-Abdelhak EL MANSOUR
-Doctorant en Télédétection et Géosciences de l'Environnement
-UM6P, Maroc
-```
-
----
-
-### 👤 Prof. Kamran Esmaeili (University of Toronto — 🇨🇦 Canada)
-**Email Address**: `kamran.esmaeili@utoronto.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Esmaeili UofT Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:kamran.esmaeili@utoronto.ca?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Professor%20Esmaeili%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Toronto.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20mine%20waste%20management%20and%20civil/mineral%20engineering%20remote%20sensing%20applications.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20phosphate%20waste%20rock%20characterization%20and%20multi-scale%20monitoring%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Professor Esmaeili,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at University of Toronto. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on mine waste management and civil/mineral engineering remote sensing applications.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in phosphate waste rock characterization and multi-scale monitoring aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Pr. Nicole Fenton (UQAT — 🇨🇦 Canada)
-**Email Address**: `nicole.fenton@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Fenton UQAT Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:nicole.fenton@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Madame%20la%20Professeure%20Fenton%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20biodiversit%C3%A9%20et%20la%20restauration%20%C3%A9cologique%20en%20contexte%20minier%20nordique.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Madame%20la%20Professeure%20Fenton%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
-
-```text
-Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
-
-Madame la Professeure Fenton,
-
-Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur la biodiversité et la restauration écologique en contexte minier nordique.
-
-Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
-
-J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
-
-Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
-
-Je vous prie d'agréer, Madame la Professeure Fenton, l'expression de mes salutations distinguées.
-
-Abdelhak EL MANSOUR
-Doctorant en Télédétection et Géosciences de l'Environnement
-UM6P, Maroc
-```
-
----
-
-### 👤 Dr. Richard Gloaguen (HZDR — 🇩🇪 Germany)
-**Email Address**: `r.gloaguen@hzdr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Gloaguen HZDR Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:r.gloaguen@hzdr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Gloaguen%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20HZDR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20exploration%20technology%20and%20automated%20mineral%20mapping%20using%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20field%20spectroscopy%2C%20PRISMA/EnMAP%20unmixing%2C%20and%20machine%20learning%20classification%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Gloaguen,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at HZDR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on exploration technology and automated mineral mapping using remote sensing.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in field spectroscopy, PRISMA/EnMAP unmixing, and machine learning classification aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Chris Hecker (ITC — 🇳🇱 Netherlands)
-**Email Address**: `c.a.hecker@utwente.nl`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:c.a.hecker@utwente.nl?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Hecker%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20ITC.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20thermal%20and%20reflective%20infrared%20spectroscopy%20for%20mineral%20identification.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineralogical%20characterization%20and%20laboratory/field%20ASD%20spectroscopy%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Hecker,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at ITC. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on thermal and reflective infrared spectroscopy for mineral identification.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in mineralogical characterization and laboratory/field ASD spectroscopy aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Mahdi Khodadadzadeh (ITC — 🇳🇱 Netherlands)
-**Email Address**: `m.khodadadzadeh@utwente.nl`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Khodadadzadeh ITC Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:m.khodadadzadeh@utwente.nl?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Khodadadzadeh%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20ITC.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geo-information%20processing%20and%20advanced%20machine%20learning%20for%20hyperspectral%20classification.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20spatial-spectral%20CNN%20architectures%20and%20advanced%20classifier%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Khodadadzadeh,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at ITC. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geo-information processing and advanced machine learning for hyperspectral classification.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in spatial-spectral CNN architectures and advanced classifier design aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Sandra Lorenz (HZDR — 🇩🇪 Germany)
-**Email Address**: `s.lorenz@hzdr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Lorenz HZDR Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:s.lorenz@hzdr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Lorenz%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20HZDR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20hyperspectral%20sensor%20integration%20and%20mineral%20resource%20exploration%20technology.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20spectral%20unmixing%20and%20multi-source%20geological%20data%20fusion%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Lorenz,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at HZDR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on hyperspectral sensor integration and mineral resource exploration technology.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in spectral unmixing and multi-source geological data fusion aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Prof. Maxence Martin (UQAT — 🇨🇦 Canada)
-**Email Address**: `maxence.martin@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Martin UQAT Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:maxence.martin@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Martin%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20la%20dynamique%20des%20%C3%A9cosyst%C3%A8mes%20forestiers%20et%20l%27%C3%A9cologie%20foresti%C3%A8re%20quantitative.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Martin%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
-
-```text
-Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
-
-Monsieur le Professeur Martin,
-
-Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur la dynamique des écosystèmes forestiers et l'écologie forestière quantitative.
-
-Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
-
-J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
-
-Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
-
-Je vous prie d'agréer, Monsieur le Professeur Martin, l'expression de mes salutations distinguées.
-
-Abdelhak EL MANSOUR
-Doctorant en Télédétection et Géosciences de l'Environnement
-UM6P, Maroc
-```
-
----
-
-### 👤 Dr. Nicola Mondillo (University of Naples Federico II — 🇮🇹 Italy)
-**Email Address**: `nicola.mondillo@unina.it`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Mondillo Naples Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:nicola.mondillo@unina.it?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Mondillo%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Naples%20Federico%20II.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20supergene%20ore%20deposits%2C%20mineralogy%2C%20and%20geological%20remote%20sensing.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20mineral%20characterization%20and%20hyperspectral%20field%20spectrometry%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Mondillo,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at University of Naples Federico II. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on supergene ore deposits, mineralogy, and geological remote sensing.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in mineral characterization and hyperspectral field spectrometry aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Martin Schodlok (BGR — 🇩🇪 Germany)
-**Email Address**: `martin.schodlok@bgr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:martin.schodlok@bgr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Schodlok%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20BGR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20mineral%20resources%20remote%20sensing%20and%20spectral%20libraries%20database%20application.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20USGS/ECOSTRESS%20database%20matching%20and%20EnMAP%20processing%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Schodlok,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at BGR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on mineral resources remote sensing and spectral libraries database application.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in USGS/ECOSTRESS database matching and EnMAP processing aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Anna Sorrentino (University of Naples Federico II — 🇮🇹 Italy)
-**Email Address**: `anna.sorrentino@unina.it`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:anna.sorrentino@unina.it?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Sorrentino%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20University%20of%20Naples%20Federico%20II.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20geological%20hazards%20and%20environmental%20remote%20sensing%20analysis.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20multi-temporal%20satellite%20data%20analysis%20and%20lithological%20mapping%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Sorrentino,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at University of Naples Federico II. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on geological hazards and environmental remote sensing analysis.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in multi-temporal satellite data analysis and lithological mapping aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Dr. Tobias Storch (DLR — 🇩🇪 Germany)
-**Email Address**: `tobias.storch@dlr.de`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Storch DLR IMF Postdoc]] · **Draft Email**: [[02_Academic & Work/work/applications/DLR-2026/Email — Tobias Storch DLR]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:tobias.storch@dlr.de?subject=Inquiry%3A%20Postdoctoral%20Opportunities%20in%20Remote%20Sensing%20/%20Hyperspectral%20Imaging%20-%20Dr.%20Abdelhak%20EL%20MANSOUR&body=Dear%20Dr.%20Storch%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AI%20am%20writing%20to%20inquire%20about%20potential%20postdoctoral%20research%20opportunities%20in%20your%20group%20at%20DLR.%20I%20am%20a%20PhD%20candidate%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20on%20June%2030%2C%202026%2C%20and%20I%20am%20highly%20interested%20in%20your%20group%27s%20work%20on%20imaging%20spectroscopy%20and%20operational%20processing%20chains.%0A%0AMy%20doctoral%20research%2C%20supervised%20by%20Pr.%20Ahmed%20LAAMRANI%2C%20focuses%20on%20developing%20multi-scale%20remote%20sensing%20and%20machine%20learning%20pipelines%20for%20mineralogical%20characterization%20and%20environmental%20monitoring%20of%20phosphate%20mine%20waste%20rocks.%20I%20have%20built%20operational%2C%20end-to-end%20Python%20processing%20engines%20for%20satellite%20hyperspectral%20data%20%28EnMAP%20and%20PRISMA%29%2C%20validating%20our%20spectral%20indices%20against%20laboratory%20XRD%20and%20field%20XRF%20geochemistry.%0A%0AI%20have%20drafted%20a%20detailed%20cover%20letter%20for%20your%20review%2C%20which%20outlines%20how%20my%20experience%20in%20EnMAP%20pipeline%20development%20and%20algorithm%20design%20aligns%20with%20your%20group%27s%20research%20direction%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AI%20would%20be%20honored%20to%20discuss%20any%20potential%20openings%20or%20collaborative%20projects.%20I%20have%20attached%20my%20CV%2C%20thesis%20abstract%2C%20and%20a%20recent%20publication%20for%20your%20reference.%20I%20am%20available%20for%20a%20brief%20video%20call%20at%20your%20convenience.%0A%0AThank%20you%20very%20much%20for%20your%20time%20and%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20%26%20Geosciences%0AUM6P%2C%20Morocco)
-
-```text
-Subject: Inquiry: Postdoctoral Opportunities in Remote Sensing / Hyperspectral Imaging - Dr. Abdelhak EL MANSOUR
-
-Dear Dr. Storch,
-
-I hope this email finds you well.
-
-I am writing to inquire about potential postdoctoral research opportunities in your group at DLR. I am a PhD candidate at UM6P (Morocco), defending my thesis on June 30, 2026, and I am highly interested in your group's work on imaging spectroscopy and operational processing chains.
-
-My doctoral research, supervised by Pr. Ahmed LAAMRANI, focuses on developing multi-scale remote sensing and machine learning pipelines for mineralogical characterization and environmental monitoring of phosphate mine waste rocks. I have built operational, end-to-end Python processing engines for satellite hyperspectral data (EnMAP and PRISMA), validating our spectral indices against laboratory XRD and field XRF geochemistry.
-
-I have drafted a detailed cover letter for your review, which outlines how my experience in EnMAP pipeline development and algorithm design aligns with your group's research direction:
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-I would be honored to discuss any potential openings or collaborative projects. I have attached my CV, thesis abstract, and a recent publication for your reference. I am available for a brief video call at your convenience.
-
-Thank you very much for your time and consideration.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing & Geosciences
-UM6P, Morocco
-```
-
----
-
-### 👤 Pr. Osvaldo Valeria (UQAT — 🇨🇦 Canada)
-**Email Address**: `osvaldo.valeria@uqat.ca`  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — Valeria UQAT Postdoc]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:osvaldo.valeria@uqat.ca?subject=Demande%20de%20candidature%20postdoctorale%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20/%20Imagerie%20hyperspectrale%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20le%20Professeur%20Valeria%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20votre%20%C3%A9quipe%20%C3%A0%20UQAT.%20Doctorant%20%C3%A0%20l%27Universit%C3%A9%20Mohammed%20VI%20Polytechnique%20%28UM6P%29%20au%20Maroc%2C%20je%20soutiendrai%20ma%20th%C3%A8se%20le%2030%20juin%202026%2C%20et%20je%20suis%20particuli%C3%A8rement%20int%C3%A9ress%C3%A9%20par%20vos%20travaux%20sur%20l%27am%C3%A9nagement%20forestier%20durable%20et%20la%20g%C3%A9omatique%20appliqu%C3%A9e%20%C3%A0%20la%20foresterie.%0A%0AMes%20recherches%20de%20doctorat%2C%20men%C3%A9es%20sous%20la%20direction%20du%20Pr%20Ahmed%20LAAMRANI%2C%20portent%20sur%20le%20d%C3%A9veloppement%20de%20m%C3%A9thodologies%20de%20t%C3%A9l%C3%A9d%C3%A9tection%20multi-%C3%A9chelle%20et%20d%27algorithmes%20d%27apprentissage%20automatique%20pour%20la%20caract%C3%A9risation%20min%C3%A9ralogique%20et%20le%20suivi%20de%20la%20restauration%20des%20haldes%20de%20st%C3%A9riles%20miniers.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20des%20pipelines%20op%C3%A9rationnels%20en%20Python%20pour%20l%27analyse%20des%20donn%C3%A9es%20hyperspectrales%20satellitaires%20%28EnMAP%20et%20PRISMA%29%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20de%20terrain%20%28XRF%29%20et%20analyses%20de%20laboratoire%20%28DRX%29.%0A%0AJ%27ai%20pr%C3%A9par%C3%A9%20une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20d%C3%A9crivant%20mon%20parcours%20et%20la%20synergie%20de%20mes%20comp%C3%A9tences%20avec%20vos%20projets%20de%20recherche%20%3A%0AJe%20vous%20joins%20mon%20CV%20et%20ma%20lettre%20de%20motivation%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%0A%0AJe%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20avec%20vous%20par%20visioconf%C3%A9rence%20pour%20discuter%20de%20possibilit%C3%A9s%20de%20collaboration%20ou%20de%20postes%20disponibles.%20Je%20vous%20joins%20mon%20CV%2C%20mon%20r%C3%A9sum%C3%A9%20de%20th%C3%A8se%20ainsi%20qu%27une%20publication%20repr%C3%A9sentative.%0A%0AJe%20vous%20remercie%20vivement%20pour%20le%20temps%20accord%C3%A9%20%C3%A0%20l%27examen%20de%20ma%20candidature.%0A%0AJe%20vous%20prie%20d%27agr%C3%A9er%2C%20Monsieur%20le%20Professeur%20Valeria%2C%20l%27expression%20de%20mes%20salutations%20distingu%C3%A9es.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
-
-```text
-Objet : Demande de candidature postdoctorale — Télédétection / Imagerie hyperspectrale — Dr Abdelhak EL MANSOUR
-
-Monsieur le Professeur Valeria,
-
-Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de votre équipe à UQAT. Doctorant à l'Université Mohammed VI Polytechnique (UM6P) au Maroc, je soutiendrai ma thèse le 30 juin 2026, et je suis particulièrement intéressé par vos travaux sur l'aménagement forestier durable et la géomatique appliquée à la foresterie.
-
-Mes recherches de doctorat, menées sous la direction du Pr Ahmed LAAMRANI, portent sur le développement de méthodologies de télédétection multi-échelle et d'algorithmes d'apprentissage automatique pour la caractérisation minéralogique et le suivi de la restauration des haldes de stériles miniers. J'ai notamment développé des pipelines opérationnels en Python pour l'analyse des données hyperspectrales satellitaires (EnMAP et PRISMA), validés par géochimie de terrain (XRF) et analyses de laboratoire (DRX).
-
-J'ai préparé une lettre de motivation détaillée décrivant mon parcours et la synergie de mes compétences avec vos projets de recherche :
-Je vous joins mon CV et ma lettre de motivation au format PDF pour votre considération.
-
-Je serais ravi de pouvoir échanger brièvement avec vous par visioconférence pour discuter de possibilités de collaboration ou de postes disponibles. Je vous joins mon CV, mon résumé de thèse ainsi qu'une publication représentative.
-
-Je vous remercie vivement pour le temps accordé à l'examen de ma candidature.
-
-Je vous prie d'agréer, Monsieur le Professeur Valeria, l'expression de mes salutations distinguées.
-
-Abdelhak EL MANSOUR
-Doctorant en Télédétection et Géosciences de l'Environnement
-UM6P, Maroc
-```
-
----
-
----
-
-### 👤 INERIS Spontaneous (Dr. Rafik Hadadou — 🇫🇷 France)
-**Email Address**: `rafik.hadadou@ineris.fr` (CC: `recrutement@ineris.fr`)  
-**Linked Cover Letter**: [[02_Academic & Work/work/applications/Cover Letter — INERIS Spontaneous]]  
-
-> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:rafik.hadadou@ineris.fr?cc=recrutement@ineris.fr&subject=Candidature%20spontan%C3%A9e%20postdoctorat%20%E2%80%94%20T%C3%A9l%C3%A9d%C3%A9tection%20hyperspectrale%20et%20apr%C3%A8s-mine%20%E2%80%94%20Dr%20Abdelhak%20EL%20MANSOUR&body=Monsieur%20Hadadou%2C%0A%0AJe%20me%20permets%20de%20vous%20contacter%20pour%20solliciter%20une%20opportunit%C3%A9%20de%20recherche%20postdoctorale%20au%20sein%20de%20l%27INERIS.%20Suite%20%C3%A0%20votre%20pr%C3%A9sentation%20aujourd%27hui%20au%20GSMI-UM6P%20et%20%C3%A0%20la%20soutenance%20imminente%20de%20ma%20th%C3%A8se%20de%20doctorat%20le%2030%20juin%202026%2C%20je%20suis%20tr%C3%A8s%20int%C3%A9ress%C3%A9%20par%20vos%20projets%20d%27expertise%20mines%20et%20apr%C3%A8s-mines%20%C3%A0%20l%27international.%0A%0AMes%20travaux%20de%20recherche%20portent%20sur%20la%20caract%C3%A9risation%20des%20d%C3%A9chets%20miniers%20et%20le%20suivi%20de%20leur%20r%C3%A9habilitation%20par%20t%C3%A9l%C3%A9d%C3%A9tection%20hyperspectrale%20%28VNIR-SWIR%29%20satellitaire%20%28PRISMA%2C%20EnMAP%29%20et%20spectroscopie%20de%20terrain%2C%20valid%C3%A9s%20par%20g%C3%A9ochimie%20%28DRX%2C%20FRX%29.%20J%27ai%20notamment%20d%C3%A9velopp%C3%A9%20un%20Indice%20de%20Performance%20de%20R%C3%A9habilitation%20%28RPI%29%20qui%20s%27aligne%20directement%20avec%20l%27Indice%20%C3%89cologique%20de%20Pr%C3%A9occupation%20%28EIoC%29%20de%20l%27INERIS.%0A%0AJe%20vous%20joins%20mon%20CV%20ainsi%20qu%27une%20lettre%20de%20motivation%20d%C3%A9taill%C3%A9e%20au%20format%20PDF%20pour%20votre%20consid%C3%A9ration.%20Je%20serais%20ravi%20de%20pouvoir%20%C3%A9changer%20bri%C3%A8vement%20par%20visioconf%C3%A9rence.%0A%0AEn%20vous%20remerciant%20pour%20votre%20temps%20et%20l%27intérêt%20que%20vous%20porterez%20à%20ma%20candidature%2C%20je%20vous%20prie%20d%27agréer%2C%20Monsieur%20Hadadou%2C%20l%27expression%20de%20mes%20salutations%20distinguées.%0A%0AAbdelhak%20EL%20MANSOUR%0ADoctorant%20en%20T%C3%A9l%C3%A9d%C3%A9tection%20et%20G%C3%A9osciences%20de%20l%27Environnement%0AUM6P%2C%20Maroc)
-
-```text
-Objet : Candidature spontanée postdoctorat — Télédétection hyperspectrale et après-mine — Dr Abdelhak EL MANSOUR
-
-Monsieur Hadadou,
-
-Je me permets de vous contacter pour solliciter une opportunité de recherche postdoctorale au sein de l'INERIS. Suite à votre présentation aujourd'hui au GSMI-UM6P et à la soutenance imminente de ma thèse de doctorat le 30 juin 2026, je suis très intéressé par vos projets d'expertise après-mine à l'international.
-
-Mes travaux de recherche portent sur la caractérisation des déchets miniers et le suivi de leur réhabilitation par télédétection hyperspectrale (VNIR-SWIR) satellitaire (PRISMA, EnMAP) et spectroscopie de terrain, validés par géochimie (DRX, FRX). J'ai développé un Indice de Performance de Réhabilitation (RPI) qui s'aligne directement avec vos modélisations de risques et l'Indice Écologique de Préoccupation (EIoC) de l'INERIS.
-
-Je joins mon CV ainsi qu'une lettre de motivation détaillée au format PDF pour votre considération. Je serais ravi de pouvoir échanger brièvement par visioconférence.
-
-En vous remerciant pour votre temps et l'intérêt que vous porterez à ma candidature, je vous prie d'agréer, Monsieur Hadadou, l'expression de mes salutations distinguées.
-
-Abdelhak EL MANSOUR
-Doctorant en Télédétection et Géosciences de l'Environnement
-UM6P, Maroc
-```
-
----
-
-*Related: [[02_Academic & Work/work/active/Job Pipeline|Job Pipeline]] · [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-05-25'
----
-
-
-# Cover Letter — Pixxel Hyperspectral Scientist
-
-**Deadline: Rolling — apply immediately**
-**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
-
----
-
-Abdelhak EL MANSOUR
-PhD Candidate — Remote Sensing and Environmental Geosciences
-University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
-scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
-May 25, 2026
-
-Hiring Team
-Pixxel
 
 ---
 
-Re: Hyperspectral Scientist
+## 2. Barrick Mining Corporation — Exploration, Remote Sensing Lead
 
-Dear Hiring Team,
+**Subject:** Remote Sensing Lead (Req 239544) — application
 
-I build satellite hyperspectral pipelines that end with a validated product delivered to a client. That is what Pixxel needs, and it is what I do.
+Hi,
 
-My PhD thesis (UM6P, defending June 30, 2026) was built around two operational pipelines — one for PRISMA, one for EnMAP. The EnMAP pipeline runs 1,776 lines of production Python: raw HDF5 ingestion, atmospheric correction, bad-band removal, VCA-FCLS spectral unmixing, ML classification, and XRF ground-truth validation in a single reproducible workflow. The output is a novel metric — the Reclamation Progress Index — achieving AUC = 1.000 for backfilling detection, validated against geochemical measurements (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). Delivered to OCP Group, one of the world's largest phosphate producers. Not a prototype.
-
-The PRISMA pipeline is peer-reviewed and published (Sensors 2026, IF 3.5): 127 field samples, 4 lithological classes, spatially constrained cross-validation, landscape-scale waste rock mapping. Mining is one of Pixxel's target sectors. The methods transfer directly to agriculture, forestry, and environmental monitoring.
-
-I work across the full EO chain — L1 to analytics — in Python (scikit-learn, GDAL, rasterio, spectral, numpy). I am available fully remote, based in Morocco, ready to start July 2026.
-
-I would welcome a technical conversation.
-
-Yours sincerely,
+I'm a PhD candidate at UM6P (Morocco), wrapping up a thesis that runs hyperspectral data, field spectrometer, PRISMA, EnMAP, all the way through to a validated mineral map, built for an actual mine operator rather than a paper. Mine's phosphate, not gold or copper, but the job you're describing (turn hyperspectral signal into a target a geologist trusts) is the exact thing I do. I'm comfortable in ENVI, I build my own Python pipelines, and I'm fine with the travel. CV and cover letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate, GSMI — UM6P
 elmansour01abdelhak@gmail.com
-scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist|Cover Letter — Senior Hyperspectral Scientist]]*
+## 3. Corescan (powered by Epiroc)
 
+**Subject:** Interest in future roles — hyperspectral mineral characterization
 
+Hi,
 
-
-## 📄 File: 02_Academic & Work/work/active/Pixxel Application/Cover Letter — Senior Hyperspectral Scientist.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-05-25'
----
-
-
-# Cover Letter — Pixxel Senior/Lead Hyperspectral Scientist
-
-**Deadline: Rolling — apply immediately**
-**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
-
----
+I do the same core science your Hyperspectral Core Imager runs on, spectral signal to mineral assemblage, just at satellite and field scale instead of drill core. PhD at UM6P, defending mid-July, three years spent making sure that translation actually holds up against lab geochemistry before anyone trusts it. Nothing open that I've seen matching this, but I'd like to be on your radar, especially if there's anything outside Australia. CV and a longer letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate — Remote Sensing and Environmental Geosciences
-University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
 elmansour01abdelhak@gmail.com
-scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
-May 25, 2026
-
-Hiring Team
-Pixxel
 
 ---
 
-Re: Senior/Lead Hyperspectral Scientist
+## 4. HyVista Corporation
 
-Dear Hiring Team,
+**Subject:** Interest in future roles — airborne hyperspectral / mineral exploration
 
-I am applying for the Senior/Lead Hyperspectral Scientist role at Pixxel. I am a PhD candidate at UM6P, Morocco, defending June 30, 2026, with four peer-reviewed publications and a track record of building end-to-end satellite hyperspectral pipelines that deliver validated, client-facing products.
+Hi,
 
-The senior role at Pixxel is about more than data processing — it is about owning the science pipeline and being accountable for product quality. I have done that. My PhD thesis, conducted in partnership with OCP Group (one of the world's largest phosphate producers), required me to design, implement, and validate an operational Earth observation product from scratch using EnMAP hyperspectral imagery. The pipeline I built handles the full chain: ingestion of raw satellite data, atmospheric correction, bad-band removal (189 valid EnMAP bands selected), spectral unmixing via VCA-FCLS, machine learning classification, and validation against independent geochemical measurements (XRF). The output — the Reclamation Progress Index — achieves AUC = 1.000 and a ground-truth correlation of Spearman ρ = 0.845. It is peer-reviewed, reproducible, and already being considered for operational deployment.
-
-Earlier in my PhD, I built a parallel pipeline for PRISMA imagery: custom HDF5 loader, VNIR+SWIR fusion, Random Forest and Extra Trees classifiers with spatially constrained cross-validation (30m buffer, 10 replicates), published in Sensors 2026. I also supervised two students (engineering and Master's level) through hyperspectral projects — evidence that I can lead technical work, not just execute it.
-
-Pixxel's Firefly constellation is the most exciting hyperspectral asset in orbit right now. The combination of 6 operational satellites and a science team that can turn that data into actionable analytics is exactly the kind of environment where I want to build the next phase of my career. I bring the methods, the track record, and the appetite for the problem.
-
-I am available fully remote, based in Morocco, and ready to start after June 30, 2026.
-
-Yours sincerely,
+My PhD (UM6P, Morocco, defending mid-July) is built around the same use case your HyMap flights serve, hyperspectral imagery turned into a mineral map people can act on for exploration. I run that pipeline end to end and check every result against real geochemistry before I believe it. I don't see a listed opening, but wanted to introduce myself in case something comes up. CV and cover letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate, GSMI — UM6P
 elmansour01abdelhak@gmail.com
-scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/active/Pixxel Application/Cover Letter — Hyperspectral Scientist|Cover Letter — Hyperspectral Scientist]]*
+## 5. Specim
 
+**Subject:** Open application — applications/geoscience side
 
+Hi,
 
-
-## 📄 File: 02_Academic & Work/work/active/Pixxel Application/Submission Checklist.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-05-25'
----
-
-
-# Pixxel Application — Submission Checklist
-
-**Apply at:** https://pixxel.darwinbox.in/ms/candidate/careers
-**Deadline:** Rolling — apply this week
-
-Apply to BOTH roles separately via the Darwinbox portal.
-
----
-
-## Role 1 — Hyperspectral Scientist (mid-level)
-
-### What to attach
-- [ ] Cover letter (PDF) → export from `Cover Letter — Hyperspectral Scientist.md`
-- [ ] CV (PDF) → reuse `CV_ELMANSOUR_VITO_2026.docx` — open in Word, Save As PDF
-- [ ] Google Scholar link → scholar.google.com/citations?user=ysUOZQ0AAAAJ
-- [ ] Optional: Sensors 2026 paper PDF (doi: 10.3390/s26010002)
-
----
-
-## Role 2 — Senior/Lead Hyperspectral Scientist
-
-### What to attach
-- [ ] Cover letter (PDF) → export from `Cover Letter — Senior Hyperspectral Scientist.md`
-- [ ] CV (PDF) → same CV as above
-- [ ] Google Scholar link
-- [ ] Optional: Sensors 2026 paper PDF
-
----
-
-## Notes
-- Pixxel is remote-first — your Morocco location is not a problem
-- Both roles go through the same Darwinbox portal — apply separately
-- No deadline listed — do NOT wait, rolling means first-come matters
-- After applying, update the tracker in `Hot Opportunities — May 2026.md`
-
-
----
-
-*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Outreach Dashboard]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/VITO Application/CV — Industry (VITO).md
-
----
-date: 2026-05-25
-tags:
-created: '2026-06-05'
----
-
-
-# CV — Industry Format (VITO-ready)
-
----
-
-# ABDELHAK EL MANSOUR
-**Remote Sensing Scientist — Hyperspectral EO & Machine Learning**
-
-elmansour01abdelhak@gmail.com | +212 117 164 00
-scholar.google.com/citations?user=ysUOZQ0AAAAJ | @AbdelhakElm
-Available: from July 2026 | Open to relocation (Mol, Belgium)
-
----
-
-## Technical Skills
-
-**Satellite & EO data:** PRISMA (ASI), EnMAP (DLR/GFZ), VNIR–SWIR hyperspectral, HDF5/NPZ processing, atmospheric & radiometric correction, bad-band removal, multi-temporal analysis
-
-**Machine learning:** Random Forest, Extra Trees, SVM, 1D/2D/3D-CNN, XGBoost, class imbalance handling, spatial cross-validation
-
-**Spectral analysis:** VCA-FCLS spectral unmixing, USGS/ECOSTRESS library matching, SAM/SID/NNLS
-
-**Python stack:** scikit-learn, GDAL, rasterio, spectral, numpy, matplotlib, Jupyter — production pipelines (1,776-line EnMAP engine)
-
-**Field & lab:** ASD FieldSpec 4 field spectroscopy, HHXRF, XRD/XRF interpretation, geological mapping
-
-**Other:** ENVI, Global Mapper, GIS, Git, Google Earth Engine (familiar)
-
----
-
-## Key Results
-
-- Developed **Reclamation Progress Index (RPI)** from EnMAP data — AUC = 1.000, validated against XRF ground truth (Spearman ρ = 0.845, n = 32/zone, p = 1.74 × 10⁻¹²)
-- PRISMA-based lithological classification (127 field samples, 4 classes) — BAC = 0.60–0.67, AUC > 0.95 for carbonates, spatially constrained CV
-- Spectral library matching (104 samples, ECOSTRESS) — mean R² = 0.748, 84% of spectra R² > 0.70
-- **4 peer-reviewed publications** during PhD (Sensors IF 3.5, IJEST, Mining, BDJ) + 2 in pipeline
-
----
-
-## Research Experience
-
-**PhD Researcher — Remote Sensing & Environmental Geosciences**
-University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco | Jul 2021 – Jun 2026 (defending Jun 30)
-
-Built end-to-end satellite EO pipelines (PRISMA + EnMAP) for mineralogical mapping and reclamation monitoring at Benguerir phosphate mine (OCP Group). Delivered a validated operational product (RPI) scalable beyond the study site. Supervised 2 students (engineering + Master's level). Presented at EGU 2025 and EARSeL 2024.
-
-**Research Mobility — Hyperspectral EO Applications**
-University of Valencia, Spain (Pr. Jochem Verrelst's group) | Mar 2024 – Aug 2024
-
-Developed PRISMA hyperspectral classification workflow for mining waste; co-authored EARSeL 2024 conference paper; collaborated within an international EO research group.
-
-**Junior Geologist**
-Baraka Mining Company, Morocco | Feb 2019 – Aug 2019
-
-Geological exploration (Occidental Meseta, Anti-Atlas, High Atlas) — mapping, sampling, terrain analysis.
-
----
-
-## Education
-
-**PhD in Applied Geosciences** — UM6P, Morocco (defending June 30, 2026)
-*Thesis: Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks, Benguerir Mine*
-
-**MSc in Applied Geosciences** (Mineral & Energetic Resources) — Cadi Ayyad University, 2017
-
-**BSc in Applied Geosciences** — Moulay Ismail University, 2015
-
----
-
-## Selected Publications
-
-**First author**
-1. EL MANSOUR A et al. — Integrating VNIR–SWIR Spectroscopy and HHXRF for Mineralogical Characterization of Phosphate Mine Waste, Benguerir. **Sensors** 2025 (IF 3.5). doi:10.3390/s26010002
-2. EL MANSOUR A et al. — PRISMA-based lithological mapping of phosphate waste rocks (thesis Ch.2). **Minerals** 2026 (accepted) ✅
-
-**Co-authored**
-3. Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A** et al. — Revegetation and Ecosystem Reclamation of Post-Mined Land. **IJEST** 2024
-4. Zine H, **EL MANSOUR A**, Hakkou R et al. — Mine Closure and Ecological Reclamation: Bibliometric Overview 1980–2023. **Mining** 2023
-
----
-
-## Languages
-French (fluent) | English (advanced) | Arabic/Darija (native) | Tamazight (native) | Spanish (basic)
-
-
----
-
-*Related: [[02_Academic & Work/perf/Brag Doc|Brag Doc]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[02_Academic & Work/work/applications/UTwente-2026/CV — UTwente|CV — UTwente]] · [[04_Knowledge Base/AI-Generated/CV Ingestion|CV Ingestion]] · [[02_Academic & Work/work/applications/UTwente-2026/Publications List — UTwente|Publications List — UTwente]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/VITO Application/Cover Letter — Scientific Expert EO Services.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-06-05'
----
-
-
-# Cover Letter — VITO Scientific Expert, Earth Observation Services
-
-**Deadline: None shown — apply as soon as possible**
-
----
+I've spent three years as a heavy user of hyperspectral sensors rather than a builder of them, which is maybe the more useful perspective for an applications role: I know exactly where band configuration and SNR start mattering once you're trying to identify a mineral, not just take a pretty image. PhD at UM6P, Morocco, defending mid-July. Not applying to a specific posting, just flagging myself for whatever comes up on the applications or customer-facing side. CV and letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate — Remote Sensing and Environmental Geosciences
-University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
-elmansour01abdelhak@gmail.com | twitter.com/AbdelhakElm
-Google Scholar: scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
-May 25, 2026
-
-Recruitment Team
-VITO — Flemish Institute for Technological Research
-Mol, Belgium
+elmansour01abdelhak@gmail.com
 
 ---
 
-Re: Scientific Expert, Earth Observation Services — jobs.vito.be
+## 6. Wyvern
 
-Dear Hiring Team,
+**Subject:** Interest in remote sensing / data science roles
 
-I am writing to apply for the Scientific Expert position in Earth Observation Services at VITO. I am a PhD candidate at the University Mohammed VI Polytechnic (UM6P), defending on 30 June 2026, with four peer-reviewed publications and direct experience building and validating an operational satellite-derived EO product — which is precisely what this role is about.
+Hi,
 
-My thesis (155 pages, defending June 30) produced exactly the kind of output that VITO's EO Services unit delivers at scale: a validated, satellite-derived indicator that translates raw spectral data into a decision-relevant metric for an end client. The Reclamation Progress Index (RPI), developed using EnMAP hyperspectral imagery, quantifies mine reclamation progress with XRF-validated accuracy (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) and near-perfect detection performance (AUC = 1.000). The client in this case was OCP Group — one of the world's largest phosphate producers — and the product was designed to be operationally scalable, not a one-site academic exercise.
-
-Beyond the RPI, my work spans the full EO product development chain: PRISMA and EnMAP data ingestion (HDF5 format, custom loaders), atmospheric and radiometric correction, bad-band removal, spectral unmixing (VCA-FCLS), machine learning classification (Extra Trees, Random Forest, spatial cross-validation), and geochemical ground-truth validation (XRD, XRF, field spectroscopy). I implement everything in Python — scikit-learn, GDAL, rasterio, spectral, numpy — and write production-quality, documented pipelines.
-
-I have also contributed to the scientific literature: five publications (Sensors 2026, Minerals 2026 accepted, two others), conference presentations at EGU 2025 and EARSeL 2024, and a research stay at the University of Valencia (March–August 2024). I understand both the science and the communication demands of translating EO products to non-specialist stakeholders.
-
-VITO's Earth Observation Services unit sits at the intersection of rigorous remote sensing science and real-world impact — that is exactly where I want to build my career. I am available to relocate to Mol and ready to begin after my defense on June 30, 2026.
-
-I would be glad to share my CV, publications, and code portfolio.
-
-Yours sincerely,
+I saw you're hiring and wanted to put myself forward before I know exactly which req fits. I'm finishing a PhD at UM6P (Morocco, defense mid-July) building Python pipelines for satellite hyperspectral data, PRISMA and EnMAP, end to end, validated against real ground data, for an active mining operation. That's the same problem you're solving at a bigger scale. Happy to point at a specific role if you tell me which one's the best fit. CV and cover letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate, GSMI — UM6P
-elmansour01abdelhak@gmail.com | scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
+elmansour01abdelhak@gmail.com
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality)|Cover Letter — Scientist Remote Sensing (Water Quality)]]*
+## 7. Kuva Space
 
+**Subject:** Interest in remote sensing / applications roles
 
+Hi,
 
-
-## 📄 File: 02_Academic & Work/work/active/VITO Application/Cover Letter — Scientist Remote Sensing (Water Quality).md
-
----
-date: 2026-05-25
-tags:
-created: '2026-05-25'
----
-
-
-# Cover Letter — VITO Scientist Remote Sensing (Water Quality)
-
-**Deadline: May 29, 2026**
-
----
+I build the kind of pipeline your constellation is meant to feed, satellite hyperspectral data turned into something a customer can actually rely on, in my case for mining and land monitoring rather than the broader markets you're going after. PhD at UM6P, Morocco, defending mid-July. Didn't see a specific open role, but wanted to reach out directly given how fast you're scaling. CV and letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate — Remote Sensing and Environmental Geosciences
-University Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
-elmansour01abdelhak@gmail.com | twitter.com/AbdelhakElm
-Google Scholar: scholar.google.com/citations?user=ysUOZQ0AAAAJ
-
-May 25, 2026
-
-Recruitment Team
-VITO — Flemish Institute for Technological Research
-Mol, Belgium
+elmansour01abdelhak@gmail.com
 
 ---
 
-Re: Scientist Remote Sensing (Water Quality) — jobs.vito.be
+## 8. Orbital Sidekick
 
-Dear Hiring Team,
+**Subject:** Interest in remote sensing / data science roles
 
-I am writing to apply for the Scientist Remote Sensing position within VITO's Remote Sensing Unit. I am a PhD candidate at the University Mohammed VI Polytechnic (UM6P) in Morocco, defending my thesis on 30 June 2026, with four peer-reviewed publications and hands-on expertise in satellite hyperspectral data processing, machine learning classification, and operational EO product development.
+Hi,
 
-My doctoral research focuses on PRISMA and EnMAP satellite imagery — two of Europe's most advanced hyperspectral missions — applied to mineralogical characterization and environmental monitoring of phosphate mine waste rocks. While my application domain is geoscience rather than water quality, the methodological foundation is identical to what this role requires: multi-source satellite data fusion, radiometric correction, pixel-based and sub-pixel classification, spatially constrained validation against field measurements, and Python-based production pipelines. I built and documented a 1,776-line EnMAP processing pipeline from scratch (atmospheric correction → bad-band removal → spectral unmixing → validated reclamation index), which reflects the kind of rigorous, reproducible EO science VITO is known for.
-
-The results speak to operational readiness. In Chapter 3 of my thesis, I developed the Reclamation Progress Index (RPI) — a novel satellite-derived metric validated against XRF geochemical data (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²) and achieving AUC = 1.000 for backfilling detection across the Benguerir mine site. Translating satellite observations into a reliable, field-validated operational product is precisely the challenge at the core of water quality monitoring, and it is a challenge I have already solved in a different but methodologically equivalent context.
-
-I am motivated by VITO's reputation as one of Europe's leading EO research centres and by the opportunity to broaden my expertise into aquatic and maritime applications. I am available to relocate to Mol and to travel internationally as the role requires. My thesis defense on June 30 marks the completion of my PhD — I am ready to transition into a full-time research position immediately thereafter.
-
-My CV, Google Scholar profile, and publications are available on request. I would welcome the opportunity to discuss how my background maps onto your team's needs.
-
-Yours sincerely,
+Your constellation is built for exactly the problem I've spent my PhD on: monitoring an industrial site continuously and turning spectral change into something someone can act on, mine's mining not pipelines, but it's the same job. UM6P, Morocco, defending mid-July. No specific opening in view, wanted to introduce myself directly in case something's coming up. CV and cover letter attached.
 
 Abdelhak EL MANSOUR
-PhD Candidate, GSMI — UM6P
-
-
----
-
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief — Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/active/VITO Application/Cover Letter — Scientific Expert EO Services|Cover Letter — Scientific Expert EO Services]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/VITO Application/Submission Checklist.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-05-25'
----
-
-
-# VITO Application — Submission Checklist
-
----
-
-## Role 1 — Scientist Remote Sensing (Water Quality)
-**Deadline: Friday May 29, 2026 — URGENT**
-**Apply at:** https://jobs.vito.be → search "Scientist Remote Sensing"
-
-### What to attach
-- [x] Cover letter (PDF) → export from `Cover Letter — Scientist Remote Sensing (Water Quality).md`
-- [x] CV (PDF) → `CV_ELMANSOUR_2026_Latex.pdf` — add defense date "June 30, 2026" before exporting
-- [x] Publication list or Google Scholar link → scholar.google.com/citations?user=ysUOZQ0AAAAJ
-- [x] Optional: Sensors 2026 paper PDF (doi: 10.3390/s26010002) — strongest published result
-
-### Before submitting
-- [x] Update CV defense date to "June 30, 2026"
-- [x] Export cover letter to PDF
-- [x] Create account on jobs.vito.be if you don't have one
-- [x] Submit via portal (not email)
-
----
-
-## Role 2 — Scientific Expert, Earth Observation Services
-**Deadline: None shown — apply this week**
-**Apply at:** https://jobs.vito.be → search "Scientific Expert Earth Observation"
-
-### What to attach
-- [x] Cover letter (PDF) → export from `Cover Letter — Scientific Expert EO Services.md`
-- [x] CV (PDF) → same updated CV as above
-- [x] Publication list or Google Scholar link
-- [x] Optional: 1-page research statement (not yet written — see Application Toolkit in Hot Opportunities file)
-- [x] Optional: Sensors 2026 paper PDF
-
-### Before submitting
-- [x] Same CV and PDF prep as Role 1
-- [x] Submit via jobs.vito.be portal
-
----
-
-## Notes
-- Both applications go through **jobs.vito.be** — one account, two separate submissions
-- Do NOT email HR directly unless the portal fails
-- After submitting, mark the tracker in `Hot Opportunities — May 2026.md`
-- If no confirmation email within 24h, check your spam folder
-
-
----
-
-*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Outreach Dashboard]]*
-
-
-
-
-## 📄 File: 02_Academic & Work/work/active/ESPC6 Submission/Email — ESPC6 Abstract Submission.md
-
----
-date: 2026-05-25
-tags:
-created: '2026-05-25'
----
-
-
-# Email — ESPC6 Abstract Submission
-
-**Conference:** 6th European Sustainable Phosphorus Conference (ESPC6)
-**Date:** November 24–26, 2026
-**Location:** UM6P, Benguerir, Morocco
-**Abstract deadline:** May 31, 2026
-**Contact:** [retrieve from https://www.phosphorusplatform.eu/espc6#registration — email is spam-protected]
-**Abstract file:** `.raw/Abstract-Sustainable phosphorus.docx`
-
----
-
-**Subject:** Abstract Submission — ESPC6 | Hyperspectral Mapping of Phosphate Mine Waste Rocks
-
-Dear ESPC6 Organizing Committee,
-
-Please find attached my abstract for consideration at the 6th European Sustainable Phosphorus Conference (ESPC6, November 24–26, 2026, UM6P, Benguerir).
-
-**Title:** Spatially Constrained Machine Learning for PRISMA-Based Lithological Mapping of Phosphate Mine Waste Rocks
-
-**Authors:** Abdelhak El Mansour, Jamal-Eddine Ouzemou, Abdellatif Elghali, Malak Elmeknassi, Rachid Hakkou, Mostafa Benzaazoua, Ahmed Laamrani
-
-**Affiliation:** GSMI / CRSA, Mohammed VI Polytechnic University, Benguerir, Morocco
-
-The study presents a spaceborne hyperspectral framework for lithological mapping of phosphate waste rock piles at the Benguerir mine, directly relevant to sustainable phosphate waste management and selective recovery — core themes of ESPC6. I would welcome the opportunity to present as either an oral or poster contribution.
-
-Yours sincerely,
-
-Abdelhak El Mansour
-PhD Candidate, GSMI — UM6P
-abdelhak.elmansour@um6p.ma
-
----
-
-## Checklist
-- [x] Retrieve contact email from ESPC6 website
-- [x] Attach `.raw/Abstract-Sustainable phosphorus.docx`
-- [x] Sent 2026-05-25
-
-
----
-
-*Related: [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]]*
+elmansour01abdelhak@gmail.com
 
 
 
@@ -3456,6 +3706,118 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Barrick Remote Sensing Lead.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Cover Letter — Exploration, Remote Sensing Lead, Barrick Mining Corporation
+
+**Requisition 239544. Apply via:** https://jobs.barrick.com (search "Remote Sensing Lead")
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Barrick Mining Corporation
+Exploration Team
+
+---
+
+Dear Hiring Team,
+
+I am applying for the Remote Sensing Lead position within Barrick's Exploration group. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and my entire doctoral programme has been built around the exact combination this role asks for: satellite, airborne, and field-based hyperspectral data, integrated with GIS, used to make real exploration and monitoring decisions for a working mine rather than as a research exercise.
+
+My thesis, carried out in direct partnership with OCP Group at their Benguerir phosphate operation, moves across three scales that map closely onto exploration workflows: hand-held field spectroscopy (VNIR-SWIR) for ground-truthed mineral identification, satellite-scale lithological mapping using PRISMA imagery, and a satellite-derived index built on EnMAP data to track how surface mineralogy changes over time. Although my deposit type is phosphate rather than gold or copper, the technical problem is the same one this role is built around: turning multi-source hyperspectral data into a defensible, geochemically validated target or monitoring product that a technical team can act on. I work daily in ENVI, and I have built end-to-end Python processing pipelines that would sit comfortably alongside ERDAS Imagine and GIS workflows.
+
+I would bring to this role direct experience integrating remote sensing outputs with geology, geochemistry, and field teams, since that cross-disciplinary translation was central to making my thesis useful to an industrial partner rather than just publishable. I am also comfortable evaluating and adopting new methods, my thesis includes machine learning-based classification alongside more conventional spectral techniques, and I would welcome the chance to bring that same habit of testing new approaches to Barrick's exploration programs. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand this role expects some travel to project sites for campaign planning, which I am glad to do, and I would welcome the opportunity to discuss my fit for the position further.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Beiranvand Pour UTM Postdoc.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Cover Letter, Postdoc Inquiry, Beiranvand Pour Group, UTM
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Prof. Dr. Amin Beiranvand Pour
+Geoscience and Digital Earth Centre (INSTeG)
+Universiti Teknologi Malaysia
+Johor Bahru / Kuala Lumpur, Malaysia
+
+---
+
+Dear Prof. Beiranvand Pour,
+
+I am writing to ask whether you might have room for a postdoctoral researcher in your group after I defend my PhD at UM6P in mid-July 2026. I have followed your work on alteration mineral mapping with ASTER, Landsat, and PRISMA for years, and my own thesis sits squarely in the same space, applied hyperspectral mineral mapping for an active mining operation rather than a purely academic test site.
+
+My thesis characterizes the Benguerir phosphate mine (OCP Group, Morocco) across three scales: a field spectral library built from hand-held spectroscopy and cross-checked against XRD and XRF, a PRISMA-based lithological map of the waste rock zones, and an EnMAP-based index that tracks how the surface mineralogy changes as reclaimed areas mature. Every step is built to be operational, not a one-off case study, since the goal was a tool OCP could actually keep using.
+
+What I would bring to your group is direct, hands-on PRISMA processing experience, from raw product to a validated lithological map, plus the habit of checking every spectral result against independent geochemistry before trusting it. I have a complete Python pipeline for PRISMA and EnMAP, and two years running a hyperspectral monitoring program with an industrial mining partner.
+
+If there is a fit with your current or upcoming projects, I would be glad to discuss it by video call. I can send my CV and thesis abstract on request.
+
+Thank you for considering this.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, thesis abstract (1 page)*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc|Cover Letter - Mondillo Naples Postdoc]]*
+
+
+
+
 ## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc.md
 
 ---
@@ -3581,7 +3943,189 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc|Cover Letter - Lorenz HZDR Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc|Cover Letter - Esmaeili UofT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc|Cover Letter - Asadzadeh GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - Lorenz HZDR Postdoc|Cover Letter - Lorenz HZDR Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Esmaeili UofT Postdoc|Cover Letter - Esmaeili UofT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc|Cover Letter - Asadzadeh GFZ Postdoc]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Corescan Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Corescan (powered by Epiroc)
+
+> No specific role matching this profile currently listed (their open reqs recently were a
+> Hylogger Technician in Sydney and a Product Manager in Perth). Corescan does hyperspectral
+> drill core, rock chip, and 3D laser profiling for mineral exploration and mine optimization
+> globally, with offices beyond Australia (Latin America, North America, Europe, Africa) — worth
+> asking about openings in a region closer to Morocco/Europe. Apply via corescan.com.au or LinkedIn.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Corescan (powered by Epiroc)
+Perth, Western Australia
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in future opportunities at Corescan. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and my doctoral work applies hyperspectral remote sensing to mineral characterization for an active mining operation, which is the same underlying science as your Hyperspectral Core Imager, just applied at satellite and field scale rather than to drill core.
+
+My thesis combines hand-held VNIR-SWIR field spectroscopy, satellite hyperspectral imagery (PRISMA, EnMAP), and independent geochemical validation (XRD, XRF) to characterize waste rock mineralogy and monitor reclamation at a phosphate mine, in direct partnership with the mine operator, OCP Group. That means I spend most of my time doing the part of the workflow Corescan specializes in: turning a spectral signal into a defensible mineralogical assemblage that a geologist can act on, then checking it against ground truth before trusting it.
+
+I would bring to Corescan a working Python-based hyperspectral processing toolkit, direct experience validating spectral mineral identification against laboratory and field geochemistry, and comfort moving between research-grade analysis and something an operations team can use day to day. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand there may not be an open role matching this profile right now, and I would welcome being considered for future positions, particularly in Europe or a region closer to Morocco, or an introductory conversation with your team in the meantime.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Datarock Speculative.md
+
+---
+date: 2026-07-08
+tags:
+created: '2026-07-08'
+---
+
+
+# Speculative Application — Datarock Pty Ltd
+
+> Sent as a general spontaneous inquiry to info@datarock.com.au. Datarock is a geoscience
+> technology company (Melbourne/Hobart/Adelaide, AU) applying computer vision and machine
+> learning to drill core, chip, and video imagery for the mining industry — fully acquired by
+> IMDEX in 2026. Closest overlap: automated mineralogy/geotechnical characterization from
+> imagery, validated against ground truth, at all stages of exploration and mining.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Datarock Pty Ltd
+Melbourne, Australia
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. My work sits close to Datarock's core problem: extracting geological information from imagery using computer vision and machine learning, applied to hyperspectral and multispectral remote sensing rather than drill core imagery.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python spectral processing pipeline and have direct experience validating machine-learning-derived mineral predictions against laboratory and field geochemistry.
+
+I would welcome being considered for future opportunities at Datarock, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: Resume (`.raw/RESUME ELMANSOUR2026 LATT.pdf`)*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - EO Satellite Company Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Cover Letter / Open Application — Earth Observation Companies
+
+> Status check 2026-07-06:
+> - **ICEYE**: no open technical remote sensing/geospatial scientist req found, but they
+>   explicitly invite open applications ("even if you don't see a vacancy advertised, submit
+>   an open application"). This is the best-fit target for the letter below as written.
+> - **Planet Labs**: current open roles are Product Manager (Tanager, their hyperspectral
+>   program) and marketing roles — not a technical fit for this profile. Worth monitoring
+>   job-boards.greenhouse.io/planetlabs for a Geospatial Scientist/Data Scientist req to open.
+> - **Airbus Defence and Space**: no specific open req identified; general careers portal only
+>   (airbus.com/en/careers, space-solutions.airbus.com/about-us/careers). Worth a direct portal
+>   search before sending.
+> - **Maxar**: two open reqs found (Remote Sensing Earth Science Engineer, Geospatial Data
+>   Scientist) but **both require U.S. citizenship** — not viable, do not apply.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+[COMPANY NAME] — Earth Observation / Remote Sensing Team
+
+---
+
+Dear Hiring Team,
+
+I am writing to submit an open application for a remote sensing or geospatial data science role at [COMPANY NAME]. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and I have spent three years building and validating hyperspectral and multispectral satellite processing pipelines for a real industrial client, which is the kind of applied, production-grade remote sensing work I understand [COMPANY NAME] does at scale.
+
+My doctoral research develops end-to-end Python pipelines for PRISMA and EnMAP satellite hyperspectral data (atmospheric correction, spatial-spectral classification, spectral unmixing) to map mineralogy and monitor land reclamation at an active phosphate mine, in direct partnership with the mine operator, OCP Group. I also work with field spectroscopy (VNIR-SWIR) as ground truth. Every satellite-derived product in my thesis is validated against independent field or geochemical data before I trust it, which is the discipline I understand commercial EO products need to be held to before a customer relies on them.
+
+I would bring to [COMPANY NAME] a working, field-tested Python and GIS toolkit (QGIS, Google Earth Engine, ENVI), direct experience turning noisy satellite hyperspectral data into a validated, client-facing product, and comfort working independently across the full chain from raw sensor data to delivered insight. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand there may not be an open role matching this profile right now, and I would welcome being considered for future openings, or an introductory conversation with your team in the meantime.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
 
 
 
@@ -3641,7 +4185,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc|Cover Letter - Khodadadzadeh ITC Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc|Cover Letter - Chabrillat GFZ Postdoc]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/OCP Group and Benguerir Mine|OCP Group]] · [[02_Academic & Work/work/applications/Cover Letter - Khodadadzadeh ITC Postdoc|Cover Letter - Khodadadzadeh ITC Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Chabrillat GFZ Postdoc|Cover Letter - Chabrillat GFZ Postdoc]]*
 
 
 
@@ -3712,6 +4256,256 @@ UM6P, GSMI, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/applications/Cover Letter - Bussiere UQAT Postdoc|Cover Letter - Bussiere UQAT Postdoc]] · [[02_Academic & Work/work/applications/Cover Letter - Valeria UQAT Postdoc|Cover Letter - Valeria UQAT Postdoc]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Fleet Space Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Fleet Space Technologies
+
+> Confirmed contact: careers@fleet.space (listed as their dedicated careers email). Company is
+> larger (130+ staff) with offices beyond Australia (US, Canada, Chile) — worth asking about
+> non-Australia roles given their ExoSphere platform's global exploration client base.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Fleet Space Technologies
+Adelaide, Australia
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in geoscience data science or remote sensing roles at Fleet Space. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and my work brings together the same categories of data your ExoSphere platform fuses, satellite information, spatial analytics, and AI, into a single exploration or monitoring decision.
+
+My thesis develops end-to-end Python pipelines for satellite hyperspectral data (PRISMA, EnMAP) and field spectroscopy, using machine learning classification validated against independent geochemistry to map mineralogy and monitor land change at an active phosphate mine, in direct partnership with the mine operator, OCP Group. I am used to being the person who turns a satellite data stream into something a field team can actually act on, cross-checked against ground truth rather than trusted on model output alone, which is the discipline I understand ExoSphere is built to deliver at scale.
+
+I would bring to Fleet Space a working, field-tested remote sensing and machine learning toolkit, direct experience validating satellite-derived products for an industrial partner, and comfort working across the full chain from raw data to a decision a geologist trusts. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I would welcome the opportunity to discuss how my background could contribute to your team, in Australia or at one of your other offices.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Geospectra Speculative.md
+
+---
+date: 2026-07-08
+tags:
+created: '2026-07-08'
+---
+
+
+# Speculative Application — Geospectra
+
+> Canadian field-instrument company: portable XRF, XRD, LIBS, SWIR/NIR spectrometers, FTIR
+> for mining and exploration, plus a mobile hyperspectral core-scanning lab (LithologIQ).
+> No dedicated jobs page found — only a general contact address. Sent as a speculative note.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Geospectra
+Canada
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. Your LithologIQ mobile core-scanning lab and portable SWIR/NIR/XRF instrument line sit directly in the space I work in — converting field spectral and geochemical signal into a mineral assemblage a geologist can act on.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python hyperspectral processing pipeline and have direct experience cross-checking spectral mineral identification against laboratory and field geochemistry.
+
+I did not find a specific open role, but I would welcome being considered for future technical or field-applications positions, or a short introductory call. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+## Email Draft (short version to send)
+
+**To:** queries@geospectra.ca
+
+Subject: Interest in future technical/field-applications roles
+
+Hi,
+
+Your LithologIQ core-scanning lab and portable SWIR/XRF instruments are solving the problem I work on daily: turning field spectral and geochemical signal into a mineral call you can actually act on. PhD at UM6P, Morocco, defending mid-July, three years running field spectroscopy plus PRISMA/EnMAP satellite data, checked against lab XRD/XRF the whole way. Didn't see a specific opening, just want to be on your radar.
+
+CV and a longer letter attached.
+
+Abdelhak EL MANSOUR
+elmansour01abdelhak@gmail.com
+
+Remember to attach: Resume (`02_Academic & Work/work/applications/Resume_ELMANSOUR_2026.pdf`).
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Geotek Speculative.md
+
+---
+date: 2026-07-07
+tags:
+created: '2026-07-07'
+---
+
+
+# Speculative Application — Geotek Ltd
+
+> Sent as a general spontaneous inquiry to info@geotek.co.uk, not tied to any specific posting.
+> Note: Geotek does have one live, closely-matching vacancy open right now — "Spectral Geoscientist"
+> (PhD in Geology/Remote Sensing, infrared spectroscopy, ML, £40-48K, Daventry UK or Rockwash Geodata
+> Llandudno UK, closes 27/07/2026, apply via jobs@geotek.co.uk with their mandatory application form).
+> That route was intentionally not used here per Abdelhak's choice to keep this a general inquiry —
+> worth reconsidering before the 27/07 deadline if it stays unfilled.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Geotek Ltd
+Daventry, United Kingdom
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. My work addresses the same core problem your MSCL and SpecCam platforms solve — turning spectral and geochemical signal into a defensible mineralogical assessment — applied at field and satellite scale rather than drill core.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python hyperspectral processing pipeline and have direct experience validating spectral mineral identification against laboratory and field geochemistry.
+
+I would welcome being considered for future opportunities at Geotek, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+## Email Draft
+
+**To:** info@geotek.co.uk
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:info@geotek.co.uk?subject=Spontaneous%20Application%20%E2%80%94%20Hyperspectral%20/%20Remote%20Sensing%20PhD%20%E2%80%94%20Abdelhak%20EL%20MANSOUR&body=Dear%20Hiring%20Team%2C%0A%0AI%20am%20writing%20to%20express%20interest%20in%20future%20opportunities%20at%20Geotek.%20I%20am%20a%20PhD%20researcher%20in%20applied%20geosciences%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20in%20mid-July%202026%2C%20and%20my%20doctoral%20work%20sits%20directly%20in%20Geotek%27s%20core%20business%3A%20turning%20spectral%20and%20geochemical%20signal%20into%20a%20defensible%20mineralogical%20assessment%2C%20the%20same%20problem%20your%20MSCL%20platforms%20and%20SpecCam%20hyperspectral%20IR%20camera%20solve%20for%20drill%20core%2C%20applied%20instead%20at%20field%20and%20satellite%20scale.%0A%0AMy%20thesis%20combines%20hand-held%20VNIR-SWIR%20field%20spectroscopy%2C%20satellite%20hyperspectral%20imagery%20%28PRISMA%2C%20EnMAP%29%2C%20and%20independent%20geochemical%20validation%20%28XRD%2C%20XRF%29%20to%20characterize%20waste%20rock%20mineralogy%20and%20monitor%20reclamation%20at%20a%20phosphate%20mine%2C%20in%20direct%20partnership%20with%20the%20mine%20operator%2C%20OCP%20Group.%20That%20means%20I%20spend%20most%20of%20my%20time%20doing%20exactly%20what%20your%20spectral%20and%20geochemical%20sensor%20stack%20is%20built%20to%20automate%3A%20identifying%20minerals%20from%20reflectance%20spectra%2C%20then%20checking%20the%20result%20against%20laboratory%20and%20field%20geochemistry%20before%20trusting%20it%20operationally.%0A%0AI%20would%20bring%20to%20Geotek%20a%20working%20Python-based%20hyperspectral%20processing%20toolkit%2C%20direct%20experience%20validating%20spectral%20mineral%20identification%20against%20laboratory%20and%20field%20geochemistry%2C%20and%20comfort%20applying%20statistical%20and%20machine%20learning%20methods%20to%20spectral%20classification.%20That%20is%20the%20same%20interpretation%20work%20your%20Research%20and%20Development%20and%20Software%20teams%20do%20for%20clients%20across%20mineral%20exploration%2C%20geotechnical%2C%20and%20academic%20sectors.%0A%0AI%20understand%20there%20may%20not%20be%20an%20open%20role%20matching%20this%20profile%20right%20now%2C%20and%20I%20would%20welcome%20being%20considered%20for%20future%20positions%2C%20or%20an%20introductory%20conversation%20with%20your%20team%20in%20the%20meantime.%0A%0AThank%20you%20for%20your%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20and%20Environmental%20Geosciences%0AUM6P%2C%20GSMI%2C%20Benguerir%2C%20Morocco)
+
+Remember to attach: Resume (`.raw/RESUME ELMANSOUR2026 LATT.pdf`).
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Gleeson GFZ Postdoc.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Cover Letter, Postdoc Inquiry, Gleeson Section, GFZ Potsdam
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Prof. Dr. Sarah A. Gleeson
+Head, Inorganic and Isotope Geochemistry Section
+GFZ Helmholtz Centre Potsdam / Freie Universität Berlin
+Potsdam, Germany
+
+---
+
+Dear Prof. Gleeson,
+
+I am writing to ask whether there might be a postdoctoral fit in your section following the defense of my PhD in mid-July 2026. My thesis at UM6P combines hyperspectral remote sensing with geochemical ground-truthing to characterize mine waste mineralogy, and your work linking hyperspectral core imaging to ore deposit geochemistry is one of the closest matches I have found to what I actually do day to day.
+
+The thesis covers the Benguerir phosphate mine (OCP Group, Morocco) at three scales, moving from hand-held field spectroscopy, to satellite-based lithological mapping with PRISMA, to a satellite-derived reclamation index built on EnMAP. At every scale, the spectral interpretation is checked against independent geochemistry, XRD and XRF, rather than trusted on its own, which is the same discipline that hyperspectral core logging for ore deposits depends on.
+
+What draws me to your section specifically is that geochemistry-first framing: hyperspectral products are only as trustworthy as the ground geochemistry used to calibrate them, and that is exactly the standard your ore deposit and core-imaging work holds itself to. I would bring a complete, field-tested Python pipeline for PRISMA and EnMAP processing, and direct experience running a hyperspectral monitoring program for an industrial mining partner from the ground up.
+
+I would welcome a short conversation about whether this profile is useful to your section, now or later in 2026. I can share my CV and thesis abstract on request.
+
+Thank you for your time.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD (defending mid-July 2026), Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, thesis abstract (1 page)*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[04_Knowledge Base/wiki/concepts/Hyperspectral Imaging|Hyperspectral Imaging]] · [[02_Academic & Work/work/applications/Cover Letter - Asadzadeh GFZ Postdoc|Cover Letter - Asadzadeh GFZ Postdoc]]*
 
 
 
@@ -3833,6 +4627,136 @@ UM6P, GSMI, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - HyVista Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — HyVista Corporation
+
+> No specific job listing found. HyVista is a small (11-50 employee) airborne hyperspectral
+> data service provider (HyMap sensor), serving mineral exploration, environmental monitoring,
+> and precision agriculture globally. No careers page with live listings found — apply via
+> direct contact through hyvista.com or LinkedIn (au.linkedin.com/company/hyvista-corporation).
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+HyVista Corporation
+Castle Hill, New South Wales, Australia
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in future opportunities at HyVista. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and my doctoral work is built around the same application your HyMap data serves: airborne and satellite hyperspectral imagery used for mineral exploration and earth resource mapping.
+
+My thesis develops processing pipelines for satellite hyperspectral data (PRISMA, EnMAP) and hand-held field spectroscopy (VNIR-SWIR) to map mineralogy and monitor land reclamation at an active phosphate mine, in direct partnership with the mine operator, OCP Group. I work through the full chain from raw sensor data to a validated mineral map, including atmospheric correction, spectral library matching, and cross-checking every result against independent geochemistry (XRD, XRF) before trusting it, which is the same standard I understand HyVista's exploration clients hold your delivered products to.
+
+I would bring to HyVista a working Python-based hyperspectral processing toolkit, direct field experience collecting and interpreting spectral data for mineral exploration, and comfort working independently across data types and scales. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand there may not be an open role matching this profile right now, and I would welcome being considered for future positions, or an introductory conversation with your team in the meantime.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Hyperspectral Intelligence Speculative.md
+
+---
+date: 2026-07-08
+tags:
+created: '2026-07-08'
+---
+
+
+# Speculative Application — Hyperspectral Intelligence Inc.
+
+> HII bills itself as the world's largest vendor of hyperspectral-based automated rock
+> identification systems (Hyperspectral Handheld Scanner). Only live posting found is
+> "Product Support Specialist" (Winnipeg, logistics/customer support, not a research fit) —
+> apply via hr@hypspectral-intelligence.com. Sending this as a general speculative note
+> instead, since the company itself is a strong strategic fit even without a matching role.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Hyperspectral Intelligence Inc.
+Winnipeg, Canada
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. Your Hyperspectral Handheld Scanner solves the same problem I have spent three years on — turning reflectance spectra into a mineral call a geologist can trust — just at handheld scale instead of field/satellite scale.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python hyperspectral processing pipeline and have direct experience validating spectral mineral identification against laboratory and field geochemistry.
+
+Nothing on your careers page matches this profile right now, but I would welcome being considered for future technical or applications-side roles, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+## Email Draft (short version to send)
+
+**To:** hr@hypspectral-intelligence.com
+
+Subject: Interest in future technical/applications roles — hyperspectral rock ID
+
+Hi,
+
+I saw your Handheld Scanner and it's the same core problem I've spent three years on: turning reflectance spectra into a mineral call a geologist actually trusts, just at field/satellite scale instead of handheld. PhD at UM6P, Morocco, defending mid-July. I checked your careers page — nothing open matches a research/applications profile right now, but I wanted to be on your radar for whenever something does.
+
+CV and a longer letter attached.
+
+Abdelhak EL MANSOUR
+elmansour01abdelhak@gmail.com
+
+Remember to attach: Resume (`02_Academic & Work/work/applications/Resume_ELMANSOUR_2026.pdf`).
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
 
 
 
@@ -4066,7 +4990,66 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente|Motivation Letter - UTwente]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]] · [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] · [[02_Academic & Work/work/applications/UTwente-2026/Motivation Letter - UTwente|Motivation Letter - UTwente]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Ideon Technologies Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Ideon Technologies
+
+> Confirmed contact: info@ideon.ai (their general contact address, no dedicated careers email
+> found). Note: Ideon's core physics is muon tomography, not hyperspectral remote sensing — this
+> letter is honest about that gap and leans on the shared machine learning / geoscience data
+> integration ground rather than overstating direct method overlap.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Ideon Technologies
+Richmond, British Columbia, Canada
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in data science roles at Ideon Technologies. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026. My background is in hyperspectral remote sensing rather than muon tomography, so I want to be upfront that the physics differs from your core technology, but the underlying problem I have spent three years on, turning a physically complex signal into a 3D subsurface or surface property a geologist can trust, is the same class of problem your inversion and imaging pipeline solves.
+
+My thesis develops Python pipelines for satellite hyperspectral data (PRISMA, EnMAP) and field spectroscopy, applying machine learning classification and validating every output against independent geochemistry (XRD, XRF), in direct partnership with an industrial mining operator, OCP Group. That experience with multi-source data integration, spatial statistics, and rigorous validation against ground truth is the kind of scientific computing background I understand your team combines with muon detector data and geophysical inversion.
+
+I would bring to Ideon a solid applied machine learning and Python background, direct experience with geoscience data validation discipline, and comfort learning a new physical domain quickly, which I have already done moving between field spectroscopy, PRISMA, and EnMAP during my PhD. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand my direct experience is with a different sensing modality, and I would still welcome a conversation about whether my data science and geoscience background could be useful to your team.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
 
 
 
@@ -4133,6 +5116,65 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Kuva Space Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Kuva Space
+
+> No specific req identified; Kuva is well-funded ($41M+ raised) and scaling toward a 100-satellite
+> constellation, actively hiring per their LinkedIn. Check linkedin.com/company/kuva-space for a
+> current listing before sending. Finland-based — genuinely closer to Europe priority than the
+> Australia/Canada targets in this batch.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Kuva Space
+Espoo, Finland
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in remote sensing or geospatial data science roles at Kuva Space. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and I have spent three years building and validating processing pipelines for satellite hyperspectral data of the kind your constellation is designed to deliver at scale.
+
+My doctoral work develops end-to-end Python pipelines for satellite hyperspectral data (PRISMA, EnMAP), including atmospheric correction, spatial-spectral classification, and spectral unmixing, applied to mineral mapping and environmental monitoring at an active phosphate mine, in direct partnership with the mine operator, OCP Group. I validate every satellite-derived product against independent field and geochemical data before trusting it, and I understand that discipline, turning a spectral signal into something a customer can rely on operationally, matters even more as a company moves from a handful of satellites toward a constellation delivering data continuously.
+
+I would bring to Kuva Space a working, field-tested hyperspectral processing toolkit, direct experience validating remote sensing products for real industrial use, and comfort working across environmental monitoring and resource management applications, which I understand are core to your constellation's mission. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I would welcome the opportunity to discuss how my background could contribute to your applications or science team as Kuva Space continues to grow.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
 ## 📄 File: 02_Academic & Work/work/applications/Cover Letter - LIST Luxembourg Forest RS Postdoc.md
 
 ---
@@ -4186,7 +5228,7 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]]*
 
 
 
@@ -4310,6 +5352,251 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Minalyze Speculative.md
+
+---
+date: 2026-07-07
+tags:
+created: '2026-07-07'
+---
+
+
+# Speculative Application — Minalyze AB
+
+> No confirmed open role and no dedicated jobs/careers inbox found — sent to CEO Annelie Lundström
+> directly (annelie.lundstrom@minalyze.com), the only named, confirmed contact found. Minalyze is
+> Geotek's closest direct competitor: XRF core scanning instruments (Minalyzer CS) for mineral
+> exploration, founded 2009 in Gothenburg/Sävedalen, Sweden, with an Australia office. Their public
+> work includes an AI-backed core logging trial with LKAB and Sentian AI (2021) — a genuine ML +
+> core-scanning angle worth naming.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Minalyze AB
+Sävedalen, Sweden
+
+---
+
+Dear Ms. Lundström,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. My work overlaps closely with the problem your Minalyzer CS platform solves: converting continuous, non-destructive core-scanning signal into a mineralogical and geochemical picture a geologist can act on.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python spectral processing pipeline and apply statistical and machine learning methods to geoscience data — the direction of your AI-backed core logging work with LKAB and Sentian.
+
+I would welcome being considered for future opportunities at Minalyze, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+## Email Draft
+
+**To:** annelie.lundstrom@minalyze.com
+
+> [!success] [✉️ Open Draft in Mail Client (Gmail / Outlook)](mailto:annelie.lundstrom@minalyze.com?subject=Spontaneous%20Application%20%E2%80%94%20Hyperspectral%20/%20Remote%20Sensing%20PhD%20%E2%80%94%20Abdelhak%20EL%20MANSOUR&body=Dear%20Ms.%20Lundstr%C3%B6m%2C%0A%0AI%20am%20writing%20to%20express%20interest%20in%20future%20opportunities%20at%20Minalyze.%20I%20am%20a%20PhD%20researcher%20in%20applied%20geosciences%20at%20UM6P%20%28Morocco%29%2C%20defending%20my%20thesis%20in%20mid-July%202026%2C%20and%20my%20doctoral%20work%20overlaps%20closely%20with%20the%20problem%20your%20Minalyzer%20CS%20platform%20solves%3A%20converting%20continuous%2C%20non-destructive%20core-scanning%20signal%20into%20a%20mineralogical%20and%20geochemical%20picture%20a%20geologist%20can%20act%20on.%0A%0AMy%20thesis%20combines%20hand-held%20VNIR-SWIR%20field%20spectroscopy%2C%20satellite%20hyperspectral%20imagery%20%28PRISMA%2C%20EnMAP%29%2C%20and%20independent%20geochemical%20validation%20%28XRD%2C%20XRF%29%20to%20characterize%20waste%20rock%20mineralogy%20and%20monitor%20reclamation%20at%20a%20phosphate%20mine%2C%20in%20direct%20partnership%20with%20the%20mine%20operator%2C%20OCP%20Group.%20Like%20your%20XRF%20core-scanning%20workflow%2C%20my%20work%20depends%20on%20turning%20a%20raw%20spectral%20or%20elemental%20signal%20into%20a%20defensible%20mineral%20assemblage%2C%20then%20checking%20it%20against%20ground%20truth%20before%20an%20operations%20team%20can%20trust%20it.%0A%0AI%20would%20bring%20to%20Minalyze%20a%20working%20Python-based%20spectral%20processing%20toolkit%2C%20direct%20experience%20validating%20spectral%20and%20geochemical%20mineral%20identification%20against%20laboratory%20and%20field%20data%2C%20and%20comfort%20applying%20statistical%20and%20machine%20learning%20methods%20to%20geoscience%20data.%20I%20noted%20your%20AI-backed%20core%20logging%20collaboration%20with%20LKAB%20and%20Sentian%20%E2%80%94%20that%27s%20the%20direction%20my%20own%20work%20is%20already%20headed.%0A%0AI%20understand%20there%20may%20not%20be%20an%20open%20role%20matching%20this%20profile%20right%20now%2C%20and%20I%20would%20welcome%20being%20considered%20for%20future%20positions%2C%20or%20an%20introductory%20conversation%20with%20your%20team%20in%20the%20meantime.%0A%0AThank%20you%20for%20your%20consideration.%0A%0ASincerely%2C%0A%0AAbdelhak%20EL%20MANSOUR%0APhD%20Candidate%2C%20Remote%20Sensing%20and%20Environmental%20Geosciences%0AUM6P%2C%20GSMI%2C%20Benguerir%2C%20Morocco)
+
+Remember to attach: Resume (`.raw/RESUME ELMANSOUR2026 LATT.pdf`).
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Mineral Forecast Speculative.md
+
+---
+date: 2026-07-09
+tags:
+created: '2026-07-09'
+---
+
+
+# Speculative Application — Mineral Forecast
+
+> AI geosciences platform (Geo AI Advisor) helping exploration/mining companies decide where
+> to explore and drill. Careers page explicitly lists "No open positions," but a confirmed
+> general contact exists (contact@mineralforecast.com). Sent as a speculative note, same as
+> Minerva Intelligence / MinersAI.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Mineral Forecast
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. Your Geo AI Advisor platform sits in the same space I work in daily: turning geoscience data into a defensible decision about where to explore or drill.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python hyperspectral processing pipeline and apply statistical and machine learning methods to geoscience data, always checked against ground truth before trusting it operationally.
+
+I saw your careers page lists no open roles right now, but I would welcome being considered for future positions, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+## Email Draft (short version to send)
+
+**To:** contact@mineralforecast.com
+
+Subject: Interest in future roles - geoscience AI / remote sensing
+
+Hi,
+
+Your Geo AI Advisor is solving the problem I work on daily: turning geoscience data into a defensible call on where to explore or drill. PhD at UM6P, Morocco, defending mid-July, three years running field spectroscopy plus PRISMA/EnMAP satellite hyperspectral data on an active phosphate mine, checked against lab XRD/XRF the whole way. Saw your careers page has nothing open right now, just wanted to be on your radar.
+
+CV and a longer letter attached.
+
+Abdelhak EL MANSOUR
+elmansour01abdelhak@gmail.com
+
+Remember to attach: Resume (`02_Academic & Work/work/applications/Resume_ELMANSOUR_2026.pdf`).
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - MinersAI Speculative.md
+
+---
+date: 2026-07-08
+tags:
+created: '2026-07-08'
+---
+
+
+# Speculative Application — MinersAI, Inc.
+
+> Sent as a general spontaneous inquiry to contact@minersai.com. MinersAI builds an AI platform
+> that organizes and analyzes geoscience data for mineral exploration companies, investors, and
+> governments — Techstars/Creative Destruction Lab alumnus, expanding into APAC (Perth office).
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+MinersAI, Inc.
+Lafayette, CO, USA / Brussels, Belgium
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. My work overlaps with MinersAI's core mission: organizing and extracting insight from complex geological data for exploration teams.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python spectral processing pipeline and have direct experience validating data-driven mineral predictions against laboratory and field geochemistry.
+
+I would welcome being considered for future opportunities at MinersAI, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: Resume (`.raw/RESUME ELMANSOUR2026 LATT.pdf`)*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Minerva Intelligence Speculative.md
+
+---
+date: 2026-07-08
+tags:
+created: '2026-07-08'
+---
+
+
+# Speculative Application — Minerva Intelligence Inc.
+
+> Sent as a general spontaneous inquiry to info@minervaintelligence.com. Minerva builds
+> cognitive AI (semantic reasoning + knowledge graphs, not just statistical ML) for mineral
+> exploration through its TERRA Mining AI Suite, plus climate-risk and cross-industry
+> applications. Less spectral-specific than Datarock/Geotek, but a genuine geology+AI overlap.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Minerva Intelligence Inc.
+Vancouver, Canada
+
+---
+
+Dear Hiring Team,
+
+I am a PhD candidate at UM6P (Morocco), defending my thesis in mid-July 2026 on hyperspectral remote sensing for mineral characterization. My work overlaps with what your TERRA Mining AI Suite addresses: turning heterogeneous geological data into structured, trustworthy knowledge a geologist can act on.
+
+I combine VNIR-SWIR field spectroscopy, PRISMA/EnMAP satellite hyperspectral imagery, and independent XRD/XRF geochemical validation to characterize waste rock mineralogy at an active phosphate mine, in partnership with the mine operator, OCP Group. I have built a working Python spectral processing pipeline and have direct experience validating data-driven mineral predictions against laboratory and field geochemistry before trusting them operationally.
+
+I would welcome being considered for future opportunities at Minerva Intelligence, or a brief introductory conversation. Resume attached.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: Resume (`.raw/RESUME ELMANSOUR2026 LATT.pdf`)*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
 ## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Mondillo Naples Postdoc.md
 
 ---
@@ -4372,6 +5659,125 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Orbital Sidekick Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Orbital Sidekick
+
+> No specific req identified in this search. Orbital Sidekick runs a hyperspectral satellite
+> constellation (GHOSt) marketed mainly at pipeline leak detection and mining monitoring —
+> check orbitalsidekick.com/careers directly for a live listing before sending.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Orbital Sidekick
+San Francisco, California, USA
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in remote sensing or geospatial data science roles at Orbital Sidekick. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and my doctoral work sits directly in the mining-monitoring application space your hyperspectral constellation is built to serve.
+
+My thesis develops end-to-end Python pipelines for satellite hyperspectral data (PRISMA, EnMAP), including atmospheric correction, spatial-spectral classification, and a custom index for tracking surface change over time, applied to mineral mapping and reclamation monitoring at an active phosphate mine, in direct partnership with the mine operator, OCP Group. That is the same category of problem, monitoring an industrial site continuously and translating spectral change into an actionable signal, that I understand your mining and infrastructure monitoring customers rely on Orbital Sidekick for.
+
+I would bring to Orbital Sidekick a working, field-tested hyperspectral processing toolkit, direct experience validating remote sensing-derived monitoring products against independent ground data, and comfort working on applied, customer-facing problems rather than purely academic ones. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I would welcome the opportunity to discuss how my background could contribute to your applications or data science team.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - SRK Consulting Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — SRK Consulting, Remote Sensing & Exploration Geophysics
+
+> No open req right now matching remote sensing/geoscience data (checked srk.com/en/career-opportunities,
+> filtered by Geology/Geochemistry/Geotechnical — "no results match search criteria"). SRK's careers page
+> has a "Register your details" option for expressions of interest when nothing is advertised — that is
+> the route below is written for. Also worth watching: their "Data Geoscientist" req type reappears
+> periodically (machine learning applied to mining/geoscience data, $70-120K range when last seen) — check
+> srk.com/en/career-opportunities every few weeks and search LinkedIn for "SRK Consulting remote sensing."
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+SRK Consulting
+Remote Sensing & Exploration Geophysics / Mineral Exploration Service Line
+
+---
+
+Dear Hiring Team,
+
+I am writing to register my interest in future opportunities with SRK's Remote Sensing and Exploration Geophysics group. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and I am looking to move from an academic research setting into a consulting environment where remote sensing and geoscience data are used directly to answer client questions about a real ore body or mine site.
+
+My doctoral work applies multi-scale hyperspectral remote sensing (VNIR-SWIR field spectroscopy, PRISMA satellite imagery, EnMAP satellite imagery) to characterize mine waste rock mineralogy and monitor reclamation progress at an active phosphate mine, carried out in direct partnership with the mine operator, OCP Group. That means I am used to working the way SRK's clients need: producing a spectral or geochemical interpretation that has to hold up to scrutiny from an operations team, not just a peer reviewer. I process imagery end-to-end in Python and have cross-validated every spectral result against independent geochemistry (XRD, XRF), which is the same evidentiary standard exploration target generation and due diligence work is held to.
+
+I would bring to SRK a working, field-tested Python toolkit for multispectral and hyperspectral image processing (ENVI, QGIS, Google Earth Engine), direct experience integrating remote sensing outputs with an active mining operation's needs, and comfort working across the full chain from raw satellite product to a deliverable a client can act on. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand there is no advertised opening matching this profile at the moment, and I would welcome being kept in mind for future roles in this group, or the chance to have an introductory conversation in the meantime.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
 ## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Schodlok BGR Postdoc.md
 
 ---
@@ -4427,6 +5833,64 @@ UM6P, GSMI, Benguerir, Morocco
 ---
 
 *Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/Spectral Analysis|Spectral Analysis]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - SensOre Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — SensOre
+
+> Confirmed contact: info@sensore.com ("all enquiries and feedback" per their own contact
+> page). No dedicated careers page or listed vacancy found — small team (~12 people), so this
+> reads as a direct spontaneous application rather than a response to an advertised role.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+SensOre Ltd
+Melbourne, Australia
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in future data science or geoscience roles at SensOre. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and my work sits directly at the intersection your Data Cube technology is built for: large, multi-source geoscience datasets turned into a discovery signal through machine learning rather than manual interpretation alone.
+
+My thesis combines satellite hyperspectral data (PRISMA, EnMAP), field spectroscopy, and geochemical ground truth (XRD, XRF) to characterize mine waste mineralogy, using spatially cross-validated machine learning classifiers (Random Forest, Extra Trees) to avoid the kind of inflated accuracy that comes from ignoring spatial autocorrelation in geoscience data. That validation discipline, building a model that actually generalizes to new ground rather than one that only looks good on a held-out sample from the same site, is the same problem SensOre's exploration targeting has to solve at a larger scale.
+
+I would bring to SensOre a working Python-based data science toolkit, direct experience integrating remote sensing, geochemistry, and spatial data into a single machine learning pipeline, and comfort communicating results to non-specialist industrial partners, since that was central to making my thesis useful to OCP Group rather than just publishable. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand there may not be an open role matching this profile right now, and I would welcome being considered for future positions, or an introductory conversation with your team in the meantime.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
 
 
 
@@ -4501,6 +5965,65 @@ UM6P, GSMI, Benguerir, Morocco
 
 
 
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Specim Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Specim (Spectral Imaging Ltd)
+
+> No specific vacancy found matching this profile. Specim manufactures hyperspectral cameras
+> and their careers page (specim.com/careers) explicitly invites open applications when no
+> vacancy is listed. Best framed as an applications/geoscience-focused candidate rather than a
+> hardware engineer, since that is the actual overlap with a PhD in applied remote sensing.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Specim, Spectral Imaging Ltd
+Oulu, Finland
+
+---
+
+Dear Hiring Team,
+
+I am writing to submit an open application to Specim. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and I have spent three years as an end user of the kind of hyperspectral instrumentation Specim builds, which gives me a practical, application-side perspective on what makes a sensor useful in the field rather than just on paper.
+
+My doctoral work combines hand-held VNIR-SWIR field spectroscopy with satellite hyperspectral data (PRISMA, EnMAP) to characterize mine waste mineralogy and monitor reclamation at an active phosphate mine, in direct partnership with the mine operator, OCP Group. Every step of that work depends on understanding sensor behavior, band configuration, signal-to-noise tradeoffs, calibration, well enough to trust the mineral or geochemical interpretation that comes out the other end. That is the same technical ground your customers in mining, agriculture, and environmental monitoring stand on when they choose a Specim system.
+
+I would bring to Specim a genuinely applied perspective on hyperspectral data quality and interpretation, direct experience validating spectral results against independent geochemistry, and comfort communicating technical results to both scientists and industrial partners. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I understand there may not be a role matching this profile advertised right now, and I would welcome being considered for an applications scientist, customer support, or research collaboration role in the future.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
 ## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Storch DLR IMF Postdoc.md
 
 ---
@@ -4531,11 +6054,11 @@ Oberpfaffenhofen, Germany
 
 Dear Dr. Storch,
 
-I am writing to inquire about postdoctoral opportunities in the Imaging Spectroscopy Department following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P is, to my knowledge, one of the first studies to apply actual [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]] satellite data, not simulated, to mine waste rock characterisation and [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|reclamation monitoring]] with independent geochemical ground truth validation. I believe this constitutes a relevant applied science contribution to IMF's imaging spectroscopy programme, and I would like to discuss whether there is a fit with your department's current directions.
+I am writing to inquire about postdoctoral opportunities in the Imaging Spectroscopy Department following the defense of my PhD thesis in mid-July 2026. My doctoral work at UM6P is, to my knowledge, one of the first studies to apply actual [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]] satellite data, not simulated, to mine waste rock characterisation and [[04_Knowledge Base/wiki/concepts/Reclamation Monitoring|reclamation monitoring]] with independent geochemical ground truth validation. I believe this constitutes a relevant applied science contribution to IMF's imaging spectroscopy programme, and I would like to discuss whether there is a fit with your department's current directions.
 
-My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, a 36 km² open-pit operation that provided a geometrically complex, mineralogically rich, semi-arid test site for EnMAP performance evaluation. Chapter 3 used 189 valid EnMAP bands (418–2445 nm) for two purposes: first, to discriminate reclaimed (backfilled) waste rock zones from undisturbed reference areas using [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|spatially blocked classification]]; second, to develop a novel [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]], an EnMAP-derived surface transformation metric calibrated against 64 independent [[04_Knowledge Base/wiki/concepts/Handheld XRF|XRF]] geochemical measurements from both zones (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The XRF calibration provides a quantitative geoscience benchmark that goes beyond binary classification, it ties each EnMAP pixel's spectral state to a measurable geochemical quantity, mapping reclamation progress from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones. This type of geochemically-anchored EnMAP validation, carried out at an operational mine site in North Africa, extends the sensor's demonstrated application envelope in directions relevant to the critical minerals and environmental monitoring priorities that currently drive imaging spectroscopy science.
+My thesis was carried out at the Benguerir phosphate mine of OCP Group in Morocco, a 36 km² open-pit operation that provided a geometrically complex, mineralogically rich, semi-arid test site for EnMAP performance evaluation. Chapter 3 used 189 valid EnMAP bands (418–2445 nm) for two purposes: first, to discriminate reclaimed (backfilled) waste rock zones from undisturbed reference areas using [[04_Knowledge Base/wiki/concepts/Spatially Constrained Cross-Validation|spatially blocked classification]]; second, to develop a novel [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index|Reclamation Progress Index (RPI)]], an EnMAP-derived surface transformation metric calibrated against 64 independent [[04_Knowledge Base/wiki/entities/Handheld XRF|XRF]] geochemical measurements from both zones (Spearman ρ = 0.845, p = 1.74 × 10⁻¹²). The XRF calibration provides a quantitative geoscience benchmark that goes beyond binary classification, it ties each EnMAP pixel's spectral state to a measurable geochemical quantity, mapping reclamation progress from approximately 0.20 in undisturbed waste rock to 0.90 in fully reclaimed zones. This type of geochemically-anchored EnMAP validation, carried out at an operational mine site in North Africa, extends the sensor's demonstrated application envelope in directions relevant to the critical minerals and environmental monitoring priorities that currently drive imaging spectroscopy science.
 
-Chapter 2 used [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] (239 bands, 30 m) for lithological mapping of four waste rock classes under spatially constrained machine learning, providing a sensor comparison reference point: EnMAP's higher SNR and improved band configuration produced cleaner SWIR discriminations than PRISMA for the same site conditions, consistent with the sensor specifications your ground segment team designed for. Chapter 1 built the full spectral-geochemical baseline at sample scale using ASD FieldSpec 4 [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|spectroscopy]] and HHXRF/XRD validation, providing the per-mineral ground truth that anchors interpretation at the satellite scale.
+Chapter 2 used [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] (239 bands, 30 m) for lithological mapping of four waste rock classes under spatially constrained machine learning, providing a sensor comparison reference point: EnMAP's higher SNR and improved band configuration produced cleaner SWIR discriminations than PRISMA for the same site conditions, consistent with the sensor specifications your ground segment team designed for. Chapter 1 built the full spectral-geochemical baseline at sample scale using ASD FieldSpec 4 [[04_Knowledge Base/wiki/concepts/VNIR-SWIR Spectroscopy|spectroscopy]] and HHXRF/XRD validation, providing the per-mineral ground truth that anchors interpretation at the satellite scale.
 
 I have published five peer-reviewed papers (first-author on 2, co-author on 3, including a first-author paper in *Sensors*, IF 3.5, and a first-author paper accepted in *Minerals* 2026), a complete Python processing pipeline for EnMAP and PRISMA from raw HDF5 to validated geoscience outputs, and first-hand experience with the practical constraints of EnMAP data in a real applied setting, bad band behaviour, atmospheric correction residuals in semi-arid conditions, and SWIR SNR limits for carbonate and phosphate mineral discrimination. I am familiar with the DLR EOC's imaging spectroscopy science agenda and would be glad to contribute to it.
 
@@ -4564,6 +6087,123 @@ UM6P, GSMI, Benguerir, Morocco
 - [[PRISMA Satellite]]
 - [[Reclamation Progress Index]]
 - [[Thesis Overview]]
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - UN-FAO Consultant Template.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Cover Letter Template — UN / International Org Remote Sensing & GIS Consultant
+
+> No live posting right now (FAO's April 2026 req is closed; jobs.fao.org and unjobs.org
+> currently show nothing matching remote sensing/GIS/mining/mineral). Check both sites
+> every 1-2 weeks — these consultant reqs post on a rolling basis and typically stay open
+> only 2-3 weeks. Also worth checking: unjobs.org/themes/remote-sensing, unjobs.org/themes/geospatial,
+> impactpool.org, UNDP jobs portal. Fill in the bracketed fields below per posting.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+[ORGANIZATION NAME]
+[DIVISION / UNIT]
+[LOCATION]
+
+---
+
+Dear Hiring Team,
+
+I am writing to apply for the [POSITION TITLE] position ([REFERENCE NUMBER], closing [DATE]). I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and I bring three years of hands-on experience building and validating satellite and field-based remote sensing pipelines for an active industrial and environmental monitoring problem, which I believe transfers directly to [ORGANIZATION]'s work on [SPECIFIC PROGRAMME OR PROJECT NAME].
+
+My doctoral research develops hyperspectral remote sensing pipelines (VNIR-SWIR field spectroscopy, PRISMA, EnMAP) to characterize and monitor phosphate mine waste rock reclamation at Benguerir, Morocco, in direct partnership with OCP Group. This work required me to move satellite-derived indicators from a research prototype to something an industrial partner could actually use to track land rehabilitation over time, the same operational bar that [PROGRAMME NAME]-style monitoring work is held to. I process imagery end-to-end in Python, including atmospheric correction, spatial-spectral classification, and machine learning-based mapping, and I have integrated this work with GIS platforms (QGIS) and cloud-based geospatial tools.
+
+I would bring to this role: a working Python/GIS toolkit built for production use rather than a single paper, direct field experience validating remote sensing products against ground data (XRD, XRF, GPS-tagged field surveys), and experience communicating results to a non-specialist industrial partner (OCP Group), which maps onto the kind of cross-team, cross-country communication [ORGANIZATION] consultant roles require. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I would welcome the opportunity to discuss my candidacy further and can provide any additional documentation required.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV (UN-format if required by posting), this cover letter, references on request*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - VITO Image Processing Expert.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Cover Letter — High Resolution Image Processing Expert, VITO
+
+**Deadline: August 15, 2026. Apply via portal:** https://jobs.vito.be/o/high-resolution-image-processing-expert
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+VITO Remote Sensing Unit
+Mol, Antwerp, Belgium
+
+---
+
+Dear Hiring Team,
+
+I am applying for the High Resolution Image Processing Expert position within VITO's Remote Sensing Unit. I am a PhD researcher in applied geosciences at UM6P, defending my thesis in mid-July 2026, and I am looking to move from a research setting into an operational one where remote sensing pipelines are built to run continuously for real users, which is exactly how this role is framed.
+
+My PhD develops hyperspectral and multispectral processing pipelines (VNIR-SWIR field spectroscopy, PRISMA, EnMAP) for mineralogical mapping and reclamation monitoring at an active phosphate mine, built and delivered for an industrial partner rather than as a one-off academic exercise. That means I have spent three years doing exactly what this role asks for: taking noisy, high-resolution satellite and airborne data, building a processing chain in Python, and validating the output against independent ground data until it is something a non-specialist client can trust and use. I have applied the same discipline across UAV-scale, satellite-scale, and field-scale imagery.
+
+I have hands-on experience with the tools the role lists: Python-based remote sensing data science, GIS integration, and machine learning and computer vision methods applied to imagery. I have not worked in agriculture specifically, but the underlying problem, extracting reliable, high-resolution biophysical or mineralogical information from imagery under real-world noise and variability, is the same problem I have solved for mine waste monitoring, and I would bring that transferable pipeline-building experience to your agriculture and UAV product lines.
+
+I hold five peer-reviewed publications from my PhD work, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL. I would welcome the opportunity to discuss how my background fits this role.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter (upload via portal, both PDF/DOC/DOCX/JPEG/PNG accepted, max 50MB)*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
 
 
 
@@ -4690,7 +6330,65 @@ UM6P, GSMI, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/concepts/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Brief]] · [[04_Knowledge Base/wiki/entities/PRISMA Satellite|PRISMA]] · [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/applications/Cover Letter - Wyvern Speculative.md
+
+---
+date: 2026-07-06
+tags:
+created: '2026-07-06'
+---
+
+
+# Speculative Application — Wyvern
+
+> Wyvern is actively hiring (careers.wyvern.space/company/join-us) — check the live board for a
+> specific req before sending this as a cold speculative letter; if a matching data science /
+> geospatial scientist role is open, tailor the second paragraph to reference it directly.
+
+---
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Geology and Sustainable Mining Institute (GSMI)
+Université Mohammed VI Polytechnic (UM6P), Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+Wyvern
+Edmonton, Alberta, Canada
+
+---
+
+Dear Hiring Team,
+
+I am writing to express interest in remote sensing or geospatial data science roles at Wyvern. I am a PhD researcher in applied geosciences at UM6P (Morocco), defending my thesis in mid-July 2026, and I have spent three years building and validating processing pipelines for exactly the kind of commercial hyperspectral satellite data Wyvern is putting into orbit.
+
+My doctoral work develops end-to-end Python pipelines for satellite hyperspectral data (PRISMA, EnMAP), including atmospheric correction, spatial-spectral classification, and spectral unmixing, applied to mineral mapping and land reclamation monitoring at an active phosphate mine, in direct partnership with the mine operator, OCP Group. I validate every satellite-derived product against independent field and geochemical data before trusting it, which is the discipline I understand a company selling hyperspectral imagery as an operational product needs from its science and applications team.
+
+I would bring to Wyvern a working, field-tested hyperspectral processing toolkit, direct experience turning raw satellite data into a validated, client-facing mineral or land-monitoring product, and comfort working independently on applied problems rather than purely academic ones. I hold five peer-reviewed publications, first author on two (including Sensors, MDPI, 2026) and co-author on three others (including Minerals, MDPI, currently under review), and I have presented at EGU and EARSeL.
+
+I would welcome the opportunity to discuss how my background could contribute to Wyvern's applications or data science team, now or as your team continues to grow.
+
+Thank you for your consideration.
+
+Sincerely,
+
+**Abdelhak EL MANSOUR**
+PhD Candidate, Remote Sensing and Environmental Geosciences
+UM6P, GSMI, Benguerir, Morocco
+
+---
+
+*Attachments to include: CV, this cover letter*
+
+---
+
+*Related: [[02_Academic & Work/work/active/Job Board — Live Tracker|Job Board — Live Tracker]]*
 
 
 
@@ -5155,6 +6853,101 @@ Here are the ready-to-use spontaneous inquiry drafts for **Egis in Qatar**.
 
 
 
+## 📄 File: 02_Academic & Work/work/applications/Gmail Drafts Batch - 2026-07-12.md
+
+---
+date: 2026-07-12
+tags:
+summary: Three emails (resume attached) from the first job-scout scan — van der Tol UTwente FLEX, EUSI Munich, NASA NPP eligibility inquiry. All sent 2026-07-12.
+---
+
+
+# Gmail Drafts Batch — 2026-07-12
+
+Source: [[04_Knowledge Base/AI-Generated/Job Scout Report 2026-07-12|Job Scout Report 2026-07-12]]
+Machine-readable copy: `04_Knowledge Base/AI-Generated/drafts-2026-07-12.json`
+Upload script: `01_System/scripts/create_gmail_drafts_v2.py` (attaches `Resume_ELMANSOUR_2026.pdf`)
+
+> [!success] Status: ALL 3 SENT on 2026-07-12 (confirmed by Abdelhak). Contacts logged in the [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Outreach Dashboard]].
+
+Duplicate check done: none of these three contacts appears in the Outreach Dashboard or Job Pipeline. (van der Tol is a different ITC PI from Hecker/Khodadadzadeh.)
+
+---
+
+## 1. Dr. Christiaan van der Tol — UTwente ITC, FLEX Postdoc (score 67, deadline 2026-08-10)
+**To:** c.vandertol@utwente.nl
+**Subject:** Application interest — FLEX Postdoc position (deadline 10 August) — Abdelhak El Mansour
+
+Dear Dr. van der Tol,
+
+I saw the FLEX postdoc opening in your group and I would like to apply. Before submitting through the portal, I wanted to introduce myself briefly.
+
+I am finishing my PhD at Mohammed VI Polytechnic University in Morocco (defense mid-July 2026), supervised by Pr. Ahmed Laamrani. My work is in imaging spectroscopy: I spent the last four years combining field spectroscopy campaigns with PRISMA and EnMAP satellite data to characterize mine waste surfaces, building the full processing chain in Python myself, from atmospheric correction and band selection through unmixing and machine learning classification, validated against independent lab and field measurements.
+
+My background is on the mineral side of imaging spectroscopy rather than vegetation fluorescence, but the core of the work, extracting a weak, physically meaningful signal from hyperspectral data and defending it with ground truth, is the same problem FLEX faces. I would be glad to make that case in a short call if useful.
+
+My CV is attached. Thank you for your time.
+
+Best regards,
+
+Abdelhak El Mansour
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+## 2. EUSI Munich — Junior EO Specialist (score 55, rolling)
+**To:** jobs@euspaceimaging.com
+**Subject:** Application — Junior Earth Observation Specialist — Abdelhak El Mansour
+
+Dear EUSI team,
+
+I would like to apply for the Junior Earth Observation Specialist position in Munich.
+
+I am completing my PhD in remote sensing at Mohammed VI Polytechnic University in Morocco (defense mid-July 2026). My daily work over the last four years has been hands-on satellite image processing: ordering, correcting, and analyzing hyperspectral data from PRISMA and EnMAP, and turning it into products a mine operator could actually use for environmental monitoring. Everything ran through Python pipelines I built and maintained myself, and the results were checked against field and laboratory measurements before anyone relied on them.
+
+That combination, careful image quality work, scripting, and delivering to a real operational client, is what drew me to this role at EUSI. I work in English and French, and I am ready to relocate to Munich.
+
+My CV is attached. I would welcome the chance to talk.
+
+Kind regards,
+
+Abdelhak El Mansour
+elmansour01abdelhak@gmail.com
+
+---
+
+## 3. NASA NPP Program Office — eligibility inquiry (APPLY 72, deadline 2026-11-01)
+**To:** npp@orau.org
+**Subject:** Eligibility question — NASA Postdoctoral Program (non-US citizen, imaging spectroscopy)
+
+Dear NPP Program Office,
+
+I am considering applying to the NASA Postdoctoral Program for the November 1, 2026 cycle, in imaging spectroscopy (SBG-related research), and I have an eligibility question before I approach a potential advisor.
+
+I am a Moroccan citizen, currently completing my PhD in hyperspectral remote sensing at Mohammed VI Polytechnic University in Morocco (defense mid-July 2026). Could you confirm whether Moroccan citizens are eligible for NPP fellowships under J-1 sponsorship, and whether any research areas or centers are restricted for my nationality?
+
+I have attached my CV for context. Thank you for your help.
+
+Sincerely,
+
+Abdelhak El Mansour
+PhD Candidate, Remote Sensing & Geosciences
+UM6P, Benguerir, Morocco
+elmansour01abdelhak@gmail.com
+
+---
+
+## Not emailed (and why)
+- **UM6P ARC_AIR postdoc (75 — top APPLY):** portal-only via Academic Positions. Action: apply through portal + raise with Laamrani directly (same conversation as the still-unsent OCP email).
+- **U. Turku Geospatial AI (64):** portal only, deadline 2026-08-05.
+- **U. Illinois ABoVE (62):** staleness/visa unverified — verify before any effort.
+- **Kuva Space:** tracker suggests possibly emailed 2026-06-07 — do NOT contact until verified.
+
+
+
+
 ## 📄 File: 02_Academic & Work/work/applications/Recommendation Letter — Hyperspectral Autumn School 2026.md
 
 ---
@@ -5202,269 +6995,6 @@ Yours sincerely,
 Associate Professor, CRSA — UM6P  
 PhD Supervisor of Dr. Abdelhak EL MANSOUR  
 [Email]
-
-
-
-
-## 📄 File: 02_Academic & Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md
-
-# Curriculum Vitae
-## ABDELHAK EL MANSOUR
-*PhD Candidate — Remote Sensing & Environmental Geosciences*  
-
-**Email**: elmansour01abdelhak@gmail.com  
-**Tel (Morocco)**: +212 117 164 00 | **Tel (Spain)**: +34 722 322 390  
-**Address**: Lot Ain El Atti II, N° 456, Errachidia, Morocco  
-**Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=ysUOZQ0AAAAJ)  
-
----
-
-### EDUCATION
-*   **PhD in Applied Geosciences** (July 2021 – Present)  
-    *Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Morocco*  
-    *Thesis*: Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks, Benguerir Mine.
-*   **Research Mobility Program** (March 2024 – August 2024)  
-    *University of Valencia, Spain (Pr. Jochem Verrelst's group)*  
-    *Focus*: PRISMA satellite image classification, atmospheric correction, and Copernicus Earth Observation datasets for mining waste characterization.
-*   **MSc in Applied Geosciences to Mineral and Energetic Resources** (2017)  
-    *Cadi Ayyad University, Marrakech, Morocco*
-*   **BSc in Applied Geosciences** (2015)  
-    *Moulay Ismail University, Errachidia, Morocco*
-
----
-
-### PROFESSIONAL & RESEARCH EXPERIENCE
-*   **PhD Researcher** | *UM6P, Morocco* (July 2021 – Present)  
-    *   Designed and built end-to-end Python processing pipelines for raw Level-1B EnMAP and PRISMA hyperspectral satellite data.
-    *   Developed the **Reclamation Progress Index (RPI)** to monitor mine rehabilitation progress.
-    *   Conducted 4 geological field campaigns logging spectral measurements (ASD FieldSpec 4) and geochemical samples.
-    *   Validated spaceborne mineral classification maps using 104 sample reflectances and 127 landscape ground-truth locations (XRD/HHXRF).
-*   **Junior Geologist** | *Baraka Mining Company, Morocco* (February 2019 – August 2019)  
-    *   Conducted geological exploration across the Occidental Meseta, High Atlas, and Anti-Atlas.
-    *   Performed mapping, sampling, and terrain analysis.
-*   **Master's Thesis Intern** | *MANAGEM, Morocco* (February 2017 – April 2017)  
-    *   Structural, petrographic, and metallogenic study of the Jbel N'Zourk copper mineralization.
-
----
-
-### PEER-REVIEWED PUBLICATIONS
-1.  **EL MANSOUR A**, Laamrani A, et al. *Integrating VNIR–SWIR Spectroscopy and Handheld XRF for Enhanced Mineralogical Characterization of Phosphate Mine Waste Rocks in Benguerir, Morocco: Implications for Sustainable Mine Reclamation*. **Sensors** 2025, 26(1), 0002. DOI: 10.3390/s26010002.
-2.  **EL MANSOUR A**, Laamrani A, et al. *Spatially Constrained Machine Learning for PRISMA-Based Lithological Mapping of Phosphate Mine Waste Rocks*. **Minerals** 2026, 16(6), 0619. DOI: 10.3390/min16060619.
-3.  Zine H, Hakkou R, Papazoglou EG, **EL MANSOUR A**, et al. *Revegetation and Ecosystem Reclamation of Post-Mined Land: Toward Sustainable Mining*. **International Journal of Environmental Science & Technology** 2024. DOI: 10.1007/s13762-024-05697-3.
-4.  Zine H, **EL MANSOUR A**, Hakkou R, et al. *Advancements in Mine Closure and Ecological Reclamation: A Comprehensive Bibliometric Overview (1980–2023)*. **Mining** 2023, 3, 798–813. DOI: 10.3390/mining3040044.
-5.  Zine H, **EL MANSOUR A**, et al. *Native Plant Diversity for Ecological Reclamation in Moroccan Open-Pit Phosphate Mines*. **Biodiversity Data Journal** 2023, 11, e104592. DOI: 10.3897/BDJ.11.e104592.
-
----
-
-### CONFERENCES
-*   **EGU General Assembly 2025** (Vienna, Austria) | *A Cutting-Edge Framework for Sustainable Phosphate Waste Characterization Using Hyperspectral Imaging and Machine Learning.*
-*   **13th EARSeL Workshop on Imaging Spectroscopy** (Valencia, Spain | 2024) | *The Characterization of Phosphate Waste Rock Piles Using PRISMA Hyperspectral Images.*
-
----
-
-### STUDENT SUPERVISION
-*   **Co-supervision of Master's Student** (Cadi Ayyad University, 6 months | 2024): *Application of Hyperspectral Remote Sensing, Spectroradiometry, and Machine Learning to the Characterization of Phosphate Mining Waste.*
-*   **Co-supervision of Engineering Student** (Mines School of Rabat, 6 months | 2022): *Characterization and Valorization of Phosphate Mine Waste Rock Piles.*
-
----
-
-### TECHNICAL SKILLS
-*   **Remote Sensing**: Hyperspectral imaging (VNIR–SWIR), multispectral data (Landsat, Sentinel), Google Earth Engine, ASD FieldSpec 4 spectroradiometer.
-*   **Software & Coding**: Python (scikit-learn, GDAL, rasterio, numpy, spectral, h5py), ENVI, ArcGIS, QGIS, Global Mapper, Git.
-*   **Geoscience**: Geological mapping, structural analysis, XRD and XRF data validation, soil mineralogy.
-*   **Languages**: Tamazight (Native) | Arabic (Fluent) | French (Fluent) | English (Advanced) | Spanish (Basic)
-
----
-
-### EXPLICIT CONSENT DECLARATION
-I, **Abdelhak EL MANSOUR**, hereby give my explicit and unconditional consent to the organizers of the Hyperspectral Autumn School 2026 (EXPERT Project) to process, store, and treat my personal data provided in this application package, including my curriculum vitae, contact information, and academic certificates, solely for the purposes of the school organization, selection process, and administrative arrangements.
-
-Signed:  
-**Abdelhak EL MANSOUR**  
-Date: June 24, 2026
-
-
-
-
-## 📄 File: 02_Academic & Work/work/applications/Autumn-School-2026/EXPERT_Autumn_School_2026_Application.md
-
----
-tags:
-created: '2026-06-24'
----
-
-
-# EXPERT Project Hyperspectral Autumn School 2026
-
-This note tracks the application status and checklist for the **Hyperspectral Autumn School 2026** (held in Sinaia, Romania on 12-16 October 2026), hosted under the Horizon Europe EXPERT Project.
-
-**Deadline for submission**: 15 June 2026 (Note: Current local date is 24 June 2026; if you are submitting late, please contact the coordinator Mrs. Iulia Dana Negula).  
-**Send email to**: Mrs. Iulia Dana Negula ([iulia.dana@rosa.ro](mailto:iulia.dana@rosa.ro))
-
----
-
-## 📂 Application Package Directory
-All prepared files are stored in the application directory:
-👉 [Autumn-School-2026 Folder](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026)
-
----
-
-## 📋 Documents Checklist & Status
-
-| Document / Requirement | Format Prepared | Source/File Link | Status |
-| :--- | :--- | :--- | :--- |
-| **1. Identity of the Applicant** | Markdown & PDF/Word | [Identity_of_Applicant.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md) | ✅ Ready (details verified) |
-| **2. Presentation of Interest** (1-page max) | Word & Markdown | [Motivation_Letter.docx](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Motivation_Letter.docx) / [Motivation_Letter.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Motivation_Letter.md) | ✅ Generated & Tailored |
-| **3. Curriculum Vitae with Photo** | Word & Markdown | [CV_Abdelhak_El_Mansour.docx](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.docx) / [CV_Abdelhak_El_Mansour.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/CV_Abdelhak_El_Mansour.md) | ✅ Generated with Photo Box |
-| **4. Passport-size Photo (for CV)** | JPEG image | [Abdelhak_Photo.jpg](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Abdelhak_Photo.jpg) | ✅ Copied from D-Drive |
-| **5. Explicit Consent Declaration** | Text inside CV | Included at the end of the CV document | ✅ Integrated & Signed |
-| **6. Evidence of PhD Student Status** | PDF Scan | [Official_PhD_Status_Contract.pdf](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Official_PhD_Status_Contract.pdf) | ✅ Fellowship Contract Copied |
-| **7. Letter of Recommendation** | Word & Markdown | [Recommendation_Letter.docx](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Recommendation_Letter.docx) / [Recommendation_Letter.md](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026/Recommendation_Letter.md) | ✅ Generated for supervisor signature |
-
----
-
-## 📧 Proposed Email Draft to ROSA
-
-**To**: [iulia.dana@rosa.ro](mailto:iulia.dana@rosa.ro)  
-**Subject**: Application: Hyperspectral Autumn School 2026 - Abdelhak EL MANSOUR  
-
-```text
-Dear Mrs. Iulia Dana Negula,
-
-I hope this email finds you well.
-
-I am writing to formally submit my application to participate in the upcoming Hyperspectral Autumn School 2026 (EXPERT Project), which will take place in Sinaia, Romania on 12-16 October 2026. 
-
-I am currently a PhD candidate in Applied Geosciences at the Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Morocco. My doctoral research focuses on upscaling geological mapping and mine reclamation monitoring using spaceborne hyperspectral data (specifically PRISMA and EnMAP constellations), calibrated against field spectroradiometry (ASD FieldSpec 4) and geochemical ground truth (XRF/XRD). 
-
-I believe that the school's focus on spectral unmixing, co-registration, and in situ spectroscopy represents a direct match for my research expertise and my doctoral directions.
-
-Please find attached my application package, which includes:
-1. Identity of the Applicant and Presentation of Interest (Motivation Letter)
-2. Curriculum Vitae (with photo and explicit consent declaration included)
-3. Official document proving my PhD student status (GSMI-UM6P Fellowship Contract)
-4. A letter of recommendation signed by my PhD supervisor, Pr. Ahmed Laamrani
-
-Thank you for your time and for considering my candidacy. I remain at your disposal should you require any additional information or documentation.
-
-Sincerely,
-
-Abdelhak EL MANSOUR
-PhD Candidate, Remote Sensing and Geosciences
-Geology and Sustainable Mining Institute (GSMI)
-Mohammed VI Polytechnic University (UM6P), Morocco
-Email: elmansour01abdelhak@gmail.com
-Phone (Morocco): +212 117 164 00
-Phone (Spain): +34 722 322 390
-Google Scholar: https://scholar.google.com/citations?user=ysUOZQ0AAAAJ
-```
-
----
-
-## 💡 Submission Log
-- [x] **Review documents** in [Autumn-School-2026 Folder](file:///C:/Users/Dell/Downloads/abdelhak-real-vault/abdelhak-vault/02_Academic%20&%20Work/work/applications/Autumn-School-2026) ✅
-- [x] **Obtain Supervisor's Signature**: Pr. Ahmed Laamrani signed the recommendation letter on 2026-06-25 ✅
-- [x] **Export as PDF**: CV, Motivation Letter, and signed Recommendation Letter exported to PDF ✅
-- [x] **Email sent**: Application package sent to Mrs. Iulia Dana Negula ([iulia.dana@rosa.ro](mailto:iulia.dana@rosa.ro)) on 2026-06-25 ✅
-
-
-
-
-## 📄 File: 02_Academic & Work/work/applications/Autumn-School-2026/Identity_of_Applicant.md
-
-# Identity of the Applicant
-
-*   **Full Name**: Abdelhak EL MANSOUR
-*   **Gender**: Male
-*   **Date of Birth**: September 10, 1994 (10/09/1994)
-*   **Age**: 31 (as of June 2026)
-*   **Affiliation**: Geology and Sustainable Mining Institute (GSMI), Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco
-*   **Country of Origin**: Morocco
-*   **Nationality**: Moroccan
-*   **Email**: elmansour01abdelhak@gmail.com
-*   **Phone (Morocco)**: +212 117 164 00
-
-
-
-
-## 📄 File: 02_Academic & Work/work/applications/Autumn-School-2026/Motivation_Letter.md
-
-# Motivation Letter
-**Application for the Hyperspectral Autumn School 2026 (EXPERT Project)**
-
-**Applicant**: Abdelhak EL MANSOUR  
-**Affiliation**: GSMI, Mohammed VI Polytechnic University (UM6P), Morocco  
-**Date**: June 24, 2026  
-
-Dear Selection Committee,
-
-I am writing to express my strong interest in participating in the **Hyperspectral Autumn School 2026** in Sinaia, Romania. As a PhD candidate in Applied Geosciences at Mohammed VI Polytechnic University (UM6P), my doctoral research sits precisely at the intersection of satellite hyperspectral remote sensing, machine learning workflows, and field geochemical validation. 
-
-Attending this intensive training program represents a crucial opportunity to align my practical experience with the expertise of the scientists operating the PRISMA and EnMAP constellations.
-
-### Why I am interested in attending the Autumn School
-My doctoral work focuses on upscaling point-scale mineralogical findings to landscape scales using spaceborne hyperspectral sensors. The EXPERT project’s mission of advancing excellence in hyperspectral remote sensing through coordination between ROSA, ASI, and DLR directly aligns with my scientific ambitions. 
-
-Having spent my PhD working with EnMAP (DLR) and PRISMA (ASI) datasets, I am eager to interact with the core research teams who built and operate these instruments (such as Dr. Daniele Cerra and Dr. Deodato Tapete). This school offers a premium platform to exchange methodological insights, establish international collaborations, and contribute my user-side pipeline experience to the Earth Observation community.
-
-### Relation of the Autumn School to my domain of study and expertise
-My PhD thesis is titled *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks in Benguerir Mine, Morocco."* In this work, I designed and implemented an end-to-end Python processing pipeline that ingests raw Level-1B hyperspectral acquisitions and outputs a novel, geochemically validated **Reclamation Progress Index (RPI)**. 
-
-My work involves preprocessing (bad-band detection, atmospheric correction, co-registration), spectral endmember extraction (Vertex Component Analysis - VCA), and fully constrained linear unmixing (FCLS) to map dolomite, calcite, illite, kaolinite, and apatite fractions across active mining zones. I validated these satellite classifications against a field database of 104 sample reflectances (ASD FieldSpec 4) and 127 landscape-scale geochemical ground-truth validation locations (HHXRF/XRD). 
-
-The training modules offered at the Autumn School are a direct match to my research pipeline:
-*   **Dimensionality Reduction and Spectral Unmixing (Day 2)**: Directly relates to my implementation of VCA-FCLS and handling sub-pixel mineralogical mixtures.
-*   **Co-registration and Spectral Analysis (Day 3)**: Aligns with my work fusing VNIR and SWIR bands and correcting spatial mismatches in PRISMA cubes.
-*   **In situ Spectroscopic Measurements & Validation (Day 4)**: Complements my field campaigns linking proximal ASD spectroscopy to satellite pixels.
-
-### Topics of greatest interest in the curriculum
-I am particularly interested in the **Dimensionality Reduction and Spectral Unmixing** session. Since mine waste dumps are highly heterogeneous, sub-pixel mixing is a physical constraint that limits classification accuracy. Discussing state-of-the-art endmember extraction optimization with DLR and ASI specialists will be invaluable. 
-
-I am also highly motivated by the **In situ Spectroscopic Measurements & Validation** module, as I wish to share and refine protocols for calibrating reflectance data against geochemical assays (like XRF and XRD) under challenging open-pit mine conditions. Lastly, I look forward to the **Team Competition (Day 5)**, which will allow me to collaborate with international peers on resolving real-world hyperspectral challenges.
-
-Thank you for considering my application. I am confident that my technical background in EnMAP/PRISMA processing and my passion for geoscience remote sensing will make me an active and contributing participant in the school.
-
-Sincerely,  
-
-**Abdelhak EL MANSOUR**  
-PhD Candidate, UM6P, Morocco  
-elmansour01abdelhak@gmail.com | +212 117 164 00
-
-
-
-
-## 📄 File: 02_Academic & Work/work/applications/Autumn-School-2026/Recommendation_Letter.md
-
-# Letter of Recommendation
-**To: Selection Committee, Hyperspectral Autumn School 2026**
-
-**From**: Pr. Ahmed LAAMRANI  
-**Title**: Professor of Remote Sensing & Applied Geosciences  
-**Affiliation**: GSMI, Mohammed VI Polytechnic University (UM6P), Morocco  
-**Email**: ahmed.laamrani@um6p.ma  
-**Date**: June 24, 2026  
-
-Dear Selection Committee Members,
-
-It is my pleasure to write this letter of recommendation in support of **Mr. Abdelhak EL MANSOUR**, who is applying to attend the **Hyperspectral Autumn School 2026** within the framework of the Horizon Europe EXPERT Project. Abdelhak is currently carrying out his doctoral research under my direct supervision at the Geology and Sustainable Mining Institute (GSMI), UM6P. I can state without hesitation that he is one of the most technically capable and scientifically driven PhD students I have supervised.
-
-Abdelhak's thesis, *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks,"* addresses a highly challenging industrial problem: monitoring open-pit mine reclamation progress across OCP Group’s vast active footprints. To solve this, Abdelhak designed, built, and validated a complete Python processing pipeline for PRISMA (ASI) and EnMAP (DLR) spaceborne hyperspectral data. His pipeline successfully integrates Vertex Component Analysis (VCA) and Fully Constrained Linear Unmixing (FCLS) to map sub-pixel carbonate, clay, and phosphate mineral fractions. 
-
-What distinguishes Abdelhak is his rigorous approach to validation. He conducted multiple demanding field campaigns, collecting 104 spectral signatures (using the ASD FieldSpec 4 spectroradiometer) and executing XRF and XRD laboratory validations on 127 landscape-scale geochemical samples. His work culminated in the development of a novel **Reclamation Progress Index (RPI)**, which correlates spaceborne unmixed fractions to physical geochemical parameters with a remarkable Spearman correlation coefficient of **0.845 (p-value = 1.74 × 10⁻¹²)**. His results have been published in top-tier journals, including *Sensors* (2025) and *Minerals* (2026).
-
-Beyond his technical capabilities, Abdelhak is a mature researcher who has actively mentored junior engineering and Master's students, demonstrating excellent leadership and communication skills. His experience is also internationally rounded, having completed a highly successful six-month research mobility at the University of Valencia within Pr. Jochem Verrelst's team, where he developed PRISMA mining waste classification models.
-
-The curriculum of the Autumn School—specifically the sessions on **Spectral Unmixing, Co-registration, and In situ Spectroscopy & Validation**—mirrors Abdelhak’s expertise perfectly. This training will allow him to refine his skills, share his custom Python workflow insights with specialists from DLR and ASI, and form collaborative networks that are crucial for upscaling his mine monitoring framework. 
-
-I strongly recommend Mr. Abdelhak EL MANSOUR for the Hyperspectral Autumn School 2026. He will be an exemplary and highly active participant. Should you require any further information, please do not hesitate to contact me.
-
-Sincerely,  
-
-**Pr. Ahmed LAAMRANI**  
-Professor of Remote Sensing & Applied Geosciences  
-Geology and Sustainable Mining Institute (GSMI)  
-Mohammed VI Polytechnic University (UM6P), Morocco  
-Email: ahmed.laamrani@um6p.ma
 
 
 
@@ -5713,6 +7243,50 @@ UM6P, Benguerir, Morocco
 
 ---
 
-*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/concepts/EnMAP Satellite|EnMAP]]*
+*Related: [[02_Academic & Work/work/active/Postdoc Outreach Dashboard|Postdoc Outreach Dashboard]] · [[02_Academic & Work/perf/Review Brief - Postdoc Applications 2026|Research Performance Brief]] · [[04_Knowledge Base/wiki/entities/EnMAP Satellite|EnMAP]]*
+
+
+
+
+## 📄 File: 02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md
+
+---
+tags: [postdoc/lead, contact/researcher]
+date: 2026-06-17
+---
+
+
+# Roberto Salzano — CNR-IIA Florence
+
+**Corresponding author** of the closest external parallel to your thesis work.
+
+## Contact
+- **Institution:** Institute of Atmospheric Pollution Research, National Research Council (CNR-IIA)
+- **Address:** Via Madonna del Piano 10, 50019 Florence, Italy
+- **Role:** Corresponding author (marked *)
+- **Email:** Find via CNR-IIA directory or ResearchGate
+
+## Why Contact
+Their 2025 paper in *Remote Sensing* — "Hyperspectral Investigation of an Abandoned Waste Mining Site: The Case of Sidi Bou Azzouz (Morocco)" (DOI: [10.3390/rs17111838](https://doi.org/10.3390/rs17111838)) — uses **PRISMA + SAM/LSU on a Moroccan mine waste site**. No CNN, no deep learning. You have the ML layer they're missing.
+
+**Pitch angle:** You did the same thing (PRISMA, Moroccan mine waste, field spectroscopy, XRF) but with SCSE-CNN and a 103-sample labeled dataset. You're the natural next step in their research line.
+
+## Team
+| Name | Affiliation |
+|------|------------|
+| Roberto Salzano | CNR-IIA, Florence ← **correspond with him** |
+| Daniela Guglietta | CNR-IGAG, Rome |
+| Aida M. Conte | CNR-IGAG, Rome |
+| Matteo Paciucci | CNR-IGAG, Rome |
+| Rosalda Punturo | CNR-IGAG, Rome + Università di Catania |
+| Rosamaria Salvatori | CNR-ISP, Rome |
+| Giorgio S. Senesi | CNR-IC, Bari |
+| **Amina Wafik** | **Cadi Ayyad University, Marrakech** ← Moroccan bridge |
+
+## Notes
+- CNR already has a Morocco collaborator (Wafik, Cadi Ayyad). They're clearly active in North Africa.
+- The paper targets CRMs in abandoned mines — different mineral system than phosphate, but same PRISMA + field workflow.
+- Possible angle: propose a joint PRISMA study extending their methodology with ML, or a multi-site Morocco comparison including Benguerir.
+- Check open postdoc calls at bandi.cnr.it.
 
 
