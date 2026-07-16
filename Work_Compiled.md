@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-07-15
+date: 2026-07-16
 tags: [knowledge, compiled, notebooklm, work]
 summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 ---
@@ -8,13 +8,13 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Work
 
 > **Theme Summary**: Job applications, postdoc search tracking, and professional projects.
-> **Total Files Compiled**: 83 | **Total Word Count**: ~53014 words
+> **Total Files Compiled**: 83 | **Total Word Count**: ~53011 words
 
 ## 📂 Table of Contents
 
 - [Dashboard.md](#-file-dashboard-md) (~843 words)
 - [02_Academic & Work/work/Flashcards — Career.md](#-file-02_academic-&-work-work-flashcards-—-career-md) (~760 words)
-- [02_Academic & Work/work/Index.md](#-file-02_academic-&-work-work-index-md) (~261 words)
+- [02_Academic & Work/work/Index.md](#-file-02_academic-&-work-work-index-md) (~228 words)
 - [02_Academic & Work/work/Tools Setup.md](#-file-02_academic-&-work-work-tools-setup-md) (~754 words)
 - [02_Academic & Work/work/postdoc-contacts/Roberto Salzano (CNR Florence).md](#-file-02_academic-&-work-work-postdoc-contacts-roberto-salzano-(cnr-florence)-md) (~286 words)
 - [02_Academic & Work/work/meetings/README.md](#-file-02_academic-&-work-work-meetings-readme-md) (~146 words)
@@ -28,7 +28,7 @@ summary: "Optimized compilation of Work notes for NotebookLM ingestion."
 - [02_Academic & Work/work/active/Hot Opportunities — May 2026.md](#-file-02_academic-&-work-work-active-hot-opportunities-—-may-2026-md) (~1775 words)
 - [02_Academic & Work/work/active/ISP-UV-Gustau-Email.md](#-file-02_academic-&-work-work-active-isp-uv-gustau-email-md) (~247 words)
 - [02_Academic & Work/work/active/ISP-UV-Jochem-Teams-Message.md](#-file-02_academic-&-work-work-active-isp-uv-jochem-teams-message-md) (~140 words)
-- [02_Academic & Work/work/active/Job Board — Live Tracker.md](#-file-02_academic-&-work-work-active-job-board-—-live-tracker-md) (~2775 words)
+- [02_Academic & Work/work/active/Job Board — Live Tracker.md](#-file-02_academic-&-work-work-active-job-board-—-live-tracker-md) (~2805 words)
 - [02_Academic & Work/work/active/Job Pipeline.md](#-file-02_academic-&-work-work-active-job-pipeline-md) (~481 words)
 - [02_Academic & Work/work/active/Postdoc Applications.md](#-file-02_academic-&-work-work-active-postdoc-applications-md) (~683 words)
 - [02_Academic & Work/work/active/Postdoc Outreach Dashboard.md](#-file-02_academic-&-work-work-active-postdoc-outreach-dashboard-md) (~5592 words)
@@ -521,16 +521,10 @@ created: '2026-06-08'
 
 # Work Index
 
-## 🔴 URGENT
-| Project | Deadline | Link |
-|---------|----------|------|
-| Thesis Defense | ~June 2026 | [[02_Academic & Work/thesis/defense-prep/36-Day Sprint]] |
-| **Defense Slides** | **This week** (Laamrani, 2026-05-27) | [[02_Academic & Work/work/1-1/Laamrani-2026-05-27]] |
-
 ## Active Projects
 | Project | Status | Link |
 |---------|--------|------|
-| PhD Thesis | 🔴 Defense prep | [[02_Academic & Work/thesis/Thesis Overview]] |
+| PhD Thesis | 🟡 Defense postponed, new date TBD | [[02_Academic & Work/thesis/Thesis Overview]] |
 | 90-Day Plan Post-Defense | 🟡 Planning | [[02_Academic & Work/work/active/90-Day Plan Post-Defense]] |
 | Postdoc Applications | 🟡 Post-defense | [[02_Academic & Work/work/active/Postdoc Applications]] · [[02_Academic & Work/work/active/Postdoc Outreach Dashboard\|Outreach Dashboard]] |
 | Industry Opportunities | 🟡 Spontaneous targets | [[02_Academic & Work/work/active/Fitted Opportunities & Targets\|Opportunities Dashboard]] |
@@ -2083,7 +2077,7 @@ created: '2026-06-08'
 | Email Dr. Anna Sorrentino — peer inquiry | Univ. Naples Federico II — PRISMA satellite mining geology | anna.sorrentino@unina.it | peer 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Sorrentino Naples Inquiry]] |
 | Email Dr. Chris Hecker — postdoc inquiry | ITC Twente — TIR hyperspectral mineralogy, EMIT, GreenMiner | c.a.hecker@utwente.nl | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Hecker ITC Postdoc]] |
 | Email Dr. Martin Schodlok — inquiry | BGR Hannover — mine tailings hyperspectral monitoring | martin.schodlok@bgr.de | 7.5/10 🆕 | ✍️ Letter drafted — [[02_Academic & Work/work/applications/Cover Letter — Schodlok BGR Postdoc]] |
-| OCP Group — RPI consulting via Laamrani | OCP Group | Through supervisor | High ROI | ❌ Email not sent |
+| OCP Group — RPI consulting via Laamrani | OCP Group | Through supervisor | High ROI | ❌ Email not sent — ⚠️ defense postponed (was June 30, 2026, no new date): do NOT use "defending June 30" / "mid-July 2026" framing in this draft, phrase as ongoing PhD candidate instead |
 | ESA — set job alert | [jobs.esa.int](https://jobs.esa.int) | — | — | ❌ Alert not set |
 
 ---
