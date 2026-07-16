@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-07-15
+date: 2026-07-16
 tags: [knowledge, compiled, notebooklm, wiki]
 summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 ---
@@ -8,7 +8,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Wiki
 
 > **Theme Summary**: Wiki index, concepts, entities, and literature references.
-> **Total Files Compiled**: 499 | **Total Word Count**: ~93771 words
+> **Total Files Compiled**: 499 | **Total Word Count**: ~94032 words
 
 ## 📂 Table of Contents
 
@@ -19,7 +19,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/Literature MOC - M-R.md](#-file-04_knowledge-base-wiki-literature-moc---m-r-md) (~345 words)
 - [04_Knowledge Base/wiki/Literature MOC - R-Z.md](#-file-04_knowledge-base-wiki-literature-moc---r-z-md) (~355 words)
 - [04_Knowledge Base/wiki/Literature MOC.md](#-file-04_knowledge-base-wiki-literature-moc-md) (~120 words)
-- [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~519 words)
+- [04_Knowledge Base/wiki/hot.md](#-file-04_knowledge-base-wiki-hot-md) (~729 words)
 - [04_Knowledge Base/wiki/index.md](#-file-04_knowledge-base-wiki-index-md) (~680 words)
 - [04_Knowledge Base/wiki/MOCs/Automated Mineralogy MOC.md](#-file-04_knowledge-base-wiki-mocs-automated-mineralogy-moc-md) (~310 words)
 - [04_Knowledge Base/wiki/MOCs/Biodiversity MOC.md](#-file-04_knowledge-base-wiki-mocs-biodiversity-moc-md) (~28 words)
@@ -400,7 +400,7 @@ summary: "Optimized compilation of Wiki notes for NotebookLM ingestion."
 - [04_Knowledge Base/wiki/concepts/Benguerir Site-Scale Oxide & Mineral Dominance Mapping.md](#-file-04_knowledge-base-wiki-concepts-benguerir-site-scale-oxide-&-mineral-dominance-mapping-md) (~325 words)
 - [04_Knowledge Base/wiki/concepts/Beni Bousera Metapelites.md](#-file-04_knowledge-base-wiki-concepts-beni-bousera-metapelites-md) (~198 words)
 - [04_Knowledge Base/wiki/concepts/Chapter 1 Cohort Spectral Similarity Metrics.md](#-file-04_knowledge-base-wiki-concepts-chapter-1-cohort-spectral-similarity-metrics-md) (~340 words)
-- [04_Knowledge Base/wiki/concepts/Clay Mineral Identification — XRD-XRF vs Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-clay-mineral-identification-—-xrd-xrf-vs-spectroscopy-md) (~741 words)
+- [04_Knowledge Base/wiki/concepts/Clay Mineral Identification — XRD-XRF vs Spectroscopy.md](#-file-04_knowledge-base-wiki-concepts-clay-mineral-identification-—-xrd-xrf-vs-spectroscopy-md) (~792 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Benguerir Scene HDF5.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-benguerir-scene-hdf5-md) (~249 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA False Color Composition R.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-false-color-composition-r-md) (~263 words)
 - [04_Knowledge Base/wiki/concepts/Code — BGimageR — PRISMA Python Rasterio Display.md](#-file-04_knowledge-base-wiki-concepts-code-—-bgimager-—-prisma-python-rasterio-display-md) (~212 words)
@@ -1125,8 +1125,8 @@ Emails: `elmansour01abdelhak@gmail.com` (job applications — NEVER insitazoult@
 
 ---
 
-## DEFENSE STATUS — ⚠️ NEEDS CONFIRMATION
-Defense was scheduled **June 30, 2026** (framed as "mid-July 2026" to external contacts). Today's date is past that, but **no outcome is recorded in the vault**. Abdelhak: update this line with the result, then update the job trackers ("PhD candidate, defending…" phrasing in drafts must change once defended).
+## DEFENSE STATUS — POSTPONED (as of 2026-07-16)
+Defense was originally scheduled **June 30, 2026** — **it has been postponed, no new date set yet**. Do not use "mid-July 2026" or any defense-imminent framing in outreach/drafts until a new date is confirmed. Abdelhak remains "PhD candidate" (not yet defended) — job/outreach drafts should reflect this, not pre-defense urgency.
 *"Multi-Scale Hyperspectral Remote Sensing for Mineralogical Characterization and Reclamation Monitoring of Phosphate Mine Waste Rocks at Benguerir Mine, Morocco"* — 155 pages. PRISMA + EnMAP. Extra Trees/RF/VCA-FCLS. XRD + XRF validation.
 
 **Source of truth = thesis manuscript ONLY:**
@@ -1137,7 +1137,7 @@ Defense was scheduled **June 30, 2026** (framed as "mid-July 2026" to external c
 ---
 
 ## Active Priorities (post-defense phase)
-1. **Job search** — 23 cold PI emails sent (June 22–24 + July 6), zero replies as of July 8 — normal cold-outreach timing, not a shallow-search problem. Real levers: **OCP via Laamrani** (email still NOT sent per tracker) + patience. VITO EO Services applied May 25. Pixxel permanently ruled out — never resurface. → [[02_Academic & Work/work/active/Postdoc Outreach Dashboard]] | [[02_Academic & Work/work/active/Job Board — Live Tracker]]
+1. **Job search** — 23 cold PI emails sent (June 22–24 + July 6), zero replies as of July 8 — normal cold-outreach timing, not a shallow-search problem. Real levers: **OCP via Laamrani** (email still NOT sent per tracker — tracker now flags that this draft must NOT use "defending June 30"/"mid-July 2026" phrasing, given the postponement) + patience. VITO EO Services applied May 25. Pixxel permanently ruled out — never resurface. → [[02_Academic & Work/work/active/Postdoc Outreach Dashboard]] | [[02_Academic & Work/work/active/Job Board — Live Tracker]]
 2. **Ch.3 paper** — submission planned post-defense (VCA-FCLS + RPI).
 3. **Income now** — money pressure is current, not post-defense: OCP consulting, phddiarymemes sponsorships, domain sales (86 domains, ~$1.5M BIN).
 4. **Outreach rules:** never contact the same person twice (check Dashboard first); no thesis stats/publication counts in cold emails; "mid-July 2026" defense phrasing externally.
@@ -1158,6 +1158,12 @@ Defense was scheduled **June 30, 2026** (framed as "mid-July 2026" to external c
 - **CRITICAL — never write:** "Remote Sensing MDPI" — first-author journals = Sensors MDPI + Minerals MDPI only.
 
 ---
+
+## Updates 2026-07-16
+**Defense postponed.** Confirmed by Abdelhak: the June 30, 2026 thesis defense is postponed, no new date set. `Home.md` countdown widget, `North Star.md` "22 days" framing, and `work/Index.md` urgent slide-prep row were all stale pre-defense artifacts — updated to remove hard countdown/urgency language. Outreach drafts should NOT use "mid-July 2026" defense-imminent phrasing until a new date exists. Audited all 22 already-sent postdoc/industry outreach emails (June 22–July 12) — all hardcode "defending June 30, 2026," but they're historical sent records, not editable/actionable. The one still-unsent, still-relevant draft is **OCP Group via Laamrani** (Job Board — Live Tracker row) — added an explicit warning there against using stale defense-date framing when that email is finally drafted.
+
+## Updates 2026-07-15
+**New wiki concept + diagram:** added [[04_Knowledge Base/wiki/concepts/Clay Mineral Identification — XRD-XRF vs Spectroscopy]] — comparative synthesis of XRD/XRF vs VNIR-SWIR spectroscopy/hyperspectral imaging for clay mineral differentiation (smectite/illite/kaolinite/chlorite/vermiculite diagnostic d-spacings + SWIR bands). Includes a draw.io workflow diagram at `04_Knowledge Base/wiki/assets/Clay Mineral Identification Workflow.drawio` (+ PNG/SVG exports). Committed (e913927) and pushed to origin/main. Standup run confirmed: `Home.md`/`work/Index.md` still stale (dated May–June, pre-defense framing) — not yet refreshed for post-defense phase.
 
 ## Updates 2026-07-11
 **Vault hygiene session:** hot.md refreshed (was stale since June 23, still showed defense-sprint context). CLAUDE.md defense-countdown lines updated. SessionStart/PostCompact hooks wired in `.claude/settings.local.json` so this file auto-loads each session. 12 duplicate standalone skill copies removed (identical to `claude-obsidian` plugin copies at v1.9.2). Entity notes backfilled from concepts/. Note: `memanto` CLI referenced in global CLAUDE.md is not installed on this machine — memory mandate currently unfulfillable.
@@ -12620,8 +12626,8 @@ aliases:
 
 # Clay Mineral Identification — XRD/XRF vs Spectroscopy/Hyperspectral
 
-![[Clay Mineral Identification Workflow.drawio.png]]
-*Workflow: spectroscopy/hyperspectral screening → candidate map → XRD point confirmation + XRF elemental cross-check → confirmed assemblage, plus diagnostic signature and method-comparison tables. Source: [[Clay Mineral Identification Workflow.drawio]] (editable in draw.io) — full path: `04_Knowledge Base/wiki/assets/Clay Mineral Identification Workflow.drawio`.*
+![[Clay Mineralogy Infographic.png]]
+*How the two phyllosilicate sheet architectures (1:1 vs 2:1) build kaolinite, illite, smectite, vermiculite, and chlorite, with XRD treatment response and SWIR diagnostic bands per mineral. d-spacing/treatment behavior follows the standard XRD clay-identification protocol (Moore & Reynolds); SWIR assignments follow Clark et al./USGS spectral library convention — CEC and layer-charge figures are typical literature ranges, not measured values. Full path: `04_Knowledge Base/wiki/assets/Clay Mineralogy Infographic.png`. (A draw.io version of the identification workflow — XRD/XRF vs spectroscopy method comparison — is also kept at `04_Knowledge Base/wiki/assets/Clay Mineral Identification Workflow.drawio` for editable diagram needs.)*
 
 ## Definition
 A comparative synthesis of the four main analytical routes for identifying and differentiating clay minerals (smectite, illite, kaolinite, chlorite, vermiculite): [[X-Ray Diffraction (XRD) in Mineralogy|XRD]] (crystal-structure ground truth), XRF (elemental screening), [[VNIR-SWIR Spectroscopy]] (point spectral diagnostics), and [[Hyperspectral Imaging]] (spatial mapping). No single method is independently conclusive — confident differentiation comes from convergence across methods, not from any one technique alone.
