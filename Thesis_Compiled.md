@@ -8,7 +8,7 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 # Abdelhak EL MANSOUR — Compiled Thesis
 
 > **Theme Summary**: Thesis manuscript, defense prep, and academic research context.
-> **Total Files Compiled**: 29 | **Total Word Count**: ~22964 words
+> **Total Files Compiled**: 30 | **Total Word Count**: ~23149 words
 
 ## 📂 Table of Contents
 
@@ -16,6 +16,7 @@ summary: "Optimized compilation of Thesis notes for NotebookLM ingestion."
 - [02_Academic & Work/thesis/Pipeline_MOC.md](#-file-02_academic-&-work-thesis-pipeline_moc-md) (~232 words)
 - [02_Academic & Work/thesis/Thesis MOC.md](#-file-02_academic-&-work-thesis-thesis-moc-md) (~1554 words)
 - [02_Academic & Work/thesis/Thesis Overview.md](#-file-02_academic-&-work-thesis-thesis-overview-md) (~824 words)
+- [02_Academic & Work/thesis/Thesis Summary Infographic.md](#-file-02_academic-&-work-thesis-thesis-summary-infographic-md) (~185 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-01-12.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-01-12-md) (~206 words)
 - [02_Academic & Work/thesis/Thesis — Supervisor Meeting 2022-03-07.md](#-file-02_academic-&-work-thesis-thesis-—-supervisor-meeting-2022-03-07-md) (~173 words)
 - [02_Academic & Work/thesis/literature-notes/@elmansour2025sensors.md](#-file-02_academic-&-work-thesis-literature-notes-@elmansour2025sensors-md) (~193 words)
@@ -532,6 +533,37 @@ Phosphate mine waste rocks at Benguerir cover vast areas. Traditional lab-based 
 - pyspectra module not found → installed correctly
 - Optimizing memory usage for large hyperspectral arrays
 - Spectral library loader with phosphate filtering
+
+
+
+
+## 📄 File: 02_Academic & Work/thesis/Thesis Summary Infographic.md
+
+---
+tags:
+date: 2026-07-16
+summary: "One-page methodology and findings summary across all three thesis chapters (field → PRISMA → EnMAP), with key metrics per chapter."
+---
+
+
+# Thesis Summary Infographic
+
+Standalone HTML summary of the thesis methodology and key findings, built from [[02_Academic & Work/thesis/Thesis Overview|Thesis Overview]] and [[02_Academic & Work/thesis/Thesis MOC|Thesis MOC]] — all numbers sourced from the thesis manuscript (not conference abstracts).
+
+**Open the page:** `04_Knowledge Base/wiki/assets/Thesis Summary Infographic.html` (open in a browser — Obsidian does not render standalone HTML inline).
+
+Covers:
+- The one-sentence research frame and study site (Benguerir Mine, OCP Group)
+- Methodology ladder across the three scales — Ch.1 field spectroscopy (ASD FieldSpec 4), Ch.2 PRISMA satellite mapping, Ch.3 EnMAP reclamation monitoring
+- Key metrics per chapter: Ch.1 spectral match R²=0.748, Ch.2 BAC=0.60–0.67/AUC>0.95, Ch.3 BAC=0.984±0.031/AUC=1.000/RPI ρ=0.845
+- What the framework adds: multi-scale cross-validation, dual objective (mineralogy + reclamation), RPI as a validated instrument, real large-scale site
+- Defense status note: postponed, no new date (as of 2026-07-16)
+
+## Links
+- [[02_Academic & Work/thesis/Thesis Overview]]
+- [[02_Academic & Work/thesis/Thesis MOC]]
+- [[04_Knowledge Base/wiki/concepts/Reclamation Progress Index]]
+- [[04_Knowledge Base/wiki/concepts/Spectral Unmixing VCA-FCLS]]
 
 
 
