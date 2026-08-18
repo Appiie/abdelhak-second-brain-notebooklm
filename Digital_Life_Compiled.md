@@ -1,6 +1,6 @@
 ---
 generated_by: claude-vault-optimizer
-date: 2026-07-19
+date: 2026-08-18
 tags: [knowledge, compiled, notebooklm, digital_life]
 summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 ---
@@ -24,12 +24,12 @@ summary: "Optimized compilation of Digital_Life notes for NotebookLM ingestion."
 - [03_Digital Life/personal/Who I Am Becoming.md](#-file-03_digital-life-personal-who-i-am-becoming-md) (~602 words)
 - [03_Digital Life/personal/identity/Abdelhak Identity.md](#-file-03_digital-life-personal-identity-abdelhak-identity-md) (~417 words)
 - [03_Digital Life/money/Money Overview.md](#-file-03_digital-life-money-money-overview-md) (~577 words)
+- [03_Digital Life/money/instagram/Instagram Strategy.md](#-file-03_digital-life-money-instagram-instagram-strategy-md) (~371 words)
+- [03_Digital Life/money/instagram/Sponsorship Pipeline.md](#-file-03_digital-life-money-instagram-sponsorship-pipeline-md) (~651 words)
 - [03_Digital Life/money/domaining/Domain Outreach Pipeline.md](#-file-03_digital-life-money-domaining-domain-outreach-pipeline-md) (~155 words)
 - [03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market.md](#-file-03_digital-life-money-domaining-domain-portfolio-analysis-—-top-5-to-market-md) (~1296 words)
 - [03_Digital Life/money/domaining/Domain Portfolio.md](#-file-03_digital-life-money-domaining-domain-portfolio-md) (~928 words)
 - [03_Digital Life/money/domaining/Flashcards — Domains.md](#-file-03_digital-life-money-domaining-flashcards-—-domains-md) (~575 words)
-- [03_Digital Life/money/instagram/Instagram Strategy.md](#-file-03_digital-life-money-instagram-instagram-strategy-md) (~371 words)
-- [03_Digital Life/money/instagram/Sponsorship Pipeline.md](#-file-03_digital-life-money-instagram-sponsorship-pipeline-md) (~651 words)
 
 
 
@@ -1113,6 +1113,201 @@ Typical salaries: ESA YPP ~€4,000-5,000/mo; DLR/VITO postdoc ~€3,500-4,500/m
 
 
 
+## 📄 File: 03_Digital Life/money/instagram/Instagram Strategy.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# Instagram Strategy
+
+## Current Status
+- **Followers:** 70K+ (milestone hit Sep 2025)
+- **Content type:** PhD life, research, memes, academic humor, [[Hyperspectral Imaging|hyperspectral content]]
+- **Audience:** PhD students, academics, researchers, science community
+- **Income strategy:** See [[Money Overview]] · **Sponsorship deals:** See [[Sponsorship Pipeline]]
+
+## Monetization Active
+- Sponsored content (negotiating metrics carefully)
+- Collaboration offers — evaluated selectively
+- Academic service promotions (coupon codes, research tools)
+- Paid collaboration opportunities assessed
+
+## Key Rule I Learned
+Not every collaboration is worth it. I evaluate based on:
+- Relevance to my audience (PhD/research)
+- Payment vs. exposure trade-off
+- Brand authenticity fit
+- Follower impact (does it damage trust?)
+
+## Content Pillars
+1. **PhD Humor** — memes, polls, relatable content (high engagement)
+2. **Research Content** — hyperspectral, geology, PRISMA data (credibility)
+3. **PhD Life** — honest posts about stress, procrastination, wins (human)
+4. **Moroccan Researcher** — identity, Africa in science (differentiated)
+
+## Growth Milestones
+| Milestone | Date | Action |
+|-----------|------|--------|
+| 70K followers | Sep 2025 | Thanked followers publicly |
+| 100K target | 2026 | → unlocks better brand deals |
+
+## Post-Defense Strategy 🎓
+**HUGE opportunity:** Thesis defense = major content moment
+
+Planned posts:
+- [ ] "After X years, I defend my PhD" (build-up)
+- [ ] Defense day photo (suit, university, emotion)
+- [ ] "I am now Dr. Abdelhak EL MANSOUR" announcement
+- [ ] Thread: "What I learned from a PhD in hyperspectral remote sensing"
+- [ ] Reel: funny/real moments from PhD journey
+
+Expected spike: potentially 5K-15K new followers around defense announcement.  
+**Monetize the spike:** have a collaboration lined up to activate in that window.
+
+## Instagram ↔ Research Crossover
+- Post PRISMA satellite images of Benguerir (beautiful visuals)
+- Explain spectral signatures in accessible way
+- "What do mining satellites see?" content
+- Behind-the-scenes of data analysis
+
+## Content Assets
+- [[04_Archives/D-Drive/D-Drive — DESIGNS-STICK]] — 57 original PNG sticker/meme designs on D:\\ (design #1–139, most recent June 2025)
+
+## Collaboration Log
+| Brand/Partner | Offer | Decision | Date | Notes |
+|--------------|-------|----------|------|-------|
+| Paperguide | Paid collab | Evaluated | Last year | Research tool |
+| *(others)* | | | | |
+
+
+
+
+## 📄 File: 03_Digital Life/money/instagram/Sponsorship Pipeline.md
+
+---
+tags:
+created: '2026-06-08'
+---
+
+
+# Instagram Sponsorship Pipeline — phddiarymemes
+
+> 70K+ PhD student followers. Niche: academic pain, productivity, thesis life.
+> Target sponsors: Notion, Overleaf, Grammarly, Coursera, academic publishers, online courses, PhD-adjacent tools.
+> See also: [[Instagram Strategy]] · [[Money Overview]]
+
+---
+
+## Pipeline Overview
+
+| Stage | What it means | Count |
+|-------|--------------|-------|
+| 🟡 Prospecting | Identified — no contact yet | — |
+| 📤 Pitched | DM or email sent | — |
+| 💬 Negotiating | They replied, discussing terms | — |
+| ✅ Confirmed | Deal signed, content scheduled | — |
+| 🎬 Delivered | Post live | — |
+| 💰 Paid | Payment received | — |
+
+---
+
+## Active Deals
+
+| Brand | Stage | Contact | Format | Rate | Notes |
+|-------|-------|---------|--------|------|-------|
+| — | — | — | — | — | Add your first deal here |
+
+---
+
+## Prospect List — High Priority
+
+| Brand | Fit | Why | Contact | Status |
+|-------|-----|-----|---------|--------|
+| [Notion](https://notion.so) | ⭐⭐⭐⭐⭐ | #1 PhD productivity tool | partners@notion.so | ❌ Not contacted |
+| [Overleaf](https://overleaf.com) | ⭐⭐⭐⭐⭐ | Every PhD uses it | marketing@overleaf.com | ❌ Not contacted |
+| [Grammarly](https://grammarly.com) | ⭐⭐⭐⭐ | Thesis writing | creator program | ❌ Not contacted |
+| [Coursera](https://coursera.org) | ⭐⭐⭐⭐ | Skills after PhD | affiliates | ❌ Not contacted |
+| [ResearchRabbit](https://researchrabbit.ai) | ⭐⭐⭐⭐⭐ | Literature review tool | team@researchrabbit.ai | ❌ Not contacted |
+| [Zotero/Paperpile](https://paperpile.com) | ⭐⭐⭐⭐ | Reference managers | marketing | ❌ Not contacted |
+| [Scrivener](https://literatureandlatte.com) | ⭐⭐⭐ | Thesis writing app | partnerships | ❌ Not contacted |
+| [Elsevier/Springer] | ⭐⭐⭐ | Academic publishers | author services | ❌ Not contacted |
+| [iThenticate](https://ithenticate.com) | ⭐⭐⭐⭐ | Plagiarism check | partnerships | ❌ Not contacted |
+| [Canva](https://canva.com) | ⭐⭐⭐ | Poster/figure design | creator marketplace | ❌ Not contacted |
+
+---
+
+## Pricing (Rate Card — Internal Reference)
+
+| Format | Followers range | Your target rate |
+|--------|----------------|-----------------|
+| Story (3 slides) | 70K | €150–250 |
+| Reel (60s) | 70K | €300–500 |
+| Feed post (carousel) | 70K | €200–350 |
+| Story × 3 + feed post | 70K | €400–600 |
+| Monthly partnership | 70K | €800–1,500/mo |
+
+> Rule: never reveal your rate first. Ask "what's your budget for creator partnerships at our scale?" first.
+
+---
+
+## DM Template — Cold Outreach
+
+```
+Hi [Name],
+
+I run @phddiarymemes — 70K+ PhD students who actually laugh at [brand topic].
+My audience is exactly who you want: stressed, tool-hungry academics who trust me.
+
+I'd love to explore a partnership. Do you have a creators program or budget for 
+niche academic pages at this scale?
+
+Happy to share my media kit.
+
+— Abdelhak
+```
+
+---
+
+## Media Kit — What to Include
+- [ ] Follower count + growth chart (last 90 days)
+- [ ] Engagement rate (target: > 3%)
+- [ ] Top 3 performing posts (screenshot)
+- [ ] Audience demographics (age, gender, country — from Instagram Insights)
+- [ ] Past brand collaborations (if any)
+- [ ] Rate card (as above)
+
+---
+
+## Revenue Tracker
+
+| Month | Deals | Revenue | Notes |
+|-------|-------|---------|-------|
+| May 2026 | 0 | €0 | Pipeline just opened |
+
+---
+
+## ManyChat Automation (Set Up Separately)
+
+> Install via manychat.com — Meta-approved, not a ToS risk.
+
+Suggested flows:
+- **"Get my media kit"** — Comment "media kit" → auto-DM with PDF
+- **"Sponsor inquiry"** → Comment "sponsor" or "collab" → auto-DM with rate card + booking link
+- **Story reply** → Auto-reply "Thanks! DM me if you're interested in a collab"
+
+Cost: $14/month (Essential plan) — ROI positive after 1 deal.
+
+---
+
+*Last updated: 2026-05-28*
+*Run weekly review: check pipeline stages, follow up on pitches > 7 days old*
+
+
+
+
 ## 📄 File: 03_Digital Life/money/domaining/Domain Outreach Pipeline.md
 
 ---
@@ -1632,200 +1827,5 @@ What is LTO and is it enabled?::Lease-to-own financing. NOT currently configured
 ---
 
 *Related: [[03_Digital Life/money/domaining/Domain Portfolio|Domain Portfolio]] · [[03_Digital Life/money/domaining/Domain Portfolio Analysis — Top 5 to Market|Top 5 to Market]] · [[03_Digital Life/money/Money Overview|Money Overview]] · [[04_Knowledge Base/AI-Generated/data/Domain Export — Raw CSV Summary|Domain Export — Raw CSV Summary]]*
-
-
-
-
-## 📄 File: 03_Digital Life/money/instagram/Instagram Strategy.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# Instagram Strategy
-
-## Current Status
-- **Followers:** 70K+ (milestone hit Sep 2025)
-- **Content type:** PhD life, research, memes, academic humor, [[Hyperspectral Imaging|hyperspectral content]]
-- **Audience:** PhD students, academics, researchers, science community
-- **Income strategy:** See [[Money Overview]] · **Sponsorship deals:** See [[Sponsorship Pipeline]]
-
-## Monetization Active
-- Sponsored content (negotiating metrics carefully)
-- Collaboration offers — evaluated selectively
-- Academic service promotions (coupon codes, research tools)
-- Paid collaboration opportunities assessed
-
-## Key Rule I Learned
-Not every collaboration is worth it. I evaluate based on:
-- Relevance to my audience (PhD/research)
-- Payment vs. exposure trade-off
-- Brand authenticity fit
-- Follower impact (does it damage trust?)
-
-## Content Pillars
-1. **PhD Humor** — memes, polls, relatable content (high engagement)
-2. **Research Content** — hyperspectral, geology, PRISMA data (credibility)
-3. **PhD Life** — honest posts about stress, procrastination, wins (human)
-4. **Moroccan Researcher** — identity, Africa in science (differentiated)
-
-## Growth Milestones
-| Milestone | Date | Action |
-|-----------|------|--------|
-| 70K followers | Sep 2025 | Thanked followers publicly |
-| 100K target | 2026 | → unlocks better brand deals |
-
-## Post-Defense Strategy 🎓
-**HUGE opportunity:** Thesis defense = major content moment
-
-Planned posts:
-- [ ] "After X years, I defend my PhD" (build-up)
-- [ ] Defense day photo (suit, university, emotion)
-- [ ] "I am now Dr. Abdelhak EL MANSOUR" announcement
-- [ ] Thread: "What I learned from a PhD in hyperspectral remote sensing"
-- [ ] Reel: funny/real moments from PhD journey
-
-Expected spike: potentially 5K-15K new followers around defense announcement.  
-**Monetize the spike:** have a collaboration lined up to activate in that window.
-
-## Instagram ↔ Research Crossover
-- Post PRISMA satellite images of Benguerir (beautiful visuals)
-- Explain spectral signatures in accessible way
-- "What do mining satellites see?" content
-- Behind-the-scenes of data analysis
-
-## Content Assets
-- [[04_Archives/D-Drive/D-Drive — DESIGNS-STICK]] — 57 original PNG sticker/meme designs on D:\\ (design #1–139, most recent June 2025)
-
-## Collaboration Log
-| Brand/Partner | Offer | Decision | Date | Notes |
-|--------------|-------|----------|------|-------|
-| Paperguide | Paid collab | Evaluated | Last year | Research tool |
-| *(others)* | | | | |
-
-
-
-
-## 📄 File: 03_Digital Life/money/instagram/Sponsorship Pipeline.md
-
----
-tags:
-created: '2026-06-08'
----
-
-
-# Instagram Sponsorship Pipeline — phddiarymemes
-
-> 70K+ PhD student followers. Niche: academic pain, productivity, thesis life.
-> Target sponsors: Notion, Overleaf, Grammarly, Coursera, academic publishers, online courses, PhD-adjacent tools.
-> See also: [[Instagram Strategy]] · [[Money Overview]]
-
----
-
-## Pipeline Overview
-
-| Stage | What it means | Count |
-|-------|--------------|-------|
-| 🟡 Prospecting | Identified — no contact yet | — |
-| 📤 Pitched | DM or email sent | — |
-| 💬 Negotiating | They replied, discussing terms | — |
-| ✅ Confirmed | Deal signed, content scheduled | — |
-| 🎬 Delivered | Post live | — |
-| 💰 Paid | Payment received | — |
-
----
-
-## Active Deals
-
-| Brand | Stage | Contact | Format | Rate | Notes |
-|-------|-------|---------|--------|------|-------|
-| — | — | — | — | — | Add your first deal here |
-
----
-
-## Prospect List — High Priority
-
-| Brand | Fit | Why | Contact | Status |
-|-------|-----|-----|---------|--------|
-| [Notion](https://notion.so) | ⭐⭐⭐⭐⭐ | #1 PhD productivity tool | partners@notion.so | ❌ Not contacted |
-| [Overleaf](https://overleaf.com) | ⭐⭐⭐⭐⭐ | Every PhD uses it | marketing@overleaf.com | ❌ Not contacted |
-| [Grammarly](https://grammarly.com) | ⭐⭐⭐⭐ | Thesis writing | creator program | ❌ Not contacted |
-| [Coursera](https://coursera.org) | ⭐⭐⭐⭐ | Skills after PhD | affiliates | ❌ Not contacted |
-| [ResearchRabbit](https://researchrabbit.ai) | ⭐⭐⭐⭐⭐ | Literature review tool | team@researchrabbit.ai | ❌ Not contacted |
-| [Zotero/Paperpile](https://paperpile.com) | ⭐⭐⭐⭐ | Reference managers | marketing | ❌ Not contacted |
-| [Scrivener](https://literatureandlatte.com) | ⭐⭐⭐ | Thesis writing app | partnerships | ❌ Not contacted |
-| [Elsevier/Springer] | ⭐⭐⭐ | Academic publishers | author services | ❌ Not contacted |
-| [iThenticate](https://ithenticate.com) | ⭐⭐⭐⭐ | Plagiarism check | partnerships | ❌ Not contacted |
-| [Canva](https://canva.com) | ⭐⭐⭐ | Poster/figure design | creator marketplace | ❌ Not contacted |
-
----
-
-## Pricing (Rate Card — Internal Reference)
-
-| Format | Followers range | Your target rate |
-|--------|----------------|-----------------|
-| Story (3 slides) | 70K | €150–250 |
-| Reel (60s) | 70K | €300–500 |
-| Feed post (carousel) | 70K | €200–350 |
-| Story × 3 + feed post | 70K | €400–600 |
-| Monthly partnership | 70K | €800–1,500/mo |
-
-> Rule: never reveal your rate first. Ask "what's your budget for creator partnerships at our scale?" first.
-
----
-
-## DM Template — Cold Outreach
-
-```
-Hi [Name],
-
-I run @phddiarymemes — 70K+ PhD students who actually laugh at [brand topic].
-My audience is exactly who you want: stressed, tool-hungry academics who trust me.
-
-I'd love to explore a partnership. Do you have a creators program or budget for 
-niche academic pages at this scale?
-
-Happy to share my media kit.
-
-— Abdelhak
-```
-
----
-
-## Media Kit — What to Include
-- [ ] Follower count + growth chart (last 90 days)
-- [ ] Engagement rate (target: > 3%)
-- [ ] Top 3 performing posts (screenshot)
-- [ ] Audience demographics (age, gender, country — from Instagram Insights)
-- [ ] Past brand collaborations (if any)
-- [ ] Rate card (as above)
-
----
-
-## Revenue Tracker
-
-| Month | Deals | Revenue | Notes |
-|-------|-------|---------|-------|
-| May 2026 | 0 | €0 | Pipeline just opened |
-
----
-
-## ManyChat Automation (Set Up Separately)
-
-> Install via manychat.com — Meta-approved, not a ToS risk.
-
-Suggested flows:
-- **"Get my media kit"** — Comment "media kit" → auto-DM with PDF
-- **"Sponsor inquiry"** → Comment "sponsor" or "collab" → auto-DM with rate card + booking link
-- **Story reply** → Auto-reply "Thanks! DM me if you're interested in a collab"
-
-Cost: $14/month (Essential plan) — ROI positive after 1 deal.
-
----
-
-*Last updated: 2026-05-28*
-*Run weekly review: check pipeline stages, follow up on pitches > 7 days old*
 
 
